@@ -41,9 +41,11 @@
 - **Concept 2**: Applying an autoencoder to images
 - **Concept 3**: Denoising autoencoder
 
+
 ## [Day 8] - Reinforcement learning
 
 - **Concept 1**: Reinforcement learning
+
 
 ## [Day 9] - Convolutional Neural Networks
 
@@ -51,11 +53,13 @@
 - **Concept 2**: Convolutions
 - **Concept 3**: Convolutional neural network
 
+
 ## [Day 10] - Recurrent Neural Network
 
 - **Concept 1**: Loading timeseries data
 - **Concept 2**: Recurrent neural networks
 - **Concept 3**: Applying RNN to real-world data for timeseries prediction
+
 
 ## [Day 11] - Seq2Seq Model
 
