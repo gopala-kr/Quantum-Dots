@@ -1,4 +1,4 @@
 
-> 7 day sprint
+> 7 day sprint with AI problems
 
 
