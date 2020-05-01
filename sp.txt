@@ -1,3 +1,0 @@
-Day 1: Reaserch on Problem
-Day 2: Reaserch on Dataset
-Day 3: Choose any platform(GCP/AWS/AZURE/IBM Watson)
