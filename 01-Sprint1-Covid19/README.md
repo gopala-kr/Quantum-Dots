@@ -1,2 +1,2 @@
 - [NASA, Partners Launch Virtual Hackathon to Develop COVID-19 Solutions](https://www.nasa.gov/press-release/nasa-partners-launch-virtual-hackathon-to-develop-covid-19-solutions)
-- [DJI Phantom 4 PRO Professional Drone, Hobby RC Quadcopter & Multirotor, White, CP.PT.000488](https://techcrunch.com/2020/04/30/nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/)
+- [nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/](https://techcrunch.com/2020/04/30/nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/)
