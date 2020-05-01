@@ -1,4 +1,4 @@
 
-> 7 day sprint with AI problems
+- [[Week-1](https://github.com/gopala-kr/Qunatum-Dots/tree/master/01-Covid19)] - 07/05/2020 : Covid19 BOT (Chat & Voice)
 
 
