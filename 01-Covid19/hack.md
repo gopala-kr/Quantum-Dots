@@ -1,6 +1,5 @@
 --------------
-- [Corona to COVID: How Google’s ‘corona’ results page has evolved](https://searchengineland.com/corona-to-covid-how-googles-corona-results-page-has-evolved-331245)
-- [google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus](https://www.deccanherald.com/specials/covid-19-google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus-825064.html)
+
 - [NASA, Partners Launch Virtual Hackathon to Develop COVID-19 Solutions](https://www.nasa.gov/press-release/nasa-partners-launch-virtual-hackathon-to-develop-covid-19-solutions)
 - [nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/](https://techcrunch.com/2020/04/30/nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/)
 - [Virtual hackathons can help you solve coronavirus problems without leaving your home](https://theconversation.com/virtual-hackathons-can-help-you-solve-coronavirus-problems-without-leaving-your-home-136956)
@@ -13,6 +12,18 @@
 - [WSJ: Hackathons Target Coronavirus](https://www.wsj.com/articles/hackathons-target-coronavirus-11586424603)
 - [TED: a_global_hackathon_to_take_on_the_coronavirus_pandemic](https://www.ted.com/talks/marko_russiver_a_global_hackathon_to_take_on_the_coronavirus_pandemic#t-9395)
 - [CODE19 hackathon begins: 6,000 tech minds to innovate against Coronavirus](https://www.indiatoday.in/education-today/news/story/code19-hackathon-begins-6-000-tech-minds-to-innovate-against-coronavirus-1665944-2020-04-11)
+
+----------
+
+Contact Tracing
+
+- [Corona to COVID: How Google’s ‘corona’ results page has evolved](https://searchengineland.com/corona-to-covid-how-googles-corona-results-page-has-evolved-331245)
+- [google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus](https://www.deccanherald.com/specials/covid-19-google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus-825064.html)
+- [Contact Tracing for COVID-19 Cases](https://ncdc.gov.in/WriteReadData/l892s/13392812311586772293.pdf)
+- [Nature: Show evidence that apps for COVID-19 contact-tracing are secure and effective](https://www.nature.com/articles/d41586-020-01264-1)
+- [Ministry of Health: Contact tracing for COVID-19](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/contact-tracing-covid-19)
+- [To Open the US Economy, We Need a Contact Tracing Workforce of 180,000](https://medium.com/@ASlavitt/to-open-the-us-economy-we-need-a-contact-tracing-workforce-of-180-000-82ebad460a2a)
+
 -----------------------
 
 Covid-19 : http://biomed-sanity.com/
