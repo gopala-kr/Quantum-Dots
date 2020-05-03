@@ -18,6 +18,7 @@
 Contact Tracing
 
 - [Apple and Google release first seed of COVID-19 exposure notification API for contact tracing app developers](https://techcrunch.com/2020/04/29/apple-and-google-release-first-seed-of-covid-19-exposure-notification-api-for-contact-tracing-app-developers/)
+- [Beta APIs Available: Google and Apple announce the Contact Tracing API and Bluetooth spec to warn users of COVID-19](https://www.xda-developers.com/google-apple-contact-tracing-coronavirus/)
 - [Corona to COVID: How Google’s ‘corona’ results page has evolved](https://searchengineland.com/corona-to-covid-how-googles-corona-results-page-has-evolved-331245)
 - [google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus](https://www.deccanherald.com/specials/covid-19-google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus-825064.html)
 - [Contact Tracing for COVID-19 Cases](https://ncdc.gov.in/WriteReadData/l892s/13392812311586772293.pdf)
