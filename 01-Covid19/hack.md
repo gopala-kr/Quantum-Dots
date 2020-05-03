@@ -17,6 +17,7 @@
 
 Contact Tracing
 
+- [Apple and Google release first seed of COVID-19 exposure notification API for contact tracing app developers](https://techcrunch.com/2020/04/29/apple-and-google-release-first-seed-of-covid-19-exposure-notification-api-for-contact-tracing-app-developers/)
 - [Corona to COVID: How Google’s ‘corona’ results page has evolved](https://searchengineland.com/corona-to-covid-how-googles-corona-results-page-has-evolved-331245)
 - [google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus](https://www.deccanherald.com/specials/covid-19-google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus-825064.html)
 - [Contact Tracing for COVID-19 Cases](https://ncdc.gov.in/WriteReadData/l892s/13392812311586772293.pdf)
@@ -24,6 +25,8 @@ Contact Tracing
 - [Ministry of Health: Contact tracing for COVID-19](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/contact-tracing-covid-19)
 - [To Open the US Economy, We Need a Contact Tracing Workforce of 180,000](https://medium.com/@ASlavitt/to-open-the-us-economy-we-need-a-contact-tracing-workforce-of-180-000-82ebad460a2a)
 - [Apple And Google Launch First Phase Of COVID-19 Contact Tracing. Will Americans Use It?](https://www.forbes.com/sites/rebeccabellan/2020/04/30/apple-and-google-launch-first-phase-of-covid-19-contact-tracing-will-americans-use-it/#3505da7d60ae)
+- [first-version-of-apple-and-googles-contact-tracing-api-should-be-available-to-developers-next-week](https://techcrunch.com/2020/04/23/first-version-of-apple-and-googles-contact-tracing-api-should-be-available-to-developers-next-week/)
+
 
 -----------------------
 
