@@ -1,4 +1,5 @@
 - [Overview_of_COVID-19_Contact_Tracing_Using_BLE](https://www.blog.google/documents/57/Overview_of_COVID-19_Contact_Tracing_Using_BLE.pdf)
+- [Android Contact Tracing API](https://www.apple.com/covid19/contacttracing)
 - [Contact Tracing using Apple & Goolge API's](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851)
 - [SafeTrace: Privacy-Preserving Contact Tracing for COVID-19](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) [gh:SafeTrace](https://github.com/enigmampc/SafeTrace)
 - [Contact Tracing: The Most Amazing And Scariest Technology of The 21st Century](https://medium.com/asecuritysite-when-bob-met-alice/contact-tracing-the-most-amazing-and-scariest-technology-of-the-21st-century-9fb86d7869e5)
