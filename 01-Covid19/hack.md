@@ -23,6 +23,7 @@ Contact Tracing
 - [Nature: Show evidence that apps for COVID-19 contact-tracing are secure and effective](https://www.nature.com/articles/d41586-020-01264-1)
 - [Ministry of Health: Contact tracing for COVID-19](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/contact-tracing-covid-19)
 - [To Open the US Economy, We Need a Contact Tracing Workforce of 180,000](https://medium.com/@ASlavitt/to-open-the-us-economy-we-need-a-contact-tracing-workforce-of-180-000-82ebad460a2a)
+- [Apple And Google Launch First Phase Of COVID-19 Contact Tracing. Will Americans Use It?](https://www.forbes.com/sites/rebeccabellan/2020/04/30/apple-and-google-launch-first-phase-of-covid-19-contact-tracing-will-americans-use-it/#3505da7d60ae)
 
 -----------------------
 
