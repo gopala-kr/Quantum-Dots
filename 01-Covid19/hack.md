@@ -1,4 +1,6 @@
 --------------
+- [Corona to COVID: How Google’s ‘corona’ results page has evolved](https://searchengineland.com/corona-to-covid-how-googles-corona-results-page-has-evolved-331245)
+- [google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus](https://www.deccanherald.com/specials/covid-19-google-india-brings-valuable-changes-to-maps-search-youtube-to-fight-virus-825064.html)
 - [NASA, Partners Launch Virtual Hackathon to Develop COVID-19 Solutions](https://www.nasa.gov/press-release/nasa-partners-launch-virtual-hackathon-to-develop-covid-19-solutions)
 - [nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/](https://techcrunch.com/2020/04/30/nasa-esa-and-jaxa-launch-virtual-hackathon-for-covid-19-solutions/)
 - [Virtual hackathons can help you solve coronavirus problems without leaving your home](https://theconversation.com/virtual-hackathons-can-help-you-solve-coronavirus-problems-without-leaving-your-home-136956)
