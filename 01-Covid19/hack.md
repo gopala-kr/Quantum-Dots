@@ -83,6 +83,7 @@ Covid-19 : http://biomed-sanity.com/
 - [covid-19-open-source-ventilators](https://github.com/bneiluj/covid-19-open-source-ventilators) :star:
 - [covid_19_jhu_data_web_scrap_and_cleaning](https://github.com/imdevskp/covid_19_jhu_data_web_scrap_and_cleaning)
 - [austrianredcross/stopp-corona-ios](https://github.com/austrianredcross/stopp-corona-ios) :star:
-
+- [opentrace-community](https://github.com/opentrace-community)
+- [covid-19_instant_tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
 
 ----------
