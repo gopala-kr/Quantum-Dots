@@ -1,1 +1,2 @@
 - [Contact Tracing using Apple & Goolge API's](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851)
+- [SafeTrace: Privacy-Preserving Contact Tracing for COVID-19](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) [gh:SafeTrace](https://github.com/enigmampc/SafeTrace)
