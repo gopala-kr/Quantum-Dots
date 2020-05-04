@@ -2,12 +2,14 @@
 
 Front Ends/Integrations
 
-- Web Chat/Voice Interface
+- Web Chat/Voice Interface : [https://kovid19helpline-dxyumt.web.app/] - currently it answeres simple QA - confimed cases, death rates,  symptoms, risk, yet to be improved
+
 - Mobile Chat App
 - Google Assistant
 - Google Home
-- SMS BOT & IVR
-- Whatsapp
+- SMS 
+- IVR - [+1 513-286-2102] - prefered tollfree apps like hangout
+- Whatsapp 
 - Telegram
 
 ------------
