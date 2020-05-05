@@ -85,5 +85,7 @@ Covid-19 : http://biomed-sanity.com/
 - [austrianredcross/stopp-corona-ios](https://github.com/austrianredcross/stopp-corona-ios) :star:
 - [opentrace-community](https://github.com/opentrace-community)
 - [covid-19_instant_tracing](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+- [Datos-COVID19](https://github.com/MinCiencia/Datos-COVID19)
+- [covid19-severity-prediction](https://github.com/Yu-Group/covid19-severity-prediction) :star:
 
 ----------
