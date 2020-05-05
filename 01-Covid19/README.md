@@ -9,7 +9,7 @@ Front Ends/Integrations
 - Google Home
 - SMS 
 - IVR - [+1 513-286-2102] - preferred tollfree apps like hangout
-- Whatsapp  - [+1 415 523 8886] - this is in twilio sandbox; starter : join <sandbox name> => join observe-smile
+- Whatsapp  - [+1 415 523 8886] - this is in twilio sandbox; starter : join < sandbox name > => join observe-smile
 - Telegram - in telegram app search for user_id/name @Kovid19Helpline_bot, it was very funny to create this bot.
 
 ------------
