@@ -11,7 +11,7 @@ Frontends/Integrations
 - **IVR** : ```+1 513-286-2102``` - preferred tollfree apps like hangout
 - **Whatsapp**  : ```+1 415 523 8886``` - integrated via 3rd party SMS service provider [twilio](https://www.twilio.com/), this is currenlty in twilio sandbox; ```starter : join < sandbox name > => join observe-smile```  :: *Note: [Whatsapp Business API](https://www.whatsapp.com/business/api) is restricted for public & only allowed for large & Medium businesses, their approval process is also lengthy and time consuming*
 - **Telegram** - in telegram app search for user_id/name ```@Kovid19Helpline_bot```, it was very funny to create this bot.
-- **FB Messenger** - [[FB_page](https://www.facebook.com/Covid19-Helpdesk-Agent-103032624742098)], Messenger bot name: ```@Kovid19Helpline'''
+- **FB Messenger** - [[FB_page](https://www.facebook.com/Covid19-Helpdesk-Agent-103032624742098)], Messenger bot name: ```@Kovid19Helpline```
 
 ------------
 
@@ -24,3 +24,23 @@ Features
 - Push Notifications
 
 -----------------------
+Tools/Tech used
+
+All techstack is from GCP.
+
+1. App Engine
+2. Datastore & Firestore
+3. Firebase
+4. AI Platform
+5. Bigquery & Bigquery ML
+6. Dialogflow
+7. Dialogflow Integrations
+8. Google Actions
+9. vue.js
+10. node.js
+11. ngrock
+12. Google Cloud ML API's
+13. Google Maps Places API
+14. Webpack/babel
+
+--------------------
