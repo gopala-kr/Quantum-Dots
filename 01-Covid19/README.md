@@ -26,21 +26,21 @@ Features
 -----------------------
 Tools/Tech used
 
-All techstack is from GCP.
+Most of the techstack is from GCP.
 
-1. App Engine
-2. Datastore & Firestore
-3. Firebase
-4. AI Platform
-5. Bigquery & Bigquery ML
-6. Dialogflow
-7. Dialogflow Integrations
-8. Google Actions
-9. vue.js
-10. node.js
-11. ngrock
-12. Google Cloud ML API's
-13. Google Maps Places API
-14. Webpack/babel
+* App Engine
+* Datastore & Firestore
+* Firebase
+* AI Platform
+* Bigquery & Bigquery ML
+* Dialogflow
+* Dialogflow Integrations
+* Google Actions
+* vue.js
+* node.js & express.js
+* ngrock
+* Google Cloud ML API's
+* Google Maps Places API
+* Webpack/babel
 
 --------------------
