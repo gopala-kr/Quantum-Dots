@@ -28,19 +28,26 @@ Tools/Tech used
 
 Most of the techstack is from GCP.
 
-* App Engine
-* Datastore & Firestore
-* Firebase
-* AI Platform
-* Bigquery & Bigquery ML
-* Dialogflow
-* Dialogflow Integrations
-* Google Actions
-* vue.js
-* node.js & express.js
-* ngrock
-* Google Cloud ML API's
-* Google Maps Places API
-* Webpack/babel
+       - App Engine
+       - Cloud Function
+       - Datastore & Firestore
+       - Firebase
+       - AI Platform
+       - Bigquery & Bigquery ML
+       - Dialogflow
+       - Dialogflow Integrations
+       - Google Actions
+       - vue.js
+       - nodejs & expressjs
+       - Reactjs
+       - ngrock
+       - Google Cloud ML API's
+       - Google Maps Places API
+       - Webpack/babel
 
 --------------------
+high level flow
+
+![tech-flow](https://github.com/gopala-kr/Qunatum-Dots/blob/master/01-Covid19/res/tech-flow.jpg)
+
+----------------
