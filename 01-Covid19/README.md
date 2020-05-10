@@ -28,6 +28,8 @@ Tools/Tech used
 
 Most of the techstack is from GCP.
 
+Codebase : https://github.com/QuantumSquares/wk1
+
        - App Engine
        - Cloud Function
        - Datastore & Firestore
@@ -39,7 +41,7 @@ Most of the techstack is from GCP.
        - Google Actions
        - vue.js
        - nodejs & expressjs
-       - Reactjs
+       - react-native
        - ngrock
        - Google Cloud ML API's
        - Google Maps Places API
