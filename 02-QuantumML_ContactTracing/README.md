@@ -2,6 +2,8 @@
 Explore Dwave Quantum Compute Application for Covid19/Pandemic Issues
  
 https://www.dwavesys.com/quantum-computing
+
+https://www.dwavesys.com/take-leap
  
  -----------------
 Contact Tracing App - Mobile App
