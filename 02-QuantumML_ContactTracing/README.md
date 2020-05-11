@@ -1,9 +1,11 @@
- --------------
- 1.  Explore Dwave Quantum Compute Application for Covid19/Pandemic Issues
+--------------
+Explore Dwave Quantum Compute Application for Covid19/Pandemic Issues
+ 
+https://www.dwavesys.com/quantum-computing
  
  -----------------
- 2.  Contact Tracing App - Mobile App
+Contact Tracing App - Mobile App
  
- Google/Apple API - https://www.apple.com/covid19/contacttracing
+Google/Apple API - https://www.apple.com/covid19/contacttracing
  
  ---------------
