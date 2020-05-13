@@ -1,7 +1,10 @@
 -------------
 - [quantumplayground](http://www.quantumplayground.net/)
-
+- [Liquid](http://stationq.github.io/Liquid/)
 -------------
  - [https://qcs.rigetti.com/](https://qcs.rigetti.com/)
- - [IBM Qunatum Experience](https://www.ibm.com/quantum-computing/)
+ - [IBM Qunatum Experience: https://quantum-computing.ibm.com/](https://www.ibm.com/quantum-computing/)
+ - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/)
 -------------
+- [Quantum Computing Open Source Projects](https://awesomeopensource.com/projects/quantum-computing)
+---------
