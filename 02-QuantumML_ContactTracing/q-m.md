@@ -15,11 +15,11 @@ computing](https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-4
 -----------
 ![quantom](https://industry40marketresearch.com/wp-content/uploads/2017/04/quantom-pic2-1.png)
 --------
-![]()
+![Quantum-Report/Figure1](https://www.ibm.com/thought-leadership/institute-business-value/static/images/Quantum-Report/Figure1.svg)
 --------
-![]()
+![uantum-Report/Figure2](https://www.ibm.com/thought-leadership/institute-business-value/static/images/Quantum-Report/Figure2.svg)
 --------
-![]()
+![Figure3](https://www.ibm.com/thought-leadership/institute-business-value/static/images/Quantum-Report/Figure3.svg)
 --------
 ![]()
 --------
