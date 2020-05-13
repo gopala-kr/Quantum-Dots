@@ -9,9 +9,9 @@
 ----------
 ![thecomputerengineering](https://rh6stzxdcl1wf9gj1fkj14uc-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Figure-1-thecomputerengineering-stack.png)
 ----------
-![]()
+![images](https://www.nap.edu/openbook/25196/xhtml/images/img-170.jpg)
 ----------
-![]()
+![akamaized](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE46jxy?ver=cbf3&q=90&m=6&h=431&w=767&b=%23FFFFFFFF&l=f&o=t&aim=true)
 ----------
 ![]()
 ----------
