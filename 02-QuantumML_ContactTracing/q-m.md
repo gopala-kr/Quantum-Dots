@@ -10,7 +10,7 @@ provides view into future of
 computing](https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-45/Accenture-Innovating-Quantum-Computing-Novo.pdf)
 - [Coming soon to your business: Quantum computing](https://www.ibm.com/thought-leadership/institute-business-value/report/quantumstrategy)
 - [PWC Report: Quantum leap](https://www.pwc.com/m1/en/world-government-summit/documents/wgs-quantum-leap.pdf)
-- []()
+- [Commercial_Prospects_for_Quantum_Computing](http://qutip.org/news/Commercial_Prospects_for_Quantum_Computing_Dec_2016.pdf)
 - []()
 -----------
 ![quantom](https://industry40marketresearch.com/wp-content/uploads/2017/04/quantom-pic2-1.png)
@@ -21,9 +21,9 @@ computing](https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-4
 --------
 ![Figure3](https://www.ibm.com/thought-leadership/institute-business-value/static/images/Quantum-Report/Figure3.svg)
 --------
-![]()
+![tbr_quantum_computing_timeline](https://tbri.com/wp-content/uploads/2019/05/tbr_quantum_computing_timeline-1024x512.png)
 --------
-![]()
+![uq2DHKrfzVE98F3Qj3dS98yLZozYnix5YI](https://assets.weforum.org/editor/V00SqACn-uq2DHKrfzVE98F3Qj3dS98yLZozYnix5YI.jpg)
 --------
 ![]()
 --------
