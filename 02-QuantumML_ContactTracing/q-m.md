@@ -8,8 +8,8 @@ Quantum Computing
 Enterprise experimentation
 provides view into future of
 computing](https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-45/Accenture-Innovating-Quantum-Computing-Novo.pdf)
-- []()
-- []()
+- [Coming soon to your business: Quantum computing](https://www.ibm.com/thought-leadership/institute-business-value/report/quantumstrategy)
+- [PWC Report: Quantum leap](https://www.pwc.com/m1/en/world-government-summit/documents/wgs-quantum-leap.pdf)
 - []()
 - []()
 -----------
