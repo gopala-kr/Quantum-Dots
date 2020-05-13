@@ -1,0 +1,8 @@
+- [Quantum Computing: Technology, Market and Ecosystem Overview](https://www.slideshare.net/raffaele.mauro/quantum-computing-technology-market-and-ecosystem-overview)
+- [Quantum Computing progress pedictions - 2019: ](https://www2.deloitte.com/content/dam/Deloitte/pe/Documents/technology-media-telecommunications/Quantum%20computers.pdf) :star:
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
