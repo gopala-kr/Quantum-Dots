@@ -1,7 +1,9 @@
------------
-![QuantumComputingUpdates_BorderNoFooter](https://cloudblogs.microsoft.com/uploads/prod/sites/7/2018/09/QuantumComputingUpdates_BorderNoFooter-5baa36657fa40.png)
+
 ------------
 ![DulaWl0UcAEDbPv](https://pbs.twimg.com/media/DulaWl0UcAEDbPv.jpg:large)
+-----------
+![QuantumComputingUpdates_BorderNoFooter](https://cloudblogs.microsoft.com/uploads/prod/sites/7/2018/09/QuantumComputingUpdates_BorderNoFooter-5baa36657fa40.png)
+
 ----------
 ![NAS_Quantum_Milestones](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/NAS_Quantum_Milestones.png)
 ----------
