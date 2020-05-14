@@ -11,10 +11,9 @@
 - [https://pennylane.ai/](https://pennylane.ai/)
 - [how-mature-is-the-tensorflow-quantum-library](https://quantumcomputing.stackexchange.com/questions/11533/how-mature-is-the-tensorflow-quantum-library)
 - [TensorFlow Quantum basic tutorial explained with supplementary](https://medium.com/mdr-inc/tensorflow-quantum-basic-tutorial-explained-with-supplementary-2f69011036c0)
+
+------------
+- [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf)
+
 ----------------------
-
-
-![G6LjCGNR4LgJZMG0lY1xqQ](https://miro.medium.com/max/1400/1*G6LjCGNR4LgJZMG0lY1xqQ.jpeg)
-
-
 -------------------
