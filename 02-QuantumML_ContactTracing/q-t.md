@@ -1,4 +1,6 @@
 -----------
+![QuantumComputingUpdates_BorderNoFooter](https://cloudblogs.microsoft.com/uploads/prod/sites/7/2018/09/QuantumComputingUpdates_BorderNoFooter-5baa36657fa40.png)
+------------
 ![DulaWl0UcAEDbPv](https://pbs.twimg.com/media/DulaWl0UcAEDbPv.jpg:large)
 ----------
 ![NAS_Quantum_Milestones](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/NAS_Quantum_Milestones.png)
@@ -23,4 +25,19 @@
 ----------
 ![akamaized](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE46jxy?ver=cbf3&q=90&m=6&h=431&w=767&b=%23FFFFFFFF&l=f&o=t&aim=true)
 ----------
-
+![bundles](https://www.researchgate.net/publication/332553779/figure/fig2/AS:750332074274819@1555904515470/OpenQASM-program-example-package-operations-into-layered-bundles.ppm)
+---------
+![41586_2017_Article_BFnature23459_Fig1_HTML](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature23459/MediaObjects/41586_2017_Article_BFnature23459_Fig1_HTML.jpg)
+----------
+![G6LjCGNR4LgJZMG0lY1xqQ](https://miro.medium.com/max/1400/1*G6LjCGNR4LgJZMG0lY1xqQ.jpeg)
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
