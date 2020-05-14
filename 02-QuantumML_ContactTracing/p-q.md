@@ -6,5 +6,6 @@
  - [IBM Qunatum Experience: https://quantum-computing.ibm.com/](https://www.ibm.com/quantum-computing/)
  - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/)
 -------------
+- [quantumcomputingreport](https://quantumcomputingreport.com/)
 - [Quantum Computing Open Source Projects](https://awesomeopensource.com/projects/quantum-computing)
 ---------
