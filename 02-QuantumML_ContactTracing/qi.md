@@ -1,4 +1,6 @@
 ----------
+![Quantum-Computing-Technologies-May-6-2020](https://secureservercdn.net/166.62.111.84/80b.bf1.myftpupload.com/wp-content/uploads/2020/05/Quantum-Computing-Technologies-May-6-2020.png)
+--------------
 ![jAvz6HU6VLNAdEhy](https://miro.medium.com/max/2356/0*jAvz6HU6VLNAdEhy)
 ------------
 ![HzbyyuY05f1PfHt01jIAwg](https://cdn-images-1.medium.com/max/1600/1*HzbyyuY05f1PfHt01jIAwg.jpeg)
