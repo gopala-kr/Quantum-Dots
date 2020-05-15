@@ -27,6 +27,11 @@
 ![QCA](https://github.com/gopala-kr/Quantum-Dots/blob/master/01-Covid19/res/QCA.png)
 --------------
 ![DulaWl0UcAEDbPv](https://pbs.twimg.com/media/DulaWl0UcAEDbPv.jpg:large)
+
+-----------
+![Figure1](https://github.com/gopala-kr/Quantum-Dots/blob/master/01-Covid19/res/3-Figure1-1.png)
+------
+![Figure4](https://github.com/gopala-kr/Quantum-Dots/blob/master/01-Covid19/res/10-Figure4-1.png)
 -----------
 ![QuantumComputingUpdates_BorderNoFooter](https://cloudblogs.microsoft.com/uploads/prod/sites/7/2018/09/QuantumComputingUpdates_BorderNoFooter-5baa36657fa40.png)
 
