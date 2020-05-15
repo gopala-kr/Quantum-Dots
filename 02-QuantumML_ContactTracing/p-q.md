@@ -7,10 +7,12 @@ Accessible:
 
  - [Dwave Quantum Cloud: https://www.dwavesys.com/take-leap](https://www.dwavesys.com/take-leap) 
  - [Rigetti Quantum Cloud: https://qcs.rigetti.com/](https://qcs.rigetti.com/)
- - [IBM Quaatum Experience: https://quantum-computing.ibm.com/](https://www.ibm.com/quantum-computing/)
- - [Azure Quantum Cloud](https://azure.microsoft.com/en-us/services/quantum/)
+ - [IBM Quantum Experience: https://quantum-computing.ibm.com/](https://www.ibm.com/quantum-computing/)
+ - [Azure Quantum Cloud: https://azure.microsoft.com/en-us/services/quantum/)](https://azure.microsoft.com/en-us/services/quantum/)
  - [Amazon Quantum Braket: https://aws.amazon.com/braket/](https://aws.amazon.com/braket/)
  - [Alibaba Quantum Cloud: https://damo.alibaba.com/labs/quantum](https://damo.alibaba.com/labs/quantum)
+ - [Q-CTRL: https://q-ctrl.com/](https://q-ctrl.com/)
+ - [1QBIT: https://1qbit.com/](https://1qbit.com/)
  
 -------------
 - [Q-learn](https://github.com/cristicmf/Q-learn)
