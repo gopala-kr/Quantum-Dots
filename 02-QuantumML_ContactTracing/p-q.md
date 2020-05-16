@@ -1,6 +1,7 @@
 -------------
 - [quantumplayground](http://www.quantumplayground.net/)
 - [Liquid](http://stationq.github.io/Liquid/)
+- [List of QC simulators](https://www.quantiki.org/wiki/list-qc-simulators)
 -------------
 
 Accessible:
