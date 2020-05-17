@@ -54,3 +54,15 @@ Accessible:
 - [quantum-computing-with-amazon-braket](https://www.slideshare.net/AmazonWebServices/quantum-computing-with-amazon-braket)
 
 ----------
+
+- [D-Wave Systems](https://www.youtube.com/channel/UC6_etbfDnWMxAuYj9qD1qmA)
+- [https://github.com/dwavesystems](https://github.com/dwavesystems)
+- [D-Wave	Overview](https://www.dwavesys.com/sites/default/files/D-Wave-Investor%20Presentation-Web100814-2.pdf)
+- [An Introduction to Quantum Computing, D-Wave Style](https://www.dwavesys.com/sites/default/files/Introduction%20to%20Quantum%20Computing%20-%20Part%201.pdf)
+- [PRACTICAL QUANTUM COMPUTIN](https://www.dwavesys.com/sites/default/files/Dwave_Tech%20Overview2_F.pdf)
+- [The D-Wave 2000Q™ Quantum Computer Technology Overview](https://www.dwavesys.com/sites/default/files/D-Wave%202000Q%20Tech%20Collateral_0117F.pdf)
+- [Quantum Applications](https://www.dwavesys.com/sites/default/files/3_D-Wave-Qubits-Seminar-Applications_ajsm_V0.1.pdf)
+- [The Mathematics of Quantum-Enabled Applications on the D-Wave Quantum Computer](https://www.researchgate.net/publication/329388077_The_Mathematics_of_Quantum-Enabled_Applications_on_the_D-Wave_Quantum_Computer)
+- [Software, Cloud, Apps & Future](https://www.dwavesys.com/sites/default/files/Software%2C%20Cloud%2C%20Apps%20%26%20Future.pdf)
+
+----------
