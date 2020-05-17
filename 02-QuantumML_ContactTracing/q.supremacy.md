@@ -1,6 +1,7 @@
 Supremacy Clash
 
 - [QuantumCasts](https://www.youtube.com/watch?v=hpHfzYTOMGI&list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)
+- [google/research-areas/quantum-computing](https://research.google/research-areas/quantum-computing/)
 - [Google and NASA Achieve Quantum Supremacy](https://www.nasa.gov/feature/ames/quantum-supremacy/)
 - [Google's Head of Quantum Computing Hardware Resigns](https://www.wired.com/story/googles-head-quantum-computing-hardware-resigns/)
 - [Google's Top Quantum Scientist Explains In Detail Why He Resigned](https://www.forbes.com/sites/moorinsights/2020/04/30/googles-top-quantum-scientist-explains-in-detail-why-he-resigned/#41af75cb6983)
@@ -17,15 +18,19 @@ Supremacy Clash
 - [Upenn: Quantum computers vastly outperform supercomputers when it comes to energy efficiency](https://physicsworld.com/a/quantum-computers-vastly-outperform-supercomputers-when-it-comes-to-energy-efficiency/)
 - [Harward: Riding the quantum computing ‘wave’](https://news.harvard.edu/gazette/story/2019/10/harvard-weighs-in-on-googles-quantum-supremacy/)
 - [What Google's Quantum Supremacy Claim Means for Quantum Computing](https://spectrum.ieee.org/tech-talk/computing/hardware/how-googles-quantum-supremacy-plays-into-quantum-computings-long-game)
+- [Quantum Computing and Quantum Supremacy at Google](https://www.slideshare.net/insideHPC/quantum-computing-and-quantum-supremacy-at-google)
 
 -------------
 
 - [Quantum supremacy using a programmable superconducting processor - J. Martinis - 11/1/2019](https://www.youtube.com/watch?v=FklMpRiTeTA)
 - [Scott Aaronson: Quantum Computing | AI Podcast #72 with Lex Fridman](https://www.youtube.com/watch?v=uX5t8EivCaM)
-- []()
-- []()
-- []()
-- []()
-- []()
-
+- [Quantum Computing and Quantum Supremacy](https://www.youtube.com/watch?v=nycwc-wXuuw)
+- [Quantum Computing: Untangling the Hype](https://www.youtube.com/watch?v=wE1OCXvaDtc)
+- [Quantum Supremacy Using a Programmable Superconducting Processor II](https://www.youtube.com/watch?v=Fhckx6PzcbM)
+- ["Quantum Computational Supremacy and its Applications" by Prof. Scott Aaronson](https://www.youtube.com/watch?v=QxFkuw2uxA4)
+- [Quantum Supremacy & AI, with Stephen Fry.](https://www.youtube.com/watch?v=92Ntk4niqPo)
+- [Q2B 2019 | Quantum Supremacy Using a Programmable Superconducting Processor | John Martinis | Google](https://www.youtube.com/watch?v=K_H_mbSH45s)
+- [Q2B 2019 | What's Next After Quantum Supremacy? | John Preskill | Caltech](https://www.youtube.com/watch?v=e5mTW25EzLs)
+- [Exponential Wisdom Episode 81: The Era of Quantum Supremacy](https://www.youtube.com/watch?v=e5mTW25EzLs)
+- ["Quantum Computational Supremacy" lecture by Scott Aaronson](https://www.youtube.com/watch?v=uG7BzKGyE5o)
 --------------
