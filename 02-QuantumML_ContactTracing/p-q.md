@@ -42,4 +42,15 @@ Accessible:
 - [NASA and Rigetti Computing Sign Space Act Agreement For Collaboration on Prototype Quantum Computing Hardware](https://ti.arc.nasa.gov/news/NASA-Rigetti-SAA/)
 - [Patents Assigned to RIGETTI & CO., INC.](https://patents.justia.com/assignee/rigetti-co-inc)
 
+-------------
+
+- [Amazon Braket – Get Started with Quantum Computing](https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/)
+- [Amazon Quantum Solutions Lab](https://aws.amazon.com/quantum-solutions-lab/)
+- [AWS Officially Launched Its Quantum Computing Service](https://www.forbes.com/sites/ilkerkoksal/2020/12/30/aws-officially-launched-its-quantum-computing-service/#7c5eb5983a6c)
+- [Amazon, IBM and Microsoft race to bring global access to quantum computing](https://www.cnet.com/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/)
+- [Take a look at Google's quantum computing technology](https://www.cnet.com/pictures/take-a-look-at-googles-quantum-computing-technology/)
+- [Amazon Braket: Quantum computing as a service](https://www.gigabitmagazine.com/cloud-computing/amazon-braket-quantum-computing-service)
+- [Amazon Braket Hardware Providers](https://aws.amazon.com/braket/hardware-providers/)
+- [quantum-computing-with-amazon-braket](https://www.slideshare.net/AmazonWebServices/quantum-computing-with-amazon-braket)
+
 ----------
