@@ -57,7 +57,7 @@ computing](https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-4
 ![t-2019-04-17-at-9.51.19-AM](https://www.nextbigfuture.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-17-at-9.51.19-AM.jpg)
 -------------
 
-![]()
+![graphic-patent-applications](https://cdn1.expresscomputer.in/wp-content/uploads/2020/01/24145650/graphic-patent-applications.png)
 --------
 ![]()
 --------
