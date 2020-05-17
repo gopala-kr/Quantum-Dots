@@ -3,7 +3,7 @@
       “Nature isn’t classical, damnit, so if you want to make a simulation of nature, you’d better make it quantum mechanical.” — Richard Feynman
 
 ------------
-
+- [QC Timeline](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing)
 - [Qunatum Time Travel](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/qtt.md)
 - [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)
 - [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-t.md)
@@ -12,6 +12,8 @@
 - [Quantum News](https://quantumcomputingreport.com/news/)
 - [Qunatum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-m.md)
 - [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/p-q.md)
+- [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-supremacy.md)
+- [Applications and Use Sases](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-a.md)
 
 ------------------
       QCs require controlling and maintaining the quantum behavior of their qubits. Because temperature
