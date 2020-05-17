@@ -1,3 +1,20 @@
+--------------
+
+- [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
+- [Supplementary information for "Quantum supremacy using a programmable superconducting processor"](https://arxiv.org/abs/1910.11333)
+- [The Road to Quantum Computational Supremacy](https://arxiv.org/pdf/1712.01356.pdf)
+- [On the meaning of "quantum supremacy" experiments](https://arxiv.org/abs/2001.00791)
+- [Comment on "Quantum supremacy using a programmable superconducting processor"](https://arxiv.org/abs/1911.00577)
+- [Establishing the Quantum Supremacy Frontier with
+a 281 Pflop/s Simulation](https://arxiv.org/pdf/1905.00444.pdf)
+- [Echoing the recent Google success: Foundational Roots of Quantum Supremacy](https://arxiv.org/abs/1911.10337)
+- [Advanced quantum supremacy using a hybrid algorithm for linear systems of equations](https://arxiv.org/abs/2003.12770)
+- [Quantum Computational Supremacy](https://arxiv.org/abs/1809.07442)
+- [The Road to Quantum Computational Supremacy](https://arxiv.org/abs/1712.01356)
+
+
+---------------
+
 Supremacy Clash
 
 - [QuantumCasts](https://www.youtube.com/watch?v=hpHfzYTOMGI&list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)
@@ -35,8 +52,9 @@ Supremacy Clash
 - ["Quantum Computational Supremacy" lecture by Scott Aaronson](https://www.youtube.com/watch?v=uG7BzKGyE5o)
 --------------
 ![sycamorecircuits](https://www.ibm.com/blogs/research/wp-content/uploads/2019/10/sycamorecircuits.jpg)
-------
-![3c8803a8808f](https://cnet1.cbsistatic.com/img/Z1j3FGgQHTb8PyKxM6v-qYeuw8Y=/980x551/2019/10/23/4687a228-54a0-4fcb-9741-3c8803a8808f/20191023-google-quantum-computer-lab-003.jpg)
+
 -------
 ![drBi5hHMiQ1j2fGk](https://miro.medium.com/max/1706/0*drBi5hHMiQ1j2fGk)
+------
+![3c8803a8808f](https://cnet1.cbsistatic.com/img/Z1j3FGgQHTb8PyKxM6v-qYeuw8Y=/980x551/2019/10/23/4687a228-54a0-4fcb-9741-3c8803a8808f/20191023-google-quantum-computer-lab-003.jpg)
 -----------
