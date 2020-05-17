@@ -34,3 +34,9 @@ Supremacy Clash
 - [Exponential Wisdom Episode 81: The Era of Quantum Supremacy](https://www.youtube.com/watch?v=e5mTW25EzLs)
 - ["Quantum Computational Supremacy" lecture by Scott Aaronson](https://www.youtube.com/watch?v=uG7BzKGyE5o)
 --------------
+![sycamorecircuits](https://www.ibm.com/blogs/research/wp-content/uploads/2019/10/sycamorecircuits.jpg)
+------
+![3c8803a8808f](https://cnet1.cbsistatic.com/img/Z1j3FGgQHTb8PyKxM6v-qYeuw8Y=/980x551/2019/10/23/4687a228-54a0-4fcb-9741-3c8803a8808f/20191023-google-quantum-computer-lab-003.jpg)
+-------
+![drBi5hHMiQ1j2fGk](https://miro.medium.com/max/1706/0*drBi5hHMiQ1j2fGk)
+-----------
