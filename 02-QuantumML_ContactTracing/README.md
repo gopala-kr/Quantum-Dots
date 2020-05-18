@@ -14,6 +14,9 @@
 - [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/p-q.md)
 - [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-supremacy.md)
 - [Applications and Use Sases](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-a.md)
+- [Quantum Algorithm Zoo](http://quantumalgorithmzoo.org/)
+- [NP-Hard Problems](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/P-vs-NP.md)
+
 
 ------------------
       QCs require controlling and maintaining the quantum behavior of their qubits. Because temperature
