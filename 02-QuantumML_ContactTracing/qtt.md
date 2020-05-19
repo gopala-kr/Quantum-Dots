@@ -24,6 +24,19 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 - [On the Use of Quantum Entanglement in Secure Communications: A Survey](https://arxiv.org/abs/2003.07907)
 - [Quantum computing using continuous-time evolution](https://arxiv.org/abs/2004.00704)
 - [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf)
+- [Towards a Distributed Quantum Computing Ecosystem](https://arxiv.org/abs/2002.11808)
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/abs/1804.03719)
+- [Quantum Computer Architecture:Towards Full-Stack Quantum Accelerators](https://arxiv.org/pdf/1903.09575.pdf)
+- [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
+- [A Survey of Quantum Programming Languages: History, Methods, and Tools](https://arxiv.org/abs/0804.1118)
+- [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806)
+- [Software tools for quantum control: Improving quantum computer performance through noise and error suppression](https://arxiv.org/abs/2001.04060)
+- [Quantum Machine Learning](https://arxiv.org/pdf/1611.09347.pdf)
+- [From Monte Carlo to Quantum Computation](https://arxiv.org/pdf/quant-ph/0112152.pdf)
+- [Viv Kendon's articles on arXiv](https://arxiv.org/a/kendon_v_1.html)
+- [From Ansätze to Z-gates: a NASA View of Quantum Computing](https://arxiv.org/abs/1905.02860)
+- [Using Quantum Computers for Quantum Simulation](https://arxiv.org/abs/1004.5528)
+- [Quantum Error Correction](https://arxiv.org/ftp/arxiv/papers/1910/1910.03672.pdf)
 
 
 
