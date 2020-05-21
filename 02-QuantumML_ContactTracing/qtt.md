@@ -41,6 +41,7 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 ---------------------------
 - [CAUSAL FERMION SYSTEMS AND THE
 ETH APPROACH TO QUANTUM THEORY](https://arxiv.org/pdf/2004.11785.pdf)
+- [Quantum Decoherence](https://arxiv.org/pdf/1911.06282.pdf)
 
 -------------
 
