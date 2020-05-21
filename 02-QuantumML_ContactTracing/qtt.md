@@ -51,7 +51,8 @@ Switched-capacitor Circuits](https://arxiv.org/pdf/2005.03851.pdf)
 - [Quantum computing using
 continuous-time evolution
 ](https://arxiv.org/pdf/2004.00704.pdf)
-- []()
+- [Software tools for quantum control: Improving quantum computer performance
+through noise and error suppression](https://arxiv.org/pdf/2001.04060.pdf)
 - []()
 - []()
 - []()
