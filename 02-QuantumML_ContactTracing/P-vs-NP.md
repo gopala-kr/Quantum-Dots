@@ -1,3 +1,6 @@
+- [Dynamical Systems Theory and Algorithms for NP-hard Problems](https://arxiv.org/pdf/2005.05052.pdf)
+- [P ≈ NP, at least in Visual Question Answering](https://arxiv.org/abs/2003.11844v2)
+------------------
 - [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 - [Quantum approximate algorithm for NP optimization problems with constraints](https://arxiv.org/abs/2002.00943)
 - [Multi-layer quantum search and inclusion of NP into BQP](https://arxiv.org/abs/2004.11347)
