@@ -39,17 +39,27 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 - [Quantum Error Correction](https://arxiv.org/ftp/arxiv/papers/1910/1910.03672.pdf)
 
 ---------------------------
+- [CAUSAL FERMION SYSTEMS AND THE
+ETH APPROACH TO QUANTUM THEORY](https://arxiv.org/pdf/2004.11785.pdf)
+
+-------------
 
 - [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
 - [On-chip Integration of Si/SiGe-based Quantum Dots and
 Switched-capacitor Circuits](https://arxiv.org/pdf/2005.03851.pdf)
 - [Physical Security in the Post-quantum Era](https://arxiv.org/pdf/2005.04344.pdf)
+- [Quantum computing using
+continuous-time evolution
+](https://arxiv.org/pdf/2004.00704.pdf)
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
+
+---------
+
+- [Technology Trends for Mixed QKD/WDM
+Transmission up to 80 km](https://arxiv.org/pdf/2005.02486.pdf)
 - []()
 - []()
 - []()
