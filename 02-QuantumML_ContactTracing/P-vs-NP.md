@@ -5,6 +5,17 @@
 - [Mapping NP-hard and NP-complete optimisation problems to Quadratic Unconstrained Binary Optimisation problems](https://arxiv.org/abs/1911.08043)
 - [Mapping NP-Hard Problems to Restricted Adiabatic Quantum Architectures](https://arxiv.org/abs/1911.00249)
 - [Can biological quantum networks solve NP-hard problems?](https://arxiv.org/abs/1902.03121)
+- [On NP-completeness of the cell formation problem](https://arxiv.org/abs/1901.02778)
+- [Four NP-complete problems about generalizations of perfect graphs](https://arxiv.org/abs/1705.05911)
+- [P = NP](https://arxiv.org/abs/1208.0954)
+- [NP–HARD PROBLEMS NATURALLY ARISING IN
+KNOT THEORY](https://arxiv.org/pdf/1809.10334.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ------------------
 - [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
