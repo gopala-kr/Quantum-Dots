@@ -42,7 +42,7 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 - [CAUSAL FERMION SYSTEMS AND THE
 ETH APPROACH TO QUANTUM THEORY](https://arxiv.org/pdf/2004.11785.pdf)
 - [Quantum Decoherence](https://arxiv.org/pdf/1911.06282.pdf)
-
+- [Near-ideal spontaneous photon sources in silicon quantum photonics](https://arxiv.org/pdf/2005.09579.pdf)
 -------------
 
 - [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
