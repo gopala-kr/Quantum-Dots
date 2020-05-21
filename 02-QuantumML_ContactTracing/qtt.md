@@ -38,8 +38,23 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 - [Using Quantum Computers for Quantum Simulation](https://arxiv.org/abs/1004.5528)
 - [Quantum Error Correction](https://arxiv.org/ftp/arxiv/papers/1910/1910.03672.pdf)
 
+---------------------------
 
-
+- [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
+- [On-chip Integration of Si/SiGe-based Quantum Dots and
+Switched-capacitor Circuits](https://arxiv.org/pdf/2005.03851.pdf)
+- [Physical Security in the Post-quantum Era](https://arxiv.org/pdf/2005.04344.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 ------------------
