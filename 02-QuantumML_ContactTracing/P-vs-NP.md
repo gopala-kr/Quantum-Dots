@@ -23,10 +23,11 @@ Exponential Lower Bound](https://arxiv.org/ftp/arxiv/papers/1111/1111.0305.pdf)
 - [Computational Complexity of Games and Puzzles](https://arxiv.org/pdf/1807.04724.pdf)
 - [On Polynomial Time Absolute Approximation-bounded Solution of TSP
 and NP Complete Problems](https://arxiv.org/pdf/1605.06183.pdf)
-- []()
-- []()
-- []()
-- []()
+- [How NP got a new definition: a survey of probabilistically checkable proofs](https://arxiv.org/abs/cs/0304038)
+- [Computational complexity of the quantum separability problem](https://arxiv.org/abs/quant-ph/0603199)
+- [NP-complete Problems and Physical Reality](https://arxiv.org/abs/quant-ph/0502072)
+- [A Comprehensive Survey on the Ambulance Routing and Location Problems](https://arxiv.org/abs/2001.05288)
+
 ------------------
 - [The P-versus-NP page](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm)
 - [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
