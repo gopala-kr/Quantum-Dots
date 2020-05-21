@@ -1,5 +1,7 @@
 - [Dynamical Systems Theory and Algorithms for NP-hard Problems](https://arxiv.org/pdf/2005.05052.pdf)
 - [P ≈ NP, at least in Visual Question Answering](https://arxiv.org/abs/2003.11844v2)
+- [About a certain NP complete problem](https://arxiv.org/abs/1905.06104)
+- [Solving NP-Hard Problems on Graphs with Extended AlphaGo Zero](https://arxiv.org/abs/1905.11623)
 ------------------
 - [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 - [Quantum approximate algorithm for NP optimization problems with constraints](https://arxiv.org/abs/2002.00943)
