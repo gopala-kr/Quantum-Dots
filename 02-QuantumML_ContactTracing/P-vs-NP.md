@@ -10,9 +10,9 @@
 - [P = NP](https://arxiv.org/abs/1208.0954)
 - [NP–HARD PROBLEMS NATURALLY ARISING IN
 KNOT THEORY](https://arxiv.org/pdf/1809.10334.pdf)
-- []()
-- []()
-- []()
+- [The Parameterized Complexity of some Permutation Group Problems](https://arxiv.org/abs/1301.0379)
+- [On Basing One-way Permutations on NP-hard Problems under Quantum Reductions](https://arxiv.org/abs/1804.10309)
+- [The Tandem Duplication Distance is NP-hard](https://arxiv.org/abs/1906.05266)
 - []()
 - []()
 - []()
