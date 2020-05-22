@@ -44,6 +44,10 @@ Survey and Bibliography](http://ftp.dcs.glasgow.ac.uk/~simon/publications/QPLsur
 ETH APPROACH TO QUANTUM THEORY](https://arxiv.org/pdf/2004.11785.pdf)
 - [Quantum Decoherence](https://arxiv.org/pdf/1911.06282.pdf)
 - [Near-ideal spontaneous photon sources in silicon quantum photonics](https://arxiv.org/pdf/2005.09579.pdf)
+- [A quantum procedure for map generation](https://arxiv.org/pdf/2005.10327.pdf)
+- [Creative Quantum Computing: Inverse FFT
+Sound Synthesis, Adaptive Sequencing and
+Musical Composition](https://arxiv.org/ftp/arxiv/papers/2005/2005.05832.pdf)
 -------------
 
 - [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
@@ -55,9 +59,10 @@ continuous-time evolution
 ](https://arxiv.org/pdf/2004.00704.pdf)
 - [Software tools for quantum control: Improving quantum computer performance
 through noise and error suppression](https://arxiv.org/pdf/2001.04060.pdf)
-- []()
-- []()
-- []()
+- [An algorithm for DNA read alignment on quantum accelerators](https://arxiv.org/pdf/1909.05563.pdf)
+- [Optimizing Quantum Search Using a Generalized Version of Grover’s Algorithm](https://arxiv.org/pdf/2005.06468.pdf)
+- [antum Annealing-Based Soware Components:
+An Experimental Case Study with SAT Solving](https://arxiv.org/pdf/2005.05465.pdf)
 
 ---------
 
@@ -67,8 +72,7 @@ Transmission up to 80 km](https://arxiv.org/pdf/2005.02486.pdf)
 Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Towards a Distributed Quantum Computing Ecosystem](https://arxiv.org/pdf/2002.11808.pdf)
 - [Towards Large-Scale Quantum Networks]()
-- []()
-- []()
+
 
 
 ------------------
