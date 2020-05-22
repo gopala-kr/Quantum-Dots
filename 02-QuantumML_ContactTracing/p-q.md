@@ -65,7 +65,14 @@ Accessible:
 - [The Mathematics of Quantum-Enabled Applications on the D-Wave Quantum Computer](https://www.researchgate.net/publication/329388077_The_Mathematics_of_Quantum-Enabled_Applications_on_the_D-Wave_Quantum_Computer)
 - [Software, Cloud, Apps & Future](https://www.dwavesys.com/sites/default/files/Software%2C%20Cloud%2C%20Apps%20%26%20Future.pdf)
 
+---------------
+
+- [IonQ Secures $55 Million in Funding to Bring Quantum Computing from the Lab to the Enterprise](https://www.globenewswire.com/news-release/2019/10/22/1933078/0/en/IonQ-Secures-55-Million-in-Funding-to-Bring-Quantum-Computing-from-the-Lab-to-the-Enterprise.html)
+- [IonQ Helps Bring Quantum Computing to Life on Amazon Web Services](https://www.prnewswire.com/news-releases/ionq-helps-bring-quantum-computing-to-life-on-amazon-web-services-300967124.html)
+- [Samsung Joins Google and Amazon in Backing ‘Trapped Ion’ Quantum Computer Startup](https://fortune.com/2019/10/22/samsung-google-amazon-quantum-computer/)
+- [Quantum computing start-up IonQ raises $55 million](https://cen.acs.org/business/investment/Quantum-computing-startIonQ-raises-55/97/i43)
+- [IonQ CEO Peter Chapman on how quantum computing will change the future of AI](https://venturebeat.com/2020/05/09/ionq-ceo-peter-chapman-on-how-quantum-computing-will-change-the-future-of-ai/)
+- [IonQ: An Investment in our Quantum Future](https://news.samsung.com/us/ionq-investment-quantum-future/)
+
 ----------
-
-
 --------
