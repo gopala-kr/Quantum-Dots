@@ -13,6 +13,9 @@ Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.or
 
 Quantum AI: Feb-April - 2020
 
+- [Machine learning \& artificial intelligence in the quantum domain](https://arxiv.org/abs/1709.02779)
+
+
 -----------------------
 Quantum AI: Aug 2019 to Jan 2020
 
