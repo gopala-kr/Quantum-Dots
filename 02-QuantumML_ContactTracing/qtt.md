@@ -48,6 +48,32 @@ ETH APPROACH TO QUANTUM THEORY](https://arxiv.org/pdf/2004.11785.pdf)
 - [Creative Quantum Computing: Inverse FFT
 Sound Synthesis, Adaptive Sequencing and
 Musical Composition](https://arxiv.org/ftp/arxiv/papers/2005/2005.05832.pdf)
+
+------------
+
+- [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022)
+- [Quantum-Computing Architecture based on Large-Scale Multi-Dimensional Continuous-Variable Cluster States in a Scalable Photonic Platform](https://arxiv.org/abs/1909.05455)
+- [A Scalable Decoder Micro-architecture for Fault-Tolerant Quantum Computing](https://arxiv.org/abs/2001.06598)
+- [A practicable guide to the quantum computation architectures](https://arxiv.org/abs/1903.10739)
+- [Full-Stack, Real-System Quantum Computer Studies: Architectural Comparisons and Design Insights](https://arxiv.org/abs/1905.11349)
+- [A Practical Quantum Instruction Set Architecture](https://arxiv.org/pdf/1608.03355.pdf)
+- [Entanglement Bounds on the Performance of Quantum Computing Architectures](https://arxiv.org/abs/1908.04802)
+- [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/abs/2004.11608)
+- [Efficient Qubit Routing for a Globally Connected Trapped Ion Quantum Computer](https://arxiv.org/abs/2002.12782)
+- [Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers](https://arxiv.org/abs/2004.04706)
+- [Benchmarking Quantum Computers and the Impact of Quantum Noise](https://arxiv.org/abs/1912.00546)
+- [Three-dimensional surface codes: Transversal gates and fault-tolerant architectures](https://arxiv.org/abs/1801.04255)
+- [Hydrogenic Spin Quantum Computing in Silicon: A Digital Approach](https://arxiv.org/abs/quant-ph/0206159)
+- [Architectural design for a topological cluster state quantum computer](https://arxiv.org/abs/0808.1782)
+- [A Functional Architecture for Scalable Quantum
+Computing](http://willzeng.com/shared/functional_architecture_final_ICRC.pdf)
+- [Demonstration of the QCCD trapped-ion quantum computer architecture](https://www.honeywell.com/content/dam/honeywell/files/Beta_10_Quantum_3_3_2020.pdf)
+- [Hybrid Quantum-Classical Computing Architectures](https://sc18.supercomputing.org/proceedings/workshops/workshop_files/ws_pmes110s1-file1.pdf)
+- [Compiling quantum circuits to realistic hardware architectures using temporal planners](https://iopscience.iop.org/article/10.1088/2058-9565/aaa331/meta)
+- [A Heterogeneous Quantum Computer Architecture](https://ce-publications.et.tudelft.nl/publications/1548_a_heterogeneous_quantum_computer_architecture.pdf)
+- [Experimental comparison of two quantum computing architectures](https://www.pnas.org/content/114/13/3305)
+
+
 -------------
 
 - [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
