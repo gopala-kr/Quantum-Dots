@@ -75,4 +75,9 @@ Accessible:
 - [IonQ: An Investment in our Quantum Future](https://news.samsung.com/us/ionq-investment-quantum-future/)
 
 ----------
+- [Quantum Computing Courses](https://www.coursera.org/courses?query=quantum%20computing)
+- [edx](https://www.edx.org/learn/quantum-computing)
+
+
+------------
 --------
