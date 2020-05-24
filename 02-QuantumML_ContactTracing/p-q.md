@@ -77,7 +77,6 @@ Accessible:
 ----------
 - [Quantum Computing Courses](https://www.coursera.org/courses?query=quantum%20computing)
 - [edx](https://www.edx.org/learn/quantum-computing)
-
-
+- [MITx](https://learn-xpro.mit.edu/quantum-computing)
 ------------
 --------
