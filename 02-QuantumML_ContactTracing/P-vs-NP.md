@@ -1,3 +1,5 @@
+------------------
+
 - [Dynamical Systems Theory and Algorithms for NP-hard Problems](https://arxiv.org/pdf/2005.05052.pdf)
 - [P ≈ NP, at least in Visual Question Answering](https://arxiv.org/abs/2003.11844v2)
 - [About a certain NP complete problem](https://arxiv.org/abs/1905.06104)
@@ -34,4 +36,7 @@ and NP Complete Problems](https://arxiv.org/pdf/1605.06183.pdf)
 - [Quantum approximate algorithm for NP optimization problems with constraints](https://arxiv.org/abs/2002.00943)
 - [Multi-layer quantum search and inclusion of NP into BQP](https://arxiv.org/abs/2004.11347)
 - [Learning optimal quantum models is NP-hard](https://arxiv.org/abs/1510.02800)
+- [NP-Hard Problems](http://www.cs.ecu.edu/karl/6420/spr16/Notes/NPcomplete/nphard.html)
 
+-------------
+----------------
