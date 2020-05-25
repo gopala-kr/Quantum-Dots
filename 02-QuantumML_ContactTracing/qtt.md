@@ -87,7 +87,7 @@ continuous-time evolution
 through noise and error suppression](https://arxiv.org/pdf/2001.04060.pdf)
 - [An algorithm for DNA read alignment on quantum accelerators](https://arxiv.org/pdf/1909.05563.pdf)
 - [Optimizing Quantum Search Using a Generalized Version of Grover’s Algorithm](https://arxiv.org/pdf/2005.06468.pdf)
-- [antum Annealing-Based Soware Components:
+- [Quantum Annealing-Based Software Components:
 An Experimental Case Study with SAT Solving](https://arxiv.org/pdf/2005.05465.pdf)
 
 ---------
@@ -97,7 +97,7 @@ Transmission up to 80 km](https://arxiv.org/pdf/2005.02486.pdf)
 - [On the Use of Quantum Entanglement in Secure
 Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Towards a Distributed Quantum Computing Ecosystem](https://arxiv.org/pdf/2002.11808.pdf)
-- [Towards Large-Scale Quantum Networks]()
+- [Towards Large-Scale Quantum Networks](https://arxiv.org/abs/1909.08396)
 
 
 
