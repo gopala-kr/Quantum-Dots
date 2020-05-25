@@ -38,9 +38,9 @@ Quantum Applications:
 -------------
 ![Quantum-computing-use-cases-in-banking](https://www.everestgrp.com/wp-content/uploads/2019/01/Quantum-computing-use-cases-in-banking.png)
 -------------
-![]()
+![Quantum-computing](https://i1.wp.com/www.iasexpress.net/wp-content/uploads/2019/10/Quantum-computing.jpeg?ssl=1)
 -------------
-![]()
+![illus_quantum_technologies_supplychain_yole_jan2020_](http://www.yole.fr/iso_album/illus_quantum_technologies_supplychain_yole_jan2020_(430x278).jpg)
 -------------
 ![]()
 -------------
