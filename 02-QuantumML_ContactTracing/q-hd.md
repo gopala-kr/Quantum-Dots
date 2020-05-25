@@ -24,15 +24,15 @@
 ![28a1680](https://www.ibm.com/quantum-computing/_nuxt/img/28a1680.svg)
 -----------
 
-![]()
+![Quantum+Technologies+Flagship](https://slideplayer.com/slide/14432700/90/images/2/Quantum+Technologies+Flagship.jpg)
 -----------
-![]()
+![tfla79h2keJr34_V4Na7gQ](https://miro.medium.com/max/1400/1*tfla79h2keJr34_V4Na7gQ.jpeg)
 -----------
-![]()
+![ext](https://images.squarespace-cdn.com/content/v1/56f973535559869dd387ae5b/1546876594652-RK0MJK0EV00FYZ1RYCAL/ke17ZwdGBToddI8pDm48kCohc6DQT3MToCoFoaHJ-vQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKceJs2Ys3GDYHGwwigHg6__VV-3Yuad9K9eeZPnJLZI1e3IKMTEBcCOrqLIK-tY9pk/ext.jpg)
 -----------
-![]()
+![SOfKaXO6eqQBo1yiVXSNcg](https://miro.medium.com/max/1386/1*SOfKaXO6eqQBo1yiVXSNcg.jpeg)
 -----------
-![]()
+![i11DpqarkWoyYCDP8Y7dVQ](https://miro.medium.com/max/1400/1*i11DpqarkWoyYCDP8Y7dVQ.jpeg)
 -----------
 ![]()
 -----------
