@@ -72,8 +72,9 @@ Computing](http://willzeng.com/shared/functional_architecture_final_ICRC.pdf)
 - [Compiling quantum circuits to realistic hardware architectures using temporal planners](https://iopscience.iop.org/article/10.1088/2058-9565/aaa331/meta)
 - [A Heterogeneous Quantum Computer Architecture](https://ce-publications.et.tudelft.nl/publications/1548_a_heterogeneous_quantum_computer_architecture.pdf)
 - [Experimental comparison of two quantum computing architectures](https://www.pnas.org/content/114/13/3305)
-
-
+- [Dynamic Concatenation of Quantum Error Correction in Integrated Quantum Computing Architecture](https://www.semanticscholar.org/paper/A-Layered-Architecture-for-Quantum-Computing-Using-Jones-Meter/3d36daeb53998c4c6b79addf6d39ad3b0d09b0a6)
+- [Quantum Computing and AI Start a New Era](https://blog.global.fujitsu.com/fgb/2017-12-13/quantum-computing-and-ai-start-a-new-era/)
+- [Quality Attributes on Quantum Computing Platforms](https://www.researchgate.net/publication/323904792_Quality_Attributes_on_Quantum_Computing_Platforms)
 -------------
 
 - [A two-dimensional architecture for fast large-scale trapped-ion quantum computing](https://arxiv.org/pdf/2004.11608.pdf)
