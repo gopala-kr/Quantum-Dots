@@ -1,4 +1,14 @@
-Quantum Science
+
+-------------------
+- [What Will We Do With Quantum Computing? - Aram Harrow, MIT](https://www.youtube.com/watch?v=dU8_wSDhIFU)
+- [Quantum Computing: Untangling the Hype](https://www.youtube.com/watch?v=wE1OCXvaDtc)
+- [Quantum Computing - The Qubit Technology Revolution](https://www.youtube.com/watch?v=OdVSNNvWikQ)
+- [Quantum computing explained with a deck of cards | Dario Gil, IBM Research](https://www.youtube.com/watch?v=yy6TV9Dntlw&list=RDQMRs0q-Z4CEtM&start_radio=1)
+- [Quantum computers and their practical applications](https://www.youtube.com/watch?v=_-eQqAHsEao)
+- [Quantum Computing algorithm and new business applications](https://www.youtube.com/watch?v=2z5vezzWkes)
+
+-------------------------
+Quantum compute for Science
 
 
 - [Quantum Computer Systems for Scientific Discovery](https://arxiv.org/pdf/1912.07577.pdf) :star: :star:
