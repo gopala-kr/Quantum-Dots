@@ -4,18 +4,18 @@
 
 ------------
 - [QC Timeline](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing)
-- [Qunatum Time Travel](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/qtt.md)
-- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)  | [QHd](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-hd.md)
-- [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-t.md)
-- [Quantum AI](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-ai.md)
+- [Qunatum Time Travel](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/qtt.md)
+- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)  | [QHd](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-hd.md)
+- [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-t.md)
+- [Quantum AI](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-ai.md)
 - [Quantum Players: Research Groups, Organizations, Startups and Investors](https://quantumcomputingreport.com/news/)
 - [Quantum News](https://quantumcomputingreport.com/news/)
-- [Qunatum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-m.md)
-- [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/p-q.md)
-- [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-supremacy.md)
-- [Applications and Use Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-a.md)
+- [Qunatum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-m.md)
+- [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/p-q.md)
+- [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-supremacy.md)
+- [Applications and Use Cases](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-a.md)
 - [Quantum Algorithm Zoo](http://quantumalgorithmzoo.org/)
-- [NP-Hard Problems](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/P-vs-NP.md)
+- [NP-Hard Problems](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/P-vs-NP.md)
 
 
 ------------------
@@ -44,11 +44,18 @@
 
 --------------
 ---------------------
-Explore Dwave Quantum Compute Application for Covid19/Pandemic Issues
- 
-https://www.dwavesys.com/quantum-computing
 
+### [D-Wave Quantum Compute Systems](https://www.dwavesys.com/quantum-computing)
+
+
+
+----------------------------------
+
+D-Wave Leap2 cloud application for Covid19 pandemic issues
+ 
 https://www.dwavesys.com/take-leap
+
+
  
  -----------------
 Contact Tracing App - Mobile App
