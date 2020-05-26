@@ -1,0 +1,101 @@
+
+- [The Holy Grail of Quantum Artificial Intelligence:
+Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.org/pdf/2004.14035.pdf)
+- [Machine Learning meets Quantum Foundations: A Brief Survey](https://arxiv.org/pdf/2003.11224.pdf)
+
+------------
+
+- [ai-accelerators](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/01-ai-accelerators)
+- [ai-hardware-compilers](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers)
+- [Theories of computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC)
+- [DL-on-Silicon](https://github.com/gopala-kr/DL-on-Silicon)
+------------
+
+Quantum AI: Feb-April - 2020
+
+- [Machine learning \& artificial intelligence in the quantum domain](https://arxiv.org/abs/1709.02779)
+
+
+-----------------------
+Quantum AI: Aug 2019 to Jan 2020
+
+- [Temporal Information Processing on Noisy Quantum Computers](https://arxiv.org/abs/2001.09498v1)
+- [Integration and Evaluation of Quantum Accelerators for Data-Driven User Functions](https://arxiv.org/abs/1912.06032v2)
+- [A Domain-agnostic, Noise-resistant, Hardware-efficient Evolutionary Variational Quantum Eigensolver](https://arxiv.org/abs/1910.09694v4)
+- [Reinforcement-learning-based architecture for automated quantum adiabatic algorithm design](https://arxiv.org/abs/1812.10797v2)
+- [Quantum and Classical Algorithms for Approximate Submodular Function Minimization](https://arxiv.org/abs/1907.05378v2)
+- [Machine learning enables completely automatic tuning of a quantum device faster than human experts](https://arxiv.org/abs/2001.02589v1)
+- [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843v2)
+- [Quantum Machine Learning Algorithm for Knowledge Graphs](https://arxiv.org/abs/2001.01077v1)
+- [Quantum Interference for Counting Clusters](https://arxiv.org/abs/2001.04251v1)
+- [Reinforcement Quantum Annealing: A Quantum-Assisted Learning Automata Approach](https://arxiv.org/abs/2001.00234v1)
+- [Quantum Adversarial Machine Learning](https://arxiv.org/abs/2001.00030v1)
+- [QDNN: DNN with Quantum Neural Network Layers](https://arxiv.org/abs/1912.12660v1)
+- [Deep reinforcement learning for complex evaluation of one-loop diagrams in quantum field theory](https://arxiv.org/abs/1912.12322v1)
+- [Quantum Logic Gate Synthesis as a Markov Decision Process](https://arxiv.org/abs/1912.12002v1)
+- [Quantum Natural Gradient](https://arxiv.org/abs/1909.02108v2)
+- [Demonstration of Topological Data Analysis on a Quantum Processor](https://arxiv.org/abs/1801.06316v2)
+- [Variational Quantum Circuits for Quantum State Tomography](https://arxiv.org/abs/1912.07286v1)
+- [Optimizing Quantum Error Correction Codes with Reinforcement Learning](https://arxiv.org/abs/1812.08451v4)
+- [Learning Non-Markovian Quantum Noise from Moiré-Enhanced Swap Spectroscopy with Deep Evolutionary Algorithm](https://arxiv.org/abs/1912.04368v1)
+- [Online Learning of Quantum States](https://arxiv.org/abs/1802.09025v3)
+- [A quantum active learning algorithm for sampling against adversarial attacks](https://arxiv.org/abs/1912.03283v1)
+- [A Path Towards Quantum Advantage in Training Deep Generative Models with Quantum Annealers](https://arxiv.org/abs/1912.02119v1)
+- [Expressiveness and Learning of Hidden Quantum Markov Models](https://arxiv.org/abs/1912.02098v1)
+- [Quantum Computation with Machine-Learning-Controlled Quantum Stuff](https://arxiv.org/abs/1911.13282v1)
+- [Expressive power of tensor-network factorizations for probabilistic modeling, with applications from hidden Markov models to quantum machine learning](https://arxiv.org/abs/1907.03741v2)
+- [Poq: Projection-based Runtime Assertions for Debugging on a Quantum Computer](https://arxiv.org/abs/1911.12855v1)
+- [A Data Driven Approach to Learning The Hamiltonian Matrix in Quantum Mechanics](https://arxiv.org/abs/1911.12548v1)
+- [SchrödingeRNN: Generative Modeling of Raw Audio as a Continuously Observed Quantum State](https://arxiv.org/abs/1911.11879v1)
+- [Learning to Optimize Variational Quantum Circuits to Solve Combinatorial Problems](https://arxiv.org/abs/1911.11071v1)
+- [Predicting Features of Quantum Systems from Very Few Measurements](https://arxiv.org/abs/1908.08909v2)
+- [Moral Dilemmas for Artificial Intelligence: a position paper on an application of Compositional Quantum Cognition](https://arxiv.org/abs/1911.10154v1)
+- [Quantum Observables for continuous control of the Quantum Approximate Optimization Algorithm via Reinforcement Learning](https://arxiv.org/abs/1911.09682v1)
+- [Solving machine learning optimization problems using quantum computers](https://arxiv.org/abs/1911.08587v1)
+- [A regression algorithm for accelerated lattice QCD that exploits sparse inference on the D-Wave quantum annealer](https://arxiv.org/abs/1911.06267v1)
+- [Restricted Boltzmann Machines for galaxy morphology classification with a quantum annealer](https://arxiv.org/abs/1911.06259v1)
+- [A neural network oracle for quantum nonlocality problems in networks](https://arxiv.org/abs/1907.10552v2)
+- [word2ket: Space-efficient Word Embeddings inspired by Quantum Entanglement](https://arxiv.org/abs/1911.04975v1)
+- [Reinforcement-Learning-Based Variational Quantum Circuits Optimization for Combinatorial Problems](https://arxiv.org/abs/1911.04574v1)
+- [Comparison of D-Wave Quantum Annealing and Classical Simulated Annealing for Local Minima Determination](https://arxiv.org/abs/1911.03338v1)
+- [Support vector machines on the D-Wave quantum annealer](https://arxiv.org/abs/1906.06283v2)
+- [Information Scrambling in Quantum Neural Networks](https://arxiv.org/abs/1909.11887v2)
+- [A Note on Quantum Markov Models](https://arxiv.org/abs/1911.01953v1)
+- [Quantum Wasserstein Generative Adversarial Networks](https://arxiv.org/abs/1911.00111v1)
+- [Quantum Optical Experiments Modeled by Long Short-Term Memory](https://arxiv.org/abs/1910.13804v1)
+- [A framework for deep energy-based reinforcement learning with quantum speed-up](https://arxiv.org/abs/1910.12760v1)
+- [Variational Quantum Algorithms for Dimensionality Reduction and Classification](https://arxiv.org/abs/1910.12164v1)
+- [On the geometry of learning neural quantum states](https://arxiv.org/abs/1910.11163v1)
+- [Deep Reinforcement Learning Control of Quantum Cartpoles](https://arxiv.org/abs/1910.09200v2 )
+- [A simple approach to design quantum neural networks and its applications to kernel-learning methods](https://arxiv.org/abs/1910.08798v1)
+- [Modeling Sequences with Quantum States: A Look Under the Hood](https://arxiv.org/abs/1910.07425v1)
+- [Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning](https://arxiv.org/abs/1910.06151v1)
+- [On the Effects of Pseudo and Quantum Random Number Generators in Soft Computing](https://arxiv.org/abs/1910.04701v1)
+- [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682v2)
+- [Quantum Structure in Cognition: Human Language as a Boson Gas of Entangled Words](https://arxiv.org/abs/1909.06845v2) :star:
+- [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071v1)
+- [Programming multi-level quantum gates in disordered computing reservoirs via machine learning and TensorFlow](https://arxiv.org/abs/1905.05264v3)
+- [Quantum Graph Neural Networks](https://arxiv.org/abs/1909.12264v1)
+- [K-Means Clustering on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.12183v1)
+- [Support Vector Machines on Noisy Intermediate Scale Quantum Computers](https://arxiv.org/abs/1909.11988v1)
+- [Quantum Inflation: A General Approach to Quantum Causal Compatibility](https://arxiv.org/abs/1909.10519v1)
+- [An Investigation of Quantum Deep Clustering Framework with Quantum Deep SVM & Convolutional Neural Network Feature Extractor](https://arxiv.org/abs/1909.09852v1)
+- [Quantum Unsupervised and Supervised Learning on Superconducting Processors](https://arxiv.org/abs/1909.04226v1)
+- [A Quantum Search Decoder for Natural Language Processing](https://arxiv.org/abs/1909.05023v1)
+- [Quantum Machine Learning Tensor Network States](https://arxiv.org/abs/1804.02398v2)
+- [Learning Algebraic Models of Quantum Entanglement](https://arxiv.org/abs/1908.10247v1)
+- [Implications of Quantum Computing for Artificial Intelligence alignment research](https://arxiv.org/abs/1908.07613v3)
+- [Quantum algorithms for Second-Order Cone Programming and Support Vector Machines](https://arxiv.org/abs/1908.06720v2)
+- [Variational Quantum Circuits for Deep Reinforcement Learning ](https://arxiv.org/abs/1907.00397v2)
+- [Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480v1)
+- [Optimizing quantum heuristics with meta-learning](https://arxiv.org/abs/1908.03185v1)
+- [Quantum-enhanced least-square support vector machine: simplified quantum algorithm and sparse solutions](https://arxiv.org/abs/1908.01462v1)
+- [An Artificial Spiking Quantum Neuron](https://arxiv.org/abs/1907.06269v1)
+- [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://arxiv.org/abs/1906.11081v1)
+- [A Story of Two Streams: Reinforcement Learning Models from Human Behavior and Neuropsychiatry](https://arxiv.org/abs/1906.11286v5)
+- [Event-based Vision: A Survey](https://arxiv.org/abs/1904.08405v2)
+
+----------------------
+
+
+---------------
