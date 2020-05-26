@@ -2,13 +2,15 @@
 
 - [Q2B 2018 - Quantum Computing Hardware Landscape](https://www.youtube.com/watch?v=gSx1dvYuX-8)
 - [Q2B 2018 - Rigetti Quantum Computing](https://www.youtube.com/watch?v=SHKkF24Cib4)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [D Wave Webinar: A Machine of a Different Kind, Quantum Computing, 2019](https://www.youtube.com/watch?v=kG0xZqHDk0k)
+- [A Machine of a Different Kind: Quantum Computing, 2019](https://www.youtube.com/watch?v=wpDbdfd3RRE)
+- [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk)
+- [Current Progress in Quantum Computing by Paul Nation](https://www.youtube.com/watch?v=77Lbl8kxHbI)
+- [A panel on Quantum Computers with Scott Aaronson, Seth Lloyd, Miles Gu, Michele Reilly](https://www.youtube.com/watch?v=zW6ZtIPCPEs)
+- [Solving Unsolvable Problems: The Future of Quantum Computing](https://www.youtube.com/watch?v=mPK4lnet0lg)
+- [Quantum Computer in a Nutshell (Documentary)](https://www.youtube.com/watch?v=0dXNmbiGPS4)
+- [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
+- [Steven Girvin - The Race to Build Quantum Computers (February 12, 2020)](https://www.youtube.com/watch?v=nhUKHf-GN_Y)
 
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
