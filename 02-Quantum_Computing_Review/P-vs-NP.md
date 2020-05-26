@@ -5,8 +5,14 @@
 - [Millennium Problems](https://www.youtube.com/playlist?list=PLr1ycqeEZMLtDUNUjWId-1WKl4ZzTKOEL)
 - [NP-Hard and NP-Complete Problems](https://www.youtube.com/watch?v=e2cF8a5aAhE)
 - [Beyond Computation: The P vs NP Problem - Michael Sipser](https://www.youtube.com/watch?v=msp2y_Y5MLE)
-- []()
-- []()
+- [P vs NP Problem](https://www.youtube.com/watch?v=a0RM2lGX65I)
+- [Beyond Computation: The P versus NP question](https://www.youtube.com/watch?v=mYWhQSANZwQ)
+- [Beyond Computation: The P versus NP question (panel discussion)](https://www.youtube.com/watch?v=AszEVlfVoSc)
+- [The History and Status of the P versus NP Question](https://www.youtube.com/watch?v=3H0UxBF3kJg)
+- [Professor Avi Wigderson on the "P vs. NP" problem](https://www.youtube.com/watch?v=pTeZP-XfuKI)
+- [P vs. NP by Sammy Mehra](https://www.youtube.com/watch?v=p5RethqipI0)
+- [EC'18: Hardness of Approximation Between P and NP](https://www.youtube.com/watch?v=_WzHzh2NX4o)
+
 
 ------------------
 
