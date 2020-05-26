@@ -1,3 +1,15 @@
+-------------------
+
+- [Q2B 2018 - Quantum Computing Hardware Landscape](https://www.youtube.com/watch?v=gSx1dvYuX-8)
+- [Q2B 2018 - Rigetti Quantum Computing](https://www.youtube.com/watch?v=SHKkF24Cib4)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
 ---------
