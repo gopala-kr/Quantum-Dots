@@ -9,7 +9,7 @@
 - [DOE CSGF 2019: Quantum Computation for Science](https://www.youtube.com/watch?v=sGFZEMgM5F4)
 - [Quantum Computing and Workforce, Curriculum, and Application Development: An overview]()
 - [Practical Quantum Computing - MIT AI Conference 2019](https://www.youtube.com/watch?v=923MykXgcSE)
-
+- [How Will Quantum Technology Change Our Lives?](https://www.youtube.com/watch?v=St76QFAjwXY)
 
 -------------------------
 Quantum compute for Science
