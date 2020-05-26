@@ -26,6 +26,7 @@
 - [Forest: an Operating System for Quantum Computing](https://www.youtube.com/watch?v=SDQXGv1V2dc)
 - [Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware](https://www.youtube.com/watch?v=GYHdutMfoX4)
 - [Liquid: A Software Design Architecture and Domain-Specific Language for Quantum Computing](https://www.youtube.com/watch?v=f29QQhecbMU)
+- [Research Challenges in Quantum Computing (Fred Chong, ISCA 2018)](https://www.youtube.com/watch?v=ZQ_NE-E91aU)
 
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
