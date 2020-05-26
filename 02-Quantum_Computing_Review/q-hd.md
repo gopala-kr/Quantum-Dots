@@ -27,7 +27,8 @@
 - [Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware](https://www.youtube.com/watch?v=GYHdutMfoX4)
 - [Liquid: A Software Design Architecture and Domain-Specific Language for Quantum Computing](https://www.youtube.com/watch?v=f29QQhecbMU)
 - [Research Challenges in Quantum Computing (Fred Chong, ISCA 2018)](https://www.youtube.com/watch?v=ZQ_NE-E91aU)
-
+- [Wolfram Physics Project: Working Session Thursday, May 21, 2020 [Quantum Computing in Our Models]](https://www.youtube.com/watch?v=Uj1vLMRkoDU)
+- [Quantum Computing (#3 of 3: Quantum Hardware) [Quantumapalooza 2020 Series] Meetup-lite 20200522](https://www.youtube.com/watch?v=5VC_GTP9aqU)
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
 ---------
