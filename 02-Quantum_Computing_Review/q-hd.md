@@ -1,5 +1,6 @@
 -------------------
 
+- [Quantum Computing: Hardware and Software Implementations, Challenges and Opportunities](https://www.youtube.com/watch?v=T7VjdwZdx6Q)
 - [Q2B 2018 - Quantum Computing Hardware Landscape](https://www.youtube.com/watch?v=gSx1dvYuX-8)
 - [Q2B 2018 - Rigetti Quantum Computing](https://www.youtube.com/watch?v=SHKkF24Cib4)
 - [D Wave Webinar: A Machine of a Different Kind, Quantum Computing, 2019](https://www.youtube.com/watch?v=kG0xZqHDk0k)
@@ -11,6 +12,11 @@
 - [Quantum Computer in a Nutshell (Documentary)](https://www.youtube.com/watch?v=0dXNmbiGPS4)
 - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [Steven Girvin - The Race to Build Quantum Computers (February 12, 2020)](https://www.youtube.com/watch?v=nhUKHf-GN_Y)
+- [Quantum Computing - John Martinis - Google & UCSB](https://www.youtube.com/watch?v=enfZbv-4mjE)
+- [The Future of Quantum Computing - Prof. Seth Lloyd](https://www.youtube.com/watch?v=5xW49CzjhgI)
+- [The Mathematics of Quantum Computers | Infinite Series](https://www.youtube.com/watch?v=IrbJYsep45E)
+- [Quantum Computation for the Discovery of New Materials](https://www.youtube.com/watch?v=w7398u8G588)
+- [Fujitsu Forum 2017 Keynote - Quantum Computing](https://www.youtube.com/watch?v=ntI8OM14BDs)
 
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
