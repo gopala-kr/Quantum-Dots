@@ -17,6 +17,13 @@
 - [The Mathematics of Quantum Computers | Infinite Series](https://www.youtube.com/watch?v=IrbJYsep45E)
 - [Quantum Computation for the Discovery of New Materials](https://www.youtube.com/watch?v=w7398u8G588)
 - [Fujitsu Forum 2017 Keynote - Quantum Computing](https://www.youtube.com/watch?v=ntI8OM14BDs)
+- [Euan Allen & Alex Moylett - Quantum Computers: From Hardware to Software](https://www.youtube.com/watch?v=2C6k0azhX30)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
