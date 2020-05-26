@@ -45,7 +45,9 @@
 --------------
 ---------------------
 
-### [D-Wave Quantum Compute Systems](https://www.dwavesys.com/quantum-computing)
+#### [D-Wave Quantum Compute Systems](https://www.dwavesys.com/quantum-computing)
+
+- [Leap Cloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-Quantum_Computing_Review/leap.md)
 
 
 
