@@ -6,6 +6,10 @@
 - [Quantum computing explained with a deck of cards | Dario Gil, IBM Research](https://www.youtube.com/watch?v=yy6TV9Dntlw&list=RDQMRs0q-Z4CEtM&start_radio=1)
 - [Quantum computers and their practical applications](https://www.youtube.com/watch?v=_-eQqAHsEao)
 - [Quantum Computing algorithm and new business applications](https://www.youtube.com/watch?v=2z5vezzWkes)
+- [DOE CSGF 2019: Quantum Computation for Science](https://www.youtube.com/watch?v=sGFZEMgM5F4)
+- [Quantum Computing and Workforce, Curriculum, and Application Development: An overview]()
+- [Practical Quantum Computing - MIT AI Conference 2019](https://www.youtube.com/watch?v=923MykXgcSE)
+
 
 -------------------------
 Quantum compute for Science
