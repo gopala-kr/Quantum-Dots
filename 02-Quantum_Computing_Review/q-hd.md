@@ -25,6 +25,7 @@
 - [A Basic Introduction to Quantum Computing: Hardware, software, and applications](https://www.youtube.com/watch?v=SbN0A38ORwQ)
 - [Forest: an Operating System for Quantum Computing](https://www.youtube.com/watch?v=SDQXGv1V2dc)
 - [Fred Chong: Closing the Gap Between Quantum Algorithms and Hardware](https://www.youtube.com/watch?v=GYHdutMfoX4)
+- [Liquid: A Software Design Architecture and Domain-Specific Language for Quantum Computing](https://www.youtube.com/watch?v=f29QQhecbMU)
 
 ----------
 ![9ceae3ed](https://rigetti.com/static/main/img/blue-machine.9ceae3ed.png)
