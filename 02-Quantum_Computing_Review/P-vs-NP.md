@@ -1,3 +1,13 @@
+--------------------------
+
+- [Complexity: P, NP, NP-completeness, Reductions](https://www.youtube.com/watch?v=mr1FMrwi6Ew)
+- [What Computers Can't Do - with Kevin Buzzard](https://www.youtube.com/watch?v=jQPb7DRMoZY)
+- [Millennium Problems](https://www.youtube.com/playlist?list=PLr1ycqeEZMLtDUNUjWId-1WKl4ZzTKOEL)
+- [NP-Hard and NP-Complete Problems](https://www.youtube.com/watch?v=e2cF8a5aAhE)
+- [Beyond Computation: The P vs NP Problem - Michael Sipser](https://www.youtube.com/watch?v=msp2y_Y5MLE)
+- []()
+- []()
+
 ------------------
 
 - [Dynamical Systems Theory and Algorithms for NP-hard Problems](https://arxiv.org/pdf/2005.05052.pdf)
