@@ -5,7 +5,7 @@
 ------------
 - [QC Timeline](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing)
 - [Qunatum Time Travel](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/qtt.md)
-- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)
+- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)  [QHd](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-hd.md)
 - [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-t.md)
 - [Quantum AI](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-QuantumML_ContactTracing/q-ai.md)
 - [Quantum Players: Research Groups, Organizations, Startups and Investors](https://quantumcomputingreport.com/news/)
