@@ -4,13 +4,13 @@
 
 ------------
 - [QC Timeline](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing)
-- [Qunatum Time Travel](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/qtt.md)
-- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)  | [QHd](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-hd.md)
+- [Quantum Time Travel](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/qtt.md)
+- [Quantum Hardwares](https://quantumcomputingreport.com/scorecards/qubit-technology/)  | [Q-Hardware+Software](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-hd.md)
 - [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-t.md)
 - [Quantum AI](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-ai.md)
-- [Quantum Players: Research Groups, Organizations, Startups and Investors](https://quantumcomputingreport.com/news/)
+- [Quantum Players: Research Groups, Organizations, Startups and Investors](https://quantumcomputingreport.com/players/)
 - [Quantum News](https://quantumcomputingreport.com/news/)
-- [Qunatum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-m.md)
+- [Quantum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-m.md)
 - [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/p-q.md)
 - [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-supremacy.md)
 - [Applications and Use Cases](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-a.md)
