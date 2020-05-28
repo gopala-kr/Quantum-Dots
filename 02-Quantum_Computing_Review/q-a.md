@@ -56,7 +56,9 @@ Quantum Applications:
 -------------
 ![illus_quantum_technologies_supplychain_yole_jan2020_](http://www.yole.fr/iso_album/illus_quantum_technologies_supplychain_yole_jan2020_(430x278).jpg)
 -------------
-![]()
+[Qiskit Aqua — A Library of Quantum Algorithms and Applications](https://medium.com/qiskit/qiskit-aqua-a-library-of-quantum-algorithms-and-applications-33ecf3b36008)
+
+![wfBylzNphPJtCAHHE2x0AA](https://miro.medium.com/max/2000/1*wfBylzNphPJtCAHHE2x0AA.png)
 -------------
 ![]()
 -------------
