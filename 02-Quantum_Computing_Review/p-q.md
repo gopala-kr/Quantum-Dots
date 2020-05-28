@@ -75,8 +75,13 @@ Accessible:
 - [IonQ: An Investment in our Quantum Future](https://news.samsung.com/us/ionq-investment-quantum-future/)
 
 ----------
-- [Quantum Computing Courses](https://www.coursera.org/courses?query=quantum%20computing)
-- [edx](https://www.edx.org/learn/quantum-computing)
-- [MITx](https://learn-xpro.mit.edu/quantum-computing)
+- [FutureLearn: Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing)
+- [coursera: Quantum Computing Courses](https://www.coursera.org/courses?query=quantum%20computing)
+- [edx: Quantum Computing Courses](https://www.edx.org/learn/quantum-computing)
+- [MITx: Quantum Computing Fundamentals Online Program](https://learn-xpro.mit.edu/quantum-computing)
+- [IIT Swayam: Quantum Computing](https://swayam.gov.in/nd1_noc19_cy31/preview)
+- [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-.w.A4GaHhzteiICGqJ9WYw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
+- [QC051: Math Prerequisites for Quantum Computing](https://www.udemy.com/course/mathematics-prerequisites-for-quantum-computing-and-quantum-physics/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-kY1K3U9iJbrJJ8NkRdyTFQ&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
+- [Quantum Computing](https://brilliant.org/courses/quantum-computing/)
 ------------
 --------
