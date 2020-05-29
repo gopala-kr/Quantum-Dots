@@ -12,7 +12,7 @@
 - [How Will Quantum Technology Change Our Lives?](https://www.youtube.com/watch?v=St76QFAjwXY)
 
 -------------------------
-Quantum compute for Science
+Quantum Compute for Science
 
 
 - [Quantum Computer Systems for Scientific Discovery](https://arxiv.org/pdf/1912.07577.pdf) :star: :star:
@@ -21,12 +21,14 @@ Quantum compute for Science
 
 
 
-Quantum Use cases  Business
+Quantum Compute for Business
 
 - [Quantum Computing Services & Applications](https://www.accenture.com/_acnmedia/PDF-54/Accenture-807510-Quantum-Computing-RGB-V02.pdf#zoom=50)
 - [Exploring quantum computing use cases for manufacturing](https://www.ibm.com/downloads/cas/LJBOKBLW)
 - [Exploring quantum computing use cases for financial services](https://www.ibm.com/thought-leadership/institute-business-value/report/exploring-quantum-financial)
 - [A Quantum Computing Use Case Roadmap from IBM](https://quantumcomputingreport.com/our-take/a-quantum-computing-application-roadmap-from-ibm/)
+- [D-Wave Quantum Applications](https://www.dwavesys.com/applications)
+
 
 -----------------
 
@@ -38,6 +40,7 @@ Quantum Applications:
 - [6 Things Quantum Computers Will Be Incredibly Useful For](https://singularityhub.com/2017/06/25/6-things-quantum-computers-will-be-incredibly-useful-for/)
 - [Quantum Computing Applications in 2020: In-Depth Guide](https://research.aimultiple.com/quantum-computing-applications/)
 - [Applications and Use Cases for the Quantum Internet](https://tools.ietf.org/id/draft-wang-qirg-quantum-internet-use-cases-02.html)
+- [Near-term QC applications in industry](https://www.dwavesys.com/sites/default/files/33_Thurs_AM_Neukhart.pdf)
 
 -------------
 ![IBM-App-Presentation-1](https://secureservercdn.net/166.62.111.84/80b.bf1.myftpupload.com/wp-content/uploads/2019/08/IBM-App-Presentation-1-August-20-2019.png)
