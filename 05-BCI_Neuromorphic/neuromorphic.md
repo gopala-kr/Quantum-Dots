@@ -1,5 +1,13 @@
 ------------
 
+- [Exponential Progress of AI: Moore's Law, Bitter Lesson, and the Future of Computation](https://www.youtube.com/watch?v=Me96OWd44q0)
+- [J. Grollier - Neuromorphic computing: overview and challenges](https://www.youtube.com/watch?v=yfnJqVHmJEw)
+- [Stanford Seminar: Neuromorphic Chips: Addressing the Nanostransistor Challenge](https://www.youtube.com/watch?v=vHlbC74RJGU)
+- [IEE/CSE 598: Lecture 7G (2020-04-15) - Intro. to Spiking Neural Networks and Neuromorphic Computing](https://www.youtube.com/watch?v=ICw2_49dSNw)
+- [Mike Davies: Realizing the Promise of Spiking Neuromorphic Hardware](https://www.youtube.com/watch?v=jhQgElvtb1s)
+
+------------
+
 - [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf)
 - [n-comp](https://www.asx.com.au/asxpdf/20180910/pdf/43y5hsy283pj3b.pdf)
 - [Roadmap for Neuromorphic Computing](http://ornlcda.github.io/neuromorphic2016/presentations/KatieSchumanKeynote.pdf)
