@@ -1,5 +1,12 @@
 ------------------
 
+- [Researchers Explore Quantum Computing to Discover Possible COVID-19 treatments](https://www.newswise.com/coronavirus/researchers-explore-quantum-computing-to-discover-possible-covid-19-treatments/?article_id=731077)
+- [Quantum Machine Learning: A New Weapon Against COVID-19?](https://www.hpcwire.com/2020/05/06/quantum-machine-learning-a-new-weapon-against-covid-19/)
+- [deploying-quantum-computers-service-combat-coronavirus-pandemic](https://www.analyticsinsight.net/deploying-quantum-computers-service-combat-coronavirus-pandemic/)
+- [Quantum Computing Engaged to Discover Possible COVID-19 Treatments](https://scitechdaily.com/quantum-computing-engaged-to-discover-possible-covid-19-treatments/)
+
+---------------
+
           Leap is being used by several large companies to develop in-house quantum software. Among them 
           are Volkswagen, which built a super-accurate public-transport simulator to plan bus routes, 
           and Telecom Italia, which built a quantum application for optimizing 5G networks.
