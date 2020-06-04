@@ -6,7 +6,7 @@
 - [Stanford Seminar: Neuromorphic Chips: Addressing the Nanostransistor Challenge](https://www.youtube.com/watch?v=vHlbC74RJGU)
 - [IEE/CSE 598: Lecture 7G (2020-04-15) - Intro. to Spiking Neural Networks and Neuromorphic Computing](https://www.youtube.com/watch?v=ICw2_49dSNw)
 - [Mike Davies: Realizing the Promise of Spiking Neuromorphic Hardware](https://www.youtube.com/watch?v=jhQgElvtb1s)
-- [ISSCC2019: Intelligence on Silicon: From Deep Neural Network Accelerators to Brain-Mimicking AI-SoCs](ISSCC2019: Intelligence on Silicon: From Deep Neural Network Accelerators to Brain-Mimicking AI-SoCs)
+- [ISSCC2019: Intelligence on Silicon: From Deep Neural Network Accelerators to Brain-Mimicking AI-SoCs](https://www.youtube.com/watch?v=gbiQ_YB48wA)
 - [From BrainScales to Human Brain Project: Neuromorphic Computing Coming of Age](https://www.youtube.com/watch?v=g-ybKtY1quU)
 - [Leading the Evolution of Compute: Neuromorphic and Quantum Computing](https://www.youtube.com/watch?v=8xJXnDVxAzA)
 - [Neuro-Inspired Computing with Synaptic and Neuronal Devices - Shimeng Yu](https://www.youtube.com/watch?v=4TV6jcJek54)
@@ -39,6 +39,9 @@
 - [n-comp](https://www.asx.com.au/asxpdf/20180910/pdf/43y5hsy283pj3b.pdf)
 - [Roadmap for Neuromorphic Computing](http://ornlcda.github.io/neuromorphic2016/presentations/KatieSchumanKeynote.pdf)
 - [A Brief History of Neuromorphic Computing](https://knowm.org/a-brief-history-of-neuromorphic-computing/)
+
+-------
+![Screen-Shot](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-5.02.57-PM.png)
 ------------
 ![Neuromorphic](https://slideplayer.com/slide/9902814/32/images/2/What+is+Neuromorphic+Computing.jpg)
 ------------
