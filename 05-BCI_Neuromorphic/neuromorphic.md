@@ -136,9 +136,9 @@
 --------
 ![Brainchip4](https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Brainchip4.png)
 --------
-![]()
+![ibm-neurosynaptic-chip-truenorth-diagram](https://www.nonteek.com/wp-content/uploads/2018/10/ibm-neurosynaptic-chip-truenorth-diagram.jpg)
 --------
-![]()
+![Brainchip7](https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Brainchip7.png)
 
 --------
 ---------------
