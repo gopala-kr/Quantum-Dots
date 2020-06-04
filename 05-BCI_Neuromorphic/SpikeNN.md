@@ -28,10 +28,11 @@ shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [Large-Scale Neuromorphic Spiking Array Processors: A quest to mimic the brain](https://arxiv.org/abs/1805.08932v1)
 - [SNRA: A Spintronic Neuromorphic Reconfigurable Array for In-Circuit Training and Evaluation of Deep Belief Networks](https://arxiv.org/abs/1901.02415v1)
 - [MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor with Stochastic Spike-Driven Online Learning](https://arxiv.org/abs/1904.08513v2)
-- []()
-- []()
-- []()
+- [Mapping Spiking Neural Networks to Neuromorphic Hardware](https://arxiv.org/abs/1909.01843v1)
+- [Towards Accurate and High-Speed Spiking Neuromorphic Systems with Data Quantization-Aware Deep Networks](https://arxiv.org/abs/1805.03054v3)
+
 ----------
+
 - [The Operating System of the Neuromorphic BrainScaleS-1 System](https://arxiv.org/abs/2003.13749v1) :star:
 - [Accelerated Analog Neuromorphic Computing](https://arxiv.org/abs/2003.11996v1)
 - [Verification and Design Methods for the BrainScaleS Neuromorphic Hardware System](https://arxiv.org/abs/2003.11455v1)
@@ -50,8 +51,8 @@ shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [Demonstrating Advantages of Neuromorphic Computation: A Pilot Study](https://arxiv.org/abs/1811.03618v4)
 - [Dynamic Power Management for Neuromorphic Many-Core Systems](https://arxiv.org/abs/1903.08941v1)
 - [Neuromorphic Electronic Systems for Reservoir Computing](https://arxiv.org/abs/1908.09572v1)
-- []()
-- []()
+- [A Memristor based Unsupervised Neuromorphic System Towards Fast and Energy-Efficient GAN](https://arxiv.org/abs/1806.01775v4)
+- [Introducing Astrocytes on a Neuromorphic Processor: Synchronization, Local Plasticity and Edge of Chaos](https://arxiv.org/abs/1907.01620v2)
 -------------
 ![based-Neural-Network-Development-A-Network-Specification-A-Since](https://www.researchgate.net/profile/Micah_Richert/publication/220885927/figure/fig3/AS:645362712850452@1530877869851/Framework-for-Spike-based-Neural-Network-Development-A-Network-Specification-A-Since.png)
 
