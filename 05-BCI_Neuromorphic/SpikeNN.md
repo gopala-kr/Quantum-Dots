@@ -20,12 +20,25 @@ shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [Compiling Spiking Neural Networks to Neuromorphic Hardware](https://arxiv.org/abs/2004.03717v2)
 - [Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences](https://arxiv.org/abs/2005.02183v1)
 - [Mapping high-performance RNNs to in-memory neuromorphic chips](https://arxiv.org/abs/1905.10692v4)
-
+- [Federated Neuromorphic Learning of Spiking Neural Networks for Low-Power Edge Intelligence](https://arxiv.org/abs/1910.09594v1)
+- [Conversion of Artificial Recurrent Neural Networks to Spiking Neural Networks for Low-power Neuromorphic Hardware](https://arxiv.org/abs/1601.04187v1)
+- [Convolutional Networks for Fast, Energy-Efficient Neuromorphic Computing](https://arxiv.org/abs/1603.08270v2)
+- [Neuromorphic Hardware In The Loop: Training a Deep Spiking Network on the BrainScaleS Wafer-Scale System](https://arxiv.org/abs/1703.01909v1)
+- [Robustness from structure: Inference with hierarchical spiking networks on analog neuromorphic hardware](https://arxiv.org/abs/1703.04145v1)
+- []()
+- []()
 ----------
 - [The Operating System of the Neuromorphic BrainScaleS-1 System](https://arxiv.org/abs/2003.13749v1) :star:
 - [Accelerated Analog Neuromorphic Computing](https://arxiv.org/abs/2003.11996v1)
 - [Verification and Design Methods for the BrainScaleS Neuromorphic Hardware System](https://arxiv.org/abs/2003.11455v1)
 - [Is my Neural Network Neuromorphic? Taxonomy, Recent Trends and Future Directions in Neuromorphic Engineering](https://arxiv.org/abs/2002.11945v1)
+- [A recipe for creating ideal hybrid memristive-CMOS neuromorphic computing systems](https://arxiv.org/abs/1912.05637v1)
+- [Neuromorphic Deep Learning Machines](https://arxiv.org/abs/1612.05596v2)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------
 ![based-Neural-Network-Development-A-Network-Specification-A-Since](https://www.researchgate.net/profile/Micah_Richert/publication/220885927/figure/fig3/AS:645362712850452@1530877869851/Framework-for-Spike-based-Neural-Network-Development-A-Network-Specification-A-Since.png)
