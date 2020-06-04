@@ -9,7 +9,7 @@
 - [Quantum Tools & Tech](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-t.md)
 - [Quantum AI](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-ai.md)
 - [Quantum Players: Research Groups, Organizations, Startups and Investors](https://quantumcomputingreport.com/players/)
-- [Quantum News](https://quantumcomputingreport.com/news/)
+- [Quantum News](https://quantumcomputingreport.com/news/) | [G-News](https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFk1YTJRU0JXVnVMVWRDS0FBUAE?hl=en-IN&gl=IN&ceid=IN%3Aen)
 - [Quantum Market Analysis](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-m.md)
 - [Practical Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/p-q.md)
 - [Quantum Supremacy](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review/q-supremacy.md)
