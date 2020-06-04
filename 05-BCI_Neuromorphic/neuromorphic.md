@@ -134,7 +134,7 @@
 --------
 ![sl11-1554390277563](https://res.infoq.com/presentations/general-ai-ml/en/slides/sl11-1554390277563.jpg)
 --------
-![]()
+![Brainchip4](https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Brainchip4.png)
 --------
 ![]()
 --------
