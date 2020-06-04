@@ -1,4 +1,5 @@
 -----------------
+- [Memristors -- from In-memory computing, Deep Learning Acceleration, Spiking Neural Networks, to the Future of Neuromorphic and Bio-inspired Computing](https://arxiv.org/abs/2004.14942v1) :star:
 - [Brain-inspired hierarchical spiking neural network using unsupervised STDP rule for image classification](https://www.semanticscholar.org/paper/Brain-inspired-hierarchical-spiking-neural-network-Liu-Huo/559a6aef1f67c1c6efa42ef3d93e92ca969853f0)
 - [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150.pdf)
 - [Deep Convolutional Spiking Neural Networks
@@ -17,6 +18,14 @@ neuromorphic modelling methods](https://arxiv.org/pdf/1805.11144.pdf)
 shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6209684/)
 - [Compiling Spiking Neural Networks to Neuromorphic Hardware](https://arxiv.org/abs/2004.03717v2)
+- [Comparing SNNs and RNNs on Neuromorphic Vision Datasets: Similarities and Differences](https://arxiv.org/abs/2005.02183v1)
+- [Mapping high-performance RNNs to in-memory neuromorphic chips](https://arxiv.org/abs/1905.10692v4)
+
+----------
+- [The Operating System of the Neuromorphic BrainScaleS-1 System](https://arxiv.org/abs/2003.13749v1) :star:
+- [Accelerated Analog Neuromorphic Computing](https://arxiv.org/abs/2003.11996v1)
+- [Verification and Design Methods for the BrainScaleS Neuromorphic Hardware System](https://arxiv.org/abs/2003.11455v1)
+- [Is my Neural Network Neuromorphic? Taxonomy, Recent Trends and Future Directions in Neuromorphic Engineering](https://arxiv.org/abs/2002.11945v1)
 
 -------------
 ![based-Neural-Network-Development-A-Network-Specification-A-Since](https://www.researchgate.net/profile/Micah_Richert/publication/220885927/figure/fig3/AS:645362712850452@1530877869851/Framework-for-Spike-based-Neural-Network-Development-A-Network-Specification-A-Since.png)
