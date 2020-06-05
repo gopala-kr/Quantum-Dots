@@ -139,6 +139,21 @@
 ![ibm-neurosynaptic-chip-truenorth-diagram](https://www.nonteek.com/wp-content/uploads/2018/10/ibm-neurosynaptic-chip-truenorth-diagram.jpg)
 --------
 ![Brainchip7](https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Brainchip7.png)
+----------
+![fninf-12-00068-g012](https://www.frontiersin.org/files/Articles/374555/fninf-12-00068-HTML/image_m/fninf-12-00068-g012.jpg)
+------
+![31-0](https://docplayer.net/docs-images/51/27943199/images/31-0.png)
+
+---------
+![]()
+---------
+![]()
+---------
+![]()
+---------
+![]()
+---------
+![]()
 
 --------
 ---------------
