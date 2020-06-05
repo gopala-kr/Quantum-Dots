@@ -30,6 +30,8 @@ shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor with Stochastic Spike-Driven Online Learning](https://arxiv.org/abs/1904.08513v2)
 - [Mapping Spiking Neural Networks to Neuromorphic Hardware](https://arxiv.org/abs/1909.01843v1)
 - [Towards Accurate and High-Speed Spiking Neuromorphic Systems with Data Quantization-Aware Deep Networks](https://arxiv.org/abs/1805.03054v3)
+- [A Spike-Timing Neuromorphic Architecture](https://www.osti.gov/servlets/purl/1470698)
+- [A System-Level Simulator for RRAM-Based Neuromorphic Computing Chips](https://dl.acm.org/doi/fullHtml/10.1145/3291054)
 
 ----------
 
