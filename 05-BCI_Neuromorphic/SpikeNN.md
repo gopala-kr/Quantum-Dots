@@ -55,6 +55,8 @@ shallow networks?](https://arxiv.org/pdf/1905.04101.pdf)
 - [Neuromorphic Electronic Systems for Reservoir Computing](https://arxiv.org/abs/1908.09572v1)
 - [A Memristor based Unsupervised Neuromorphic System Towards Fast and Energy-Efficient GAN](https://arxiv.org/abs/1806.01775v4)
 - [Introducing Astrocytes on a Neuromorphic Processor: Synchronization, Local Plasticity and Edge of Chaos](https://arxiv.org/abs/1907.01620v2)
+- [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/pdf/2002.03794.pdf) :star:
+
 -------------
 ![based-Neural-Network-Development-A-Network-Specification-A-Since](https://www.researchgate.net/profile/Micah_Richert/publication/220885927/figure/fig3/AS:645362712850452@1530877869851/Framework-for-Spike-based-Neural-Network-Development-A-Network-Specification-A-Since.png)
 
