@@ -1,0 +1,11 @@
+------------------
+- [History and Future of Brain-Machine Interfaces (BMI, BCI)](https://www.youtube.com/watch?v=N0_LQnfG6Do)
+- [Introduction to Modern Brain-Computer Interface Design](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq)
+- [Brain Machine Interfaces: from basic science to neuroprostheses and neurological recovery](https://www.youtube.com/watch?v=IKSVgja-AYU)
+- [Brain-Computer Interfaces: One Possible Future for How We Play](https://www.youtube.com/watch?v=Qhj3C1H5JWo)
+- [Neuralink: Merging Man and Machine](https://www.youtube.com/watch?v=0jOjh6lwp9w)
+- [PyTorch Deep Learning for EEG decoding and Brain-Computer Interfaces : Tutorial](https://www.youtube.com/watch?v=NEJqWq4RPZQ)
+- [Brain Computer Interface (BCI)](https://www.youtube.com/watch?v=eTofdWcUV2I)
+- [New Brain Computer interface technology | Steve Hoffman](https://www.youtube.com/watch?v=CgFzmE2fGXA)
+----------
+--------------
