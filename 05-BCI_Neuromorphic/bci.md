@@ -7,5 +7,8 @@
 - [PyTorch Deep Learning for EEG decoding and Brain-Computer Interfaces : Tutorial](https://www.youtube.com/watch?v=NEJqWq4RPZQ)
 - [Brain Computer Interface (BCI)](https://www.youtube.com/watch?v=eTofdWcUV2I)
 - [New Brain Computer interface technology | Steve Hoffman](https://www.youtube.com/watch?v=CgFzmE2fGXA)
+- [How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation](https://www.youtube.com/watch?v=LZPZFeOOerA)
+- [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
+
 ----------
 --------------
