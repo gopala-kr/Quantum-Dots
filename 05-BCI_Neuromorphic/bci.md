@@ -9,6 +9,54 @@
 - [New Brain Computer interface technology | Steve Hoffman](https://www.youtube.com/watch?v=CgFzmE2fGXA)
 - [How to Control Things Using Your Brain (and Open-Source Hardware) | Cyborg Nation](https://www.youtube.com/watch?v=LZPZFeOOerA)
 - [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
+- [Human brain mapping and brain decoding. | Jack Gallant](https://www.youtube.com/watch?v=Ecvv-EvOj8M)
+- [The Human Connectome Project - Relating Brain Circuits to Behavior: David Van Essen](https://www.youtube.com/watch?v=i2W570VgV6I)
+- [Neuro Information Technology: Can We Take Control of Our Brain Circuit | Jin Hyung Lee](https://www.youtube.com/watch?v=ZsDDCeXsMxg)
+- [Machine learning + neuroscience = biologically feasible computing | Benjamin Migliori](https://www.youtube.com/watch?v=iPdKMs9cEAs)
+- [Brain Co-Processors-When AI Meets the Brain | Rajesh Rao](https://www.youtube.com/watch?v=DH5HBQD69oI) :star:
+- [How the brain will be enhanced in the future | Tan Le](https://www.youtube.com/watch?v=aIpbEQZlgk8)
+- [Brain Computer Interface (BCI) Based UAV](https://www.youtube.com/watch?v=zt1AdiktwXs)
+- [bci doc](https://www.youtube.com/watch?v=4rpv451azEE)
+- [Brain Implant Could Change Lives](https://www.youtube.com/watch?v=_6oNoLWcDqw)
+- [The Future Of Brain Computer Interfaces](https://www.youtube.com/watch?v=kR1wvi2EFxA)
+- [Mysteries of the Brain: Brain-Computer Interface](https://www.youtube.com/watch?v=p1XQ4uxqxZI)
+- [Introduction to Neuroanatomy - Neurophysiology](https://www.youtube.com/watch?v=auogbJFitmI)
+- [Betting On Mind-Reading Technology](https://www.youtube.com/watch?v=R3G5fzz76lQ)
+- [Mind-Machine Interfaces](https://www.youtube.com/watch?v=OCLLzI4R3bc)
+- [Towards Mainstream Brain-Computer Interfaces (BCIs)](https://www.youtube.com/watch?v=GmGZucdZqx4)
+- [Current State and Future of Brain-Machine Interfaces](https://www.youtube.com/watch?v=d7f8hNAX7N8)
+- [Getting Somewhere! - Brain Computer Interface w/ Python, OpenBCI, and EEG data](https://www.youtube.com/results?search_query=bci+brain+computer+interface)
+- [fNIRS and Brain Computer Interfaces for Communication](https://www.youtube.com/watch?v=C_jHS2cdibU)
+- [From Scanning Brains to Reading Minds: Talking to Engineers about Brain-Computer Interface](https://www.youtube.com/watch?v=7glWqYS8eqY)
+- [Dr. Phillip Alvelda: The Future of Neural Interface, DARPA BiT](https://www.youtube.com/watch?v=vjac3RBoK1c) :star:
+- [Neural Dust, A Platform for Neural Interfaces](https://www.youtube.com/watch?v=jYVtn10BU0A)
+- [Brain-computer interfaces: two concurrent learning problems - Maureen Clerc](https://www.youtube.com/watch?v=hIh2BR8viCY)
+- [Brain Computer Interfaces](https://www.youtube.com/watch?v=HhXg6568I3E)
+- [EEG Workshop: Basics, Even-related potentials and Brain-Computer interface (BCI)](https://www.youtube.com/watch?v=szINqp2DvNo)
+- [The Open Source Neuro Tech Revolution // OpenBCI Founder Q&A + Live Demo](https://www.youtube.com/watch?v=GN7FQdvUt_E)
+- [Decoding Intentions and Encoding Sensations: The Emerging Science of Brain-Computer Interfacing](https://www.youtube.com/watch?v=3m6PWMYTD1g)
+- [Philip Sabes - Brain-Machine Interface || Neuralink](https://www.youtube.com/watch?v=_hD6CYnw5kQ)
+- [AI BCI Brain-Computer Interface](https://www.youtube.com/playlist?list=PLmwzCh1HcdaUxVsar-SBZbjsHwgIh-djd)
+- [Artificial Intelligence Colloquium: A New Paradigm of Brain-Computer Interface](https://www.youtube.com/watch?v=noflKkBUK6o) :star:
+- [Integrating Brain-Computer Interface Technology With Augmented and Virtual Reality](https://www.youtube.com/watch?v=fn9eBJFvSuA)
+- [HC29-K1: The Direct Human/Machine Interface and Hints of a General Artificial Intelligence](https://www.youtube.com/watch?v=PVuSHjeh1Os)
+- [NeuroTechX Webinar#3 - BCI UX: User Focused Paradigms for Enhancing Brain-Computer Interfaces](https://www.youtube.com/watch?v=92Fn9jBJXBA)
+- [BRAIN COMPUTER INTERFACE - PATRICK GANZER : NEUROTECHNOLOGY RESEARCH SCIENTIST- BATTELLE](https://www.youtube.com/watch?v=mKk2MN6K7XI)
+- [Stanford: Demonstration of Brain Computer Interface Using the Emotive Epoc](https://www.youtube.com/watch?v=TwUyOmtxh-U)
+- [Brain Computer Interface: Present and Future. Ariel Garten, Tim Mullen](https://www.youtube.com/watch?v=kD9d6dSy97g)
+- [SW. LEE - A Mind-Reading Technology: Brain-Computer Interface](https://www.youtube.com/watch?v=kBvX16VJOWg)
+- [Mind-controlling the Web with Brain-Computer Interfaces](https://www.youtube.com/watch?v=yMQoQxRZx0s)
+- [A Brain-Computer Interface for Rapid Image Searching](https://www.youtube.com/watch?v=YyJJ6g8aIYw)
+- [Neuralink Brain Control Interface (BCI) Startup Presentation Livestream](https://www.youtube.com/watch?v=NkZF6uJROEg)
 
+----------
+- [Introduction to EEG](https://www.youtube.com/watch?v=XMizSSOejg0)
+- [Neuroanatomy made ridiculously simple](https://www.youtube.com/watch?v=gvX5ao5SCjE)
+- [Intro to EEG and ECoG: Applications in Sleep, BCI, and Brain Mapping](https://www.youtube.com/watch?v=sPI_F49Ywn0)
+- [NTX BCI_101 Online Event Series (2020)](https://www.youtube.com/playlist?list=PL7yYIG1eq9bRge90a9Li8pHZSNCTKYApd) :star:
+
+----------
+- [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography)
+- [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://www.nature.com/articles/s41598-019-41895-7) [PDF](https://arxiv.org/pdf/1809.08632.pdf)
 ----------
 --------------
