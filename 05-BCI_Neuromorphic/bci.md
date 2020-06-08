@@ -57,6 +57,44 @@
 
 ----------
 - [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography)
+- [An integrated brain-machine interface platform with thousands of channels, Elon Musk & Neuralink](https://www.biorxiv.org/content/10.1101/703801v4.full.pdf)
+- [https://techcrunch.com/tag/brain-computer-interface/](https://techcrunch.com/tag/brain-computer-interface/)
 - [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://www.nature.com/articles/s41598-019-41895-7) [PDF](https://arxiv.org/pdf/1809.08632.pdf)
+- [A survey of signal processing algorithms
+in brain–computer interfaces based on
+electrical brain signals](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.7681&rep=rep1&type=pdf)
+- [Survey on Brain-Computer Interface: An Emerging Computational Intelligence Paradigm](https://dl.acm.org/doi/fullHtml/10.1145/3297713) :star: , [[PDF](https://eclass.uop.gr/modules/document/file.php/DIT209/%CF%80%CF%81%CE%BF%CF%84%CE%B5%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%B7%20%CE%B8%CE%B5%CE%BC%CE%B1%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%202019-2020/Survey%20on%20Brain-Computer%20Interface.pdf)]
+- [Brain-Computer Interface Users Speak Up: The
+Virtual Users’ Forum at the 2013 International
+Brain-Computer Interface Meeting](https://www.ohsu.edu/sites/default/files/2020-03/Peters%20et%20al.%2C%202015%20-%20BCI%20Users%20Speak%20Up.pdf)
+- [A Review of Brain-Computer Interface Games and an Opinion Survey from Researchers, Developers and Users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178978/)
+- [Brain–computer interfaces (BCIs): Detection instead of classification](http://www.cs.cmu.edu/~tanja/BCI/BCIreview.pdf)
+- [INTERNATIONAL ASSESSMENT OF RESEARCH AND DEVELOPMENT
+IN BRAIN-COMPUTER INTERFACES](https://www.neurotechcenter.org/sites/default/files/misc/Brain-computer%20interfaces%20%28BCIs%29%20-%20Detection%20instead%20of%20classification.pdf) :star:
+- [Brain Computer Interface: a Data Protection
+Perspective](https://inspire.cse.unt.edu/sites/default/files/20.pdf)
+- [A self-paced brain–computer interface for controlling a robot
+simulator: an online event labelling paradigm and an extended
+Kalman filter based algorithm for online training](http://www.robots.ox.ac.uk/~sjrob/Pubs/tsui_etal_BCI_2009.pdf)
+- [Brain-computer interface-based control of closedloop brain stimulation: attitudes and ethical
+considerations](https://scholar.harvard.edu/files/awidge/files/brain_computer_interface_based_control_of_closed_loop_brain_stimulation_attitudes_and_ethical_considerations_-_bci_-_2016.pdf)
+- [Heading for new shores! Overcoming pitfalls in BCI design](https://hal.inria.fr/hal-01415906/file/Chavarriaga_Pitfalls_Asilomar2016_revision.pdf)
+- [A Review of Classification Algorithms for EEG-based
+Brain-Computer Interfaces: A 10-year Update](https://hal.inria.fr/hal-01846433/document)
+- [Microsoft Research: Brain-Computer Interfacing
+for Intelligent Systems](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf)
+- [Brain Computer Interface Technologies in the Coming Decades](https://www.researchgate.net/publication/232809021_Brain_Computer_Interface_Technologies_in_the_Coming_Decades)
+- [The brain–computer interface cycle](https://www.researchgate.net/publication/26686434_The_brain-computer_interface_cycle)
+- [Introduction: Evolution of Brain-Computer Interfaces](https://hal.inria.fr/hal-01656743/document)
+- [Mindfulness Improves Brain Computer Interface Performance by
+Increasing Control over Neural Activity in the Alpha Band](https://www.biorxiv.org/content/10.1101/2020.04.13.039081v1.full.pdf)
+- [Electroencephalography (EEG)-based Brain-Computer
+Interfaces](https://hal.inria.fr/hal-01167515/document)
+- [Brain-Computer Interface Research: A State-of-the-Art Summary 7, 2017](https://www.researchgate.net/publication/334296768_Brain-Computer_Interface_Research_A_State-of-the-Art_Summary_7_2017)
+
+---------
+![csur5201](https://dl.acm.org/cms/attachment/0c7a7144-892d-4d73-b478-ef5ece05e68f/csur5201-20-f01.jpg)
+-------
+![csur5201](https://dl.acm.org/cms/attachment/15649ff3-c9b8-4684-9eb0-7a820275d999/csur5201-20-f04.jpg)
 ----------
 --------------
