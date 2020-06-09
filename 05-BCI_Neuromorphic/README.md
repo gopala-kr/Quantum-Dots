@@ -23,5 +23,12 @@ Neuromorphic Computing
 - [Current Neuromorphic Chips: Market Analysis]()
 - [Applications]()
 
+--------------------------
+
+DNA Computing & Molecular Programming
+
+- [DNA Properties as Computation](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/dna-c.md)
+- [DNA Storage]()
+
 -------------
 -------------------
