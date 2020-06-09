@@ -1,0 +1,18 @@
+-----------------------
+- [Human Brain Project](https://flagship.kip.uni-heidelberg.de/jss/FileExchange/D9.7.1_Neuromorphic_Platform_Specification_-_public_version.pdf?fID=3808&s=qqdXDg6HuX3&uID=65)
+- [Neuromorphic Chipsets - Industry Adoption Analysis](https://www.slideshare.net/netscribes123/neuromorphic-chipsets-industry-adoption-analysis)
+- [ETH Zurich: Neuromorphic Spiking Array Processors](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/310459/fnins-12-00891.pdf?sequence=2&isAllowed=y)
+- [A Programming Framework for Neuromorphic Systems withEmerging Technologies](https://dl.acm.org/doi/pdf/10.1145/3109453.3123958)
+- [Towards Neuromorphic Learning Machines UsingEmerging Memory Devices with Brain-LikeEnergy Efficiency](https://res.mdpi.com/d_attachment/jlpea/jlpea-08-00034/article_deploy/jlpea-08-00034-v2.pdf)
+- [Architectures for Neuromorphic Computing](https://www.bnl.gov/modsim2019/files/talks/RajitManohar.pdf)
+- [Neuromorphic Spiking Neural Networks and TheirMemristor-CMOS Hardware Implementations](https://res.mdpi.com/d_attachment/materials/materials-12-02745/article_deploy/materials-12-02745.pdf)
+- [Neuromorphic ComputingArchitectures, Models, and Applications](https://ornlcda.github.io/neuromorphic2016/files/ORNLNeuromorphicComputingWorkshop2016Report.pdf)
+- [Building Block of a Programmable NeuromorphicSubstrate: A Digital Neurosynaptic Core](http://csl.yale.edu/~rajit/ps/GG_app_ijcnn.pdf)
+- [Emerging neuromorphic devices](https://iopscience.iop.org/article/10.1088/1361-6528/ab554b/pdf)
+- [How   neuromorphic computing may   affectour  futurelife](https://www.fz-juelich.de/conferences/HBP-Juelich-Colloquium/EN/_SharedDocs/Downloads/EN/Karlheinz_Meier.pdf?__blob=publicationFile)
+- [Recent trends in neuromorphicengineering](https://core.ac.uk/download/pdf/81748242.pdf)
+- [Dot-Product Engine for Neuromorphic Computing: Programming 1T1M Crossbar to Accelerate Matrix-Vector Multiplication](https://www.labs.hpe.com/techreports/2016/HPE-2016-23.pdf)
+- [Tightly Integrated Deep Learning and SymbolicProgramming on a Single Neuromorphic Chip](https://vmonaco.com/papers/Tightly%20Integrated%20Deep%20Learning%20and%20Symbolic%20Programming%20on%20a%20Single%20Neuromorphic%20Chip.pdf)
+
+---------------------------
+-----------------------------------
