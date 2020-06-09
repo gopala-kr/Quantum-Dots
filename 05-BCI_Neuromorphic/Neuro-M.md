@@ -1,0 +1,15 @@
+---------
+- [Neuromorphic Sensing and Computing 2019](https://yole-i-micronews-com.osu.eu-west-2.outscale.com/uploads/2019/09/YD19039_Neuromorphic_Sensing_Computing2019_sample.pdf)
+- [NEUROMORPHIC COMPUTING](https://pdfs.semanticscholar.org/8f45/2e253a342335e021f1538bc811ab62c28388.pdf)
+- [Neuromorphic Computing: From Materials to Systems Architecture](https://science.osti.gov/-/media/ascr/pdf/programdocuments/docs/Neuromorphic-Computing-Report_FNLBLP.pdf)
+- [NeuromorphicComputing‐Memristors‐Nanobrain](https://www.fp7-nanotec.eu/system/files/uploads/Neuromorphic%20computing%20Grollier_0.pdf)
+- [Neuromorphic Compu-ng in the HBP](https://ec.europa.eu/information_society/newsroom/image/document/2017-8/1_furber_steve_and_meier_karlheinz_CDA4E45F-EF31-6FBF-1642BB9BAB97CEF4_43088.pdf)
+- [White Paper on AI Chip Technologies](https://www.080910t.com/downloads/AI%20Chip%202018%20EN.pdf)
+- [Neuromorphic Chip Market: Understand The Key Growth Drivers Developments And Innovations](https://coleofduty.com/tag/neuromorphic-chip/)
+- [New Computer Architectures and Models -- Neuromorphic Architecture, Quantum Computing and 3D Integration/Photonics/Memristor](https://passlab.github.io/CSE564/notes/lecture26_NeuroQuantum3D.pdf)
+- [BrainChip  Holdings  Limited](https://static1.squarespace.com/static/5af533a312b13fb602fe7d7b/t/5cdbc6c824a694a8e46b5713/1557907167761/BrainChip+initiating+coverage+15+05+19.pdf)
+- [Neuromorphic Electronics](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF5470/h10/undervisningsmateriale/script.pdf)
+- [Neuromorphic Computing and Learning:A Stochastic Signal Processing Perspective](https://nms.kcl.ac.uk/osvaldo.simeone/SNN_Simeone_slides.pdf)
+- [large neuromorphic hardware systems](http://hasler.ece.gatech.edu/Published_papers/Roadmap_paper_Hasler_2013.pdf)
+- [Low-Power, Adaptive Neuromorphic Systems:Recent Progress and Future Directions](https://dr.ntu.edu.sg/bitstream/10356/106809/1/Low-Power%2C%20Adaptive%20Neuromorphic%20Systems.pdf)
+---------------
