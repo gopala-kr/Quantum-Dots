@@ -28,8 +28,9 @@ Quantum Compute for Business
 - [Exploring quantum computing use cases for financial services](https://www.ibm.com/thought-leadership/institute-business-value/report/exploring-quantum-financial)
 - [A Quantum Computing Use Case Roadmap from IBM](https://quantumcomputingreport.com/our-take/a-quantum-computing-application-roadmap-from-ibm/)
 - [D-Wave Quantum Applications](https://www.dwavesys.com/applications)
-
-
+- [D-Wave_Webinar_280519](https://www.dwavesys.com/sites/default/files/D-Wave_Webinar_280519.pdf)
+- [CERN_18_11_5_Ewald](https://indico.cern.ch/event/719844/contributions/3019529/attachments/1746659/2828103/CERN_18_11_5_Ewald.pdf)
+- [QC Ware](https://www.youtube.com/channel/UCWXp-UHkvS_owa1GeIEbmvA)
 -----------------
 
 
