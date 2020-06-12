@@ -117,3 +117,17 @@ Current Research Areas:
 - Demonstrations of feasibility for applications of quantum algorithms.
 
 -----------------
+
+https://riacs.usra.edu/quantum/qacademy
+
+- Quantum Optimization and Sampling Algorithms (e.g. QAOA/VQE/AQC)
+- Benchmarking NISQ Computers
+- Compilation/Embedding of Quantum Algorithms
+- Quantum error-mitigation and correction methods
+- Quantum Algorithms for Materials and Chemistry
+- Numerical Simulation of Quantum Systems
+- Noise Modeling and Open Quantum Systems
+- Physics of Coherent Optical Ising Machines
+- Quantum Complexity Theory
+- (Quantum) Machine Learning applied to Quantum Computing
+-----------------
