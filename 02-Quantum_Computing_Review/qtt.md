@@ -105,6 +105,7 @@ Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 
 - [Adiabatic Quantum Computing](https://arxiv.org/abs/1611.04471)
 - [Adiabatic Quantum Computation Applied to DeepLearning Networks](https://res.mdpi.com/d_attachment/entropy/entropy-20-00380/article_deploy/entropy-20-00380.pdf)
+- [Quantum annealing](https://arxiv.org/ftp/arxiv/papers/1404/1404.2465.pdf)
 - [Adiabatic Quantum Computing](https://www.researchgate.net/publication/51932027_Adiabatic_Quantum_Computing)
 - [Adiabatic Quantum Computing Challenges](https://www.cs.auckland.ac.nz/~cristian/crispapers/p40-calude.pdf)
 - [Adiabatic Quantum Computing Conference 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAp2COu8n02LHkCDt-RTwRG)
@@ -115,7 +116,8 @@ Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [AQC2019](https://www.youtube.com/channel/UCNx1K8JdsjBT5uDMDwsv9gQ/featured)
 --------------
 - [Combinatorial Optimization on Gate Model Quantum Computers: A Survey]()
-
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
+- [Programming Quantum ComputersUsing Design Automation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/1803.01022.pdf)
 --------
 
 - [QEC '19 - The Fifth International Conference on Quantum Error Correction (Senate House, London) 2019](https://www.youtube.com/playlist?list=PLgLkEJ3SUJUS05I_INGLpkNcaWQdXfCeo)
@@ -123,6 +125,10 @@ Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Workshop on Noisy Intermediate-Scale Quantum Technologies, June 6-7, 2019](https://www.youtube.com/playlist?list=PLUz_4vZOI0H01zA7jDg1wwcR3jB1WO2sj)
 - [14th Conference on the Theory of Quantum Computation, Communication and Cryptography, June 3-5, 2019](https://www.youtube.com/playlist?list=PLUz_4vZOI0H1uT0Anxj5gn0RNXuDDN8U9)
 - [Post Quantum Crypto 2018 International Conference](https://www.youtube.com/playlist?list=PLPf_zcX3mNAwVYO_bohkVIIQ8d2mssyL4)
+- [Conference: Quantum Frontiers and Fundamentals](https://www.youtube.com/playlist?list=PLOT8qUzmOGqqaJ4dmWl7b66XL7RB6PLJF)
+- [Recent Progress in Quantum Algorithms Conference](https://www.youtube.com/playlist?list=PL89A374442F5CD9C7)
+- [Quantum Programming Languages and Circuits Workshop - 2015](https://www.youtube.com/playlist?list=PLBRgytHojT9ZMxgOfHZyoD4bxsUWtOrHN)
+- [2017 - Conference on 90 Years of Quantum Mechanics (23 to 26 Jan)](https://www.youtube.com/playlist?list=PL_DsEPikCMhDNK3zjMh4ZxeAVRbBFDV1k)
 
 ------------------
 - [NSF Call for Qunatum Research](https://www.nsf.gov/pubs/2020/nsf20073/nsf20073.jsp), Deadline June 18, 2020
