@@ -118,7 +118,44 @@ Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Combinatorial Optimization on Gate Model Quantum Computers: A Survey]()
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 - [Programming Quantum ComputersUsing Design Automation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/1803.01022.pdf)
+
+---------------
+- [Architecting Noisy Intermediate-ScaleTrapped Ion Quantum Computers](https://arxiv.org/pdf/2004.04706.pdf)
+- [Trapped-Ion Quantum Computing: Progress and Challenges](https://arxiv.org/abs/1904.04178)
+- [Demonstration of the QCCD trapped-ion quantum computer architecture](https://arxiv.org/abs/2003.01293)
 --------
+
+      
+       http://www.theory.caltech.edu/~preskill/colloquium/Anyon_anyon.pdf
+       
+       Anyon, Anyon 
+       
+       Anyon, anyon, where do you roam? 
+       
+       Braid for a while before you go home. Though you’re condemned just to slide on a table, 
+       A life in 2D also means that you’re able To be of a type neither Fermi nor Bose 
+       And to know left from right --- that’s a kick, I suppose.
+       
+       You and your buddy were made in a pair Then wandered around, braiding here, braiding there. 
+       You’ll fuse back together when braiding is through Well bid you adieu as 
+       you vanish from view. 
+       
+       No one can say, not at this early juncture If someday we’ll store quantum data in punctures 
+       With quantum states hidden where no one can see, Protected from damage through topology. 
+       
+       
+       Anyon, anyon, where do you roam? Braid for a while before you go home.
+
+- [A short introduction to topological quantum computation](https://scipost.org/SciPostPhys.3.3.021/pdf)
+- [Topological Superconductors, Majorana Fermions and Topological Quantum Computation](https://www.physics.upenn.edu/~kane/pedagogical/WindsorLec3.pdf)
+- [First sighting of mysterious Majorana fermion on a common metal
+Physicists’ discovery could lead to a new family of robust qubits for quantum computing.](http://news.mit.edu/2020/first-majorana-fermion-metal-quantum-computing-0410)
+- [Topological Quantum Computation Based on Chiral Majorana Fermions](https://arxiv.org/abs/1712.06156)
+- [Quantum Computing with Majorana Fermion Codes](https://arxiv.org/abs/1801.08143)
+- [Majorana zero modes and topological quantum computation](https://www.nature.com/articles/npjqi20151)
+- [Mathematics of Topological Quantum Computing](https://arxiv.org/abs/1705.06206)
+
+--------------
 
 - [QEC '19 - The Fifth International Conference on Quantum Error Correction (Senate House, London) 2019](https://www.youtube.com/playlist?list=PLgLkEJ3SUJUS05I_INGLpkNcaWQdXfCeo)
 - [Conference: Frontiers of quantum Science 2019](https://www.youtube.com/playlist?list=PLg1zLR_NEoqoPO2ieGVQgZyRV9UlLHMEk)
@@ -129,7 +166,7 @@ Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Recent Progress in Quantum Algorithms Conference](https://www.youtube.com/playlist?list=PL89A374442F5CD9C7)
 - [Quantum Programming Languages and Circuits Workshop - 2015](https://www.youtube.com/playlist?list=PLBRgytHojT9ZMxgOfHZyoD4bxsUWtOrHN)
 - [2017 - Conference on 90 Years of Quantum Mechanics (23 to 26 Jan)](https://www.youtube.com/playlist?list=PL_DsEPikCMhDNK3zjMh4ZxeAVRbBFDV1k)
-
+- [Quantum Information Science Seminar Series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2)
 ------------------
 - [NSF Call for Qunatum Research](https://www.nsf.gov/pubs/2020/nsf20073/nsf20073.jsp), Deadline June 18, 2020
 
