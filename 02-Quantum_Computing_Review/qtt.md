@@ -101,8 +101,28 @@ Transmission up to 80 km](https://arxiv.org/pdf/2005.02486.pdf)
 Communications: A Survey](https://arxiv.org/pdf/2003.07907.pdf)
 - [Towards a Distributed Quantum Computing Ecosystem](https://arxiv.org/pdf/2002.11808.pdf)
 - [Towards Large-Scale Quantum Networks](https://arxiv.org/abs/1909.08396)
+-----------
 
+- [Adiabatic Quantum Computing](https://arxiv.org/abs/1611.04471)
+- [Adiabatic Quantum Computation Applied to DeepLearning Networks](https://res.mdpi.com/d_attachment/entropy/entropy-20-00380/article_deploy/entropy-20-00380.pdf)
+- [Adiabatic Quantum Computing](https://www.researchgate.net/publication/51932027_Adiabatic_Quantum_Computing)
+- [Adiabatic Quantum Computing Challenges](https://www.cs.auckland.ac.nz/~cristian/crispapers/p40-calude.pdf)
+- [Adiabatic Quantum Computing Conference 2016](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAp2COu8n02LHkCDt-RTwRG)
+- [WQCG Episode VIII: "Adiabatic quantum computers", 2019.07.02, Google Warsaw](https://www.youtube.com/watch?v=AMsBfJXPEM4)
+- [2018 Adiabatic Quantum Computing Conference](https://www.youtube.com/playlist?list=PLsfLpBwKp49P15j0QECs5p1hU0xF62mZs)
+- [Aram Harrow: Quantum Adiabatic Optimization Versus Quantum Monte Carlo](https://www.youtube.com/watch?v=S6xcnIEP7BU)
+- [AQC2017](https://www.youtube.com/playlist?list=PLAlerseOylzZw8A-R4lyU3mqfYfQSggiz)
+- [AQC2019](https://www.youtube.com/channel/UCNx1K8JdsjBT5uDMDwsv9gQ/featured)
+--------------
+- [Combinatorial Optimization on Gate Model Quantum Computers: A Survey]()
 
+--------
+
+- [QEC '19 - The Fifth International Conference on Quantum Error Correction (Senate House, London) 2019](https://www.youtube.com/playlist?list=PLgLkEJ3SUJUS05I_INGLpkNcaWQdXfCeo)
+- [Conference: Frontiers of quantum Science 2019](https://www.youtube.com/playlist?list=PLg1zLR_NEoqoPO2ieGVQgZyRV9UlLHMEk)
+- [Workshop on Noisy Intermediate-Scale Quantum Technologies, June 6-7, 2019](https://www.youtube.com/playlist?list=PLUz_4vZOI0H01zA7jDg1wwcR3jB1WO2sj)
+- [14th Conference on the Theory of Quantum Computation, Communication and Cryptography, June 3-5, 2019](https://www.youtube.com/playlist?list=PLUz_4vZOI0H1uT0Anxj5gn0RNXuDDN8U9)
+- [Post Quantum Crypto 2018 International Conference](https://www.youtube.com/playlist?list=PLPf_zcX3mNAwVYO_bohkVIIQ8d2mssyL4)
 
 ------------------
 - [NSF Call for Qunatum Research](https://www.nsf.gov/pubs/2020/nsf20073/nsf20073.jsp), Deadline June 18, 2020
