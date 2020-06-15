@@ -21,13 +21,13 @@ Neuromorphic Computing
 - [Spiking Neural Networks: Survey](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/SpikeNN.md)
 - [Programming Neuromorphic Chips](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/Neuro-P.md)
 - [Current Neuromorphic Chips: Market Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/Neuro-M.md)
-- [Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/Neuro-A.md)
+
 
 --------------------------
 
 DNA Computing & Molecular Programming
 
-- [DNA Properties as Computation Basis](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/dna-c.md)
+- [DNA Properties as Computational Basis](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/dna-c.md)
 - [DNA Digital Data Storage ](https://github.com/gopala-kr/Quantum-Dots/blob/master/05-BCI_Neuromorphic/dna-ds.md)
 
 -------------
