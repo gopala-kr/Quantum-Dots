@@ -27,5 +27,23 @@ Cloud](http://ijns.femto.com.tw/contents/ijns-v20-n3/ijns-2018-v20-n3-p447-454.p
 - [Advances of DNA Computing in Cryptography](https://books.google.co.in/books/about/Advances_of_DNA_Computing_in_Cryptograph.html?id=21BtDwAAQBAJ&source=kp_book_description&redir_esc=y)
 - [Enhanced Cloud Security based on DNA Cryptography](https://www.ijraset.com/fileserve.php?FID=22914)
 
+--------
+- [How we can store digital data in DNA | Dina Zielinski](https://www.youtube.com/watch?v=wxStlzunxCw)
+- [Borrowing from Nature to Build Better Computers: DNA Data Storage and Beyond](https://www.youtube.com/watch?v=oMhwYpNoX-8)
+- [The Emergence of DNA Data Storage, and the Future of DNA Computing: Nick Gold, Catalog](https://www.youtube.com/watch?v=1_OMEQ5SORg)
+- [Future Computing: DNA Hard Drives | Nick Goldman](https://www.youtube.com/watch?v=tBvd7OSDGgQ)
+- [Coding for DNA-based Storage Systems](https://www.youtube.com/watch?v=N7zJLSEZKYQ)
+- [A Practical Approach to Ultra Long-Term Data Storage on DNA](https://www.youtube.com/watch?v=q3tJ63uMt-w)
+- [Information Storage in DNA by Nick Goldman](https://www.youtube.com/watch?v=NsfuBSsF1Fk)
+- [Public lecture by Bob Plumridge: "Data Storage - Now and the Future"](https://www.youtube.com/watch?v=i9vEgtUUJy0)
+- [3rd Annual Seymour Benzer Lecture - Aliens, computers and the bio-economy](https://www.youtube.com/watch?v=Us0IqUfm0wM)
+- [Nick Goldman @BCX Disrupt (16Nov'17) - Keynote: Future Computing: DNA for Digital Memory](https://www.youtube.com/watch?v=Y2WJFsDvoYc)
+- [How would you Store a Zetta-Byte of Cold Data? | Dr. Austin Donnelly & Dr. Karin Strauss](https://www.youtube.com/watch?v=qGvq6dW9vBM)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 -----------
 -------------
