@@ -39,11 +39,11 @@ Cloud](http://ijns.femto.com.tw/contents/ijns-v20-n3/ijns-2018-v20-n3-p447-454.p
 - [3rd Annual Seymour Benzer Lecture - Aliens, computers and the bio-economy](https://www.youtube.com/watch?v=Us0IqUfm0wM)
 - [Nick Goldman @BCX Disrupt (16Nov'17) - Keynote: Future Computing: DNA for Digital Memory](https://www.youtube.com/watch?v=Y2WJFsDvoYc)
 - [How would you Store a Zetta-Byte of Cold Data? | Dr. Austin Donnelly & Dr. Karin Strauss](https://www.youtube.com/watch?v=qGvq6dW9vBM)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Western Digital The Future of the Data Center - Technologies to Deliver Storage Innovation](https://www.youtube.com/watch?v=F77X4AfdXb4)
+- [The Future of Hyperscale Computing: Technologies That Will Disrupt the Data Center](https://www.youtube.com/watch?v=q6zFGesrAfM)
+- [Coding Over Sets for DNA Storage](https://www.youtube.com/watch?v=nqaUlbMvpGo)
+- [Nick Goldman](https://www.youtube.com/watch?v=YxVpftT7bto)
+- [Science Documentary: DNA Hard Drives, Quantum Computing, Moore's Law](https://www.youtube.com/watch?v=RU6yFqJQARM)
+
 -----------
 -------------
