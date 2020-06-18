@@ -5,8 +5,8 @@
 ##### Quantum Theory of computation
 
 -----------
-##### Quantum Materials
--  []()
+##### [Quantum Materials](https://github.com/gopala-kr/Quantum-Dots/tree/master/07-Quantum-Algorithms-Applications)
+
 -----------
 ##### [Qubits Generation](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
