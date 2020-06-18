@@ -8,7 +8,7 @@
 ##### Quantum Materials
 
 -----------
-##### Qubits Generation
+##### [Qubits Generation](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
 ----------
 ##### Quantum Computers in Cloud
