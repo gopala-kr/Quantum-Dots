@@ -5,7 +5,7 @@
 ##### Quantum Theory of computation
 
 -----------
-##### [Quantum Materials](https://github.com/gopala-kr/Quantum-Dots/tree/master/07-Quantum-Algorithms-Applications)
+##### [Quantum Materials](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
 
 -----------
 ##### [Qubits Generation](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
@@ -23,11 +23,11 @@
 ----------
 ##### Quantum Computers in Cloud
 
- - [D-Wave](https://www.dwavesys.com/take-leap) | [Annealer]() | [Use Cases]()
- - [Rigetti](https://qcs.rigetti.com/) | [Gate | Superconducting]() | [Use Cases]()
- - [IBM Qe](https://www.ibm.com/quantum-computing/) | [Gate | Superconducting]() | [Use Cases]()
- - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() | [Use Cases]()
- - [Amazon Quantum Braket](https://aws.amazon.com/braket/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() | [Use Cases]()
+ - [D-Wave](https://www.dwavesys.com/take-leap) | [Annealer]() 
+ - [Rigetti](https://qcs.rigetti.com/) | [Gate | Superconducting]() 
+ - [IBM Qe](https://www.ibm.com/quantum-computing/) | [Gate | Superconducting]() 
+ - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() 
+ - [Amazon Quantum Braket](https://aws.amazon.com/braket/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() 
  - [Alibaba Quantum](https://damo.alibaba.com/labs/quantum)
  - [Q-CTRL](https://q-ctrl.com/)
  - [1QBIT](https://1qbit.com/)
