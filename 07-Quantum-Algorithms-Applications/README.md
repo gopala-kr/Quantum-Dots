@@ -62,15 +62,18 @@
 -----------
 ### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
+- [A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k)
+
+----------------
 - [Adiabatic Model](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
 - Gate Model
   - [Superconducting Qubits](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/s-qc.md)
-  - [Trapped Ions]()
-  - [Silicon Quntum Dots]()
-  - [Topological]()
-  - [Daimond Vacancies]()
-  - [Photonic]()
-  - [Nuclear Magnetic Resonance(NMR)]()
+  - [Trapped Ions](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/ti-qc.md)
+  - [Silicon Quntum Dots](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qd.qc.md)
+  - [Topological](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/topology-qc.md)
+  - [Daimond Vacancies](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/dv.md)
+  - [Photonic](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/p-qc.md)
+  - [Nuclear Magnetic Resonance(NMR)](https://www.youtube.com/watch?v=ppXcQIi5I20)
 
 ------------
 ### Quantum Algorithms
