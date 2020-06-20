@@ -46,11 +46,12 @@
 
 ### Quantum Gates & Circuits
 
-![Quantum_Logic_Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/800px-Quantum_Logic_Gates.png)
-----------------
-![TgHaqk0V98kezhgiuHEpog](https://miro.medium.com/max/2560/1*TgHaqk0V98kezhgiuHEpog.png)
+--------------
+![ibm-q-gate](https://xerocrypt.github.io/articles/images/ibm-q-gates.png)
 -----------
 ![Quantum Circuits](https://miro.medium.com/max/860/1*T5LXn431CWFZdO4kpUOzug.png)
+-------------
+![teleportation-labeled](https://qiskit.org/textbook/ch-algorithms/images/teleportation-labeled.png)
 ------------
 
 - [Pauli matrices](https://en.wikipedia.org/wiki/Pauli_matrices) | [Pauli matrices.](https://www.youtube.com/watch?v=qA3mnT8NagE) | [PAULI SPIN MATRICES](https://www.youtube.com/watch?v=eFF0AsL5_uM) | [Pauli Matrices](https://www.youtube.com/watch?v=qDaoV5S9oTE)
@@ -58,11 +59,12 @@
 - [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLIxlJjN2V90w3KBWpELOE7jNQMICxoRwc)
 - [Understanding of Quantum Circuits](https://www.youtube.com/watch?v=d3nH6Ne5pSg&list=PL8T0x-NC57bippwYOmJohg0KWLLxRqfzy&index=12) | [Quantum Circuits](https://www.youtube.com/playlist?list=PL1Se2xIuNxEpfWEmjoYicvaT787RfEZAn)
 - [Quantum-Circuit Design for Efficiently Simulating Many-Body Quantum Dynamics](https://www.youtube.com/watch?v=j7ZdF8rjFUY)
+- [Demystifying Quantum Gates](https://towardsdatascience.com/demystifying-quantum-gates-one-qubit-at-a-time-54404ed80640)
 
 -----------
 ### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
-- [A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k)
+[A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k) | [NISQ and Quantum Erro Correction](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-error.md)
 
 ----------------
 - [Adiabatic Model](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
@@ -78,8 +80,9 @@
 ------------
 ### Quantum Algorithms
 
-
-
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), 2020.
+--------------
+![Quantum Algorithm Implementations for Beginners](https://pbs.twimg.com/media/Dai9G7YVMAAXEGF.jpg)
 ---------------
 ### [Building Blocks/Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
 
