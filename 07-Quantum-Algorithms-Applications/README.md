@@ -2,7 +2,7 @@
 
       > Applied QC
 ------------------
-#### Quantum Information Theory
+### Quantum Information Theory
 
 - [Quantum information](https://en.wikipedia.org/wiki/Quantum_information), Wiki.
 - [Quantum Information Theory](https://arxiv.org/pdf/quant-ph/0011036.pdf), 2000.
@@ -42,7 +42,7 @@
 
 -----------
 
-#### Quantum Gates & Circuits
+### Quantum Gates & Circuits
 
 ----------------
 ![Quantum_Logic_Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/800px-Quantum_Logic_Gates.png)
@@ -56,7 +56,7 @@
 - [Understanding of Quantum Circuits](https://www.youtube.com/watch?v=d3nH6Ne5pSg&list=PL8T0x-NC57bippwYOmJohg0KWLLxRqfzy&index=12) | [Quantum Circuits](https://www.youtube.com/playlist?list=PL1Se2xIuNxEpfWEmjoYicvaT787RfEZAn)
 
 -----------
-##### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
+### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
 - [Adiabatic QC](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
 - Gate Model
@@ -69,18 +69,18 @@
   - [Nuclear Magnetic Resonance(NMR)]()
 
 ------------
-##### Quantum Algorithms
+### Quantum Algorithms
 
 
 
 ---------------
-##### [Building Blocks/Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
+### [Building Blocks/Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
 
 --------------
-##### Quantum Langauges & Software Infrastructure
+### Quantum Langauges & Software Infrastructure
 
 ----------
-##### Quantum Computers in Cloud
+### Quantum Computers in Cloud
 
  - [D-Wave](https://www.dwavesys.com/take-leap) | [Annealer]() 
  - [Rigetti](https://qcs.rigetti.com/) | [Gate | Superconducting]() 
@@ -93,12 +93,12 @@
 
 ----------
 
-##### Industrial Quantum Applications
+### Industrial Quantum Applications
 
 - [Business Use-Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/usecases.md)
 
 ---------------
-##### Build a Quantum Application
+### Build a Quantum Application
 
 ---------------
 ----------------------
