@@ -2,7 +2,16 @@
 
       > Applied QC
 ------------------
-##### Quantum Theory of computation
+##### Quantum Information Theory
+
+- [Quantum information](https://en.wikipedia.org/wiki/Quantum_information), Wiki.
+- [Quantum Information Theory](https://arxiv.org/pdf/quant-ph/0011036.pdf), 2000.
+- [Quantum Information Theory andThe Foundations of QuantumMechanics](https://arxiv.org/pdf/quant-ph/0412063.pdf), 2004.
+- [Introduction to quantum information theory and outline oftwo applications to physics](https://arxiv.org/pdf/1507.00957.pdf), 2015.
+- [From Classical to Quantum Shannon Theory](https://arxiv.org/pdf/1106.1445.pdf), 2019.
+
+    
+
 
 -----------
 ##### [Quantum Materials](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
