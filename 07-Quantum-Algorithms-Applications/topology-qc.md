@@ -1,0 +1,21 @@
+- [What in the world is topological quantum matter?](https://www.youtube.com/watch?v=GJHhnr9R_ZM)
+- [Who cares about topology? (Inscribed rectangle problem)](https://www.youtube.com/watch?v=AmgkSdhK4K8) :star:
+- [Quantum Computation on anyons | QuTech Academy](https://www.youtube.com/watch?v=b5LP5z9tw0A)
+- [Topological Quantum Computer](https://www.youtube.com/watch?v=igPXzKjqrNg)
+- [Topological Quantum Computing (Part 1)](https://www.youtube.com/watch?v=FAiiXp9IoBk)
+- [Topological Quantum Computing: Plenty of Room in the Middle](https://www.youtube.com/watch?v=qj-w6ISQL5Y)
+- [Topological quantum computing with Majorana Fermions](https://www.youtube.com/watch?v=Xyfsr-coriQ)
+- [Topological Quantum Matter, Entanglement, and a "Second Quantum Revolution" by Duncan Haldane](https://www.youtube.com/watch?v=0neCNLYmkWw)
+- [Topological States of Quantum Condensed Matter: Duncan Haldane](https://www.youtube.com/watch?v=0TvpCrejj8c)
+- [Topological insulators and how they might change the world | Professor Michael Fuhrer](https://www.youtube.com/watch?v=jQ_ihxXcqpg)
+- [The 2016 Nobel Prize in Physics - Professor Michael Fuhrer](https://www.youtube.com/watch?v=sk7hr4orliU)
+- [Topological insulators: mind the gap! | Gene Mele](https://www.youtube.com/watch?v=a9CeB3ahjtU)
+- [Topological quantum phases - Alexei Kitaev](https://www.youtube.com/watch?v=W2vUbTR2RWQ)
+- [From Bohr’s Atom to the Topological Quantum Computer | Charles Marcus](https://www.youtube.com/watch?v=qolrIPiAB2o)
+- [Majorana Modes, Non-Abelian Anyons, and Topological Quantum Computation](https://www.youtube.com/watch?v=IonRXW0losM)
+- [Non-Abelian Anyons & Topological Quantum Computation ESE 523](https://www.youtube.com/watch?v=dDlH_Cf-SSY)
+- [Shoucheng Zhang | Search and Discovery of the Majorana Fermion](https://www.youtube.com/watch?v=sbJSAOngiGI)
+- [Majorana fermions and where to find them | QuTech Academy](https://www.youtube.com/watch?v=_otDRv7IN28)
+- [Majorana Fermions in Nanowires](https://www.youtube.com/watch?v=kh1u9Q5D47w)
+
+--------------
