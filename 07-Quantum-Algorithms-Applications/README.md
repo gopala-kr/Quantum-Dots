@@ -35,18 +35,21 @@
 - [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space) | [Hilbert Spaces](https://www.youtube.com/watch?v=7zx3MT9FgT0) | [Sean Carroll: Hilbert Space and Infinity](https://www.youtube.com/watch?v=9GV4QmQWJGU)
 - [Bloch sphere](https://en.wikipedia.org/wiki/Bloch_sphere) | [BLOCH SPHERE](https://www.youtube.com/watch?v=vUVkS1XZVCc) | [1 SPIN AS A QUBIT](https://www.youtube.com/watch?v=3tOwiFOqAq0) | [What is Spin? ](https://www.youtube.com/watch?v=cd2Ua9dKEl8)
 - [Building the Bits and Qubits](https://www.youtube.com/watch?v=F8U1d2Hqark)
-- [Schrödinger's cat](https://www.youtube.com/watch?v=UjaAxUO6-Uw) | [Introduction to Superposition](https://www.youtube.com/watch?v=lZ3bPUKo5zc)
+- [Schrödinger's Cat](https://www.youtube.com/watch?v=UjaAxUO6-Uw) | [Introduction to Superposition](https://www.youtube.com/watch?v=lZ3bPUKo5zc)
+- [How to Teleport Schrödinger's Cat](https://www.youtube.com/watch?v=DxQK1WDYI_k)
 - [Quantum Entanglement](https://www.youtube.com/watch?v=5_0o2fJhtSc) | [Susskind Lectures Quantum Entanglement](https://www.youtube.com/playlist?list=PLF1A950040024A1ED)
 - [Quantum Tunneling](https://www.youtube.com/watch?v=RF7dDt3tVmI) | [Quantum Tunneling](https://www.youtube.com/watch?v=WPZLRtyvEqo)
 - [Double Slit - Interference](https://www.youtube.com/watch?v=A9tKncAdlHQ)
+- [Quantum Fields: The Real Building Blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
 
 -----------
 
 ### Quantum Gates & Circuits
 
-----------------
 ![Quantum_Logic_Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/800px-Quantum_Logic_Gates.png)
 ----------------
+![TgHaqk0V98kezhgiuHEpog](https://miro.medium.com/max/2560/1*TgHaqk0V98kezhgiuHEpog.png)
+-----------
 ![Quantum Circuits](https://miro.medium.com/max/860/1*T5LXn431CWFZdO4kpUOzug.png)
 ------------
 
@@ -54,6 +57,7 @@
 - [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate) | [how Quantum Computers work](https://www.youtube.com/watch?v=ZoT82NDpcvQ) | [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) :star: | [Quantum Gates](https://www.youtube.com/playlist?list=PLiBc8QzsS0Pn_Fby5X06F4dLvesmtPIxo)
 - [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLIxlJjN2V90w3KBWpELOE7jNQMICxoRwc)
 - [Understanding of Quantum Circuits](https://www.youtube.com/watch?v=d3nH6Ne5pSg&list=PL8T0x-NC57bippwYOmJohg0KWLLxRqfzy&index=12) | [Quantum Circuits](https://www.youtube.com/playlist?list=PL1Se2xIuNxEpfWEmjoYicvaT787RfEZAn)
+- [Quantum-Circuit Design for Efficiently Simulating Many-Body Quantum Dynamics](https://www.youtube.com/watch?v=j7ZdF8rjFUY)
 
 -----------
 ### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
