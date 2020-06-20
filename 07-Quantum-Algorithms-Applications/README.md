@@ -62,9 +62,9 @@
 -----------
 ### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
-- [Adiabatic QC](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
+- [Adiabatic Model](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
 - Gate Model
-  - [Superconducting Circuits]()
+  - [Superconducting Qubits](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/s-qc.md)
   - [Trapped Ions]()
   - [Silicon Quntum Dots]()
   - [Topological]()
