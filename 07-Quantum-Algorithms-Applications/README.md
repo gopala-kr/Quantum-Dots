@@ -80,8 +80,11 @@
 ------------
 ### Quantum Algorithms
 
-- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), 2020.
+- [Quantum Algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
+- [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), 2020. :star:
 --------------
+![1949121.fig.007](https://static-01.hindawi.com/articles/ijrc/volume-2019/1949121/figures/1949121.fig.007.svgz)
+---------------
 ![Quantum Algorithm Implementations for Beginners](https://pbs.twimg.com/media/Dai9G7YVMAAXEGF.jpg)
 ---------------
 ### [Building Blocks/Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
