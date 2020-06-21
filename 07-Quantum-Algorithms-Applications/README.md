@@ -295,7 +295,13 @@
 ------
 ![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-9-638.jpg?cb=1539558646)
 ------
-![quantum-key-distribution-l](https://image3.slideserve.com/6617827/quantum-key-distribution-l.jpg)
+![g001](https://www.mdpi.com/applsci/applsci-07-00212/article_deploy/html/images/applsci-07-00212-g001-550.jpg)
+--------
+![quantum-key-distribution-l](https://api.intechopen.com/media/chapter/63116/media/F3.png)
+------
+![qkd2](https://tr1.cbsistatic.com/hub/i/2015/05/07/647b9187-f49c-11e4-940f-14feb5cc3d2a/qkd2.jpg)
+-------
+![F1](https://api.intechopen.com/media/chapter/63116/media/F1.png)
 ---------
 - [Quantum Key Distribution and the Future of Encryption](https://www.youtube.com/watch?v=RrdTAURD1rI)
 - [Quantum Key Distribution Animation](https://www.youtube.com/watch?v=cWpqlgF7uEA)
