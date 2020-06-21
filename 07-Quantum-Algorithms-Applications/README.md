@@ -438,14 +438,19 @@ More Info:
 
 #### Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+------
+- [cloud.dwavesys.com/leap](https://cloud.dwavesys.com/leap/signup/)
+- [https://github.com/dwavesystems](https://github.com/dwavesystems)
+- [https://github.com/dwave-examples](https://github.com/dwave-examples)
+- [https://www.dwavesys.com/applications](https://www.dwavesys.com/applications)
+
 ---------
 ![network](https://docs.dwavesys.com/docs/latest/_images/network-gs.png)
 -------
 ![sw-stack-1024x84](https://dwavefederal.com/app/uploads/2017/02/sw-stack-1024x847.png)
 -------
 ![ocean-diagram4%20web](https://www.dwavesys.com/sites/default/files/ocean-diagram4%20web.png)
---------
-![everything](https://image.slidesharecdn.com/reinhardthyperiondwave18apr18-180504143214/95/quantum-computing-timing-is-everything-14-638.jpg?cb=1525444464)
+
 --------
 ![Screen-Shot-2019](https://www.nextbigfuture.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-14-at-9.23.01-AM-1024x550.jpg)
 
