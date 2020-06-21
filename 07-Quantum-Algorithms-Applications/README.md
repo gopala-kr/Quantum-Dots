@@ -3,7 +3,7 @@
       > Applied QC
 ------------------
 
-[Contents](#contents)
+ ##### [Contents](#contents)
 
  - [Quantum Information Theory](#quantum-information-theory)
  - [Quantum Gates and Circuits](#quantum-gates-and-circuits)
