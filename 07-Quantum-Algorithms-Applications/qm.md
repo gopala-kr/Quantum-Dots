@@ -1,7 +1,9 @@
 -----------
 
 - [Materials  issues  for  quantum computation](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0883769413002108)
-- [architecture_5ce2dae6383a2_w1500](https://thumbnails-visually.netdna-ssl.com/quantum-computing-architecture_5ce2dae6383a2_w1500.jpg)
+
+------------
+![architecture_5ce2dae6383a2_w1500](https://thumbnails-visually.netdna-ssl.com/quantum-computing-architecture_5ce2dae6383a2_w1500.jpg)
 -----------------
 ![393773_1_En_3_Fig2_HTM](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-27221-4_3/MediaObjects/393773_1_En_3_Fig2_HTML.gif)
 -------------
@@ -23,3 +25,36 @@
 -------------
 ![Image_042](https://www.ijser.org/paper/Design-of-High-Speed-32-bit-Microarchitecture-for-Emulation-of-Quantum-Computing-Algorithms/Image_042.png)
 ---------------
+![des2017](https://image.slidesharecdn.com/des2017quantumcomputingfinal-170529073304/95/des2017-quantum-computingfinal-24-638.jpg?cb=1496043331)
+-------
+![summaryImg01](https://www.nii.ac.jp/qis/first-quantum/e/subgroups/superconductingQcom/image/summaryImg01.jpg)
+-------
+![computingfinal](https://image.slidesharecdn.com/des2017quantumcomputingfinal-170529073304/95/des2017-quantum-computingfinal-20-638.jpg?cb=1496043331)
+-------
+![slide_3](https://images.slideplayer.com/25/7770332/slides/slide_3.jpg)
+-------
+![refrigerator](https://www.researchgate.net/profile/Koji_Takasaki/publication/243673933/figure/fig1/AS:550853721038848@1508345169350/Concept-the-compact-liquidhelium-free-3-He-4-dilution-refrigerator.png)
+-------
+![S0011227510000536](https://ars.els-cdn.com/content/image/1-s2.0-S0011227510000536-gr1.jpg)
+-------
+![images](https://aip.scitation.org/action/showOpenGraphArticleImage?doi=10.1063/1.4788941&id=images/medium/1.4788941.figures.f1.gif)
+-------
+![S0011227514000150](https://ars.els-cdn.com/content/image/1-s2.0-S0011227514000150-gr5.jpg)
+-------
+![TswXVef_4qJ39TErDjrVqw](https://miro.medium.com/max/1780/1*TswXVef_4qJ39TErDjrVqw.png)
+-------
+![b37a72b4ab98f3ec8babd5d15cb383a2](https://qph.fs.quoracdn.net/main-qimg-b37a72b4ab98f3ec8babd5d15cb383a2)
+
+-------
+![]()
+-------
+![]()
+-------
+![]()
+-------
+![]()
+-------
+![]()
+-------
+![]()
+----------
