@@ -143,6 +143,9 @@
 - [Building a Quantum Community with IBM Q](https://www.youtube.com/watch?v=CuC-9e8hfi0)
 - [‘Hot’ Qubits Crack a Major Quantum Computing Challenge](https://www.youtube.com/watch?v=v-_GQBszZYg)
 - [UNBOXING A QUANTUM COMPUTER!](https://www.youtube.com/watch?v=60OkanvToFI)
+- [design of a silicon quantum computer chip](https://www.youtube.com/watch?v=efJBkSj9koo)
+- [Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
+- [D-Wave Systems 128 qubit processor - "Inside the chip"](https://www.youtube.com/watch?v=PqSgmCg1kew)
 
 ------
 ![QLA_figure1](https://www.ibm.com/blogs/research/wp-content/uploads/2020/01/QLA_figure1.jpg)
@@ -157,7 +160,17 @@
 -----
 ![2808333545](https://storage.ning.com/topology/rest/1.0/file/get/2808333545?profile=RESIZE_1024x1024)
 --------
+![1482140924](https://image.slidesharecdn.com/96c3cf07-2f19-440f-b604-8fe56316c25e-161219094834/95/toward-a-dependable-quantum-computing-architecture-8-638.jpg?cb=1482140924)
+--------
+![quma_v2](https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_347593/images/quma_v2.png)
+------
+![microarchitecture](https://storage.googleapis.com/groundai-web-prod/media/users/user_14/project_347593/images/microarchitecture.png)
+--------
+![1573775625](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1666-5/MediaObjects/41586_2019_1666_Fig1_HTML.png)
+---------
 ![google-quantum-computing-chip](https://data1.ibtimes.co.in/en/full/652448/google-quantum-computing-chip.jpg?h=450&l=50&t=40)
+--------
+![tfla79h2keJr34_V4Na7gQ](https://miro.medium.com/max/749/1*tfla79h2keJr34_V4Na7gQ.jpeg)
 --------
 ![chandelier](https://wp.technologyreview.com/wp-content/uploads/2020/02/chandelier-13.jpg)
 
