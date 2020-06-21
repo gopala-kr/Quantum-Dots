@@ -58,6 +58,19 @@
 - [Quantum Tunneling](https://www.youtube.com/watch?v=RF7dDt3tVmI) | [Quantum Tunneling](https://www.youtube.com/watch?v=WPZLRtyvEqo)
 - [Double Slit - Interference](https://www.youtube.com/watch?v=A9tKncAdlHQ)
 - [Quantum Fields: The Real Building Blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
+-------
+![visualizing-the-state-of-a-single-qubit-and](https://www.researchgate.net/publication/335028508/figure/fig1/AS:789466423762944@1565234871365/The-Bloch-sphere-provides-a-useful-means-of-visualizing-the-state-of-a-single-qubit-and.ppm)
+-------
+![bit-vs-qubit-hr](https://www.bnl.gov/today/body_pics/2019/02/bit-vs-qubit-hr.jpg)
+
+--------
+![02quantencomputer-zukunft-daimler-google-ibm-technologie](https://www.daimler.com/images/magazine/technology-innovation/2018-11-07-quantencomputer-zukunft-daimler-google-ibm-technologie/02quantencomputer-zukunft-daimler-google-ibm-technologie.jpg)
+------
+![desktop](https://www2.deloitte.com/content/dam/Deloitte/nl/Images/inline_images/deloitte-nl-innovation-quantum-computing.jpg/_jcr_content/renditions/cq5dam.web.700.350.desktop.jpeg)
+--------
+![maxresdefault](https://i.ytimg.com/vi/2pB87H3_F_c/maxresdefault.jpg)
+----
+![20Computation](https://www.levylab.org/sites/default/files/Materials%20Issues%20for%20Quantum%20Computation.PNG)
 
 -----------
 
@@ -241,7 +254,13 @@
 
 [Back to top](#contents)
 
+- [Quantum Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/02-Quantum_Computing_Review/q-a.md)
 - [Business Use-Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/usecases.md)
+- [Quantum Computing Applications in 2020: In-Depth Guide](https://research.aimultiple.com/quantum-computing-applications/)
+-------
+![IBM-App-Presentation-4-August-20-2019](https://research.aimultiple.com/wp-content/uploads/2019/11/IBM-App-Presentation-4-August-20-2019-5-800x452.png)
+-------
+![Distribution-of-quantum-computing-use-case](https://www.consultancy.uk/illustrations/news/detail/2020-04-13-145326519-Distribution-of-quantum-computing-use-case.jpg)
 
 --------
 #### Quantum Cryptography
@@ -330,6 +349,9 @@
 #### Build a Quantum Application
 
 [Back to top](#contents)
+
+------
+![enabled-quantum-computer-and-user-access-levels-At-the](https://www.researchgate.net/publication/338057433/figure/fig1/AS:849124681318400@1579458508433/Schematic-overview-of-a-cloud-enabled-quantum-computer-and-user-access-levels-At-the.png)
 
 ---------------
 ----------------------
