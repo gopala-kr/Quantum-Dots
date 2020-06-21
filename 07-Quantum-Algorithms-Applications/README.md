@@ -438,11 +438,16 @@ More Info:
 
 #### Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
-------
+
 - [cloud.dwavesys.com/leap](https://cloud.dwavesys.com/leap/signup/)
 - [https://github.com/dwavesystems](https://github.com/dwavesystems)
 - [https://github.com/dwave-examples](https://github.com/dwave-examples)
 - [https://www.dwavesys.com/applications](https://www.dwavesys.com/applications)
+- [Quantum Programming with D-Wave](https://www.youtube.com/watch?v=2idEilwtcOo)
+- [Quantum Programming with the Ocean Tools Suite](https://www.youtube.com/watch?v=ckJ59gsFllU)
+- [D-Wave wants to help developers make the leap into quantum computing](https://www.youtube.com/watch?v=FIXvzRsZHLQ)
+- [Quantum Programming 101: Solving a Problem From End to End](https://www.youtube.com/watch?v=Q4FE4jou5CA)
+- [D Wave Webinar: A Machine of a Different Kind, Quantum Computing, 2019](https://www.youtube.com/watch?v=kG0xZqHDk0k)
 
 ---------
 ![network](https://docs.dwavesys.com/docs/latest/_images/network-gs.png)
@@ -460,5 +465,7 @@ More Info:
 #### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
 
+-------
+![wfBylzNphPJtCAHHE2x0AA](https://miro.medium.com/proxy/1*wfBylzNphPJtCAHHE2x0AA.png)
 ---------------
 ----------------------
