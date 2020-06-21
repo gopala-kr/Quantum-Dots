@@ -123,7 +123,6 @@
 
 [Back to top](#contents)
 
-----------
 - [D-Wave Lab Tour Part 1 (of 3) - The Infrastructure of the D-Wave Quantum Computer](https://www.youtube.com/watch?v=zDotDiK2UuY)
 - [D-Wave Lab Tour Part 2 (of 3) - Inside the D-Wave Fridge](https://www.youtube.com/watch?v=VfxNdBTH8wY)
 - [D-Wave Lab Tour Part 3 (of 3) - The D-Wave Processor](https://www.youtube.com/watch?v=AGByZoYUlU0)
@@ -223,6 +222,7 @@
 
 -----------
 ![Quantum-Cloud-Hardware-Partnerships-December-2-2019](https://80b.bf1.myftpupload.com/wp-content/uploads/2019/12/Quantum-Cloud-Hardware-Partnerships-December-2-2019.jpg)
+
 -----------
 
  - [D-Wave](https://www.dwavesys.com/take-leap) 
@@ -245,8 +245,12 @@
 --------
 #### Quantum Cryptography
 
+[Back to top](#contents)
+
 --------
-![xM2qu6NnON14ufsa6qfHUoqwOblBqMC4ftuWD6flhinSnwYRO325IwV19sbtjfesSOCTjIbedPMKF6kAoXW7YovTlvaWO6FSo6Y3A72Eqdz65LcUohBUEYpXomjxIK80oV7qXkBbdWEjEuUOc_fmYqg](https://lh3.googleusercontent.com/proxy/xM2qu6NnON14ufsa6qfHUoqwOblBqMC4ftuWD6flhinSnwYRO325IwV19sbtjfesSOCTjIbedPMKF6kAoXW7YovTlvaWO6FSo6Y3A72Eqdz65LcUohBUEYpXomjxIK80oV7qXkBbdWEjEuUOc_fmYqg)
+
+![xM2qu6NnON1](https://lh3.googleusercontent.com/proxy/aSp3aCNoB3cKaVBGXki1yi41shTFQoEcTe7Mi3Vqc71f8ElwgwsE7Ea_2tcuajRgcHoV1se4PEC_Gt4cqrDR0Ep0VeEyg9HAp9bTciqQa_hPchaupy4jr7PoUFaBt3jRklRHTHBuIpvRxli2_VB4ols)
+
 ----------
 ![MTG_PQC_01_720](https://www.mtg.de/export/sites/default/.galleries/images/3-Technologien/de/2-Post-Quantum-Cryptography/MTG_PQC_01_720.png)
 --------
