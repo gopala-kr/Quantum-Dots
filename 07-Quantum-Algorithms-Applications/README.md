@@ -1,5 +1,7 @@
 -------------
+### *Quantum Computing: 21st Century Space Race*
 
+----------------
 
  ##### [Contents](#contents)
 
@@ -389,9 +391,25 @@ Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Mode
 
 ----------
 
-1. Estimators and Simulator: Azure - Quantum Development Kit
+#### Estimator and Simulator: Azure - Quantum Development Kit - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
- Microsoft provides SDK for qunatum application programming, which is integrated with VS code IDE. Q# is the langauge used to program QA in QDK.
+      Azures native QC hardware is based on topological qubits, however the hardware is not ready yet - Hardware build is in progress. 
+      Currently Azure quantum's strategic plan is to give access to partner hardwares from IonQ, Honywell and QCI via cloud
+      infrastructure, again these are also not directly accessible to public yet. Users can submit requests for preview.
+      
+      Azure quantum provides estimators and simulators, these are classical hadwares simulate the quantum behaviours(Upto 40 qubits).
+      Developers can use thses simulators to build and test quatum application using Quantum Development kit(QDK). QDK is add-on SDK 
+      for VScode, can be installed locally and start building algorithms/applications. Once algorithms are ready, you could use
+      estimator to estimate resouces/qubits required to run the algorithm and Simulator to to run the alorithm on quantum 
+      inspired hardware. 
+       
+      Q# is the programming langauge used to build quantum algorithms and application in QDK.
+
+More Info:
+      
+- [quantumplayground](http://www.quantumplayground.net/)
+- [Liquid](http://stationq.github.io/Liquid/)
+- [List of QC simulators](https://www.quantiki.org/wiki/list-qc-simulators)
  
 --------
 ![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wxJW?ver=0146&q=90&m=6&h=431&w=767&b=%23FFFFFFFF&l=f&o=t&aim=true)
@@ -406,14 +424,14 @@ Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Mode
 -------------
 ----------
 
-2. Adiabatic Model - Annealer: D-Waves Leap2 Cloud 
+2. Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
 
 
 ------------
 ----------------
 
-2. Gate Model : IBM Q Experience Cloud
+2. Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
 
 ---------------
