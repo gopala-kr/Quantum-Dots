@@ -7,7 +7,7 @@
  - [Quantum Gates and Circuits](#quantum-gates-and-circuits)
  - [Qubits Generation Methods](#qubits-generation-methods)
  - [Quantum Algorithms](#quantum-algorithms)
- - [Building Blocks, Architecture Of Quantum Computer](#building-blocks,-architecture-of-quantum-computer)
+ - [Building Blocks - Architecture Of Quantum Computer](#building-blocks---architecture-of-quantum-computer)
  - [Quantum Langauges and Software Infrastructure](#quantum-langauges-and-software-infrastructure)
  - [Quantum Computers in the Cloud](#quantum-computers-in-the-cloud)
  - [Industrial Quantum Applications](#industrial-quantum-applications)
@@ -84,10 +84,10 @@
 
 [Back to top](#contents)
  
-[A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k) | [NISQ and Quantum Erro Correction](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-error.md)
+[A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k) | [NISQ and Quantum Error Correction](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-error.md)
 
 ----------------
-- [Adiabatic Model](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
+- [Adiabatic Model - Annealer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/a-qc.md)
 - Gate Model
   - [Superconducting Qubits](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/s-qc.md)
   - [Trapped Ions](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/ti-qc.md)
@@ -112,35 +112,55 @@
 ![Quantum Algorithm Implementations for Beginners](https://pbs.twimg.com/media/Dai9G7YVMAAXEGF.jpg)
 --------
 ![Scott_AAronson_Quantum_And_Classical_Uncertainty](http://s3.amazonaws.com/sf-web-assets-prod/wp-content/uploads/2018/05/29144646/Scott_AAronson_Quantum_And_Classical_Uncertainty.svg)
-[source](https://www.simonsfoundation.org/report2017/stories/scott-aaronson-quantum-and-classical-uncertainty/)
+[Source](https://www.simonsfoundation.org/report2017/stories/scott-aaronson-quantum-and-classical-uncertainty/)
 
 --------
-![]()
+![QuantumComplexityMap_560rev](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/06/QuantumComplexityMap_560rev.jpg)
+
+------------
 ---------------
-#### [Building Blocks, Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
+#### [Building Blocks - Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
 
 [Back to top](#contents)
 
+----------
+- [D-Wave Lab Tour Part 1 (of 3) - The Infrastructure of the D-Wave Quantum Computer](https://www.youtube.com/watch?v=zDotDiK2UuY)
+- [D-Wave Lab Tour Part 2 (of 3) - Inside the D-Wave Fridge](https://www.youtube.com/watch?v=VfxNdBTH8wY)
+- [D-Wave Lab Tour Part 3 (of 3) - The D-Wave Processor](https://www.youtube.com/watch?v=AGByZoYUlU0)
+- [A Machine of a Different Kind, Quantum Computing, 2019](https://www.youtube.com/watch?v=kG0xZqHDk0k)
+- [The Sounds of IBM: IBM Q](https://www.youtube.com/watch?v=o-FyH2A7Ed0)
+- [The Future of Quantum Computing with IBM's Dario Gil](https://www.youtube.com/watch?v=zOGNoDO7mcU)
+- [A Tour of an IBM Q Lab, 2016](https://www.youtube.com/watch?v=KZf4BSmgdO4)
+- [IBM Brings Quantum Computing to the Cloud, 2016](https://www.youtube.com/watch?v=DZ2DcILZAbM)
+- [Bob Sutor explains the IBM Q quantum computer](https://www.youtube.com/watch?v=b-0ZNlqaSBE)
+- [Experimental quantum computing at IBM](https://www.youtube.com/watch?v=T-8uuq7Izl8)
+- [IBM Unveils Groundbreaking Quantum Computing System I Fortune](https://www.youtube.com/watch?v=QRaEvXF4YBg)
+- [Quantum computing explained with a deck of cards | Dario Gil, IBM Research](https://www.youtube.com/watch?v=yy6TV9Dntlw)
+- [Rigetti quantum systems: Advantage 2020](https://www.youtube.com/playlist?list=PLtwT4pUtHHkpVrX_kO_lyr4uyDfqpV8Db)
+- [David Schuster's Quantum Computing Lab Tour](https://www.youtube.com/watch?v=1tbC3p1YYvU)
+- [Inside a quantum computer lab](https://www.youtube.com/watch?v=BDqcJiJbD4Y)
+- [What is IBM's quantum computer? - All Hands on Tech at CES 2018](https://www.youtube.com/watch?v=pKLEiDIF0NM)
+- [Building a Quantum Community with IBM Q](https://www.youtube.com/watch?v=CuC-9e8hfi0)
+- [‘Hot’ Qubits Crack a Major Quantum Computing Challenge](https://www.youtube.com/watch?v=v-_GQBszZYg)
+- [UNBOXING A QUANTUM COMPUTER!](https://www.youtube.com/watch?v=60OkanvToFI)
+
+------
+![QLA_figure1](https://www.ibm.com/blogs/research/wp-content/uploads/2020/01/QLA_figure1.jpg)
 ---------
 ![8wYN6tesXyhT7aa_-qYeVw](https://miro.medium.com/max/2940/1*8wYN6tesXyhT7aa_-qYeVw.jpeg)
 -----------
 ![IBM_quantum_computing_flowchart](https://electronics360.globalspec.com/images/assets/553/13553/IBM_quantum_computing_flowchart.jpg)
---------
-![i423CmapBzYJnZRu2HCYHg](https://miro.medium.com/max/1400/1*i423CmapBzYJnZRu2HCYHg.jpeg)
 ---------
 ![27FdKqgS9FIIJKLVpwcmrw](https://miro.medium.com/max/1400/1*27FdKqgS9FIIJKLVpwcmrw.png)
 --------
 ![2020-01-08-at-11-18-29](https://tr3.cbsistatic.com/hub/i/r/2020/01/08/cc87d250-8b86-4f81-a770-7d2d494099ce/resize/1200x900/f4458fedc2676d489b6a4723feb73109/screen-shot-2020-01-08-at-11-18-29-am.png)
 -----
 ![2808333545](https://storage.ning.com/topology/rest/1.0/file/get/2808333545?profile=RESIZE_1024x1024)
-------
-![QLA_figure1](https://www.ibm.com/blogs/research/wp-content/uploads/2020/01/QLA_figure1.jpg)
--------
-![D-Wave-System-Visible](https://www.digitalengineering247.com/images/article/D-Wave-System-Visible.jpg)
 --------
 ![google-quantum-computing-chip](https://data1.ibtimes.co.in/en/full/652448/google-quantum-computing-chip.jpg?h=450&l=50&t=40)
 --------
 ![chandelier](https://wp.technologyreview.com/wp-content/uploads/2020/02/chandelier-13.jpg)
+
 --------------
 #### Quantum Langauges and Software Infrastructure
 
