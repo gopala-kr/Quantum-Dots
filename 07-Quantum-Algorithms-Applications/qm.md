@@ -44,11 +44,15 @@
 ![TswXVef_4qJ39TErDjrVqw](https://miro.medium.com/max/1780/1*TswXVef_4qJ39TErDjrVqw.png)
 -------
 ![b37a72b4ab98f3ec8babd5d15cb383a2](https://qph.fs.quoracdn.net/main-qimg-b37a72b4ab98f3ec8babd5d15cb383a2)
+--------
+![i423CmapBzYJnZRu2HCYHg](https://miro.medium.com/max/1400/1*i423CmapBzYJnZRu2HCYHg.jpeg)
+-------
 
+![D-Wave-System-Visible](https://www.digitalengineering247.com/images/article/D-Wave-System-Visible.jpg)
 -------
-![]()
+![qla](https://sites.cs.ucsb.edu/~chong/QC/qcarch_files/qla.jpg)
 -------
-![]()
+![Image_036](https://www.ijser.org/paper/Design-of-High-Speed-32-bit-Microarchitecture-for-Emulation-of-Quantum-Computing-Algorithms/Image_036.gif)
 -------
 ![]()
 -------
