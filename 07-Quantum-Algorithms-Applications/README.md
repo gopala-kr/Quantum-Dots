@@ -221,11 +221,15 @@
 
 [Back to top](#contents)
 
- - [D-Wave](https://www.dwavesys.com/take-leap) | [Annealer]() 
- - [Rigetti](https://qcs.rigetti.com/) | [Gate | Superconducting]() 
- - [IBM Qe](https://www.ibm.com/quantum-computing/) | [Gate | Superconducting]() 
- - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() 
- - [Amazon Quantum Braket](https://aws.amazon.com/braket/) | [Gate | Topology](), [Trapped Ion](), [Annelear]() 
+-----------
+![Quantum-Cloud-Hardware-Partnerships-December-2-2019](https://80b.bf1.myftpupload.com/wp-content/uploads/2019/12/Quantum-Cloud-Hardware-Partnerships-December-2-2019.jpg)
+-----------
+
+ - [D-Wave](https://www.dwavesys.com/take-leap) 
+ - [Rigetti](https://qcs.rigetti.com/) 
+ - [IBM Qe](https://www.ibm.com/quantum-computing/) 
+ - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/) 
+ - [Amazon Quantum Braket](https://aws.amazon.com/braket/) 
  - [Alibaba Quantum](https://damo.alibaba.com/labs/quantum)
  - [Q-CTRL](https://q-ctrl.com/)
  - [1QBIT](https://1qbit.com/)
@@ -238,10 +242,84 @@
 
 - [Business Use-Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/usecases.md)
 
+--------
+#### Quantum Cryptography
+
+--------
+![xM2qu6NnON14ufsa6qfHUoqwOblBqMC4ftuWD6flhinSnwYRO325IwV19sbtjfesSOCTjIbedPMKF6kAoXW7YovTlvaWO6FSo6Y3A72Eqdz65LcUohBUEYpXomjxIK80oV7qXkBbdWEjEuUOc_fmYqg](https://lh3.googleusercontent.com/proxy/xM2qu6NnON14ufsa6qfHUoqwOblBqMC4ftuWD6flhinSnwYRO325IwV19sbtjfesSOCTjIbedPMKF6kAoXW7YovTlvaWO6FSo6Y3A72Eqdz65LcUohBUEYpXomjxIK80oV7qXkBbdWEjEuUOc_fmYqg)
+----------
+![MTG_PQC_01_720](https://www.mtg.de/export/sites/default/.galleries/images/3-Technologien/de/2-Post-Quantum-Cryptography/MTG_PQC_01_720.png)
+--------
+![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-13-638.jpg?cb=1539558646)
+---------
+![standardization](https://www.accenture.com/t20190109T165232Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global-3/85/Accenture-Timeline-for-standardization-v2.png)
+------
+![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-9-638.jpg?cb=1539558646)
+----------
+![F1](https://api.intechopen.com/media/chapter/63116/media/F1.png)
+------
+![quantum-key-distribution-l](https://image3.slideserve.com/6617827/quantum-key-distribution-l.jpg)
+---------
+- [Quantum Key Distribution and the Future of Encryption](https://www.youtube.com/watch?v=RrdTAURD1rI)
+- [Quantum Key Distribution Animation](https://www.youtube.com/watch?v=cWpqlgF7uEA)
+- [Quantum Cryptography Explained](https://www.youtube.com/watch?v=UiJiXNEm-Go)
+- [Quantum Key Distribution | QuTech Academy](https://www.youtube.com/watch?v=lVXJgn3fDkg)
+- [Quantum cryptography, animated](https://www.youtube.com/watch?v=LaLzshIosDk)
+- [Quantum cryptography: basics and technology with Vadim Makarov](https://www.youtube.com/watch?v=wF-BWgnpYmI)
+- [Overview of the NIST Post Quantum Algorithms](https://www.youtube.com/watch?v=iPijIw-ZDpY)
+- [What is Post Quantum Cryptography?](https://www.youtube.com/watch?v=zw1KHLOOlA8)
+- [Johannes A. Buchmann - Post-Quantum Cryptography – an overview](https://www.youtube.com/watch?v=6O27MykWK80)
+- [Quantum Algorithms and Post-Quantum Cryptography](https://www.youtube.com/watch?v=VtPHoH5RsHg)
+
 ---------------------
 #### Quantum Internet
 
 [Back to top](#contents)
+
+-------
+![1531752383](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-2-1024.jpg?cb=1531752383)
+-------
+![quantum-internet-by-professor](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-3-1024.jpg?cb=1531752383)
+-----
+![quantum](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-49-638.jpg?cb=1531752383)
+------
+![quantum-internet-by-professor-lili-saghafi](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-56-1024.jpg?cb=1531752383)
+-------
+![quantum-internet-by-professor-lili-sag](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-38-1024.jpg?cb=1531752383)
+-----
+![slide4](https://image.slideserve.com/79464/slide4-l.jpg)
+-------
+![large](https://science.sciencemag.org/content/sci/362/6412/eaam9288/F6.large.jpg)
+--------
+![carousel](https://science.sciencemag.org/content/sci/362/6412/eaam9288/F1.large.jpg?width=800&height=600&carousel=1)
+------
+
+![41598_2016_Article_BFsrep20463_Fig1_HTML](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep20463/MediaObjects/41598_2016_Article_BFsrep20463_Fig1_HTML.jpg)
+------
+![satellite](https://1.bp.blogspot.com/-4f-NVl-Wmpk/V7LKDm_NStI/AAAAAAAApME/mO6nX7ilIjAUMg92JT32w1-yqdS7apQxQCLcB/s728-e100/china-quantum-communication-satellite.png)
+------
+![gUgcqBibIqpX6t9l4BqFrn8lIH0FFMgbTRnFCj_JP6_mlKlpm4v62TXWMW0E5f4j7HqOu2rhOUU2](https://lh3.googleusercontent.com/proxy/umK9bfkNQmLSEPQX1Wg3nHhla8iHOEm4uwysYGPcRAYfR4OoEQ8R7yoKpLaK-gUgcqBibIqpX6t9l4BqFrn8lIH0FFMgbTRnFCj_JP6_mlKlpm4v62TXWMW0E5f4j7HqOu2rhOUU2-UxNn7Bau9Iad1opGFqAQRk)
+-----
+![network_resize_md](https://inteng-storage.s3.amazonaws.com/images/JANUARY/sizes/china-quantum-network_resize_md.jpg)
+--------
+
+
+- [Quantum Internet – QuTech Academy](https://www.youtube.com/watch?v=y0Bcy7BRTGU)
+- [The Quantum Internet | Stephanie Wehner | TEDxVienna](https://www.youtube.com/watch?v=XzPi29O6DAc)
+- [The Quantum Internet](https://www.youtube.com/watch?v=_N-2Sx-FDQA)
+- [The Future Quantum Internet: Challenges](https://www.youtube.com/watch?v=h54WsU13wbc)
+- [Applications of a Quantum Internet | QuTech Academy](https://www.youtube.com/watch?v=LLBhAWGOtsQ)
+- [Tasks for a Quantum Internet | QuTech Academy](https://www.youtube.com/watch?v=p_NC4RB-9lg)
+- [Quantum Teleportation From Space Achieved by China!](https://www.youtube.com/watch?v=dWc6Goy6cRk)
+- [Quantum Internet Proposed Research Group](https://www.youtube.com/watch?v=9nfaYAU92tY)
+- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.youtube.com/playlist?list=PL5jmbd6SJYnMhS9hXoPknmXNbRLPt34Oi)
+
+--------
+- [Quantum Internet By Professor Lili Saghafi](https://www.slideshare.net/lsaghafi/quantum-internet-by-professor-lili-saghafi)
+- [Quantum internet: A vision for the road ahead](https://science.sciencemag.org/content/362/6412/eaam9288)
+- [secure-quantum-communication-over-7600-kilometers](https://www.oeaw.ac.at/en/detail/news/secure-quantum-communication-over-7600-kilometers-2/)
+- [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463)
+- [Quantum Internet:from Communication to Distributed Computing!](https://arxiv.org/pdf/1805.04360.pdf)
 
 ---------------
 #### Build a Quantum Application
