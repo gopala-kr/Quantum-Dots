@@ -11,6 +11,7 @@
  - [Quantum Langauges and Software Infrastructure](#quantum-langauges-and-software-infrastructure)
  - [Quantum Computers in the Cloud](#quantum-computers-in-the-cloud)
  - [Industrial Quantum Applications](#industrial-quantum-applications)
+ - [Quantum Cryptography](#quantum-cryptography)
  - [Quantum Internet](#quantum-internet)
  - [Build a Quantum Application](#build-a-quantum-application)
 
