@@ -1,7 +1,5 @@
 -------------
 
-      > Applied QC
-------------------
 
  ##### [Contents](#contents)
 
@@ -112,16 +110,43 @@
 ![1949121.fig.007](https://static-01.hindawi.com/articles/ijrc/volume-2019/1949121/figures/1949121.fig.007.svgz)
 ---------------
 ![Quantum Algorithm Implementations for Beginners](https://pbs.twimg.com/media/Dai9G7YVMAAXEGF.jpg)
+--------
+![Scott_AAronson_Quantum_And_Classical_Uncertainty](http://s3.amazonaws.com/sf-web-assets-prod/wp-content/uploads/2018/05/29144646/Scott_AAronson_Quantum_And_Classical_Uncertainty.svg)
+[source](https://www.simonsfoundation.org/report2017/stories/scott-aaronson-quantum-and-classical-uncertainty/)
+
+--------
+![]()
 ---------------
 #### [Building Blocks, Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
 
 [Back to top](#contents)
 
-
+---------
+![8wYN6tesXyhT7aa_-qYeVw](https://miro.medium.com/max/2940/1*8wYN6tesXyhT7aa_-qYeVw.jpeg)
+-----------
+![IBM_quantum_computing_flowchart](https://electronics360.globalspec.com/images/assets/553/13553/IBM_quantum_computing_flowchart.jpg)
+--------
+![i423CmapBzYJnZRu2HCYHg](https://miro.medium.com/max/1400/1*i423CmapBzYJnZRu2HCYHg.jpeg)
+---------
+![27FdKqgS9FIIJKLVpwcmrw](https://miro.medium.com/max/1400/1*27FdKqgS9FIIJKLVpwcmrw.png)
+--------
+![2020-01-08-at-11-18-29](https://tr3.cbsistatic.com/hub/i/r/2020/01/08/cc87d250-8b86-4f81-a770-7d2d494099ce/resize/1200x900/f4458fedc2676d489b6a4723feb73109/screen-shot-2020-01-08-at-11-18-29-am.png)
+-----
+![2808333545](https://storage.ning.com/topology/rest/1.0/file/get/2808333545?profile=RESIZE_1024x1024)
+------
+![QLA_figure1](https://www.ibm.com/blogs/research/wp-content/uploads/2020/01/QLA_figure1.jpg)
+-------
+![D-Wave-System-Visible](https://www.digitalengineering247.com/images/article/D-Wave-System-Visible.jpg)
+--------
+![google-quantum-computing-chip](https://data1.ibtimes.co.in/en/full/652448/google-quantum-computing-chip.jpg?h=450&l=50&t=40)
+--------
+![chandelier](https://wp.technologyreview.com/wp-content/uploads/2020/02/chandelier-13.jpg)
 --------------
 #### Quantum Langauges and Software Infrastructure
 
 [Back to top](#contents)
+
+
 
 
 ----------
