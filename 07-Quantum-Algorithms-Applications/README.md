@@ -16,6 +16,7 @@
  - [Build a Quantum Application](#build-a-quantum-application)
 
 
+-------------
 ---------------------
 #### Quantum Information Theory
 
@@ -78,6 +79,8 @@
 [Back to top](#contents)
 
 --------------
+##### Quantum Gates
+
 ![ibm-q-gate](https://xerocrypt.github.io/articles/images/ibm-q-gates.png)
 -----------
 ![Quantum Circuits](https://miro.medium.com/max/860/1*T5LXn431CWFZdO4kpUOzug.png)
@@ -92,6 +95,7 @@
 - [Quantum-Circuit Design for Efficiently Simulating Many-Body Quantum Dynamics](https://www.youtube.com/watch?v=j7ZdF8rjFUY)
 - [Demystifying Quantum Gates](https://towardsdatascience.com/demystifying-quantum-gates-one-qubit-at-a-time-54404ed80640)
 
+-------------
 -----------
 #### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
@@ -109,8 +113,16 @@
   - [Daimond Vacancies](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/dv.md)
   - [Photonic](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/p-qc.md)
   - [Nuclear Magnetic Resonance(NMR)](https://www.youtube.com/watch?v=ppXcQIi5I20)
+  
+-----------------
+- [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
+
+![drBi5hHMiQ1j2fGk](https://miro.medium.com/max/1706/0*drBi5hHMiQ1j2fGk)
+-------
+![Google-Quantum-Error-Correction-2018](https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Google-Quantum-Error-Correction-2018.jpg)
 
 ------------
+--------------
 #### [Quantum Algorithms](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-algo.md)
 
 [Back to top](#contents)
@@ -187,6 +199,7 @@
 ![chandelier](https://wp.technologyreview.com/wp-content/uploads/2020/02/chandelier-13.jpg)
 
 --------------
+--------------
 #### Quantum Langauges and Software Infrastructure
 
 [Back to top](#contents)
@@ -204,6 +217,7 @@
 ----
 ![algorithm-written-in-high-level-language-can-be](https://www.researchgate.net/publication/325358150/figure/fig1/AS:630013770620928@1527218396294/Compilation-of-Quantum-Algorithms-an-algorithm-written-in-high-level-language-can-be.png)
 ------
+--------------
 
 **Quantum Instruction Set** - Quantum Assembly Language
 
@@ -228,7 +242,7 @@
 - [XACC: A System-Level Software Infrastructure for Heterogeneous Quantum-ClassicalComputing](https://arxiv.org/pdf/1911.02452.pdf)
 
 ----------
-
+----------------
 #### Quantum Computers in the Cloud
 
 [Back to top](#contents)
@@ -248,6 +262,7 @@
  - [1QBIT](https://1qbit.com/)
 
 ----------
+----------------
 
 #### Industrial Quantum Applications
 
@@ -262,6 +277,7 @@
 ![Distribution-of-quantum-computing-use-case](https://www.consultancy.uk/illustrations/news/detail/2020-04-13-145326519-Distribution-of-quantum-computing-use-case.jpg)
 
 --------
+-------------------
 #### Quantum Cryptography
 
 [Back to top](#contents)
@@ -278,8 +294,6 @@
 ![standardization](https://www.accenture.com/t20190109T165232Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global-3/85/Accenture-Timeline-for-standardization-v2.png)
 ------
 ![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-9-638.jpg?cb=1539558646)
-----------
-![F1](https://api.intechopen.com/media/chapter/63116/media/F1.png)
 ------
 ![quantum-key-distribution-l](https://image3.slideserve.com/6617827/quantum-key-distribution-l.jpg)
 ---------
@@ -294,6 +308,7 @@
 - [Johannes A. Buchmann - Post-Quantum Cryptography – an overview](https://www.youtube.com/watch?v=6O27MykWK80)
 - [Quantum Algorithms and Post-Quantum Cryptography](https://www.youtube.com/watch?v=VtPHoH5RsHg)
 
+-----------------
 ---------------------
 #### Quantum Internet
 
@@ -345,6 +360,7 @@
 - [Quantum Internet:from Communication to Distributed Computing!](https://arxiv.org/pdf/1805.04360.pdf)
 
 ---------------
+----------------------
 #### Build a Quantum Application
 
 [Back to top](#contents)
