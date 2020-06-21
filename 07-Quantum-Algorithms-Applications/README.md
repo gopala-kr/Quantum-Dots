@@ -69,9 +69,8 @@
 ![desktop](https://www2.deloitte.com/content/dam/Deloitte/nl/Images/inline_images/deloitte-nl-innovation-quantum-computing.jpg/_jcr_content/renditions/cq5dam.web.700.350.desktop.jpeg)
 --------
 ![maxresdefault](https://i.ytimg.com/vi/2pB87H3_F_c/maxresdefault.jpg)
-----
-![20Computation](https://www.levylab.org/sites/default/files/Materials%20Issues%20for%20Quantum%20Computation.PNG)
 
+----
 -----------
 
 #### Quantum Gates and Circuits
