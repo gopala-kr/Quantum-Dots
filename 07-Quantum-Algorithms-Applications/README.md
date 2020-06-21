@@ -2,7 +2,25 @@
 
       > Applied QC
 ------------------
-### Quantum Information Theory
+
+[Contents](#contents)
+
+ - [Quantum Information Theory](#quantum-information-theory)
+ - [Quantum Gates and Circuits](#quantum-gates-and-circuits)
+ - [Qubits Generation Methods](#qubits-generation-methods)
+ - [Quantum Algorithms](#quantum-algorithms)
+ - [Building Blocks, Architecture Of Quantum Computer](#building-blocks,-architecture-of-quantum-computer)
+ - [Quantum Langauges and Software Infrastructure](#quantum-langauges-and-software-infrastructure)
+ - [Quantum Computers in the Cloud](#quantum-computers-in-the-cloud)
+ - [Industrial Quantum Applications](#industrial-quantum-applications)
+ - [Quantum Internet](#quantum-internet)
+ - [Build a Quantum Application](#build-a-quantum-application)
+
+
+---------------------
+#### Quantum Information Theory
+
+[Back to top](#contents)
 
 - [Quantum information](https://en.wikipedia.org/wiki/Quantum_information), Wiki.
 - [Quantum Information Theory](https://arxiv.org/pdf/quant-ph/0011036.pdf), 2000.
@@ -44,7 +62,9 @@
 
 -----------
 
-### Quantum Gates & Circuits
+#### Quantum Gates and Circuits
+
+[Back to top](#contents)
 
 --------------
 ![ibm-q-gate](https://xerocrypt.github.io/articles/images/ibm-q-gates.png)
@@ -62,8 +82,10 @@
 - [Demystifying Quantum Gates](https://towardsdatascience.com/demystifying-quantum-gates-one-qubit-at-a-time-54404ed80640)
 
 -----------
-### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
+#### [Qubits Generation Methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/Qubits.md)
 
+[Back to top](#contents)
+ 
 [A Qubit in the Making](https://www.youtube.com/watch?v=2pB87H3_F_c) | [How To Make a Quantum Bit](https://www.youtube.com/watch?v=zNzzGgr2mhk) | [Universal quantum computation](https://www.youtube.com/watch?v=F2okky5vD8k) | [NISQ and Quantum Erro Correction](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-error.md)
 
 ----------------
@@ -78,22 +100,34 @@
   - [Nuclear Magnetic Resonance(NMR)](https://www.youtube.com/watch?v=ppXcQIi5I20)
 
 ------------
-### Quantum Algorithms
+#### [Quantum Algorithms](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-algo.md)
 
-- [Quantum Algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm)
+[Back to top](#contents)
+
+- [Quantum Algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), wiki.
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), 2020. :star:
+---------------
+- []()
 --------------
 ![1949121.fig.007](https://static-01.hindawi.com/articles/ijrc/volume-2019/1949121/figures/1949121.fig.007.svgz)
 ---------------
 ![Quantum Algorithm Implementations for Beginners](https://pbs.twimg.com/media/Dai9G7YVMAAXEGF.jpg)
 ---------------
-### [Building Blocks/Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
+#### [Building Blocks, Architecture Of Quantum Computer](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qm.md)
+
+[Back to top](#contents)
+
 
 --------------
-### Quantum Langauges & Software Infrastructure
+#### Quantum Langauges and Software Infrastructure
+
+[Back to top](#contents)
+
 
 ----------
-### Quantum Computers in Cloud
+#### Quantum Computers in the Cloud
+
+[Back to top](#contents)
 
  - [D-Wave](https://www.dwavesys.com/take-leap) | [Annealer]() 
  - [Rigetti](https://qcs.rigetti.com/) | [Gate | Superconducting]() 
@@ -106,12 +140,21 @@
 
 ----------
 
-### Industrial Quantum Applications
+#### Industrial Quantum Applications
+
+[Back to top](#contents)
 
 - [Business Use-Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/usecases.md)
 
+---------------------
+#### Quantum Internet
+
+[Back to top](#contents)
+
 ---------------
-### Build a Quantum Application
+#### Build a Quantum Application
+
+[Back to top](#contents)
 
 ---------------
 ----------------------
