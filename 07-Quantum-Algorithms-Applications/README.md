@@ -385,9 +385,35 @@
 
 For application developers/researchers, there are 2 ways to access quantum computer hardwares, either you can use quantum simulators on your own laptop(supports upto 40 qubits, eg: Microsofts [QDK](https://www.microsoft.com/en-us/quantum/development-kit) ) or access QC's from public cloud. IBM provides free access to thier [Q experience cloud(Gate Model)](https://quantum-computing.ibm.com/) and D-Wave provides free access to thier [Leap cloud](https://www.dwavesys.com/take-leap)(Annealer). Since other HW providers are private, you could access them via partner access(Organizations/Teams).
 
-Lets start with Simulators..
+Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Model QC's , their programming model and lets run few popular QC algorithms.
+
+----------
+
+1. Estimators and Simulator: Azure - Quantum Development Kit
+
+ Microsoft provides SDK for qunatum application programming, which is integrated with VS code IDE. Q# is the langauge used to program QA in QDK.
+ 
+--------
+![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wxJW?ver=0146&q=90&m=6&h=431&w=767&b=%23FFFFFFFF&l=f&o=t&aim=true)
+------
+![quantum](https://docs.microsoft.com/en-us/learn/quantum/qsharp-create-first-quantum-development-kit/media/6-quantum-execution-info.png)
+--------
+![changing-the-odds-an-intro-to-qsharp_01](https://freecontent.manning.com/wp-content/uploads/changing-the-odds-an-intro-to-qsharp_01.jpg)
+
+---------
+![valueprop3](https://azurecomcdn.azureedge.net/cvt-fdde87d637c93aaa8d44f0dccd6bc94b93ea7d42a2bc4f5a987d991913ae6ad1/images/page/services/quantum/valueprop3.png)
+
+-------------
+----------
+
+2. Adiabatic Model - Annealer: D-Waves Leap2 Cloud 
 
 
+
+------------
+----------------
+
+2. Gate Model : IBM Q Experience Cloud
 
 
 ---------------
