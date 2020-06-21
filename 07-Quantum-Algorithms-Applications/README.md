@@ -179,10 +179,44 @@
 
 [Back to top](#contents)
 
+-----
+![Overview-of-quantum-computer-system-stack](https://www.researchgate.net/publication/332553779/figure/fig1/AS:750332074266624@1555904515421/Overview-of-quantum-computer-system-stack.ppm)
+-------
+![jAvz6HU6VLNAdEhy](https://miro.medium.com/max/1400/0*jAvz6HU6VLNAdEhy)
+--------
+![HzbyyuY05f1PfHt01jIAwg](https://miro.medium.com/max/1400/1*HzbyyuY05f1PfHt01jIAwg.jpeg)
+-------
+![acc-ir](https://zppxacc.readthedocs.io/en/latest/_images/acc-ir.png)
+------
+![xacc](https://www.eclipse.org/community/eclipse_newsletter/2017/august/images/xacc.png)
+----
+![algorithm-written-in-high-level-language-can-be](https://www.researchgate.net/publication/325358150/figure/fig1/AS:630013770620928@1527218396294/Compilation-of-Quantum-Algorithms-an-algorithm-written-in-high-level-language-can-be.png)
+------
 
+**Quantum Instruction Set** - Quantum Assembly Language
 
+![Instruction](https://www.swissquantumhub.com/wp-content/uploads/2020/03/Quantum-Instruction-Set.png)
+
+- [Gate Level Q-Softwares, 2019](https://arxiv.org/pdf/1807.02500.pdf)
+- [A Practical Quantum Instruction Set Architecture, 2017](https://arxiv.org/pdf/1608.03355.pdf)
+- [Open Quantum Assembly Language](https://arxiv.org/pdf/1707.03429.pdf)
+- [An Evaluation Framework and Instruction Set Architecture forIon-Trap based Quantum Micro-architectures.](https://homes.cs.washington.edu/~oskin/04A-01.PDF)
+- [A Survey of Quantum Control Architecture](https://www.cs.umd.edu/class/fall2019/cmsc657/projects/group_4.pdf)
+- [eQASM: An Executable Quantum Instruction Set Architecture](https://arxiv.org/pdf/1808.02449.pdf)
+- [Quantum Computer Architecture:Towards Full-Stack Quantum Accelerators](https://arxiv.org/pdf/1903.09575.pdf)
+- [Classical and Quantum Data Interaction in Programming Languages:A Runtime Architecture](https://arxiv.org/pdf/2006.00131.pdf)
+- [A Survey of Quantum Programming Languages: History, Methods, and Tools, 2008](https://arxiv.org/ftp/arxiv/papers/0804/0804.1118.pdf)
+- [QRunes: High-Level Language for Quantum-Classical Hybrid Programming](https://arxiv.org/pdf/1901.08340.pdf)
+- [Toward a Universal Quantum Programming LanguageImage by White Mocca](https://dl.acm.org/doi/pdf/10.1145/3355759)
+- [Optimized Quantum Compilationfor Near-Term Algorithms with OpenPulse](https://arxiv.org/pdf/2004.11205.pdf)
+- [Q#: Enabling scalable quantum computing and developmentwith a high-level domain-specific language, 2018](https://arxiv.org/pdf/1803.00652.pdf)
+- [Hybrid Programming for Near-term QuantumComputing Systems](https://arxiv.org/pdf/1805.09279.pdf)
+- [Strawberry Fields:A Software Platform for Photonic Quantum Computing](https://arxiv.org/pdf/1804.03159.pdf)
+- [Introduction to Coding Quantum Algorithms:A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf)
+- [XACC: A System-Level Software Infrastructure for Heterogeneous Quantum-ClassicalComputing](https://arxiv.org/pdf/1911.02452.pdf)
 
 ----------
+
 #### Quantum Computers in the Cloud
 
 [Back to top](#contents)
