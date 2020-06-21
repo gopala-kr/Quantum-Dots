@@ -393,6 +393,18 @@ Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Mode
 
 #### Estimator and Simulator: Azure - Quantum Development Kit - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+- [Azure Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX)
+- [Microsoft Quantum Development Kit: Introduction and step-by-step demo](https://www.youtube.com/watch?v=v7b4J2INq9c)
+- [Quantum Computing - Top 3 Microsoft Breakthroughs with Krysta Svore](https://www.youtube.com/watch?v=5p2_moQZJWo)
+- [Quantum Development Kit | Now open source + updates (2019)](https://www.youtube.com/watch?v=lRv28mAjOjw)
+- [The Quantum Enterprise with Intel, IBM and Microsoft](https://www.youtube.com/watch?v=DkBAV-kiS1g)
+- [Quantum Development Kit, Q#, and Katas](https://www.youtube.com/watch?v=cN7VzwQNnAM)
+- [Learn to build your first quantum solution with the Quantum Development Kit and Q# : Build 2018](https://www.youtube.com/watch?v=YE4m3yCdcqE)
+- [Microsoft Quantum Development Kit chemistry library](https://www.youtube.com/watch?v=Hxz0tH8jDfQ)
+- [Developing with the Microsoft Quantum Development Kit and Jupyter Notebook - THR2022](https://www.youtube.com/watch?v=Mvh82w3H2V8)
+
+-----------
+
       Azures native QC hardware is based on topological qubits, however the hardware is not ready yet - Hardware build is in progress. 
       Currently Azure quantum's strategic plan is to give access to partner hardwares from IonQ, Honywell and QCI via cloud
       infrastructure, again these are also not directly accessible to public yet. Users can submit requests for preview.
@@ -424,14 +436,23 @@ More Info:
 -------------
 ----------
 
-2. Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
+#### Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
-
+---------
+![network](https://docs.dwavesys.com/docs/latest/_images/network-gs.png)
+-------
+![sw-stack-1024x84](https://dwavefederal.com/app/uploads/2017/02/sw-stack-1024x847.png)
+-------
+![ocean-diagram4%20web](https://www.dwavesys.com/sites/default/files/ocean-diagram4%20web.png)
+--------
+![everything](https://image.slidesharecdn.com/reinhardthyperiondwave18apr18-180504143214/95/quantum-computing-timing-is-everything-14-638.jpg?cb=1525444464)
+--------
+![Screen-Shot-2019](https://www.nextbigfuture.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-14-at-9.23.01-AM-1024x550.jpg)
 
 ------------
 ----------------
 
-2. Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
+#### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
 
 ---------------
