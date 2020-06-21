@@ -86,6 +86,9 @@
 ![Quantum Circuits](https://miro.medium.com/max/860/1*T5LXn431CWFZdO4kpUOzug.png)
 -------------
 ![teleportation-labeled](https://qiskit.org/textbook/ch-algorithms/images/teleportation-labeled.png)
+
+---------
+![Quantum_circuit_compilation](https://www.ibm.com/blogs/research/wp-content/uploads/2018/08/Quantum_circuit_compilation.png)
 ------------
 
 - [Pauli matrices](https://en.wikipedia.org/wiki/Pauli_matrices) | [Pauli matrices.](https://www.youtube.com/watch?v=qA3mnT8NagE) | [PAULI SPIN MATRICES](https://www.youtube.com/watch?v=eFF0AsL5_uM) | [Pauli Matrices](https://www.youtube.com/watch?v=qDaoV5S9oTE)
@@ -109,7 +112,7 @@
   - [Superconducting Qubits](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/s-qc.md)
   - [Trapped Ions](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/ti-qc.md)
   - [Silicon Quntum Dots](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/qd.qc.md)
-  - [Topological](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/topology-qc.md)
+  - [Topological](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/topology-qc.md) :star:
   - [Daimond Vacancies](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/dv.md)
   - [Photonic](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/p-qc.md)
   - [Nuclear Magnetic Resonance(NMR)](https://www.youtube.com/watch?v=ppXcQIi5I20)
@@ -205,8 +208,12 @@
 [Back to top](#contents)
 
 -----
+- [SW/HW co-design for near-term quantum computing](https://www.slideshare.net/insideHPC/swhw-codesign-for-nearterm-quantum-computing)
+
 ![Overview-of-quantum-computer-system-stack](https://www.researchgate.net/publication/332553779/figure/fig1/AS:750332074266624@1555904515421/Overview-of-quantum-computer-system-stack.ppm)
 -------
+![1579552018](https://image.slidesharecdn.com/atpesc2019track-177-29215pmshi-near-term-quantum-computing-sw-co-design-200120202435/95/swhw-codesign-for-nearterm-quantum-computing-14-1024.jpg?cb=1579552018)
+--------
 ![jAvz6HU6VLNAdEhy](https://miro.medium.com/max/1400/0*jAvz6HU6VLNAdEhy)
 --------
 ![HzbyyuY05f1PfHt01jIAwg](https://miro.medium.com/max/1400/1*HzbyyuY05f1PfHt01jIAwg.jpeg)
@@ -376,7 +383,7 @@
 
 ---------
 
-For application developers/researchers, there are 2 ways to access quantum computer hardwares, either you can use quantum simulators on ypur own laptop(supports upto 40 qubits, eg: Microsofts [QDK](https://www.microsoft.com/en-us/quantum/development-kit) ) or access QC's from public cloud. IBM provides free access to thier [Q experience cloud(Gate Model)](https://quantum-computing.ibm.com/) and D-Wave provides free access to thier [Leap cloud](https://www.dwavesys.com/take-leap)(Annealer). Since other HW providers are private, you could access them via partner access(Organizations/Teams).
+For application developers/researchers, there are 2 ways to access quantum computer hardwares, either you can use quantum simulators on your own laptop(supports upto 40 qubits, eg: Microsofts [QDK](https://www.microsoft.com/en-us/quantum/development-kit) ) or access QC's from public cloud. IBM provides free access to thier [Q experience cloud(Gate Model)](https://quantum-computing.ibm.com/) and D-Wave provides free access to thier [Leap cloud](https://www.dwavesys.com/take-leap)(Annealer). Since other HW providers are private, you could access them via partner access(Organizations/Teams).
 
 Lets start with Simulators..
 
