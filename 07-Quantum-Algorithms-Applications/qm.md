@@ -54,9 +54,9 @@
 -------
 ![Image_036](https://www.ijser.org/paper/Design-of-High-Speed-32-bit-Microarchitecture-for-Emulation-of-Quantum-Computing-Algorithms/Image_036.gif)
 -------
-![]()
+![UtegVsa_4MxvlTq1uKxEu9ldhwO85q9wCLcBGAsYHQ](https://1.bp.blogspot.com/-tw4xbhWu-t0/Xa9vlbT9YHI/AAAAAAAAE1A/-UtegVsa_4MxvlTq1uKxEu9ldhwO85q9wCLcBGAsYHQ/s1600/image5%2B-%2BEdited.jpg)
 -------
-![]()
+![quantum-internet](https://image.slidesharecdn.com/quantuminternetbyproflilisaghafi-180517200602/95/quantum-internet-by-professor-lili-saghafi-58-1024.jpg?cb=1531752383)
 -------
 ![]()
 -------
