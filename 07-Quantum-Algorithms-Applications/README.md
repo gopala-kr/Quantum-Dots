@@ -290,10 +290,6 @@
 ![MTG_PQC_01_720](https://www.mtg.de/export/sites/default/.galleries/images/3-Technologien/de/2-Post-Quantum-Cryptography/MTG_PQC_01_720.png)
 --------
 ![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-13-638.jpg?cb=1539558646)
----------
-![standardization](https://www.accenture.com/t20190109T165232Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global-3/85/Accenture-Timeline-for-standardization-v2.png)
-------
-![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-9-638.jpg?cb=1539558646)
 ------
 ![g001](https://www.mdpi.com/applsci/applsci-07-00212/article_deploy/html/images/applsci-07-00212-g001-550.jpg)
 --------
@@ -302,6 +298,10 @@
 ![qkd2](https://tr1.cbsistatic.com/hub/i/2015/05/07/647b9187-f49c-11e4-940f-14feb5cc3d2a/qkd2.jpg)
 -------
 ![F1](https://api.intechopen.com/media/chapter/63116/media/F1.png)
+------
+![1539558646](https://image.slidesharecdn.com/pqcbrieframeshnagappan-181014230801/95/post-quantum-cryptography-technical-overview-9-638.jpg?cb=1539558646)
+---------
+![standardization](https://www.accenture.com/t20190109T165232Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global-3/85/Accenture-Timeline-for-standardization-v2.png)
 ---------
 - [Quantum Key Distribution and the Future of Encryption](https://www.youtube.com/watch?v=RrdTAURD1rI)
 - [Quantum Key Distribution Animation](https://www.youtube.com/watch?v=cWpqlgF7uEA)
@@ -373,6 +373,15 @@
 
 ------
 ![enabled-quantum-computer-and-user-access-levels-At-the](https://www.researchgate.net/publication/338057433/figure/fig1/AS:849124681318400@1579458508433/Schematic-overview-of-a-cloud-enabled-quantum-computer-and-user-access-levels-At-the.png)
+
+---------
+
+For application developers/researchers, there are 2 ways to access quantum computer hardwares, either you can use quantum simulators on ypur own laptop(supports upto 40 qubits, eg: Microsofts [QDK](https://www.microsoft.com/en-us/quantum/development-kit) ) or access QC's from public cloud. IBM provides free access to thier [Q experience cloud(Gate Model)](https://quantum-computing.ibm.com/) and D-Wave provides free access to thier [Leap cloud](https://www.dwavesys.com/take-leap)(Annealer). Since other HW providers are private, you could access them via partner access(Organizations/Teams).
+
+Lets start with Simulators..
+
+
+
 
 ---------------
 ----------------------
