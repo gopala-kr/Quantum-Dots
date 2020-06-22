@@ -466,7 +466,13 @@ More Info:
 #### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
 - [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A/playlists)
+- [IBM Q Experience: Quantum Computers in Cloud](https://www.youtube.com/playlist?list=PLGntAYRT8AVn2lU-L5vcNYRPwk49YCbQe)
+- [Running an experiment in the IBM Quantum Experience](https://www.youtube.com/watch?v=pYD6bvKLI_c)
 - ["Building a Compiler for Quantum Computers" - Matthew Treinish (LCA 2020)](https://www.youtube.com/watch?v=L2P501Iy6J8)
+- [Using QISkit: The SDK for Quantum Computing](https://www.youtube.com/watch?v=LSA3pYZtRGg)
+- [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLIxlJjN2V90w3KBWpELOE7jNQMICxoRwc)
+- [Coding with Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+- [Quantum Coding with Lauren Capelluto](https://www.youtube.com/watch?v=ZvipHRY-URs)
 
 -------
 ![5e9e595fdea8300007de7b92](https://specials-images.forbesimg.com/imageserve/5e9e595fdea8300007de7b92/960x0.jpg?fit=scale)
