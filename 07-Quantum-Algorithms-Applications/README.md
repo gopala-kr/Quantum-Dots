@@ -135,7 +135,21 @@
 - [Quantum Algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), wiki.
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf), 2020. :star:
 ---------------
-- []()
+- [Quantum algorithms](https://www.youtube.com/playlist?list=PLjNcMZUoUpQeoeDAPx1izw0lbDzNzv_X6)
+- [Quantum Algorithms - Andrew Childs - USEQIP 2011](https://www.youtube.com/watch?v=QrP9HACtac8)
+- [Quantum Machine Learning: Prospects and Challenges](https://www.youtube.com/watch?v=Ycy40s4aXxs&list=PLgKuh-lKre11i3CpIFvw1xlmPQkrPLqrS)
+- [Quantum Algorithms -- An Overview of Techniques](https://www.youtube.com/watch?v=kv7nqtW7rVg)
+- [Workshop on Quantum Algorithms and Devices - Part 1](https://www.youtube.com/watch?v=ObyecZWwxcw)
+- [Quantum algorithms for Hamiltonian simulation: Recent results and open problems](https://www.youtube.com/watch?v=PerdRJ-offU)
+- [Quantum Algorithms - John Watrous - USEQIP 2012](https://www.youtube.com/watch?v=Mye5uaGq5no)
+- [Q2B 2018 - Quantum Algorithms Landscape](https://www.youtube.com/watch?v=PJRatgm8sL0)
+- [Quantum Algorithms and Post-Quantum Cryptography](https://www.youtube.com/watch?v=VtPHoH5RsHg)
+- [Overview of the NIST Post Quantum Algorithms](https://www.youtube.com/watch?v=iPijIw-ZDpY)
+- [Algorithms and Complexity for Quantum Computing](https://www.youtube.com/watch?v=BsgQBWp_lDE)
+- [Intro: Basic Quantum Algorithms ( Adam Bouland , University of California)](https://www.youtube.com/watch?v=CyBuzWBaW84)
+- [Designing Quantum Algorithms with Tequila, Jakob Kottmann.](https://www.youtube.com/watch?v=hUdf0P2fW2E)
+- [Quantum Approximate Optimization Algorithms (Peter Shor, ISCA 2018)](https://www.youtube.com/watch?v=HHIWUi3GmdM)
+
 --------------
 ![1949121.fig.007](https://static-01.hindawi.com/articles/ijrc/volume-2019/1949121/figures/1949121.fig.007.svgz)
 ---------------
