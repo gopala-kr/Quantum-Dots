@@ -1,5 +1,5 @@
 -------------
-### *Quantum Computing: 21st Century Space Race*
+#### *Quantum Computing: 21st Century Space Race*
 
 ----------------
 
@@ -185,7 +185,7 @@
 ---------
 ![27FdKqgS9FIIJKLVpwcmrw](https://miro.medium.com/max/1400/1*27FdKqgS9FIIJKLVpwcmrw.png)
 --------
-![2020-01-08-at-11-18-29](https://tr3.cbsistatic.com/hub/i/r/2020/01/08/cc87d250-8b86-4f81-a770-7d2d494099ce/resize/1200x900/f4458fedc2676d489b6a4723feb73109/screen-shot-2020-01-08-at-11-18-29-am.png)
+![2020-01-08-at-11-18-29](https://www.ibm.com/quantum-computing/_nuxt/img/2965a82.svg)
 -----
 ![2808333545](https://storage.ning.com/topology/rest/1.0/file/get/2808333545?profile=RESIZE_1024x1024)
 --------
@@ -402,6 +402,7 @@ Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Mode
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q# : Build 2018](https://www.youtube.com/watch?v=YE4m3yCdcqE)
 - [Microsoft Quantum Development Kit chemistry library](https://www.youtube.com/watch?v=Hxz0tH8jDfQ)
 - [Developing with the Microsoft Quantum Development Kit and Jupyter Notebook - THR2022](https://www.youtube.com/watch?v=Mvh82w3H2V8)
+- [Advances in Quantum Algorithms and Devices: A Quantum Approximate Optimization Algorithm](https://www.youtube.com/watch?v=qjIeeB0srew)
 
 -----------
 
@@ -464,8 +465,11 @@ More Info:
 
 #### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+- ["Building a Compiler for Quantum Computers" - Matthew Treinish (LCA 2020)](https://www.youtube.com/watch?v=L2P501Iy6J8)
 
 -------
+![5e9e595fdea8300007de7b92](https://specials-images.forbesimg.com/imageserve/5e9e595fdea8300007de7b92/960x0.jpg?fit=scale)
+------
 ![wfBylzNphPJtCAHHE2x0AA](https://miro.medium.com/proxy/1*wfBylzNphPJtCAHHE2x0AA.png)
 ---------------
 ----------------------
