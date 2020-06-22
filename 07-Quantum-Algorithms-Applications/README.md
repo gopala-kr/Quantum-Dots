@@ -465,11 +465,16 @@ More Info:
 
 #### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A/playlists)
 - ["Building a Compiler for Quantum Computers" - Matthew Treinish (LCA 2020)](https://www.youtube.com/watch?v=L2P501Iy6J8)
 
 -------
 ![5e9e595fdea8300007de7b92](https://specials-images.forbesimg.com/imageserve/5e9e595fdea8300007de7b92/960x0.jpg?fit=scale)
 ------
 ![wfBylzNphPJtCAHHE2x0AA](https://miro.medium.com/proxy/1*wfBylzNphPJtCAHHE2x0AA.png)
+
+-------------
+-----------
+![Figure1](https://github.com/gopala-kr/Quantum-Dots/blob/master/01-Covid19/res/3-Figure1-1.png)
 ---------------
 ----------------------
