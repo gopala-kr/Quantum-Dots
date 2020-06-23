@@ -61,6 +61,9 @@
 - [Quantum Tunneling](https://www.youtube.com/watch?v=RF7dDt3tVmI) | [Quantum Tunneling](https://www.youtube.com/watch?v=WPZLRtyvEqo)
 - [Double Slit - Interference](https://www.youtube.com/watch?v=A9tKncAdlHQ)
 - [Quantum Fields: The Real Building Blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
+
+[Back to top](#contents)
+
 -------
 ![visualizing-the-state-of-a-single-qubit-and](https://www.researchgate.net/publication/335028508/figure/fig1/AS:789466423762944@1565234871365/The-Bloch-sphere-provides-a-useful-means-of-visualizing-the-state-of-a-single-qubit-and.ppm)
 -------
@@ -126,6 +129,12 @@
 -------
 ![Google-Quantum-Error-Correction-2018](https://2pggys3b7fd63bfvol1w51zt-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Google-Quantum-Error-Correction-2018.jpg)
 
+------
+![variety-of-technologies-The-red-text-show](https://www.researchgate.net/profile/Gina_Passante/publication/230791505/figure/fig1/AS:353740377870336@1461349686950/Number-of-qubits-as-a-function-of-time-for-a-variety-of-technologies-The-red-text-shows.png)
+-------
+![9xwmc6Hk34Tf0jN2Fei82w](https://miro.medium.com/max/2328/1*9xwmc6Hk34Tf0jN2Fei82w.jpeg)
+---
+![FJZeTPFZXi0xxD2P8_ehdg](https://miro.medium.com/max/1400/1*FJZeTPFZXi0xxD2P8_ehdg.png)
 ------------
 --------------
 #### [Quantum Algorithms](https://github.com/gopala-kr/Quantum-Dots/blob/master/07-Quantum-Algorithms-Applications/q-algo.md)
@@ -407,6 +416,8 @@ Lets explore publicly accessible Estimators, Simulators, Annealers and Gate Mode
 
 #### Estimator and Simulator: Azure - Quantum Development Kit - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+[Back to top](#contents)
+
 - [Azure Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX)
 - [Microsoft Quantum Development Kit: Introduction and step-by-step demo](https://www.youtube.com/watch?v=v7b4J2INq9c)
 - [Quantum Computing - Top 3 Microsoft Breakthroughs with Krysta Svore](https://www.youtube.com/watch?v=5p2_moQZJWo)
@@ -453,6 +464,7 @@ More Info:
 
 #### Adiabatic Model - Annealer: D-Waves Leap2 Cloud  - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+[Back to top](#contents)
 
 - [cloud.dwavesys.com/leap](https://cloud.dwavesys.com/leap/signup/)
 - [https://github.com/dwavesystems](https://github.com/dwavesystems)
@@ -479,6 +491,8 @@ More Info:
 
 #### Gate Model : IBM Q Experience Cloud - [Sample excercises](https://github.com/QuantumSquares/QC-Algorithms)
 
+[Back to top](#contents)
+
 - [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A/playlists)
 - [IBM Q Experience: Quantum Computers in Cloud](https://www.youtube.com/playlist?list=PLGntAYRT8AVn2lU-L5vcNYRPwk49YCbQe)
 - [Running an experiment in the IBM Quantum Experience](https://www.youtube.com/watch?v=pYD6bvKLI_c)
@@ -493,8 +507,13 @@ More Info:
 ------
 ![wfBylzNphPJtCAHHE2x0AA](https://miro.medium.com/proxy/1*wfBylzNphPJtCAHHE2x0AA.png)
 
+[Back to top](#contents) 
+
 -------------
 -----------
 ![Figure1](https://github.com/gopala-kr/Quantum-Dots/blob/master/01-Covid19/res/3-Figure1-1.png)
+
+[Back to top](#contents)
+
 ---------------
 ----------------------
