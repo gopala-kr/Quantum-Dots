@@ -43,6 +43,10 @@
 ![augmented](https://www.3pillarglobal.com/sites/default/files/augmented%20reality-2.png)
 -----------
 ![VR_AR](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-value-chain.jpg)
+----------
+![application](https://www.lek.com/sites/default/files/colorbox-images/2108-diversity-AR_VR-B2B-application.jpg)
+--------
+![digi-capital-ar-platform-waves-1a](https://beta.techcrunch.com/wp-content/uploads/2017/07/digi-capital-ar-platform-waves-1a.jpg)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
