@@ -1,6 +1,7 @@
 
 ----------
 - [The state of immersive technology research: A literature analysis](https://www.academia.edu/36969697/The_state_of_immersive_technology_research_A_literature_analysis)
+- [2020-AR-VR-Survey](https://www.perkinscoie.com/images/content/2/3/231654/2020-AR-VR-Survey-v3.pdf)
 --------
 ![Neural-Network-Workflow](https://castercomm.com/wp-content/uploads/2019/05/Neural-Network-Workflow.jpg)
 ---------------
