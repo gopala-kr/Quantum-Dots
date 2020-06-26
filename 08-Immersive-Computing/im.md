@@ -3,6 +3,7 @@
 - [The state of immersive technology research: A literature analysis](https://www.academia.edu/36969697/The_state_of_immersive_technology_research_A_literature_analysis)
 - [Understanding Virtual Reality Technology: Advances and Applications](https://www.researchgate.net/publication/221911335_Understanding_Virtual_Reality_Technology_Advances_and_Applications)
 - [A Survey of Augmented Reality](https://www.cs.unc.edu/~azuma/ARpresence.pdf)
+- [State of the Art of Virtual Reality Technologies](https://www.researchgate.net/publication/297760223_State_of_the_Art_of_Virtual_Reality_Technologies)
 - [2020-AR-VR-Survey](https://www.perkinscoie.com/images/content/2/3/231654/2020-AR-VR-Survey-v3.pdf)
 --------
 ![Neural-Network-Workflow](https://castercomm.com/wp-content/uploads/2019/05/Neural-Network-Workflow.jpg)
