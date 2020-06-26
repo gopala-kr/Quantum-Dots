@@ -13,6 +13,8 @@
 ---------
 ![1511165830358](https://www.researchgate.net/profile/Xiao_Li179/publication/320880544/figure/fig6/AS:562684429324293@1511165830358/A-Taxonomy-of-VR-AR-Output-Devices.png)
 ---------------
+![Julia-Tokareva](https://thumbor.forbes.com/thumbor/700x557/https://blogs-images.forbes.com/quora/files/2018/01/Julia-Tokareva.jpg?width=960)
+-------
 ![ib8](https://i.vas3k.ru/ib8.jpg)
 --------
 ![sdk8_architecture](https://www.wikitude.com/external/doc/documentation/latest/unity/images/sdk8_architecture.png)
