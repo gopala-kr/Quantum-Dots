@@ -4,6 +4,8 @@
 --------
 ![Neural-Network-Workflow](https://castercomm.com/wp-content/uploads/2019/05/Neural-Network-Workflow.jpg)
 ---------------
+![ib8](https://i.vas3k.ru/ib8.jpg)
+--------
 ![sdk8_architecture](https://www.wikitude.com/external/doc/documentation/latest/unity/images/sdk8_architecture.png)
 ----------
 ![unity-xr-tech-stack](https://docs.unity3d.com/uploads/Main/unity-xr-tech-stack.png)
@@ -19,6 +21,18 @@
 ![449795_1_En_37_Fig3_HTML](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-981-10-7629-9_37/MediaObjects/449795_1_En_37_Fig3_HTML.gif)
 -----------
 ![1536255043835](https://www.researchgate.net/profile/Sang_Lee53/publication/216814160/figure/fig6/AS:667916215271430@1536255043835/Structure-of-proposed-e-learning-system-The-image-and-marker-recognition-enables.jpg)
+-------------
+![667069859262477](https://www.researchgate.net/profile/Photchara_Ratsamee/publication/314506258/figure/fig6/AS:667069859262477@1536053256480/The-overall-architecture-of-the-Adaptive-view-generation-showing-the-drone-robot.ppm)
+-----------
+![1554776236953](https://www.researchgate.net/profile/Jason_Orlosky/publication/332289063/figure/fig2/AS:745599729164290@1554776236953/The-overall-architecture-of-the-adaptive-view-generation-showing-the-drone-robot.png)
+---------
+![7134db1d7b1fb584b220abd65c50b8d6](https://qph.fs.quoracdn.net/main-qimg-7134db1d7b1fb584b220abd65c50b8d6)
+----------
+![MediaObjects](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-54502-8_7/MediaObjects/419707_1_En_7_Fig10_HTML.gif)
+------------
+![revolution](https://image.slidesharecdn.com/pablofraile-1810frailearthenextcomputingrevolution1-181119193617/95/pablo-fraile-arm-ar-lessons-from-the-mobile-revolution-13-638.jpg?cb=1542656433)
+------------
+![]()
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
 ----------
