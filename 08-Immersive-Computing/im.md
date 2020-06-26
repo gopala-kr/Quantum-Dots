@@ -58,6 +58,8 @@
 ![application](https://www.lek.com/sites/default/files/colorbox-images/2108-diversity-AR_VR-B2B-application.jpg)
 --------
 ![digi-capital-ar-platform-waves-1a](https://beta.techcrunch.com/wp-content/uploads/2017/07/digi-capital-ar-platform-waves-1a.jpg)
+--------
+![1458030025860](https://www.researchgate.net/profile/Michael_Doukas2/publication/257745453/figure/fig1/AS:339816710459399@1458030025860/Virtual-and-Augmented-Reality-Tool-Workflow.png)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
