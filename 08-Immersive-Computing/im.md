@@ -41,7 +41,8 @@
 ![google-ar-webar-101-47-1024](https://image.slidesharecdn.com/20171130appdojo1220add-171220042845/95/google-ar-webar-101-47-1024.jpg?cb=1513744189)
 ----------
 ![augmented](https://www.3pillarglobal.com/sites/default/files/augmented%20reality-2.png)
-
+-----------
+![VR_AR](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-value-chain.jpg)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
