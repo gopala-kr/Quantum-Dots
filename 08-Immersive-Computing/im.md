@@ -7,6 +7,8 @@
 - [2020-AR-VR-Survey](https://www.perkinscoie.com/images/content/2/3/231654/2020-AR-VR-Survey-v3.pdf)
 --------
 ![Neural-Network-Workflow](https://castercomm.com/wp-content/uploads/2019/05/Neural-Network-Workflow.jpg)
+---------
+![1511165830358](https://www.researchgate.net/profile/Xiao_Li179/publication/320880544/figure/fig6/AS:562684429324293@1511165830358/A-Taxonomy-of-VR-AR-Output-Devices.png)
 ---------------
 ![ib8](https://i.vas3k.ru/ib8.jpg)
 --------
