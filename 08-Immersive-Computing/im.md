@@ -62,6 +62,8 @@
 ![1458030025860](https://www.researchgate.net/profile/Michael_Doukas2/publication/257745453/figure/fig1/AS:339816710459399@1458030025860/Virtual-and-Augmented-Reality-Tool-Workflow.png)
 ----------
 ![dayXCt5v5jx9BAjD5h2xQ6xfD](https://img.favpng.com/22/24/4/augmented-reality-workflow-organization-png-favpng-dayXCt5v5jx9BAjD5h2xQ6xfD.jpg)
+----------
+![311604936757251](https://www.researchgate.net/profile/Manuel_Contero/publication/288466730/figure/fig4/AS:311604936757251@1451303814249/Proposed-methodology-for-creating-Augmented-Reality-AR-content.png)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
