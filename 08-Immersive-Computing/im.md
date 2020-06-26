@@ -74,6 +74,9 @@
 ![06LzDLlsd68_DNA3L7Bkcw](https://miro.medium.com/max/3840/1*06LzDLlsd68_DNA3L7Bkcw.jpeg)
 -----------
 ![OoRrYOPzvHCd9YThQy5Pfw](https://miro.medium.com/max/2214/1*OoRrYOPzvHCd9YThQy5Pfw.jpeg)
+
+-----------
+![VXUqq6OKPM1lv7UzzsrcCgT_medl2pfPu4mVhRAJvC_G7ItTWW8MGqA9x6UK_B5kUm_ZHo_xiw42rF1fEnYW2c8nOY0AJ](https://lh3.googleusercontent.com/proxy/VXUqq6OKPM1lv7UzzsrcCgT_medl2pfPu4mVhRAJvC_G7ItTWW8MGqA9x6UK_B5kUm_ZHo_xiw42rF1fEnYW2c8nOY0AJ-m1Aiz0Y4aHRtSBvy5sux5E3sZs2pIj2yxMxmg4OVjQNo5ClA)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
