@@ -64,6 +64,8 @@
 ![dayXCt5v5jx9BAjD5h2xQ6xfD](https://img.favpng.com/22/24/4/augmented-reality-workflow-organization-png-favpng-dayXCt5v5jx9BAjD5h2xQ6xfD.jpg)
 ----------
 ![311604936757251](https://www.researchgate.net/profile/Manuel_Contero/publication/288466730/figure/fig4/AS:311604936757251@1451303814249/Proposed-methodology-for-creating-Augmented-Reality-AR-content.png)
+-------
+![JpdVhAWHlL6oFYt_8_JefMn8ExgNlRoiq0ktMSr8DliLkcLJtqS1QFAzCpogtsY0B018DxW5N4qbr22_Wh239axxHJiKDe0lyuh1WY2cgPKQjPYqDjPGQSJ_5lE](https://lh3.googleusercontent.com/proxy/JpdVhAWHlL6oFYt_8_JefMn8ExgNlRoiq0ktMSr8DliLkcLJtqS1QFAzCpogtsY0B018DxW5N4qbr22_Wh239axxHJiKDe0lyuh1WY2cgPKQjPYqDjPGQSJ_5lE)
 -------------
 -----------
 ![Newzoo_Overview_of_the_AR_Landscape](https://newzoo.com/wp-content/uploads/2019/03/Newzoo_Overview_of_the_AR_Landscape.png)
