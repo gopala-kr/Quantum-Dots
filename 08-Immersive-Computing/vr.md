@@ -101,8 +101,6 @@
 --------
 ![openxr](https://www.dvhardware.net/news/2017/open_xr_problem_vs_solution.jpg)
 --------
-![Chronos_OpenXR](https://www.cdrinfo.com/d7/system/files/new_site_image/Chronos_OpenXR-Update-GDC_1.jpg)
---------
 ![Snapdragon](https://www.vrfocus.com/wp-content/uploads/2018/03/Snapdragon-VR-Development-Kit.png)
 -------
 ![VUSR_3](https://trends.cmf-fmc.ca/wp-content/uploads/VUSR_3.jpg)
