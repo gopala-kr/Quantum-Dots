@@ -131,9 +131,11 @@
 --------
 ![QwRVBh_zl46p](https://miro.medium.com/max/960/0*QwRVBh_zl46p-cPU.png)
 --------
-![]()
+![oculusx745](https://sarahhenryvrpresentation.files.wordpress.com/2017/12/tr10-oculusx745.png)
+-------------
+![augmented](https://www.pintels.com/resources/infographic/pintels-for-augmented-reality-and-virtual-reality.jpg)
 --------
-![]()
+![timeline](https://www.onirix.com/wp-content/uploads/2019/10/augmented-reality-timeline-1-1024x596.jpg)
 --------
 ![Valuation_Stepup_Chart_rgp](https://files.pitchbook.com/images/Valuation_Stepup_Chart_rgp.png)
 ------
