@@ -1,6 +1,6 @@
 --------
 
-#### The history of virtual reality
+#### [The history of virtual reality](https://virtualspeech.com/blog/history-of-vr)
 
 **From Sensorama to Oculus Quest and beyond**
 
@@ -58,6 +58,55 @@
 ![20171029img20](https://www.whitehutchinson.com/images/2017/20171029img20.jpg)
 ------
 ![Development](https://www.researchgate.net/profile/Mustafa_Al-Adhami/publication/328374975/figure/fig1/AS:683257599365122@1539912714432/Development-of-VR-headset.jpg)
+---------
+![figures](https://www2.deloitte.com/content/dam/insights/us/articles/Tech-Trends-2018/4236_Digital-reality/figures/4236_Fig.1.png)
+------
+![vr1](https://cdn2.hubspot.net/hubfs/208250/Blog_Images/vr1.png)
+-----
+![min](https://anzu.io/wp-content/uploads/2019/08/Group-5752@2x-min.png)
+----
+![1007](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-23528-4_59/MediaObjects/485921_1_En_59_Fig1_HTML.png)
+-----
+![LEK_Virtual_Reality_02](https://www.thewrap.com/wp-content/uploads/2016/06/LEK_Virtual_Reality_02.jpg)
+------
+![zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFXE759LQsTLTWDg0zcaAkGffatHbmM](https://images.squarespace-cdn.com/content/v1/5605a932e4b0055d57211846/1504119912041-W3YQQTJH3MPY8ARWHN12/ke17ZwdGBToddI8pDm48kJdclGSDuvK0RDr81stsmvBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFXE759LQsTLTWDg0zcaAkGffatHbmM-oeLufwKz2p-BqEcAfnVBrEqrgp1UxUHGkY/rp-vr-infographic4.png)
+---------
+![2FMobileCard](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fjplafke%2Ffiles%2F2016%2F10%2FMobileCard-VR-Headsets-Comparison-v1.jpg)
+-------
+![vr-so-close-to-reality-exhibit-1-min](https://www.redchalk.com/wp-content/uploads/2017/09/vr-so-close-to-reality-exhibit-1-min.png)
+-----
+![size_2698x1517](https://i.pcmag.com/imagery/articles/03oJgNvSPRrKlPhHauAQSAH-2.fit_scale.size_2698x1517.v1570636935.jpg)
+----------
+![developer-economy-vr-r471x](https://media.thevirtualreport.biz/2017/11/84098/developer-economy-vr-r471x.png)
+---------
+![170117170422](https://image.slidesharecdn.com/vrcescharliefink-170117170422/95/crossing-the-chasm-whats-new-for-vr-2017-16-638.jpg?cb=1485982071)
+
+--------
+------
+![332979647](https://www.researchgate.net/profile/David_Robinson37/publication/332979647/figure/fig3/AS:756932059074560@1557478074087/Overall-pipeline-architecture-of-the-VR-platform.png)
+
+----------
+![NewOculusSteamVRChartCorrected](https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2018/11/NewOculusSteamVRChartCorrected-1024x801.png)
+-------
+![figure](https://www.researchgate.net/profile/Thammathip_Piumsomboon/publication/321405854/figure/fig2/AS:567028507725824@1512201539752/CoVAR-system-overview.png)
+
+--------
+![fjvnBYN](https://i.imgur.com/fjvnBYN.png)
+--------
+![LpvrPipelineOverview](https://lp-research.com/wp-content/uploads/2018/01/LpvrPipelineOverview-1024x518.png)
+-----------
+![S0022283618306648](https://ars.els-cdn.com/content/image/1-s2.0-S0022283618306648-gr4.jpg)
+------
+![UPpZGD9XA](https://miro.medium.com/max/1400/1*1uQAGINmAbZY-UPpZGD9XA.png)
+--------
+![openxr](https://www.dvhardware.net/news/2017/open_xr_problem_vs_solution.jpg)
+--------
+![Chronos_OpenXR](https://www.cdrinfo.com/d7/system/files/new_site_image/Chronos_OpenXR-Update-GDC_1.jpg)
+--------
+![Snapdragon](https://www.vrfocus.com/wp-content/uploads/2018/03/Snapdragon-VR-Development-Kit.png)
+-------
+![VUSR_3](https://trends.cmf-fmc.ca/wp-content/uploads/VUSR_3.jpg)
+
 ------------
 
 -----------
