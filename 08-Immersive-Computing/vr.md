@@ -1,6 +1,6 @@
 --------
 
-##### The history of virtual reality
+#### The history of virtual reality
 
 **From Sensorama to Oculus Quest and beyond**
 
@@ -53,7 +53,11 @@
               - 2030 – VR will be a $28bn market, according to GlobalData forecasts.
              
 -----------------
-
+![exhibit-1vr-min](https://www.redchalk.com/wp-content/uploads/2017/10/exhibit-1vr-min.png)
+------
+![20171029img20](https://www.whitehutchinson.com/images/2017/20171029img20.jpg)
+------
+![Development](https://www.researchgate.net/profile/Mustafa_Al-Adhami/publication/328374975/figure/fig1/AS:683257599365122@1539912714432/Development-of-VR-headset.jpg)
 ------------
 
 -----------
