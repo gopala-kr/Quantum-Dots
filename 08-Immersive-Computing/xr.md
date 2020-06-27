@@ -128,7 +128,7 @@
 --------
 ![ccs-insights-vr-report-forecast](https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/ccs-insights-vr-report-forecast.png)
 --------
-![]()
+![QwRVBh_zl46p](https://miro.medium.com/max/960/0*QwRVBh_zl46p-cPU.png)
 --------
 ![]()
 --------
