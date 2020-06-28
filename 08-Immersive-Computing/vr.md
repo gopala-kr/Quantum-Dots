@@ -108,6 +108,9 @@
 -------
 ![VUSR_3](https://trends.cmf-fmc.ca/wp-content/uploads/VUSR_3.jpg)
 
+-----------
+![vr-market-innovation-opportunities-use-cases-15-1024](https://image.slidesharecdn.com/vrmarketinnovationopportunitiesusecases-170531064914/95/vr-market-innovation-opportunities-use-cases-15-1024.jpg?cb=1496213601)
+
 ------------
 
 -----------
