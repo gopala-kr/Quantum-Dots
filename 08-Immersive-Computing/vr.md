@@ -1,6 +1,6 @@
 --------
 
-#### [The history of virtual reality](https://virtualspeech.com/blog/history-of-vr)
+### [The history of virtual reality](https://virtualspeech.com/blog/history-of-vr)
 
 **From Sensorama to Oculus Quest and beyond**
 
@@ -80,7 +80,8 @@
 ![developer-economy-vr-r471x](https://media.thevirtualreport.biz/2017/11/84098/developer-economy-vr-r471x.png)
 ---------
 ![170117170422](https://image.slidesharecdn.com/vrcescharliefink-170117170422/95/crossing-the-chasm-whats-new-for-vr-2017-16-638.jpg?cb=1485982071)
-
+-----------
+![InstaVR](https://30icsk46wnxx3t69qb2h5nfj-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/InstaVR-2020-1024x422.jpg)
 --------
 ------
 ![332979647](https://www.researchgate.net/profile/David_Robinson37/publication/332979647/figure/fig3/AS:756932059074560@1557478074087/Overall-pipeline-architecture-of-the-VR-platform.png)
