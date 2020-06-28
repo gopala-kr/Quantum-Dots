@@ -141,6 +141,8 @@
 ------
 ![pepper_ar_0](https://www.pepperconstruction.com/sites/default/files/pepper_ar_0.jpg)
 ---------
+![arvrmr-in-learning-primer-v10-final-4-1024](https://image.slidesharecdn.com/arvrmrinlearningprimerv1-171109145302/95/arvrmr-in-learning-primer-v10-final-4-1024.jpg?cb=1510298274)
+---------
 ![arvrmr-in-learning-primer-v10-final-19-1024](https://image.slidesharecdn.com/arvrmrinlearningprimerv1-171109145302/95/arvrmr-in-learning-primer-v10-final-19-1024.jpg?cb=1510298274)
 --------
 -------
