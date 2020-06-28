@@ -1,5 +1,5 @@
 
-##### Immersive Computing Overview
+### Immersive Computing Overview
 
 -------
 
@@ -35,14 +35,14 @@
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
 - [HoloLens 2 AR Headset: On Stage Live Demonstration](https://www.youtube.com/watch?v=uIHPPtPBgHk) :star:
-- [The dawn of the age of holograms | Alex Kipman](The dawn of the age of holograms | Alex Kipman)
+- [The dawn of the age of holograms | Alex Kipman](https://www.youtube.com/watch?v=1cQbMP3I5Sk)
 - [Microsoft HoloLens Channel](https://www.youtube.com/c/MicrosoftHoloLens/playlists)
 - [HoloLens - Development Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/development) | [Microsoft HoloLens: Developer Information](https://www.youtube.com/playlist?list=PLZCHH_4VqpRhwzNjMBHJOcfdMhYZzC0K2)
-- [https://github.com/microsoft/MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) | [hololens](https://github.com/topics/hololens) | [hololens-applications](https://github.com/topics/hololens-applications) | [PacktPublishing/Microsoft-HoloLens-By-Example](https://github.com/PacktPublishing/Microsoft-HoloLens-By-Example)
+- [microsoft/MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) | [hololens](https://github.com/topics/hololens) | [hololens-applications](https://github.com/topics/hololens-applications) | [PacktPublishing/Microsoft-HoloLens-By-Example](https://github.com/PacktPublishing/Microsoft-HoloLens-By-Example)
 - [HoloLens Apps in MS Store](https://www.microsoft.com/en-us/store/collections/hlgettingstarted/hololens)
 - [HoloBot for Microsoft HoloLens](https://www.youtube.com/watch?v=f_5rT3IeusM&feature=youtu.be) | [HoloBot](https://github.com/ActiveNick/HoloBot)
 - [Opportunities  and  Limitations  of  Mixed  Reality  Holograms  inIndustrial  Robotics](https://arxiv.org/pdf/2001.08166.pdf)
-- [Faculty of Science, Technology and CommunicationHolographic Visualisation of RadiologyData and Automated Machine Learning-based Medical Image Segmentation](https://arxiv.org/pdf/1808.04929.pdf)
+- [Holographic Visualisation of RadiologyData and Automated Machine Learning-based Medical Image Segmentation](https://arxiv.org/pdf/1808.04929.pdf)
 - [Merging real and virtual worlds: An analysis of the stateof the art and practical evaluation of Microsoft Hololens](https://arxiv.org/pdf/1706.08096.pdf)
 - [HoloFace: Augmenting Human-to-Human Interactions on HoloLens](https://arxiv.org/pdf/1802.00278.pdf)
 - [A Review on Mixed Reality: Current Trends,Challenges and Prospects](https://res.mdpi.com/d_attachment/applsci/applsci-10-00636/article_deploy/applsci-10-00636.pdf)
