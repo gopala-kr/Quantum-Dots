@@ -2,17 +2,18 @@
 
 #### Hardwares
 
-- Oculus Rift[https://www.oculus.com/rift/]
-- Oculus Go[https://www.oculus.com/go/]
-- Oculus Connect 5[https://www.oculusconnect.com/]
-- HTC Vive [https://www.vive.com/in/]
-- Google Cardboard[https://vr.google.com/cardboard/]
-- Google DayDream[https://vr.google.com/daydream/]
-- Samsung Gear VR[https://www.samsung.com/global/galaxy/gear-vr/]
-- Steam VR [https://store.steampowered.com/steamvr]
-- Sony PlayStation VR[https://www.playstation.com/en-in/explore/playstation-vr/]
+- [Oculus Rift](https://www.oculus.com/rift/)
+- [Oculus Go](https://www.oculus.com/go/)
+- [Oculus Connect 5](https://www.oculusconnect.com/)
+- [HTC Vive](https://www.vive.com/in/)
+- [Google Cardboard](https://vr.google.com/cardboard/)
+- [Google DayDream](https://vr.google.com/daydream/)
+- [Samsung Gear VR](https://www.samsung.com/global/galaxy/gear-vr/)
+- [Steam VR](https://store.steampowered.com/steamvr)
+- [Sony PlayStation VR](https://www.playstation.com/en-in/explore/playstation-vr/)
 
-There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF. Standalone headsets do not require an external device since everything needed is built into the headset itself. Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
+                There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF. Standalone headsets do not require an external device since everything needed is built into the headset itself. Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
+		
 
 <table>
 	<tr>
@@ -149,46 +150,46 @@ There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Stand
 Complete VR Systems
 
 - Leap Motion Orion [ [Leap Motion](https://www.leapmotion.com/product/vr) ] - Uses Oculus Rift CV1 or HTC Vive and Unity.
-- Steam VR [  [Steam](http://store.steampowered.com/steamvr) ] - Uses HTC Vive, Oculus Rift and WMR headsets
+- Steam VR [Steam](http://store.steampowered.com/steamvr)  - Uses HTC Vive, Oculus Rift and WMR headsets
 
 -------
 #### Dev tools 
 
 - [https://github.com/XRTK/XRTK-Core](https://github.com/XRTK/XRTK-Core)
-- Unity [https://unity3d.com/get-unity/download] | https://unity3d.com/learn/tutorials | https://unity3d.com/learn
-- Unreal Engine [https://www.unrealengine.com/en-US/feed] | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/
-- Improbable [https://improbable.io/games]
-- Vizard [https://www.worldviz.com/vizard]
-- Google Poly [https://poly.google.com/]
-- Turbosquid [https://www.turbosquid.com/Search/3D-Models/free]
-- CGTrader [https://www.cgtrader.com/free-3d-models]
-- Free3d [https://free3d.com/3d-models/]
-- Archive3D [https://archive3d.net/]
-- Sketchfab [https://sketchfab.com/features/download]
-- Clara.io [https://clara.io/library]
-- Unity AssetsStore [https://assetstore.unity.com/lists/top-free-3d-models-5063]
-- 3DModelFree [http://www.3dmodelfree.com/]
+- [Unity](https://unity3d.com/get-unity/download) | https://unity3d.com/learn/tutorials | https://unity3d.com/learn
+- [Unreal Engine](https://www.unrealengine.com/en-US/feed) | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/
+- [Improbable](https://improbable.io/games)
+- [Vizard](https://www.worldviz.com/vizard)
+- [Google Poly](https://poly.google.com/)
+- [Turbosquid](https://www.turbosquid.com/Search/3D-Models/free)
+- [CGTrader](https://www.cgtrader.com/free-3d-models)
+- [Free3d](https://free3d.com/3d-models/)
+- [Archive3D](https://archive3d.net/)
+- [Sketchfab](https://sketchfab.com/features/download)
+- [Clara.io](https://clara.io/library)
+- [Unity AssetsStore](https://assetstore.unity.com/lists/top-free-3d-models-5063)
+- [3DModelFree](http://www.3dmodelfree.com/)
 
 ----------
 #### Tutorials
 
-- Unity XR Specialization [https://www.coursera.org/specializations/unity-xr]
-- Unity Certified Programmer Specialization [https://www.coursera.org/specializations/unity-certified-programmer]
-- Virtual Reality Specialization [https://www.coursera.org/specializations/virtual-reality]
-- Unity Gameplay Programmer Specialization [https://www.coursera.org/specializations/unity-gameplay-programmer]
-- Unity 3D artist Specialization [https://www.coursera.org/specializations/unity-3d-artist]
-- C# Programming for Unity Game Development Specialization [https://www.coursera.org/specializations/programming-unity-game-development]
-- Game Design and Development Specialization [https://www.coursera.org/specializations/game-development]
-- Human Computer Interaction [https://classroom.udacity.com/courses/ud400]
-- Introduction to Virtual Reality [https://in.udacity.com/course/introduction-to-virtual-reality--ud1012]
-- VR Software Development [https://in.udacity.com/course/vr-software-development--ud1014]
-- Creating Virtual Reality (VR) Apps  [https://www.edx.org/course/creating-virtual-reality-vr-apps]
-- How Virtual Reality Works [https://www.edx.org/course/how-virtual-reality-works]
-- Computer Graphics [https://www.edx.org/course/computer-graphics]
-- Models in Architecture - design through physical & digital models [https://www.edx.org/course/models-architecture-design-through-delftx-spatial101x-0]
-- Design Thinking: UX and Advanced Topics [https://www.edx.org/course/design-thinking-advanced-topics]
-- Standford University EE267: Virtual Reality [https://stanford.edu/class/ee267/]
-- NPTEL IIT Madras [https://nptel.ac.in/courses/106106138/]
+- Unity XR Specialization https://www.coursera.org/specializations/unity-xr
+- Unity Certified Programmer Specialization https://www.coursera.org/specializations/unity-certified-programmer
+- Virtual Reality Specialization https://www.coursera.org/specializations/virtual-reality
+- Unity Gameplay Programmer Specialization https://www.coursera.org/specializations/unity-gameplay-programmer
+- Unity 3D artist Specialization https://www.coursera.org/specializations/unity-3d-artist
+- C# Programming for Unity Game Development Specialization https://www.coursera.org/specializations/programming-unity-game-development
+- Game Design and Development Specialization https://www.coursera.org/specializations/game-development
+- Human Computer Interaction https://classroom.udacity.com/courses/ud400
+- Introduction to Virtual Reality https://in.udacity.com/course/introduction-to-virtual-reality--ud1012
+- VR Software Development https://in.udacity.com/course/vr-software-development--ud1014
+- Creating Virtual Reality (VR) Apps  https://www.edx.org/course/creating-virtual-reality-vr-apps
+- How Virtual Reality Works https://www.edx.org/course/how-virtual-reality-works
+- Computer Graphics https://www.edx.org/course/computer-graphics
+- Models in Architecture - design through physical & digital models https://www.edx.org/course/models-architecture-design-through-delftx-spatial101x-0
+- Design Thinking: UX and Advanced Topics https://www.edx.org/course/design-thinking-advanced-topics
+- Standford University EE267: Virtual Reality https://stanford.edu/class/ee267/
+- NPTEL IIT Madras https://nptel.ac.in/courses/106106138/
 
 ------------
 ----------
