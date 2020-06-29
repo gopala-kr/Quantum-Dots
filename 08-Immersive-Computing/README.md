@@ -111,11 +111,15 @@
 ![CyjXxusnwFQ](https://miro.medium.com/max/2676/1*5Z3-4kDD_N-CyjXxusnwFQ.png)
 
 --------
-- [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured)
-- [Vuzix Corporation](https://www.youtube.com/channel/UCMh4hWRHX_1QZ98UZygR30Q/featured)
-- [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
 - [Google Glass](https://www.google.com/glass/start/) | [Enterprise Edition 2(2019) | $999](https://www.youtube.com/watch?v=5IK-zU51MU4) | [Google AR & VR](https://www.youtube.com/channel/UCkUZagbGbewp3bZQLXGzkmA)
-- []()
+
+-------------
+- [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured)
+- [Vuzix Corporation](https://www.youtube.com/channel/UCMh4hWRHX_1QZ98UZygR30Q/featured) 
+- [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
+- [Spectacles by Snapchat](https://www.spectacles.com/in/)
+- [Echo Frames: Eyeglasses with Alexa](https://www.youtube.com/watch?v=gmVgPF4ofsE)
+- More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 
 ----------
 ---------
