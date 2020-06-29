@@ -36,7 +36,15 @@
 
 -----------
 
-#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500
+#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)
+
+         - The pre-production version of HoloLens, the Development Edition, shipped on March 30, 2016, and is targeted to developers in the United States and Canada for a list price of $3000
+         - HoloLens 2 was announced at the Mobile World Congress in Barcelona, Spain, on February 24, 2019 and is available on preorder at $3500.
+         - In November, 2018, The company won a $480 million military contract with the U.S. government to bring AR headset tech into the weapons repertoire of American soldiers.
+         - OnSight and Sidekick, software projects developed by a collaboration between NASA and Microsoft to explore mixed reality applications in space exploration.
+         - Galaxy Explorer, an educational application about the Milky Way in development by Microsoft Studios,[50] pitched and chosen by the developer community via the Share Your Idea campaign, and to be open-sourced upon completion.
+         - A spacecraft design/visualization application in development by NASA's Jet Propulsion Laboratory (JPL).
+         - Microsoft Visual Studio is an IDE that can be used to develop applications (both 2D and 3D) for HoloLens. Applications can be tested using HoloLens emulator (included into Visual Studio 2015 IDE) or HoloLens Development Edition.
 
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
@@ -54,6 +62,7 @@
 - [A Review on Mixed Reality: Current Trends,Challenges and Prospects](https://res.mdpi.com/d_attachment/applsci/applsci-10-00636/article_deploy/applsci-10-00636.pdf)
 - [Holographic Projection Technology: The World is Changing.](https://arxiv.org/ftp/arxiv/papers/1006/1006.0846.pdf)
 - [Interactive Multi-User 3D Visual Analytics in AugmentedReality](https://arxiv.org/pdf/2002.05305.pdf)
+- [Tangible Holograms:Towards Mobile PhysicalAugmentation of Virtual Objects](https://arxiv.org/pdf/1703.08288.pdf)
 
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - $2295 - $3290
