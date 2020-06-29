@@ -11,6 +11,11 @@
 - [Oculus](https://www.youtube.com/user/oculusvr) | [oculus products](https://www.oculus.com/compare/)
 - [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/)
 - [Valve](https://www.youtube.com/user/Valve)
+- [Google Cardboard – Google VR](https://arvr.google.com/intl/en_in/cardboard/apps/)
+- [Viveport Infinity](https://www.viveport.com/infinity)
+- [Oculus stores](https://developer.oculus.com/distribute/)
+- [Google Cardboard](https://arvr.google.com/intl/en_in/cardboard/get-cardboard/)
+- [PlayStation](https://www.youtube.com/user/PlayStation)
 
 ---------------
 - [Oculus Rift](https://www.oculus.com/rift/)
@@ -27,9 +32,12 @@
 
 --------------
 
-        There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. Desktop Headsets require 
-	a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone 
-	to run the application. Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF.
+        There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. 
+	
+	Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. 
+	
+	Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF.
+	
 	Standalone headsets do not require an external device since everything needed is built into the headset itself. 
 	Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
 		
@@ -185,14 +193,6 @@
 - [Unity AssetsStore](https://assetstore.unity.com/lists/top-free-3d-models-5063)
 - [3DModelFree](http://www.3dmodelfree.com/)
 
-----------
-#### Content Stores
-
-- [Google Cardboard – Google VR](https://arvr.google.com/intl/en_in/cardboard/apps/)
-- [Viveport Infinity](https://www.viveport.com/infinity)
-- [Oculus stores](https://developer.oculus.com/distribute/)
-- [Google Cardboard](https://arvr.google.com/intl/en_in/cardboard/get-cardboard/)
-- [PlayStation](https://www.youtube.com/user/PlayStation)
 
 -----------
 #### Dev Tutorials
