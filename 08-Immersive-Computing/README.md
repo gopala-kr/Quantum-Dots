@@ -1,12 +1,11 @@
 
-### Immersive Computing Overview
+### Immersive Computing Review
 
 -------
+------------
 ![YSG7H0B9h](https://miro.medium.com/max/2000/0*YSG7H0B9h-K0Z1WB.jpg)
+
 ---------
-
-- [Virtual-reality applications give science a new dimension](https://www.nature.com/articles/d41586-018-04997-2)
-
 ------
 #### The Future of HCI
 
@@ -17,21 +16,26 @@
 - [Virtual Reality - Short Film](https://www.youtube.com/watch?v=DZOHWgJ9Xc0)
 - [A Sci-Fi Short Film : "Sight" - by Sight Systems | TheCGBros](https://www.youtube.com/watch?v=lK_cdkpazjI)
 - [Sci-Fi Short Film “Plurality" | DUST](https://www.youtube.com/watch?v=pocEN5HprsM)
-- [Mojo Vision is developing AR contact lenses](https://www.youtube.com/watch?v=pV52DF5IrEc&feature=emb_title)
-- [https://www.mojo.vision/news](https://www.mojo.vision/news)
-- [Mojo Vision’s Augmented Reality Contact Lenses Kick off a Race to AR on Your Eye](https://singularityhub.com/2020/01/17/mojo-visions-augmented-reality-contact-lenses-kick-off-a-race-to-ar-in-your-eye/)
-- [The making of Mojo, AR contact lenses that give your eyes superpowers](https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers)
-- [Mojo AR contact lenses hands-on: A new way to look at the world](https://www.tomsguide.com/hands-on/mojo-ar-contact-lenses-features-specs)
-- [Augmented Reality and Super Sight: The Bionic Contact Lens](https://sensing.konicaminolta.us/us/blog/augmented-reality-and-super-sight-the-bionic-contact-lens/)
-- [SOFT ROBOTICS: MOJO LENS CONTACTS HAVE AUGMENTED REALITY DISPLAYS](https://globetrender.com/2020/04/30/mojo-lens-ar-contact-lenses/)
 - [Redefining what is humanly possible with augmented reality | Brian Mullins | TEDxSanDiego](https://youtu.be/x6_IZ8e9KuE)
 - [Augmented Reality | John Werner | TEDxAsburyPark](https://youtu.be/RDvBowq3ed8)
 - [Augmented Reality, science fiction is now science fact | Ryan Groom | TEDxMoncton](https://youtu.be/2zsIXVqxbuc)
 - [Augmented reality storytelling how it will change the way we play forever | Devon Lyon | TEDxSalem](https://youtu.be/sYl9wI3jnms)
 - [How Augmented Reality Will Change Education Completely | Florian Radke | TEDxGateway](https://youtu.be/5AjxGqzqQ54)
 - [Will virtual and augmented reality move us into the knowledge age? | Zenka | TEDxJacksonHole](https://youtu.be/2FA-IuDTMjE)
+- [Virtual-reality applications give science a new dimension](https://www.nature.com/articles/d41586-018-04997-2)
+
+#### AR/VR Contact Lenses
+
+- [https://www.mojo.vision/news](https://www.mojo.vision/news)
+- [Mojo Vision’s Augmented Reality Contact Lenses Kick off a Race to AR on Your Eye](https://singularityhub.com/2020/01/17/mojo-visions-augmented-reality-contact-lenses-kick-off-a-race-to-ar-in-your-eye/)
+- [The making of Mojo, AR contact lenses that give your eyes superpowers](https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers)
+- [Mojo AR contact lenses hands-on: A new way to look at the world](https://www.tomsguide.com/hands-on/mojo-ar-contact-lenses-features-specs)
+- [Augmented Reality and Super Sight: The Bionic Contact Lens](https://sensing.konicaminolta.us/us/blog/augmented-reality-and-super-sight-the-bionic-contact-lens/)
+- [SOFT ROBOTICS: MOJO LENS CONTACTS HAVE AUGMENTED REALITY DISPLAYS](https://globetrender.com/2020/04/30/mojo-lens-ar-contact-lenses/)
+- [Mojo Vision is developing AR contact lenses](https://www.youtube.com/watch?v=pV52DF5IrEc&feature=emb_title)
 
 -----------
+
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500
 
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
@@ -73,5 +77,8 @@
 - [Magic Leap One In-Depth Review](https://medium.com/futurepi/magic-leap-one-in-depth-review-bcbf5b0e643a)
 ------
 ![CyjXxusnwFQ](https://miro.medium.com/max/2676/1*5Z3-4kDD_N-CyjXxusnwFQ.png)
+
+--------
+
 ----------
 ---------
