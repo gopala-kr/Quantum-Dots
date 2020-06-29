@@ -119,7 +119,10 @@
 - [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
 - [Spectacles by Snapchat](https://www.spectacles.com/in/)
 - [Echo Frames: Eyeglasses with Alexa](https://www.youtube.com/watch?v=gmVgPF4ofsE)
+- [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
+
+[wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021
 
 ----------
 ---------
