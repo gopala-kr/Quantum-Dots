@@ -5,7 +5,7 @@
 ------------
 - [Comparison of virtual reality headsets](https://en.wikipedia.org/wiki/Comparison_of_virtual_reality_headsets)
 
-- [VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
+![VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
 --------
 
 - [Oculus Rift](https://www.oculus.com/rift/)
