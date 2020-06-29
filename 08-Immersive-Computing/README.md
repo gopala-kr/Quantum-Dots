@@ -50,7 +50,7 @@
 - [Interactive Multi-User 3D Visual Analytics in AugmentedReality](https://arxiv.org/pdf/2002.05305.pdf)
 
 ----------
-#### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) $2295 to $3290
+#### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - $2295 - $3290
 
       OS/Software: Lumin OS
       CPU/GPU: NVIDIA Parker SOC; 2 Denver 2.0 64-bit cores +4 ARM Cortex A57 64-bit cores / NVIDIA Pascal, 256 CUDA cores; Graphic APIs: OpenGL 4.5, Vulkan, OpenGL ES 3.3+
@@ -61,6 +61,10 @@
       Built-in mic: Yes
       Connections: 3.5mm jack; Bluetooth 4.2, WiFi 802.11ac/b/g/n, USB-C
 
-- []()
+- [Magic Leap Presentation](https://www.slideshare.net/funk97/magic-leap-54979081)
+- [Magic Leap Pitch (Development, Manufacturing and Launch Plans)](https://www.slideshare.net/nicholasngjf/magic-leap-pitch)
+- [developer.magicleap](https://developer.magicleap.com/en-us/home)
+------
+![CyjXxusnwFQ](https://miro.medium.com/max/2676/1*5Z3-4kDD_N-CyjXxusnwFQ.png)
 ----------
 ---------
