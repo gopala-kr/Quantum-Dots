@@ -102,8 +102,8 @@
 - [Magic Leap | Demos: Waking Up with Mixed Reality](https://www.youtube.com/watch?time_continue=38&v=GmdXJy_IdNw&feature=emb_title) | [Tested: Magic Leap One Augmented Reality Review!](https://www.youtube.com/watch?v=Vrq2akzdFq8)
 - [Magic Leap Presentation](https://www.slideshare.net/funk97/magic-leap-54979081)
 - [Magic Leap Pitch (Development, Manufacturing and Launch Plans)](https://www.slideshare.net/nicholasngjf/magic-leap-pitch)
-- [developer.magicleap](https://developer.magicleap.com/en-us/home) | [Unreal Engine - Magic Leap Developers](https://www.youtube.com/playlist?list=PL_j5e9ibbeEOnErGPzmN--TnXCkpIBBZA) | [Unity - Magic Leap Developers](https://www.youtube.com/playlist?list=PL_j5e9ibbeEOvYUTLu7aQ2s4RxkAdFax6) | [Magic Leap Toolkit](https://www.youtube.com/playlist?list=PL_j5e9ibbeENQ8aGQg7qAycEaeuqlSM-s)
-- [Magic Leap Channel](https://www.youtube.com/channel/UC2E1x3l45YUO2eOhRv-A7lw)
+- [developer.magicleap](https://developer.magicleap.com/en-us/home) | [Unreal Engine - Magic Leap Developers](https://www.youtube.com/playlist?list=PL_j5e9ibbeEOnErGPzmN--TnXCkpIBBZA) | [Unity - Magic Leap Developers](https://www.youtube.com/playlist?list=PL_j5e9ibbeEOvYUTLu7aQ2s4RxkAdFax6) | [Magic Leap Toolkit](https://www.youtube.com/playlist?list=PL_j5e9ibbeENQ8aGQg7qAycEaeuqlSM-s) 
+- [Magic Leap Channel](https://www.youtube.com/channel/UC2E1x3l45YUO2eOhRv-A7lw) | [github.com/magicleap](https://github.com/magicleap)
 - [Magic Leap: Founder of Secretive Start-Up Unveils Mixed-Reality Goggles](https://medium.com/rollingstone/magic-leap-founder-of-secretive-start-up-unveils-mixed-reality-goggles-f25973accc10)
 - [Why do people keep giving Magic Leap money?](https://www.theverge.com/2017/10/22/16505430/magic-leap-augmented-reality-temasek-funding-investment-why)
 - [Magic Leap One In-Depth Review](https://medium.com/futurepi/magic-leap-one-in-depth-review-bcbf5b0e643a)
@@ -111,6 +111,11 @@
 ![CyjXxusnwFQ](https://miro.medium.com/max/2676/1*5Z3-4kDD_N-CyjXxusnwFQ.png)
 
 --------
+- [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured)
+- [Vuzix Corporation](https://www.youtube.com/channel/UCMh4hWRHX_1QZ98UZygR30Q/featured)
+- [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
+- [[Google Glass](https://www.google.com/glass/start/) Enterprise Edition 2(2019) | $999](https://www.youtube.com/watch?v=5IK-zU51MU4) | [Google AR & VR](https://www.youtube.com/channel/UCkUZagbGbewp3bZQLXGzkmA)
+- []()
 
 ----------
 ---------
