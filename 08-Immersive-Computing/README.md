@@ -2,6 +2,8 @@
 ### Immersive Computing Overview
 
 -------
+![YSG7H0B9h](https://miro.medium.com/max/2000/0*YSG7H0B9h-K0Z1WB.jpg)
+---------
 
 - [Virtual-reality applications give science a new dimension](https://www.nature.com/articles/d41586-018-04997-2)
 
