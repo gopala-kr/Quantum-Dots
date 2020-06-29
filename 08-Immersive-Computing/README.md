@@ -16,13 +16,10 @@
 - [Virtual Reality - Short Film](https://www.youtube.com/watch?v=DZOHWgJ9Xc0)
 - [A Sci-Fi Short Film : "Sight" - by Sight Systems | TheCGBros](https://www.youtube.com/watch?v=lK_cdkpazjI)
 - [Sci-Fi Short Film “Plurality" | DUST](https://www.youtube.com/watch?v=pocEN5HprsM)
-- [Redefining what is humanly possible with augmented reality | Brian Mullins | TEDxSanDiego](https://youtu.be/x6_IZ8e9KuE)
-- [Augmented Reality | John Werner | TEDxAsburyPark](https://youtu.be/RDvBowq3ed8)
-- [Augmented Reality, science fiction is now science fact | Ryan Groom | TEDxMoncton](https://youtu.be/2zsIXVqxbuc)
-- [Augmented reality storytelling how it will change the way we play forever | Devon Lyon | TEDxSalem](https://youtu.be/sYl9wI3jnms)
-- [How Augmented Reality Will Change Education Completely | Florian Radke | TEDxGateway](https://youtu.be/5AjxGqzqQ54)
-- [Will virtual and augmented reality move us into the knowledge age? | Zenka | TEDxJacksonHole](https://youtu.be/2FA-IuDTMjE)
+- [Revolutionizing reality](https://www.ted.com/playlists/385/10_years_of_ted_talks)
 - [Virtual-reality applications give science a new dimension](https://www.nature.com/articles/d41586-018-04997-2)
+- [Reach into the computer and grab a pixel](https://www.ted.com/talks/jinha_lee_reach_into_the_computer_and_grab_a_pixel)
+- [A glimpse of the future through an augmented reality headset](https://www.ted.com/talks/meron_gribetz_a_glimpse_of_the_future_through_an_augmented_reality_headset#t-15413)
 
 #### AR/VR Contact Lenses
 
@@ -122,7 +119,11 @@
 - [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 
-[wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021
+> [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021
+
+-----------
+
+#### [VR Things](https://github.com/gopala-kr/Quantum-Dots/blob/master/08-Immersive-Computing/devs.md)
 
 ----------
 ---------
