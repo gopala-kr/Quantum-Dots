@@ -8,6 +8,11 @@
 ![VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
 --------
 
+- [Oculus](https://www.youtube.com/user/oculusvr) | [oculus products](https://www.oculus.com/compare/)
+- [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/)
+- [Valve](https://www.youtube.com/user/Valve)
+
+---------------
 - [Oculus Rift](https://www.oculus.com/rift/)
 - [Oculus Go](https://www.oculus.com/go/)
 - [Oculus Connect 5](https://www.oculusconnect.com/)
@@ -185,7 +190,9 @@
 
 - [Google Cardboard – Google VR](https://arvr.google.com/intl/en_in/cardboard/apps/)
 - [Viveport Infinity](https://www.viveport.com/infinity)
-
+- [Oculus stores](https://developer.oculus.com/distribute/)
+- [Google Cardboard](https://arvr.google.com/intl/en_in/cardboard/get-cardboard/)
+- [PlayStation](https://www.youtube.com/user/PlayStation)
 
 -----------
 #### Dev Tutorials
