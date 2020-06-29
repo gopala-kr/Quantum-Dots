@@ -40,10 +40,13 @@
 
          - The pre-production version of HoloLens, the Development Edition, shipped on March 30, 2016, and is targeted to developers in the United States and Canada for a list price of $3000
          - HoloLens 2 was announced at the Mobile World Congress in Barcelona, Spain, on February 24, 2019 and is available on preorder at $3500.
+         
          - In November, 2018, The company won a $480 million military contract with the U.S. government to bring AR headset tech into the weapons repertoire of American soldiers.
+         
          - OnSight and Sidekick, software projects developed by a collaboration between NASA and Microsoft to explore mixed reality applications in space exploration.
-         - Galaxy Explorer, an educational application about the Milky Way in development by Microsoft Studios,[50] pitched and chosen by the developer community via the Share Your Idea campaign, and to be open-sourced upon completion.
+         - Galaxy Explorer, an educational application about the Milky Way, pitched and chosen by the developer community via the Share Your Idea campaign.
          - A spacecraft design/visualization application in development by NASA's Jet Propulsion Laboratory (JPL).
+         
          - Microsoft Visual Studio is an IDE that can be used to develop applications (both 2D and 3D) for HoloLens. Applications can be tested using HoloLens emulator (included into Visual Studio 2015 IDE) or HoloLens Development Edition.
 
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
