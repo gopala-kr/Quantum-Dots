@@ -119,11 +119,11 @@
 - [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 
-> [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021
+> [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021(not official)
 
 -----------
 
-#### [VR Things](https://github.com/gopala-kr/Quantum-Dots/blob/master/08-Immersive-Computing/devs.md)
+#### [All Things VR](https://github.com/gopala-kr/Quantum-Dots/blob/master/08-Immersive-Computing/devs.md)
 
 ----------
 ---------
