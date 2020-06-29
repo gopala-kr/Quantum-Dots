@@ -30,7 +30,7 @@
 - [Will virtual and augmented reality move us into the knowledge age? | Zenka | TEDxJacksonHole](https://youtu.be/2FA-IuDTMjE)
 
 -----------
-#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware)
+#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500
 
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
@@ -49,5 +49,18 @@
 - [Holographic Projection Technology: The World is Changing.](https://arxiv.org/ftp/arxiv/papers/1006/1006.0846.pdf)
 - [Interactive Multi-User 3D Visual Analytics in AugmentedReality](https://arxiv.org/pdf/2002.05305.pdf)
 
+----------
+#### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) $2295 to $3290
+
+      OS/Software: Lumin OS
+      CPU/GPU: NVIDIA Parker SOC; 2 Denver 2.0 64-bit cores +4 ARM Cortex A57 64-bit cores / NVIDIA Pascal, 256 CUDA cores; Graphic APIs: OpenGL 4.5, Vulkan, OpenGL ES 3.3+
+      Power: Li-Ion battery: Up to 3 hours of continuous use
+      Memory: RAM 8GB Internal 128 GB
+      Sensors: Front-facing camera
+      Built-in audio: Onboard speakers
+      Built-in mic: Yes
+      Connections: 3.5mm jack; Bluetooth 4.2, WiFi 802.11ac/b/g/n, USB-C
+
+- []()
 ----------
 ---------
