@@ -32,14 +32,11 @@
 
 --------------
 
-        There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. 
-	
-	Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. 
-	
-	Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF.
-	
-	Standalone headsets do not require an external device since everything needed is built into the headset itself. 
-	Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
+      - There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. 
+      - Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. 
+      - Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF.
+      - Standalone headsets do not require an external device since everything needed is built into the headset itself.
+      - Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
 		
 
 <table>
