@@ -58,6 +58,26 @@
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - $2295 - $3290
 
+
+
+     - Magic Leap was founded by Rony Abovitz in 2010 and has raised $2.6 billion from a list of investors including Google and Alibaba Group.
+     - In December 2016, Forbes estimated that Magic Leap was worth $4.5 billion. On July 11, 2018, AT&T invested in the company and became its exclusive partner. 
+     - On August 8, 2018, the Magic Leap One was made available in the United States through AT&T.
+     
+     - On October 10, 2018 Magic Leap introduced Mica, a human-like AI assistant.
+     - In April 2019, it was reported that Magic Leap had raised an additional $280 million from NTT Docomo as part of a partnership announced by the two companies.
+     - In November 2019, it was reported that Magic Leap assigned all of its US patents to J.P. Morgan Chase in August 2019. 
+     - On April 22, 2020, Magic Leap indicated a major company restructuring and that half of the company's staff would be laid off due to the Covid-19 pandemic.
+     
+     - Despite the job cuts, On May 28, 2020, Rony Abovtiz announced that Magic Leap had raised $350 million in new funding and that he would be stepping down as CEO.
+     
+     - On April 18, 2016, Magic Leap acquired Israeli cybersecurity company NorthBit.
+     - On February 18, 2017, Magic Leap acquired the 3D division of Swiss computer vision company Dacuda.
+     - In May 2019 Magic Leap acquired Belgian startup Mimesys, developing volumetric video conferencing software for the Magic Leap platform.
+
+
+----------------
+
       OS/Software: Lumin OS
       CPU/GPU: NVIDIA Parker SOC; 2 Denver 2.0 64-bit cores +4 ARM Cortex A57 64-bit cores / NVIDIA Pascal, 256 CUDA cores; Graphic APIs: OpenGL 4.5, Vulkan, OpenGL ES 3.3+
       Power: Li-Ion battery: Up to 3 hours of continuous use
