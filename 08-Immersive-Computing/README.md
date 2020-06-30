@@ -129,6 +129,6 @@
 
 - [Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc)
 - [Vuforia Augmented Reality Tutorial in Unity Course](https://www.youtube.com/playlist?list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2)
-
+- [Complete Augmented Reality (AR) Course with Unity and Vuforia (Complete AR tutorial for Unity)](https://www.youtube.com/playlist?list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9)
 ----------
 ---------
