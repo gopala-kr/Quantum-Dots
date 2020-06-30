@@ -125,5 +125,10 @@
 
 #### [All Things VR](https://github.com/gopala-kr/Quantum-Dots/blob/master/08-Immersive-Computing/devs.md)
 
+-------
+
+- [Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc)
+- [Vuforia Augmented Reality Tutorial in Unity Course](https://www.youtube.com/playlist?list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2)
+
 ----------
 ---------
