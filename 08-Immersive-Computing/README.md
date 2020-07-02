@@ -321,8 +321,11 @@
 
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
 - [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
+
 ------------
+
 ##### AR SDK Comparison
+
 <table style="height: 336px;">
 <tbody>
 <tr style="height: 24px;">
@@ -472,7 +475,10 @@
 </tr>
 </tbody>
 </table>
+
 ---------
+
+
 ##### VR platform comparison
 
 <table>
@@ -648,6 +654,7 @@
 </table>
 -----------
 -----------------
+
 #### XR/MR/AR/VR/WebVR - Quick Dev Setups & Tutorials 
 
 - [Getting Started with Unity](https://learn.unity.com/course/) | [https://learn.unity.com/courses](https://learn.unity.com/courses)
