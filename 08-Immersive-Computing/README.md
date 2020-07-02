@@ -128,15 +128,15 @@
 
 - [Comparison of virtual reality headsets](https://en.wikipedia.org/wiki/Comparison_of_virtual_reality_headsets)
 
-![VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
---------
-
       - There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. 
       - Desktop Headsets require a desktop computer and are the most powerful of the three. Mobile headsets act as a peripheral and require a smartphone to run the application. 
       - Mobile is generally the weakest of the 3 and typically only supports 3-DOF instead of 6-DOF.
       - Standalone headsets do not require an external device since everything needed is built into the headset itself.
       - Standalone is the newest of the 3 and acts either as a lower powered version of Desktop VR or as Mobile VR without the need for a phone.
-		
+      
+
+![VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
+--------
 
 <table>
 	<tr>
@@ -269,6 +269,8 @@
 		<td></td>
 	</tr>
 </table>
+
+
 -----------
 
 - [Oculus](https://www.youtube.com/user/oculusvr) | [Oculus Products](https://www.oculus.com/compare/) | [Oculus Rift](https://www.oculus.com/rift/) | [Oculus Go](https://www.oculus.com/go/) | [Oculus Connect 5](https://www.oculusconnect.com/) | [Oculus stores](https://developer.oculus.com/distribute/)
@@ -297,6 +299,7 @@
 - [Clara.io](https://clara.io/library)
 - [Unity AssetsStore](https://assetstore.unity.com/lists/top-free-3d-models-5063)
 - [3DModelFree](http://www.3dmodelfree.com/)
+- [A-Frame - WebVR](https://aframe.io/)
 
 
 -----------
