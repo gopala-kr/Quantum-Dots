@@ -5,6 +5,8 @@
 ------------
 ![YSG7H0B9h](https://miro.medium.com/max/2000/0*YSG7H0B9h-K0Z1WB.jpg)
 
+
+
 ---------
 ------
 #### The Future of HCI
@@ -21,7 +23,13 @@
 - [Reach into the computer and grab a pixel](https://www.ted.com/talks/jinha_lee_reach_into_the_computer_and_grab_a_pixel)
 - [A glimpse of the future through an augmented reality headset](https://www.ted.com/talks/meron_gribetz_a_glimpse_of_the_future_through_an_augmented_reality_headset#t-15413)
 
-#### AR/VR Contact Lenses
+--------
+
+![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+
+------------
+
+#### AR Contact Lenses
 
 - [https://www.mojo.vision/news](https://www.mojo.vision/news)
 - [Mojo Vision’s Augmented Reality Contact Lenses Kick off a Race to AR on Your Eye](https://singularityhub.com/2020/01/17/mojo-visions-augmented-reality-contact-lenses-kick-off-a-race-to-ar-in-your-eye/)
@@ -287,7 +295,10 @@
 
 - [https://github.com/XRTK/XRTK-Core](https://github.com/XRTK/XRTK-Core)
 - [Unity](https://unity3d.com/get-unity/download) | https://unity3d.com/learn/tutorials | https://unity3d.com/learn
-- [Unreal Engine](https://www.unrealengine.com/en-US/feed) | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/
+- [Unreal Engine](https://www.unrealengine.com/en-US/feed) | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/ | [onlinelearning-courses](https://www.unrealengine.com/en-US/onlinelearning-courses)
+- [Amazon Sumerian](https://aws.amazon.com/sumerian/)
+- [Google VR](https://developers.google.com/vr/develop)
+- [cryengine](https://www.cryengine.com/tutorials)
 - [Improbable](https://improbable.io/games)
 - [Vizard](https://www.worldviz.com/vizard)
 - [Google Poly](https://poly.google.com/)
@@ -300,22 +311,34 @@
 - [Unity AssetsStore](https://assetstore.unity.com/lists/top-free-3d-models-5063)
 - [3DModelFree](http://www.3dmodelfree.com/)
 - [A-Frame - WebVR](https://aframe.io/)
+- [WebVR Tools](https://createwebxr.com/webVR.html)
+- [Oculus Medium](https://www.youtube.com/channel/UCchTxH0v_ZR1I9IVvXeev-Q/playlists)
+- [WMR Install the tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
+- [oculus dev tools](https://developer.oculus.com/documentation/)
 
-
+- [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
+- [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
 -----------
 -----------------
 #### XR/MR/AR/VR/WebVR - Quick Dev Setups & Tutorials 
 
+- [Getting Started with Unity](https://learn.unity.com/course/) | [https://learn.unity.com/courses](https://learn.unity.com/courses)
 - [Unity - Latest Tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0TPcPOKW6GxwuY18eg7CjKZ)
 - [Unreal Engine](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaayAggreigehbNJubT4kMy)
 - [Unity vs Unreal | Graphics Comparison](https://www.youtube.com/watch?v=S2eXK025uC4)
 - [Unity & ARCore](https://www.youtube.com/playlist?list=PL6VJLOFcTt7adiGpGlkDykUTkxvRHjZJ2)
 - [Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc)
+- [3D, VR and AR on the web (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=wPfODr2e5Xw)
 - [HoloLens Development](https://www.youtube.com/playlist?list=PL6VJLOFcTt7YxVfRyig97UORrF6VL_zur)
 - [HoloLens 2 Development](https://www.youtube.com/playlist?list=PL6VJLOFcTt7bRAfSOIJ6n2AdRm3yNaFax)
 - [VR Development for Google Cardboard](https://www.youtube.com/playlist?list=PL6VJLOFcTt7b9h_1ECoTW5y-NILe001kJ)
 - [Foundations of Augmented Reality: Unity Basics](https://www.youtube.com/watch?v=pNbs9rX5a9U)
+- [Getting Started With ARFoundation in Unity (ARKit, ARCore)](https://www.youtube.com/watch?v=Ml2UakwRxjk)
 - [Vuforia Augmented Reality Tutorial in Unity Course](https://www.youtube.com/playlist?list=PL_Nji0JOuXg0tJ-HQ8g0OgEjIxL5RO1R2)
+- [From WebVR to WebXR: The Next Generation of VR Experiences on the Web](https://www.youtube.com/watch?v=b0KglUkvEak)
+- [XR graphics: Delivering the best AR/VR experiences - Unite Copenhagen](https://www.youtube.com/watch?v=dvOZ7IL2iOI)
+- [WebVR with A-Frame - Getting started - JSConf.Asia 2018](https://www.youtube.com/watch?v=9SgDOtfuYhc&feature=emb_title)
+- [Build AR apps in Android Studio using Sceneform SDK (ARCore)](https://www.youtube.com/playlist?list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW)
 - [Complete Augmented Reality (AR) Course with Unity and Vuforia (Complete AR tutorial for Unity)](https://www.youtube.com/playlist?list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9)
 - [Unity XR Specialization](https://www.coursera.org/specializations/unity-xr)
 - [Unity Certified Programmer Specialization](https://www.coursera.org/specializations/unity-certified-programmer)
@@ -334,6 +357,30 @@
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Standford University EE267: Virtual Reality](https://stanford.edu/class/ee267/)
 - [NPTEL IIT Madras](https://nptel.ac.in/courses/106106138/)
+----------
+-------------
+
+#### Immersive Tech Applications
+
+**VR Use Cases**
+
+    VR has many consumer-facing use cases, e.g.:
+
+    - It can help to create engaging games.
+    
+    - With VR, media and entertainment companies can create more engaging content.
+    
+    - Marketers can make their ads more interesting with the help of VR.
+    
+    - Businesses can use VR to let their customers virtually try their products.
+    
+    - VR-based training modules can help to train employees engaged in complex jobs, e.g., healthcare VR simulators can help to train doctors. 
+    
+    - Enterprises can use VR to improve the prototyping process of complex products, moreover, the technology can usher in the safer design of 
+      workplace layouts in the manufacturing industry. 
+      
+    - Organizations can use VR to manage meetings better since remote teams can participate more effectively using VR collaboration tools. 
+     
 
 ----------
 ---------
