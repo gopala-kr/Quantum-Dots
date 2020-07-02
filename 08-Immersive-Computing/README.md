@@ -282,12 +282,13 @@
 -----------
 
 - [Oculus](https://www.youtube.com/user/oculusvr) | [Oculus Products](https://www.oculus.com/compare/) | [Oculus Rift](https://www.oculus.com/rift/) | [Oculus Go](https://www.oculus.com/go/) | [Oculus Connect 5](https://www.oculusconnect.com/) | [Oculus stores](https://developer.oculus.com/distribute/)
-- [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/)
-- [Valve](https://www.youtube.com/user/Valve) | [Viveport Infinity](https://www.viveport.com/infinity)
+- [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/) | [Viveport Infinity](https://www.viveport.com/infinity)
 - [Google Cardboard](https://vr.google.com/cardboard/) | [Google Cardboard – Google VR](https://arvr.google.com/intl/en_in/cardboard/apps/) | [Google DayDream](https://vr.google.com/daydream/) | [Get Google Cardboard](https://arvr.google.com/intl/en_in/cardboard/get-cardboard/)
 - [Sony PlayStation VR](https://www.playstation.com/en-in/explore/playstation-vr/) | [PlayStation](https://www.youtube.com/user/PlayStation) | [Samsung Gear VR](https://www.samsung.com/global/galaxy/gear-vr/)
 - Leap Motion Orion [Leap Motion](https://www.leapmotion.com/product/vr) - Uses Oculus Rift CV1 or HTC Vive and Unity.
 - Steam VR [Steam](http://store.steampowered.com/steamvr)  - Uses HTC Vive, Oculus Rift and WMR headsets
+- [pimax](https://www.pimax.com/)
+- [Valve](https://www.youtube.com/user/Valve)
 
 -------
 ------------
@@ -316,8 +317,335 @@
 - [WMR Install the tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 - [oculus dev tools](https://developer.oculus.com/documentation/)
 
+--------
+
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
 - [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
+------------
+##### AR SDK Comparison
+<table style="height: 336px;">
+<tbody>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;"></td>
+<td style="height: 24px; width: 70px;">Wikitude</td>
+<td style="height: 24px; width: 48px;">ARKit</td>
+<td style="width: 4px;">ARcore</td>
+<td style="height: 24px; width: 57px;">Vuforia</td>
+<td style="height: 24px; width: 54px;">MaxST</td>
+<td style="height: 24px; width: 63px;">DeepAR</td>
+<td style="height: 24px; width: 60px;">EasyAR</td>
+<td style="height: 24px; width: 80px;">ARToolKit</td>
+<td style="height: 24px; width: 50px;">Xzimg</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px; width: 315px;">Maximum distance capture (m)</td>
+<td style="height: 48px; width: 70px;">2.4 / 5</td>
+<td style="height: 48px; width: 48px;">1.5 / 5</td>
+<td style="width: 4px;">1.0 / 3</td>
+<td style="height: 48px; width: 57px;">1.2 / 3.7</td>
+<td style="height: 48px; width: 54px;">0.5 / 0.9</td>
+<td style="height: 48px; width: 63px;">0.7 / 5</td>
+<td style="height: 48px; width: 60px;">0.9 / 2.7</td>
+<td style="height: 48px; width: 80px;">3 / 3</td>
+<td style="height: 48px; width: 50px;">0.5 / 1</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">Recognition stability of immovable marker</td>
+<td style="height: 24px; width: 70px;">6</td>
+<td style="height: 24px; width: 48px;">9</td>
+<td style="width: 4px;">9</td>
+<td style="height: 24px; width: 57px;">10</td>
+<td style="height: 24px; width: 54px;">7</td>
+<td style="height: 24px; width: 63px;">8</td>
+<td style="height: 24px; width: 60px;">7</td>
+<td style="height: 24px; width: 80px;">8</td>
+<td style="height: 24px; width: 50px;">4</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">Recognition stability of movable marker</td>
+<td style="height: 24px; width: 70px;">6</td>
+<td style="height: 24px; width: 48px;">7</td>
+<td style="width: 4px;">6</td>
+<td style="height: 24px; width: 57px;">6</td>
+<td style="height: 24px; width: 54px;">2</td>
+<td style="height: 24px; width: 63px;">7</td>
+<td style="height: 24px; width: 60px;">3</td>
+<td style="height: 24px; width: 80px;">6</td>
+<td style="height: 24px; width: 50px;">3</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">Minimum angle recognition</td>
+<td style="height: 24px; width: 70px;">10</td>
+<td style="height: 24px; width: 48px;">30</td>
+<td style="width: 4px;">50</td>
+<td style="height: 24px; width: 57px;">30</td>
+<td style="height: 24px; width: 54px;">50</td>
+<td style="height: 24px; width: 63px;">35</td>
+<td style="height: 24px; width: 60px;">35</td>
+<td style="height: 24px; width: 80px;">10</td>
+<td style="height: 24px; width: 50px;">45</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px; width: 315px;">Minimum visibility for recognition overlapped marker</td>
+<td style="height: 48px; width: 70px;">100%</td>
+<td style="height: 48px; width: 48px;">50%</td>
+<td style="width: 4px;">75%</td>
+<td style="height: 48px; width: 57px;">20%</td>
+<td style="height: 48px; width: 54px;">50%</td>
+<td style="height: 48px; width: 63px;">10%</td>
+<td style="height: 48px; width: 60px;">10%</td>
+<td style="height: 48px; width: 80px;">100%</td>
+<td style="height: 48px; width: 50px;">25%</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">2D Recognition</td>
+<td style="height: 24px; width: 70px;">✓</td>
+<td style="height: 24px; width: 48px;">✓</td>
+<td style="width: 4px;">✓</td>
+<td style="height: 24px; width: 57px;">✓</td>
+<td style="height: 24px; width: 54px;">✓</td>
+<td style="height: 24px; width: 63px;">✓</td>
+<td style="height: 24px; width: 60px;">✓</td>
+<td style="height: 24px; width: 80px;">✓</td>
+<td style="height: 24px; width: 50px;">✓</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">3D Recognition</td>
+<td style="height: 24px; width: 70px;">✓</td>
+<td style="height: 24px; width: 48px;">✓</td>
+<td style="width: 4px;">✓</td>
+<td style="height: 24px; width: 57px;">✓</td>
+<td style="height: 24px; width: 54px;">✓</td>
+<td style="height: 24px; width: 63px;">&#8211;</td>
+<td style="height: 24px; width: 60px;">&#8211;</td>
+<td style="height: 24px; width: 80px;">&#8211;</td>
+<td style="height: 24px; width: 50px;">✓</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">Geo-Location</td>
+<td style="height: 24px; width: 70px;">✓</td>
+<td style="height: 24px; width: 48px;">✓</td>
+<td style="width: 4px;">✓</td>
+<td style="height: 24px; width: 57px;">&#8211;</td>
+<td style="height: 24px; width: 54px;">&#8211;</td>
+<td style="height: 24px; width: 63px;">&#8211;</td>
+<td style="height: 24px; width: 60px;">&#8211;</td>
+<td style="height: 24px; width: 80px;">&#8211;</td>
+<td style="height: 24px; width: 50px;">&#8211;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">Cloud Recognition</td>
+<td style="height: 24px; width: 70px;">✓</td>
+<td style="height: 24px; width: 48px;">✓</td>
+<td style="width: 4px;">✓</td>
+<td style="height: 24px; width: 57px;">✓</td>
+<td style="height: 24px; width: 54px;">&#8211;</td>
+<td style="height: 24px; width: 63px;">&#8211;</td>
+<td style="height: 24px; width: 60px;">&#8211;</td>
+<td style="height: 24px; width: 80px;">&#8211;</td>
+<td style="height: 24px; width: 50px;">&#8211;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;">SLAM</td>
+<td style="height: 24px; width: 70px;">✓</td>
+<td style="height: 24px; width: 48px;">✓</td>
+<td style="width: 4px;">✓</td>
+<td style="height: 24px; width: 57px;">✓</td>
+<td style="height: 24px; width: 54px;">✓</td>
+<td style="height: 24px; width: 63px;">&#8211;</td>
+<td style="height: 24px; width: 60px;">&#8211;</td>
+<td style="height: 24px; width: 80px;">&#8211;</td>
+<td style="height: 24px; width: 50px;">&#8211;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 315px;"><strong>Total (rating)<br />
+</strong></td>
+<td style="height: 24px; width: 70px;"><b>8.0</b></td>
+<td style="height: 24px; width: 48px;"><strong>7.5</strong></td>
+<td style="width: 4px;"><strong>7.7</strong></td>
+<td style="height: 24px; width: 57px;"><strong>7.7</strong></td>
+<td style="height: 24px; width: 54px;"><strong>5.2</strong></td>
+<td style="height: 24px; width: 63px;"><strong>4.7</strong></td>
+<td style="height: 24px; width: 60px;"><strong>4.4</strong></td>
+<td style="height: 24px; width: 80px;"><strong>2.8</strong></td>
+<td style="height: 24px; width: 50px;"><strong>3.1</strong></td>
+</tr>
+</tbody>
+</table>
+---------
+##### VR platform comparison
+
+<table>
+<tbody>
+<tr>
+<td><b>Product</b></td>
+<td><b>HTC Vive</b></td>
+<td><b>Sony PlayStation VR</b></td>
+<td><b>Oculus Rift</b></td>
+<td><b>Samsung Gear VR</b></td>
+<td><b>Google Daydream View</b></td>
+<td><b>Google Cardboard</b></td>
+</tr>
+<tr>
+<td><b>Headset type</b></td>
+<td><span style="font-weight: 400;">PC</span></td>
+<td><span style="font-weight: 400;">Console</span></td>
+<td><span style="font-weight: 400;">PC</span></td>
+<td><span style="font-weight: 400;">Mobile</span></td>
+<td><span style="font-weight: 400;">Mobile</span></td>
+<td><span style="font-weight: 400;">Mobile</span></td>
+</tr>
+<tr>
+<td><b>Connections</b></td>
+<td><span style="font-weight: 400;">HDMI, USB 3.0</span></td>
+<td><span style="font-weight: 400;">HDMI, USB 2.0</span></td>
+<td><span style="font-weight: 400;">USB 3.0</span></td>
+<td><span style="font-weight: 400;">USB 2.0, USB 3.0</span></td>
+<td><span style="font-weight: 400;">None</span></td>
+<td><span style="font-weight: 400;">None</span></td>
+</tr>
+<tr>
+<td><b>Resolution  (per eye)</b></td>
+<td><span style="font-weight: 400;">1080&#215;1200</span></td>
+<td><span style="font-weight: 400;">960&#215;1080</span></td>
+<td><span style="font-weight: 400;">1080&#215;1200</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+</tr>
+<tr>
+<td><b>Field of view</b></td>
+<td><span style="font-weight: 400;">110°</span></td>
+<td><span style="font-weight: 400;">100°</span></td>
+<td><span style="font-weight: 400;">110°</span></td>
+<td><span style="font-weight: 400;">101°</span></td>
+<td><span style="font-weight: 400;">100°</span></td>
+<td><span style="font-weight: 400;">90°</span></td>
+</tr>
+<tr>
+<td><b>Refresh rate (Hz)</b></td>
+<td><span style="font-weight: 400;">90</span></td>
+<td><span style="font-weight: 400;">120</span></td>
+<td><span style="font-weight: 400;">90</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+<td><span style="font-weight: 400;">Native to phone</span></td>
+</tr>
+<tr>
+<td><b>Sensors</b></td>
+<td><span style="font-weight: 400;">Motion, camera, external motion tracking</span></td>
+<td><span style="font-weight: 400;">Motion, external visual positioning</span></td>
+<td><span style="font-weight: 400;">Motion, external visual positioning</span></td>
+<td><span style="font-weight: 400;">Motion</span></td>
+<td><span style="font-weight: 400;">Motion</span></td>
+<td><span style="font-weight: 400;">Motion</span></td>
+</tr>
+<tr>
+<td><b>Controls</b></td>
+<td><span style="font-weight: 400;">HTC Vive motion controllers</span></td>
+<td><span style="font-weight: 400;">DualShock 4, PlayStation Move</span></td>
+<td><span style="font-weight: 400;">Oculus Touch, Xbox One gamepad</span></td>
+<td><span style="font-weight: 400;">Handheld remote, touchpad on headset</span></td>
+<td><span style="font-weight: 400;">Handheld remote</span></td>
+<td><span style="font-weight: 400;">Handheld remote</span></td>
+</tr>
+<tr>
+<td><b>Software platform</b></td>
+<td><span style="font-weight: 400;">SteamVR</span></td>
+<td><span style="font-weight: 400;">PlayStation 4</span></td>
+<td><span style="font-weight: 400;">Oculus</span></td>
+<td><span style="font-weight: 400;">Android</span></td>
+<td><span style="font-weight: 400;">Android 7.0 Nougat</span></td>
+<td><span style="font-weight: 400;">Android, iOS</span></td>
+</tr>
+<tr>
+<td><b>Engines:</b></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td><b>Unity</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+</tr>
+<tr>
+<td><b>Unreal Engine</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+</tr>
+<tr>
+<td><b>OpenVR</b></td>
+<td><b>+</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>AppGameKit  VR</b></td>
+<td><b>+</b></td>
+<td></td>
+<td><b>+</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>CryEngine</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td><b>+</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>CopperCube</b></td>
+<td></td>
+<td></td>
+<td><b>+</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Positional tracking</b></td>
+<td>+</td>
+<td><span style="font-weight: 400;">+</span></td>
+<td><span style="font-weight: 400;">+</span></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Head tracking</b></td>
+<td>Accelerometer, gyroscope, structured light</td>
+<td><span style="font-weight: 400;">Accelerometer,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">gyroscope</span></td>
+<td>Accelerometer, gyroscope, magnetometer</td>
+<td>Accelerometer, gyrometer, proximity sensor</td>
+<td>Accelerometer, gyrometer, proximity</td>
+<td>Accelerometer, gyrometer</td>
+</tr>
+<tr>
+<td><b>Price </b><b>(Amazon)</b></td>
+<td><a target="_blank" href="https://www.amazon.com/HTC-VIVE-Virtual-Reality-System-pc/dp/B00VF5NT4I?psc=1&amp;SubscriptionId=AKIAIOIL6HT4RMUFB3AA&amp;tag=pcm_rounduptable-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00VF5NT4I&amp;ascsubtag=3e2f6f8b-511a-49c4-b995-082688ce5928" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$599.00</b></a></td>
+<td><a target="_blank" href="https://www.amazon.com/PlayStation-VR-Headset-Camera-Bundle-4/dp/B0747YTV7B?psc=1&amp;SubscriptionId=AKIAIOIL6HT4RMUFB3AA&amp;tag=pcm_rounduptable-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0747YTV7B&amp;ascsubtag=69d346e5-ec36-44ca-af0f-18faab5f185d" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$374.95</b></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Oculus-Touch-Virtual-Reality-System-pc/dp/B073X8N1YW?psc=1&amp;SubscriptionId=AKIAIOIL6HT4RMUFB3AA&amp;tag=pcm_rounduptable-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B073X8N1YW&amp;ascsubtag=61a3c332-c98a-41f1-ab12-2a37e988ae1e" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$399.00</b></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Samsung-Controller-Virtual-International-Warranty/dp/B06ZZ7R8WD?SubscriptionId=AKIAIOIL6HT4RMUFB3AA&amp;tag=pcm_rounduptable-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B06ZZ7R8WD&amp;ascsubtag=7ebe7e5f-bf91-484c-bb65-308cd7045ec9" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$112.89</b></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O?psc=1&amp;SubscriptionId=AKIAIOIL6HT4RMUFB3AA&amp;tag=pcm_rounduptable-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01N634P7O&amp;ascsubtag=64933678-5067-4d51-a91d-ca15d5284adf" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$71.99</b></a></td>
+<td><a target="_blank" href="https://www.amazon.com/Google-87002822-01-Official-Cardboard/dp/B01L92Z8D6/ref=sr_1_1?s=wireless&amp;ie=UTF8&amp;qid=1508921450&amp;sr=1-1&amp;keywords=Cardboard" rel="noopener noreferrer nofollow" data-wpel-link="external"><b>$15.00</b></a></td>
+</tr>
+</tbody>
+</table>
 -----------
 -----------------
 #### XR/MR/AR/VR/WebVR - Quick Dev Setups & Tutorials 
@@ -339,7 +667,23 @@
 - [XR graphics: Delivering the best AR/VR experiences - Unite Copenhagen](https://www.youtube.com/watch?v=dvOZ7IL2iOI)
 - [WebVR with A-Frame - Getting started - JSConf.Asia 2018](https://www.youtube.com/watch?v=9SgDOtfuYhc&feature=emb_title)
 - [Build AR apps in Android Studio using Sceneform SDK (ARCore)](https://www.youtube.com/playlist?list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW)
-- [Complete Augmented Reality (AR) Course with Unity and Vuforia (Complete AR tutorial for Unity)](https://www.youtube.com/playlist?list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9)
+- [Course with Unity and Vuforia (Complete AR tutorial for Unity)](https://www.youtube.com/playlist?list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9)
+- [Physical and Immersed – Diego Gonzalez & Peter O'Shaughnessy](https://www.youtube.com/watch?v=69_VdISXoRE&feature=emb_title)
+- [The future of the web is immersive](https://www.youtube.com/watch?v=1t1gBVykneA&feature=emb_title)
+- [What's new in AR (Google I/O '18)](https://www.youtube.com/watch?v=MeZcQguH124) | [(Google I/O'19)](https://www.youtube.com/watch?v=pdRpCJ5acrA) | [VR and AR at Google ](https://www.youtube.com/watch?v=tto90e-DfeM)
+- [Easily code a virtual reality web experience with A-Frame (WebVR)](https://www.youtube.com/watch?v=jhEfT9YjLcU)
+- [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs)
+- [Developing the First AR Experience for Google Maps (Google I/O'19)](https://www.youtube.com/watch?v=14wedZy90Tw)
+- [React VR Demo - Getting Started with React VR](https://www.youtube.com/watch?v=PnYhS4Ygs3s)
+- [Building Virtual Reality on the Web with WebVR](https://www.youtube.com/watch?v=jT2mR9WzJ7Y)
+- [A-Frame - VR for Web Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY)
+- [WebVR Create Portable VR Experiences on the Web](https://www.youtube.com/watch?v=8BHOztuaj-4&feature=emb_title)
+- [Augmenting Reality with JS](https://www.youtube.com/watch?v=ZxTGhEttRCs)
+- [AR as a Feature: How to Supercharge Products Using Augmented Reality](https://www.youtube.com/watch?v=m6p4BpgTBuw)
+- [AR Talks | MIT Leadership Summit Jan 2019](https://www.youtube.com/playlist?list=PL8HF9ant0dNqG_bBUQjeau5lunUNymBNm)
+- [AR Talks | MIT Leadership Summit Feb 2020](https://www.youtube.com/playlist?list=PL8HF9ant0dNpNhi5BbEGpuB06RdZAUy7D)
+----------
+
 - [Unity XR Specialization](https://www.coursera.org/specializations/unity-xr)
 - [Unity Certified Programmer Specialization](https://www.coursera.org/specializations/unity-certified-programmer)
 - [Virtual Reality Specialization](https://www.coursera.org/specializations/virtual-reality)
@@ -362,9 +706,8 @@
 
 #### Immersive Tech Applications
 
-**VR Use Cases**
 
-    VR has many consumer-facing use cases, e.g.:
+    VR Use Cases : 
 
     - It can help to create engaging games.
     
