@@ -652,10 +652,12 @@
 </tr>
 </tbody>
 </table>
+
+
 -----------
 -----------------
 
-#### XR/MR/AR/VR/WebVR - Quick Dev Setups & Tutorials 
+#### XR/MR/AR/VR/WebVR - Quick Dev Setups, Tutorials & Courses
 
 - [Getting Started with Unity](https://learn.unity.com/course/) | [https://learn.unity.com/courses](https://learn.unity.com/courses)
 - [Unity - Latest Tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0TPcPOKW6GxwuY18eg7CjKZ)
