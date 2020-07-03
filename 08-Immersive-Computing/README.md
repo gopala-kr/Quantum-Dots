@@ -1,8 +1,5 @@
 
 ### Immersive Computing Review
-
-###### [Go to Contents](#contents)
-
 -------
 ------------
 ![YSG7H0B9h](https://miro.medium.com/max/2000/0*YSG7H0B9h-K0Z1WB.jpg)
@@ -17,12 +14,12 @@
    - [AR Contact Lenses](#ar-contact-lenses)
    - [Microsoft HoloLense](#microsoft-hololense)
    - [Magic Leap One](#magic-leap-one)
-   - [More AR Glasses](#more-ar-glasse)
+   - [More AR Glasses](#more-ar-glasses)
    - [VR Hardwares](#vr-hardwares)
  - [Dev Tools](#dev-tools)
    - [Hardware Requirements](#hardware-requirements)
    - [AR SDK Comparison](#ar-sdk-comparison)
-   - [VR platform comparison](#vr-platform-comparison)
+   - [VR Platform Comparison](#vr-platform-comparison)
    - [Quick Dev Setups Tutorials and Courses](#quick-dev-setups-tutorials-and-courses) - XR/MR/AR/VR/WebVR
  - [Immersive Tech Applications](#immersive-tech-applications)
  
@@ -66,7 +63,7 @@
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
 
-###### ($3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)
+###### ($3000 - $3500 | $125 USD per month Enterprise, $99 USD per month Developer)
 
 [Back to top](#contents)
 
@@ -330,6 +327,16 @@
 - Steam VR [Steam](http://store.steampowered.com/steamvr)  - Uses HTC Vive, Oculus Rift and WMR headsets
 - [pimax](https://www.pimax.com/)
 - [Valve](https://www.youtube.com/user/Valve)
+
+-----------
+-----------------
+
+#### Hardware Requirements
+
+##### (XR/MR/AR/VR/WebVR)
+
+[Back to top](#contents)
+
 
 -------
 ------------
@@ -745,6 +752,8 @@
 - [AR Talks | MIT Leadership Summit Feb 2020](https://www.youtube.com/playlist?list=PL8HF9ant0dNpNhi5BbEGpuB06RdZAUy7D)
 ----------
 
+[Back to top](#contents)
+
 - [Unity XR Specialization](https://www.coursera.org/specializations/unity-xr)
 - [Unity Certified Programmer Specialization](https://www.coursera.org/specializations/unity-certified-programmer)
 - [Virtual Reality Specialization](https://www.coursera.org/specializations/virtual-reality)
@@ -764,14 +773,7 @@
 - [NPTEL IIT Madras](https://nptel.ac.in/courses/106106138/)
 
 
------------
------------------
 
-#### Hardware Requirements
-
-***(XR/MR/AR/VR/WebVR)***
-
-[Back to top](#contents)
 
 ----------
 -------------
