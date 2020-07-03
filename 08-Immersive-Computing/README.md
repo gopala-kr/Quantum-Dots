@@ -6,7 +6,23 @@
 ![YSG7H0B9h](https://miro.medium.com/max/2000/0*YSG7H0B9h-K0Z1WB.jpg)
 
 
+----------------
 
+ ##### [Contents](#contents)
+ 
+ - [The Future of HCI]()
+ - [AR Contact Lenses]()
+ - [Microsoft HoloLense]()
+ - [Magic Leap One]()
+ - [VR Hardwares]()
+ - [Dev Tools]()
+ - [AR SDK Comparison]()
+ - [VR platform comparison]()
+ - [XR/MR/AR/VR/WebVR - Quick Dev Setups, Tutorials & Courses]()
+ - [Immersive Tech Applications]()
+ - [XR/MR/AR/VR/WebVR - Hardware Requirements]()
+ - [Build an VR App]()
+ 
 ---------
 ------
 #### The Future of HCI
@@ -31,6 +47,8 @@
 
 #### AR Contact Lenses
 
+[Back to top](#contents)
+
 - [https://www.mojo.vision/news](https://www.mojo.vision/news)
 - [Mojo Vision’s Augmented Reality Contact Lenses Kick off a Race to AR on Your Eye](https://singularityhub.com/2020/01/17/mojo-visions-augmented-reality-contact-lenses-kick-off-a-race-to-ar-in-your-eye/)
 - [The making of Mojo, AR contact lenses that give your eyes superpowers](https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers)
@@ -42,6 +60,9 @@
 -----------
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)
+
+[Back to top](#contents)
+
 
      - The pre-production version of HoloLens, the Development Edition, shipped on March 30, 2016, and is targeted to developers in the United States and Canada for a list price of $3000
      - HoloLens 2 was announced at the Mobile World Congress in Barcelona, Spain, on February 24, 2019 and is available on preorder at $3500.
@@ -75,6 +96,7 @@
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - $2295 - $3290
 
+[Back to top](#contents)
 
 
      - Magic Leap was founded by Rony Abovitz in 2010 and has raised $2.6 billion from a list of investors including Google and Alibaba Group.
@@ -116,6 +138,9 @@
 ![CyjXxusnwFQ](https://miro.medium.com/max/2676/1*5Z3-4kDD_N-CyjXxusnwFQ.png)
 
 --------
+
+[Back to top](#contents)
+
 - [Google Glass](https://www.google.com/glass/start/) | [Enterprise Edition 2(2019) | $999](https://www.youtube.com/watch?v=5IK-zU51MU4) | [Google AR & VR](https://www.youtube.com/channel/UCkUZagbGbewp3bZQLXGzkmA)
 
 -------------
@@ -134,6 +159,9 @@
 
 #### VR Hardwares
 
+[Back to top](#contents)
+
+
 - [Comparison of virtual reality headsets](https://en.wikipedia.org/wiki/Comparison_of_virtual_reality_headsets)
 
       - There are currently 3 main types of VR Headsets. Desktop VR, Mobile VR and Standalone VR. 
@@ -145,6 +173,8 @@
 
 ![VR_headset_per](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/VR_headset_per-eye_resolution_comparison.png/1920px-VR_headset_per-eye_resolution_comparison.png)
 --------
+
+[Back to top](#contents)
 
 <table>
 	<tr>
@@ -294,6 +324,8 @@
 ------------
 #### Dev tools 
 
+[Back to top](#contents)
+
 - [https://github.com/XRTK/XRTK-Core](https://github.com/XRTK/XRTK-Core)
 - [Unity](https://unity3d.com/get-unity/download) | https://unity3d.com/learn/tutorials | https://unity3d.com/learn
 - [Unreal Engine](https://www.unrealengine.com/en-US/feed) | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/ | [onlinelearning-courses](https://www.unrealengine.com/en-US/onlinelearning-courses)
@@ -325,6 +357,8 @@
 ------------
 
 ##### AR SDK Comparison
+
+[Back to top](#contents)
 
 <table style="height: 336px;">
 <tbody>
@@ -480,6 +514,8 @@
 
 
 ##### VR platform comparison
+
+[Back to top](#contents)
 
 <table>
 <tbody>
@@ -657,7 +693,9 @@
 -----------
 -----------------
 
-#### XR/MR/AR/VR/WebVR - Quick Dev Setups, Tutorials & Courses
+#### XR/MR/AR/VR/WebVR - Quick Dev Setups, Tutorials and Courses
+
+[Back to top](#contents)
 
 - [Getting Started with Unity](https://learn.unity.com/course/) | [https://learn.unity.com/courses](https://learn.unity.com/courses)
 - [Unity - Latest Tutorials](https://www.youtube.com/playlist?list=PLX2vGYjWbI0TPcPOKW6GxwuY18eg7CjKZ)
@@ -716,6 +754,7 @@
 
 #### Immersive Tech Applications
 
+[Back to top](#contents)
 
     VR Use Cases : 
 
