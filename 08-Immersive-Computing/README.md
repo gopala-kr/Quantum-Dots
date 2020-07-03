@@ -23,6 +23,9 @@
    - [Quick Dev Setups Tutorials and Courses](#quick-dev-setups-tutorials-and-courses) - XR/MR/AR/VR/WebVR
  - [Immersive Tech Applications](#immersive-tech-applications)
  
+--------
+![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+
 ---------
 ------
 #### The Future of HCI
@@ -40,10 +43,11 @@
 - [Virtual-reality applications give science a new dimension](https://www.nature.com/articles/d41586-018-04997-2)
 - [Reach into the computer and grab a pixel](https://www.ted.com/talks/jinha_lee_reach_into_the_computer_and_grab_a_pixel)
 - [A glimpse of the future through an augmented reality headset](https://www.ted.com/talks/meron_gribetz_a_glimpse_of_the_future_through_an_augmented_reality_headset#t-15413)
-
---------
-
-![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+- [History of HCI](https://www.youtube.com/watch?v=C21Hx0yiHF0)
+- [History of Human-Computer Interaction](https://www.youtube.com/playlist?list=PL9tgFFr71mw3QgbUgrzrVXV7U7LgK5lZ8)
+- [Future Interfaces Group: The next phase of computer-human interaction](https://www.youtube.com/watch?v=J_oPtEjiVuA)
+- [Human Computer Interaction | HCI Evolution](https://www.youtube.com/watch?v=06bwXMskrQc)
+- [Neuralink: Merging Man and Machine](https://www.youtube.com/watch?v=0jOjh6lwp9w)
 
 ------------
 
