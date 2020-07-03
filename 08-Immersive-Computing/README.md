@@ -49,6 +49,8 @@
 - [Human Computer Interaction | HCI Evolution](https://www.youtube.com/watch?v=06bwXMskrQc)
 - [Neuralink: Merging Man and Machine](https://www.youtube.com/watch?v=0jOjh6lwp9w)
 - [VR in 10 Years](https://www.youtube.com/watch?v=ydMzQMbhSKg)
+- [The Dynamic Desktop (in the office of the future...)](https://www.youtube.com/watch?v=m9lZfnRrM4Y)
+- [Turn Any Table into a Touchscreen?](https://www.youtube.com/watch?v=g_tpXIZGeZw)
 
 ------------
 
@@ -382,6 +384,8 @@
 - [Oculus Medium](https://www.youtube.com/channel/UCchTxH0v_ZR1I9IVvXeev-Q/playlists)
 - [WMR Install the tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
 - [oculus dev tools](https://developer.oculus.com/documentation/)
+- [ARcore](https://developers.google.com/ar)
+- [ARKit](https://developer.apple.com/augmented-reality/)
 
 --------
 
