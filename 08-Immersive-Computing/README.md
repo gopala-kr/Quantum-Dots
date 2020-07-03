@@ -685,7 +685,7 @@
 - [Building Virtual Reality on the Web with WebVR](https://www.youtube.com/watch?v=jT2mR9WzJ7Y)
 - [A-Frame - VR for Web Developers](https://www.youtube.com/watch?v=wRqoSdPZQBY)
 - [WebVR Create Portable VR Experiences on the Web](https://www.youtube.com/watch?v=8BHOztuaj-4&feature=emb_title)
-- [Augmenting Reality with JS](https://www.youtube.com/watch?v=ZxTGhEttRCs)
+- [Augmenting Reality with JS](https://www.youtube.com/watch?v=ZxTGhEttRCs) | [ReactVR](https://www.youtube.com/playlist?list=PLYBydYWirZy1QBDA32UhoJlLq4-tWMvuk)
 - [React VR & Web VR](https://www.youtube.com/playlist?list=PL3QG3XpLAfsAltlLr4AJ6VIBKTcxO-qo0&pbjreload=101)
 - [AR as a Feature: How to Supercharge Products Using Augmented Reality](https://www.youtube.com/watch?v=m6p4BpgTBuw)
 - [AR Talks | MIT Leadership Summit Jan 2019](https://www.youtube.com/playlist?list=PL8HF9ant0dNqG_bBUQjeau5lunUNymBNm)
