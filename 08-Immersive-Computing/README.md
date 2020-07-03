@@ -66,6 +66,11 @@
 - [SOFT ROBOTICS: MOJO LENS CONTACTS HAVE AUGMENTED REALITY DISPLAYS](https://globetrender.com/2020/04/30/mojo-lens-ar-contact-lenses/)
 - [Mojo Vision is developing AR contact lenses](https://www.youtube.com/watch?v=pV52DF5IrEc&feature=emb_title)
 - [Virtual Reality Contact Lenses are ALREADY HERE!](https://www.youtube.com/watch?v=QYgWFBoLmpg)
+- [AR Contact lenses change the way you see the world](https://www.youtube.com/watch?v=C3w-x_sMT5g)
+- [Smart Contact Lens: The Trillion Dollar Cyborg Revolution](https://www.youtube.com/watch?v=DHBrdtQBvhg)
+- [Can This Bionic Lens Give You Smart Vision?](https://www.youtube.com/watch?v=C7YycpxoKSw)
+- [How Contact Lenses Are Made For Movies | Movies Insider](https://www.youtube.com/watch?v=3Ydpwh1bAnI)
+
 -----------
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
@@ -86,8 +91,9 @@
          
      - Microsoft Visual Studio is an IDE that can be used to develop applications (both 2D and 3D) for HoloLens. Applications can be tested using HoloLens emulator (included into Visual Studio 2015 IDE) or HoloLens Development Edition.
 
-- [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf)
+- [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf) 
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
+- [HOLOLENS 2 - Hands-On and First Impressions](https://www.youtube.com/watch?v=KvunJrK_IjM)
 - [HoloLens 2 AR Headset: On Stage Live Demonstration](https://www.youtube.com/watch?v=uIHPPtPBgHk) :star:
 - [The dawn of the age of holograms | Alex Kipman](https://www.youtube.com/watch?v=1cQbMP3I5Sk)
 - [Microsoft HoloLens Channel](https://www.youtube.com/c/MicrosoftHoloLens/playlists)
