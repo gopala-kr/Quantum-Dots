@@ -350,6 +350,9 @@
 - [The BIG VR Headset Comparison – Best VR Headset For 2020](https://www.youtube.com/watch?v=p3CQEdqOKb8)
 - [Oculus Quest, Oculus Rift S, Oculus Go Review](https://www.youtube.com/watch?v=Iri2Onx9V7U)
 - [HTC Vive Cosmos VR Headset Review](https://www.youtube.com/watch?v=LRGA2xSIaJg)
+- [VR headsets coming in 2020](https://www.youtube.com/watch?v=WrxJR5s-Fts)
+- [The VR Headsets Of The Future](https://www.youtube.com/watch?v=F4XaQHuqZdc)
+- [The Future Tech Of Virtual Reality](https://www.youtube.com/watch?v=5cgZ6J5oE0g)
 
 -----------
 -----------------
