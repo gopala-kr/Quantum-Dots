@@ -808,9 +808,8 @@
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Standford University EE267: Virtual Reality](https://stanford.edu/class/ee267/)
 - [NPTEL IIT Madras](https://nptel.ac.in/courses/106106138/)
-
-
-
+- [Prepare for Unity Certification](https://www.linkedin.com/learning/paths/prepare-for-unity-certification)
+- [Master AR/VR with Unreal](https://www.linkedin.com/learning/paths/master-ar-vr-with-unreal)
 
 ----------
 -------------
