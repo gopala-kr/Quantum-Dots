@@ -1,7 +1,7 @@
 
 ### Immersive Computing Review
 
-[Go to Contents](#contents)
+###### [Go to Contents](#contents)
 
 -------
 ------------
@@ -19,7 +19,7 @@
  - [VR Hardwares](#vr-hardwares)
  - [Dev Tools](#dev-tools)
  - [AR SDK Comparison](#ar-sdk-comparison)
- - [VR platform comparison]()
+ - [VR platform comparison](#vr-platform-comparison)
  - [Quick Dev Setups, Tutorials and Courses](#quick-dev-setups--tutorials-and-courses) - XR/MR/AR/VR/WebVR
  - [Hardware Requirements](#hardware-requirements)
  - [Immersive Tech Applications](#immersive-tech-applications)
