@@ -346,6 +346,7 @@
 - [pimax](https://www.pimax.com/) | [In-Depth Pimax 8K vs 5K+ Review ](https://www.youtube.com/watch?v=bcZ0CXP0qgU)
 - [Valve](https://www.youtube.com/user/Valve) | [Valve Index Review](https://www.youtube.com/watch?v=6p1e_JSol8s) | [Boneworks on Valve Index](https://www.youtube.com/watch?v=2E30vb3bmMc)
 - [VR Guide 2020](https://www.youtube.com/watch?v=4JMFXJRLV9o)
+- [The BEST of VR at CES 2020](https://www.youtube.com/watch?v=lIiZg3aszGk)
 - [VR Buying Guide 2020 - Which virtual reality headset should you buy?](https://www.youtube.com/watch?v=hzYf3bGmyFU)
 - [The BIG VR Headset Comparison – Best VR Headset For 2020](https://www.youtube.com/watch?v=p3CQEdqOKb8)
 - [Oculus Quest, Oculus Rift S, Oculus Go Review](https://www.youtube.com/watch?v=Iri2Onx9V7U)
@@ -407,7 +408,7 @@
 
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
 - [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
-
+- [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
 ------------
 
 ##### AR SDK Comparison
