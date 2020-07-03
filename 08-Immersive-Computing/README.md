@@ -63,7 +63,9 @@
 
 -----------
 
-#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) - $3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)
+#### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
+
+***($3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)***
 
 [Back to top](#contents)
 
@@ -98,7 +100,9 @@
 - [Tangible Holograms:Towards Mobile PhysicalAugmentation of Virtual Objects](https://arxiv.org/pdf/1703.08288.pdf)
 
 ----------
-#### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) - $2295 - $3290
+#### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) 
+
+***($2295 - $3290)***
 
 [Back to top](#contents)
 
@@ -326,7 +330,7 @@
 
 -------
 ------------
-#### Dev tools 
+#### Dev Tools 
 
 [Back to top](#contents)
 
@@ -517,7 +521,7 @@
 ---------
 
 
-##### VR platform comparison
+##### VR Platform Comparison
 
 [Back to top](#contents)
 
@@ -697,7 +701,9 @@
 -----------
 -----------------
 
-#### XR/MR/AR/VR/WebVR - Quick Dev Setups, Tutorials and Courses
+#### Quick Dev Setups, Tutorials and Courses
+
+***(XR/MR/AR/VR/WebVR)***
 
 [Back to top](#contents)
 
@@ -753,8 +759,20 @@
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Standford University EE267: Virtual Reality](https://stanford.edu/class/ee267/)
 - [NPTEL IIT Madras](https://nptel.ac.in/courses/106106138/)
+
+
+-----------
+-----------------
+
+#### Hardware Requirements
+
+***(XR/MR/AR/VR/WebVR)***
+
+[Back to top](#contents)
+
 ----------
 -------------
+
 
 #### Immersive Tech Applications
 
