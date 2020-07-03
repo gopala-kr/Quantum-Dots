@@ -340,11 +340,16 @@
 - [Oculus](https://www.youtube.com/user/oculusvr) | [Oculus Products](https://www.oculus.com/compare/) | [Oculus Rift](https://www.oculus.com/rift/) | [Oculus Go](https://www.oculus.com/go/) | [Oculus Connect 5](https://www.oculusconnect.com/) | [Oculus stores](https://developer.oculus.com/distribute/)
 - [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/) | [Viveport Infinity](https://www.viveport.com/infinity)
 - [Google Cardboard](https://vr.google.com/cardboard/) | [Google Cardboard – Google VR](https://arvr.google.com/intl/en_in/cardboard/apps/) | [Google DayDream](https://vr.google.com/daydream/) | [Get Google Cardboard](https://arvr.google.com/intl/en_in/cardboard/get-cardboard/)
-- [Sony PlayStation VR](https://www.playstation.com/en-in/explore/playstation-vr/) | [PlayStation](https://www.youtube.com/user/PlayStation) | [Samsung Gear VR](https://www.samsung.com/global/galaxy/gear-vr/)
+- [Sony PlayStation VR](https://www.playstation.com/en-in/explore/playstation-vr/) | [PlayStation](https://www.youtube.com/user/PlayStation) | [Samsung Gear VR](https://www.samsung.com/global/galaxy/gear-vr/) | [PlayStation VR Buyer's Guide | 2020](https://www.youtube.com/watch?v=XHTwxH7egeY)
 - Leap Motion Orion [Leap Motion](https://www.leapmotion.com/product/vr) - Uses Oculus Rift CV1 or HTC Vive and Unity.
 - Steam VR [Steam](http://store.steampowered.com/steamvr)  - Uses HTC Vive, Oculus Rift and WMR headsets
-- [pimax](https://www.pimax.com/)
-- [Valve](https://www.youtube.com/user/Valve)
+- [pimax](https://www.pimax.com/) | [In-Depth Pimax 8K vs 5K+ Review ](https://www.youtube.com/watch?v=bcZ0CXP0qgU)
+- [Valve](https://www.youtube.com/user/Valve) | [Valve Index Review](https://www.youtube.com/watch?v=6p1e_JSol8s) | [Boneworks on Valve Index](https://www.youtube.com/watch?v=2E30vb3bmMc)
+- [VR Guide 2020](https://www.youtube.com/watch?v=4JMFXJRLV9o)
+- [VR Buying Guide 2020 - Which virtual reality headset should you buy?](https://www.youtube.com/watch?v=hzYf3bGmyFU)
+- [The BIG VR Headset Comparison – Best VR Headset For 2020](https://www.youtube.com/watch?v=p3CQEdqOKb8)
+- [Oculus Quest, Oculus Rift S, Oculus Go Review](https://www.youtube.com/watch?v=Iri2Onx9V7U)
+- [HTC Vive Cosmos VR Headset Review](https://www.youtube.com/watch?v=LRGA2xSIaJg)
 
 -----------
 -----------------
