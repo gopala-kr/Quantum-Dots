@@ -13,17 +13,18 @@
  ##### [Contents](#contents)
  
  - [The Future of HCI](#the-future-of-hci)
- - [AR Contact Lenses](#ar-contact-lenses)
- - [Microsoft HoloLense](#microsoft-hololense)
- - [Magic Leap One](#magic-leap-one)
- - [VR Hardwares](#vr-hardwares)
+ - AR/MR/VR
+   - [AR Contact Lenses](#ar-contact-lenses)
+   - [Microsoft HoloLense](#microsoft-hololense)
+   - [Magic Leap One](#magic-leap-one)
+   - [More AR Glasses](#more-ar-glasse)
+   - [VR Hardwares](#vr-hardwares)
  - [Dev Tools](#dev-tools)
- - [AR SDK Comparison](#ar-sdk-comparison)
- - [VR platform comparison](#vr-platform-comparison)
- - [Quick Dev Setups, Tutorials and Courses](#quick-dev-setups--tutorials-and-courses) - XR/MR/AR/VR/WebVR
- - [Hardware Requirements](#hardware-requirements)
+   - [Hardware Requirements](#hardware-requirements)
+   - [AR SDK Comparison](#ar-sdk-comparison)
+   - [VR platform comparison](#vr-platform-comparison)
+   - [Quick Dev Setups Tutorials and Courses](#quick-dev-setups-tutorials-and-courses) - XR/MR/AR/VR/WebVR
  - [Immersive Tech Applications](#immersive-tech-applications)
- - [Build an VR App](#build-an-vr-app)
  
 ---------
 ------
@@ -65,7 +66,7 @@
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
 
-***($3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)***
+###### ($3000 - $3500 ($125 USD per month Enterprise, $99 USD per month Developer)
 
 [Back to top](#contents)
 
@@ -102,7 +103,7 @@
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) 
 
-***($2295 - $3290)***
+###### ($2295 - $3290)
 
 [Back to top](#contents)
 
@@ -147,12 +148,14 @@
 
 --------
 
+##### More AR Glasses
+
 [Back to top](#contents)
 
 - [Google Glass](https://www.google.com/glass/start/) | [Enterprise Edition 2(2019) | $999](https://www.youtube.com/watch?v=5IK-zU51MU4) | [Google AR & VR](https://www.youtube.com/channel/UCkUZagbGbewp3bZQLXGzkmA)
 
 -------------
-- [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured)
+- [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured) - Aquired by Google on [30/06/2020](https://www.theverge.com/2020/6/30/21308281/google-north-focals-glasses-purchase-acquire)
 - [Vuzix Corporation](https://www.youtube.com/channel/UCMh4hWRHX_1QZ98UZygR30Q/featured) 
 - [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
 - [Spectacles by Snapchat](https://www.spectacles.com/in/)
@@ -701,9 +704,9 @@
 -----------
 -----------------
 
-#### Quick Dev Setups, Tutorials and Courses
+#### Quick Dev Setups Tutorials and Courses
 
-***(XR/MR/AR/VR/WebVR)***
+##### (XR/MR/AR/VR/WebVR)
 
 [Back to top](#contents)
 
