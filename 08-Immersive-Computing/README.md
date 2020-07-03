@@ -48,6 +48,7 @@
 - [Future Interfaces Group: The next phase of computer-human interaction](https://www.youtube.com/watch?v=J_oPtEjiVuA)
 - [Human Computer Interaction | HCI Evolution](https://www.youtube.com/watch?v=06bwXMskrQc)
 - [Neuralink: Merging Man and Machine](https://www.youtube.com/watch?v=0jOjh6lwp9w)
+- [VR in 10 Years](https://www.youtube.com/watch?v=ydMzQMbhSKg)
 
 ------------
 
@@ -55,6 +56,8 @@
 
 [Back to top](#contents)
 
+- [Augmented reality contact lenses: The future of AR](https://www.youtube.com/watch?v=_5tT6NJBs10)
+- [This Contact Lens Will Change The World](https://www.youtube.com/watch?v=JAcZtOxW6jw)
 - [https://www.mojo.vision/news](https://www.mojo.vision/news)
 - [Mojo Vision’s Augmented Reality Contact Lenses Kick off a Race to AR on Your Eye](https://singularityhub.com/2020/01/17/mojo-visions-augmented-reality-contact-lenses-kick-off-a-race-to-ar-in-your-eye/)
 - [The making of Mojo, AR contact lenses that give your eyes superpowers](https://www.fastcompany.com/90441928/the-making-of-mojo-ar-contact-lenses-that-give-your-eyes-superpowers)
@@ -62,7 +65,7 @@
 - [Augmented Reality and Super Sight: The Bionic Contact Lens](https://sensing.konicaminolta.us/us/blog/augmented-reality-and-super-sight-the-bionic-contact-lens/)
 - [SOFT ROBOTICS: MOJO LENS CONTACTS HAVE AUGMENTED REALITY DISPLAYS](https://globetrender.com/2020/04/30/mojo-lens-ar-contact-lenses/)
 - [Mojo Vision is developing AR contact lenses](https://www.youtube.com/watch?v=pV52DF5IrEc&feature=emb_title)
-
+- [Virtual Reality Contact Lenses are ALREADY HERE!](https://www.youtube.com/watch?v=QYgWFBoLmpg)
 -----------
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
@@ -165,6 +168,9 @@
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 
 > [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021(not official)
+
+- [Apple’s Next Big Thing: AR Glasses](https://www.youtube.com/watch?v=ilzOWzH-wHo)
+- [Apple AR Glasses (2020) - The NEXT iPhone!](https://www.youtube.com/watch?v=7PG0EUTHUIg)
 
 -----------
 ----------------
