@@ -394,7 +394,7 @@
 - [EasyAR](https://www.easyar.com/)
 - [ARToolKit](http://www.artoolkitx.org/)
 - [Xzimg](https://www.xzimg.com/)
-
+- [AppGameKit VR](https://www.appgamekit.com/dlc/vr#:~:text=Great%20Deals-,AppGameKit%20%2D%20VR,events%20from%20the%20touch%20controllers.)
 --------
 
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
