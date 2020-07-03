@@ -362,9 +362,10 @@
 
 [Back to top](#contents)
 
-- [https://github.com/XRTK/XRTK-Core](https://github.com/XRTK/XRTK-Core)
+
 - [Unity](https://unity3d.com/get-unity/download) | https://unity3d.com/learn/tutorials | https://unity3d.com/learn
 - [Unreal Engine](https://www.unrealengine.com/en-US/feed) | https://academy.unrealengine.com/ | https://docs.unrealengine.com/en-us/ | [onlinelearning-courses](https://www.unrealengine.com/en-US/onlinelearning-courses)
+- [https://github.com/XRTK/XRTK-Core](https://github.com/XRTK/XRTK-Core)
 - [Amazon Sumerian](https://aws.amazon.com/sumerian/)
 - [Google VR](https://developers.google.com/vr/develop)
 - [cryengine](https://www.cryengine.com/tutorials)
@@ -386,6 +387,13 @@
 - [oculus dev tools](https://developer.oculus.com/documentation/)
 - [ARcore](https://developers.google.com/ar)
 - [ARKit](https://developer.apple.com/augmented-reality/)
+- [Wikitude](https://www.wikitude.com/)
+- [Vuforia](https://developer.vuforia.com/)
+- [MaxST](http://maxst.com/#/)
+- [DeepAR](https://www.deepar.ai/)
+- [EasyAR](https://www.easyar.com/)
+- [ARToolKit](http://www.artoolkitx.org/)
+- [Xzimg](https://www.xzimg.com/)
 
 --------
 
