@@ -377,7 +377,8 @@
 ![vsndyk5ffgu01](https://i.redd.it/vsndyk5ffgu01.png)
 ---------
 ![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
-
+------------
+![vr_acuity](http://ramakarl.com/imgs/vr_acuity.jpg)
 -----------
 -----------------
 
