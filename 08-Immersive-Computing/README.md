@@ -352,6 +352,12 @@
 
 
 -----------
+![Oculus-Comparision](https://e6r6h4f7.stackpathcdn.com/wp-content/uploads/2019/06/Oculus-Comparision.png)
+---------
+![vsndyk5ffgu01](https://i.redd.it/vsndyk5ffgu01.png)
+---------
+![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
+----------
 
 - [Oculus](https://www.youtube.com/user/oculusvr) | [Oculus Products](https://www.oculus.com/compare/) | [Oculus Rift](https://www.oculus.com/rift/) | [Oculus Go](https://www.oculus.com/go/) | [Oculus Connect 5](https://www.oculusconnect.com/) | [Oculus stores](https://developer.oculus.com/distribute/)
 - [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/) | [Viveport Infinity](https://www.viveport.com/infinity)
