@@ -95,6 +95,18 @@
      - A spacecraft design/visualization application in development by NASA's Jet Propulsion Laboratory (JPL).
          
      - Microsoft Visual Studio is an IDE that can be used to develop applications (both 2D and 3D) for HoloLens. Applications can be tested using HoloLens emulator (included into Visual Studio 2015 IDE) or HoloLens Development Edition.
+     
+     
+     Microsoft doesn’t officially announced the technical specification of HoloLens. But, as expected there may be: 
+     • CPU: Intel Atom Cherry Trail 2.7GHz 
+     • GPU : Intel Atom Cherry Trail 2.7 GHz 
+     • HPU: Holographic Processing Unit 
+     • See- through high definition Holographic Lenses 
+     • Infrared Optics • 2 micro projectors • Battery 
+     • 28.0 MP(with ultra HD resolution) camera 
+     • It comes with 18 sensors which includes Gazing Sensors, Gesture Recognition Sensors, etc. 
+     • 2 stereo speakers with built in spatial sound. 
+     • Multi array Microphones
 
 - [Mixed Reality with Microsoft HoloLens](https://gotocon.com/dl/goto-berlin-2016/slides/PhilippBauknecht_MixedRealityWithMicrosoftHoloLens.pdf) | [Microsoft HoloLens 2](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2019/02/Fact-Sheet_HoloLens2.pdf) 
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
@@ -114,8 +126,6 @@
 - [Holographic Projection Technology: The World is Changing.](https://arxiv.org/ftp/arxiv/papers/1006/1006.0846.pdf)
 - [Interactive Multi-User 3D Visual Analytics in AugmentedReality](https://arxiv.org/pdf/2002.05305.pdf)
 - [Tangible Holograms:Towards Mobile PhysicalAugmentation of Virtual Objects](https://arxiv.org/pdf/1703.08288.pdf)
----------
-![microsoft-hololens-16-1024](https://image.slidesharecdn.com/atulhololens-170401143118/95/microsoft-hololens-16-1024.jpg?cb=1491057451)
 
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) 
