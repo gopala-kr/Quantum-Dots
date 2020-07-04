@@ -838,6 +838,7 @@
      
 ---------
 
+
      - Medical Training
      From operating MRI equipment to performing complex surgeries, AR tech holds the potential to boost the depth and effectiveness of medical training in many areas.              Students at the Cleveland Clinic at Case Western Reserve University, for example, will now learn anatomy utilizing an AR headset allowing them to delve into the human        body in an interactive 3D format.
 
