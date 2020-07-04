@@ -918,6 +918,8 @@
 - [Augmented Reality Use Cases For Enterprises and Consumers ](https://www.youtube.com/watch?v=6MhBHNlKTCU)
 - [The Future of Virtual Reality | Phil Kauffold](https://www.youtube.com/watch?v=d-HRgfJbPvk)
 - [The massive list of AR use cases | Sarah Downey | AR in Action](https://www.youtube.com/watch?v=JrZsmfA56Sw)
+- [Virtual Reality in Medicine: New Opportunities for Diagnostics and Surgical Planning](https://www.youtube.com/watch?v=AttXbcLUyR0)
+- [AR & IoT – Better Together! | Jim Heppelmann ](https://www.youtube.com/watch?v=U55ohh15oSE)
 
 [Back to top](#contents)
 
