@@ -921,6 +921,10 @@
 - [Virtual Reality in Medicine: New Opportunities for Diagnostics and Surgical Planning](https://www.youtube.com/watch?v=AttXbcLUyR0)
 - [AR & IoT – Better Together! | Jim Heppelmann ](https://www.youtube.com/watch?v=U55ohh15oSE)
 - [AR Health Talks](https://www.youtube.com/playlist?list=PL8HF9ant0dNrtgk5ietzvRvVAPdgPKAKs)
+- [Will virtual and augmented reality move us into the knowledge age?](https://www.youtube.com/watch?v=2FA-IuDTMjE)
+- [How Augmented Reality Will Change Education Completely](https://www.youtube.com/watch?v=5AjxGqzqQ54)
+- [The Challenges & Opportunities of Augmented Reality](https://www.youtube.com/watch?v=truf7fgJSww)
+- [This is Real - Immersive VR Education](https://www.youtube.com/watch?v=hrpytToK67E)
 
 [Back to top](#contents)
 
