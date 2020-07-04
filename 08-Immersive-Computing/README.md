@@ -912,8 +912,9 @@
 
     - Public Safety : In the event of an emergency today, people will immediately reach for their smartphone to find out what's going on, where to go, and whether their loved ones are safe.Moreover, first responders arrive on the scene of a fire or earthquake trying to figure out who needs help, and the best way to get them to safety. AR is showing promise in solving both pieces of the public safety puzzle. First responders wearing AR glasses can be alerted to danger areas, and show in real-time individuals that need assistance while enabling to still be aware of their surroundings. For those in need, geolocation enabled AR can show them directions, and the best route to, safe zones  and areas with firefighters or medics.
     
------------
-![Healthcare-Innovation-Map-StartUs-Insights-1280-720](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/AR-Disrupts-Healthcare-Innovation-Map-StartUs-Insights-1280-720-noresize.png)
+---------------
+
+- [10 Mind Blowing Uses For Virtual Reality](https://www.youtube.com/watch?v=pDfu2j1XlNE)
 
 [Back to top](#contents)
 
