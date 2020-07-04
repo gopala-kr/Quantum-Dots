@@ -364,6 +364,10 @@
 
 [Back to top](#contents)
 
+- [vr-system-requirements](https://www.nvidia.in/object/vr-system-requirements-in.html)
+- [requirements-needed-for-computers-to-support-vr](https://xoticpc.com/blogs/news/requirements-needed-for-computers-to-support-vr)
+- [find-out-if-your-pc-can-handle-vr](https://www.newegg.com/vr/guides/find-out-if-your-pc-can-handle-vr.html)
+- [how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility](https://www.roadtovr.com/how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility-tool/)
 
 -------
 ------------
