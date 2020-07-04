@@ -25,6 +25,10 @@
 
 
 ---------
+![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+--------
+![Virutal-Reality](https://www.tacton.com/wp-content/uploads/2020/03/Virutal-Reality.png)
+
 ------
 #### The Future of HCI
 
@@ -50,11 +54,20 @@
 - [The Dynamic Desktop (in the office of the future...)](https://www.youtube.com/watch?v=m9lZfnRrM4Y)
 - [Turn Any Table into a Touchscreen?](https://www.youtube.com/watch?v=g_tpXIZGeZw)
 
-------
-![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+-----------
+![conclusions_beliaev_kapanen_letina_kukk_szlosarczyk](https://elinahci.files.wordpress.com/2016/01/m7-conclusions_beliaev_kapanen_letina_kukk_szlosarczyk.png)
+-----
+![HMI](https://www.telstarinc.com/wp-content/uploads/2019/08/HMI-3.png)
+----------
+![436951_1_En_12_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-64027-3_12/MediaObjects/436951_1_En_12_Fig1_HTML.gif)
 --------
-![Virutal-Reality](https://www.tacton.com/wp-content/uploads/2020/03/Virutal-Reality.png)
+![n9yvzygF4QyHZoNplStGbQ](https://miro.medium.com/max/2082/1*n9yvzygF4QyHZoNplStGbQ.png)
+--------
+![287192309743616](https://www.researchgate.net/profile/Michael_Stevenson4/publication/283057149/figure/fig1/AS:287192309743616@1445483390397/Text-to-Visual-Evolution-of-Device-Interfaces-and-At-the-same-time-as-tablet-technology.png)
+-----------
+![cogntive-search](https://benjamindubuc.com/wp-content/uploads/2018/05/cogntive-search.png)
 
+------
 ------------
 
 #### AR Contact Lenses
