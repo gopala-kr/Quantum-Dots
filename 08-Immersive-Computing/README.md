@@ -72,7 +72,10 @@
 - [Smart Contact Lens: The Trillion Dollar Cyborg Revolution](https://www.youtube.com/watch?v=DHBrdtQBvhg)
 - [Can This Bionic Lens Give You Smart Vision?](https://www.youtube.com/watch?v=C7YycpxoKSw)
 - [How Contact Lenses Are Made For Movies | Movies Insider](https://www.youtube.com/watch?v=3Ydpwh1bAnI)
+-------
+![MojoLensHistory_Jan2020_Final](https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2020/01/MojoLensHistory_Jan2020_Final.jpg)
 
+-----------------
 -----------
 
 #### [Microsoft HoloLense](https://www.microsoft.com/en-us/hololens/hardware) 
@@ -111,6 +114,8 @@
 - [Holographic Projection Technology: The World is Changing.](https://arxiv.org/ftp/arxiv/papers/1006/1006.0846.pdf)
 - [Interactive Multi-User 3D Visual Analytics in AugmentedReality](https://arxiv.org/pdf/2002.05305.pdf)
 - [Tangible Holograms:Towards Mobile PhysicalAugmentation of Virtual Objects](https://arxiv.org/pdf/1703.08288.pdf)
+---------
+![microsoft-hololens-16-1024](https://image.slidesharecdn.com/atulhololens-170401143118/95/microsoft-hololens-16-1024.jpg?cb=1491057451)
 
 ----------
 #### [Magic Leap One](https://www.magicleap.com/en-us/magic-leap-1) 
@@ -168,6 +173,7 @@
 
 -------------
 - [Focals by North](https://www.youtube.com/c/FocalsbyNorth/featured) - Aquired by Google on [30/06/2020](https://www.theverge.com/2020/6/30/21308281/google-north-focals-glasses-purchase-acquire)
+- [Meta 2](https://www.metavision.com/)
 - [Vuzix Corporation](https://www.youtube.com/channel/UCMh4hWRHX_1QZ98UZygR30Q/featured) 
 - [Epson Moverio](https://www.youtube.com/channel/UCKW-0pDnn3nyL4HosAhe9IA)
 - [Spectacles by Snapchat](https://www.spectacles.com/in/)
@@ -368,6 +374,7 @@
 - [requirements-needed-for-computers-to-support-vr](https://xoticpc.com/blogs/news/requirements-needed-for-computers-to-support-vr)
 - [find-out-if-your-pc-can-handle-vr](https://www.newegg.com/vr/guides/find-out-if-your-pc-can-handle-vr.html)
 - [how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility](https://www.roadtovr.com/how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility-tool/)
+- [Virtual Reality/Augmented Reality White Paper](https://www-file.huawei.com/-/media/CORPORATE/PDF/ilab/vr-ar-en.pdf)
 
 -------
 ------------
