@@ -928,6 +928,8 @@
 - [This virtual lab will revolutionize science class | Michael Bodekaer](https://www.youtube.com/watch?v=iF5-aDJOr6U)
 - [Why Microsoft Uses Virtual Reality Headsets To Train Workers](https://www.youtube.com/watch?v=Rnk_akgSjqg)
 - [Virtual and augmented reality for industrial use](https://www.youtube.com/watch?v=cfdBgJdFC6Q)
+- [Augmented reality in use for industry 4.0 and building technology](https://www.youtube.com/watch?v=UhW12bILH7U)
+- [VR in Education](https://www.youtube.com/watch?v=EXYzj6qwCCk)
 
 [Back to top](#contents)
 
