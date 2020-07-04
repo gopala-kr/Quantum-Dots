@@ -930,6 +930,9 @@
 - [Virtual and augmented reality for industrial use](https://www.youtube.com/watch?v=cfdBgJdFC6Q)
 - [Augmented reality in use for industry 4.0 and building technology](https://www.youtube.com/watch?v=UhW12bILH7U)
 - [VR in Education](https://www.youtube.com/watch?v=EXYzj6qwCCk)
+- [Augmented Reality App for Science education.](https://www.youtube.com/watch?v=nXa9FH5VJYc)
+- [Applications of AR/VR in Education and Industry 4.0](https://www.youtube.com/watch?v=EwdOjbBG9wY)
+- [AR & VR in Education (informational)](https://www.youtube.com/playlist?list=PLG3S1C61ls88kYNQR4u_3UXCdyt5M4pAF)
 
 [Back to top](#contents)
 
