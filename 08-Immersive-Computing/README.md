@@ -50,6 +50,11 @@
 - [The Dynamic Desktop (in the office of the future...)](https://www.youtube.com/watch?v=m9lZfnRrM4Y)
 - [Turn Any Table into a Touchscreen?](https://www.youtube.com/watch?v=g_tpXIZGeZw)
 
+------
+![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+--------
+![Virutal-Reality](https://www.tacton.com/wp-content/uploads/2020/03/Virutal-Reality.png)
+
 ------------
 
 #### AR Contact Lenses
@@ -70,8 +75,6 @@
 - [Smart Contact Lens: The Trillion Dollar Cyborg Revolution](https://www.youtube.com/watch?v=DHBrdtQBvhg)
 - [Can This Bionic Lens Give You Smart Vision?](https://www.youtube.com/watch?v=C7YycpxoKSw)
 - [How Contact Lenses Are Made For Movies | Movies Insider](https://www.youtube.com/watch?v=3Ydpwh1bAnI)
--------
-![MojoLensHistory_Jan2020_Final](https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2020/01/MojoLensHistory_Jan2020_Final.jpg)
 
 -----------------
 -----------
@@ -193,6 +196,15 @@
 
 - [Apple’s Next Big Thing: AR Glasses](https://www.youtube.com/watch?v=ilzOWzH-wHo)
 - [Apple AR Glasses (2020) - The NEXT iPhone!](https://www.youtube.com/watch?v=7PG0EUTHUIg)
+
+---------
+![Table](https://techsee.me/wp-content/uploads/2018/06/Table-1.jpg)
+-------------
+![hardware](https://mobidev.biz/wp-content/uploads/2020/01/augmented-reality-hardware-types.png)
+---------------
+![AR-Glasses-comparison](https://twnkls.com/wp-content/uploads/2019/02/AR-Glasses-comparison.png)
+-------
+![Comparison-of-Select-Consumer-Smartglasses](https://www.greenlightinsights.com/wp-content/uploads/2019/09/Comparison-of-Select-Consumer-Smartglasses.png)
 
 -----------
 ----------------
@@ -889,6 +901,9 @@
     - Entertainment Properties : In the entertainment industry, it's all about building a strong relationship with your branded characters and the audience. Properties like Harry Potter are immensely successful because readers of the books and watchers of the movies feel like they know the characters, and are hungry for additional content. Entertainment brands are now seeing AR as a great marketing opportunity to build deeper bonds between their characters and audience. As a matter of fact, the makers of AR sensation Pokemon Go are soon planning to release a Harry Potter-themed AR game that fans can interact with day in and day out.
 
     - Public Safety : In the event of an emergency today, people will immediately reach for their smartphone to find out what's going on, where to go, and whether their loved ones are safe.Moreover, first responders arrive on the scene of a fire or earthquake trying to figure out who needs help, and the best way to get them to safety. AR is showing promise in solving both pieces of the public safety puzzle. First responders wearing AR glasses can be alerted to danger areas, and show in real-time individuals that need assistance while enabling to still be aware of their surroundings. For those in need, geolocation enabled AR can show them directions, and the best route to, safe zones  and areas with firefighters or medics.
+    
+-----------
+![Healthcare-Innovation-Map-StartUs-Insights-1280-720](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/AR-Disrupts-Healthcare-Innovation-Map-StartUs-Insights-1280-720-noresize.png)
 
 ----------
 ---------
