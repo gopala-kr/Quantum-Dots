@@ -22,9 +22,7 @@
    - [VR Platform Comparison](#vr-platform-comparison)
    - [Quick Dev Setups Tutorials and Courses](#quick-dev-setups-tutorials-and-courses) - XR/MR/AR/VR/WebVR
  - [Immersive Tech Applications](#immersive-tech-applications)
- 
---------
-![mixedrealityspectrum](https://docs.microsoft.com/en-us/windows/mixed-reality/images/mixedrealityspectrum.png)
+
 
 ---------
 ------
@@ -352,12 +350,6 @@
 
 
 -----------
-![Oculus-Comparision](https://e6r6h4f7.stackpathcdn.com/wp-content/uploads/2019/06/Oculus-Comparision.png)
----------
-![vsndyk5ffgu01](https://i.redd.it/vsndyk5ffgu01.png)
----------
-![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
-----------
 
 - [Oculus](https://www.youtube.com/user/oculusvr) | [Oculus Products](https://www.oculus.com/compare/) | [Oculus Rift](https://www.oculus.com/rift/) | [Oculus Go](https://www.oculus.com/go/) | [Oculus Connect 5](https://www.oculusconnect.com/) | [Oculus stores](https://developer.oculus.com/distribute/)
 - [HTC VIVE](https://www.youtube.com/channel/UCnV5HYjb358rUDcAnrlxUkw) | [vive products](https://www.vive.com/eu/product/) | [Viveport Infinity](https://www.viveport.com/infinity)
@@ -376,6 +368,15 @@
 - [VR headsets coming in 2020](https://www.youtube.com/watch?v=WrxJR5s-Fts)
 - [The VR Headsets Of The Future](https://www.youtube.com/watch?v=F4XaQHuqZdc)
 - [The Future Tech Of Virtual Reality](https://www.youtube.com/watch?v=5cgZ6J5oE0g)
+
+[Back to top](#contents) 
+
+-------------
+![Oculus-Comparision](https://e6r6h4f7.stackpathcdn.com/wp-content/uploads/2019/06/Oculus-Comparision.png)
+---------
+![vsndyk5ffgu01](https://i.redd.it/vsndyk5ffgu01.png)
+---------
+![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
 
 -----------
 -----------------
