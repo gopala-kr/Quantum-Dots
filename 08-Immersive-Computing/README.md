@@ -56,12 +56,10 @@
 
 -----------
 ![conclusions_beliaev_kapanen_letina_kukk_szlosarczyk](https://elinahci.files.wordpress.com/2016/01/m7-conclusions_beliaev_kapanen_letina_kukk_szlosarczyk.png)
------
-![HMI](https://www.telstarinc.com/wp-content/uploads/2019/08/HMI-3.png)
 ----------
-![436951_1_En_12_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-64027-3_12/MediaObjects/436951_1_En_12_Fig1_HTML.gif)
---------
 ![n9yvzygF4QyHZoNplStGbQ](https://miro.medium.com/max/2082/1*n9yvzygF4QyHZoNplStGbQ.png)
+--------
+![436951_1_En_12_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-64027-3_12/MediaObjects/436951_1_En_12_Fig1_HTML.gif)
 --------
 ![287192309743616](https://www.researchgate.net/profile/Michael_Stevenson4/publication/283057149/figure/fig1/AS:287192309743616@1445483390397/Text-to-Visual-Evolution-of-Device-Interfaces-and-At-the-same-time-as-tablet-technology.png)
 -----------
@@ -210,8 +208,7 @@
 - [Apple’s Next Big Thing: AR Glasses](https://www.youtube.com/watch?v=ilzOWzH-wHo)
 - [Apple AR Glasses (2020) - The NEXT iPhone!](https://www.youtube.com/watch?v=7PG0EUTHUIg)
 
----------
-![Table](https://techsee.me/wp-content/uploads/2018/06/Table-1.jpg)
+
 -------------
 ![hardware](https://mobidev.biz/wp-content/uploads/2020/01/augmented-reality-hardware-types.png)
 ---------------
@@ -917,6 +914,8 @@
     
 -----------
 ![Healthcare-Innovation-Map-StartUs-Insights-1280-720](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/AR-Disrupts-Healthcare-Innovation-Map-StartUs-Insights-1280-720-noresize.png)
+
+[Back to top](#contents)
 
 ----------
 ---------
