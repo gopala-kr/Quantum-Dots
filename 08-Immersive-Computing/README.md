@@ -920,6 +920,7 @@
 - [The massive list of AR use cases | Sarah Downey | AR in Action](https://www.youtube.com/watch?v=JrZsmfA56Sw)
 - [Virtual Reality in Medicine: New Opportunities for Diagnostics and Surgical Planning](https://www.youtube.com/watch?v=AttXbcLUyR0)
 - [AR & IoT – Better Together! | Jim Heppelmann ](https://www.youtube.com/watch?v=U55ohh15oSE)
+- [AR Health Talks](https://www.youtube.com/playlist?list=PL8HF9ant0dNrtgk5ietzvRvVAPdgPKAKs)
 
 [Back to top](#contents)
 
