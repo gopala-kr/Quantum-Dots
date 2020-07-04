@@ -925,6 +925,9 @@
 - [How Augmented Reality Will Change Education Completely](https://www.youtube.com/watch?v=5AjxGqzqQ54)
 - [The Challenges & Opportunities of Augmented Reality](https://www.youtube.com/watch?v=truf7fgJSww)
 - [This is Real - Immersive VR Education](https://www.youtube.com/watch?v=hrpytToK67E)
+- [This virtual lab will revolutionize science class | Michael Bodekaer](https://www.youtube.com/watch?v=iF5-aDJOr6U)
+- [Why Microsoft Uses Virtual Reality Headsets To Train Workers](https://www.youtube.com/watch?v=Rnk_akgSjqg)
+- [Virtual and augmented reality for industrial use](https://www.youtube.com/watch?v=cfdBgJdFC6Q)
 
 [Back to top](#contents)
 
