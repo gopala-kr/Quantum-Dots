@@ -935,6 +935,23 @@
 - [AR & VR in Education (informational)](https://www.youtube.com/playlist?list=PLG3S1C61ls88kYNQR4u_3UXCdyt5M4pAF)
 - [VR/AR in Space: The Next Space Revolution?](https://www.youtube.com/watch?v=xGL9y7VKLcE)
 - [VRLA 2018 - Discovering New Worlds: Using VR/MR/AR For Space Exploration](https://www.youtube.com/watch?v=Ms34M1SxK_8)
+- [Take a Virtual Reality tour of six REAL exoplanets (4K, 360° VR experience) | We The Curious](https://www.youtube.com/watch?v=qhLExhpXX0E)
+- [AR for Space Exploration](https://www.youtube.com/watch?v=uEzvLDGk0Jc)
+- [A 3D atlas of the universe - Carter Emmart](https://www.youtube.com/watch?v=MlOjSQeO1Dg)
+- [Nathaniel Guy (NASA Jet Propulsion Laboratory): Using AR/VR to Augment Space Exploration](https://www.youtube.com/watch?v=nvq7djFWIgo)
+- [Journey To The Edge Of Space (360 Video)](https://www.youtube.com/watch?v=pCve1w1GFOs)
+- [Cool VR walk on the moon with NASA](https://www.youtube.com/watch?v=6OTl86BkPTs)
+- [First-Ever 3D VR Filmed in Space | One Strange Rock](https://www.youtube.com/watch?v=dwHBpykTloY)
+- [Visualizing Space Exploration: AR, VR & Emerging Tech (live public talk)](https://www.youtube.com/watch?v=Xv_9C5Mms4w) - (Scheduled for Sep 18, 2020) :star:
+- [Panel: SpaceNext: VR/AR/AI reshape the future of space exploration](https://www.youtube.com/watch?v=QIKHRpaBGfg)
+- [NASA Space Mug AR Experience](https://www.youtube.com/watch?v=T-4f0ru9p7E)
+- [NASA Augmented Reality SpaceCraft 3D App](https://www.youtube.com/watch?v=-K7Erx244Hk) | [NASA's Spacecraft 3D Augmented Reality App](https://www.youtube.com/watch?v=QHpp7nfoECg)
+- [Immersive Space Exploration](https://www.youtube.com/watch?v=UyqjmrPrJ8s)
+- [Space Engine in Immersive 360 Video](https://www.youtube.com/watch?v=mK8CZW6jxy8)
+- [AR Solar System Exploration - Alien Dimension](https://www.youtube.com/watch?v=ed0G3UQX-EU)
+- [Virtual Reality in Space? | Ask Peter | Google Lunar XPRIZE](https://www.youtube.com/watch?v=erWRcraZQEg)
+- [AR in Use: NASA’s Dragonfly Mission to Titan](https://www.youtube.com/watch?v=peNm2bgS7oM)
+- [Detached VR Gameplay on HTC Vive - Amazing Space Exploration game in Virtual Reality!](https://www.youtube.com/watch?v=XnbgNvaBxSc)
 
 [Back to top](#contents)
 
