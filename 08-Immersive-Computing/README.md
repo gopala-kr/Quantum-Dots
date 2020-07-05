@@ -460,6 +460,10 @@
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
 - [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
 - [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
+- [WebVR and the Browser Edge Computing Revolution](https://www.toptal.com/virtual-reality/webvr-and-edge-computing)
+- [Learn VR Development: Tips, tricks, and guides to develop VR and AR applications](https://circuitstream.com/blog/programming-development-guides/)
+- [Learn Virtual Reality Development](https://www.reddit.com/r/learnVRdev/)
+
 ------------
 
 ##### AR SDK Comparison
@@ -934,6 +938,18 @@
 - [Augmented Reality App for Science education.](https://www.youtube.com/watch?v=nXa9FH5VJYc)
 - [Applications of AR/VR in Education and Industry 4.0](https://www.youtube.com/watch?v=EwdOjbBG9wY)
 - [AR & VR in Education (informational)](https://www.youtube.com/playlist?list=PLG3S1C61ls88kYNQR4u_3UXCdyt5M4pAF)
+
+-----------
+- [Eleven examples of how WebVR is being used today](https://medium.com/samsung-internet-dev/eleven-examples-of-how-webvr-is-being-used-today-cbcb214b816c)
+- [webxr-samples](https://immersive-web.github.io/webxr-samples/)
+- [https://webvr.info/samples/](https://webvr.info/samples/)
+- [Google: Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
+- [Examples of WebVR](https://www.awwwards.com/websites/webvr/)
+- [Examples of VR](https://www.awwwards.com/websites/vr/)
+- [10 VR Marketing Examples to Inspire You in 2020](https://blog.hubspot.com/marketing/vr-marketing-examples)
+- [WebVR Demo: Creating a Public Speaking VR Scenario for Browsers](https://virtualspeech.com/blog/webvr-public-speaking-demo-vr)
+-------------
+
 - [VR/AR in Space: The Next Space Revolution?](https://www.youtube.com/watch?v=xGL9y7VKLcE)
 - [VRLA 2018 - Discovering New Worlds: Using VR/MR/AR For Space Exploration](https://www.youtube.com/watch?v=Ms34M1SxK_8)
 - [Take a Virtual Reality tour of six REAL exoplanets (4K, 360° VR experience) | We The Curious](https://www.youtube.com/watch?v=qhLExhpXX0E)
@@ -975,6 +991,7 @@
 - [NASA's Curiosity Mars Rover at Namib Dune (360 view)](https://www.youtube.com/watch?v=ME_T4B1rxCg)
 - [Hybrid Reality: A New Frontier of Space Exploration - Matthew Noyes, NASA](https://www.youtube.com/watch?v=ybHmN_LGlfU)
 - [NASA's Virtual Reality Laboratory](https://www.youtube.com/watch?v=LHbhVJ_nP68)
+--------------
 
 [Back to top](#contents)
 
