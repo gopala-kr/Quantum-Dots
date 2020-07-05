@@ -401,6 +401,15 @@
 ![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
 ------------
 ![vr_acuity](http://ramakarl.com/imgs/vr_acuity.jpg)
+
+---------
+![VR-Chart-Final1-1024x759](https://www.abelcine.com/uploaded/articlemodel/VR/VR-Chart-Final1-1024x759.jpg)
+-------
+![Qv2tSnf](https://i.imgur.com/Qv2tSnf.png)
+--------
+![F7bewzVWneh9BlB8](https://miro.medium.com/max/2400/0*F7bewzVWneh9BlB8.png)
+------------
+![Pilot-era-spec-comparison](https://dronedj.com/wp-content/uploads/sites/2/2019/05/Pilot-era-spec-comparison.png?w=695)
 -----------
 -----------------
 
@@ -475,6 +484,7 @@
 - [Announcing the world’s first brain-computer interface for virtual reality](https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607)
 - [MRTK: Open-Source Building Blocks for Windows Mixed Reality Experiences](https://medium.com/@dongyoonpark/open-source-building-blocks-for-windows-mixed-reality-experiences-hololens-mixedrealitytoolkit-28a0a16ebb61)
 - [WebXR - the new Web](https://thinkuldeep.github.io/post/webxr-the-new-web/) | [https://thinkuldeep.github.io/post](https://thinkuldeep.github.io/post) : star:
+- [How is ARCore better than ARKit?](https://medium.com/6d-ai/how-is-arcore-better-than-arkit-5223e6b3e79d)
 
 -------------
 
