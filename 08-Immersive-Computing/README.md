@@ -201,7 +201,7 @@
 - [Spectacles by Snapchat](https://www.spectacles.com/in/)
 - [Echo Frames: Eyeglasses with Alexa](https://www.youtube.com/watch?v=gmVgPF4ofsE)
 - [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
-- More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
+- More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses) | [The Growing List of XR Devices](https://medium.com/xrpractices/the-growing-list-of-xr-devices-f102262e4a58)
 
 > [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021(not official)
 
@@ -472,6 +472,9 @@
 - [Inborn Experience : User Experience in Augmented and Virtual Reality](https://medium.com/inborn-experience) :star:
 - [why-is-arkit-better-than-the-alternatives](https://medium.com/6d-ai/why-is-arkit-better-than-the-alternatives-af8871889d6a)
 - [Immersive Design: The Next 10 Years of Interfaces](https://uxdesign.cc/immersive-design-the-next-10-years-of-interfaces-16122cb6eae6)
+- [Announcing the world’s first brain-computer interface for virtual reality](https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607)
+- [MRTK: Open-Source Building Blocks for Windows Mixed Reality Experiences](https://medium.com/@dongyoonpark/open-source-building-blocks-for-windows-mixed-reality-experiences-hololens-mixedrealitytoolkit-28a0a16ebb61)
+- [WebXR - the new Web](https://thinkuldeep.github.io/post/webxr-the-new-web/) | [https://thinkuldeep.github.io/post](https://thinkuldeep.github.io/post) : star:
 
 -------------
 
