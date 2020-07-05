@@ -109,6 +109,8 @@
      - Microsoft Visual Studio is an IDE that can be used to develop applications (both 2D and 3D) for HoloLens. Applications can be tested using HoloLens emulator (included into Visual Studio 2015 IDE) or HoloLens Development Edition.
      
      
+-----------------------
+
      Microsoft doesn’t officially announced the technical specification of HoloLens. But, as expected there may be: 
      • CPU: Intel Atom Cherry Trail 2.7GHz 
      • GPU : Intel Atom Cherry Trail 2.7 GHz 
@@ -124,6 +126,7 @@
 - [Augmented Reality with Hololens:  Experiential Architectures Embedded in the RealWorld](https://arxiv.org/pdf/1610.04281.pdf)
 - [HOLOLENS 2 - Hands-On and First Impressions](https://www.youtube.com/watch?v=KvunJrK_IjM)
 - [HoloLens 2 AR Headset: On Stage Live Demonstration](https://www.youtube.com/watch?v=uIHPPtPBgHk) :star:
+- [How The HoloLens 2 Works, Explained By Microsoft's Alex Kipman](https://www.youtube.com/watch?v=S0fEh4UdtT8)
 - [The dawn of the age of holograms | Alex Kipman](https://www.youtube.com/watch?v=1cQbMP3I5Sk)
 - [Microsoft HoloLens Channel](https://www.youtube.com/c/MicrosoftHoloLens/playlists)
 - [HoloLens - Development Tools](https://docs.microsoft.com/en-us/windows/mixed-reality/development) | [Microsoft HoloLens: Developer Information](https://www.youtube.com/playlist?list=PLZCHH_4VqpRhwzNjMBHJOcfdMhYZzC0K2)
@@ -399,17 +402,12 @@
 ![vsndyk5ffgu01](https://i.redd.it/vsndyk5ffgu01.png)
 ---------
 ![6wc11k07r7341](https://i.redd.it/6wc11k07r7341.jpg)
-------------
-![vr_acuity](http://ramakarl.com/imgs/vr_acuity.jpg)
-
----------
-![VR-Chart-Final1-1024x759](https://www.abelcine.com/uploaded/articlemodel/VR/VR-Chart-Final1-1024x759.jpg)
 -------
 ![Qv2tSnf](https://i.imgur.com/Qv2tSnf.png)
 --------
 ![F7bewzVWneh9BlB8](https://miro.medium.com/max/2400/0*F7bewzVWneh9BlB8.png)
 ------------
-![Pilot-era-spec-comparison](https://dronedj.com/wp-content/uploads/sites/2/2019/05/Pilot-era-spec-comparison.png?w=695)
+![vr_acuity](http://ramakarl.com/imgs/vr_acuity.jpg)
 -----------
 -----------------
 
@@ -488,7 +486,7 @@
 
 -------------
 
-###### WebVR Browser Support
+###### WebVR/XR Browser Support
 
 ![webvr-support](https://www.w3.org/2018/Talks/dhm-webxr-mws/webvr-support.png)
 
@@ -908,9 +906,6 @@
 ------------------
 ![2108-VR_AR-value-chain](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-value-chain.jpg)
 
--------------
-![EX03_1](https://www.deltapartnersgroup.com/sites/default/files/EX03_1.png)
-
 --------------
 
     VR Use Cases : 
@@ -957,8 +952,34 @@
     
 ---------------
 - [VR Applications: 21 Industries already using Virtual Reality](https://virtualspeech.com/blog/vr-applications)
-
+- [10 Real Use Cases for Augmented Reality](https://www.inc.com/james-paine/10-real-use-cases-for-augmented-reality.html)
 --------------
+ - [AR/VR Data Visualization Takes on Big Data](https://www.nanalyze.com/2020/02/arvr-data-visualization/)
+ - [Data visualization via VR and AR: How we'll interact with tomorrow's data](https://www.zdnet.com/article/data-visualization-via-vr-and-ar-how-well-interact-with-tomorrows-data/)
+ - [IBM Immersive Data: Augmented Reality for data visualization.](https://medium.com/design-ibm/ibm-immersive-data-augmented-reality-for-data-visualization-898587b2a57c)
+ - [Data Visualization in Virtual Reality](https://towardsdatascience.com/data-visualization-in-virtual-reality-32408475b66)
+ - [Big Data Visualization: How AR and VR Is Transforming Data Interpretation](https://www.datasciencecentral.com/profiles/blogs/big-data-visualization-how-ar-and-vr-is-transforming-data)
+ - [Who’s Offering Data Visualization VR?](http://datavizcatalogue.com/blog/whos-offering-data-visualization-vr/)
+ - [AR, VR, and IoT: Data Visualization](https://vividcomm.com/2016/02/29/ar-vr-and-iot-data-visualization/)
+ - [Immersive Data Visualization: AR in the Workplace](https://www.gdcvault.com/play/1023907/Immersive-Data-Visualization-AR-in)
+ - [https://cognitive3d.com/](https://cognitive3d.com/)
+ - [Why VR? The Many Benefits of Immersive Data Analysis](https://medium.com/badvr/why-vr-the-many-benefits-of-immersive-data-analysis-a8590f7b4284)
+ - [Immersive Data Visualization in the Enterprise | Bob Levy | ARIA 2020](https://www.youtube.com/watch?v=L77wqawOemw)
+ - [IBM Immersive Data](https://www.youtube.com/watch?v=6Nni5ywbEqo)
+ - [Explore Your Data with Augmented Reality Visualizations in IBM Immersive Insights](https://www.youtube.com/watch?v=rj-m2SItDl4)
+ - [A.I. Experiments: Visualizing High-Dimensional Space](https://www.youtube.com/watch?v=wvsE8jm1GzE)
+ - [Immersive Data Visualization Using Spark](https://www.youtube.com/watch?v=HGnw_jHAiCg)
+ - [Immersive Data Visualization: Moving From "Wow" To How | John Horcher | AR in ACTION](https://www.youtube.com/watch?v=PV8fvXwurI0)
+ - [Virtualitics Immersive Platform - Quick Demo](https://www.youtube.com/watch?v=SnkUbUJd_kU)
+ - [Virtualitics Webinar - Introduction to our platform and our API](https://www.youtube.com/watch?v=p58Lysfv4FY)
+ - [VR Data Analytics with LookVR](https://www.youtube.com/watch?v=u76ww3NJFgE)
+ - [See the power of Immersive Data Visualization - Two minutes captured in the Boardroom](https://www.youtube.com/watch?v=3iIhXEsaV5g)
+ - [Immersive Analytics Beyond Visualization](https://www.youtube.com/watch?v=4giuEQ60qiE)
+ - [Data-visualization in VR](https://www.youtube.com/playlist?list=PL9wQWWGAS7kSL855XOF-WZpFdrWU0iHpz)
+ - [Immersive Data Visualization: Design Challenges in AR](https://www.youtube.com/watch?v=muQ_8QyBYVg)
+ - [Project NEO: Virtual Reality Data Visualization for Machine Learning](https://www.youtube.com/watch?v=myI4P9C34A0)
+  
+----------------
 
 - [10 Mind Blowing Uses For Virtual Reality](https://www.youtube.com/watch?v=pDfu2j1XlNE)
 - [Augmented Reality Use Cases For Enterprises and Consumers ](https://www.youtube.com/watch?v=6MhBHNlKTCU)
@@ -976,6 +997,7 @@
 - [Virtual and augmented reality for industrial use](https://www.youtube.com/watch?v=cfdBgJdFC6Q)
 - [Augmented reality in use for industry 4.0 and building technology](https://www.youtube.com/watch?v=UhW12bILH7U)
 - [VR in Education](https://www.youtube.com/watch?v=EXYzj6qwCCk)
+- [Citi HoloLens Holographic Workstation](https://www.youtube.com/watch?v=0NogltmewmQ)
 - [Augmented Reality App for Science education.](https://www.youtube.com/watch?v=nXa9FH5VJYc)
 - [Applications of AR/VR in Education and Industry 4.0](https://www.youtube.com/watch?v=EwdOjbBG9wY)
 - [AR & VR in Education (informational)](https://www.youtube.com/playlist?list=PLG3S1C61ls88kYNQR4u_3UXCdyt5M4pAF)
@@ -1038,6 +1060,9 @@
 
 --------------
 ![AR-VR-Leaders-Q1-2020-1536x864](https://www.digi-capital.com/news/wp-content/uploads/2020/02/AR-VR-Leaders-Q1-2020-1536x864.png)
+
+[Source](https://www.digi-capital.com/news/2020/02/apple-facebook-microsoft-augmented-reality-forecast/) | [VR/AR startup valuations reach $45 billion (on paper)](https://techcrunch.com/2019/10/18/vr-ar-startup-valuations-reach-45-billion-on-paper/)
+
 ------------
 ![2108-VR_AR-tech-maturity-road-map](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-tech-maturity-road-map.jpg)
 --------------
