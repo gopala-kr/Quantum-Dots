@@ -458,11 +458,26 @@
 --------
 
 - [How To Hire VR Developers – The Ultimate Checklist](https://www.devteam.space/blog/how-to-hire-vr-developers-the-ultimate-checklist/)
+- [How to Become a VR Developer](https://medium.com/@OmniVirt/how-to-become-a-vr-developer-8b160339abbd)
 - [Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96)
 - [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev)
 - [WebVR and the Browser Edge Computing Revolution](https://www.toptal.com/virtual-reality/webvr-and-edge-computing)
 - [Learn VR Development: Tips, tricks, and guides to develop VR and AR applications](https://circuitstream.com/blog/programming-development-guides/)
 - [Learn Virtual Reality Development](https://www.reddit.com/r/learnVRdev/)
+- [13 of the Best Funding Resources to Check Out to Finance Your VR/AR Idea](https://circuitstream.com/blog/vr-ar-funding/)
+- [The Complete Guide to Virtual Reality and the VR Industry](https://virtualspeech.com/blog/complete-guide-to-virtual-reality)
+- [A Guide To Virtual Reality For Web Developers](https://www.smashingmagazine.com/2017/09/guide-virtual-reality-web-developers/) :star:
+- [Bring Virtual Reality to Your Browser with React VR](https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1)
+- [How To Build an App for the Oculus Go From Start To Finish (with Unity)](https://medium.com/inborn-experience/how-to-build-an-app-for-the-oculus-go-from-start-to-finish-with-unity-cb72d931ddae)
+- [Inborn Experience : User Experience in Augmented and Virtual Reality](https://medium.com/inborn-experience) :star:
+- [why-is-arkit-better-than-the-alternatives](https://medium.com/6d-ai/why-is-arkit-better-than-the-alternatives-af8871889d6a)
+- [Immersive Design: The Next 10 Years of Interfaces](https://uxdesign.cc/immersive-design-the-next-10-years-of-interfaces-16122cb6eae6)
+
+-------------
+
+###### WebVR Browser Support
+
+![webvr-support](https://www.w3.org/2018/Talks/dhm-webxr-mws/webvr-support.png)
 
 ------------
 
@@ -814,6 +829,7 @@
 - [Unreal Engine](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaayAggreigehbNJubT4kMy)
 - [Unity vs Unreal | Graphics Comparison](https://www.youtube.com/watch?v=S2eXK025uC4)
 - [Unity & ARCore](https://www.youtube.com/playlist?list=PL6VJLOFcTt7adiGpGlkDykUTkxvRHjZJ2)
+- [https://learn.vrdev.school/](https://learn.vrdev.school/)
 - [Learn Unity's AR Foundation](https://www.youtube.com/watch?v=FGh7f-PaGQc)
 - [3D, VR and AR on the web (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=wPfODr2e5Xw)
 - [HoloLens Development](https://www.youtube.com/playlist?list=PL6VJLOFcTt7YxVfRyig97UORrF6VL_zur)
@@ -866,6 +882,7 @@
 - [NPTEL IIT Madras](https://nptel.ac.in/courses/106106138/)
 - [Prepare for Unity Certification](https://www.linkedin.com/learning/paths/prepare-for-unity-certification)
 - [Master AR/VR with Unreal](https://www.linkedin.com/learning/paths/master-ar-vr-with-unreal)
+- [Your Definitive Guide To Oculus & Unity’s All-In-One VR Development Course](https://vrscout.com/news/unity-oculus-vr-development-course-guide/)
 
 ----------
 -------------
@@ -918,6 +935,9 @@
     - Public Safety : In the event of an emergency today, people will immediately reach for their smartphone to find out what's going on, where to go, and whether their loved ones are safe.Moreover, first responders arrive on the scene of a fire or earthquake trying to figure out who needs help, and the best way to get them to safety. AR is showing promise in solving both pieces of the public safety puzzle. First responders wearing AR glasses can be alerted to danger areas, and show in real-time individuals that need assistance while enabling to still be aware of their surroundings. For those in need, geolocation enabled AR can show them directions, and the best route to, safe zones  and areas with firefighters or medics.
     
 ---------------
+- [VR Applications: 21 Industries already using Virtual Reality](https://virtualspeech.com/blog/vr-applications)
+
+--------------
 
 - [10 Mind Blowing Uses For Virtual Reality](https://www.youtube.com/watch?v=pDfu2j1XlNE)
 - [Augmented Reality Use Cases For Enterprises and Consumers ](https://www.youtube.com/watch?v=6MhBHNlKTCU)
@@ -948,6 +968,7 @@
 - [Examples of VR](https://www.awwwards.com/websites/vr/)
 - [10 VR Marketing Examples to Inspire You in 2020](https://blog.hubspot.com/marketing/vr-marketing-examples)
 - [WebVR Demo: Creating a Public Speaking VR Scenario for Browsers](https://virtualspeech.com/blog/webvr-public-speaking-demo-vr)
+- [360-video-case-study](https://www.omnivirt.com/360-video-case-study/)
 -------------
 
 - [VR/AR in Space: The Next Space Revolution?](https://www.youtube.com/watch?v=xGL9y7VKLcE)
