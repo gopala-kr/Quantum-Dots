@@ -905,6 +905,14 @@
 
 [Back to top](#contents)
 
+------------------
+![2108-VR_AR-value-chain](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-value-chain.jpg)
+
+-------------
+![EX03_1](https://www.deltapartnersgroup.com/sites/default/files/EX03_1.png)
+
+--------------
+
     VR Use Cases : 
 
     - It can help to create engaging games.
@@ -1025,6 +1033,13 @@
 - [NASA's Curiosity Mars Rover at Namib Dune (360 view)](https://www.youtube.com/watch?v=ME_T4B1rxCg)
 - [Hybrid Reality: A New Frontier of Space Exploration - Matthew Noyes, NASA](https://www.youtube.com/watch?v=ybHmN_LGlfU)
 - [NASA's Virtual Reality Laboratory](https://www.youtube.com/watch?v=LHbhVJ_nP68)
+
+[Back to top](#contents)
+
+--------------
+![AR-VR-Leaders-Q1-2020-1536x864](https://www.digi-capital.com/news/wp-content/uploads/2020/02/AR-VR-Leaders-Q1-2020-1536x864.png)
+------------
+![2108-VR_AR-tech-maturity-road-map](https://www.lek.com/sites/default/files/colorbox-images/2108-VR_AR-tech-maturity-road-map.jpg)
 --------------
 
 [Back to top](#contents)
