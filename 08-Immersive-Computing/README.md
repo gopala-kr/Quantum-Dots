@@ -826,6 +826,7 @@
 - [Physical and Immersed – Diego Gonzalez & Peter O'Shaughnessy](https://www.youtube.com/watch?v=69_VdISXoRE&feature=emb_title)
 - [The future of the web is immersive](https://www.youtube.com/watch?v=1t1gBVykneA&feature=emb_title)
 - [What's new in AR (Google I/O '18)](https://www.youtube.com/watch?v=MeZcQguH124) | [(Google I/O'19)](https://www.youtube.com/watch?v=pdRpCJ5acrA) | [VR and AR at Google ](https://www.youtube.com/watch?v=tto90e-DfeM)
+- [Best practices to design AR applications (Google I/O '18)](https://www.youtube.com/watch?v=bNJJCREZgVM)
 - [Easily code a virtual reality web experience with A-Frame (WebVR)](https://www.youtube.com/watch?v=jhEfT9YjLcU)
 - [Build the Virtual Reality Web with A-Frame](https://www.youtube.com/watch?v=f2pu-oMspLs)
 - [Developing the First AR Experience for Google Maps (Google I/O'19)](https://www.youtube.com/watch?v=14wedZy90Tw)
@@ -952,6 +953,13 @@
 - [Virtual Reality in Space? | Ask Peter | Google Lunar XPRIZE](https://www.youtube.com/watch?v=erWRcraZQEg)
 - [AR in Use: NASA’s Dragonfly Mission to Titan](https://www.youtube.com/watch?v=peNm2bgS7oM)
 - [Detached VR Gameplay on HTC Vive - Amazing Space Exploration game in Virtual Reality!](https://www.youtube.com/watch?v=XnbgNvaBxSc)
+- [Augmented (AR) reality space science experiments](https://www.youtube.com/watch?v=hgxY6rMBASs)
+- [Can Virtual Reality Change Your Mind? | Thong Nguyen | TEDxMinneapolis](https://www.youtube.com/watch?v=eFHj8OVC1_s)
+- [How MIT Builds Cities Using Lego and Augmented Reality | Science of Teams | WIRED](https://www.youtube.com/watch?v=AIuqJWcSKxc) :star:
+- [Apollo's Moon Shot AR](https://www.youtube.com/watch?v=RlQ5bErWXvo)
+- [Traveling Through Space in VR | How I Work](https://www.youtube.com/watch?v=mxdMFEll3j0)
+- [Amazing Space Journey AR](https://www.youtube.com/watch?v=zg9ExZu8yRk)
+- [Teach Augmented Reality History, Geologogy and Astronomy](https://www.youtube.com/watch?v=SRNWbQsO17s)
 
 [Back to top](#contents)
 
