@@ -218,6 +218,14 @@
 ![AR-Glasses-comparison](https://twnkls.com/wp-content/uploads/2019/02/AR-Glasses-comparison.png)
 -------
 ![Comparison-of-Select-Consumer-Smartglasses](https://www.greenlightinsights.com/wp-content/uploads/2019/09/Comparison-of-Select-Consumer-Smartglasses.png)
+--------
+
+ [Who will own the metaverse?](https://medium.com/digital-catapult/who-will-own-the-metaverse-48c2912d7aae)
+ 
+![PjN7IzCl1_rto2UNg71lVw](https://miro.medium.com/max/1400/1*PjN7IzCl1_rto2UNg71lVw.jpeg)
+
+----------
+![thaB_Onzch82Nyn3BvtnVA](https://miro.medium.com/max/1400/1*thaB_Onzch82Nyn3BvtnVA.jpeg)
 
 -----------
 ----------------
@@ -481,7 +489,7 @@
 - [Immersive Design: The Next 10 Years of Interfaces](https://uxdesign.cc/immersive-design-the-next-10-years-of-interfaces-16122cb6eae6)
 - [Announcing the world’s first brain-computer interface for virtual reality](https://medium.com/neurable/announcing-the-worlds-first-brain-computer-interface-for-virtual-reality-a3110db62607)
 - [MRTK: Open-Source Building Blocks for Windows Mixed Reality Experiences](https://medium.com/@dongyoonpark/open-source-building-blocks-for-windows-mixed-reality-experiences-hololens-mixedrealitytoolkit-28a0a16ebb61)
-- [WebXR - the new Web](https://thinkuldeep.github.io/post/webxr-the-new-web/) | [https://thinkuldeep.github.io/post](https://thinkuldeep.github.io/post) : star:
+- [WebXR - the new Web](https://thinkuldeep.github.io/post/webxr-the-new-web/) | [https://thinkuldeep.github.io/post](https://thinkuldeep.github.io/post) :star:
 - [How is ARCore better than ARKit?](https://medium.com/6d-ai/how-is-arcore-better-than-arkit-5223e6b3e79d)
 
 -------------
