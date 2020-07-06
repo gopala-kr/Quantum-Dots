@@ -1071,6 +1071,10 @@
 - [Hybrid Reality: A New Frontier of Space Exploration - Matthew Noyes, NASA](https://www.youtube.com/watch?v=ybHmN_LGlfU)
 - [NASA's Virtual Reality Laboratory](https://www.youtube.com/watch?v=LHbhVJ_nP68)
 
+-----------
+- [The Future of Youtube: Internet Balloons, AR Stories, and Audience Gaming](https://www.youtube.com/watch?v=cHEfDV8VyDk)
+- [Open AR Cloud](https://www.youtube.com/channel/UCI_a22gRQ28JjcjlmwwJ34A) | [AR-cloud](https://www.youtube.com/playlist?list=PLLJU2kC7-_rFN563R7bR4p0ngh5Sgc2Yx) | [AR Cloud](https://www.youtube.com/playlist?list=PLH657_ZWzWHcFgaaml8PxbFdmNhHn_D6Y)
+
 [Back to top](#contents)
 
 --------------
