@@ -989,7 +989,7 @@
   
 ----------------
 
-- [10 Mind Blowing Uses For Virtual Reality](https://www.youtube.com/watch?v=pDfu2j1XlNE)
+- [10 Uses For Virtual Reality](https://www.youtube.com/watch?v=pDfu2j1XlNE)
 - [Augmented Reality Use Cases For Enterprises and Consumers ](https://www.youtube.com/watch?v=6MhBHNlKTCU)
 - [The Future of Virtual Reality | Phil Kauffold](https://www.youtube.com/watch?v=d-HRgfJbPvk)
 - [The massive list of AR use cases | Sarah Downey | AR in Action](https://www.youtube.com/watch?v=JrZsmfA56Sw)
