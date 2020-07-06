@@ -65,6 +65,15 @@
 -----------
 ![cogntive-search](https://benjamindubuc.com/wp-content/uploads/2018/05/cogntive-search.png)
 
+----------
+
+![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
+
+-------
+![future-of-xr-qualcomm-1024x576](https://voicesofvr.com/wp-content/uploads/2018/10/future-of-xr-qualcomm-1024x576.jpg)
+------------
+![DIjQuktXkAE9GXM](https://pbs.twimg.com/media/DIjQuktXkAE9GXM.png)
+
 ------
 ------------
 
@@ -430,6 +439,11 @@
 - [find-out-if-your-pc-can-handle-vr](https://www.newegg.com/vr/guides/find-out-if-your-pc-can-handle-vr.html)
 - [how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility](https://www.roadtovr.com/how-to-tell-pc-virtual-reality-vr-oculus-rift-htc-vive-steam-vr-compatibility-tool/)
 - [Virtual Reality/Augmented Reality White Paper](https://www-file.huawei.com/-/media/CORPORATE/PDF/ilab/vr-ar-en.pdf)
+- [The state of immersive technology research: A literature analysis](https://www.academia.edu/36969697/The_state_of_immersive_technology_research_A_literature_analysis)
+- [Understanding Virtual Reality Technology: Advances and Applications](https://www.researchgate.net/publication/221911335_Understanding_Virtual_Reality_Technology_Advances_and_Applications)
+- [A Survey of Augmented Reality](https://www.cs.unc.edu/~azuma/ARpresence.pdf)
+- [State of the Art of Virtual Reality Technologies](https://www.researchgate.net/publication/297760223_State_of_the_Art_of_Virtual_Reality_Technologies)
+- [2020-AR-VR-Survey](https://www.perkinscoie.com/images/content/2/3/231654/2020-AR-VR-Survey-v3.pdf)
 
 -------
 ------------
