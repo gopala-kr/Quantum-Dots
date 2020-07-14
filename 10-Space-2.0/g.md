@@ -4,8 +4,6 @@
 - [Quest for Performance: The Evolution of Modern Aircraft](https://www.hq.nasa.gov/office/pao/History/SP-468/contents.htm)
 - [Defence: 100 ](https://people.defensenews.com/top-100/)
 
----------------------
-![101](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/101.jpg)
 ---------
 ![102](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/102.jpg)
 ------
@@ -20,8 +18,6 @@
 ![107](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/107.jpg)
 ------
 ![108](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/108.jpg)
-------
-![109](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/109.jpg)
 
 ------------
 -------------
