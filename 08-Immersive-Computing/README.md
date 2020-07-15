@@ -206,8 +206,9 @@
 - [Spectacles by Snapchat](https://www.spectacles.com/in/)
 - [Echo Frames: Eyeglasses with Alexa](https://www.youtube.com/watch?v=gmVgPF4ofsE)
 - [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
+- [JioGlass](https://www.livemint.com/technology/tech-news/reliance-jio-announces-new-jio-glass-for-3d-interactions-holographic-content-11594804266212.html) - Announced during [Reliance AGM 2020](https://www.youtube.com/watch?v=k0b0miKViYg)  event - 15/07/2020
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses) | [The Growing List of XR Devices](https://medium.com/xrpractices/the-growing-list-of-xr-devices-f102262e4a58)
-- [JioGlass](https://www.livemint.com/technology/tech-news/reliance-jio-announces-new-jio-glass-for-3d-interactions-holographic-content-11594804266212.html) - [Reliance AGM 2020](https://www.youtube.com/watch?v=k0b0miKViYg)
+
 
 > [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021(not official)
 
