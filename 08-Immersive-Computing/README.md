@@ -207,6 +207,7 @@
 - [Echo Frames: Eyeglasses with Alexa](https://www.youtube.com/watch?v=gmVgPF4ofsE)
 - [Nreal(2020)](https://www.youtube.com/channel/UCs8BFKYBBfEE6Sfj7zh9kOA/featured) | https://www.nreal.ai/
 - More - [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses) | [The Growing List of XR Devices](https://medium.com/xrpractices/the-growing-list-of-xr-devices-f102262e4a58)
+- [JioGlass](https://www.livemint.com/technology/tech-news/reliance-jio-announces-new-jio-glass-for-3d-interactions-holographic-content-11594804266212.html) - [Reliance AGM 2020](https://www.youtube.com/watch?v=k0b0miKViYg)
 
 > [wait.. wait.. there is one more thing](https://www.youtube.com/watch?v=in9SX3enCHU) - Apple AR Glasses - expected release - 2021(not official)
 
@@ -1074,6 +1075,7 @@
 -----------
 - [The Future of Youtube: Internet Balloons, AR Stories, and Audience Gaming](https://www.youtube.com/watch?v=cHEfDV8VyDk)
 - [Open AR Cloud](https://www.youtube.com/channel/UCI_a22gRQ28JjcjlmwwJ34A) | [AR-cloud](https://www.youtube.com/playlist?list=PLLJU2kC7-_rFN563R7bR4p0ngh5Sgc2Yx) | [AR Cloud](https://www.youtube.com/playlist?list=PLH657_ZWzWHcFgaaml8PxbFdmNhHn_D6Y)
+- [AR MR XR](https://www.youtube.com/channel/UC66ZSEhDvls9BKGyM_ytQdw)
 
 [Back to top](#contents)
 
