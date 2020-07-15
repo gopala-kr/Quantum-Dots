@@ -16,8 +16,7 @@
 ![107](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/107.jpg)
 ------
 ![108](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/108.jpg)
------------
-![12658](https://cdn.statcdn.com/Infographic/images/normal/12658.jpeg)
+
 
 ---------------
 ------------------------
@@ -70,10 +69,10 @@
  
       The major manufacturers with airliners currently in production include:
 
-      - Airbus (France/Germany/Spain/United Kingdom)
+      - Airbus (France/Germany/Spain/United Kingdom) - [Q1-2020](https://www.airbus.com/newsroom/press-releases/en/2020/04/airbus-reports-first-quarter-q1-2020-results.html)
       - Antonov (Ukraine)
       - ATR Aircraft (France/Italy)
-      - Boeing (United States)
+      - Boeing (United States) - [Q1-2020](https://investors.boeing.com/investors/financial-reports/default.aspx)
       - Bombardier Aerospace (Canada)
       - Comac (China)
       - Embraer (Brazil)
@@ -81,15 +80,23 @@
       - Mitsubishi Aircraft Corporation (Japan)
       - United Aircraft Corporation (Russia, includes Tupolev, Yakovlev, Sukhoi, Ilyushin, and others)
       - Xi'an Aircraft Industrial Corporation (China)
-      - The narrow-body and wide-body airliner market is dominated by Airbus and Boeing, and the regional airliner market is mostly split between ATR Aircraft, Bombardier Aerospace, and Embraer.
+ 
+ The narrow-body and wide-body airliner market is dominated by Airbus and Boeing, and the regional airliner market is mostly split between ATR Aircraft, Bombardier Aerospace, and Embraer.
       
 -------------
 ![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
 ----------
+![airbus](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/publications/backgrounders/Airbus-Commercial-Aircraft-list-prices-2018.pdf?wid=991&fit=fit,1&qlt=85,0)
+--------------
 ![Prices-of-Boeing-aircraft-in-2019-960x1222](https://www.aircraftcompare.com/wp-content/uploads/2019/04/Prices-of-Boeing-aircraft-in-2019-960x1222.png)
 ----------
-![airbus](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/publications/backgrounders/Airbus-Commercial-Aircraft-list-prices-2018.pdf?wid=991&fit=fit,1&qlt=85,0)
+![global-aerospace-defense-materials-market](https://www.grandviewresearch.com/static/img/research/global-aerospace-defense-materials-market.png)
+---------
+![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
+---------
+![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
 
+---------------
 -------
 - [Aero India 2019 | Documentary on Indian Aerospace & Defence Industry](https://www.youtube.com/watch?v=4DGqU-TyA_A) :star:
 - [Aerospace sector opportunities in India](https://www.youtube.com/watch?v=JIUqpgC9o_I)
@@ -111,17 +118,16 @@
 ![aerospace-and-defence-sector-diversification-acma-16-1024](https://image.slidesharecdn.com/kpmgreport-final-160929070607/95/aerospace-and-defence-sector-diversification-acma-16-1024.jpg?cb=1475132998)
 --------
 ---------
-![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
+
+![12658](https://cdn.statcdn.com/Infographic/images/normal/12658.jpeg)
 ------
+
 ![4929](https://cdn.statcdn.com/Infographic/images/normal/4929.jpeg)
 -------
 ![AerospaceDefence](https://www.industrytap.com/wp-content/uploads/2016/02/Top50-AerospaceDefence-EN.jpg)
 -------
 ![t_12addeb85af04b0fbd5883215e13c88c_name_Top_100_Chine_00_04_36_15_Still002](https://www.armytimes.com/resizer/HRp9bszUg9v6YseuYi7m_TqSReo=/960x540/filters:quality(80)/arc-goldfish-mco-thumbnails.s3.amazonaws.com/07-23-2019/t_12addeb85af04b0fbd5883215e13c88c_name_Top_100_Chine_00_04_36_15_Still002.jpg)
----------
-![global-aerospace-defense-materials-market](https://www.grandviewresearch.com/static/img/research/global-aerospace-defense-materials-market.png)
----------
-![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
+
 -----------
 ![C5YkOIdUsAA0JKR](https://pbs.twimg.com/media/C5YkOIdUsAA0JKR.jpg)
 --------
@@ -134,6 +140,7 @@
 ![1c8f01a5f21c](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff6e723fe-43e6-11e7-9170-1c8f01a5f21c.png?crop=3000%2C2000%2C0%2C0)
 -------
 ![20180702144112_Aerospace](https://www.mida.gov.my/home/administrator/system_files/modules/photo/uploads/20180702144112_Aerospace%204.png)
+
 
 
 
