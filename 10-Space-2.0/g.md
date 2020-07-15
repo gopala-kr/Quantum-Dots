@@ -20,9 +20,12 @@
 
 ---------------
 ------------------------
+- [Building the 787-9 Dreamliner](https://www.youtube.com/watch?v=SJZk9vNS8NE)
 
 ![787lapse_wide](https://content.clarkenetwork.com/wp-content/uploads/sites/12/2015/10/787lapse_wide.gif)
 ------------
+- [Aircraft Construction Compilation!](https://www.youtube.com/watch?v=cO4m6C9HGlg)
+
 ![20Insight_1](https://www.mmindia.co.in/files/nov2k17/20-21_Market%20Insight_1.jpg)
 -------
 ![20bandeau](https://www.skywin.be/sites/default/files/logo-membre/Avion%20Eclat%C3%A9%20bandeau%20Blanc_2017_2_Low%20Res.jpg)
@@ -82,7 +85,29 @@
       - Xi'an Aircraft Industrial Corporation (China)
  
  The narrow-body and wide-body airliner market is dominated by Airbus and Boeing, and the regional airliner market is mostly split between ATR Aircraft, Bombardier Aerospace, and Embraer.
-      
+ 
+------------------------
+- [How Boeing Builds a 737 Plane in Just 9 Days | WIRED](https://www.youtube.com/watch?v=liZ0WEEsuz4)
+- [How Boeing Lost Its Way](https://www.youtube.com/watch?v=EESYomdoeCs)
+- [Inside Rolls Royce Factory - Building Future Jet Engine](https://www.youtube.com/watch?v=2LZwkdGU0-g)
+- [Giant Aircraft: Manufacturing an Airbus A350 | Mega Manufacturing ](https://www.youtube.com/watch?v=Yutzg2NLwcU)
+- [Airplane Heavy Maintenance | Mega Pit Stops | Episode 1](https://www.youtube.com/watch?v=jA2Gp48UmsE)
+- [Heavy Airbus Maintenance, Aircraft Junkyard | Inside Airplanes](https://www.youtube.com/watch?v=H45vSzyiXH4)
+- [Fighter Jet: War Machine Heavy Maintenance | Mega Pit Stops | Episode 3](https://www.youtube.com/watch?v=FQ_wIptrASY)
+- [Firepower Air: Frontline Fighters & Bomber Squadrons of the Russian Air Force](https://www.youtube.com/watch?v=DN-nkKfKPtE) 
+- [GOING SUPERSONIC with U.S. Air Force Thunderbirds!](https://www.youtube.com/watch?v=p1PgNbgWSyY)
+- [Building Boeing 747-8 Full Documentary - Worlds Longest Airliner](https://www.youtube.com/watch?v=c26y2-j5KrY)
+- [How it's made .? Airbus 380 for Etihad](https://www.youtube.com/watch?v=D50NXGKziI4)
+- [Airbus A350 Lufthansa ULTIMATE COCKPIT MOVIE + Business Class Tokyo](https://www.youtube.com/watch?v=jk-WClye4bw)
+- [Inside the Plant Where Lockheed Builds the F-35 Lightning II](https://www.youtube.com/watch?v=ECZkJyr1m1k)
+- [Speaking of the Future: Advanced Aeronautics](https://www.youtube.com/watch?v=JmnBGrw2XsY)
+- [Lockheed Martin F-35 Lightning II Manufacturing](https://www.youtube.com/watch?v=bXuZbLxWxYE)
+-------
+- [Jet Engines](https://www.youtube.com/watch?v=L24Wf0VlTE0)
+- [BEST OF Jet Engines Starting Up And Running Videos Compilation](https://www.youtube.com/watch?v=5hiYGn2lnxo)
+- [Modern Gas Turbine Maintenance Factory](https://www.youtube.com/watch?v=mDprcdsEDlc)
+- [Rolls Royce Trent production of turbojet engines](https://www.youtube.com/watch?v=7T-WrY8RnJw)
+- [Production Processing Methods, Modern Manufacturing Technology](https://www.youtube.com/watch?v=-j1lWspIo4c)
 -------------
 ![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
 ----------
