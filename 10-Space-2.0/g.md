@@ -3,6 +3,25 @@
 
 ---------------------
 ---------
+![102](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/102.jpg)
+------
+![103](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/103.jpg)
+------
+![104](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/104.jpg)
+------
+![105](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/105.jpg)
+------
+![106](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/106.jpg)
+------
+![107](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/107.jpg)
+------
+![108](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/108.jpg)
+-----------
+![12658](https://cdn.statcdn.com/Infographic/images/normal/12658.jpeg)
+
+---------------
+------------------------
+
 ![787lapse_wide](https://content.clarkenetwork.com/wp-content/uploads/sites/12/2015/10/787lapse_wide.gif)
 ------------
 ![20Insight_1](https://www.mmindia.co.in/files/nov2k17/20-21_Market%20Insight_1.jpg)
@@ -92,22 +111,6 @@
 ![aerospace-and-defence-sector-diversification-acma-16-1024](https://image.slidesharecdn.com/kpmgreport-final-160929070607/95/aerospace-and-defence-sector-diversification-acma-16-1024.jpg?cb=1475132998)
 --------
 ---------
-![102](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/102.jpg)
-------
-![103](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/103.jpg)
-------
-![104](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/104.jpg)
-------
-![105](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/105.jpg)
-------
-![106](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/106.jpg)
-------
-![107](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/107.jpg)
-------
-![108](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/108.jpg)
------------
-![12658](https://cdn.statcdn.com/Infographic/images/normal/12658.jpeg)
----------------
 ![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
 ------
 ![4929](https://cdn.statcdn.com/Infographic/images/normal/4929.jpeg)
@@ -120,8 +123,6 @@
 ---------
 ![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
 -----------
-![5e60d5357d6f2600068eb794](https://specials-images.forbesimg.com/imageserve/5e60d5357d6f2600068eb794/960x0.jpg?fit=scale)
---------
 ![C5YkOIdUsAA0JKR](https://pbs.twimg.com/media/C5YkOIdUsAA0JKR.jpg)
 --------
 ![BOEING](https://i.huffpost.com/gen/239333/BOEING.jpg)
@@ -131,18 +132,15 @@
 ![2014](https://www.defproac.com/wp-content/uploads/2014/05/35.jpg)
 -----
 ![1c8f01a5f21c](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff6e723fe-43e6-11e7-9170-1c8f01a5f21c.png?crop=3000%2C2000%2C0%2C0)
-------
-![composition](https://knowledge.ckgsb.edu.cn/wp-content/uploads/2019/09/Comac-plane-composition.jpg)
------
-![37f8f1f886b9d567708d296dba5c1ee8](https://i.pinimg.com/originals/37/f8/f1/37f8f1f886b9d567708d296dba5c1ee8.png)
 -------
 ![20180702144112_Aerospace](https://www.mida.gov.my/home/administrator/system_files/modules/photo/uploads/20180702144112_Aerospace%204.png)
------
-![ooo](https://i1.wp.com/jdasolutions.aero/blog/wp-content/uploads/2016/03/ooo.png?fit=775%2C270&ssl=1)
+
 
 
 -------
 ----------------
+![5e60d5357d6f2600068eb794](https://specials-images.forbesimg.com/imageserve/5e60d5357d6f2600068eb794/960x0.jpg?fit=scale)
+--------
 
 ![think_the_aerospace_industry_Grafik](https://img.rolandberger.com/content_assets/content_images/captions/RB_ART_20_007_Re-think_the_aerospace_industry_Grafik-1_image_caption_w1280.jpg)
 --------
