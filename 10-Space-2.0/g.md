@@ -361,10 +361,14 @@
 ![Electrification](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/electric-flight/Electrification-Infographic-web-banner.jpg?wid=1920&fit=fit,1&qlt=85,0&fmt=png-alpha)
 ---------------
 ![airbus-urban-air-mobility-roadmap](https://assets.newatlas.com/dims4/default/77d48f4/2147483647/strip/true/crop/1500x844+0+0/resize/1440x810!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2F2017-airbus-urban-air-mobility-roadmap-50.jpg)
+------------
+![airbusroadmap](https://images.emlcdn.net/cdn/1002166/48293f60-302c-431d-87aa-be4e547ff092/airbusroadmap.png)
 -------------
 ![critical](https://www.lek.com/sites/default/files/colorbox-images/2157-critical-barriers-air-taxi-adoption.jpg)
 -------------------
 ![aerial-ride-sharing-timeline](https://www.lek.com/sites/default/files/colorbox-images/2157-aerial-ride-sharing-timeline.jpg)
+------------
+![infographic](https://techcrunch.com/wp-content/uploads/2019/06/infographic.jpg)
 
 ------------
 -------------
