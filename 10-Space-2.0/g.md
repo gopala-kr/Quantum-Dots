@@ -353,6 +353,8 @@
 -----------
 ---------------
 ![page_46](https://image.isu.pub/180309100641-61233e00c5491bbc0680c95e50b55446/jpg/page_46.jpg)
+--------------
+![propulsion](https://www.safran-group.com/sites/group/files/thumbnails/image/hybrid-electric-propulsion.jpg)
 ---------------
 ![1441801494](https://image.slidesharecdn.com/colinsirett-e-fan-150909122052-lva1-app6891/95/airbus-electric-propultion-the-efan-program-go-green-travel-transport-business-breakfast-09092015-3-1024.jpg?cb=1441801494)
 -------------
