@@ -371,6 +371,7 @@
 ![aerial-ride-sharing-timeline](https://www.lek.com/sites/default/files/colorbox-images/2157-aerial-ride-sharing-timeline.jpg)
 ------------
 ![infographic](https://techcrunch.com/wp-content/uploads/2019/06/infographic.jpg)
-
+--------------
+![Screen-Shot-2020-03-08-at-5.32.32](https://transportup.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-08-at-5.32.32-PM.png)
 ------------
 -------------
