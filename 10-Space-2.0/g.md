@@ -21,6 +21,7 @@
 ---------------
 ------------------------
 - [Building the 787-9 Dreamliner](https://www.youtube.com/watch?v=SJZk9vNS8NE)
+- [Rolls Royce Trent XWB Aircraft Engine Production](https://www.youtube.com/watch?v=e_hYgs1yzo4)
 
 ![787lapse_wide](https://content.clarkenetwork.com/wp-content/uploads/sites/12/2015/10/787lapse_wide.gif)
 ------------
@@ -69,7 +70,9 @@
 -----------------
 
  - [Aircrafts Manufactures - With cost](https://www.aircraftcompare.com/manufacturer-categories/airplane/)
- - [Future Aircrafts](https://www.aircraftcompare.com/aircraft-categories/future/)
+ - [Future Aircrafts](https://www.aircraftcompare.com/aircraft-categories/future/) | [The Future of Airliners? - Aurora D8](https://www.youtube.com/watch?v=H7Z04Tl1-1Q)
+ - [The Economics of Private Jets](https://www.youtube.com/watch?v=V1YMPk3XhCc)
+ - [Boom: The Future of Supersonic Flight?](https://www.youtube.com/watch?v=R43gKMWAPco)
  
       The major manufacturers with airliners currently in production include:
 
@@ -90,6 +93,7 @@
 ------------------------
 - [Aircraft Factory in the 1930's - Film 16671](https://www.youtube.com/watch?v=a2ug-Wr9fr0)
 - [The Construction of a Light Aircraft (1943)](https://www.youtube.com/watch?v=Q6q1VKsTeKQ)
+- [De Havilland Aircraft Factory (1948)](https://www.youtube.com/watch?v=aOjTNHk38FI)
 - [1942 CURTISS WRIGHT AIRCRAFT ENGINE PROMOTIONAL FILM "WRIGHT BUILDS FOR SUPREMACY"](https://www.youtube.com/watch?v=sBfFpcdyd5Q)
 - [How Boeing Builds a 737 Plane in Just 9 Days | WIRED](https://www.youtube.com/watch?v=liZ0WEEsuz4)
 - [How Boeing Lost Its Way](https://www.youtube.com/watch?v=EESYomdoeCs)
@@ -121,6 +125,11 @@
 - [Inside Look at U.S Military Aircraft Factory](https://www.youtube.com/watch?v=flO9YgVNIz4)
 - [Manufacturing of Boeing Aeroplane in Factory](https://www.youtube.com/watch?v=WyDy-KdMGEA)
 - [Rajnath Singh meets Indian engineers at factory of firm making Rafale engine](https://www.youtube.com/watch?v=P2w9d2RjGj8)
+- [Aircraft Powerplant](https://www.youtube.com/watch?v=czqxWF2OdME)
+- [The Little Plane War](https://www.youtube.com/watch?v=V1YMPk3XhCc)
+- [Legend STOL - Legend Aircraft - Factory Tour](https://www.youtube.com/watch?v=oTyEG9qjBe4)
+- [HOW IT'S MADE: The Hypersonic X-15 Aircraft](https://www.youtube.com/watch?v=rAvyLfC6FSM)
+- [Building Boeing 747-8 Full Documentary - Worlds Longest Airliner](https://www.youtube.com/watch?v=c26y2-j5KrY)
 -------
 - [Aerospace & Aeronautical](https://www.youtube.com/playlist?list=PLuUdFsbOK_8ree2xXtXR2S394u9hTYIU3)
 - [Rolls-Royce Merlin Engine](https://www.youtube.com/watch?v=s-WvTJZ1_G4)
@@ -135,7 +144,49 @@
 - [Rolls-Royce | How Engines Work](https://www.youtube.com/watch?v=JxkJ-FwFeVI)
 - [Rolls Royce Engine Manufacturing, materials technology](https://www.youtube.com/watch?v=zMEC5unrRsU)
 - [Sneak Peek at Continental's New Aircraft Engine Factory](https://www.youtube.com/watch?v=-Nri__haS1E)
+- [Lycoming Engines Factory Rebuilt Piston Aircraft Engines](https://www.youtube.com/watch?v=MI8UY6gXFWQ)
+- [Gas turbine production technology.](https://www.youtube.com/watch?v=9kKENyaR9YQ)
+- [Factory makes TINY Aircraft Engines (ft. PAW Engineering)](https://www.youtube.com/watch?v=akPsZdK490s)
+- [Jet Compressor Blades](https://www.youtube.com/watch?v=KnrCjVf9xuY)
+- [GE90 and GEnx Composite fan blades](https://www.youtube.com/watch?v=eoNySabChvA)
+- [GE's Big Bet on Goliath Engines](https://www.youtube.com/watch?v=FPhCOOVojDQ)
+- [Manufacturing Aircraft Engines – Impressions of MTU Aero Engines](https://www.youtube.com/watch?v=VZP9DAFb_V4)
+- [Designing, developing and producing engine](https://www.youtube.com/watch?v=MV8On3oNKwg)
+- [Airplane Engine Explosion compilation | Airplane engine failure](https://www.youtube.com/watch?v=C0Tls4H0x_Q)
+- [BBC Documentary Rolls Royce How To Build A Jumbo Jet Engine](https://www.youtube.com/watch?v=Ho7j8OLV1fk)
+- [Behind the Scenes at GE Aviation’s Lafayette Engine Facility](https://www.youtube.com/watch?v=6DwLENU41m0)
+- [How to make a jet engine Aircraft factory](https://www.youtube.com/watch?v=RZP18SONQcE)
+- []()
 
+----------
+- [Inside Look at U.S Military Aircraft Factory](https://www.youtube.com/watch?v=flO9YgVNIz4)
+- [National Geographic Megafactories - Eurofighter Typhoon](https://www.youtube.com/watch?v=rqOX2Zj3LJo)
+- [Dassault Rafale And Mirage 2000 Assembly - Rare Look Inside Factory](https://www.youtube.com/watch?v=oCqLNavoCto)
+- [Film Delivery Rafale India - Dassault Aviation](https://www.youtube.com/watch?v=pPBYyxpRaF8)
+- [Dangerous Fighter Jets](https://www.youtube.com/watch?v=7UR8OMQpLys)
+- [Fighter Aircraft in the World (2019)](https://www.youtube.com/watch?v=QITrZMUCVes)
+- [Most Powerful Air Forces In the World 2020](https://www.youtube.com/watch?v=9Xo90KdsZ8Q)
+- [List Of All Fighter Aircraft Of Indian Air Force ](https://www.youtube.com/watch?v=4JNzv0Q5r9A)
+- [Fastest Missiles 2019](https://www.youtube.com/watch?v=dMDDTd7Z5lI)
+- [Future Weapons of India](https://www.youtube.com/watch?v=W4YfqpOPUg8)
+- [Fastest 5th Generation Jet Fighters](https://www.youtube.com/watch?v=PaP7HCxZt7g)
+- [Dassault Rafale making](https://www.youtube.com/watch?v=mY6UBWywLQ8)
+- [Pakistan Aeronautical Complex (Fighter jet Made Factory) Kamara](https://www.youtube.com/watch?v=g0HUovAQhJM)
+- [Footage Rafale for India - Manufacturing & in flight](https://www.youtube.com/watch?v=Gmyt0aUsdWc)
+- [MAKE IN INDIA | HAL Tejas ](https://www.youtube.com/watch?v=5gXzcwC_m2o)
+- [Defence Weapons & Equipments India Exports To Other Countries](https://www.youtube.com/watch?v=1LOv02MURUM)
+- [Boeing F-15SA (RSAF - Royal Saudi Air Force) complete manufacturing timelapse](https://www.youtube.com/watch?v=AVkmSvHHwVE)
+- [Sukhoi Aircraft Documentary (English Documentary)](https://www.youtube.com/watch?v=taqcwk5lQGM)
+- [Mil Mi-28 (factory)](https://www.youtube.com/watch?v=oKWRCNhpn_4)
+- [Building The Brand Apache Attack Helicopter (Excerpt)](https://www.youtube.com/watch?v=F1prmKLdAgw)
+- [The Tesla Files: Secret Weapons for the U.S. Military ](https://www.youtube.com/watch?v=HC_innBfhc4) :star:
+- [Russia: New MiG-35 fighter jets to roll off production line in autumn](https://www.youtube.com/watch?v=tcDVDxuK3Wg)
+- [Evolution of Boeing Fighter & Attack Aircraft (1921-2019)](https://www.youtube.com/watch?v=J03E2BbWiTI)
+- [Attack Helicopters in the World (2019)](https://www.youtube.com/watch?v=J03E2BbWiTI)
+- [Turkish Aerospace (TUSAŞ)](youtube.com/watch?v=c2ZAn6SfCx0)
+- [World war 2 Top 10 Fighter Planes (Videos)](https://www.youtube.com/watch?v=3vB4of_ofGM)
+- [American Aircraft being overhauled at India's Hindustan Aircraft factory during World War 2](https://www.youtube.com/watch?v=TZLqpcHBLiA)
+- [The Most Produced Aircraft of WW2](https://www.youtube.com/watch?v=rfPj2Uvop-M)
 -------------
 ![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
 ----------
