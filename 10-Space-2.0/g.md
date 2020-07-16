@@ -258,12 +258,11 @@
 - [Top 15 Countries Military Spending (1830-2019)](https://www.youtube.com/watch?v=muGvRYDd-lo)
 - [countries by military expenditures](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures)
 ---------------
-- [53256247_7](https://www.dw.com/image/53256247_7.png)
--------
-![0053_defense_comparison](https://www.pgpf.org/sites/default/files/0053_defense_comparison-full.gif)
-
+![53256247_7](https://www.dw.com/image/53256247_7.png)
 ---------
 ![military](https://www.statista.com/graphic/1/262742/countries-with-the-highest-military-spending.jpg)
+-------
+![0053_defense_comparison](https://www.pgpf.org/sites/default/files/0053_defense_comparison-full.gif)
 ---------
 ###### Spending by GDP
 
@@ -353,6 +352,10 @@
 ![think_the_aerospace_industry_Grafik](https://img.rolandberger.com/content_assets/content_images/captions/RB_ART_20_007_Re-think_the_aerospace_industry_Grafik-8_image_caption_w1280.jpg)
 -----------
 ---------------
+![page_46](https://image.isu.pub/180309100641-61233e00c5491bbc0680c95e50b55446/jpg/page_46.jpg)
+-------------
+![infographic](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/urban-air-mobility/Urban-Air-Mobility-infographic.jpg?wid=3626&fit=constrain)
+----------------
 ![Electrification](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/electric-flight/Electrification-Infographic-web-banner.jpg?wid=1920&fit=fit,1&qlt=85,0&fmt=png-alpha)
 
 ------------
