@@ -207,6 +207,21 @@
 - [American Aircraft being overhauled at India's Hindustan Aircraft factory during World War 2](https://www.youtube.com/watch?v=TZLqpcHBLiA)
 - [The Most Produced Aircraft of WW2](https://www.youtube.com/watch?v=rfPj2Uvop-M)
 - [The Evolution of Fighter Aircraft](https://www.youtube.com/watch?v=cMz85FvJakU)
+
+-----------------
+- [countries by military expenditures](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures)
+---------------
+- [53256247_7](https://www.dw.com/image/53256247_7.png)
+-------
+![0053_defense_comparison](https://www.pgpf.org/sites/default/files/0053_defense_comparison-full.gif)
+
+---------
+![military](https://www.statista.com/graphic/1/262742/countries-with-the-highest-military-spending.jpg)
+---------
+###### Spending by GDP
+
+![Military_Expenditures_as_percent_of_GDP_2017](https://upload.wikimedia.org/wikipedia/commons/2/20/Military_Expenditures_as_percent_of_GDP_2017.png)
+-------------
 -------------
 ![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
 ----------
