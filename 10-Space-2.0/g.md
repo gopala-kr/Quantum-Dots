@@ -357,6 +357,8 @@
 ![infographic](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/urban-air-mobility/Urban-Air-Mobility-infographic.jpg?wid=3626&fit=constrain)
 ----------------
 ![Electrification](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/electric-flight/Electrification-Infographic-web-banner.jpg?wid=1920&fit=fit,1&qlt=85,0&fmt=png-alpha)
+---------------
+![airbus-urban-air-mobility-roadmap](https://assets.newatlas.com/dims4/default/77d48f4/2147483647/strip/true/crop/1500x844+0+0/resize/1440x810!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2F2017-airbus-urban-air-mobility-roadmap-50.jpg)
 -------------
 ![critical](https://www.lek.com/sites/default/files/colorbox-images/2157-critical-barriers-air-taxi-adoption.jpg)
 -------------------
