@@ -90,6 +90,25 @@
  
  The narrow-body and wide-body airliner market is dominated by Airbus and Boeing, and the regional airliner market is mostly split between ATR Aircraft, Bombardier Aerospace, and Embraer.
  
+-------------------
+- [History of aviation](https://en.wikipedia.org/wiki/History_of_aviation#:~:text=The%20history%20of%20aviation%20extends,slowly%20spread%20around%20the%20world.)
+- [Timeline of aviation](https://en.wikipedia.org/wiki/Timeline_of_aviation)
+- [Orville Wright, Wilbur Wright, Original Footage!!! First Flight Mlitary Airplane 1909](https://www.youtube.com/watch?v=dtZ8MxuePno)
+- [A History Of Flight (Narrated by Tom Baker)](https://www.youtube.com/watch?v=ty1jxXPJWOQ)
+- [History of Aerospace](https://www.youtube.com/watch?v=lPsqhnonmjY)
+- [Airplane History](https://www.youtube.com/watch?v=VcqxI-OJ1mk)
+- [AVIATION HISTORY: FULL DOCUMENTARIES](https://www.youtube.com/watch?v=fVVAA7oJsuQ&list=PLz58QJ68R9CS0_69BRdxzXWYas8f1_US0)
+- [The History of the Helicopter, 1952](https://www.youtube.com/watch?v=6_hScNDX53Y)
+- [Aviation History: History of Aviation - Documentary](https://www.youtube.com/watch?v=hTwo4vfiK90)
+- [A Brief History of Aeronautical & Aerospace Technology](https://www.youtube.com/watch?v=d31rU0AJM-o)
+- [Systems Engineering in Aerospace & Defense: History and Future Trends](https://www.youtube.com/watch?v=Cergj9iR7Hc)
+- [Evolution of Airplanes 1903 - 2020](https://www.youtube.com/watch?v=hrXDNtFjmoE)
+- [All The Vertical Landing Jet Aircraft In History](https://www.youtube.com/watch?v=0AfjHTU_6ZY)
+- [Aircraft Engines History](https://www.youtube.com/watch?v=5L4TBx1exe0)
+- [Boeing History](https://www.youtube.com/watch?v=NUsvqtso05s)
+- [A brief history of Airbus](https://www.youtube.com/watch?v=5wqrrgiw37o)
+---------
+![History_of_aviation](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/History_of_aviation.svg/1000px-History_of_aviation.svg.png)
 ------------------------
 - [Aircraft Factory in the 1930's - Film 16671](https://www.youtube.com/watch?v=a2ug-Wr9fr0)
 - [The Construction of a Light Aircraft (1943)](https://www.youtube.com/watch?v=Q6q1VKsTeKQ)
@@ -97,6 +116,7 @@
 - [1942 CURTISS WRIGHT AIRCRAFT ENGINE PROMOTIONAL FILM "WRIGHT BUILDS FOR SUPREMACY"](https://www.youtube.com/watch?v=sBfFpcdyd5Q)
 - [How Boeing Builds a 737 Plane in Just 9 Days | WIRED](https://www.youtube.com/watch?v=liZ0WEEsuz4)
 - [How Boeing Lost Its Way](https://www.youtube.com/watch?v=EESYomdoeCs)
+- [China and Japan: Is the AIRBUS-BOEING DUOPOLY in danger? ](https://www.youtube.com/watch?v=nOYa75pP1aM)
 - [Inside Rolls Royce Factory - Building Future Jet Engine](https://www.youtube.com/watch?v=2LZwkdGU0-g)
 - [Giant Aircraft: Manufacturing an Airbus A350 | Mega Manufacturing ](https://www.youtube.com/watch?v=Yutzg2NLwcU)
 - [Airplane Heavy Maintenance | Mega Pit Stops | Episode 1](https://www.youtube.com/watch?v=jA2Gp48UmsE)
@@ -156,7 +176,6 @@
 - [BBC Documentary Rolls Royce How To Build A Jumbo Jet Engine](https://www.youtube.com/watch?v=Ho7j8OLV1fk)
 - [Behind the Scenes at GE Aviation’s Lafayette Engine Facility](https://www.youtube.com/watch?v=6DwLENU41m0)
 - [How to make a jet engine Aircraft factory](https://www.youtube.com/watch?v=RZP18SONQcE)
-- []()
 
 ----------
 - [Inside Look at U.S Military Aircraft Factory](https://www.youtube.com/watch?v=flO9YgVNIz4)
@@ -187,6 +206,7 @@
 - [World war 2 Top 10 Fighter Planes (Videos)](https://www.youtube.com/watch?v=3vB4of_ofGM)
 - [American Aircraft being overhauled at India's Hindustan Aircraft factory during World War 2](https://www.youtube.com/watch?v=TZLqpcHBLiA)
 - [The Most Produced Aircraft of WW2](https://www.youtube.com/watch?v=rfPj2Uvop-M)
+- [The Evolution of Fighter Aircraft](https://www.youtube.com/watch?v=cMz85FvJakU)
 -------------
 ![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
 ----------
@@ -267,6 +287,9 @@
 ![RB_ART_20_007_Re-think_the_aerospace_industry_Grafik-](https://www.rolandberger.com/content_assets/content_images/captions/RB_ART_20_007_Re-think_the_aerospace_industry_Grafik-6-(1)_large_image.jpg)
 ----------
 ![think_the_aerospace_industry_Grafik](https://img.rolandberger.com/content_assets/content_images/captions/RB_ART_20_007_Re-think_the_aerospace_industry_Grafik-8_image_caption_w1280.jpg)
+-----------
+---------------
+![Electrification](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/electric-flight/Electrification-Infographic-web-banner.jpg?wid=1920&fit=fit,1&qlt=85,0&fmt=png-alpha)
 
 ------------
 -------------
