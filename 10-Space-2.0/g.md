@@ -241,6 +241,15 @@
 - [MOST ADVANCED Russian Military Anti Aircraft Missile Technology](https://www.youtube.com/watch?v=LTFPJl4_KO0)
 - [Future Anti-Tank Weapons - Fastest Missile Launcher In The World](https://www.youtube.com/watch?v=dKwOdxpp0yU)
 
+--------------
+- [The US Military's Most Powerful Gun](https://www.youtube.com/watch?v=2HcqS508lIo)
+- [Does India Have A RAILGUN?](https://www.youtube.com/watch?v=y4v3eb7JZDI)
+- [Making a RAILGUN and then TESTING it!](https://www.youtube.com/watch?v=fKEaDhDTciQ)
+- [DRDO's RailGun(EMRG) last status, EMRG Tank application, Spacecraft launch](https://www.youtube.com/watch?v=BgZQJpv8F1g)
+- [Experimental Weapons - Railgun Real Kinetic Energy Weapon](https://www.youtube.com/watch?v=eVWtuTR2QEs)
+- [The Expanse - All About Railguns](https://www.youtube.com/watch?v=ClcvXAV8tM0)
+- [Big Railguns: The U.S. Navy's Plan to Blow Away China and Russia in a War?](https://www.youtube.com/watch?v=A7H3WJvXRy8)
+- [Rail Gun : How it Works](https://www.youtube.com/watch?v=7rgRLUGKMwA)
 -----------------
 - [Top 15 Countries Military Spending (1830-2019)](https://www.youtube.com/watch?v=muGvRYDd-lo)
 - [countries by military expenditures](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures)
