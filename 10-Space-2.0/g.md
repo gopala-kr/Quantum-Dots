@@ -113,6 +113,20 @@
 - [A brief history of Airbus](https://www.youtube.com/watch?v=5wqrrgiw37o)
 ---------
 ![History_of_aviation](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/History_of_aviation.svg/1000px-History_of_aviation.svg.png)
+-------------
+![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
+----------
+![airbus](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/publications/backgrounders/Airbus-Commercial-Aircraft-list-prices-2018.pdf?wid=991&fit=fit,1&qlt=85,0)
+--------------
+![Prices-of-Boeing-aircraft-in-2019-960x1222](https://www.aircraftcompare.com/wp-content/uploads/2019/04/Prices-of-Boeing-aircraft-in-2019-960x1222.png)
+----------
+![global-aerospace-defense-materials-market](https://www.grandviewresearch.com/static/img/research/global-aerospace-defense-materials-market.png)
+---------
+![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
+---------
+![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
+
+-------------------------
 ------------------------
 - [Aircraft Factory in the 1930's - Film 16671](https://www.youtube.com/watch?v=a2ug-Wr9fr0)
 - [The Construction of a Light Aircraft (1943)](https://www.youtube.com/watch?v=Q6q1VKsTeKQ)
@@ -268,18 +282,6 @@
 
 ![Military_Expenditures_as_percent_of_GDP_2017](https://upload.wikimedia.org/wikipedia/commons/2/20/Military_Expenditures_as_percent_of_GDP_2017.png)
 -------------
--------------
-![Development_of_long_haul_airliners](https://upload.wikimedia.org/wikipedia/commons/0/0e/Development_of_long_haul_airliners.png)
-----------
-![airbus](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/publications/backgrounders/Airbus-Commercial-Aircraft-list-prices-2018.pdf?wid=991&fit=fit,1&qlt=85,0)
---------------
-![Prices-of-Boeing-aircraft-in-2019-960x1222](https://www.aircraftcompare.com/wp-content/uploads/2019/04/Prices-of-Boeing-aircraft-in-2019-960x1222.png)
-----------
-![global-aerospace-defense-materials-market](https://www.grandviewresearch.com/static/img/research/global-aerospace-defense-materials-market.png)
----------
-![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
----------
-![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
 
 ---------------
 -------
