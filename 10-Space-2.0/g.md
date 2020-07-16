@@ -53,6 +53,10 @@
 - [Where are all the unused planes right now?](https://www.bbc.com/worklife/article/20200415-where-are-all-the-unused-planes-right-now)
 - [Airline Operating Costs and Productivity](https://www.icao.int/MID/Documents/2017/Aviation%20Data%20and%20Analysis%20Seminar/PPT3%20-%20Airlines%20Operating%20costs%20and%20productivity.pdf)
 - [AIRLINE ECONOMIC ANALYSIS](https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2018/January/Airline_Economic_Analysis_AEA_2017-18_web_FF.pdf)
+- [Arms industry](https://en.wikipedia.org/wiki/Arms_industry)
+- [The Defence Industryin the 21stCentury Thinking Global](https://www.pwc.pl/en/publikacje/defence_industry_ads.pdf)
+- [Lists of currently active military equipment by country](https://en.wikipedia.org/wiki/Lists_of_currently_active_military_equipment_by_country)
+- [American firms rule the $398 billion global arms industry](https://www.cnbc.com/2019/01/10/top-10-defense-contractors-in-the-world.html)
 -----------------------
 - [A Survey of Aircraft Materials: Design for Airworthiness and Sustainability](https://www.researchgate.net/publication/311750391_A_Survey_of_Aircraft_Materials_Design_for_Airworthiness_and_Sustainability)
 - [U.S. Aerospace Manufacturing: Industry Overview and Prospects](https://fas.org/sgp/crs/misc/R40967.pdf)
@@ -280,6 +284,7 @@
 
 ---------------
 -------
+- [India’s Aerospace Industry](https://www.pwc.in/assets/pdfs/industries/changing-dynamics-india-aerospace-industry-091211.pdf)
 - [Aero India 2019 | Documentary on Indian Aerospace & Defence Industry](https://www.youtube.com/watch?v=4DGqU-TyA_A) :star:
 - [Aerospace sector opportunities in India](https://www.youtube.com/watch?v=JIUqpgC9o_I)
 - [Aviation in India](https://en.wikipedia.org/wiki/Aviation_in_India)
@@ -289,7 +294,8 @@
 - [Air transportation in India - Statistics & Facts](https://www.statista.com/topics/3016/air-carrier-market-in-india/)
 - [India's Defence Exports](https://www.youtube.com/watch?v=DDU2xpGQm3k)
 - [MMA-Presentation-Sep-2-Final-version](http://aidat.in/wp-content/uploads/2016/09/MMA-Presentation-Sep-2-Final-version.pdf)
-
+- [Defence industry of India](https://en.wikipedia.org/wiki/Defence_industry_of_India)
+- [List of equipment of the Indian Army](https://en.wikipedia.org/wiki/List_of_equipment_of_the_Indian_Army)
 --------
 ![sBQ1sUwAEgU6h](https://pbs.twimg.com/media/D-sBQ1sUwAEgU6h.jpg)
 -------
