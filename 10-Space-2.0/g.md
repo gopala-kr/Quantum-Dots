@@ -208,7 +208,21 @@
 - [The Most Produced Aircraft of WW2](https://www.youtube.com/watch?v=rfPj2Uvop-M)
 - [The Evolution of Fighter Aircraft](https://www.youtube.com/watch?v=cMz85FvJakU)
 
+---------------
+- [Inside a Tomahawk missile factory](https://www.youtube.com/watch?v=FzXW2GZh4qs)
+- [Inside a Nuclear Missile Base](https://www.youtube.com/watch?v=nie32H0m5wI)
+- [SA-21 GROWLER / S400 Triumph LONG RANGE MISSILE & anti-aircraft MISSILE FACTORY Views | Russia |](https://www.youtube.com/watch?v=dGavg6MZX1Q)
+- [Inside the Agni-5 missile lab](https://www.youtube.com/watch?v=KUGFdGc02qw)
+- [India s missile manufacturer Bharat Dynamics Ltd](https://www.youtube.com/watch?v=9kDDKX5gVL4)
+- [Key to Missile Defense: Raytheon's Factory of the Future](https://www.youtube.com/watch?v=idC8XvMgEwM)
+- [Raytheon's Ballistic Missile Defense Systems Provide Layered Defense Around the World](https://www.youtube.com/watch?v=ae5VmVwfWmk)
+- [Tomahawk Missile Gets New Seeker Module for Moving Targets](https://www.youtube.com/watch?v=SLIw9CCuG84)
+- [MAKE IN INDIA - Godrej Makes Assemblies For Supersonic Brahmos Missile](https://www.youtube.com/watch?v=a1OgiOJ0EGw)
+- [Godrej Delivers 100th BrahMos Airframe](https://www.youtube.com/watch?v=YuoC-BzUXyk)
+- [MAKE IN INDIA - Godrej Engine In Every ISRO Space Launch Vehicle](https://www.youtube.com/watch?v=0QlSh0u06tA)
+
 -----------------
+- [Top 15 Countries Military Spending (1830-2019)](https://www.youtube.com/watch?v=muGvRYDd-lo)
 - [countries by military expenditures](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures)
 ---------------
 - [53256247_7](https://www.dw.com/image/53256247_7.png)
