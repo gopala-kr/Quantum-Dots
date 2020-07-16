@@ -353,6 +353,8 @@
 -----------
 ---------------
 ![page_46](https://image.isu.pub/180309100641-61233e00c5491bbc0680c95e50b55446/jpg/page_46.jpg)
+---------------
+![1441801494](https://image.slidesharecdn.com/colinsirett-e-fan-150909122052-lva1-app6891/95/airbus-electric-propultion-the-efan-program-go-green-travel-transport-business-breakfast-09092015-3-1024.jpg?cb=1441801494)
 -------------
 ![infographic](https://airbus-h.assetsadobe2.com/is/image/content/dam/corporate-topics/innovation/urban-air-mobility/Urban-Air-Mobility-infographic.jpg?wid=3626&fit=constrain)
 ----------------
