@@ -123,9 +123,18 @@
 ![global-aerospace-defense-materials-market](https://www.grandviewresearch.com/static/img/research/global-aerospace-defense-materials-market.png)
 ---------
 ![2e13c026da58379a66bc423f91cb31cd](https://i.pinimg.com/originals/2e/13/c0/2e13c026da58379a66bc423f91cb31cd.png)
+----------
+![11416](https://cdn.statcdn.com/Infographic/images/normal/11416.jpeg)
+--------
+![20Boeing](https://ww1.prweb.com/prfiles/2019/12/19/16800908/Airbus%20vs.%20Boeing%20annual%20sales%20graph.png)
+--------
+![Boeing2019](https://static.seattletimes.com/wp-content/uploads/2020/01/Airbus-Boeing2019-W1-1020x651.jpg)
+--------------
+![uploads](https://i1.wp.com/dsm.forecastinternational.com/wordpress/wp-content/uploads/2020/04/Orders.png?resize=480%2C215&ssl=1)
 ---------
-![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
-
+![Shipments](https://i2.wp.com/dsm.forecastinternational.com/wordpress/wp-content/uploads/2020/04/Monthly-Quarterly-Shipments.png?w=565&ssl=1)
+-----------
+![2Fproduction](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4fdcf57-31af-48c1-8172-a3dd2e371419.png?source=Alphaville)
 -------------------------
 ------------------------
 - [Aircraft Factory in the 1930's - Film 16671](https://www.youtube.com/watch?v=a2ug-Wr9fr0)
@@ -277,6 +286,8 @@
 ![military](https://www.statista.com/graphic/1/262742/countries-with-the-highest-military-spending.jpg)
 -------
 ![0053_defense_comparison](https://www.pgpf.org/sites/default/files/0053_defense_comparison-full.gif)
+---------
+![defense-oem-suppliers-profitability](https://globalaviationaerospace.files.wordpress.com/2015/10/defense-oem-suppliers-profitability.png?w=751&h=599&crop=1)
 ---------
 ###### Spending by GDP
 
