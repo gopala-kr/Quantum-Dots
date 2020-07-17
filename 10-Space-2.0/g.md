@@ -1,5 +1,5 @@
 
-#### AeroSpace Industry Analysis - Aeronuatical( Civil + Defence Aircrafts )
+#### AeroSpace Industry Analysis - Aeronautical( Civil + Defence Aircrafts )
 
 ---------------------
 ---------
