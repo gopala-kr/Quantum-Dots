@@ -34,6 +34,11 @@
 - [GAGAN, NavIC, IRNSS & GNSS](https://www.youtube.com/watch?v=rewgsr-GHQE)
 - [Why The US Military Made GPS Free-To-Use](https://www.youtube.com/watch?v=ozAPGnr-934)
 - [The Evolution of Spy Satellites](https://www.youtube.com/watch?v=LSWcnA2iQN0)
+- [Spy Satellites - Imaging](https://www.youtube.com/watch?v=lYEzmR9og8M)
+- [This Small Satellite Could Predict the Next Hurricane](https://www.youtube.com/watch?v=nG9lYpWy6KM)
+- [Cubesats | Mini cube satellites](https://www.youtube.com/watch?v=-BGXRGoEnAc)
+- [CubeSats](https://www.youtube.com/watch?v=ZHxIgGYJojw)
+- [NASA EDGE: CubeSat Workshop](https://www.youtube.com/watch?v=wTvaU24BZMA)
 ---------------
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
 - [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
