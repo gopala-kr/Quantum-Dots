@@ -36,5 +36,6 @@
 - [Space Junk: It's Much Worse Than You Think](https://www.youtube.com/watch?v=OA9RqYAsQ1A)
 - [This Satellite Net Is Cleaning Up Space Junk](https://www.youtube.com/watch?v=MwBRqHqmkCo)
 - [The amount of space junk around Earth has hit a critical point](https://www.youtube.com/watch?v=HVov8o9x0yI)
+- [Solving the Space Debris Problem](https://www.youtube.com/watch?v=JktgH0oSa1Q)
 -----------------
 --------------------
