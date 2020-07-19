@@ -24,9 +24,17 @@
 - [Satellites and Spacecraft size Comparison](https://www.youtube.com/watch?v=CxNFp_aynHA)
 
 ---------------
+- [End of Space – Creating a Prison for Humanity](https://www.youtube.com/watch?v=yS1ibDImAYU)
 - [The Power Of Space Debris](https://www.youtube.com/watch?v=Ez609kf49y8)
+- [Space Junk Around Earth](https://www.youtube.com/watch?v=w_PWL0oZzOc)
 - [The Truth About Space Debris](https://www.youtube.com/watch?v=itdYS9XF4a0)
 - [Space Debris Is Now a Big Problem | VICE on HBO](https://www.youtube.com/watch?v=OfvkKBNup5A)
 - [NASA's Space Debris Problem. (And how to solve it)](https://www.youtube.com/watch?v=Ctvzf_p0qUA)
+- [Space debris - efforts to clean up space](https://www.youtube.com/watch?v=wkJ3vEUiC9g)
+- [Attack of the Cosmic Space Junk!](https://www.youtube.com/watch?v=JqSPVISfIMU)
+- [Let's clean up the space junk orbiting Earth | Natalie Panek](https://www.youtube.com/watch?v=501FEzbB1JI)
+- [Space Junk: It's Much Worse Than You Think](https://www.youtube.com/watch?v=OA9RqYAsQ1A)
+- [This Satellite Net Is Cleaning Up Space Junk](https://www.youtube.com/watch?v=MwBRqHqmkCo)
+- [The amount of space junk around Earth has hit a critical point](https://www.youtube.com/watch?v=HVov8o9x0yI)
 -----------------
 --------------------
