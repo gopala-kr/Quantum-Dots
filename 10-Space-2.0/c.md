@@ -11,6 +11,7 @@
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
 - [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
+- [Space Flight: The Application of Orbital Mechanics](https://www.youtube.com/watch?v=Am7EwmxBAW8)
 - [If You Could See Every Satellite, What Would The Sky Look Like? 360/VR](https://www.youtube.com/watch?v=dJNGi-bt9NM)
 - [Communication Satellite in Airbus Defence and Space](https://www.youtube.com/watch?v=CCh3b2al7Dg)
 - [BBC How To Build A Satellite](https://www.youtube.com/watch?v=W-1scVSpwbw)
@@ -23,8 +24,31 @@
 - [A weather satellite’s view of 2016](https://www.youtube.com/watch?v=iofLZmmLfAQ)
 - [Satellites and Spacecraft size Comparison](https://www.youtube.com/watch?v=CxNFp_aynHA)
 - [The Smallest Satellite In Space](https://www.youtube.com/watch?v=toPUepMEZGs)
-
+- [Space: Global Positioning System (GPS) Constellation](https://www.youtube.com/watch?v=v_6yeGcpoyE)
+- [How GPS Works Today](https://www.youtube.com/watch?v=wCcARVbL_Dk)
+- [GPS Modernization](https://www.youtube.com/watch?v=4BHPOuwaPOw)
+- [Building the Most Powerful GPS Satellite Ever - GPS III](https://www.youtube.com/watch?v=MysI2_Sbmsg)
+- [GPS III - Focused on the Future](https://www.youtube.com/watch?v=uYeMP35F7aE)
+- [GPS: An Introduction to Satellite Navigation](https://www.youtube.com/playlist?list=PLGvhNIiu1ubyEOJga50LJMzVXtbUq6CPo)
+- [NavIC - India’s Own GPS | NavIC in Phones Explained](https://www.youtube.com/watch?v=oG3w8MCVKEI)
+- [GAGAN, NavIC, IRNSS & GNSS](https://www.youtube.com/watch?v=rewgsr-GHQE)
+- [Why The US Military Made GPS Free-To-Use](https://www.youtube.com/watch?v=ozAPGnr-934)
+- [The Evolution of Spy Satellites](https://www.youtube.com/watch?v=LSWcnA2iQN0)
 ---------------
+- [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
+- [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
+- [Satellite Constellation Design](https://www.youtube.com/watch?v=hBoJ9xWlRAg)
+- [Starlink explained - why SpaceX needs 42,000 satellites](https://www.youtube.com/watch?v=tuFS0zOwyBg)
+- [Using ground relays with Starlink](https://www.youtube.com/watch?v=m05abdGSOxY)
+- [Fast Internet for EVERYONE! SpaceX Starlink Explained](https://www.youtube.com/watch?v=EYgtBNx5_gE)
+- [Spacex Starlink Satellite Constellation ||Inviting Public Beta-Testers](https://www.youtube.com/watch?v=QFJkcsV7R2Q)
+- [Starlink And Its Impact On Astronomy](https://www.youtube.com/watch?v=bF8aAyIJzvg)
+- [Iridium Milestone: Constellation Complete!](https://www.youtube.com/watch?v=q2lVFvg69Fc)
+- [Iridium Certus: The World’s First Truly Global Broadband Service](https://www.youtube.com/watch?v=WNyZ_g7a2fw)
+- [Airbus Defence and Space Selected for OneWeb Satellites Constellation](https://www.youtube.com/watch?v=ZjpopfVJf1c)
+- [Low Earth Orbiting Communication Satellites- from Starlink to Iridium and ORBCOMM](https://www.youtube.com/watch?v=BoO9n6S-a-g)
+- [Airbus OneWeb Satellites](https://www.youtube.com/watch?v=4hu65as2iak) | [OneWeb Satellites Supply Chain](https://www.youtube.com/watch?v=RqA8YWiUcVg)
+--------------------
 - [End of Space – Creating a Prison for Humanity](https://www.youtube.com/watch?v=yS1ibDImAYU)
 - [The Power Of Space Debris](https://www.youtube.com/watch?v=Ez609kf49y8)
 - [Space Junk Around Earth](https://www.youtube.com/watch?v=w_PWL0oZzOc)
@@ -50,5 +74,6 @@
 - [Space Junk Falls To Earth, Crashes Through Roof](https://www.youtube.com/watch?v=eE-MnBKMiA4)
 - [High-Speed Collisions in Space – Experiments with a Carrot Gun](https://www.youtube.com/watch?v=kStpU1bU-oc)
 - [How Dangerous Is Space Debris](https://www.youtube.com/watch?v=425q4Iva4zM)
+- [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
 -----------------
 --------------------
