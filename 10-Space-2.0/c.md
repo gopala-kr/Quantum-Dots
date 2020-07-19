@@ -22,6 +22,7 @@
 - [GOES-R: An Animated Tour of a Weather Satellite](https://www.youtube.com/watch?v=5Ooj-ShktEA)
 - [A weather satellite’s view of 2016](https://www.youtube.com/watch?v=iofLZmmLfAQ)
 - [Satellites and Spacecraft size Comparison](https://www.youtube.com/watch?v=CxNFp_aynHA)
+- [The Smallest Satellite In Space](https://www.youtube.com/watch?v=toPUepMEZGs)
 
 ---------------
 - [End of Space – Creating a Prison for Humanity](https://www.youtube.com/watch?v=yS1ibDImAYU)
@@ -42,5 +43,12 @@
 - [5 Strange Ways to Clean Up Our Space Junk](https://www.youtube.com/watch?v=j847hzLjrWQ)
 - [Neil Degrasse Tyson on How we fix the space debris problem](https://www.youtube.com/watch?v=7YE9WOhnYv0)
 - [SpaceX Just Launched the First 60 Satellites for Starlink. What About Space Junk?](https://www.youtube.com/watch?v=OThCuTqHuw8)
+- [What Happens To Discarded Rocket Boosters And Old Satellites?](https://www.youtube.com/watch?v=P1wMn8g7lW8)
+- [What SpaceX is Doing about Starlink Space Debris](https://www.youtube.com/watch?v=OajDGMMX4Vo)
+- [How To Clean Up Space Junk](https://www.youtube.com/watch?v=6wr_Zw1uGY8)
+- [Space debris lights up the night sky](https://www.youtube.com/watch?v=eETQeuCgllY)
+- [Space Junk Falls To Earth, Crashes Through Roof](https://www.youtube.com/watch?v=eE-MnBKMiA4)
+- [High-Speed Collisions in Space – Experiments with a Carrot Gun](https://www.youtube.com/watch?v=kStpU1bU-oc)
+- [How Dangerous Is Space Debris](https://www.youtube.com/watch?v=425q4Iva4zM)
 -----------------
 --------------------
