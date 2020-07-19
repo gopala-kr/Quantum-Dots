@@ -10,6 +10,7 @@
 ----------------
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
+- [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
 - [If You Could See Every Satellite, What Would The Sky Look Like? 360/VR](https://www.youtube.com/watch?v=dJNGi-bt9NM)
 - [Communication Satellite in Airbus Defence and Space](https://www.youtube.com/watch?v=CCh3b2al7Dg)
 - [BBC How To Build A Satellite](https://www.youtube.com/watch?v=W-1scVSpwbw)
@@ -22,5 +23,10 @@
 - [A weather satellite’s view of 2016](https://www.youtube.com/watch?v=iofLZmmLfAQ)
 - [Satellites and Spacecraft size Comparison](https://www.youtube.com/watch?v=CxNFp_aynHA)
 
+---------------
+- [The Power Of Space Debris](https://www.youtube.com/watch?v=Ez609kf49y8)
+- [The Truth About Space Debris](https://www.youtube.com/watch?v=itdYS9XF4a0)
+- [Space Debris Is Now a Big Problem | VICE on HBO](https://www.youtube.com/watch?v=OfvkKBNup5A)
+- [NASA's Space Debris Problem. (And how to solve it)](https://www.youtube.com/watch?v=Ctvzf_p0qUA)
 -----------------
 --------------------
