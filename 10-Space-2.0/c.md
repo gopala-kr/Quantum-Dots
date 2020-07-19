@@ -37,5 +37,10 @@
 - [This Satellite Net Is Cleaning Up Space Junk](https://www.youtube.com/watch?v=MwBRqHqmkCo)
 - [The amount of space junk around Earth has hit a critical point](https://www.youtube.com/watch?v=HVov8o9x0yI)
 - [Solving the Space Debris Problem](https://www.youtube.com/watch?v=JktgH0oSa1Q)
+- [Space debris - a journey to Earth](https://www.youtube.com/watch?v=zT7typHkpVg)
+- [Will space junk end our modern way of life ? - The Kessler Syndrome](https://www.youtube.com/watch?v=VmDKQz39xh8)
+- [5 Strange Ways to Clean Up Our Space Junk](https://www.youtube.com/watch?v=j847hzLjrWQ)
+- [Neil Degrasse Tyson on How we fix the space debris problem](https://www.youtube.com/watch?v=7YE9WOhnYv0)
+- [SpaceX Just Launched the First 60 Satellites for Starlink. What About Space Junk?](https://www.youtube.com/watch?v=OThCuTqHuw8)
 -----------------
 --------------------
