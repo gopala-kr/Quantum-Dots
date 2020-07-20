@@ -153,7 +153,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Microgravity -- The International Space Station](https://www.youtube.com/watch?v=tUVKkt-7FfY)
 - [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo) :star:
 - [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
-
+- [We Can Now 3D Print in Suspended Gravity (And It’s Mesmerizing!)](https://www.youtube.com/watch?v=FgCedvTbKso)
+- [How Made In Space Is Taking Manufacturing Off Of Planet Earth](https://www.youtube.com/watch?v=sFH9rHgG5E0)
 ------------------
 #### Global Navigation Satellite Systems (GNSS)
 
