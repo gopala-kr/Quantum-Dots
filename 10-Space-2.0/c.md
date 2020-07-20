@@ -150,11 +150,23 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [TIANGONG-1 Crashed In One Weird Place](https://www.youtube.com/watch?v=mkFtcCojnjY)
 
 ------------------
+- [Space: The Next Trillion Dollar Industry](https://www.youtube.com/watch?v=hiRBQxHrxNw)
+- [Space: The Final Business Frontier](https://www.youtube.com/watch?v=VlbZTyBuFlQ)
+- [Welcome To Your Home in Space](https://www.youtube.com/watch?v=m74c1vzQBFU)
+- [Who Wants To Be A Trillionaire?](https://www.youtube.com/watch?v=VGosZWBTF7A)
 - [Microgravity -- The International Space Station](https://www.youtube.com/watch?v=tUVKkt-7FfY)
 - [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo) :star:
 - [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
 - [We Can Now 3D Print in Suspended Gravity (And It’s Mesmerizing!)](https://www.youtube.com/watch?v=FgCedvTbKso)
 - [How Made In Space Is Taking Manufacturing Off Of Planet Earth](https://www.youtube.com/watch?v=sFH9rHgG5E0)
+- [The Future of Space:  Off-World Manufacturing | Rob Hoyt](https://www.youtube.com/watch?v=yLjxoscCi0A)
+- [Manufacturing in space could save life on Earth | James Orsulak](https://www.youtube.com/watch?v=2JfVzMvLEn8)
+- [Made In Space Is Developing A Floating Factory](https://www.youtube.com/watch?v=i6WdpOY3MXM)
+- [Made in Space: 3-D Printing Could Change the Way Astronauts Travel | Short Film Showcase](https://www.youtube.com/watch?v=ZQ3y8U6Fbd4)
+- [How 3D printing is enabling the ‘4th Industrial Revolution’ | Dr. Tim Minshall |](https://www.youtube.com/watch?v=lsJLZ1UYxGc)
+- [Building in Space! On-orbit Servicing, Assembly, and Manufacturing (OSAM)](https://www.youtube.com/watch?v=xP4_Q7iIlb0)
+- [Orbital Manufacturing and Space-Made Materials](https://www.youtube.com/watch?v=KSfZIRKjUKk)
+
 ------------------
 #### Global Navigation Satellite Systems (GNSS)
 
