@@ -166,7 +166,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [How 3D printing is enabling the ‘4th Industrial Revolution’ | Dr. Tim Minshall |](https://www.youtube.com/watch?v=lsJLZ1UYxGc)
 - [Building in Space! On-orbit Servicing, Assembly, and Manufacturing (OSAM)](https://www.youtube.com/watch?v=xP4_Q7iIlb0)
 - [Orbital Manufacturing and Space-Made Materials](https://www.youtube.com/watch?v=KSfZIRKjUKk)
-
+- [Space Station Live: Manufacturing in Space](https://www.youtube.com/watch?v=lTxb43yiDUo)
+- [Building the Future in Space: A Conversation About the World’s First Zero Gravity Printer](https://www.youtube.com/watch?v=2Pw9zlw_FHE)
+- [Space - 3D Printing in micro gravity with Made In Space](https://www.youtube.com/watch?v=xPdJqEv7-YA)
+- ["Manufacturing In Space: Reshaping the Landscape of Space Commercialization"](https://www.youtube.com/watch?v=vE6SkCLfmXI)
 ------------------
 #### Global Navigation Satellite Systems (GNSS)
 
