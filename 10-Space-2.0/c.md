@@ -7,8 +7,7 @@
 
 #### Satellites
 ---------
-![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
-------------
+
 - [List of Earth observation satellites](https://en.wikipedia.org/wiki/List_of_Earth_observation_satellites)
 - [List of communication satellite companies](https://en.wikipedia.org/wiki/List_of_communication_satellite_companies)
 - [Satellite Navigation Systems](https://en.wikipedia.org/wiki/Satellite_navigation)
@@ -19,6 +18,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
 ----------------
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+------------
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
 - [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
@@ -80,17 +81,17 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 <tbody><tr>
 <th>System
 </th>
-<th><a href="/wiki/Beidou_Navigation_Satellite_System" class="mw-redirect" title="Beidou Navigation Satellite System">BeiDou</a>
+<th><a href="https://en.wikipedia.org/wiki/Beidou_Navigation_Satellite_System" class="mw-redirect" title="Beidou Navigation Satellite System">BeiDou</a>
 </th>
-<th><a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo</a>
+<th><a href="https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo</a>
 </th>
-<th><a href="/wiki/GLONASS" title="GLONASS">GLONASS</a>
+<th><a href="https://en.wikipedia.org/wiki/GLONASS" title="GLONASS">GLONASS</a>
 </th>
-<th><a href="/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>
+<th><a href="https://en.wikipedia.org/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>
 </th>
-<th><a href="/wiki/NavIC" class="mw-redirect" title="NavIC">NavIC</a>
+<th><a href="https://en.wikipedia.org/wiki/NavIC" class="mw-redirect" title="NavIC">NavIC</a>
 </th>
-<th><a href="/wiki/QZSS" class="mw-redirect" title="QZSS">QZSS</a>
+<th><a href="https://en.wikipedia.org/wiki/QZSS" class="mw-redirect" title="QZSS">QZSS</a>
 </th></tr>
 <tr>
 <th>Owner
@@ -129,7 +130,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 </td>
 <td><a href="/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>
 </td>
-<td><a href="/wiki/FDMA" class="mw-redirect" title="FDMA">FDMA</a> &amp; <a href="/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>
+<td><a href="/wiki/FDMA" class="mw-redirect" title="FDMA">FDMA</a> &amp; <a href="https://en.wikipedia.org/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>
 </td>
 <td><a href="/wiki/CDMA" class="mw-redirect" title="CDMA">CDMA</a>
 </td>
@@ -150,7 +151,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 </td>
 <td>36,000&#160;km (22,000&#160;mi)
 </td>
-<td>32,600&#160;km (20,300&#160;mi) –<br />39,000&#160;km (24,000&#160;mi)<sup id="cite_ref-h2a_37-0" class="reference"><a href="#cite_note-h2a-37">&#91;35&#93;</a></sup>
+<td>32,600&#160;km (20,300&#160;mi) –<br />39,000&#160;km (24,000&#160;mi)
 </td></tr>
 <tr>
 <th>Period
@@ -187,13 +188,13 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 </th>
 <td>BeiDou-3:<br /> 28 operational<br /> (24 MEO 3 IGSO 1 GSO)<br /> 5 in orbit validation<br /> 2 GSO planned 20H1<br />BeiDou-2:<br /> 15 operational<br /> 1 in commissioning
 </td>
-<td>26 in orbit<br /><a href="/wiki/List_of_Galileo_satellites" title="List of Galileo satellites">22 operational</a><br />6 to be launched<sup id="cite_ref-AvWeek12sep2018_38-0" class="reference"><a href="#cite_note-AvWeek12sep2018-38">&#91;36&#93;</a></sup>
+<td>26 in orbit<br /><a href="https://en.wikipedia.org/wiki/List_of_Galileo_satellites" title="List of Galileo satellites">22 operational</a><br />6 to be launched
 </td>
-<td>24 by design<br />24 operational<br />1 commissioning<br />1 in flight tests<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;37&#93;</a></sup>
+<td>24 by design<br />24 operational<br />1 commissioning<br />1 in flight tests
 </td>
-<td>30,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;38&#93;</a></sup><br />24 by design
+<td>30,<br />24 by design
 </td>
-<td>3 GEO,<br /> 5 <a href="/wiki/Geosynchronous" class="mw-redirect" title="Geosynchronous">GSO</a> MEO
+<td>3 GEO,<br /> 5 <a href="https://en.wikipedia.org/wiki/Geosynchronous" class="mw-redirect" title="Geosynchronous">GSO</a> MEO
 </td>
 <td>4 operational (3 GSO, 1 GEO)<br />7 in the future
 </td></tr>
@@ -216,14 +217,14 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 </td>
 <td>1176.45&#160;MHz(L5)<br />2492.028&#160;MHz&#160;(S)
 </td>
-<td>1575.42&#160;MHz (L1C/A,L1C,L1S)<br />1227.60&#160;MHz (L2C)<br />1176.45&#160;MHz (L5,L5S)<br />1278.75&#160;MHz (L6)<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;39&#93;</a></sup>
+<td>1575.42&#160;MHz (L1C/A,L1C,L1S)<br />1227.60&#160;MHz (L2C)<br />1176.45&#160;MHz (L5,L5S)<br />1278.75&#160;MHz (L6)
 </td></tr>
 <tr>
 <th>Status
 </th>
-<td>Basic nav. service by end of 2018<br />Completion 23 June 2020<sup id="cite_ref-bdsStatus20200623_42-0" class="reference"><a href="#cite_note-bdsStatus20200623-42">&#91;40&#93;</a></sup>
+<td>Basic nav. service by end of 2018<br />Completion 23 June 2020
 </td>
-<td>Operating since 2016<br />2020 completion<sup id="cite_ref-AvWeek12sep2018_38-1" class="reference"><a href="#cite_note-AvWeek12sep2018-38">&#91;36&#93;</a></sup>
+<td>Operating since 2016<br />2020 completion
 </td>
 <td>Operational
 </td>
@@ -251,20 +252,23 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 <tr>
 <th>System
 </th>
-<th><a href="/wiki/Beidou_Navigation_Satellite_System" class="mw-redirect" title="Beidou Navigation Satellite System">BeiDou</a>
+<th><a href="https://en.wikipedia.org/wiki/Beidou_Navigation_Satellite_System" class="mw-redirect" title="Beidou Navigation Satellite System">BeiDou</a>
 </th>
-<th><a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo</a>
+<th><a href="https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo</a>
 </th>
-<th><a href="/wiki/GLONASS" title="GLONASS">GLONASS</a>
+<th><a href="https://en.wikipedia.org/wiki/GLONASS" title="GLONASS">GLONASS</a>
 </th>
-<th><a href="/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>
+<th><a href="https://en.wikipedia.org/wiki/GPS" class="mw-redirect" title="GPS">GPS</a>
 </th>
-<th><a href="/wiki/NavIC" class="mw-redirect" title="NavIC">NavIC</a>
+<th><a href="https://en.wikipedia.org/wiki/NavIC" class="mw-redirect" title="NavIC">NavIC</a>
 </th>
-<th><a href="/wiki/QZSS" class="mw-redirect" title="QZSS">QZSS</a>
+<th><a href="https://en.wikipedia.org/wiki/QZSS" class="mw-redirect" title="QZSS">QZSS</a>
 </th></tr></tbody></table>
 
 --------------------
+
+#### Space Debris
+
 - [End of Space – Creating a Prison for Humanity](https://www.youtube.com/watch?v=yS1ibDImAYU)
 - [The Power Of Space Debris](https://www.youtube.com/watch?v=Ez609kf49y8)
 - [Space Junk Around Earth](https://www.youtube.com/watch?v=w_PWL0oZzOc)
@@ -292,25 +296,5 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [How Dangerous Is Space Debris](https://www.youtube.com/watch?v=425q4Iva4zM)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
 
--------
-----------
-![g2u4ih64eoi41](https://i.redd.it/g2u4ih64eoi41.jpg)
-----------
-![ard](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/07/ard.jpg)
--------
-![image001](https://gisuser.com/wp-content/uploads/2020/04/image001.jpg)
----------
-![GA135_morgan_20171213125101_NS](https://ei.marketwatch.com/Multimedia/2017/12/13/Photos/NS/MW-GA135_morgan_20171213125101_NS.png?uuid=2eaef440-e02e-11e7-8670-9c8e992d421e)
----------
-![image001](https://gisuser.com/wp-content/uploads/2020/04/image001.jpg)
----------
-![nzF4PqRNBdBDN1evc6_w](https://miro.medium.com/max/1444/1*f-nzF4PqRNBdBDN1evc6_w.png)
----------
-![17107](https://cdn.statcdn.com/Infographic/images/normal/17107.jpeg)
----------
-------------------
-![uKj9Nzj7NBYhHi09LCfMAw](https://miro.medium.com/max/6132/1*uKj9Nzj7NBYhHi09LCfMAw.jpeg)
------------
-![Commerce](http://www.spaceventuresinvestors.com/images/Space-Commerce-Strategy-Roadmap.png)
 -----------------
 --------------------
