@@ -150,7 +150,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [TIANGONG-1 Crashed In One Weird Place](https://www.youtube.com/watch?v=mkFtcCojnjY)
 
 ------------------
+- [Microgravity -- The International Space Station](https://www.youtube.com/watch?v=tUVKkt-7FfY)
 - [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo) :star:
+- [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
 
 ------------------
 #### Global Navigation Satellite Systems (GNSS)
