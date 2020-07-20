@@ -106,6 +106,12 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
 
 -----------------
+- [The Planetary Exploration Budget Dataset](https://www.planetary.org/get-involved/be-a-space-advocate/become-an-expert/planetary-exploration-budget-dataset.html)
+- [Trends in NASA’s robotic planetary exploration program as revealed in a new dataset](https://www.thespacereview.com/article/3921/1)
+- [How is China advancing its space launch capabilities?](https://chinapower.csis.org/china-space-launch/)
+- [Pursuing U.S.-China Cooperation in the Space Domain](https://chinaus-icas.org/primer/pursuing-u-s-china-cooperation-in-the-space-domain/)
+
+------------------
 #### Global Navigation Satellite Systems (GNSS)
 
 <table class="wikitable">
@@ -315,6 +321,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![10743](https://www.jpl.nasa.gov/infographics/uploads/infographics/full/10743.png)
 -----------
 ![Moon_Exploration_LaunchHist_2019](https://images.squarespace-cdn.com/content/v1/5bedab06b27e395dd26ab8b5/1555264562687-MOB8RE57SV0V52EA60WL/ke17ZwdGBToddI8pDm48kDVEj010BbXsLnm509AHjVF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URgcHTpqDAQtV2R6KdC7zZbaM3y30Ca-3Xje4x1IhSpbm7cT0R_dexc_UL_zbpz6JQ/Moon_Exploration_LaunchHist_2019.png)
+----------
+![INDIA](https://i2.wp.com/disruptive.asia/wp-content/uploads/2019/07/INDIA-SPACE.jpg?resize=1060%2C716&ssl=1)
 -------------
 ![uGkACHa](https://i.imgur.com/uGkACHa.png)
 -------
@@ -336,7 +344,37 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -------
 ![Asteroid-Exploration-Timeline](https://www.asteroidmission.org/wp-content/uploads/2015/08/Asteroid-Exploration-Timeline.png)
 
+
+-----------
+---------------
+![NASA_Annual_Budget_Since_1959_with_Caption_JMPrimer](https://chinaus-icas.org/wp-content/uploads/2020/02/NASA_Annual_Budget_Since_1959_with_Caption_JMPrimer.jpg)
+-----------
+![NASABudgetChart](https://spacenews.com/wp-content/uploads/2018/02/NASABudgetChart.jpg)
+-----------
+![NASA_budget_linegraph_BH](https://upload.wikimedia.org/wikipedia/en/1/1a/NASA_budget_linegraph_BH.PNG)
+---------
+![3921b](https://www.thespacereview.com/archive/3921b.jpg)
 ----------
+![NASA_Annual_Budget_FY19_FY20_JMPrimer_HQ](https://chinaus-icas.org/wp-content/uploads/2020/02/NASA_Annual_Budget_FY19_FY20_JMPrimer_HQ.jpg)
+-----------
+![fed_projects_v_apollo](https://christopherrcooper.com/blog/assets/fed_projects_v_apollo.jpg)
+---------
+![appropriations](https://christopherrcooper.com/blog/assets/apollo-program-budget-appropriations-nasa-official.png)
+----------
+![request](https://www.aip.org/sites/default/files/aipcorp/images/fyi/fy21-request-nasa.jpg)
+-------
+![dYOLLCr](https://i.imgur.com/dYOLLCr.jpg)
+-------
+![2FCost_of_Solar_System_Missions_Cost_millions_of_dollars_chartbuilder](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Falexknapp%2Ffiles%2F2015%2F07%2FCost_of_Solar_System_Missions_Cost_millions_of_dollars_chartbuilder-1.png)
+--------
+![Graph_Hosting_the_Olympics_Is](https://s.yimg.com/ny/api/res/1.2/.5hyOrnZ0gMm98pKk_eWbw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjE0O2g9Mzgz/http://globalfinance.zenfs.com/en_us/Finance/FIN_US_AHTTP_THEATLANTIC/Graph_Hosting_the_Olympics_Is-490b2b7ae7821245768d39fefe372edd)
+----------
+![]()
+
+-------
+![Photo1](https://cdn.arstechnica.net/wp-content/uploads/2019/05/Photo1-Copy-2.jpg)
+---------
+----------------
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
 ------------
 --------------------
