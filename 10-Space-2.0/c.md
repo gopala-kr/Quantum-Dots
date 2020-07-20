@@ -104,7 +104,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [High-Speed Collisions in Space – Experiments with a Carrot Gun](https://www.youtube.com/watch?v=kStpU1bU-oc)
 - [How Dangerous Is Space Debris](https://www.youtube.com/watch?v=425q4Iva4zM)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
-
+----------------------------------
 -----------------
 - [The Planetary Exploration Budget Dataset](https://www.planetary.org/get-involved/be-a-space-advocate/become-an-expert/planetary-exploration-budget-dataset.html)
 - [Trends in NASA’s robotic planetary exploration program as revealed in a new dataset](https://www.thespacereview.com/article/3921/1)
@@ -148,8 +148,20 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Station Assembly Animation](https://www.youtube.com/watch?v=vgfWH3g9kpY)
 - [China Space Station to be completed in 2022](https://www.youtube.com/watch?v=3Fjdh0b7DMc)
 - [TIANGONG-1 Crashed In One Weird Place](https://www.youtube.com/watch?v=mkFtcCojnjY)
+-------------------------
+#### Space Colonies
 
+- [Far Out Space Stations and Colonies](https://www.youtube.com/watch?v=8GksLb-dV_k)
+- [How Would You Envision a Space Colony?](https://www.youtube.com/watch?v=Bouplz--hOg)
+- [How and Where to Colonize Space. | Joe Strout](https://www.youtube.com/watch?v=rQNisRKh-iU)
+- [Life in a Space Colony, ep1: Extraterrestrial Colonies](https://www.youtube.com/watch?v=VIMV6E8OxG8)
+- [Life in a Space Colony, ep2: Colony Spaceships](https://www.youtube.com/watch?v=THqtAQOicQI)
+- [Life in a Space Colony, ep3: Early Interstellar Colonies](https://www.youtube.com/watch?v=6VBCxWcAPXw)
+- [What Would A Million Person Mars Colony Look Like?](https://www.youtube.com/watch?v=JaimO7nvzzQ)
+- [NASA's Plan For A Permanent Moon Base](https://www.youtube.com/watch?v=-9lBVznUuHk)
+- [Megastructures](https://www.youtube.com/playlist?list=PLIIOUpOge0LtW77TNvgrWWu5OC3EOwqxQ)
 ------------------
+
 - [Space: The Next Trillion Dollar Industry](https://www.youtube.com/watch?v=hiRBQxHrxNw)
 - [Space: The Final Business Frontier](https://www.youtube.com/watch?v=VlbZTyBuFlQ)
 - [Welcome To Your Home in Space](https://www.youtube.com/watch?v=m74c1vzQBFU)
@@ -157,6 +169,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Space Inc: The new space businesses and tech](https://www.youtube.com/watch?v=JpQbDcc7lWA)
 - [The City of the Future](https://www.youtube.com/watch?v=L054Xd97_rk) | [Amazon’s City of The Future](https://www.youtube.com/watch?v=ZjraUKJRIt8)
 - [The New Space Race of the 2020's (Documentary)](https://www.youtube.com/watch?v=bqYbgWbKMPc)
+----------------
+#### Microgravity
+
 - [Microgravity -- The International Space Station](https://www.youtube.com/watch?v=tUVKkt-7FfY)
 - [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo) :star:
 - [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
@@ -189,11 +204,15 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [3D Printing Organs in Space](https://www.youtube.com/watch?v=1uTY_K3gnCU)
 - [The Material Science of Metal 3D Printing](https://www.youtube.com/watch?v=fzBRYsiyxjI)
 -----------------
+#### Making of Artificial Gravity
+
 - [Artificial Gravity](https://www.youtube.com/watch?v=b3D7QlMVa5s)
 - [Can We Create Artificial Gravity?](https://www.youtube.com/watch?v=im-JM0f_J7s)
 - [Could Anti-gravity Really be Possible?](https://www.youtube.com/watch?v=7ugQArIkM8A)
 - [Is Artificial Gravity Really Achievable?](https://www.youtube.com/watch?v=wYDJ0vxg1lU)
+
 ------------------
+
 #### Global Navigation Satellite Systems (GNSS)
 
 <table class="wikitable">
