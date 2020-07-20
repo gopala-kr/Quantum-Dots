@@ -6,7 +6,7 @@
 ----------------------
 
 #### Satellites
----------
+
 
 - [List of Earth observation satellites](https://en.wikipedia.org/wiki/List_of_Earth_observation_satellites)
 - [List of communication satellite companies](https://en.wikipedia.org/wiki/List_of_communication_satellite_companies)
@@ -18,8 +18,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
 ----------------
-![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
-------------
+
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
 - [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
@@ -297,4 +296,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
 
 -----------------
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+------------
 --------------------
