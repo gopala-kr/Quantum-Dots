@@ -236,8 +236,16 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -----------------
 - [Rocket Factory Tour - United Launch Alliance](https://www.youtube.com/watch?v=o0fG_lnVhHw)
 - [Exclusive look inside the world's newest rocket factory!](https://www.youtube.com/watch?v=-VGZ8DGkiyc)
-
-
+- [The Saturn V Story (Space Race Documentary) | Spark](https://www.youtube.com/watch?v=zcoIugXUKfM)
+- [The Space Shuttle (Narrated by William Shatner)](https://www.youtube.com/watch?v=SvaG0xDdP8g)
+- [SLS manufacturing: Engineers at work at NASA's Rocket Factory](https://www.youtube.com/watch?v=18ZxfoxRLHk)
+- [A Space X Factory Tour With Elon Musk](https://www.youtube.com/watch?v=t1dq5JzZxkE)
+------------------
+- [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
+- [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
+- [Why Russian rocket engines are so popular today](https://www.youtube.com/watch?v=0h2HbczuBbw)
+- [Powerful Rocket Engines In The World](https://www.youtube.com/watch?v=QpM_vZ_K66Y)
+-----------------
 ------------------
 
 #### Global Navigation Satellite Systems (GNSS)
