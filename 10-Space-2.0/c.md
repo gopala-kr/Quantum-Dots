@@ -3,6 +3,8 @@
 ------------------------------
 ![Strategic-Space-Supply-Chain](https://www.spaceventuresinvestors.com/images/Strategic-Space-Supply-Chain.png)
 ----------
+![space_industry](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/20-ai-in-space-research/img/space_industry.PNG)
+---------
 ----------------------
 
 #### Satellites
@@ -160,6 +162,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What Would A Million Person Mars Colony Look Like?](https://www.youtube.com/watch?v=JaimO7nvzzQ)
 - [NASA's Plan For A Permanent Moon Base](https://www.youtube.com/watch?v=-9lBVznUuHk)
 - [Megastructures](https://www.youtube.com/playlist?list=PLIIOUpOge0LtW77TNvgrWWu5OC3EOwqxQ)
+- [Colonizing the Milky Way Galaxy](https://www.youtube.com/watch?v=W77xm6f2sJI)
 ------------------
 
 - [Space: The Next Trillion Dollar Industry](https://www.youtube.com/watch?v=hiRBQxHrxNw)
