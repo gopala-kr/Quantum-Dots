@@ -246,6 +246,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 --------
 - [How The Atlas Rocket Evolved Over 60 Years](https://www.youtube.com/watch?v=TeGmIeu0xvI)
 - [A History Of Reused Spacecraft](https://www.youtube.com/watch?v=Y4dYbd_LYv0)
+- [Rise of the Rockets](https://www.youtube.com/watch?v=R1_ZkvuEwT4)
+- [Space Race to the Moon | Free Documentary](https://www.youtube.com/watch?v=WoJcvjhbJ70)
 ------------------
 - [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 - [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
@@ -253,6 +255,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Powerful Rocket Engines In The World](https://www.youtube.com/watch?v=QpM_vZ_K66Y)
 - [RL-10 Rocket Engine](https://www.youtube.com/watch?v=q3-tVOH4nYk)
 - [The Atlas & Delta Upper Stage Engine - The RL10](https://www.youtube.com/watch?v=GM0ZI2OMlZo)
+- [Rocket Engine Testing the NASA Way!](https://www.youtube.com/watch?v=RiPzzA281E0)
 -----------------
 ------------------
 
