@@ -233,6 +233,11 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What Will It Take To Stay Healthy In Space? Practical Artificial Gravity](https://www.youtube.com/watch?v=VtXuj_SzNTg)
 - [What's the Most Realistic Artificial Gravity in Sci-Fi?](https://www.youtube.com/watch?v=EHKQIC5p8MU)
 
+-----------------
+- [Rocket Factory Tour - United Launch Alliance](https://www.youtube.com/watch?v=o0fG_lnVhHw)
+- [Exclusive look inside the world's newest rocket factory!](https://www.youtube.com/watch?v=-VGZ8DGkiyc)
+
+
 ------------------
 
 #### Global Navigation Satellite Systems (GNSS)
