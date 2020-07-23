@@ -71,7 +71,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -----------
 ![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 --------
-
+#### Satellite Constellation
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
 - [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
 - [Satellite Constellation Design](https://www.youtube.com/watch?v=hBoJ9xWlRAg)
@@ -85,6 +85,23 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Airbus Defence and Space Selected for OneWeb Satellites Constellation](https://www.youtube.com/watch?v=ZjpopfVJf1c)
 - [Low Earth Orbiting Communication Satellites- from Starlink to Iridium and ORBCOMM](https://www.youtube.com/watch?v=BoO9n6S-a-g)
 - [Airbus OneWeb Satellites](https://www.youtube.com/watch?v=4hu65as2iak) | [OneWeb Satellites Supply Chain](https://www.youtube.com/watch?v=RqA8YWiUcVg)
+
+------------
+![starlinkview](https://techcrunch.com/wp-content/uploads/2019/05/starlinkview.gif)
+--------
+![5HnQSaCk8xF4mXRy](https://miro.medium.com/max/1575/0*5HnQSaCk8xF4mXRy)
+---------
+![starlink](https://wisdomiasonindia.files.wordpress.com/2018/06/starlink-constellation.jpg)
+---------
+![starlink](https://www.nknews.org/wp-content/uploads/2020/05/starlink-ground-connection_final.jpg)
+---------
+![satellites](https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/Starlink-satellites-SpaceX-constellation-2436810.jpg?r=1588255731870)
+----------
+![OneWeb](https://spacenews.com/wp-content/uploads/2015/10/OneWeb-ABS-analysis-Oct-2015.007.jpeg)
+-------
+![Constellations](http://3.bp.blogspot.com/-QPTPKB_bmVA/XNBo_tDyQbI/AAAAAAAAPRc/M1LzvEBlLVQunaJMjLYWcSmK2xyaZB8ogCK4BGAYYCw/s1600/Constellations-879x573.jpg)
+-------
+![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
 --------------------
 
 
