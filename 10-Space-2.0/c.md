@@ -19,6 +19,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [2020 State of the Satellite Industry Report](https://sia.org/wp-content/uploads/2020/07/2020-SSIR-2-Pager-20200701.pdf)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
+---------
+![ADA-PT-1-Figure-2](https://www.spaceworks.aero/wp-content/uploads/ADA-PT-1-Figure-2.jpg)
 ----------------
 
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
@@ -61,6 +63,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Cube Satellite - Easy Manufacture Process](https://www.youtube.com/watch?v=OaKTpk2bxQE)
 - [The Digital Globe - How Earth observation changed our world](https://www.youtube.com/watch?v=FDFm_0ECSqM)
 - [European Global Navigation Satellite Systems (GNSS)](https://www.youtube.com/playlist?list=PLoW55g8cihhIEK-2MzySSgMis1rnipklN)
+--------
+![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
+--------
+![200407_satsearch_small_satellites_manufacturers_infographic](https://blog.satsearch.co/assets/200407_satsearch_small_satellites_manufacturers_infographic.png)
 ---------------
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
 - [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
@@ -232,7 +238,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [2020 Renault Float - Future Revolution Air Car!](https://www.youtube.com/watch?v=B6K-yQaWgTw)
 - [What Will It Take To Stay Healthy In Space? Practical Artificial Gravity](https://www.youtube.com/watch?v=VtXuj_SzNTg)
 - [What's the Most Realistic Artificial Gravity in Sci-Fi?](https://www.youtube.com/watch?v=EHKQIC5p8MU)
-
+---------------------
+-----------------
+![satlaunch](http://www.gtmars.com/uploads/satlaunch.png)
 -----------------
 - [Rocket Factory Tour - United Launch Alliance](https://www.youtube.com/watch?v=o0fG_lnVhHw)
 - [Exclusive look inside the world's newest rocket factory!](https://www.youtube.com/watch?v=-VGZ8DGkiyc)
