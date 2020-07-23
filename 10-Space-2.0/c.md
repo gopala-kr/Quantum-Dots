@@ -20,7 +20,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
 ---------
-
+![img_main_zoom](http://www.mitsubishielectric.com/bu/space/overview/img/img_main_zoom.jpg)
+----------
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
 - [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
@@ -62,6 +63,12 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Digital Globe - How Earth observation changed our world](https://www.youtube.com/watch?v=FDFm_0ECSqM)
 - [European Global Navigation Satellite Systems (GNSS)](https://www.youtube.com/playlist?list=PLoW55g8cihhIEK-2MzySSgMis1rnipklN)
 --------
+![img_ph01_zoom](http://www.mitsubishielectric.com/bu/space/worldwide/img/img_ph01_zoom.jpg)
+------------
+![20Infographic_WEB](https://www.lockheedmartin.com/content/dam/lockheed-martin/space/photo/gps/2019%20GPS%20Heritage%20Infographic_WEB.jpg)
+----------
+![satellites](https://www.researchgate.net/profile/Mohamed_Tamazin/publication/304025457/figure/tbl1/AS:614382786588701@1523491679925/1-Summarizes-features-of-the-current-and-future-generations-of-GPS-satellites-42.png)
+-----------
 ![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 --------
 
