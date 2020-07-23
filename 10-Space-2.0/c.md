@@ -20,8 +20,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
 ---------
-![ADA-PT-1-Figure-2](https://www.spaceworks.aero/wp-content/uploads/ADA-PT-1-Figure-2.jpg)
-----------------
 
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
@@ -66,8 +64,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 --------
 ![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 --------
-![200407_satsearch_small_satellites_manufacturers_infographic](https://blog.satsearch.co/assets/200407_satsearch_small_satellites_manufacturers_infographic.png)
----------------
+
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
 - [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
 - [Satellite Constellation Design](https://www.youtube.com/watch?v=hBoJ9xWlRAg)
@@ -112,6 +109,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [High-Speed Collisions in Space – Experiments with a Carrot Gun](https://www.youtube.com/watch?v=kStpU1bU-oc)
 - [How Dangerous Is Space Debris](https://www.youtube.com/watch?v=425q4Iva4zM)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
+------
+![d41586](https://static.scientificamerican.com/sciam/assets/Image/2018/A-d41586-018-06170-1_16092696.jpg)
+---------
+![d41586](https://static.scientificamerican.com/sciam/assets/Image/2018/B-d41586-018-06170-1_16092698.jpg)
 ----------------------------------
 -----------------
 - [The Planetary Exploration Budget Dataset](https://www.planetary.org/get-involved/be-a-space-advocate/become-an-expert/planetary-exploration-budget-dataset.html)
