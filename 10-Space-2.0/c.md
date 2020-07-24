@@ -19,6 +19,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [2020 State of the Satellite Industry Report](https://sia.org/wp-content/uploads/2020/07/2020-SSIR-2-Pager-20200701.pdf)
 - [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
+- [An International Comparison of Space History, Policy and Industrial Capability](https://www.sasic.sa.gov.au/docs/default-source/default-document-library/gabriele_lania.pdf?sfvrsn=c7bcecb0_2)
+- [Foundations of SupplyChainManagement for Space Application](http://strategic.mit.edu/docs/3_84-AIAA-2006-7234.pdf)
 ---------
 ![img_main_zoom](http://www.mitsubishielectric.com/bu/space/overview/img/img_main_zoom.jpg)
 ----------
@@ -104,7 +106,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
 --------------------
 
-
+-------------------
 #### Space Debris
 
 - [End of Space – Creating a Prison for Humanity](https://www.youtube.com/watch?v=yS1ibDImAYU)
@@ -209,25 +211,44 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The City of the Future](https://www.youtube.com/watch?v=L054Xd97_rk) | [Amazon’s City of The Future](https://www.youtube.com/watch?v=ZjraUKJRIt8)
 - [The New Space Race of the 2020's (Documentary)](https://www.youtube.com/watch?v=bqYbgWbKMPc)
 - [Industrializing the Moon](https://www.youtube.com/watch?v=bGcvv3683Os)
+- [How To Become A Quadrillionaire ](https://www.youtube.com/watch?v=Oo72-BtYc24)
 - [Terraforming: Can We Turn Mars Into Earth 2.0?](https://www.youtube.com/watch?v=9F1iWp4Gl3k)
 - [Mars Mission Update: June 2020](https://www.youtube.com/watch?v=bmcr2FaoWoU)
 - [Battle for the Moon](https://www.youtube.com/watch?v=Bh03GxRndeI)
 - [Should We Colonize Venus Instead of Mars?](https://www.youtube.com/watch?v=gJ5KV3rzuag&list=PLsPUh22kYmNDgWwp73HmRNX-nLNgFp86g)
+- [The First City On Mars](https://www.youtube.com/watch?v=Lo2fjKHNXVA)
 - [Asteroid Mining](https://www.youtube.com/watch?v=3-3DjxhGaUg)
 - [Outward Bound: Colonizing Ceres](https://www.youtube.com/watch?v=LqoYtBZAKO0)
 - [The Future of Colonizing Space- Neil deGrasse Tyson- WGS 2018](https://www.youtube.com/watch?v=X_m1mPtYzTk)
 - [Michio Kaku: Humanity in Space](https://www.youtube.com/watch?v=1gk9iGo0LCg)
+- [Outward Bound: Colonizing Jupiter](https://www.youtube.com/watch?v=PQnvjGN91Mg)
+- [Outward Bound: Colonizing Venus](https://www.youtube.com/watch?v=BI-old7YI4I)
+- [Outward Bound: Colonizing Mars](https://www.youtube.com/watch?v=kmFOBoy2MZ8)
 - [Spaceports](https://www.youtube.com/watch?v=TmLWxptFFYc)
 - [Orbital Infrastructure](https://www.youtube.com/watch?v=HkU85zKxK-s)
 - [Intergalactic Colonization](https://www.youtube.com/watch?v=xRB7a89Jh7w)
 - [Interstellar Empires](https://www.youtube.com/watch?v=1LQU69sYd3s)
 - [Continent-Sized Rotating Space Habitats](https://www.youtube.com/watch?v=tqs1iQlvV-g)
 - [Megastructures E04: Rotating Habitats](https://www.youtube.com/watch?v=86JAU3w9mB8)
+- [Space Race to the Moon | Free Documentary](https://www.youtube.com/watch?v=WoJcvjhbJ70)
+- [How We Will Colonise The Moon](https://www.youtube.com/watch?v=-dL28N5yPmQ)
+- [Moon exploration is coming back in a big way](https://www.youtube.com/watch?v=tBVBYFFQgfQ)
+- [How We Could Build a Moon Base TODAY – Space Colonization 1](https://www.youtube.com/watch?v=NtQkz0aRDe8)
+- [How to Build a Dyson Sphere - The Ultimate Megastructure](https://www.youtube.com/watch?v=pP44EPBMb8A)
+- [5 Places We Could Colonize In Our Solar System](https://www.youtube.com/watch?v=CIf6VJH4dZk)
 --------
 - [Advanced Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls3WMYP_2FpP9Y0mjgtf98M) :star: :star:
 - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
 - [Should We Build a Dyson Sphere?](https://www.youtube.com/watch?v=jW55cViXu6s)
 - [Futurism and Space Exploration](https://www.youtube.com/playlist?list=PLsPUh22kYmNDgWwp73HmRNX-nLNgFp86g)
+- [Why The Universe May Be Full Of Alien Civilizations Featuring Dr. Avi Loeb](https://www.youtube.com/watch?v=6ckgBxRASTo)
+- [Was There Someone Here Before Us? And Unusual Technosignatures with Jason Wright](https://www.youtube.com/watch?v=lh0skjMpJHo)
+- [Was There An Advanced Civilization Before Humans? | Answers With Joe](https://www.youtube.com/watch?v=xtJ49gXWwA0)
+- [Upward Bound: Power Satellites](https://www.youtube.com/watch?v=eBCbdThIJNE)
+- [Fermi Paradox Great Filters: Space and Time](https://www.youtube.com/watch?v=ZlgyxQJHHcY)
+- [Fermi Paradox: Stay At Home Civilizations](https://www.youtube.com/watch?v=aDqjK5vR6hE)
+- [Gods & Monsters: Space as Lovecraft Envisioned it](https://www.youtube.com/watch?v=r9YiKy0Jk6k)
+- [Matrioshka Worlds](https://www.youtube.com/watch?v=Tul4njD6uP4)
 ----------------
 #### Microgravity (In-Space Manufacturing)
 
@@ -288,9 +309,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [2020 Renault Float - Future Revolution Air Car!](https://www.youtube.com/watch?v=B6K-yQaWgTw)
 - [What Will It Take To Stay Healthy In Space? Practical Artificial Gravity](https://www.youtube.com/watch?v=VtXuj_SzNTg)
 - [What's the Most Realistic Artificial Gravity in Sci-Fi?](https://www.youtube.com/watch?v=EHKQIC5p8MU)
+
 ---------------------
 -----------------
-#### Spacecrafts/Spaceships/Skyports/SpaceElevators
+#### Spacecrafts/Spaceships/Skyports/SpaceElevators/SpaceTourism
 
 - [Spaceship Design](https://www.youtube.com/watch?v=V4ddnrBT6hE) :star:
 - [Planet Ships](https://www.youtube.com/watch?v=oim7VvUURd8)
@@ -301,6 +323,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Space Craft with Loren Grush: Season 1](https://www.youtube.com/playlist?list=PL39u5ZEfYDEOhoJyrYeCgTi9vxFQe-fZq)
 - [Space Craft with Loren Grush : Season 2](https://www.youtube.com/playlist?list=PL39u5ZEfYDEOuj33en1bl94Wo11ioHjYS)
 - [Inside Space Shuttle Discovery 360 | National Air and Space Museum](https://www.youtube.com/watch?v=o3XS_5L--Qg)
+- [Inside the risky venture of Spaceport America](https://www.youtube.com/watch?v=tvn3po-_gW8)
+
 -----------------
 #### Sapce Launch Vehicles / Rockets
 ----------
@@ -318,17 +342,33 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [SpaceX Starship Re Design](https://www.youtube.com/watch?v=hh8x-4i4isI)
 - [Why SpaceX Built A Stainless Steel Starship](https://www.youtube.com/watch?v=6AcE7hBhpYU)
 - [The Spaceship Propulsion Compendium](https://www.youtube.com/watch?v=wXiitWK_6Qg)
+- [Ion Drives And Electric Propulsion](https://www.youtube.com/watch?v=Li7_yFiNaIA)
+- [Antimatter Propulsion - Ryan Weed, CEO of Positron Dynamics](https://www.youtube.com/watch?v=n2pWv-D84W0)
+- [Inside an Antimatter Factory](https://www.youtube.com/watch?v=nkXwO5nrimw)
 --------
 - [How The Atlas Rocket Evolved Over 60 Years](https://www.youtube.com/watch?v=TeGmIeu0xvI)
 - [A History Of Reused Spacecraft](https://www.youtube.com/watch?v=Y4dYbd_LYv0)
 - [Rise of the Rockets](https://www.youtube.com/watch?v=R1_ZkvuEwT4)
-- [Space Race to the Moon | Free Documentary](https://www.youtube.com/watch?v=WoJcvjhbJ70)
-
+- [Could SpaceX's BFR replace traditional airliners?](https://www.youtube.com/watch?v=0FJhiSdGWsk)
 ------------------
+#### Some Sci-Fi's
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
 - [Alcubierre Drive: Warp Speed - Star Trek fantasy or plausible?](https://www.youtube.com/watch?v=Imi8-rCicaQ)
 - [NASA's Eagleworks Lab: Pushing The Boundaries Of Physics ](https://www.youtube.com/watch?v=RguSFaX8wBc)
 - [FTL03: Alcubierre Warp Drives](https://www.youtube.com/watch?v=yCCsmxGjEV0)
+- [How to Move the Sun: Stellar Engines](https://www.youtube.com/watch?v=v3y8AIEX_dU)
+- [1,000km Cable to the Stars - The Skyhook](https://www.youtube.com/watch?v=dqwpQarrDwk)
+- [Space Elevator – Science Fiction or the Future of Mankind?](https://www.youtube.com/watch?v=qPQQwqGWktE)
+- [Are Space Elevators Possible?](https://www.youtube.com/watch?v=Xa_xteu_Mts)
+- [Using Black Holes to Traverse the Universe with Dr. David Kipping](https://www.youtube.com/watch?v=uYXH4rH1SwM)
+- [Fastest Spaceships | Speed Comparison Of Famous Spacecrafts/Spaceships In The Universe](https://www.youtube.com/watch?v=hscmjYjxiug) :star:
+- [REAL Possibilities for Interstellar Travel](https://www.youtube.com/watch?v=EzZGPCyrpSU)
+- [Will Wormholes Allow Fast Interstellar Travel?](https://www.youtube.com/watch?v=ldVDM-v5uz0)
+- [What’s On The Other Side Of A Black Hole?](https://www.youtube.com/watch?v=T4oYvSH6jJ8)
+- [Exodus Fleet](https://www.youtube.com/watch?v=9TteoCHmXTc)
+- [Black Hole Ships](https://www.youtube.com/watch?v=oAocMzxPjjo)
+- [Flight of the Future - Science Fiction or Reality](https://www.youtube.com/watch?v=qn2x62G5GmM)
+- [What Will Happen in the Next 1000 Years?](https://www.youtube.com/watch?v=1V_GKZoWNck)
 ------------------
 - [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 - [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
@@ -337,6 +377,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [RL-10 Rocket Engine](https://www.youtube.com/watch?v=q3-tVOH4nYk)
 - [The Atlas & Delta Upper Stage Engine - The RL10](https://www.youtube.com/watch?v=GM0ZI2OMlZo)
 - [Rocket Engine Testing the NASA Way!](https://www.youtube.com/watch?v=RiPzzA281E0)
+- [Why Some 21st Century US Rockets Still Use Soviet Era Engines](https://www.youtube.com/watch?v=oGr1UVNBDLs)
+- [Why Next Generation Rockets are Using Methane](https://www.youtube.com/watch?v=4pzgFHrLXmc)
 -----------------
 ------------------
 
