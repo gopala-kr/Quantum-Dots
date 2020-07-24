@@ -3,6 +3,7 @@
 --------------------------
 
 - [gopala-kr/a-week-in-wild-ai/tree/master/UToE](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE)
+- [https://github.com/gopala-kr/fundamentals/tree/master/use-cases](https://github.com/gopala-kr/fundamentals)
 - [gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research)
 - [gopala-kr/a-week-in-wild-ai/tree/master/Genetics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Genetics)
 - [gopala-kr/a-week-in-wild-ai/tree/master/05-ai-in-robotics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/05-ai-in-robotics)
