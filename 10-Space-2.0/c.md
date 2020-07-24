@@ -250,6 +250,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Curious Life of a Mars Rover | Nat Geo Live](https://www.youtube.com/watch?v=7zpojhD4hpI)
 - [Will We Colonize Our Solar System? with Dr. Robert Zubrin](https://www.youtube.com/watch?v=4LdMhD3l4Ns)
 - [Will NASA Ever Send People to Mars?](https://www.youtube.com/watch?v=yqIAQMvKlow)
+- [The Exploration and Colonization of Mars: Why Mars? Why Humans?](https://www.youtube.com/watch?v=YzhSmnGcSkE&list=RDQM4yCthYVQbh8&start_radio=1)
+- [Mars Colony Documentary | 1 Million Residents by 2060 | NASA Vs Elon Musk](https://www.youtube.com/watch?v=HpXvQaQ9ktc)
 --------
 - [Advanced Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls3WMYP_2FpP9Y0mjgtf98M) :star: :star:
 - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
@@ -355,6 +357,11 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ----------
 ![satlaunch](http://www.gtmars.com/uploads/satlaunch.png)
 -----------------
+- [The Most Launched Rocket - A History Of The R-7](https://www.youtube.com/watch?v=KzGsWw47sMY)
+- [How Europe Designed and Evolved The Ariane Rocket Over Last 4 Decades](https://www.youtube.com/watch?v=DFbzvbkoEYs)
+- [Every Chinese Rocket Design Explained!](https://www.youtube.com/watch?v=kDX5jRo27JY)
+- [The Story of How NASA Went From Space Shuttles To SpaceX & Commercial Rockets](https://www.youtube.com/watch?v=HGICHa1IZKo)
+----------------
 - [Rocket Factory Tour - United Launch Alliance](https://www.youtube.com/watch?v=o0fG_lnVhHw)
 - [Exclusive look inside the world's newest rocket factory!](https://www.youtube.com/watch?v=-VGZ8DGkiyc)
 - [The Saturn V Story (Space Race Documentary) | Spark](https://www.youtube.com/watch?v=zcoIugXUKfM)
@@ -377,6 +384,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Rocket Science: Exclusive look inside Ariane 5 factory - Space](https://www.youtube.com/watch?v=9X73iWzaSFA)
 - [The Ariane 5 Rocket - 100 Launches!](https://www.youtube.com/watch?v=sijTOXxGO7I)
 - [The Proton Rocket & Its Imminent Extinction](https://www.youtube.com/watch?v=XxzUBbm4Zwo)
+- [Is India’s ISRO the most successful Space Agency after NASA?](https://www.youtube.com/watch?v=t_IDvg__OCc)
+- [Will New Glenn be the KING of Heavy Lift Rockets?](https://www.youtube.com/watch?v=3urRWGt2s6k)
 --------
 - [How The Atlas Rocket Evolved Over 60 Years](https://www.youtube.com/watch?v=TeGmIeu0xvI)
 - [A History Of Reused Spacecraft](https://www.youtube.com/watch?v=Y4dYbd_LYv0)
