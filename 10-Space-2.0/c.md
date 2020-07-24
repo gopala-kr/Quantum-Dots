@@ -352,6 +352,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [SpaceX Crew Dragon vs Boeing Starliner Explained](https://www.youtube.com/watch?v=rbBY1W7aRp0)
 - [SpaceX Starship is now the top priority, Crew Dragon updates, Starlink launch with Planet rideshare](https://www.youtube.com/watch?v=J9BPHKILJNw)
 - [See Inside a 50 year old Soyuz Capsule - 1960's Soviet Space Technology](https://www.youtube.com/watch?v=TshVTQnW9gc)
+- [70 Years of SPACEFLIGHTS HISTORY](https://www.youtube.com/watch?v=lHytNRMloj4)
 -----------------
 #### Sapce Launch Vehicles / Rockets
 ----------
@@ -361,6 +362,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [How Europe Designed and Evolved The Ariane Rocket Over Last 4 Decades](https://www.youtube.com/watch?v=DFbzvbkoEYs)
 - [Every Chinese Rocket Design Explained!](https://www.youtube.com/watch?v=kDX5jRo27JY)
 - [The Story of How NASA Went From Space Shuttles To SpaceX & Commercial Rockets](https://www.youtube.com/watch?v=HGICHa1IZKo)
+- [Escape Velocity - A Quick History of Space Exploration](https://www.youtube.com/watch?v=PLcE3AI9wwE)
+- [Meet the Saturn Rockets!](https://www.youtube.com/watch?v=lrRsOEZMfy0)
+- [Bigger and Better Saturn V Rockets that Weren't](https://www.youtube.com/watch?v=PetUQPu1wTA)
 ----------------
 - [Rocket Factory Tour - United Launch Alliance](https://www.youtube.com/watch?v=o0fG_lnVhHw)
 - [Exclusive look inside the world's newest rocket factory!](https://www.youtube.com/watch?v=-VGZ8DGkiyc)
@@ -418,7 +422,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Ion Drives And Electric Propulsion ](https://www.youtube.com/watch?v=Li7_yFiNaIA)
 - [The Nuclear Rockets That Could Get Us To Mars And Beyond](https://www.youtube.com/watch?v=ZSNxaWkuoRo)
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
-
+- [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
 ------------------
 #### Some Sci-Fi's
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
