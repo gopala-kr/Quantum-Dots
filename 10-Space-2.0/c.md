@@ -356,6 +356,12 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [SpaceX Starship is now the top priority, Crew Dragon updates, Starlink launch with Planet rideshare](https://www.youtube.com/watch?v=J9BPHKILJNw)
 - [See Inside a 50 year old Soyuz Capsule - 1960's Soviet Space Technology](https://www.youtube.com/watch?v=TshVTQnW9gc)
 - [70 Years of SPACEFLIGHTS HISTORY](https://www.youtube.com/watch?v=lHytNRMloj4)
+--------------------------
+![1024x837](https://drugsandotherthings.files.wordpress.com/2014/11/1024x837.jpg)
+----------------
+![dlattach](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=38594.0;attach=1089969;image)
+---------------
+![components](https://zlsadesign.com/infographic/vehicle/spacex-dragon1-components.png)
 ----------------
 ![CFDPK1gUIAEyt](https://pbs.twimg.com/media/CFDPK1gUIAEyt-L.jpg)
 ----------
@@ -476,12 +482,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Halo Drive](https://www.youtube.com/watch?v=L1ytpj3y21E)
 - [Nanotube Strength, Bad News for Space Elevators [2019]](https://www.youtube.com/watch?v=u7tjYISFNs4)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
---------------------------
-![1024x837](https://drugsandotherthings.files.wordpress.com/2014/11/1024x837.jpg)
-----------------
-![dlattach](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=38594.0;attach=1089969;image)
----------------
-![components](https://zlsadesign.com/infographic/vehicle/spacex-dragon1-components.png)
+
 -------------------
 ![MannedSpacecraft](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MannedSpacecraft.gif/1920px-MannedSpacecraft.gif)
 ---------------
@@ -496,6 +497,12 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![cdx6g0poonqz](https://i.redd.it/cdx6g0poonqz.png)
 ----------------
 ![saupload_hJC](https://static.seekingalpha.com/uploads/2018/9/24/saupload_hJC-NgPiSsrwAZdIlJLnTktw2PWTLlAeskseUeMt7sQ3hZubE444uhJ2DjxdoYkXX8V2N1vNdrepqaadCbabCr1begr-xauxyNKO_erVt75GqRa1u1n7K3HJHiPBNXWNCChwX7pg.png)
+-----------------
+![a5484ebf57aa8489757ca81b9cb2e30c](https://upload.wikimedia.org/wikipedia/en/timeline/a5484ebf57aa8489757ca81b9cb2e30c.png)
+------------
+![Super_heavy](https://upload.wikimedia.org/wikipedia/commons/d/db/Super_heavy-lift_launch_vehicles.png)
+-------------
+![Saturn_V_launches](https://upload.wikimedia.org/wikipedia/commons/e/e6/Saturn_V_launches.jpg)
 ---------------------------
 -----------------
 #### Space Exploration 1.0
