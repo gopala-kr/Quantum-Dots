@@ -149,6 +149,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 #### Space Stations
 
 ![8e90544e60cb21f36f99add66ee87dd2](https://upload.wikimedia.org/wikipedia/en/timeline/8e90544e60cb21f36f99add66ee87dd2.png)
+------------
+![a63cb1c8c328e1b215042a6fdbeee2d2](https://upload.wikimedia.org/wikipedia/ne/timeline/a63cb1c8c328e1b215042a6fdbeee2d2.png)
 -----------
 
 
@@ -354,6 +356,16 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [SpaceX Starship is now the top priority, Crew Dragon updates, Starlink launch with Planet rideshare](https://www.youtube.com/watch?v=J9BPHKILJNw)
 - [See Inside a 50 year old Soyuz Capsule - 1960's Soviet Space Technology](https://www.youtube.com/watch?v=TshVTQnW9gc)
 - [70 Years of SPACEFLIGHTS HISTORY](https://www.youtube.com/watch?v=lHytNRMloj4)
+----------------
+![CFDPK1gUIAEyt](https://pbs.twimg.com/media/CFDPK1gUIAEyt-L.jpg)
+----------
+![capsules](https://www.chartgeek.com/wp-content/uploads/2012/06/space-capsules-21.jpg)
+--------------
+![up050248](https://www.raumfahrer.net/forum/yabbfiles/Attachments/up050248.png)
+---------------
+![ISS_Visiting_Vehicles_1200x700_RK2019](https://historicspacecraft.com/Diagrams/S/ISS_Visiting_Vehicles_1200x700_RK2019.jpg)
+
+-------------------------
 -----------------
 #### Sapce Launch Vehicles / Rockets
 ----------
@@ -430,6 +442,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Nuclear Rockets That Could Get Us To Mars And Beyond](https://www.youtube.com/watch?v=ZSNxaWkuoRo)
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
 - [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
+
+----------------
+![36811955cba5d61da5027c7bb1c2deb2](https://i.pinimg.com/originals/36/81/19/36811955cba5d61da5027c7bb1c2deb2.jpg)
 ------------------
 #### Some Sci-Fi's
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
@@ -461,8 +476,27 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Halo Drive](https://www.youtube.com/watch?v=L1ytpj3y21E)
 - [Nanotube Strength, Bad News for Space Elevators [2019]](https://www.youtube.com/watch?v=u7tjYISFNs4)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
-
-
+--------------------------
+![1024x837](https://drugsandotherthings.files.wordpress.com/2014/11/1024x837.jpg)
+----------------
+![dlattach](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=38594.0;attach=1089969;image)
+---------------
+![components](https://zlsadesign.com/infographic/vehicle/spacex-dragon1-components.png)
+-------------------
+![MannedSpacecraft](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MannedSpacecraft.gif/1920px-MannedSpacecraft.gif)
+---------------
+![d3f1ec6c64b0d9b3a778004c27cafc5a](https://i.pinimg.com/originals/d3/f1/ec/d3f1ec6c64b0d9b3a778004c27cafc5a.jpg)
+----------
+![f2de58d85433458b74b9735173741b63](https://i.pinimg.com/originals/f2/de/58/f2de58d85433458b74b9735173741b63.jpg)
+----------
+![gf4dUIs](https://i.imgur.com/gf4dUIs.png)
+---------------
+![fbvtj5jpirk01](https://i.redd.it/fbvtj5jpirk01.jpg)
+---------------
+![cdx6g0poonqz](https://i.redd.it/cdx6g0poonqz.png)
+----------------
+![saupload_hJC](https://static.seekingalpha.com/uploads/2018/9/24/saupload_hJC-NgPiSsrwAZdIlJLnTktw2PWTLlAeskseUeMt7sQ3hZubE444uhJ2DjxdoYkXX8V2N1vNdrepqaadCbabCr1begr-xauxyNKO_erVt75GqRa1u1n7K3HJHiPBNXWNCChwX7pg.png)
+---------------------------
 -----------------
 #### Space Exploration 1.0
 
@@ -473,6 +507,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![MannedTimeline_lg](https://fl-pda.org/independent/courses/elementary/science/_images/3f-MannedTimeline_lg.gif)
 --------
 ![DwGV7KhWwAAFBv2](https://pbs.twimg.com/media/DwGV7KhWwAAFBv2.jpg)
+------------
+![Space_Population](https://upload.wikimedia.org/wikipedia/commons/0/01/Space_Population.png)
+---------------
+![Economist](https://www.performancemagazine.org/wp-content/uploads/Manned-Spaceflight-History-The-Economist.jpg)
 ----------
 ----------
 #### Space Exploration 2.0
@@ -763,6 +801,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![Photo1](https://cdn.arstechnica.net/wp-content/uploads/2019/05/Photo1-Copy-2.jpg)
 -----
 ![rHxFVkrpmm2gx4GSACKzE6](https://cdn.mos.cms.futurecdn.net/rHxFVkrpmm2gx4GSACKzE6-1200-80.jpg)
+-------------
+![isecg_strategy_1](http://www.russianspaceweb.com/images/spacecraft/manned/isecg_strategy_1.jpg)
 ---------
 ----------------
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
