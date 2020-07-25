@@ -431,6 +431,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 #### Rocket Propulsion
 
 - [NASA’S LAUNCH PROPULSION SYSTEMS TECHNOLOGY ROADMAP](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120014957.pdf)
+- [The future of commercial space transportation](https://www.thespacereview.com/article/3776/1)
 -------------------------
 - [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 - [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
@@ -465,6 +466,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -------------
 
 ![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-2-1024x576.jpg)
+------------
+![wn6hk5s8n5e21](https://i.redd.it/wn6hk5s8n5e21.jpg)
 -----------------
 ![36811955cba5d61da5027c7bb1c2deb2](https://i.pinimg.com/originals/36/81/19/36811955cba5d61da5027c7bb1c2deb2.jpg)
 ------------------
@@ -531,6 +534,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
 ---------------
 ![nr3DlYs](https://i.imgur.com/nr3DlYs.jpg)
+--------------
+![mww2x020s2k01](https://i.redd.it/mww2x020s2k01.png)
+------------------
+![20151209](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/104978/area14mp/image-20151209-3266-n6mlox.png)
 ---------------------------
 -----------------
 #### Space Exploration 1.0
