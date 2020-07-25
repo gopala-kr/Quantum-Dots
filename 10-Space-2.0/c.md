@@ -471,6 +471,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![UnmannedTimeline_lg](https://fl-pda.org/independent/courses/elementary/science/_images/3f-UnmannedTimeline_lg.gif)
 ----------
 ![MannedTimeline_lg](https://fl-pda.org/independent/courses/elementary/science/_images/3f-MannedTimeline_lg.gif)
+--------
+![DwGV7KhWwAAFBv2](https://pbs.twimg.com/media/DwGV7KhWwAAFBv2.jpg)
 ----------
 ----------
 #### Space Exploration 2.0
@@ -753,6 +755,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![Artemis_Phase_1](https://upload.wikimedia.org/wikipedia/commons/6/67/Artemis_Phase_1.jpg)
 ----------
 ![gateway_configuration_concept_5march2019_final](https://spacenews.com/wp-content/uploads/2019/04/gateway_configuration_concept_5march2019_final.jpg)
+---------
+![20141101_mars](https://planetary.s3.amazonaws.com/assets/images/charts-diagrams/20141101_mars-split-mission-concept.png)
 --------
 ![future_of_exploration_sls](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/future_of_exploration_sls.jpg)
 -----------
