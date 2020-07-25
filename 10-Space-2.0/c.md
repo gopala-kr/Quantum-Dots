@@ -21,6 +21,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
 - [An International Comparison of Space History, Policy and Industrial Capability](https://www.sasic.sa.gov.au/docs/default-source/default-document-library/gabriele_lania.pdf?sfvrsn=c7bcecb0_2)
 - [Foundations of SupplyChainManagement for Space Application](http://strategic.mit.edu/docs/3_84-AIAA-2006-7234.pdf)
+- [CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers](https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf)
 ---------
 ![img_main_zoom](http://www.mitsubishielectric.com/bu/space/overview/img/img_main_zoom.jpg)
 ----------
