@@ -461,6 +461,22 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [The Halo Drive](https://www.youtube.com/watch?v=L1ytpj3y21E)
 - [Nanotube Strength, Bad News for Space Elevators [2019]](https://www.youtube.com/watch?v=u7tjYISFNs4)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
+
+
+-----------------
+#### Space Exploration 1.0
+
+- [Elementary Science](https://fl-pda.org/independent/courses/elementary/science/learnAct.htm)
+----------
+![UnmannedTimeline_lg](https://fl-pda.org/independent/courses/elementary/science/_images/3f-UnmannedTimeline_lg.gif)
+----------
+![MannedTimeline_lg](https://fl-pda.org/independent/courses/elementary/science/_images/3f-MannedTimeline_lg.gif)
+----------
+----------
+#### Space Exploration 2.0
+
+![]()
+----------
 -----------
 -----------------
 ------------------
@@ -723,11 +739,26 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -----------
 
 ![fed_projects_v_apollo](https://christopherrcooper.com/blog/assets/fed_projects_v_apollo.jpg)
+
 ---------
 -------
+![979302d332fd3851493a087298c2345a](https://i.pinimg.com/originals/97/93/02/979302d332fd3851493a087298c2345a.jpg)
+--------------
+![artemis](https://www.nasa.gov/sites/default/files/thumbnails/image/artemis-1-update.jpg)
+---------
+![Artemis_2_Trajectory](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Artemis_2_Trajectory.jpg/1200px-Artemis_2_Trajectory.jpg)
+----------
+![Artemis_III](https://upload.wikimedia.org/wikipedia/commons/5/5e/Artemis_III.jpg)
+----------
+![Artemis_Phase_1](https://upload.wikimedia.org/wikipedia/commons/6/67/Artemis_Phase_1.jpg)
+----------
+![gateway_configuration_concept_5march2019_final](https://spacenews.com/wp-content/uploads/2019/04/gateway_configuration_concept_5march2019_final.jpg)
+--------
 ![future_of_exploration_sls](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/future_of_exploration_sls.jpg)
 -----------
 ![Photo1](https://cdn.arstechnica.net/wp-content/uploads/2019/05/Photo1-Copy-2.jpg)
+-----
+![rHxFVkrpmm2gx4GSACKzE6](https://cdn.mos.cms.futurecdn.net/rHxFVkrpmm2gx4GSACKzE6-1200-80.jpg)
 ---------
 ----------------
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
