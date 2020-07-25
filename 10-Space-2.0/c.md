@@ -461,6 +461,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ---------------------
 ![S0094576516301941](https://ars.els-cdn.com/content/image/1-s2.0-S0094576516301941-gr1.jpg)
 -------------------
+![pD_C0PcZCn2m0ABBy3mFDA](https://miro.medium.com/max/2068/1*pD_C0PcZCn2m0ABBy3mFDA.png)
+-----------------
 ![Timeline](https://everydayastronaut.com/wp-content/uploads/2019/10/Aerospike-Timeline.00_40_47_15.Still146.jpg)
 ------------
 ![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-1-1024x576.jpg)
