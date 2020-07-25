@@ -450,6 +450,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
 
 ----------------
+![S0094576516301941](https://ars.els-cdn.com/content/image/1-s2.0-S0094576516301941-gr1.jpg)
+-------------------
+![e1118](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf02.jpg)
+-----------------
 ![36811955cba5d61da5027c7bb1c2deb2](https://i.pinimg.com/originals/36/81/19/36811955cba5d61da5027c7bb1c2deb2.jpg)
 ------------------
 #### Some Sci-Fi's
@@ -507,6 +511,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![Shuttle_profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shuttle_profiles.jpg/1920px-Shuttle_profiles.jpg)
 -------------
 ![launch_vehicles](https://www.isro.gov.in/sites/default/files/launch_vehicles.jpg)
+--------------
+![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
 ---------------------------
 -----------------
 #### Space Exploration 1.0
@@ -526,7 +532,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ----------
 #### Space Exploration 2.0
 
-![]()
+![Cadence_rocket](https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/Cadence_rocket-equation-earth-orbit-fig4-scaled.png?ssl=1)
 ----------
 -----------
 -----------------
