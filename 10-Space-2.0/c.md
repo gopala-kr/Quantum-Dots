@@ -428,6 +428,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Abandoned Space Hardware: CANCELLED Part 2](https://www.youtube.com/watch?v=P-yWHOgi6so)
 - [Landing Model Rockets - Series](https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I)
 ------------------
+#### Rocket Propulsion
+
+- [NASA’S LAUNCH PROPULSION SYSTEMS TECHNOLOGY ROADMAP](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120014957.pdf)
+-------------------------
 - [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 - [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
 - [Why Russian rocket engines are so popular today](https://www.youtube.com/watch?v=0h2HbczuBbw)
@@ -451,11 +455,20 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
 
 ----------------
+![e1118](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf14.jpg)
+---------------------
 ![S0094576516301941](https://ars.els-cdn.com/content/image/1-s2.0-S0094576516301941-gr1.jpg)
 -------------------
-![e1118](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf02.jpg)
+![Timeline](https://everydayastronaut.com/wp-content/uploads/2019/10/Aerospike-Timeline.00_40_47_15.Still146.jpg)
+------------
+![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-1-1024x576.jpg)
+-------------
+
+![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-2-1024x576.jpg)
 -----------------
 ![36811955cba5d61da5027c7bb1c2deb2](https://i.pinimg.com/originals/36/81/19/36811955cba5d61da5027c7bb1c2deb2.jpg)
+------------------
+![7b81ba6b7cbaced5f3df6b841db343e7](https://qph.fs.quoracdn.net/main-qimg-7b81ba6b7cbaced5f3df6b841db343e7)
 ------------------
 #### Some Sci-Fi's
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
@@ -489,6 +502,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
 
 -------------------
+![delta-v-earth-moon-mars](https://i1.wp.com/jatan.space/wp-content/uploads/2020/07/delta-v-earth-moon-mars.jpg?fit=1024%2C576&ssl=1)
+----------------
 ![MannedSpacecraft](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MannedSpacecraft.gif/1920px-MannedSpacecraft.gif)
 ---------------
 ![d3f1ec6c64b0d9b3a778004c27cafc5a](https://i.pinimg.com/originals/d3/f1/ec/d3f1ec6c64b0d9b3a778004c27cafc5a.jpg)
@@ -514,6 +529,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![launch_vehicles](https://www.isro.gov.in/sites/default/files/launch_vehicles.jpg)
 --------------
 ![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
+---------------
+![nr3DlYs](https://i.imgur.com/nr3DlYs.jpg)
 ---------------------------
 -----------------
 #### Space Exploration 1.0
