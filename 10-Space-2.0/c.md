@@ -66,10 +66,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [European Global Navigation Satellite Systems (GNSS)](https://www.youtube.com/playlist?list=PLoW55g8cihhIEK-2MzySSgMis1rnipklN)
 --------
 ![img_ph01_zoom](http://www.mitsubishielectric.com/bu/space/worldwide/img/img_ph01_zoom.jpg)
-------------
-![20Infographic_WEB](https://www.lockheedmartin.com/content/dam/lockheed-martin/space/photo/gps/2019%20GPS%20Heritage%20Infographic_WEB.jpg)
---------
-![b3d43459d42f](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F228acaa0-baf0-11ea-94af-b3d43459d42f-standard.png?source=app&width=600&fit=scale-down)
 -----------
 ![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 ----------------
@@ -444,8 +440,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
 
 ----------------
-![nasa-in-space-propulsion-roadmap](https://cdn.arstechnica.net/wp-content/uploads/sites/3/2015/06/nasa-in-space-propulsion-roadmap-infographic.jpg)
---------------
 ![e1118](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf14.jpg)
 ---------------------
 ![Timeline](https://everydayastronaut.com/wp-content/uploads/2019/10/Aerospike-Timeline.00_40_47_15.Still146.jpg)
@@ -460,8 +454,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ------------------
 ![7b81ba6b7cbaced5f3df6b841db343e7](https://qph.fs.quoracdn.net/main-qimg-7b81ba6b7cbaced5f3df6b841db343e7)
 --------------
-![delta-v-earth-moon-mars](https://i1.wp.com/jatan.space/wp-content/uploads/2020/07/delta-v-earth-moon-mars.jpg?fit=1024%2C576&ssl=1)
--------------
+
 ![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
 ---------------
 ----------------
@@ -498,7 +491,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
 
 -------------------
-
+![delta-v-earth-moon-mars](https://i1.wp.com/jatan.space/wp-content/uploads/2020/07/delta-v-earth-moon-mars.jpg?fit=1024%2C576&ssl=1)
+-------------
 ![MannedSpacecraft](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MannedSpacecraft.gif/1920px-MannedSpacecraft.gif)
 ---------------
 ![d3f1ec6c64b0d9b3a778004c27cafc5a](https://i.pinimg.com/originals/d3/f1/ec/d3f1ec6c64b0d9b3a778004c27cafc5a.jpg)
@@ -518,17 +512,11 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![Super_heavy](https://upload.wikimedia.org/wikipedia/commons/d/db/Super_heavy-lift_launch_vehicles.png)
 -------------
 
-![launch_vehicles](https://www.isro.gov.in/sites/default/files/launch_vehicles.jpg)
------------
-![ISRO_rockets](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ISRO_rockets.JPG/1280px-ISRO_rockets.JPG)
---------------
-
 ![nr3DlYs](https://i.imgur.com/nr3DlYs.jpg)
 --------------
 ![mww2x020s2k01](https://i.redd.it/mww2x020s2k01.png)
 ------------------
-![20151209](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/104978/area14mp/image-20151209-3266-n6mlox.png)
-----------
+
 ![15420629834239204](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629834239204.png)
 ---------
 ![HaeTidrnNjui9AKp4gE0xbyJ_uSLVRUZJ0k9pHWIjxQ](https://external-preview.redd.it/HaeTidrnNjui9AKp4gE0xbyJ_uSLVRUZJ0k9pHWIjxQ.png?auto=webp&s=fcc79f5feb890c329200865c0e237819dcd2f07b)
@@ -558,8 +546,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 #### Space Exploration 2.0
 
 ----------
-![2175-9146-jatm-10-e1118-gf01](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf01.jpg)
-----------------
 ![Cadence_rocket](https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/Cadence_rocket-equation-earth-orbit-fig4-scaled.png?ssl=1)
 ----------
 -----------
