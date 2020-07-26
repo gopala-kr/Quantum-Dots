@@ -101,6 +101,10 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![satellites](https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/Starlink-satellites-SpaceX-constellation-2436810.jpg?r=1588255731870)
 ----------
 ![OneWeb](https://spacenews.com/wp-content/uploads/2015/10/OneWeb-ABS-analysis-Oct-2015.007.jpeg)
+---------
+![253c0599](https://www.es.kearney.com/documents/20152/10582403/FG-Achieving-Australian-Leadership-in-Space-3.png/253c0599-229e-fdb1-08d4-c072ae73b59f?t=1588744016017)
+---------
+![160707m_kinjo01_e](https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/artimage/2016/10/18/d1e_31/160707m_kinjo01_e.png)
 -------
 ![Constellations](http://3.bp.blogspot.com/-QPTPKB_bmVA/XNBo_tDyQbI/AAAAAAAAPRc/M1LzvEBlLVQunaJMjLYWcSmK2xyaZB8ogCK4BGAYYCw/s1600/Constellations-879x573.jpg)
 -------
@@ -360,19 +364,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 --------------------------
 ![1024x837](https://drugsandotherthings.files.wordpress.com/2014/11/1024x837.jpg)
 ----------------
-![dlattach](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=38594.0;attach=1089969;image)
----------------
-![components](https://zlsadesign.com/infographic/vehicle/spacex-dragon1-components.png)
-----------------
 ![CFDPK1gUIAEyt](https://pbs.twimg.com/media/CFDPK1gUIAEyt-L.jpg)
 ----------
-![capsules](https://www.chartgeek.com/wp-content/uploads/2012/06/space-capsules-21.jpg)
---------------
-![up050248](https://www.raumfahrer.net/forum/yabbfiles/Attachments/up050248.png)
----------------
 ![ISS_Visiting_Vehicles_1200x700_RK2019](https://historicspacecraft.com/Diagrams/S/ISS_Visiting_Vehicles_1200x700_RK2019.jpg)
---------------
-![5ed8bf4a6185070006a94914](https://specials-images.forbesimg.com/imageserve/5ed8bf4a6185070006a94914/960x0.jpg?fit=scale)
 -------------------------
 -----------------
 #### Sapce Launch Vehicles / Rockets
@@ -433,6 +427,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 
 - [NASA’S LAUNCH PROPULSION SYSTEMS TECHNOLOGY ROADMAP](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20120014957.pdf)
 - [The future of commercial space transportation](https://www.thespacereview.com/article/3776/1)
+- [COMPETING IN SPACE](https://media.defense.gov/2019/Jan/16/2002080386/-1/-1/1/190115-F-NV711-0002.PDF)
+- [Space Technology Roadmaps](https://www.nasa.gov/pdf/501627main_TASR-TABS_Foldouts-A.pdf)
 -------------------------
 - [Is SpaceX's Raptor engine the king of rocket engines?](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 - [The Rocket Engines Carrying Us to Space. The SLS RS-25 (aka The Space Shuttle Main Engine)](https://www.youtube.com/watch?v=YKiB7FuF8kA)
@@ -457,26 +453,27 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [What's the Best Kind of Rocket Fuel?](https://www.youtube.com/watch?v=21Kk505NKXY)
 
 ----------------
+![nasa-in-space-propulsion-roadmap](https://cdn.arstechnica.net/wp-content/uploads/sites/3/2015/06/nasa-in-space-propulsion-roadmap-infographic.jpg)
+--------------
 ![e1118](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf14.jpg)
 ---------------------
-![S0094576516301941](https://ars.els-cdn.com/content/image/1-s2.0-S0094576516301941-gr1.jpg)
--------------------
-![pD_C0PcZCn2m0ABBy3mFDA](https://miro.medium.com/max/2068/1*pD_C0PcZCn2m0ABBy3mFDA.png)
------------------
 ![Timeline](https://everydayastronaut.com/wp-content/uploads/2019/10/Aerospike-Timeline.00_40_47_15.Still146.jpg)
 ------------
 ![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-1-1024x576.jpg)
 -------------
-
 ![comparison](https://everydayastronaut.com/wp-content/uploads/2019/05/Engine-comparison-2-1024x576.jpg)
 ------------
 ![wn6hk5s8n5e21](https://i.redd.it/wn6hk5s8n5e21.jpg)
 -----------------
-![3807070_orig](https://spaceflight101.com/spx/wp-content/uploads/sites/113/2016/09/3807070_orig.jpg)
--------------
 ![36811955cba5d61da5027c7bb1c2deb2](https://i.pinimg.com/originals/36/81/19/36811955cba5d61da5027c7bb1c2deb2.jpg)
 ------------------
 ![7b81ba6b7cbaced5f3df6b841db343e7](https://qph.fs.quoracdn.net/main-qimg-7b81ba6b7cbaced5f3df6b841db343e7)
+--------------
+![delta-v-earth-moon-mars](https://i1.wp.com/jatan.space/wp-content/uploads/2020/07/delta-v-earth-moon-mars.jpg?fit=1024%2C576&ssl=1)
+-------------
+![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
+---------------
+----------------
 ------------------
 #### Some Sci-Fi's
 - [Interplanetary Nuclear Fusion Rockets, A Mini-Documentary](https://www.youtube.com/watch?v=NwS_aHfE6Es)
@@ -510,8 +507,7 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
 
 -------------------
-![delta-v-earth-moon-mars](https://i1.wp.com/jatan.space/wp-content/uploads/2020/07/delta-v-earth-moon-mars.jpg?fit=1024%2C576&ssl=1)
-----------------
+
 ![MannedSpacecraft](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MannedSpacecraft.gif/1920px-MannedSpacecraft.gif)
 ---------------
 ![d3f1ec6c64b0d9b3a778004c27cafc5a](https://i.pinimg.com/originals/d3/f1/ec/d3f1ec6c64b0d9b3a778004c27cafc5a.jpg)
@@ -530,21 +526,27 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ------------
 ![Super_heavy](https://upload.wikimedia.org/wikipedia/commons/d/db/Super_heavy-lift_launch_vehicles.png)
 -------------
-![Saturn_V_launches](https://upload.wikimedia.org/wikipedia/commons/e/e6/Saturn_V_launches.jpg)
------------------
-![Shuttle_profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shuttle_profiles.jpg/1920px-Shuttle_profiles.jpg)
--------------
+
 ![launch_vehicles](https://www.isro.gov.in/sites/default/files/launch_vehicles.jpg)
+-----------
+![ISRO_rockets](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ISRO_rockets.JPG/1280px-ISRO_rockets.JPG)
 --------------
-![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
----------------
+
 ![nr3DlYs](https://i.imgur.com/nr3DlYs.jpg)
 --------------
 ![mww2x020s2k01](https://i.redd.it/mww2x020s2k01.png)
 ------------------
 ![20151209](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/104978/area14mp/image-20151209-3266-n6mlox.png)
------------------
-![Artemis](https://everydayastronaut.com/wp-content/uploads/2020/04/Artemis-SLS-Orion-Inventory.jpg)
+----------
+![15420629834239204](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629834239204.png)
+---------
+![HaeTidrnNjui9AKp4gE0xbyJ_uSLVRUZJ0k9pHWIjxQ](https://external-preview.redd.it/HaeTidrnNjui9AKp4gE0xbyJ_uSLVRUZJ0k9pHWIjxQ.png?auto=webp&s=fcc79f5feb890c329200865c0e237819dcd2f07b)
+---------
+![rQRABjj](https://i.imgur.com/rQRABjj.png)
+-----------
+![small_launch_survey_2_990](https://media2.spaceq.ca/wp-content/uploads/2018/08/23170801/small_launch_survey_2_990.jpg)
+----------
+![Nanosats_years_launchers_2020](https://www.nanosats.eu/img/fig/Nanosats_years_launchers_2020-04-20.png)
 ---------------------------
 -----------------
 #### Space Exploration 1.0
@@ -564,6 +566,9 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ----------
 #### Space Exploration 2.0
 
+----------
+![2175-9146-jatm-10-e1118-gf01](https://www.scielo.br/img/revistas/jatm/v10//2175-9146-jatm-10-e1118-gf01.jpg)
+----------------
 ![Cadence_rocket](https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/Cadence_rocket-equation-earth-orbit-fig4-scaled.png?ssl=1)
 ----------
 -----------
