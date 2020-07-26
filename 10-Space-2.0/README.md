@@ -14,13 +14,13 @@
 - World Economics - [gopala-kr/a-week-in-wild-ai/blob/master/UToE/ec.md](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/UToE/ec.md)
 
 ----------------
-#### [Global Aeronuatical Industry Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/g.md)
+#### [Global Aeronautical Industry Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/g.md)
 
 -------------------------
 
 #### Global Space Industry Analysis
 
- - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_indusrty_overview.md)
+ - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
  - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md)
  - [Satellite Constellations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellite_constellation.md)
  - [Space Debris](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_debris.md)
@@ -31,6 +31,19 @@
  - [Making of Artificial Gravity](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/artificial_gravity.md)
  - [Space Travel Artifcats: Sapcecrapts, Spaceships, Elevators, Launch Vehicles](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/spacecrafts_%26_rockets.md)
  - [Space Exploration 1.0 and 2.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
+ - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md)
+ - [Future of Space Exploration]
+ 
+--------------------
+#### Astronomy
+   - Ground
+   - Space
+   - Exoplanets
+
+----------------
+#### Applied Physics
+   - Particle Physics
+   - Nuclear
 
 ----------------
 ---------------------------
