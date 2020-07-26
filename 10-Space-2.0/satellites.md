@@ -1,0 +1,63 @@
+#### Satellites
+
+
+- [List of Earth observation satellites](https://en.wikipedia.org/wiki/List_of_Earth_observation_satellites)
+- [List of communication satellite companies](https://en.wikipedia.org/wiki/List_of_communication_satellite_companies)
+- [Satellite Navigation Systems](https://en.wikipedia.org/wiki/Satellite_navigation)
+- [How New Start-Up Space Companies Have Influenced the U.S. Supply Chain](https://www.nasa.gov/sites/default/files/atoms/files/start_up_space_supply_chain_20170803.pdf)
+- [Database of nanosatellites,
+over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
+- [2020 State of the Satellite Industry Report](https://sia.org/wp-content/uploads/2020/07/2020-SSIR-2-Pager-20200701.pdf)
+- [Main trends and challengesin the space sectorJune 2019pwc.fr/space](https://www.pwc.fr/fr/assets/files/pdf/2019/06/fr-pwc-main-trends-and-challenges-in-the-space-sector.pdf)
+- [Preparing to scale participation in India’s commercial space sector](https://www.pwc.in/assets/pdfs/research-insights/2020/preparing-to-scale-new-heights.pdf?utm_source=dlvr.it&utm_medium=facebook)
+- [An International Comparison of Space History, Policy and Industrial Capability](https://www.sasic.sa.gov.au/docs/default-source/default-document-library/gabriele_lania.pdf?sfvrsn=c7bcecb0_2)
+- [Foundations of SupplyChainManagement for Space Application](http://strategic.mit.edu/docs/3_84-AIAA-2006-7234.pdf)
+- [CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers](https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf)
+---------
+----------
+- [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
+- [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
+- [Geostationary, Molniya, Tundra, Polar & Sun Synchronous Orbits](https://www.youtube.com/watch?v=PZAkiXNJIqc)
+- [Space Flight: The Application of Orbital Mechanics](https://www.youtube.com/watch?v=Am7EwmxBAW8)
+- [If You Could See Every Satellite, What Would The Sky Look Like? 360/VR](https://www.youtube.com/watch?v=dJNGi-bt9NM)
+- [Communication Satellite in Airbus Defence and Space](https://www.youtube.com/watch?v=CCh3b2al7Dg)
+- [BBC How To Build A Satellite](https://www.youtube.com/watch?v=W-1scVSpwbw)
+- [How to Build a $100 Million Satellite](https://www.youtube.com/watch?v=30XpSozOZII)
+- [Inside ISRO: The Making of a Satellite](https://www.youtube.com/watch?v=Jv-RoOEjWGA)
+- [Stacked Boeing’s Satellites Tested for the Rigors of Space](https://www.youtube.com/watch?v=P-lYHj0XtSQ)
+- [A Peek Inside Spire's Satellite Engineering](https://www.youtube.com/watch?v=GlNYsRsVLIk)
+- [Small Satellite Mass Manufacturing](https://www.youtube.com/watch?v=iGxvcx5GyO0)
+- [GOES-R: An Animated Tour of a Weather Satellite](https://www.youtube.com/watch?v=5Ooj-ShktEA)
+- [A weather satellite’s view of 2016](https://www.youtube.com/watch?v=iofLZmmLfAQ)
+- [Satellites and Spacecraft size Comparison](https://www.youtube.com/watch?v=CxNFp_aynHA)
+- [The Smallest Satellite In Space](https://www.youtube.com/watch?v=toPUepMEZGs)
+- [Space: Global Positioning System (GPS) Constellation](https://www.youtube.com/watch?v=v_6yeGcpoyE)
+- [How GPS Works Today](https://www.youtube.com/watch?v=wCcARVbL_Dk)
+- [GPS Modernization](https://www.youtube.com/watch?v=4BHPOuwaPOw)
+- [Building the Most Powerful GPS Satellite Ever - GPS III](https://www.youtube.com/watch?v=MysI2_Sbmsg)
+- [GPS III - Focused on the Future](https://www.youtube.com/watch?v=uYeMP35F7aE)
+- [GPS: An Introduction to Satellite Navigation](https://www.youtube.com/playlist?list=PLGvhNIiu1ubyEOJga50LJMzVXtbUq6CPo)
+- [NavIC - India’s Own GPS | NavIC in Phones Explained](https://www.youtube.com/watch?v=oG3w8MCVKEI)
+- [GAGAN, NavIC, IRNSS & GNSS](https://www.youtube.com/watch?v=rewgsr-GHQE)
+- [In Depth: NavIC: The Indian GPS](https://www.youtube.com/watch?v=Z2nJ4hs5M5c)
+- [Why The US Military Made GPS Free-To-Use](https://www.youtube.com/watch?v=ozAPGnr-934)
+- [The Evolution of Spy Satellites](https://www.youtube.com/watch?v=LSWcnA2iQN0)
+- [Spy Satellites - Imaging](https://www.youtube.com/watch?v=lYEzmR9og8M)
+- [This Small Satellite Could Predict the Next Hurricane](https://www.youtube.com/watch?v=nG9lYpWy6KM)
+- [Cubesats | Mini cube satellites](https://www.youtube.com/watch?v=-BGXRGoEnAc)
+- [CubeSats](https://www.youtube.com/watch?v=ZHxIgGYJojw)
+- [NASA EDGE: CubeSat Workshop](https://www.youtube.com/watch?v=wTvaU24BZMA)
+- [Satellite Microscope - intégration (timelapse)](https://www.youtube.com/watch?v=B2s9L9CWdwA)
+- [Iodine Satellite Assembly](https://www.youtube.com/watch?v=T0XRB5hMXS0)
+- [Inside A Satellite Clean Room](https://www.youtube.com/watch?v=m5dXWJi4pIA)
+- [Scotland's First Satellite - Whats Inside?](https://www.youtube.com/watch?v=f7XsIWo63rE)
+- [How are small satellites changing the earth observation industry?](https://www.youtube.com/watch?v=vd4oecayaMk)
+- [Cube Satellite - Easy Manufacture Process](https://www.youtube.com/watch?v=OaKTpk2bxQE)
+- [The Digital Globe - How Earth observation changed our world](https://www.youtube.com/watch?v=FDFm_0ECSqM)
+- [European Global Navigation Satellite Systems (GNSS)](https://www.youtube.com/playlist?list=PLoW55g8cihhIEK-2MzySSgMis1rnipklN)
+--------
+![img_ph01_zoom](http://www.mitsubishielectric.com/bu/space/worldwide/img/img_ph01_zoom.jpg)
+-----------
+![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
+----------------
+--------
