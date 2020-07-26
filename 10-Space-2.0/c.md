@@ -23,7 +23,6 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Foundations of SupplyChainManagement for Space Application](http://strategic.mit.edu/docs/3_84-AIAA-2006-7234.pdf)
 - [CubeSat 101: Basic Concepts and Processes for First-Time CubeSat Developers](https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf)
 ---------
-![img_main_zoom](http://www.mitsubishielectric.com/bu/space/overview/img/img_main_zoom.jpg)
 ----------
 - [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV)
 - [Countries With The Most Satellites](https://www.youtube.com/watch?v=iuRGHf3t_dw) - Total ~10K :star:
@@ -69,12 +68,11 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![img_ph01_zoom](http://www.mitsubishielectric.com/bu/space/worldwide/img/img_ph01_zoom.jpg)
 ------------
 ![20Infographic_WEB](https://www.lockheedmartin.com/content/dam/lockheed-martin/space/photo/gps/2019%20GPS%20Heritage%20Infographic_WEB.jpg)
-----------
-![satellites](https://www.researchgate.net/profile/Mohamed_Tamazin/publication/304025457/figure/tbl1/AS:614382786588701@1523491679925/1-Summarizes-features-of-the-current-and-future-generations-of-GPS-satellites-42.png)
------------
-![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 --------
 ![b3d43459d42f](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F228acaa0-baf0-11ea-94af-b3d43459d42f-standard.png?source=app&width=600&fit=scale-down)
+-----------
+![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
+----------------
 --------
 #### Satellite Constellation
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
@@ -92,17 +90,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [Airbus OneWeb Satellites](https://www.youtube.com/watch?v=4hu65as2iak) | [OneWeb Satellites Supply Chain](https://www.youtube.com/watch?v=RqA8YWiUcVg)
 
 ------------
-![starlinkview](https://techcrunch.com/wp-content/uploads/2019/05/starlinkview.gif)
---------
-![5HnQSaCk8xF4mXRy](https://miro.medium.com/max/1575/0*5HnQSaCk8xF4mXRy)
----------
-![starlink](https://wisdomiasonindia.files.wordpress.com/2018/06/starlink-constellation.jpg)
----------
-![starlink](https://www.nknews.org/wp-content/uploads/2020/05/starlink-ground-connection_final.jpg)
----------
+
 ![astronomersh](https://scx1.b-cdn.net/csz/news/800/2020/3-astronomersh.jpg)
-----------
-![Broadband](https://www.researchgate.net/profile/Pace_Pasquale/publication/3278784/figure/tbl1/AS:668984231870465@1536509678035/Broadband-Comparison-with-Terrestrial-HAP-Satellite-Systems.png)
 ---------
 ![Satellite](https://www.emfsa.co.za/wp-content/uploads/2020/04/Satellite-table.jpg)
 ---------------
@@ -851,14 +840,14 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ![gateway_configuration_concept_5march2019_final](https://spacenews.com/wp-content/uploads/2019/04/gateway_configuration_concept_5march2019_final.jpg)
 ---------
 ![20141101_mars](https://planetary.s3.amazonaws.com/assets/images/charts-diagrams/20141101_mars-split-mission-concept.png)
+-------------
+![isecg_strategy_1](http://www.russianspaceweb.com/images/spacecraft/manned/isecg_strategy_1.jpg)
 --------
 ![future_of_exploration_sls](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/future_of_exploration_sls.jpg)
 -----------
 ![Photo1](https://cdn.arstechnica.net/wp-content/uploads/2019/05/Photo1-Copy-2.jpg)
 -----
 ![rHxFVkrpmm2gx4GSACKzE6](https://cdn.mos.cms.futurecdn.net/rHxFVkrpmm2gx4GSACKzE6-1200-80.jpg)
--------------
-![isecg_strategy_1](http://www.russianspaceweb.com/images/spacecraft/manned/isecg_strategy_1.jpg)
 ---------
 ----------------
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
