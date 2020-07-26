@@ -74,6 +74,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 -----------
 ![15420629341174164_origin](https://static.seekingalpha.com/uploads/2018/11/12/9932311-15420629341174164_origin.png)
 --------
+![b3d43459d42f](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F228acaa0-baf0-11ea-94af-b3d43459d42f-standard.png?source=app&width=600&fit=scale-down)
+--------
 #### Satellite Constellation
 - [Why SpaceX is Making Starlink](https://www.youtube.com/watch?v=giQ8xEWjnBs)
 - [Why SpaceX And Amazon Are Launching 42,000+ Satellites](https://www.youtube.com/watch?v=Qd3suMNNIVs)
@@ -98,14 +100,12 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 ---------
 ![starlink](https://www.nknews.org/wp-content/uploads/2020/05/starlink-ground-connection_final.jpg)
 ---------
-![satellites](https://cdn.images.express.co.uk/img/dynamic/151/590x/secondary/Starlink-satellites-SpaceX-constellation-2436810.jpg?r=1588255731870)
+![astronomersh](https://scx1.b-cdn.net/csz/news/800/2020/3-astronomersh.jpg)
 ----------
-![OneWeb](https://spacenews.com/wp-content/uploads/2015/10/OneWeb-ABS-analysis-Oct-2015.007.jpeg)
+![Broadband](https://www.researchgate.net/profile/Pace_Pasquale/publication/3278784/figure/tbl1/AS:668984231870465@1536509678035/Broadband-Comparison-with-Terrestrial-HAP-Satellite-Systems.png)
 ---------
-![253c0599](https://www.es.kearney.com/documents/20152/10582403/FG-Achieving-Australian-Leadership-in-Space-3.png/253c0599-229e-fdb1-08d4-c072ae73b59f?t=1588744016017)
----------
-![160707m_kinjo01_e](https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/artimage/2016/10/18/d1e_31/160707m_kinjo01_e.png)
--------
+![Satellite](https://www.emfsa.co.za/wp-content/uploads/2020/04/Satellite-table.jpg)
+---------------
 ![Constellations](http://3.bp.blogspot.com/-QPTPKB_bmVA/XNBo_tDyQbI/AAAAAAAAPRc/M1LzvEBlLVQunaJMjLYWcSmK2xyaZB8ogCK4BGAYYCw/s1600/Constellations-879x573.jpg)
 -------
 ![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
@@ -142,6 +142,8 @@ over 2500 nanosats and CubeSats](https://www.nanosats.eu/)
 - [July 27th, 2016 Fireball "Meteor" Space Junk CZ-7 Re-entry Over California](https://www.youtube.com/watch?v=fFpL36n68eY)
 ------
 ![d41586](https://static.scientificamerican.com/sciam/assets/Image/2018/A-d41586-018-06170-1_16092696.jpg)
+----------
+![astronomersh](https://scx1.b-cdn.net/csz/news/800/2020/6-astronomersh.jpg)
 ---------
 ![d41586](https://static.scientificamerican.com/sciam/assets/Image/2018/B-d41586-018-06170-1_16092698.jpg)
 ----------------------------------
