@@ -19,7 +19,6 @@
 -------------------------
 
 #### Global Space Industry Analysis
-
  - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
    - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md)
  - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md)
@@ -36,8 +35,18 @@
    - Mir
    - Skylab
    - ISS
+   - Tiangong
+   - Genesis I & II
+   - Future Stations
+     - Lunar Gateway(NASA)
+     - Lunar Orbital Station(Roscosmos)
+     - Indian Space Station
+     - Commercial
+       - Axiom Space
+       - Bigelow Aerospace (Alpha, Bravo)
  - [Space Colonization](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_colonization.md)
    - Space Industries
+   - Space Tourism
    - Asteroid Mining
      - Ceres Colonization
    - Space Colonies
@@ -50,15 +59,23 @@
        - Triton(Neptune) - circumstellar
      - Mars Colonization
      - Venus Colonization
-   - Interstellar
-   - Galactic
+   - Interstellar Colonization
+   - Galactic Empires & Colonization
  - [Advanced Civilization's Artifacts(fictional)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/advanced_civilizations.md)
    - Dyson Sphere's
+   - Bernal spheres
+   - Ring Worlds
+   - O'Neill cylinders
+   - McKendree cylinder
+   - Nautilus-X
    - Matrioshka brain
    - Stellar Engine
    - Holography & Simulation
    - Simulated Consciousness
    - Techyons
+   - Telekinesis
+   - Telepathy
+   - Teleportation
    - Fermi paradox
    - Time travel
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md)
@@ -69,8 +86,18 @@
    - Magnetic Levitation
    - Dark Energy & Dark Matter
  - [Space Travel Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/spacecrafts_%26_rockets.md)
-   - Spacecrafts(Unmanned & Manned)
+   - Spacecrafts(Crewed, Uncrewed)
      - Payload
+     - Crewed (Active & In-dev)
+       - Soyuz
+       - Shenzhou
+       - Crew Dragon
+       - Starliner
+       - New Shepard
+       - SpaceShipTwo
+       - Gaganyaan
+       - Orion
+       - Starship
      - Manufacturing Companies
      - Comparision
    - Avionics, Guidance, Navigation & Control
@@ -78,15 +105,17 @@
      - All Propulsion Methods
      - Rocket Engines - Manufacturer's
    - Launch Vehicles(Rockets)
-     - Historical & Current
-     - All Rocket Families(Country)
-     - Private Players(Country)
+     - Historical & Currently Operational
+     - Future Trends
+       - Reusable
+     - All Rocket Families(CountryWise)
+     - Private Players(CountryWise)
      - Payload Capacity & Price Comparison
    - Spaceships
    - Space Elevators
-     - Earth space elevator
-     - Lunar space elevator
-     - Earth-Moon
+     - Earth-space elevator
+     - Lunar-space elevator
+     - Earth-Moon elevator
    - Intersteller Travel
      - Ramjet
      - Magnetic/Light Sail
@@ -95,7 +124,7 @@
      - Breakthrough Starshot(Planned 1000km/s)
      - Project Dragonfly
      - Sleeper Ships(Hibernation & Cryonic Preservation)
-     - 100 Year Starship
+     - 100 Year Starship Mission
    - Fictional
      - Time Machine
      - FTL Travel
@@ -106,26 +135,26 @@
      - Traversable Wormhole
      - Antimatter(Negative Energy)
      - Tachyons
+     - Teleportation
  - [Space Exploration 1.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
    - Historical Missions
      - Unmanned
      - Manned
      - Planetary, Moons, Asteroids, comets
-     - Astrotech Missions
+     - AstroSat Missions
      - Interstellar Probes
     - Orbiters, Landers & Rovers
  - [Future of Space Exploration](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/future_of_space_exploration.md)
    - Artemis Program
-   - Terraforming of Mars
-   
-  - Space Defence Technology
-    - Space Force
-    - Space Warfare
-    - Asteroid Deflection
-      - Gravity Assist
-    - Space Debris Removal
-    - Missile's
-    - Rail Gun
+   - Terraforming Mars
+ - Space Defence Technology
+   - Space Force
+   - Space Warfare
+   - Asteroid Deflection
+     - Gravity Assist
+   - Space Debris Removal
+   - Missile's
+   - Rail Gun
  
 --------------------
 #### Astronomy
