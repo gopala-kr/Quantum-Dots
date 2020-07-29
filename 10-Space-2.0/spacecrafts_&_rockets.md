@@ -24,6 +24,20 @@
 ![ISS_Visiting_Vehicles_1200x700_RK2019](https://historicspacecraft.com/Diagrams/S/ISS_Visiting_Vehicles_1200x700_RK2019.jpg)
 ------------
 ![20200606_STC976](https://www.economist.com/sites/default/files/images/print-edition/20200606_STC976.png)
+------------
+![threecraft](https://cdn.arstechnica.net/wp-content/uploads/2018/04/threecraft.jpg)
+-----------
+![Starliner](https://everydayastronaut.com/wp-content/uploads/2019/02/Boeing-Starliner-vs-SpaceX-Crew-Dragon-vs-soyuz-vs-Space-Shuttle-comparison-lifespan-abort-landing-zone-reuse-1024x576.jpg)
+-----------
+![dragon](https://spaceflight101.com/dragon-spx14/wp-content/uploads/sites/217/2018/03/dragon-spx14-cargo.jpg)
+------------
+![EbKPwtyWoAA17bo](https://pbs.twimg.com/media/EbKPwtyWoAA17bo.jpg)
+-----------
+![MzABnAw](https://i.imgur.com/MzABnAw.png)
+-----------
+![0fdbf2648cdbd31e335b3bbab0a1df11](https://i.pinimg.com/originals/0f/db/f2/0fdbf2648cdbd31e335b3bbab0a1df11.jpg)
+----------
+![n4WSpOv](https://i.imgur.com/n4WSpOv.png)
 -------------------------
 -----------------
 #### Sapce Launch Vehicles / Rockets
@@ -126,7 +140,16 @@
 --------------
 
 ![32854051607_cac4d0e729_k](https://cdn.arstechnica.net/wp-content/uploads/2020/07/32854051607_cac4d0e729_k.jpg)
----------------
+--------
+![Fuel](https://everydayastronaut.com/wp-content/uploads/2019/05/Fuel-graph-1024x576.jpg)
+--------
+![Fuel-tank-sizes-1024x576](https://everydayastronaut.com/wp-content/uploads/2019/05/Fuel-tank-sizes-1024x576.jpg)
+----------
+![675405463826432](https://www.researchgate.net/profile/Sven_Stappert/publication/327069243/figure/fig3/AS:675405463826432@1538040619020/First-stage-dry-mass-of-LOX-LH2-LOX-LCH4-LOX-LC3H8-DLR-launchers-and-Falcon-9-SES-10.png)
+--------
+![31040](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=31040.0;attach=1744115;image)
+---------
+![MKDCLPe](https://i.imgur.com/MKDCLPe.jpg)
 ----------------
 ------------------
 #### Some Sci-Fi's
@@ -195,6 +218,20 @@
 -----------
 ![small_launch_survey_2_990](https://media2.spaceq.ca/wp-content/uploads/2018/08/23170801/small_launch_survey_2_990.jpg)
 ----------
+![20151209](https://images.theconversation.com/files/104978/original/image-20151209-3266-n6mlox.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
+----------
+![Average-Launch-Cost](https://ark-invest.com/wp-content/uploads/2016/08/Average-Launch-Cost.jpg)
+--------
+![20150110_cnc597](https://www.economist.com/sites/default/files/images/2015/01/articles/body/20150110_cnc597.png)
+---------
+![Spacex](https://www.valuewalk.com/wp-content/uploads/2016/05/Spacex.png)
+---------
+![547756844097538](https://www.researchgate.net/profile/Markus_Guerster/publication/320286803/figure/fig13/AS:547756844097538@1507606816762/6-Overview-of-the-production-costs-per-unit-for-the-different-airframe-types.png)
+-----------
 ![Nanosats_years_launchers_2020](https://www.nanosats.eu/img/fig/Nanosats_years_launchers_2020-04-20.png)
+----------
+![Saturn-Family-Historic-Spacecraft](https://rocketreference.com/wp-content/uploads/2019/03/Saturn-Family-Historic-Spacecraft.jpg)
+---------
+![Shuttle_profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shuttle_profiles.jpg/1920px-Shuttle_profiles.jpg)
 ---------------------------
 -----------------
