@@ -155,12 +155,35 @@
    - Space Debris Removal
    - Missile's
    - Rail Gun
- 
+ - Space Agencies
 --------------------
 #### Astronomy
    - Telescopes
      - Ground
-     - Space
+     - Space(Active)
+       - INTEGRAL
+       - Chandra X-ray Observatory
+       - XMM-Newton
+       - NuSTAR
+       - Astrosat
+       - Hubble Space Telescope
+       - Kepler
+       - TESS
+       - NEOSSat
+       - Gaia
+       - CHEOPS
+       - WISE
+       - LISA Pathfinder
+       - Dark Matter Particle Explorer (DAMPE)
+       - International Lunar Observatory (ILO-1)
+       - James Webb Space Telescope (JWST)
+       - Laser Interferometer Space Antenna (LISA)
+       - X-Ray Imaging and Spectroscopy Mission (XRISM)
+       - Euclid
+       - SPHEREx
+       - WFIRST
+       - PLATO
+       - Advanced Telescope for High Energy Astrophysics (ATHENA)
    - Gravitational Wave
    - Exoplanets
      - Extraterrestrial
