@@ -178,8 +178,19 @@
        - On Asteroid Belt(Future)
    - Nuclear Physics
      - Fussion Reactors
-       - ITER
-       - Private Players
+       - Gravitational
+       - Magnetic
+         - Tokamak
+           - ITER
+           - DEMO
+           - PROTO
+           - ADITYA
+           - Private Players
+         - Stellarator
+           - LHD
+           - WEGA
+      - Inertial
+        - Laser
      - Fission Reactors
 
 
