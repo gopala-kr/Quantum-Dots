@@ -1,4 +1,13 @@
 
+- [Royal Institute:Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
+- [Fermilab: Detectors and Accelerators](https://www.youtube.com/playlist?list=PLCfRa7MXBEsrL-SMhfnZFK3nQ7PgMt_1O) :star:
+- [CERN](https://www.youtube.com/c/CERN/playlists) | [CERN Lectures](https://www.youtube.com/channel/UCwXkOx0EuKBR5m_OOiaZRUA/playlists)
+- [Higgs Videos](https://www.youtube.com/playlist?list=PL89E1A71F151D1A4A)
+- [What Now For The Higgs Boson?](https://www.youtube.com/watch?v=649iUqrOKuE)
+- [Nuclear Physics](https://www.youtube.com/playlist?list=PLRN3HroZGu2n_j3Snd_fSYNLvCkao8HIx)
+- [Elementary Particle Physics](https://www.youtube.com/playlist?list=PLRN3HroZGu2lkRDsRxzqy_WU8NRk6evbD)
+- [How to Design a Particle Accelerator - with Suzie Sheehy](https://www.youtube.com/watch?v=V_hirIK9eFs&list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m)
+- [Accelerator Science: Circular vs. Linear](https://www.youtube.com/watch?v=cEzAqmqnv6Y)
 - [Beyond the Higgs: What's Next for the LHC? - with Harry Cliff](https://www.youtube.com/watch?v=edvdzh9Pggg)
 - [Phiala Shanahan Public Lecture: The Building Blocks of the Universe](https://www.youtube.com/watch?v=YkymlrUL0Sw&list=LL&index=125&t=0s)
 - [There Are 30,000 Particle Accelerators In The World; What Do They All Do?!](https://www.youtube.com/watch?v=1iOI8PIosVU)
@@ -13,13 +22,41 @@
 - [What is the Future of Particle Accelerators?](https://www.youtube.com/watch?v=YR66Z54mRaQ)
 - [Inside The World's Largest Particle Accelerator](https://www.youtube.com/watch?v=328pw5Taeg0)
 - [CERN’s Ambitious Plan to Build the Largest Particle Smasher Ever](https://www.youtube.com/watch?v=GOwfLBDMUHg)
+- [Why do hospitals have particle accelerators? - Pedro Brugarolas](https://www.youtube.com/watch?v=KXzONBPcPIk)
+- [Should we build a bigger particle collider? - Sixty Symbols](https://www.youtube.com/watch?v=-cD66O01E4E)
+- [Building a Big Bang Machine on the Moon - with James Beacham](https://www.youtube.com/watch?v=8_zzw4tSOe8) :star:
+- [Powering a Particle Accelerator](https://www.youtube.com/watch?v=-F9EqYLQKYI) :star:
+- [DIY Electron Accelerator - Cathode Ray Tube](https://www.youtube.com/watch?v=nwRBlyZcNso)
+- [Dive Deeper - From Particle Accelerator to Experimental Laboratory](https://www.youtube.com/watch?v=MvKHKiG37GQ)
+- [Wakefield Accelerators: The Future of Particle Colliders? - Deep Dive 1](https://www.youtube.com/watch?v=UZbXGDxMRCw)
+- [How Particle Accelerators Are Used to Cure Cancer - with Simon Jolly](https://www.youtube.com/watch?v=8YnQkUWTS64)
+- [The International Linear Collider: Worldwide Collaboration in the Search for New Physics](https://www.youtube.com/watch?v=SMvnFNq4Sog)
+- [The Large Hadron Collider Returns in the Hunt for New Physics](https://www.youtube.com/watch?v=2wCgpdeQWZA)
+- [The New Hunt for Dark Matter](https://www.youtube.com/watch?v=_HF2qh5M3vs)
+- [Atom Smasher - Particle Accelerator Puzzle Prototype](https://www.youtube.com/watch?v=rM1HBMRzKDM) :star:
+- [Sean Carroll - The Particle at the End of the Universe](https://www.youtube.com/watch?v=RwdY7Eqyguo)
+- [The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+- [The Matter Of Antimatter: Answering The Cosmic Riddle Of Existence](https://www.youtube.com/watch?v=qMMgsjnI1is)
+- [Dark Matter's Not Enough - with Andrew Pontzen](https://www.youtube.com/watch?v=GFxPMMkhHuA)
+- [What Happened At The Beginning Of Time? - with Dan Hooper](https://www.youtube.com/watch?v=dB7d89-YHjM)
+- [What happened before the Big Bang?](https://www.youtube.com/watch?v=dr6nNvw55C4)
+- [Why the Big Bang Definitely Happened | Space Time](https://www.youtube.com/watch?v=aPStj2ZuXug)
+- [Curing Cancer with Proton Beams – with Suzie Sheehy](https://www.youtube.com/watch?v=ZQ7kyocgiho)
+- [Suzie Sheehy - Thorium Fuelled Particle Accelerators](https://www.youtube.com/watch?v=9OJTP93ptTI)
 --------------
+- [List of accelerators in particle physics](https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics)
+- [Particle Accelerators Around the World](http://www-elsa.physik.uni-bonn.de/accelerator_list.html) :star:
 - [History of Particle Colliders](http://www.iop.org/activity/groups/all-groups-match-beta/history-of-phys/file_73235.pdf)
+- [Particle accelerator](https://www.britannica.com/technology/particle-accelerator/Constant-voltage-accelerators)
+- [How Particle Accelerators Work](https://www.energy.gov/articles/how-particle-accelerators-work)
+- [Ten things you might not know about particle accelerators](https://www.symmetrymagazine.org/article/april-2014/ten-things-you-might-not-know-about-particle-accelerators#:~:text=There%20are%20more%20than%2030%2C000%20accelerators%20in%20operation%20around%20the%20world.)
+- [Particles Accelerators,A Historical Overview](https://uspas.fnal.gov/materials/14UNM/L2_HistoricalView.pdf)
 - [The Development of Particle Accelerators from Electrostatic Acceleration to Synchrotrons](https://www.researchgate.net/publication/261794516_The_Development_of_Particle_Accelerators_from_Electrostatic_Acceleration_to_Synchrotrons)
 - [Particle Physics Roadmap(s)](https://indico.mpp.mpg.de/event/2598/contributions/5086/attachments/4169/4610/MPP-PR13-roadmaps.pdf)
 - [Short History of Particle Accelerators ](https://cas.web.cern.ch/sites/cas.web.cern.ch/files/lectures/zakopane-2006/tazzari-history.pdf)
 - [Evolution of Accelerators and Modern Day Applications](https://uspas.fnal.gov/materials/11ODU/Lecture1a_Intro_to_Accelerators.pdf)
 - [A  BRIEF  HISTORY  AND  REVIEW  OF  ACCELERATORS](http://www.afhalifax.ca/magazine/wp-content/sciences/lhc/HistoireDesAccelerateurs/histoire1.pdf)
+- [Introduction to Particle Accelerators and their Limitations](https://cds.cern.ch/record/2203629/files/1418884_29-50.pdf)
 -------------
 ---------------
 ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
