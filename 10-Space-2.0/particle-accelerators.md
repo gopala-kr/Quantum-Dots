@@ -1,5 +1,5 @@
 
-- [Royal Institute:Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
+- [The Royal Institution: Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
 - [Fermilab: Detectors and Accelerators](https://www.youtube.com/playlist?list=PLCfRa7MXBEsrL-SMhfnZFK3nQ7PgMt_1O) :star:
 - [CERN](https://www.youtube.com/c/CERN/playlists) | [CERN Lectures](https://www.youtube.com/channel/UCwXkOx0EuKBR5m_OOiaZRUA/playlists)
 - [Higgs Videos](https://www.youtube.com/playlist?list=PL89E1A71F151D1A4A)
@@ -43,6 +43,8 @@
 - [Why the Big Bang Definitely Happened | Space Time](https://www.youtube.com/watch?v=aPStj2ZuXug)
 - [Curing Cancer with Proton Beams – with Suzie Sheehy](https://www.youtube.com/watch?v=ZQ7kyocgiho)
 - [Suzie Sheehy - Thorium Fuelled Particle Accelerators](https://www.youtube.com/watch?v=9OJTP93ptTI)
+- [The next generation of particle accelerators](https://www.youtube.com/watch?v=-yyREbddRmg)
+- [Accelerator Division at DESY (Deutsches Elektronen-Synchrotron)](https://www.youtube.com/watch?v=aYbfp_FeMh0)
 --------------
 - [List of accelerators in particle physics](https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics)
 - [Particle Accelerators Around the World](http://www-elsa.physik.uni-bonn.de/accelerator_list.html) :star:
