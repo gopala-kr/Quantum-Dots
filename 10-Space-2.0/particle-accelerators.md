@@ -1,4 +1,10 @@
-
+----------------------------
+![55776c57eab8eaef6945a3db](https://i.insider.com/55776c57eab8eaef6945a3db?width=1000&format=gif)
+-----------------------
+![7h0N](https://media3.giphy.com/media/l0Iy1R9uttEN2KCXe/source.gif)
+----------
+![9o78LZ](https://i.makeagif.com/media/4-20-2018/9o78LZ.gif)
+------------------------
 - [The Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [The Royal Institution: Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
 - [Fermilab: Detectors and Accelerators](https://www.youtube.com/playlist?list=PLCfRa7MXBEsrL-SMhfnZFK3nQ7PgMt_1O) :star:
@@ -54,6 +60,19 @@
 - [5 things you should never do with a particle accelerator](https://www.youtube.com/watch?v=8ls1Fuf3lNI)
 - [CERN and the Sense of Beauty - Documentary about the world's largest particle accelerator (2017)](https://www.youtube.com/watch?v=TwUJqiJqP_A)
 --------------
+- [Particle Fever (2013) - CERN](https://www.youtube.com/watch?v=akCJc7K3DUU) | [Particle Fever](https://www.youtube.com/channel/UC6JzfAs3mcvj1EXKmK4vSEQ) :star: :star:
+- [Stanford Lecture Collection | Particle Physics: Basic Concepts](https://www.youtube.com/playlist?list=PLF363FFF951EC0673)
+- [MIT:Patricle Physics](https://www.youtube.com/playlist?list=PLJxMh-ykoQxI5reAYlMfPUSX8mz7WQsXk)
+- [Particle Physics 2020](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf)
+- [Particle Physics](https://www.youtube.com/playlist?list=PL9jo2wQj1WCNq6XDJcVWsGyEY-rscuiqL)
+- [Particles, Fields and The Future of Physics - A Lecture by Sean Carroll](https://www.youtube.com/watch?v=gEKSpZPByD0)
+- [PHYSICS 65 PARTICLE PHYSICS](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWMVfYcsMABmW5xJWdxYzCJ)
+- [PHYS 485: Particle Physics](https://www.youtube.com/playlist?list=PLSrKSt8xhLVrc0ptX1OYr3OWoOvrxBOvz)
+- [Collider Physics - Lecture 1](https://www.youtube.com/results?search_query=Particle+Fever)
+-------------------
+
+Literature Survey:
+
 - [List of accelerators in particle physics](https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics)
 - [Particle Accelerators Around the World](http://www-elsa.physik.uni-bonn.de/accelerator_list.html) :star:
 - [History of Particle Colliders](http://www.iop.org/activity/groups/all-groups-match-beta/history-of-phys/file_73235.pdf)
@@ -67,6 +86,12 @@
 - [Evolution of Accelerators and Modern Day Applications](https://uspas.fnal.gov/materials/11ODU/Lecture1a_Intro_to_Accelerators.pdf)
 - [A  BRIEF  HISTORY  AND  REVIEW  OF  ACCELERATORS](http://www.afhalifax.ca/magazine/wp-content/sciences/lhc/HistoireDesAccelerateurs/histoire1.pdf)
 - [Introduction to Particle Accelerators and their Limitations](https://cds.cern.ch/record/2203629/files/1418884_29-50.pdf)
+
+
+------------
+- [Extraterrestrial artificial particle sources.  Application toneutrino physics and cosmic rays studies.](https://arxiv.org/pdf/2002.12190.pdf)
+- [Why We Should Really Put a Particle Accelerator on the Moon](https://www.popularmechanics.com/space/moon-mars/a32814164/particle-accelerator-moon/)
+- [Why a physicist wants to build a particle collider on the moon](https://www.livescience.com/build-particle-collider-on-moon.html)
 -------------
 ---------------
 ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
