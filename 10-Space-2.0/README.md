@@ -157,6 +157,8 @@
    - Rail Gun
  - Space Agencies
 --------------------
+![3bf1f1_4878672](https://static.fjcdn.com/large/pictures/3b/f1/3bf1f1_4878672.jpg)
+------------------
 #### Astronomy
    - Telescopes
      - Ground
@@ -192,6 +194,7 @@
      
 
 ----------------
+
 #### Applied Physics
    - Particle Physics(high energy)
      - Particle Accelerators
@@ -216,8 +219,8 @@
          - Stellarator
            - LHD
            - WEGA
-      - Inertial
-        - Laser
+       - Inertial
+         - Laser
      - Fission Reactors
 
 
