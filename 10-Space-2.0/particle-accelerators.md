@@ -25,11 +25,29 @@
 --------------
 ![size_restricted](https://thumbs.gfycat.com/VerifiableOldDassie-size_restricted.gif)
 ----------
-
 ![accel-complex-animation](https://www.fnal.gov/pub/science/particle-accelerators/images/accel-complex-animation.gif)
 --------
 ![cern-accelerators](https://static.electronicsweekly.com/wp-content/uploads/2015/08/19123711/cern-accelerators.gif)
 ------------------------
+![Accelerator_InLine_Synchrotron](https://www.symmetrymagazine.org/sites/default/files/images/standard/Accelerator_InLine_Synchrotron.jpg)
+-------------------
+![Accelerator_InLine_LINAC](https://www.symmetrymagazine.org/sites/default/files/images/standard/Accelerator_InLine_LINAC.jpg)
+---------
+![9809007](https://cds.cern.ch/record/39731/files/9809007.jpeg)
+-----------
+![Electrical_consumption_CERN](https://hse.cern/sites/hse.web.cern.ch/files/inline-images/Electrical_consumption_CERN.png)
+---------
+![LHC-plans-to-2036](https://lhc-commissioning.web.cern.ch/schedule/images/LHC-plans-to-2036.png)
+--------
+![projection](https://www.researchgate.net/publication/321571289/figure/fig1/AS:568406228377600@1512530013496/Cost-projection-for-LHC-Data-on-tape-The-corresponding-approximate-growth-in-data-volume.png)
+----------
+![MediaObjects](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42254-019-0050-6/MediaObjects/42254_2019_50_Fig1_HTML.png)
+----------
+![FCC_schematic](https://upload.wikimedia.org/wikipedia/commons/9/96/FCC_schematic.png)
+--------
+![OpenQuestions_jpg](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenQuestions_jpg.jpg)
+-----------------------------------
+------------------------------------------
 - [The Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [The Royal Institution: Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
 - [Fermilab: Detectors and Accelerators](https://www.youtube.com/playlist?list=PLCfRa7MXBEsrL-SMhfnZFK3nQ7PgMt_1O) :star:
@@ -107,6 +125,7 @@
 
 Literature Survey:
 
+- [Particle Accelerators](http://www.particlecentral.com/accelerator_page.html#)
 - [List of accelerators in particle physics](https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics)
 - [Particle Accelerators Around the World](http://www-elsa.physik.uni-bonn.de/accelerator_list.html) :star:
 - [History of Particle Colliders](http://www.iop.org/activity/groups/all-groups-match-beta/history-of-phys/file_73235.pdf)
@@ -192,7 +211,10 @@ Literature Survey:
 ![Properties](https://i1.wp.com/www.aplustopper.com/wp-content/uploads/2016/12/Periodic-Properties.png?fit=698%2C449&ssl=1)
 -----------
 ![Periodicity-Periodic-Table-Trends](https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2014/02/Periodicity-Periodic-Table-Trends.png?ssl=1)
-
+--------
+![Dose_Depth_Curves](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dose_Depth_Curves.svg/600px-Dose_Depth_Curves.svg.png)
+----------
+![1531896107057](https://www.researchgate.net/profile/Michael_Rijssenbeek/publication/40618960/figure/fig5/AS:649633512554502@1531896107057/Cross-sectional-view-of-an-LHC-dipole-The-two-beam-pipes-are-seen-in-the-center-each.png)
 ----------------------
 --------------------------
 ![saw052019_RareEarths_d](https://static.scientificamerican.com/sciam/assets/Image/2019/saw052019_RareEarths_d.png)
