@@ -1,3 +1,16 @@
+---------------------
+----------------------
+![1025galaxies](https://www.universetoday.com/wp-content/uploads/2006/10/2006-1025galaxies.jpg)
+----------
+![cosmology](https://sciencesprings.files.wordpress.com/2017/12/standard-model-of-cosmology-timeline.jpg?w=4000)
+----------------
+![bigbang_expansion_ringing](https://mk0astronomynow9oh6g.kinstacdn.com/wp-content/uploads/2015/07/bigbang_expansion_ringing.gif)
+-------------
+![Future](https://pfs.ipmu.jp/images/CMB_Timeline-Future.jpg)
+-----------
+![53e659f4c2534d389c9993bbf8aec54d](https://i.pinimg.com/originals/53/e6/59/53e659f4c2534d389c9993bbf8aec54d.gif)
+-----------------
+![0gnf_cadE3H0g7ayUSCAKGHNXVNUEYO2a7X_PEULEnfN60Q7DNGUig3BCUep8fr5LqSOTqVA6WI6rf79cVnR0rL](https://lh3.googleusercontent.com/proxy/B2NEoAMn4EDHMxhOaKNjQ_eKVaFWGE4Q-0gnf_cadE3H0g7ayUSCAKGHNXVNUEYO2a7X_PEULEnfN60Q7DNGUig3BCUep8fr5LqSOTqVA6WI6rf79cVnR0rL)
 ----------------------------
 ------------------------------------
 ![55776c57eab8eaef6945a3db](https://i.insider.com/55776c57eab8eaef6945a3db?width=1000&format=gif)
@@ -12,8 +25,7 @@
 --------------
 ![size_restricted](https://thumbs.gfycat.com/VerifiableOldDassie-size_restricted.gif)
 ----------
-![6Kl](https://i.gifer.com/6Kl.gif)
----------
+
 ![accel-complex-animation](https://www.fnal.gov/pub/science/particle-accelerators/images/accel-complex-animation.gif)
 --------
 ![cern-accelerators](https://static.electronicsweekly.com/wp-content/uploads/2015/08/19123711/cern-accelerators.gif)
