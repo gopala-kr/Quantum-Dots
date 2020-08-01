@@ -9,10 +9,17 @@
 - [The Extreme World of Ultra Intense Lasers - with Kate Lancaster](https://www.youtube.com/watch?v=hcGgaa2mFc4)
 - [How Microscale Particle Accelerators Could Transform Our World](https://www.youtube.com/watch?v=WvGcQHF1e1I)
 - [Particle Accelerators Reimagined - with Suzie Sheehy](https://www.youtube.com/watch?v=jLmciZdh5j4) :star:
-
+- [Powering a Particle Accelerator](https://www.youtube.com/watch?v=-F9EqYLQKYI)
+- [What is the Future of Particle Accelerators?](https://www.youtube.com/watch?v=YR66Z54mRaQ)
+- [Inside The World's Largest Particle Accelerator](https://www.youtube.com/watch?v=328pw5Taeg0)
+- [CERN’s Ambitious Plan to Build the Largest Particle Smasher Ever](https://www.youtube.com/watch?v=GOwfLBDMUHg)
 --------------
+- [History of Particle Colliders](http://www.iop.org/activity/groups/all-groups-match-beta/history-of-phys/file_73235.pdf)
+- [The Development of Particle Accelerators from Electrostatic Acceleration to Synchrotrons](https://www.researchgate.net/publication/261794516_The_Development_of_Particle_Accelerators_from_Electrostatic_Acceleration_to_Synchrotrons)
 - [Particle Physics Roadmap(s)](https://indico.mpp.mpg.de/event/2598/contributions/5086/attachments/4169/4610/MPP-PR13-roadmaps.pdf)
-
+- [Short History of Particle Accelerators ](https://cas.web.cern.ch/sites/cas.web.cern.ch/files/lectures/zakopane-2006/tazzari-history.pdf)
+- [Evolution of Accelerators and Modern Day Applications](https://uspas.fnal.gov/materials/11ODU/Lecture1a_Intro_to_Accelerators.pdf)
+- [A  BRIEF  HISTORY  AND  REVIEW  OF  ACCELERATORS](http://www.afhalifax.ca/magazine/wp-content/sciences/lhc/HistoireDesAccelerateurs/histoire1.pdf)
 -------------
 ---------------
 ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
