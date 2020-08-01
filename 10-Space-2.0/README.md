@@ -185,6 +185,7 @@
        - PLATO
        - Advanced Telescope for High Energy Astrophysics (ATHENA)
    - Gravitational Wave
+     - LIGO
    - Exoplanets
      - Extraterrestrial
      - Fermi Paradox
@@ -198,10 +199,14 @@
      - [Particle Accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - Nano & Micro
        - [On Earth](http://www-elsa.physik.uni-bonn.de/accelerator_list.html)
-         - Tevatron
-         - RHIC
-         - LHC
-         - FHC
+         - Linear
+           - ILC
+           - SLAC
+         - Synchrotron
+           - Tevatron
+           - RHIC
+           - LHC
+           - FHC
        - On Moon(Future)
        - On Asteroid Belt(Future)
    - Nuclear Physics
