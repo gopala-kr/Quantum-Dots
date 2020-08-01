@@ -1,9 +1,22 @@
 ----------------------------
+------------------------------------
 ![55776c57eab8eaef6945a3db](https://i.insider.com/55776c57eab8eaef6945a3db?width=1000&format=gif)
 -----------------------
 ![7h0N](https://media3.giphy.com/media/l0Iy1R9uttEN2KCXe/source.gif)
 ----------
 ![9o78LZ](https://i.makeagif.com/media/4-20-2018/9o78LZ.gif)
+-----------
+![_Z4hdC](https://i.makeagif.com/media/2-08-2017/_Z4hdC.gif)
+-----------
+![8BBh](https://i.gifer.com/8BBh.gif)
+----------
+![size_restricted](https://thumbs.gfycat.com/RealViciousHoneybadger-size_restricted.gif)
+--------------
+![size_restricted](https://thumbs.gfycat.com/VerifiableOldDassie-size_restricted.gif)
+---------
+![accel-complex-animation](https://www.fnal.gov/pub/science/particle-accelerators/images/accel-complex-animation.gif)
+--------
+![cern-accelerators](https://static.electronicsweekly.com/wp-content/uploads/2015/08/19123711/cern-accelerators.gif)
 ------------------------
 - [The Map of Quantum Physics](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 - [The Royal Institution: Particle Accelerators for Humanity](https://www.youtube.com/playlist?list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m) :star:
@@ -13,6 +26,8 @@
 - [What Now For The Higgs Boson?](https://www.youtube.com/watch?v=649iUqrOKuE)
 - [Nuclear Physics](https://www.youtube.com/playlist?list=PLRN3HroZGu2n_j3Snd_fSYNLvCkao8HIx)
 - [Elementary Particle Physics](https://www.youtube.com/playlist?list=PLRN3HroZGu2lkRDsRxzqy_WU8NRk6evbD)
+- [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
+- [The Big Bang & Cosmic Inflation](https://www.youtube.com/playlist?list=PLsPUh22kYmNCc3WCKb5yF136QSRf0xErm)
 - [How to Design a Particle Accelerator - with Suzie Sheehy](https://www.youtube.com/watch?v=V_hirIK9eFs&list=PLbnrZHfNEDZx0mVe9wGxg5kyKdofRJJ7m)
 - [Accelerator Science: Circular vs. Linear](https://www.youtube.com/watch?v=cEzAqmqnv6Y)
 - [Beyond the Higgs: What's Next for the LHC? - with Harry Cliff](https://www.youtube.com/watch?v=edvdzh9Pggg)
@@ -59,6 +74,13 @@
 - [Why Do People Say We've Reached the End of Physics?](https://www.youtube.com/watch?v=DGS2aWUKZ38)
 - [5 things you should never do with a particle accelerator](https://www.youtube.com/watch?v=8ls1Fuf3lNI)
 - [CERN and the Sense of Beauty - Documentary about the world's largest particle accelerator (2017)](https://www.youtube.com/watch?v=TwUJqiJqP_A)
+- [Building New Particle Accelerators](https://www.youtube.com/watch?v=7ovlgOS1Ors)
+- [Meet CERN's New Particle: A Double-Charm Baryon!](https://www.youtube.com/watch?v=Qc_kzEs3FL4)
+- [New Fundamental Particle Discovered?? + Challenge Winners!](https://www.youtube.com/watch?v=KFOgIijPWGY)
+- [Is There a Fifth Fundamental Force? + Quantum Eraser Answer | Space Time](https://www.youtube.com/watch?v=MuvwcsfXIIo)
+- [The Origin of Matter and Time | Space Time](https://www.youtube.com/watch?v=fHRqibyNMpw)
+- [The True Nature of Matter and Mass | Space Time](https://www.youtube.com/watch?v=gSKzgpt4HBU)
+
 --------------
 - [Particle Fever (2013) - CERN](https://www.youtube.com/watch?v=akCJc7K3DUU) | [Particle Fever](https://www.youtube.com/channel/UC6JzfAs3mcvj1EXKmK4vSEQ) :star: :star:
 - [Stanford Lecture Collection | Particle Physics: Basic Concepts](https://www.youtube.com/playlist?list=PLF363FFF951EC0673)
@@ -86,12 +108,19 @@ Literature Survey:
 - [Evolution of Accelerators and Modern Day Applications](https://uspas.fnal.gov/materials/11ODU/Lecture1a_Intro_to_Accelerators.pdf)
 - [A  BRIEF  HISTORY  AND  REVIEW  OF  ACCELERATORS](http://www.afhalifax.ca/magazine/wp-content/sciences/lhc/HistoireDesAccelerateurs/histoire1.pdf)
 - [Introduction to Particle Accelerators and their Limitations](https://cds.cern.ch/record/2203629/files/1418884_29-50.pdf)
-
-
+- [Engineering survey planning for the alignment of a particle accelerator: Part II. Design of a reference network and measurement strategy](https://www.researchgate.net/publication/321354781_Engineering_survey_planning_for_the_alignment_of_a_particle_accelerator_Part_II_Design_of_a_reference_network_and_measurement_strategy)
+- [APPLICATIONS  OF PARTICLE ACCELERATORS](https://inis.iaea.org/collection/NCLCollectionStore/_Public/26/002/26002812.pdf)
+- [Tunnel Surveys for New CERN Particle Accelerators](http://webarchiv.ethz.ch/geometh-data/downloads/FIG_2002_CERN_Glaus.pdf)
+- [GEODETIC METROLOGY OF PARTICLE ACCELERATORSAND PHYSICS EQUIPMENT](https://www.slac.stanford.edu/econf/C8907312/papers/009.PDF)
+- [Applied nuclear physics at the new high-energy particle accelerator facilities](https://www.sciencedirect.com/science/article/pii/S0370157319300043)
+- [Large Scale Metrology for Research and Industry –  Application to Particle Accelerators and Recent Developments](https://www.fig.net/resources/proceedings/fig_proceedings/athens/papers/ts23/TS23_5_Mayoud.pdf)
+- [TOWARDS THE EUROPEAN STRATEGY FOR PARTICLE PHYSICS](https://cds.cern.ch/record/985041/files/0609216.pdf)
 ------------
+- [Safety of high-energy particle collision experiments](https://en.wikipedia.org/wiki/Safety_of_high-energy_particle_collision_experiments)
 - [Extraterrestrial artificial particle sources.  Application toneutrino physics and cosmic rays studies.](https://arxiv.org/pdf/2002.12190.pdf)
 - [Why We Should Really Put a Particle Accelerator on the Moon](https://www.popularmechanics.com/space/moon-mars/a32814164/particle-accelerator-moon/)
 - [Why a physicist wants to build a particle collider on the moon](https://www.livescience.com/build-particle-collider-on-moon.html)
+- [Have alien civilizations built cosmic accelerators from black holes?](https://physicsworld.com/a/have-alien-civilizations-built-cosmic-accelerators-from-black-holes/)
 -------------
 ---------------
 ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
