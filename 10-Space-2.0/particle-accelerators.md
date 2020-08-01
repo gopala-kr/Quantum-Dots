@@ -48,6 +48,11 @@
 - [Accelerator Division at DESY (Deutsches Elektronen-Synchrotron)](https://www.youtube.com/watch?v=aYbfp_FeMh0)
 - [CERN | Big Bang Machine - Documentary HD](https://www.youtube.com/watch?v=AdJn82JwhTM)
 - [The Matter Of Antimatter: Answering The Cosmic Riddle Of Existence](https://www.youtube.com/watch?v=qMMgsjnI1is)
+- [Scientists At The Large Hadron Collider Have Just Made A Big Announcement](https://www.youtube.com/watch?v=CJDqgMRhVEE)
+- [What If the Large Hadron Collider Made a Black Hole?](https://www.youtube.com/watch?v=y7XN-8i0J6s)
+- [Why Do People Say We've Reached the End of Physics?](https://www.youtube.com/watch?v=DGS2aWUKZ38)
+- [5 things you should never do with a particle accelerator](https://www.youtube.com/watch?v=8ls1Fuf3lNI)
+- [CERN and the Sense of Beauty - Documentary about the world's largest particle accelerator (2017)](https://www.youtube.com/watch?v=TwUJqiJqP_A)
 --------------
 - [List of accelerators in particle physics](https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics)
 - [Particle Accelerators Around the World](http://www-elsa.physik.uni-bonn.de/accelerator_list.html) :star:
