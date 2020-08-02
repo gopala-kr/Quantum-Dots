@@ -196,8 +196,8 @@
 
 #### Applied Physics
   - Particle Physics
-    - [Particle Accelerators(high energy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
-       - Nano & Micro
+    - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
+       - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
        - [On Earth](http://www-elsa.physik.uni-bonn.de/accelerator_list.html)
          - Linear
            - TJNAF
@@ -208,7 +208,7 @@
            - RHIC
            - LHC
            - FCC
-         - [Neutrino Experiments](List of neutrino experiments)
+         - [Neutrino Experiments](https://en.wikipedia.org/wiki/List_of_neutrino_experiments)
             - ANNIE
             - ICARUS (Fermilab)
             - MicroBooNE
@@ -218,6 +218,8 @@
             - CUPID
             - Daya Bay
             - RENO
+            - Kamioka Observatory
+            - [India-based Neutrino Observatory (INO)](https://www.imsc.res.in/~ino/)
        - On Moon(Future)
        - On Asteroid Belt(Future)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
