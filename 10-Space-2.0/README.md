@@ -195,21 +195,22 @@
 ----------------
 
 #### Applied Physics
-   - Particle Physics(high energy)
-     - [Particle Accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
+  - Particle Physics
+    - [Particle Accelerators(high energy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - Nano & Micro
        - [On Earth](http://www-elsa.physik.uni-bonn.de/accelerator_list.html)
          - Linear
+           - TJNAF
            - ILC
            - SLAC
          - Synchrotron
            - Tevatron
            - RHIC
            - LHC
-           - FHC
+           - FCC
        - On Moon(Future)
        - On Asteroid Belt(Future)
-   - Nuclear Physics
+  - Nuclear Physics
      - Fussion Reactors
        - Gravitational
        - Inertial
@@ -225,6 +226,11 @@
            - LHD
            - WEGA
      - Fission Reactors
+
+   
+     
+
+  
 
 
 ----------------
