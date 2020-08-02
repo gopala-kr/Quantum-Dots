@@ -13,7 +13,17 @@
 ![origin](https://assets.rbl.ms/18339885/origin.jpg)
 ----------
 ---------------
-- [Synthetic Elements](https://en.wikipedia.org/wiki/Synthetic_element) - 21
+- [Synthetic Elements](https://en.wikipedia.org/wiki/Synthetic_element)
+- [How Do We Make New Elements?](https://www.youtube.com/watch?v=Y9D1XQdIaLw)
+- [Meet the 4 Newest Elements!](https://www.youtube.com/watch?v=h9bzQIsQMAI)
+- [This Superheavy Atom Factory Is Pushing the Limits of the Periodic Table](https://www.youtube.com/watch?v=kg0AN8bZ4us)
+- [All Chemical Elements in Order - Periodic Videos](https://www.youtube.com/playlist?list=PL7A1F4CF36C085DE1)
+- [Superheavy Elements - Periodic Videos](https://www.youtube.com/playlist?list=PL9eEsN9D48mcm2aX0UDOMgGX3en3WrPmG)
+- [New Elements Named - Periodic Table of Videos](https://www.youtube.com/watch?v=wswa0NuBbMw)
+- [Technetium - Periodic Table of Videos](https://www.youtube.com/watch?v=ud5c1TVkcnU)
+- [Future Elements - Periodic Table of Videos](https://www.youtube.com/watch?v=SBz_NDq6g6E) :star:
+- [New Elements - Alchemy with the accelerator](https://www.youtube.com/watch?v=SBz_NDq6g6E)
+- [Behold Livermorium: A Quest for New Elements](https://www.youtube.com/watch?v=vcck-qg1Z8M)
 
           A synthetic element is one of 24 chemical elements that do not occur naturally on Earth: they have been created by human manipulation of fundamental 
           particles in a nuclear reactor, a particle accelerator, or the explosion of an atomic bomb; thus, they are called "synthetic", "artificial", or "man-made". 
