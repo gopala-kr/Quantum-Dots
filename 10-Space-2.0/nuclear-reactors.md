@@ -196,5 +196,14 @@
 ![explosive_gen_BIG](https://www.phy.ornl.gov/images/astro/explosive_gen_BIG.jpg)
 ---------
 ![Nuclear_energy_generation](https://upload.wikimedia.org/wikipedia/commons/5/5b/Nuclear_energy_generation.svg)
+-------------
+-------------
+![216236_1_En_1_Fig5_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-642-54322-7_1/MediaObjects/216236_1_En_1_Fig5_HTML.gif)
+----------
+![EnergyScales](https://ncatlab.org/nlab/files/EnergyScales.jpg)
+---------
+![Energy_Scales](https://www.stwing.upenn.edu/~lwozniak/Energy_Scales.jpeg)
+---------
+![4c1747537ad12b962753fcff8db3ea88](https://i.pinimg.com/originals/4c/17/47/4c1747537ad12b962753fcff8db3ea88.jpg)
 --------------------
 -----------------------------
