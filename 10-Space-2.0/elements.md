@@ -50,5 +50,7 @@
 ![dc5bf196f749231b33ef587fbf3ce0a2](https://i.pinimg.com/originals/dc/5b/f1/dc5bf196f749231b33ef587fbf3ce0a2.jpg)
 --------
 ![The%20new%20quantum%20numbers%20set1](https://sites.google.com/site/newptnotation/_/rsrc/1554630815842/home/The%20new%20quantum%20numbers%20set1.jpg)
+-----------
+![Periodic_trends](https://upload.wikimedia.org/wikipedia/commons/f/fe/Periodic_trends.svg)
 --------------------
 ----------------------------
