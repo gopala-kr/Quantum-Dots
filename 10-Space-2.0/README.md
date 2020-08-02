@@ -159,8 +159,8 @@
 --------------------
 #### Astronomy
    - Telescopes
-     - Ground
-     - Space(Active)
+     - [Ground](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ground_telescopes.md)
+     - Space(Active & Future)
        - INTEGRAL
        - Chandra X-ray Observatory
        - XMM-Newton
@@ -184,8 +184,13 @@
        - WFIRST
        - PLATO
        - Advanced Telescope for High Energy Astrophysics (ATHENA)
-   - Gravitational Wave
-     - LIGO
+   - [Gravitational Wave](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)
+     - [LIGO & Virgo](https://www.youtube.com/c/LIGOVirgo/playlists)
+     - KAGRA
+     - [INDIGO (LIGO-India)](https://www.youtube.com/c/LIGOIndia/featured)
+     - Einstein Telescope
+     - LISA(space)
+     - Big Bang Observer(space)
    - Exoplanets
      - Extraterrestrial
      - Fermi Paradox
