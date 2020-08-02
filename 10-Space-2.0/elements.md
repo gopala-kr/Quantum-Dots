@@ -38,5 +38,17 @@
           scientific research, since they have extremely short half-lives, and thus have never been produced in large quantities.
 
 ![Periodic_table](https://upload.wikimedia.org/wikipedia/commons/a/a6/Periodic_table%2C_good_SVG.svg)
+-----------
+![Periodic_table_of_elements_showing_electron_shells](https://upload.wikimedia.org/wikipedia/commons/e/e5/Periodic_table_of_elements_showing_electron_shells.png)
+---------
+![chemistry-on-quantum-numbers-and-electronic-configuration](https://image.slidesharecdn.com/spdf2014pdf-140210012322-phpapp01/95/ib-chemistry-on-quantum-numbers-and-electronic-configuration-1-1024.jpg?cb=1391995652)
+---------
+![configuration](https://image.slidesharecdn.com/spdfnew2014-140210021729-phpapp02/95/ib-chemistry-on-quantum-numbers-and-electronic-configuration-20-1024.jpg?cb=1392000113)
+---------
+![Schaeffer_PT_2](https://www.meta-synthesis.com/webbook/35_pt/Schaeffer_PT_2.png)
+--------
+![dc5bf196f749231b33ef587fbf3ce0a2](https://i.pinimg.com/originals/dc/5b/f1/dc5bf196f749231b33ef587fbf3ce0a2.jpg)
+--------
+![The%20new%20quantum%20numbers%20set1](https://sites.google.com/site/newptnotation/_/rsrc/1554630815842/home/The%20new%20quantum%20numbers%20set1.jpg)
 --------------------
 ----------------------------
