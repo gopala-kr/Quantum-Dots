@@ -255,7 +255,7 @@
            - RHIC
            - LHC
            - FCC
-         - [Neutrino Experiments](https://en.wikipedia.org/wiki/List_of_neutrino_experiments)
+         - [Neutrino Detection Experiments](https://en.wikipedia.org/wiki/List_of_neutrino_experiments)
             - ANNIE
             - ICARUS (Fermilab)
             - MicroBooNE
@@ -267,10 +267,10 @@
             - RENO
             - Kamioka Observatory
             - [India-based Neutrino Observatory (INO)](https://www.imsc.res.in/~ino/)
-          - [Dark Matter Detectors](https://www.interactions.org/hub/dark-matter-hub#:~:text=Experiments%20generally%20hunt%20for%20dark,there's%20little%20background%20noise)%2C%20or)
+          - [Dark Matter Detectors](https://www.interactions.org/hub/dark-matter-hub#:~:text=Experiments%20generally%20hunt%20for%20dark,there's%20little%20background%20noise%2C%20or)
             - Large Underground Xenon experiment (LUX)
             - XENON
-          - Antimatter
+          - Antimatter Detectors
             - Alpha Magnetic Spectrometer(AMS)
        - On Moon(Future)
        - On Asteroid Belt(Future)
@@ -304,9 +304,9 @@
        - [Nuclear Power in India](https://www.world-nuclear.org/information-library/country-profiles/countries-g-n/india.aspx)
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
 ----------------------------
-           - Today there are about 440 nuclear power reactors operating in 30 countries plus Taiwan, with a combined capacity of about 400 GWe. 
-           - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
-           - About 55 power reactors are currently being constructed in 15 countries.  
+         - Today there are about 440 nuclear power reactors operating in 30 countries, with a combined capacity of about 400 GWe. 
+         - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
+         - About 55 power reactors are currently being constructed in 15 countries.  
            
 ----------------
 ---------------------------
