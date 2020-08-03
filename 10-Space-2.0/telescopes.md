@@ -1,9 +1,16 @@
 ------------------
 -----------------------
 - [History of Telescopes - From Galileo To Hubble - Full Documentary](https://www.youtube.com/watch?v=R4F0T86RAM4)
+- [History Space of Galileo's Telescope Documentary 2015 HD](https://www.youtube.com/watch?v=3tN8QMflG_c)
+- [The Evolution of Telescopes-Space Documentary-2015 HD Documentary](https://www.youtube.com/watch?v=dIwmBDBey_Y)
+- [TMT: The World’s Most Controversial Telescope](https://www.youtube.com/watch?v=XMrIbLx9ElQ)
+-----------------
+- [Go Inside a Telescope Mirror Factory | To a Billionth of a Meter](https://www.youtube.com/watch?v=MjUcBWYVF9s)
+- [Why is the James Webb Space Telescope taking so long?](https://www.youtube.com/watch?v=k8yRDrl76d0)
 -------------
 #### Hubble 
 
+- [Seeing the Beginning of Time 4k](https://www.youtube.com/watch?v=KpV-VEv3VUE)
 - [The Way into Space - From Planet Earth to Infinity](https://www.youtube.com/watch?v=iIc6x5Klzms)
 - [Cosmic Journeys - Hubble: Universe in Motion](https://www.youtube.com/watch?v=IN1KJ8LYW3U)
 - [Hubble's 13 Billion Year Old Photo](https://www.youtube.com/watch?v=bD6vWcNj1j4)
