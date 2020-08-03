@@ -62,6 +62,11 @@
    - Interstellar Colonization
    - Galactic Empires & Colonization
  - [Advanced Civilization's Artifacts(fictional)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/advanced_civilizations.md)
+   - Kardashev Scale
+     - Type I civilization - Planetary
+     - Type II civilization - Stellar
+     - Type II civilization - Galactic
+     - Type IV/Ω civilization - Universal
    - Dyson Sphere's
    - Bernal spheres
    - Ring Worlds
@@ -167,22 +172,16 @@
        - NuSTAR
        - Astrosat
        - Hubble Space Telescope
-       - Kepler
-       - TESS
        - NEOSSat
-       - Gaia
-       - CHEOPS
        - WISE
        - LISA Pathfinder
        - Dark Matter Particle Explorer (DAMPE)
        - International Lunar Observatory (ILO-1)
-       - James Webb Space Telescope (JWST)
        - Laser Interferometer Space Antenna (LISA)
        - X-Ray Imaging and Spectroscopy Mission (XRISM)
        - Euclid
        - SPHEREx
        - WFIRST
-       - PLATO
        - Advanced Telescope for High Energy Astrophysics (ATHENA)
    - [Gravitational Wave](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)
      - [LIGO & Virgo](https://www.youtube.com/c/LIGOVirgo/playlists)
@@ -191,11 +190,41 @@
      - Einstein Telescope
      - LISA(space)
      - Big Bang Observer(space)
-   - Exoplanets
-     - Extraterrestrial
+   - [Exoplanets](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/exoplanets.md)
+     - Space
+       - MOST (2003–2019)
+       - SWEEPS using HST (2006)
+       - CoRoT (2006–2013)
+       - EPOXI using Deep Impact (2008–2013)
+       - Kepler (2009–2018)
+       - Gaia (2013–present)
+       - ASTERIA (2017–present)
+       - TESS (2018–present)
+       - CHEOPS (2019–present)
+       - James Webb Space Telescope (2021)
+       - PLATO (2026)
+       - ARIEL (2028)
+     - Ground
+       - MINiature Exoplanet Radial Velocity Array (MINERVA)
+       - SPECULOOS
+       - SuperWASP
+     - Extraterrestrial Intelligence
+       - Search for Extraterrestrial Intelligence (SETI)
+       - Berkeley SETI Research Center (BSRC)
+       - Breakthrough Initiatives
+       - Communication with extraterrestrial intelligence (CETI)
+     - Drake Equation
      - Fermi Paradox
-       - The Great Filter Theory
-     
+     - The Great Filter
+     - Unidentified Flying Objects (UFOs)
+     - Kardashev Scale
+       - Type I civilization - Planetary
+       - Type II civilization - Stellar
+       - Type II civilization - Galactic
+       - Type IV/Ω civilization - Universal
+     - Fast Radio Burst (FRBs)
+     - Interstellar Radio Messages (IRMs)
+     - [Voyager Golden Record](https://www.youtube.com/results?search_query=voyager+golden+record)
 
 ----------------
 
@@ -225,10 +254,15 @@
             - RENO
             - Kamioka Observatory
             - [India-based Neutrino Observatory (INO)](https://www.imsc.res.in/~ino/)
+          - [Dark Matter Detectors](https://www.interactions.org/hub/dark-matter-hub#:~:text=Experiments%20generally%20hunt%20for%20dark,there's%20little%20background%20noise)%2C%20or)
+            - Large Underground Xenon experiment (LUX)
+            - XENON
+          - Antimatter
+            - Alpha Magnetic Spectrometer(AMS)
        - On Moon(Future)
        - On Asteroid Belt(Future)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
-     - Fussion Reactors
+     - [Fussion Reactors](https://www.world-nuclear.org/information-library/current-and-future-generation/nuclear-fusion-power.aspx)
        - Gravitational
          - Sun
          - Stars
@@ -244,13 +278,23 @@
          - Stellarator
            - LHD
            - WEGA
-     - Fission Reactors
-
-   
-     
-
-  
-
-
+     - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx)
+       - [Nuclear Fuel Cycle](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle.aspx)
+         - [The Cosmic Origins of Uranium](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/the-cosmic-origins-of-uranium.aspx)
+         - [Geology of Uranium Deposits](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/geology-of-uranium-deposits.aspx)
+         - [Outline History of Nuclear Energy](https://www.world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
+         - [Mining of Uranium](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium.aspx)
+         - [Transport of Radioactive Materials](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/transport-of-nuclear-materials/transport-of-radioactive-materials.aspx)
+         - [World Uranium Mining Production](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production.aspx)
+         - [Thorium as a nuclear fuel](https://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx)
+         - [The Many Uses of Nuclear Technology](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/overview/the-many-uses-of-nuclear-technology.aspx)
+       - [Nuclear Power in India](https://www.world-nuclear.org/information-library/country-profiles/countries-g-n/india.aspx)
+       - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
+----------------------------
+           - Today there are about 440 nuclear power reactors operating in 30 countries plus Taiwan, with a combined capacity of about 400 GWe. 
+           - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
+           - About 55 power reactors are currently being constructed in 15 countries.  
+           
+--------------------------------
 ----------------
 ---------------------------
