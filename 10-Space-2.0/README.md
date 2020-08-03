@@ -238,6 +238,22 @@
      - Fast Radio Burst (FRBs)
      - Interstellar Radio Messages (IRMs)
      - [Voyager Golden Record](https://www.youtube.com/results?search_query=voyager+golden+record)
+   - Solar & Near-Earth
+   - Microwave 
+   - Infrared
+   - Short wavelength
+   - Optical
+   - Radio
+   - Ultraviolet, X-ray and gamma
+   - Cosmic Evolution
+     - Timeline
+     - Cosmic Microwave Background(CMB)
+   - Stellar Evolution
+      - White Dwarf
+      - Red Dwarf
+      - Neutron Star
+      - Black hole
+
 
 ----------------
 
