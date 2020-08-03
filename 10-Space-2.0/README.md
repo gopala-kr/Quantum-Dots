@@ -161,6 +161,16 @@
    - Missile's
    - Rail Gun
  - Space Agencies
+   - Government
+     - NASA
+     - Roscosmos
+     - CNSA
+     - ISRO
+     - ESA
+     - JAXA
+   - Private
+     - OEM's
+     - Startups
 --------------------
 #### Astronomy
    - Telescopes
@@ -213,10 +223,13 @@
        - Berkeley SETI Research Center (BSRC)
        - Breakthrough Initiatives
        - Communication with extraterrestrial intelligence (CETI)
+     - Rare Earth hypothesis
+     - Zoo hypothesis
      - Drake Equation
      - Fermi Paradox
      - The Great Filter
-     - Unidentified Flying Objects (UFOs)
+       - [Global Catastrophic/Existential Risks](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
+     - [Unidentified Flying Objects (UFOs)](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)
      - Kardashev Scale
        - Type I civilization - Planetary
        - Type II civilization - Stellar
@@ -295,6 +308,5 @@
            - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
            - About 55 power reactors are currently being constructed in 15 countries.  
            
---------------------------------
 ----------------
 ---------------------------
