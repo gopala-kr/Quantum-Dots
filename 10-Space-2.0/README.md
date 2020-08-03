@@ -65,7 +65,7 @@
    - Kardashev Scale
      - Type I civilization - Planetary
      - Type II civilization - Stellar
-     - Type II civilization - Galactic
+     - Type III civilization - Galactic
      - Type IV/Ω civilization - Universal
    - Dyson Sphere's
    - Bernal spheres
@@ -193,7 +193,7 @@
        - SPHEREx
        - WFIRST
        - Advanced Telescope for High Energy Astrophysics (ATHENA)
-   - [Gravitational Wave](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)
+   - [Gravitational Wave](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/gravitational-wave.md)
      - [LIGO & Virgo](https://www.youtube.com/c/LIGOVirgo/playlists)
      - KAGRA
      - [INDIGO (LIGO-India)](https://www.youtube.com/c/LIGOIndia/featured)
@@ -233,7 +233,7 @@
      - Kardashev Scale
        - Type I civilization - Planetary
        - Type II civilization - Stellar
-       - Type II civilization - Galactic
+       - Type III civilization - Galactic
        - Type IV/Ω civilization - Universal
      - Fast Radio Burst (FRBs)
      - Interstellar Radio Messages (IRMs)
@@ -242,6 +242,23 @@
 ----------------
 
 #### Applied Physics
+  - Quantum Physics
+    - Quantum Experiements & Devices
+      - Double Slit
+        - Single Molecule Interference
+        - Compton scattering
+      - Schrödinger's Cat
+      - Quantum Entanglement
+      - Quantum Superposition
+      - Quantum Tunneling
+      - Quantum Teleportation
+      - Quantum Computer
+      - Quantum Supremacy
+      - Quantum Internet
+      - Quantum Communication
+      - Quantum Cryptography
+      - Many Worlds Interpretation Experiment(Unlikely)
+      - Quantum Gravity
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
@@ -307,6 +324,9 @@
          - Today there are about 440 nuclear power reactors operating in 30 countries, with a combined capacity of about 400 GWe. 
          - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
          - About 55 power reactors are currently being constructed in 15 countries.  
+         
+---------------------
+
            
 ----------------
 ---------------------------
