@@ -10,4 +10,6 @@
 - [How NASA’s Rover Team Reimagined Mars 2020](https://www.youtube.com/watch?v=O9YBPRF3o5w)
 - [ExoMars – Moving on Mars](https://www.youtube.com/watch?v=BNItE7zjhq8)
 - [China Makes Historic Moon Landing, Boosting Rivalry With U.S.](https://www.youtube.com/watch?v=U2dcjFCvnmU)
+- [Space Engineers - How To Build Rovers](https://www.youtube.com/watch?v=O57pSOhXlGo)
+- [Starter Rover Builds | Let's Build | Space Engineers](https://www.youtube.com/watch?v=vC_lCnbwZQ4)
 ----------------------
