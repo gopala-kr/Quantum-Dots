@@ -174,7 +174,7 @@
 --------------------
 #### Astronomy
    - Telescopes
-     - [Ground](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ground_telescopes.md)
+     - [Ground](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/telescopes.md)
      - Space(Active & Future)
        - INTEGRAL
        - Chandra X-ray Observatory
@@ -268,11 +268,51 @@
       - Quantum Superposition
       - Quantum Tunneling
       - Quantum Teleportation
-      - Quantum Computer
+      - Quantum Computer(realizations)
+        - Quantum Turing Machine
+        - Analog
+          - Quantum Simulation
+          - Quantum Annealing(Adiabatic)
+        - Digital(Gate/Circuit Model)
+          - Superconducting
+          - Trapped Ion
+          - Quantum Dot
+          - NMRQC
+          - Electron-Spin methods
+          - Photonic(Optical)
+          - Diamond-based
+          - Topological
+        - Quantum Decoherence
+          - Quantum Error Correction
+            - Shor code
+            - Hamming codes
+      - Quantum Search
+        - Grover's Algorithm
+      - Qunatum Complexity
+        - BQP, EQP, QIP, QMA, PostBQP
+        - Simon's Algorithm
       - Quantum Supremacy
+        - Qunatum Advantage
       - Quantum Internet
-      - Quantum Communication
-      - Quantum Cryptography
+        - Fiber Optic
+        - Space(Satellite Based)
+          - Quantum Experiments at Space Scale (QUESS) - EXperiment in  Tiangong-2 Sapce Station
+            - Satellite: Micius / Mozi (2016 - Planned: 2 years --> extended)
+        - Quantum Repeaters
+        - Quantum Cryptography
+          - Break RSA Algorithm
+            - Shor's Algorithm
+            - GEECM
+          - QKD(Quantum Key Distribution)
+            - BB84 (demonstrations) - Fiber Optics
+              - DARPA Quantum Network (2000)
+              - SECOCQ QKD network in Vienna (2003)
+              - Tokyo QKD network (2010)
+              - Hierarchical network in Wuhu, China (2009)
+              - Geneva area network (SwissQuantum) - 2009
+              - Beijing-Shanghai Trunk Line(Sep-2017, 2000-km)
+        - SARG04
+        - Kak's three-stage protocol
       - Many Worlds Interpretation Experiment(Unlikely)
       - Quantum Gravity
   - Particle Physics
@@ -341,8 +381,5 @@
          - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
          - About 55 power reactors are currently being constructed in 15 countries.  
          
----------------------
-
-           
 ----------------
 ---------------------------
