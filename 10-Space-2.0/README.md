@@ -267,7 +267,7 @@
           - Single Molecule Interference
           - Compton scattering
         - Schrödinger's Cat & Immortality(Quantum Suicide Experiment)
-      - Quantum Tunneling
+      - Quantum Tunneling - FTL?
         - Heisenberg uncertainty principle
         - Diode/VLSI gates(1–3 nm)
         - Consequences
@@ -276,7 +276,6 @@
           - Molecular Synthesis
           - DNA replication
           - Biochemical reactions (photosynthesis & cellular respiration)
-        - Faster than light(FTL)?
       - Quantum Teleportation - FTL?
         - [Bell-State Analyser](https://www.nature.com/articles/d41586-017-07689-5#ref-CR8) - 1997
         - Micius Satellite(China) - 2017
