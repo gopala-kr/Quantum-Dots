@@ -7,4 +7,7 @@
 - [TeamIndus](https://www.youtube.com/c/TeamIndus/playlists)
 - [Building Curiosity: Rover at Kennedy Space Center](https://www.youtube.com/watch?v=R4lF5Wzl0ek)
 - [Stephen Drives NASA's Mars Rover With Neil deGrasse Tyson](https://www.youtube.com/watch?v=RcPrl0rl76M)
+- [How NASA’s Rover Team Reimagined Mars 2020](https://www.youtube.com/watch?v=O9YBPRF3o5w)
+- [ExoMars – Moving on Mars](https://www.youtube.com/watch?v=BNItE7zjhq8)
+- [China Makes Historic Moon Landing, Boosting Rivalry With U.S.](https://www.youtube.com/watch?v=U2dcjFCvnmU)
 ----------------------
