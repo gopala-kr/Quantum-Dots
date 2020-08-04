@@ -260,14 +260,26 @@
 #### Applied Physics
   - Quantum Physics
     - Quantum Experiements & Devices
-      - Double Slit
-        - Single Molecule Interference
-        - Compton scattering
-      - Schrödinger's Cat
       - Quantum Entanglement
+        - Bell's inequality experiment
       - Quantum Superposition
+        - Double Slit
+          - Single Molecule Interference
+          - Compton scattering
+        - Schrödinger's Cat & Immortality(Quantum Suicide Experiment)
       - Quantum Tunneling
-      - Quantum Teleportation
+        - Heisenberg uncertainty principle
+        - Diode/VLSI gates(1–3 nm)
+        - Consequences
+          - Nuclear Fusion Reactions
+          - Radioactive Decay(Isotopes)
+          - Molecular Synthesis
+          - DNA replication
+          - Biochemical reactions (photosynthesis & cellular respiration)
+        - Faster than light(FTL)?
+      - Quantum Teleportation - FTL?
+        - [Bell-State Analyser](https://www.nature.com/articles/d41586-017-07689-5#ref-CR8) - 1997
+        - Micius Satellite(China) - 2017
       - Quantum Computer(realizations)
         - Quantum Turing Machine
         - Analog
@@ -314,14 +326,13 @@
         - SARG04
         - Kak's three-stage protocol
       - Many Worlds Interpretation Experiment? - (Probabilistic,Unlikely)
-        - White Hole? Wormhole? --> Time Travel?
+        - White Hole? Wormhole? Traversable wormholes? --> Time Travel?
         - 11-dimensional M-theory?
         - Bubbles with different physical constants?
         - Floating bubbles with cyclic big bangs, big Crunches, and/or big freezes
         - Infinite-Dimensional? Parallell Universes? --> Time Travel?
         - Mathematical Universe?
         - Holographic/Simulated?
-        Para
       - Quantum Gravity?
         - Quantum Foam
         - Thought Experiments
