@@ -313,8 +313,24 @@
               - Beijing-Shanghai Trunk Line(Sep-2017, 2000-km)
         - SARG04
         - Kak's three-stage protocol
-      - Many Worlds Interpretation Experiment(Unlikely)
-      - Quantum Gravity
+      - Many Worlds Interpretation Experiment? - (Probabilistic,Unlikely)
+        - White Hole? Wormhole? --> Time Travel?
+        - 11-dimensional M-theory?
+        - Bubbles with different physical constants?
+        - Floating bubbles with cyclic big bangs, big Crunches, and/or big freezes
+        - Infinite-Dimensional? Parallell Universes? --> Time Travel?
+        - Mathematical Universe?
+        - Holographic/Simulated?
+        Para
+      - Quantum Gravity?
+        - Quantum Foam
+        - Thought Experiments
+        - Graviton
+          - LIGO and Virgo Gravitational Waves
+        - Plank Scale Experiments
+        - Particle Accelerators
+        - Black Hole Information Paradox
+          - Hawking radiation
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
