@@ -303,7 +303,7 @@
         - BQP, EQP, QIP, QMA, PostBQP
         - Simon's Algorithm
       - Quantum Supremacy
-        - Qunatum Advantage
+        - Quantum Advantage
       - Quantum Internet
         - Fiber Optic
         - Space(Satellite Based)
@@ -328,7 +328,7 @@
         - White Hole? Wormhole? Traversable wormholes? --> Time Travel?
         - 11-dimensional M-theory?
         - Bubbles with different physical constants?
-        - Floating bubbles with cyclic big bangs, big Crunches, and/or big freezes
+        - Floating bubbles with cyclic big bangs, big Crunches, and/or big freezes?
         - Infinite-Dimensional? Parallell Universes? --> Time Travel?
         - Mathematical Universe?
         - Holographic/Simulated?
