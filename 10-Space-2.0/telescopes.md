@@ -4,6 +4,8 @@
  - [list-citizen-science-projects](https://skyandtelescope.org/online-resources/list-citizen-science-projects/)
  - [How to Participate in Astronomy Research](https://www.iau.org/public/themes/citizen-science-projects/)
  - [Astronomy Science Projects](https://www.sciencebuddies.org/science-fair-projects/project-ideas/astronomy)
+ - [Best telescopes for the money – 2020 reviews and guide](https://www.space.com/15693-telescopes-beginners-telescope-reviews-buying-guide.html)
+ - [Space-Based Astronomy](https://www.nasa.gov/pdf/58277main_Space.Based.Astronomy.pdf) :star:
 -----------------------
 - [History of Telescopes - From Galileo To Hubble - Full Documentary](https://www.youtube.com/watch?v=R4F0T86RAM4)
 - [History Space of Galileo's Telescope Documentary 2015 HD](https://www.youtube.com/watch?v=3tN8QMflG_c)
