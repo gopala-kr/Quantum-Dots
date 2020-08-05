@@ -259,7 +259,7 @@
 
 #### Applied Physics
   - Quantum Physics
-    - Quantum Experiements & Devices
+    - Quantum Experiements
       - Quantum Entanglement
         - Bell's inequality experiment
       - Quantum Superposition
