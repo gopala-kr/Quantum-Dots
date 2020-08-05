@@ -146,7 +146,7 @@
      - Unmanned
      - Manned
      - Planetary, Moons, Asteroids, comets
-     - AstroSat Missions
+     - Space Astronomy Projects
      - Interstellar Probes
     - Orbiters, Landers & Rovers
  - [Future of Space Exploration](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/future_of_space_exploration.md)
