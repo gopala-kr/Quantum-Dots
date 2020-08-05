@@ -2,6 +2,8 @@
  - [Exoplanet Detection Techniques](https://www2.mpia-hd.mpg.de/~beuther/fischer.pdf)
  - [A Survey of Exoplanetary Detection Techniques](https://arxiv.org/pdf/1805.02771.pdf)
  - [Methods of detecting exoplanets](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets)
+ - [5 Ways to Find a Planet](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)
+ - [Exoplanet Detection Techniques Caltech Authors](https://authors.library.caltech.edu/78708/2/project_muse_35621-1386909.pdf)
 ----------------------
    - [NASA Exoplanets Catalog](https://exoplanets.nasa.gov/exoplanet-catalog/)
    - [Kepler Orrery IV](https://www.youtube.com/watch?v=_DnDeBa0KFc) :star: :star:
