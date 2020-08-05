@@ -1,4 +1,8 @@
 ----------------
+ - [Exoplanet Detection Techniques](https://www2.mpia-hd.mpg.de/~beuther/fischer.pdf)
+ - [A Survey of Exoplanetary Detection Techniques](https://arxiv.org/pdf/1805.02771.pdf)
+ - [Methods of detecting exoplanets](https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets)
+----------------------
    - [NASA Exoplanets Catalog](https://exoplanets.nasa.gov/exoplanet-catalog/)
    - [Kepler Orrery IV](https://www.youtube.com/watch?v=_DnDeBa0KFc) :star: :star:
    - [4000 Exoplanets Map](https://www.youtube.com/watch?v=aiFD_LBx2nM)
@@ -7,6 +11,7 @@
    - [Earth like Planets - Documentary 2020](https://www.youtube.com/watch?v=GS0mlBDvmM0)
    - [Better than Earth: Superhabitable Exoplanets with Prof. Abel Mendez](https://www.youtube.com/watch?v=FrreX86-1_0)
    - [Planets - The Search For A New World](https://www.youtube.com/watch?v=byp2DkePnL8)
+   - [Finding Life Beyond Earth: Are we Alone - NOVA Documentary HD](https://www.youtube.com/watch?v=8OPTngR0wMQ)
 -------------
 ![Exoplanets_discovery_methods_chart](https://upload.wikimedia.org/wikipedia/en/1/14/Exoplanets_discovery_methods_chart.png)
 ---------
