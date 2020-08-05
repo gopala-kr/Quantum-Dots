@@ -2,6 +2,10 @@
    - [NASA Exoplanets Catalog](https://exoplanets.nasa.gov/exoplanet-catalog/)
    - [Kepler Orrery IV](https://www.youtube.com/watch?v=_DnDeBa0KFc) :star: :star:
    - [4000 Exoplanets Map](https://www.youtube.com/watch?v=aiFD_LBx2nM)
+   - [Major Exoplanet Discoveries of 2019 - 2 Hour Compilation](https://www.youtube.com/watch?v=lfi-USppPnE)
+   - [Exoplanet Discoveries That Range From the Beautiful to the Very Odd](https://www.youtube.com/watch?v=ARp5D19ztVU)
+   - [Earth like Planets - Documentary 2020](https://www.youtube.com/watch?v=GS0mlBDvmM0)
+   - [Better than Earth: Superhabitable Exoplanets with Prof. Abel Mendez](https://www.youtube.com/watch?v=FrreX86-1_0)
 -------------
 ![Exoplanets_discovery_methods_chart](https://upload.wikimedia.org/wikipedia/en/1/14/Exoplanets_discovery_methods_chart.png)
 ---------
