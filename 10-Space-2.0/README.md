@@ -390,7 +390,7 @@
          - Stellarator
            - LHD
            - WEGA
-     - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) - 440
+     - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) - 440/55
        - [Nuclear Fuel Cycle](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle.aspx)
          - [The Cosmic Origins of Uranium](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/the-cosmic-origins-of-uranium.aspx)
          - [Geology of Uranium Deposits](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/geology-of-uranium-deposits.aspx)
