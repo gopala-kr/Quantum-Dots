@@ -1,5 +1,7 @@
 ----------------------------
 - [List of nuclear weapons tests](https://en.wikipedia.org/wiki/List_of_nuclear_weapons_tests)
+- [List of nuclear test sites](https://en.wikipedia.org/wiki/List_of_nuclear_test_sites)
+- [List of nuclear reactors](https://en.wikipedia.org/wiki/List_of_nuclear_reactors)
 -----------------------
 ![landscape_1200px](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/world-nuclear-landscape_1200px.jpg)
 --------------------------------
@@ -26,4 +28,16 @@
 ![Introducing_the_Advanced_Nuclear_Industry](https://s3.amazonaws.com/uploads.thirdway.org/legacy/publishing/images/files/000/001/471/Introducing_the_Advanced_Nuclear_Industry.jpg?1445353295)
 --------------------
 ![d77868593d2c4dbd13c61b8b6e8d7811](https://i.pinimg.com/originals/d7/78/68/d77868593d2c4dbd13c61b8b6e8d7811.png)
+------------------
+![united-states-nuclear-reactors-location-map-large](https://modernsurvivalblog.com/wp-content/uploads/2011/03/united-states-nuclear-reactors-location-map-large.jpg)
+---------------------
+![global-earthquake-activity-vs-nuclear-power-plant-locations](https://maptd.com/wp-content/uploads/2011/03/global-earthquake-activity-vs-nuclear-power-plant-locations.jpg)
+------------------------
+![Earthquake](https://static.guim.co.uk/sys-images/Guardian/Pix/maps_and_graphs/2011/03/18/Earthquake-zones940.jpg)
+-----------------
+![b2e8d7c1aa97932e619955b83edb579d](https://i.pinimg.com/originals/b2/e8/d7/b2e8d7c1aa97932e619955b83edb579d.png)
+---------------------
+![CGfMzOKWQAAx0](https://pbs.twimg.com/media/CGfMzOKWQAAx0-V.png)
+--------------------
+![nuclear-power-plant-safety-10-1024](https://image.slidesharecdn.com/unit-4nuclearpowerplantpartb-171211083502/95/nuclear-power-plant-safety-10-1024.jpg?cb=1512981378)
 ------------------
