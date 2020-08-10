@@ -17,4 +17,5 @@
  - [Self-Driving Cars & Localization](https://towardsdatascience.com/self-driving-car-localization-f800d4d8da49#:~:text=There%20are%20many%20different%20techniques,position%20at%20a%20time%20t.&text=We%20can%20also%20implement%20this,state%20of%20our%20own%20vehicle.)
  - [Simultaneous Localisation andMapping (SLAM)](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf)
  - [ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1)](https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html)
+ - [Basics of AR: SLAM – Simultaneous Localization and Mapping](https://www.andreasjakl.com/basics-of-ar-slam-simultaneous-localization-and-mapping/)
  ---------------------------------
