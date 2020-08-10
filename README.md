@@ -7,7 +7,7 @@
 - [[Week-8-9](https://github.com/gopala-kr/Quantum-Dots/tree/master/08-Immersive-Computing)] - 05/07/2020 : Immersive Technologies Review
 - [[Week-10-11-12-13-14](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)] : Space Tech Review
 -------------
-- [[Week-15](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-visual-inertial-odometry)] : 16/08/2020 : VIO Frameworks & Algorithms Review
+- [[Week-15](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-visual-inertial-odometry)] - 16/08/2020 : VIO Frameworks & Algorithms Review
 ------------------------
 
 
