@@ -43,4 +43,7 @@
 ![CGfMzOKWQAAx0](https://pbs.twimg.com/media/CGfMzOKWQAAx0-V.png)
 --------------------
 ![nuclear-power-plant-safety-10-1024](https://image.slidesharecdn.com/unit-4nuclearpowerplantpartb-171211083502/95/nuclear-power-plant-safety-10-1024.jpg?cb=1512981378)
+-----------------
+![v5pNn7uBAF4](https://assets.weforum.org/editor/liI5s0igKrJ6NGp7rpqI2-5Tkb3z6-9-v5pNn7uBAF4.png)
 ------------------
+-----------------------
