@@ -6,10 +6,15 @@
  - [Visual-inertial odometry algorithmson the base of thermal camera](http://ceur-ws.org/Vol-2416/paper24.pdf)
  - [Stereo Visual-Inertial-LiDAR Simultaneous Localization and Mapping](https://www.ri.cmu.edu/wp-content/uploads/2019/07/MS_Thesis_ws.pdf)
  - [A  General  Optimization-based  Framework  for  GlobalPose  Estimation  with  Multiple  Sensor](https://arxiv.org/pdf/1901.03642.pdf)
+ - [Localization Limitations of ARCore, ARKit, and Hololens in Dynamic Large-scale Industry Environments](https://www.researchgate.net/publication/340047854_Localization_Limitations_of_ARCore_ARKit_and_Hololens_in_Dynamic_Large-scale_Industry_Environments)
+ - [CloudAR: A Cloud-based Framework for MobileAugmented Reality](https://arxiv.org/pdf/1805.03060.pdf)
+ - [Instant Motion Tracking and Its Applications to Augmented Reality](https://arxiv.org/pdf/1907.06796.pdf)
  --------------
  - [S.L.A.M. and tracking technology](https://medium.com/@matthewpennell_19539/s-l-a-m-and-tracking-technology-1f5956c47771)
  - [ARCore and ARKit Feature Sets Compared to Hamsters and DaVinci: How they see the world](https://medium.com/@vieyrasoftware/arcore-and-arkit-feature-sets-compared-to-hamsters-and-davinci-how-they-see-the-world-c2338076054c)
  - [Motion Tracking in ARCore](https://medium.com/coding-blocks/introduction-to-motion-tracking-in-arcore-f3e584ce0ba0)
  - [Why is ARKit better than the alternatives?](https://medium.com/6d-ai/why-is-arkit-better-than-the-alternatives-af8871889d6a)
  - [Self-Driving Cars & Localization](https://towardsdatascience.com/self-driving-car-localization-f800d4d8da49#:~:text=There%20are%20many%20different%20techniques,position%20at%20a%20time%20t.&text=We%20can%20also%20implement%20this,state%20of%20our%20own%20vehicle.)
+ - [Simultaneous Localisation andMapping (SLAM)](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf)
+ - [ARCore and Arkit: What is under the hood : Anchors and World Mapping (Part 1)](https://blog.rabimba.com/2018/10/arcore-and-arkit-what-is-under-hood.html)
  ---------------------------------
