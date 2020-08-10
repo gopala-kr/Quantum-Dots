@@ -1,0 +1,13 @@
+ - [ADVIO: An Authentic Dataset forVisual-Inertial Odometry](https://arxiv.org/pdf/1807.09828.pdf)
+ - [Visual Odometry](https://paperswithcode.com/task/visual-odometry/codeless?page=7)
+ - [Visual-Inertial Odometry of Aerial Robots](https://arxiv.org/pdf/1906.03289.pdf)
+ - [Visual and Inertial Odometry](https://www.ifi.uzh.ch/en/rpg/research/research_vo.html)
+ - [Two Years of Visual Odometry on the Mars Exploration Rovers](https://www-robotics.jpl.nasa.gov/publications/Mark_Maimone/rob-06-0081.R4.pdf)
+ - [Visual-inertial odometry algorithmson the base of thermal camera](http://ceur-ws.org/Vol-2416/paper24.pdf)
+ --------------
+ - [S.L.A.M. and tracking technology](https://medium.com/@matthewpennell_19539/s-l-a-m-and-tracking-technology-1f5956c47771)
+ - [ARCore and ARKit Feature Sets Compared to Hamsters and DaVinci: How they see the world](https://medium.com/@vieyrasoftware/arcore-and-arkit-feature-sets-compared-to-hamsters-and-davinci-how-they-see-the-world-c2338076054c)
+ - [Motion Tracking in ARCore](https://medium.com/coding-blocks/introduction-to-motion-tracking-in-arcore-f3e584ce0ba0)
+ - [Why is ARKit better than the alternatives?](https://medium.com/6d-ai/why-is-arkit-better-than-the-alternatives-af8871889d6a)
+ 
+ ---------------------------------
