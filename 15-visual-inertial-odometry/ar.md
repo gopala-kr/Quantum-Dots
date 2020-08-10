@@ -4,6 +4,8 @@
  - [Visual and Inertial Odometry](https://www.ifi.uzh.ch/en/rpg/research/research_vo.html)
  - [Two Years of Visual Odometry on the Mars Exploration Rovers](https://www-robotics.jpl.nasa.gov/publications/Mark_Maimone/rob-06-0081.R4.pdf)
  - [Visual-inertial odometry algorithmson the base of thermal camera](http://ceur-ws.org/Vol-2416/paper24.pdf)
+ - [Stereo Visual-Inertial-LiDAR Simultaneous Localization and Mapping](https://www.ri.cmu.edu/wp-content/uploads/2019/07/MS_Thesis_ws.pdf)
+ - [A  General  Optimization-based  Framework  for  GlobalPose  Estimation  with  Multiple  Sensor](https://arxiv.org/pdf/1901.03642.pdf)
  --------------
  - [S.L.A.M. and tracking technology](https://medium.com/@matthewpennell_19539/s-l-a-m-and-tracking-technology-1f5956c47771)
  - [ARCore and ARKit Feature Sets Compared to Hamsters and DaVinci: How they see the world](https://medium.com/@vieyrasoftware/arcore-and-arkit-feature-sets-compared-to-hamsters-and-davinci-how-they-see-the-world-c2338076054c)
