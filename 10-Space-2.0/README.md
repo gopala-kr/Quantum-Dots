@@ -143,12 +143,16 @@
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
      - All Propulsion Methods
-       - Proven - Solid, Liquid, Hybrid, Ion, Solar Sails
-       - Qualified/Demonstrated(Space/Ground) - Plasma, Solar sails, Magnetoplasmadynamic*, Nuclear–thermal(fission)
-       - Components Validated(vacuum/lab) - Pulsed-inductive, VASIMR, Magnetic-field oscillating amplified thruster, Solar–thermal, Radioisotope rocket
-       - Validated PoC/Farmulated - Orion Project*, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser
-       - Conceptual(Theoretical) - Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment, Blackbody Radiation Thrust, Antimatter, Bussard Ramjet
-       - Hypothetical - Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods, Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)
+       - Proven - **[Solid, Liquid, Hybrid, Ion, Solar Sails]**
+       - Qualified/Demonstrated(Space/Ground) - **[Plasma, Solar sails, Magnetoplasmadynamic*, Nuclear–thermal(fission)]**
+       - Components Validated(vacuum/lab) - **[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]**
+       - Validated PoC/Farmulated - **[Orion Project*, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]**
+       - Conceptual(Theoretical) 
+         - **[Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]**
+         - **[Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]**
+       - Hypothetical 
+         - **[Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]**
+         - **[Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]**
      - Rocket Engines - Manufacturer's
    - Launch Vehicles(Rockets)
      - Historical & Currently Operational
