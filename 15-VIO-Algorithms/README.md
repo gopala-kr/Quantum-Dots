@@ -6,5 +6,5 @@
 - [A Review of Visual-LiDAR Fusion based Simultaneous Localization and Mapping](https://res.mdpi.com/d_attachment/sensors/sensors-20-02068/article_deploy/sensors-20-02068.pdf), 2020.
 - [Global Positioning Systems(GPS)](https://arxiv.org/ftp/cs/papers/9809/9809079.pdf)
 ------------------
-![self-localize](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-visual-inertial-odometry/self-localize.PNG)
+![self-localize](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/self-localize.PNG)
 ---------------------------
