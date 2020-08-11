@@ -41,15 +41,55 @@
      - Lunar Gateway(NASA)
      - Lunar Orbital Station(Roscosmos)
      - Indian Space Station
+     - Skylab II (FlexCraft)
      - Commercial
        - Axiom Space
        - Bigelow Aerospace (Alpha, Bravo)
  - [Space Colonization](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_colonization.md)
    - Space Industries
    - Space Tourism
-   - Asteroid Mining
+   - [Asteroids](https://www.asterank.com/3d/) Mining  - Per [asterank.com](https://www.asterank.com/3d/), 711 known asteroids with a value exceeding US$100 trillion
      - Ceres Colonization
-   - Space Colonies
+     - Ryugu
+     - Didymos
+     - Anteros
+     - Psyche
+     - 2001 CC21
+     - Tech
+       - Self-Replicating Machines
+       - [Planetary Resources](https://www.planetaryresources.com/)
+       - OSIRIS-REx
+       - Deep Space Industries
+       - Hayabusa
+       - Rosetta/Philae( comet study)
+       - Planetoid Mines
+       - Asteroid Redirect Mission
+       - Fobos-Grunt2(2024)
+       - VIPER rover
+     - Sci-Fi
+       - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) *
+   - Space Colonies/Habitats
+     - Aurora Station
+     - Bernal sphere --> Island One(NASA)
+     - Bishop Ring
+     - Industrial Space Facility
+     - McKendree cylinder
+     - Nautilus-X
+     - O'Neill cylinder
+     - Rotating wheel/Ring Worlds
+     - Stanford torus
+     - Sci-Fi [Habitats](https://en.wikipedia.org/wiki/List_of_fictional_space_stations) - [Space Ships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
+       - [Deep Space 9](https://memory-alpha.fandom.com/wiki/Deep_Space_9)
+       - [Babylon 5](http://www.zteamproductions.com/protob5.html)
+       - Elysium *
+       - Cooper Station(Interstellar) --> O'Neill cylinder
+       - [Space Station V](https://2001.fandom.com/wiki/Space_Station_V)
+       - Ad Astra(Norwegian biomedical research space station) + Elevator
+       - Cloverfield Station *
+       - The Tet 
+       - Death Star
+       - Oberon
+       - Yorktown *
    - Solar System Colonization
      - Moons Colonization
        - Moon(Earth)
@@ -68,11 +108,6 @@
      - Type III civilization - Galactic
      - Type IV/Ω civilization - Universal
    - Dyson Sphere's
-   - Bernal spheres
-   - Ring Worlds
-   - O'Neill cylinders
-   - McKendree cylinder
-   - Nautilus-X
    - Matrioshka brain
    - Stellar Engine
    - Holography & Simulation
@@ -108,6 +143,7 @@
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
      - All Propulsion Methods
+       - 
      - Rocket Engines - Manufacturer's
    - Launch Vehicles(Rockets)
      - Historical & Currently Operational
