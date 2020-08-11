@@ -9,6 +9,9 @@
  - [Localization Limitations of ARCore, ARKit, and Hololens in Dynamic Large-scale Industry Environments](https://www.researchgate.net/publication/340047854_Localization_Limitations_of_ARCore_ARKit_and_Hololens_in_Dynamic_Large-scale_Industry_Environments)
  - [CloudAR: A Cloud-based Framework for MobileAugmented Reality](https://arxiv.org/pdf/1805.03060.pdf)
  - [Instant Motion Tracking and Its Applications to Augmented Reality](https://arxiv.org/pdf/1907.06796.pdf)
+ 
+ ------------------
+ - [SLAM, Visual Odometry, Structure from Motion, Multiple View Stereo](https://www.slideshare.net/yuhuang/visual-slam-structure-from-motion-multiple-view-stereo)
  --------------
  - [S.L.A.M. and tracking technology](https://medium.com/@matthewpennell_19539/s-l-a-m-and-tracking-technology-1f5956c47771)
  - [ARCore and ARKit Feature Sets Compared to Hamsters and DaVinci: How they see the world](https://medium.com/@vieyrasoftware/arcore-and-arkit-feature-sets-compared-to-hamsters-and-davinci-how-they-see-the-world-c2338076054c)
