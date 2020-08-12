@@ -143,17 +143,39 @@
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
      - All Propulsion Methods
-       - Proven - **[Solid, Liquid, Hybrid, Ion, Solar Sails]**
-       - Qualified/Demonstrated(Space/Ground) - **[Plasma, Solar sails, Magnetoplasmadynamic*, Nuclear–thermal(fission)]**
-       - Components Validated(vacuum/lab) - **[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]**
-       - Validated PoC/Farmulated - **[Orion Project*, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]**
+       - Proven - *[Solid, Liquid, Hybrid, Ion, Solar Sails]*
+       - Qualified/Demonstrated(Space/Ground) - *[Plasma, Solar sails, Magnetoplasmadynamic, Nuclear–thermal(fission)]*
+       - Components Validated(vacuum/lab) - *[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]*
+       - Validated PoC/Farmulated - *[Orion Project, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]*
        - Conceptual(Theoretical) 
-         - **[Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]**
-         - **[Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]**
+         - *[Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]*
+         - *[Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]*
        - Hypothetical 
-         - **[Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]**
-         - **[Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]**
+         - *[Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]*
+         - *[Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]*
      - Rocket Engines - Manufacturer's
+       - Aerojet Rocketdyne
+         - Active - [RS-25 (LH2/LOX), RL10 (LH2/LOX), RS-68 (LH2/LOX), J-2X (LH2/LOX), AJ-60A, MRxxx, Blue Origin CCE]
+         - In-Dev - [AR-22, X3 Ion Thruster]
+       - Antrix(ISRO)
+         - Active - Vikas, CE-20, CE-7.5
+         - In-Dev - SCE-200 
+       - Orbital ATK
+       - Mitsubishi Heavy Industries
+       - Safran S.A.
+       - Blue Origin
+       - NPO Energomash
+       - Virgin Galactic
+       - IHI
+       - JSC Kuznetsov
+       - Yuzhmash
+       - Rocket Lab
+         - LOX / RP-1
+       - SpaceX
+         - Merlin 1
+         - Kestrel
+         - Raptor(methane/LOX)
+         - Draco & SuperDraco
    - Launch Vehicles(Rockets)
      - Historical & Currently Operational
      - Future Trends
