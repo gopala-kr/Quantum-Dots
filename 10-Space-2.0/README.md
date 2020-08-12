@@ -200,7 +200,15 @@
      - [Private Launchers](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
-   - Space Elevators
+   - [Space Elevators](http://spaceref.com/space-elevator/)
+     - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
+     - Japan Space Elevator Association - $8 billion
+     - Designs
+       - Edwards - 
+     - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
+       - Elevator:2010 - $1 million --> no Teams own
+       - EuSEC:2011
+       - 
      - Earth-space elevator
      - Lunar-space elevator
      - Earth-Moon elevator
