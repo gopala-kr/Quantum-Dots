@@ -206,12 +206,15 @@
      - Obayashi Corporation(2012) - 38 year plan
      - STARS-Me(japan) - 2018 --> CubeSat tested
      - Spaceline (2019)- https://arxiv.org/pdf/1908.09339.pdf 
-     - Designs
-       - Edwards - 
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
        - Elevator:2010 - $1 million --> no Teams own
        - EuSEC:2011
-       - 
+     - Base Station - Mobile(Ocean)/Stationary
+     - Cable
+       - Graphene ribbons
+       - Diamond nanothreads 
+     - Climbers - 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000KM)
+     - Counterweight - A asteroid, space dock, space station or spaceport
      - Earth-space elevator
      - Lunar-space elevator
      - Earth-Moon elevator
