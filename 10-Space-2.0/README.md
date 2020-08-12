@@ -202,7 +202,10 @@
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
-     - Japan Space Elevator Association - $8 billion
+     - Japan Space Elevator Association - put forth plan estimate $8 billion
+     - Obayashi Corporation(2012) - 38 year plan
+     - STARS-Me(japan) - 2018 --> CubeSat tested
+     - Spaceline (2019)- https://arxiv.org/pdf/1908.09339.pdf 
      - Designs
        - Edwards - 
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
