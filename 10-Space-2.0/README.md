@@ -20,14 +20,14 @@
 
 #### Global Space Industry Analysis
  - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
-   - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md)
- - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md)
+   - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md) | [NewSpace Orbital Economy organizations](https://www.factoriesinspace.com/space-economy-varia)
+ - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) | [https://www.nanosats.eu/](https://www.nanosats.eu/)
    - Uplink & Downlink
    - Earth Observation
    - Remote Sensing
    - Sat-Communication 
  - [Satellite Constellations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellite_constellation.md) 
-   - LEO Internet
+   - [LEO Internet](https://www.newspace.im/)
    - Global/Regional Navigation
  - [Space Debris](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_debris.md)
  - [Space Stations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_stations.md)
@@ -48,7 +48,7 @@
  - [Space Colonization](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_colonization.md)
    - Space Industries
    - Space Tourism
-   - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 < $100 t
+   - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 < $100t
      - Ceres Colonization
      - Ryugu
      - Didymos
@@ -78,7 +78,7 @@
      - O'Neill cylinder
      - Rotating wheel/Ring Worlds
      - Stanford torus
-     - Sci-Fi [Habitats](https://en.wikipedia.org/wiki/List_of_fictional_space_stations) - [Space Ships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
+     - Sci-Fi [Habitats](https://en.wikipedia.org/wiki/List_of_fictional_space_stations)
        - [Deep Space 9](https://memory-alpha.fandom.com/wiki/Deep_Space_9)
        - [Babylon 5](http://www.zteamproductions.com/protob5.html)
        - Elysium *
@@ -118,15 +118,22 @@
    - Teleportation
    - Fermi paradox
    - Time travel
- - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md)
+ - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
-   - 3D Printing
+     - [Astrobotic Technology](https://www.astrobotic.com/)
+   - [3D Printing in Space](https://www.space.com/topics/3d-printing-in-space)
+     - [AI SpaceFactory](https://www.aispacefactory.com/) --> 3D Printed Habitats (Mars/Moon)
+     - [Made in Space](https://madeinspace.us/)
+     - [Allevi:3D Bioprinting](https://www.allevi3d.com/)
+     - ESA --> 3D printing satellites --> PEEK 10cm CubeSats
+     - NASA --> 3D printing Mars bases with Regolith, 3D Printed Telescopes
+     - [Relativity Space](https://www.relativityspace.com/) --> 3D PRINTED ROCKET
  - [Making of Artificial Gravity](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/artificial_gravity.md)
    - Centripetal Acceleration(Spin/Rotation)
    - Magnetic Levitation
    - Dark Energy & Dark Matter
  - [Space Travel Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/spacecrafts_%26_rockets.md)
-   - Spacecrafts(Crewed, Uncrewed)
+   - [Spacecrafts(Crewed, Uncrewed)](https://www.newspace.im/spacecraft)
      - Payload
      - Crewed (Active & In-dev)
        - Soyuz
@@ -185,11 +192,14 @@
      - Historical(retired & Cancelled) 
      - Currently Active 
      - Under Developemnt 
-     - Future Trends - 
-       - Reusable
-     - Private Players(CountryWise)
+     - Reusable Space Launch System(Future Trends)
+       - SpaceX --> Falcon 9 & Heavy (Operational) --> Starship(In-Dev)
+       - Blue Origin --> New Shepard(Active)
+       - ISRO --> RLV-TD(Tested)
+       - Virgin Galactic --> SpaceShipTwo(Active)
+     - [Private Launchers](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
-   - Spaceships
+   - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
    - Space Elevators
      - Earth-space elevator
      - Lunar-space elevator
