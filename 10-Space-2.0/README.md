@@ -209,6 +209,7 @@
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
        - Elevator:2010 - $1 million --> no Teams own
        - EuSEC:2011
+     - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) - Current Rocket Tech - Lowest by SpaceX--> $2,720/kg  : Elevator
      - Base Station - Mobile(Ocean)/Stationary
      - Cable
        - Graphene ribbons
