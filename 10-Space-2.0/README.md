@@ -153,31 +153,36 @@
        - Hypothetical 
          - *[Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]*
          - *[Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]*
-     - Rocket Engines - Manufacturer's
+     - [Rocket Engines](https://en.wikipedia.org/wiki/Comparison_of_orbital_rocket_engines) - Manufacturer's
        - Aerojet Rocketdyne
          - Active - [RS-25 (LH2/LOX), RL10 (LH2/LOX), RS-68 (LH2/LOX), J-2X (LH2/LOX), AJ-60A, MRxxx, Blue Origin CCE]
          - In-Dev - [AR-22, X3 Ion Thruster]
        - Antrix(ISRO)
          - Active - Vikas, CE-20, CE-7.5
          - In-Dev - SCE-200 
-       - Orbital ATK
+       - Orbital ATK(Northrop Grumman Innovation Systems)
+         - GEM-XX series, Castor series
        - Mitsubishi Heavy Industries
-       - Safran S.A.
+         - LE-xx series, M-xx series
        - Blue Origin
+         - BE series
        - NPO Energomash
        - Virgin Galactic
-       - IHI
+         - Newton Series
+       - IHI - BT-4, SRB-A
        - JSC Kuznetsov
-       - Yuzhmash
+         - NK Series, RD-107A, RD-108A 
+       - Yuzhmash - RD-843
        - Rocket Lab
          - LOX / RP-1
        - SpaceX
-         - Merlin 1
-         - Kestrel
-         - Raptor(methane/LOX)
-         - Draco & SuperDraco
+         - Merlin, Kestrel, Raptor(CH4/LOX), Draco & SuperDraco
+       - China - YF & FG series
+       - Russia - NK & RD series
+       - Europe - [HM7B, Vinci, Vulcain](hydrolox), [Mira (LM-10) & Prometheus](methalox*), Viking
    - Launch Vehicles(Rockets)
-     - Historical & Currently Operational
+     - Historical(retired)
+     - Currently Operational
      - Future Trends
        - Reusable
      - All Rocket Families(CountryWise)
