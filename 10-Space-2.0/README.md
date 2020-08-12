@@ -166,7 +166,7 @@
          - LE-xx series, M-xx series
        - Blue Origin
          - BE series
-       - NPO Energomash
+       - NPO Energomash - RD series
        - Virgin Galactic
          - Newton Series
        - IHI - BT-4, SRB-A
@@ -179,15 +179,16 @@
          - Merlin, Kestrel, Raptor(CH4/LOX), Draco & SuperDraco
        - China - YF & FG series
        - Russia - NK & RD series
-       - Europe - [HM7B, Vinci, Vulcain](hydrolox), [Mira (LM-10) & Prometheus](methalox*), Viking
-   - Launch Vehicles(Rockets)
-     - Historical(retired)
-     - Currently Operational
-     - Future Trends
+       - Europe - [HM7B, Vinci, Vulcain] (hydrolox), [Mira (LM-10) & Prometheus] (methalox*), Viking
+   - [Launch Vehicles(Rockets)](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)
+     - Rocket Families 
+     - Historical(retired & Cancelled) 
+     - Currently Active 
+     - Under Developemnt 
+     - Future Trends - 
        - Reusable
-     - All Rocket Families(CountryWise)
      - Private Players(CountryWise)
-     - Payload Capacity & Price Comparison
+     - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - Spaceships
    - Space Elevators
      - Earth-space elevator
