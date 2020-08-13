@@ -275,7 +275,7 @@
      - Antimatter(Negative Energy)
      - Tachyons
      - Teleportation
- - [Space Exploration 1.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
+ - [Space Exploration 1.0 & 2.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
    - Historical Missions
      - Unmanned
      - Manned
@@ -307,7 +307,8 @@
          - NASA(USA) : 10 Missions ; 9 successful ; 1 failure
          - Future Missions
            - NASA : [VICI, VISAGE, VISE-->Balloon, DAVINCI, VERITAS] (late 2020/2021)
-             - VAMP(2026)-->balloon, CUVE, HAVOC--> Crewed, VOX, Zephyr(2039)--> Robotic Rover (may be 1st Rover on Venus)
+             - VAMP(2026)-->balloon, CUVE, HAVOC--> Crewed, VOX
+             - Zephyr(2039)--> Robotic Rover (may be 1st Rover on Venus)
            - ESA : EnVision (2032), EVE
            - ISRO : Shukrayaan-1 (2023) --> Orbiter & Balloon
            - ROSCOSMOS : Venera-D (2026)
@@ -352,13 +353,13 @@
            - Apollo 7 - 1968(OCT): 3 Crews, Earth orbital demonstration
            - Apollo 8 - 1968(DEc): 3 Crews, Saturn V; 10 lunar orbits in 20 hours
            - Apollo 9 - 1969(Mar): 3 Crews, Demonstrated portable life support system
-           - Apollo 10 - 1969(May): 3 Crews,first lunar landing of Lunar Module
-           - Apollo 11 - 1969(Jul): 3 Crews,1stcrewed landing(Neil Armstrong)--> 2:31hr;Place:(Sea of Tranquility)
-           - Apollo 12 - 1969(Nov): 3 Crews,2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
-           - Apollo 13 - 1970(Apr): 3 Crews,Failure
-           - Apollo 14 - 1971(Feb): 3 Crews,3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
-           - Apollo 15 - 1971(Jul): 3 Crews,Landed with Driving Rover;Place:Hadley-Apennine(Sea of Showers/Rains)-->18:33 hr
-           - Apollo 16 - 1972(Apr): 3 Crews,Place: Plain of Descartes--> 20:14 hr
+           - Apollo 10 - 1969(May): 3 Crews, first lunar landing of Lunar Module
+           - Apollo 11 - 1969(Jul): 3 Crews, 1stcrewed landing(Neil Armstrong)--> 2:31hr; Place:(Sea of Tranquility)
+           - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
+           - Apollo 13 - 1970(Apr): 3 Crews, Failure
+           - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
+           - Apollo 15 - 1971(Jul): 3 Crews, Landed w/ driving Rover; Place:Hadley-Apennine(Sea of Showers/Rains)-->18:33 hr
+           - Apollo 16 - 1972(Apr): 3 Crews, Place: Plain of Descartes--> 20:14 hr
            - Apollo 17 - 1972(Dec): 3 Crews(1 Geologist), Last Appollo mission, Place:Taurus–Littrow--> 22:02 hr   
          - Currently Active
            - Lunar Reconnaissance Orbiter
@@ -400,8 +401,6 @@
      - Interstellar Probes
     - Orbiters, Landers & Rovers
  - [Future of Space Exploration](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/future_of_space_exploration.md)
-   - Artemis Program
-   - Terraforming Mars
  - Space Defence Technology
    - Space Force
    - Space Warfare
