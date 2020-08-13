@@ -21,7 +21,7 @@
 #### Global Space Industry Analysis
  - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
    - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md) | [NewSpace Orbital Economy organizations](https://www.factoriesinspace.com/space-economy-varia)
- - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) | [https://www.nanosats.eu/](https://www.nanosats.eu/)
+ - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) | [nanosats.eu](https://www.nanosats.eu/)
    - Uplink & Downlink
    - Earth Observation
    - Remote Sensing
@@ -30,6 +30,7 @@
    - [LEO Internet](https://www.newspace.im/)
    - Global/Regional Navigation
  - [Space Debris](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_debris.md)
+   - [Review of Active Space Debris Removal Methods](https://www.sciencedirect.com/science/article/abs/pii/S0265964618300110)
  - [Space Stations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_stations.md)
    - Salyut
    - Mir
@@ -127,7 +128,7 @@
      - [Allevi:3D Bioprinting](https://www.allevi3d.com/)
      - ESA --> 3D printing satellites --> PEEK 10cm CubeSats
      - NASA --> 3D printing Mars bases with Regolith, 3D Printed Telescopes
-     - [Relativity Space](https://www.relativityspace.com/) --> 3D PRINTED ROCKET
+     - [Relativity Space](https://www.relativityspace.com/) --> 3D PRINTED ROCKETS
  - [Making of Artificial Gravity](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/artificial_gravity.md)
    - Centripetal Acceleration(Spin/Rotation)
    - Magnetic Levitation
@@ -200,7 +201,7 @@
      - [Private Launch Companies](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
-   - Non-Rockect Space Launch Systems
+   - Non-Rocket Space Launch Systems
      - Slyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
@@ -211,7 +212,7 @@
        - Graphene ribbons
        - Diamond nanothreads 
      - Climbers - with 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000km)
-     - Counterweight - A asteroid, space dock, space station or spaceport
+     - Counterweight - An asteroid, a space dock, space station or spaceport
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
        - Elevator:2010 - $1 million --> no teams own
        - [EuSEC:2020](https://euspec.warr.de/)
@@ -222,7 +223,7 @@
      - Lunar-space elevator - Earth-Moon elevator?
        - L1 is 56,315 km +/- 3,183 km - gravity balences
        - L2 is 62,851 km +/- 3,539 km - gravity balences
-       - Spaceline(2019) - [https://arxiv.org/pdf/1908.09339.pdf](https://arxiv.org/pdf/1908.09339.pdf)
+       - Spaceline(2019) - [arxiv](https://arxiv.org/pdf/1908.09339.pdf)
    - Intersteller Travel
      - Ramjet
      - Magnetic/Light Sail
