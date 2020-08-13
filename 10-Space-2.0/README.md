@@ -82,19 +82,49 @@
      - Sci-Fi [Habitats](https://en.wikipedia.org/wiki/List_of_fictional_space_stations)
        - [Deep Space 9](https://memory-alpha.fandom.com/wiki/Deep_Space_9)
        - [Babylon 5](http://www.zteamproductions.com/protob5.html)
-       - Elysium *
+       - Elysium*
        - Cooper Station(Interstellar) --> O'Neill cylinder
        - [Space Station V](https://2001.fandom.com/wiki/Space_Station_V)
        - Ad Astra(Norwegian biomedical research space station) + Elevator
-       - Cloverfield Station *
+       - Cloverfield Station*
        - The Tet 
        - Death Star
        - Oberon
-       - Yorktown *
+       - Yorktown*
    - Solar System Colonization
      - Moons Colonization
        - Moon(Earth)
-       - Europa(Jupiter) - circumstellar
+         - Moon Surface Sites --> Sinus Roris, Eratosthenes, Sinus Medii, Montes Apenninus, Kepler, Shackleton, Peary
+         - Old Projects/Plans
+           - Project Horizon(1959-1967)
+           - Lunex Project(1961)
+           - Zvezda Moonbase(1962 - 1974)-Soviet
+           - Apollo Lunar Base (1970s)
+           - Lunar Expeditionary Complex (1970s)
+           - Energia Lunar Expedition (1980s)
+           - JSC Moon Base (1980s)
+           - Lunar Outpost (2000s)
+         - Current/Future
+           - Lunar Noah's Ark(2007)
+           - Moon Village(2015) - International
+           - Artemis program - 1990, (2019-28)?
+           - Russia Luna-Glob (2030s)
+           - Chinese Lunar Base (2030s)
+           - JAXA Moon Base (2030s)
+         - Moon Tourism [All Plans, not in operation]
+           - Sites Attraction- far side of the Moon, Earthrise over the lunar horizon
+           - Circumlunar trajectory(flyby) - $150 million/seat;  Space Adventures & Excalibur Almaz(cancelled)
+           - Lunar orbit
+           - lunar landing - $750 million/seat - Golden Spike Company(Cancelled)
+           - Proposals
+             - DSE-Alpha --> Space Adventures --> Soyuz spacecraft --> 100km near lunar surface --> 2+1 ; 1 week trip
+             - #dearMoon project --> SpaceX --> Starship --> 6–8 artists --> $70 million?
+       - Europa(Jupiter)
+         - Advantages - Water = 2 * Earth; 60 to 150km deep ocean; 15 to 25km Shell; 1/4(earth) diameter
+         - Challenges - Radiation(540 rem/day)
+         - Probes --> Pioneer 10(1972), Pioneer 11(1973), Voyager 1(1980), Voyager 2(1979), Galileo(1995), Cassini–Huygens(2005), New Horizons(2007)
+         - Future missions --> Jupiter Icy Moons Explorer (2022), Europa Clipper (2025)
+         - In-Fiction --> Source of Water, inhabitated by genetically engineered posthumans, as a military installation(weapons development)
        - Titan(Saturn) - circumstellar
        - Enceladus(Saturn) - circumstellar
        - Triton(Neptune) - circumstellar
@@ -202,7 +232,7 @@
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
    - Non-Rocket Space Launch Systems
-     - Slyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
+     - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
         - Current Rocket Tech - Lowest by SpaceX (Private)--> $2,720/kg  ; Future Starship promises $47/kg [build cost $10 billion]
