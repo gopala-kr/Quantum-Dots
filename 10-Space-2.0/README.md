@@ -206,21 +206,21 @@
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
         - Current Rocket Tech - Lowest by SpaceX (Private)--> $2,720/kg  ; Future Starship promises $47/kg [build cost $10 billion]
-        - Edward Space Elevator (Private): $6 billion build cost--> $220/kg
+        - [Edwards Space Elevator (Private)](http://www.niac.usra.edu/files/studies/final_report/472Edwards.pdf): $6 billion build cost--> $220/kg
      - Base Station - Mobile(Ocean)/Stationary
      - Cable
        - Graphene ribbons
        - Diamond nanothreads 
-     - Climbers - with 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000km)
+     - Climbers(pods) - with 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,000km) --> only cargo? + people?
      - Counterweight - An asteroid, a space dock, space station or spaceport
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
        - Elevator:2010 - $1 million --> no teams own
        - [EuSEC:2020](https://euspec.warr.de/)
      - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
-     - Japan Space Elevator Association - put forth plan estimate $8 billion
+     - Japan Space Elevator Association (2008) - put forth plan estimate $8 billion
      - Obayashi Corporation(2012) - 38 year plan
-     - STARS-Me(japan) - 2018 --> CubeSat tested
-     - Lunar-space elevator - Earth-Moon elevator?
+     - STARS-Me(Japan) - 2018 --> CubeSat tested
+     - Lunar-space elevator --> Earth-Moon elevator?
        - L1 is 56,315 km +/- 3,183 km - gravity balences
        - L2 is 62,851 km +/- 3,539 km - gravity balences
        - Spaceline(2019) - [arxiv](https://arxiv.org/pdf/1908.09339.pdf)
@@ -271,9 +271,38 @@
      - ISRO
      - ESA
      - JAXA
-   - Private
-     - OEM's
-     - Startups
+   - [Private (OEM's + Tourism + Foundations(Non-profit))](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
+     - B612 Foundation
+     - Stratolaunch Systems
+     - Planetary Resources
+     - Arianespace
+     - Axiom Space
+     - ARCAspace
+     - Astra
+     - Bigelow Aerospace
+     - Blue Origin
+     - Copenhagen Suborbitals
+     - Northrop Grumman
+     - Rocket Lab
+     - Sierra Nevada Corporation
+     - SpaceX
+     - Virgin Galactic
+     - Virgin Orbit
+     - PLD Space
+     - Firefly Aerospace
+     - Starchaser Industries
+     - PlanetSpace-Canadian Arrow
+     - Space Adventures
+     - XCOR Aerospace
+     - Shackleton Energy Company?
+     - Deep Space Industries?
+     - Space Development Nexus
+     - Google Lunar X Prize
+       - Moon Express
+       - SpaceIL
+       - Synergy Moon
+       - Team Indus
+       - Hakuto (ispace)
 --------------------
 #### Astronomy
    - Telescopes
