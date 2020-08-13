@@ -345,25 +345,28 @@
          - Future Missions: ODINUS - ESA, Triton Hopper, Argo, Trident
      - Planetary Moon Missions
        - Earths Moon
-         - Notable Past : Apollo Program --> Cost: 25.4 billion(1973)/$153 billion(2018); Sample returned: 382 kg (842 lb); 32 Austronauts/24 Orbited Moon/12 Walked on Moon
+         - Notable Past : Apollo Program --> Cost: 25.4 billion(1973)/$153 billion(2018); 
+           - Total Sample returned: 382 kg (842 lb); 32 Austronauts/3 Died/24 Orbited Moon/12 Walked on Moon
            - Apollo 1 - 1967: failure; 3 Crew died
            - Apollo 7 - 1968(OCT): 3 Crews, Earth orbital demonstration
            - Apollo 8 - 1968(DEc): 3 Crews, Saturn V; 10 lunar orbits in 20 hours
            - Apollo 9 - 1969(Mar): 3 Crews, Demonstrated portable life support system
            - Apollo 10 - 1969(May): 3 Crews, first lunar landing of Lunar Module
-           - Apollo 11 - 1969(Jul): 3 Crews, 1st crewed landing(Neil Armstrong)-->2:31 hr; Samples returned:47.51 pounds(21.55kg); Place:Tranquility Base(Sea of Tranquility)
-           - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr. Samples returned: 75.62 pounds (34.30 kg)
+           - Apollo 11 - 1969(Jul): 3 Crews, 1st crewed landing(Neil Armstrong)-->2:31 hr; Place:Tranquility Base(Sea of Tranquility)
+           - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
            - Apollo 13 - 1970(Apr): 3 Crews, Failure
-           - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr. Samples returned: 94.35 pounds (42.80 kg)
-           - Apollo 15 - 1971(Jul): 3 Crews, Landed with Driving Rover; Place: Hadley-Apennine(Sea of Showers/Rains)--> 18:33 hr. Samples returned: 169.10 pounds (76.70 kg)
-           - Apollo 16 - 1972(Apr): 3 Crews,  Place: Plain of Descartes--> 20:14 hr; Samples returned: 207.89 pounds (94.30 kg)
-           - Apollo 17 - 1972(Dec): 3 Crews(1 Geologist), Last Appollo mission, Place:  Taurus–Littrow--> 22:02 hr. Samples returned: 243.40 pounds (110.40 kg)       
-         - Currently Active : Lunar Reconnaissance Orbiter, Chandrayaan-2 Orbiter, Chang'e 3 (2013) & Chang'e 4(2019) --> Landers, Yutu-2 --> Rover
-         - Future Missions : 
+           - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
+           - Apollo 15 - 1971(Jul): 3 Crews, Landed with Driving Rover; Place: Hadley-Apennine(Sea of Showers/Rains)--> 18:33 hr
+           - Apollo 16 - 1972(Apr): 3 Crews,  Place: Plain of Descartes--> 20:14 hr
+           - Apollo 17 - 1972(Dec): 3 Crews(1 Geologist), Last Appollo mission, Place:  Taurus–Littrow--> 22:02 hr   
+         - Currently Active : Lunar Reconnaissance Orbiter, Chandrayaan-2 Orbiter, Chang'e 3(2013) & 4(2019)-->Landers,Yutu-2-->Rover
+         - Future Missions 
            - Artemis Program - NASA
              - Artemis 1 (2021) 
-               - [ArgoMoon, BioSentinel, Cislunar Explorers. CU-E3, CuSP, EQUULEUS, LunaH-Map, Lunar Flashlight, Lunar IceCube, NEA Scout. OMOTENASHI, SkyFire, Team Miles]
-             - Artemis 2 (2023), Artemis 3 (2024), Artemis 4 (2025), Artemis 5 (2026), Artemis 6 (2027), Artemis 7 (2028), Artemis 8 (2028)
+               - ArgoMoon, BioSentinel, Cislunar Explorers. CU-E3, CuSP, EQUULEUS, LunaH-Map, Lunar Flashlight
+               - Lunar IceCube, NEA Scout. OMOTENASHI, SkyFire, Team Miles
+             - Artemis 2 (2023), Artemis 3 (2024), Artemis 4 (2025)
+             - Artemis 5 (2026), Artemis 6 (2027), Artemis 7 (2028), Artemis 8 (2028)
            - Commercial Lunar Payload Services - NASA
              - CAPSTONE (2021), Nova-C (2021), Peregrine M1 (Jul 2021), VIPER (2023)
            - Luna-Glob - Russia
@@ -381,6 +384,11 @@
            - Hakuto-R M2 (Mar 2023)
            - #dearMoon project (2023)
            - Lunar Polar Exploration Mission(2024) - ISRO & JAXA
+           - Blue Moon(2024) - Blue Origin - Cargo Carrier
+           - Lunar Crater Radio Telescope - NASA - 1 km in diameter
+           - DSE-Alpha - Private Tourism
+           - Lunar Gateway( Boeing Lunar Lander, Lockheed Martin Lunar Lander) - NASA Lunar Space Station
+           - Lunar Orbital Station - Rassian Space Sation
      - Minor Planets, Asteroids & Comets Missions
        - Asteroid belt, between 2-3 AU
        - Kuiper belt, between 30-60 AU
