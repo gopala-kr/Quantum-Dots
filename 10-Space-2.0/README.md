@@ -281,32 +281,33 @@
      - Manned
      - Planetary Missions
        - Mars Exploration
-         - [as of 2020 | Total Missions: 62 | 28 Successful | 26 Failure : 3 Partial failures | 5 On the way to Mars]
-         - of 28 Successful --> 8 are currently operational ; 1 Rover(Curiosity), 1 Lander(Insight), 6 Orbiters
+         - as of 2020 | total missions: 62 | 28 successful | 26 failure : 3 partial failures | 5 En route
+         - of 28 successful --> 8 are currently in operation ; 1 Rover(Curiosity), 1 Lander(Insight), 6 Orbiters
          - Soviet Union : 20 Missions | 14 failures ; 3 partial failures ; 3 successful(One 1st lander on Mars 1971)
          - Russia : 2 Missions ; 2 failures
          - China : 3 Missions ; 1 failure ; 2 on the way to Mars(2020)
          - ESA : 5 Missions ; 3 success(1 combined effort with Russia: ExoMars); 2 failures(Landers)
          - Japan : 1 Mission ; 1 failure
-         - UAE : 1 Mission --> On the way to Mars (Orbiter)
+         - UAE : 1 Mission --> En route (Orbiter)
          - India(ISRO) : 1 Mission ; 1 Operational (MoM)
-         - NASA(USA) : 29 Missions ; 21 successful --> 5 Operational (3 Orbiters; 1 Lander; 1 Rover) ; 2 On the way (2020) ; 6 Failures
+         - NASA(USA):29 Missions; 21 successful--> 5 operational (3 orbiters; 1 Lander; 1 Rover) ; 2 En route (2020) ; 6 Failures
          - Future Missions
            - NeMO(Telecom Orbiter)- NASA --> 2020? 2022?
            - ExoMars 2022  - ESA
            - TEREX 2022 - JAXA
            - MMX 2024 - JAXA         
            - MoM2 2024 - ISRO
-           - Cargo Demo 2022 - SpaceX ? 
-           - Crewed mission 2024 - SpaceX ?
+           - Cargo Demo 2022? - SpaceX 
+           - Crewed mission 2024? - SpaceX
        - Venus Exploration
-         - as of 2020 | Total missions : 44 | 27 successfull : 1 Operational (Akatsuki Orbiter -- > JAXA) | 17 failures
-         - Soviet Union : 29 Missions ; 14 Successful; 15 Failures
-         - ESA : 2 Missions ; 2 Successful
-         - JAPAN : 3 Missions ; 2 Successful --> 1 Operational (Akatsuki Orbiter) ; 1 failure
-         - NASA(USA) : 10 Missions ; 9 Successful ; 1 failure
+         - as of 2020 | total missions : 44 | 27 successfull : 1 operational (Akatsuki orbiter-- >JAXA) | 17 failures
+         - Soviet Union : 29 Missions ; 14 successful; 15 failures
+         - ESA : 2 Missions ; 2 successful
+         - JAPAN : 3 Missions ; 2 successful --> 1 operational (Akatsuki orbiter) ; 1 failure
+         - NASA(USA) : 10 Missions ; 9 successful ; 1 failure
          - Future Missions
-           - NASA : [VICI, VISAGE, VISE-->Balloon, DAVINCI, VERITAS] (late 2020/2021), VAMP(2026)-->balloon, CUVE, HAVOC--> Crewed, VOX, Zephyr(2039)--> Robotic Rover ( May be 1st Rover on Venus)
+           - NASA : [VICI, VISAGE, VISE-->Balloon, DAVINCI, VERITAS] (late 2020/2021)
+             - VAMP(2026)-->balloon, CUVE, HAVOC--> Crewed, VOX, Zephyr(2039)--> Robotic Rover (may be 1st Rover on Venus)
            - ESA : EnVision (2032), EVE
            - ISRO : Shukrayaan-1 (2023) --> Orbiter & Balloon
            - ROSCOSMOS : Venera-D (2026)
@@ -339,7 +340,7 @@
            - Explorer of Enceladus and Titan, Journey to Enceladus and Titan
        - Uranus Exploration
          - Voyager 2 (1986 flyby)
-         - Future Missions : MUSE(2026)-ESA, Oceanus - NASA, ODINUS - ESA, NASA Uranus orbiter and probe, Uranus Pathfinder
+         - Future Missions : MUSE(2026)-ESA, Oceanus-NASA, ODINUS-ESA, NASA Uranus orbiter & probe,Uranus Pathfinder
        - Neptune Exploration
          - Voyager 2 (1989 flyby)
          - Future Missions: ODINUS - ESA, Triton Hopper, Argo, Trident
@@ -351,15 +352,18 @@
            - Apollo 7 - 1968(OCT): 3 Crews, Earth orbital demonstration
            - Apollo 8 - 1968(DEc): 3 Crews, Saturn V; 10 lunar orbits in 20 hours
            - Apollo 9 - 1969(Mar): 3 Crews, Demonstrated portable life support system
-           - Apollo 10 - 1969(May): 3 Crews, first lunar landing of Lunar Module
-           - Apollo 11 - 1969(Jul): 3 Crews, 1st crewed landing(Neil Armstrong)-->2:31 hr; Place:Tranquility Base(Sea of Tranquility)
-           - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
-           - Apollo 13 - 1970(Apr): 3 Crews, Failure
-           - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
-           - Apollo 15 - 1971(Jul): 3 Crews, Landed with Driving Rover; Place: Hadley-Apennine(Sea of Showers/Rains)--> 18:33 hr
-           - Apollo 16 - 1972(Apr): 3 Crews,  Place: Plain of Descartes--> 20:14 hr
-           - Apollo 17 - 1972(Dec): 3 Crews(1 Geologist), Last Appollo mission, Place:  Taurus–Littrow--> 22:02 hr   
-         - Currently Active : Lunar Reconnaissance Orbiter, Chandrayaan-2 Orbiter, Chang'e 3(2013) & 4(2019)-->Landers,Yutu-2-->Rover
+           - Apollo 10 - 1969(May): 3 Crews,first lunar landing of Lunar Module
+           - Apollo 11 - 1969(Jul): 3 Crews,1stcrewed landing(Neil Armstrong)--> 2:31hr;Place:(Sea of Tranquility)
+           - Apollo 12 - 1969(Nov): 3 Crews,2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
+           - Apollo 13 - 1970(Apr): 3 Crews,Failure
+           - Apollo 14 - 1971(Feb): 3 Crews,3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
+           - Apollo 15 - 1971(Jul): 3 Crews,Landed with Driving Rover;Place:Hadley-Apennine(Sea of Showers/Rains)-->18:33 hr
+           - Apollo 16 - 1972(Apr): 3 Crews,Place: Plain of Descartes--> 20:14 hr
+           - Apollo 17 - 1972(Dec): 3 Crews(1 Geologist), Last Appollo mission, Place:Taurus–Littrow--> 22:02 hr   
+         - Currently Active
+           - Lunar Reconnaissance Orbiter
+           - Chandrayaan-2 Orbiter
+           - Chang'e 3(2013) & 4(2019)(Landers), Yutu-2(Rover)
          - Future Missions 
            - Artemis Program - NASA
              - Artemis 1 (2021) 
@@ -370,7 +374,7 @@
            - Commercial Lunar Payload Services - NASA
              - CAPSTONE (2021), Nova-C (2021), Peregrine M1 (Jul 2021), VIPER (2023)
            - Luna-Glob - Russia
-             - Luna 25 (2021), Luna 26 (2024), Luna 27 (2025), Luna 28 (2027), Luna 29 (2028), Luna 30 (2028), Luna 31 (2028)
+             - Luna 25 (2021), Luna 26 (2024), Luna 27 (2025), Luna 28(2027), Luna 29(2028), Luna 30(2028), Luna 31(2028)
            - Chinese Lunar Exploration Program
              - Chang'e 5 (2020), Chang'e 6 (2023–2024), Chang'e 7 (2024), Chang'e 8 (2027)
            - Chandrayaan-3 (2021)
