@@ -182,10 +182,14 @@
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
      - All Propulsion Methods
-       - Proven - *[Solid, Liquid, Hybrid, Ion, Solar Sails]*
-       - Qualified/Demonstrated(Space/Ground) - *[Plasma, Solar sails, Magnetoplasmadynamic, Nuclear–thermal(fission)]*
-       - Components Validated(vacuum/lab) - *[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]*
-       - Validated PoC/Farmulated - *[Orion Project, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]*
+       - Proven 
+         - *[Solid, Liquid, Hybrid, Ion, Solar Sails]*
+       - Qualified/Demonstrated(Space/Ground) 
+         - *[Plasma, Solar sails, Magnetoplasmadynamic, Nuclear–thermal(fission)]*
+       - Components Validated(vacuum/lab) 
+         - *[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]*
+       - Validated PoC/Farmulated 
+         - *[Orion Project, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]*
        - Conceptual(Theoretical) 
          - *[Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]*
          - *[Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]*
@@ -233,7 +237,8 @@
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
    - Non-Rocket Space Launch Systems
-     - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
+     - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
+     - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
         - Current Rocket Tech - Lowest by SpaceX (Private)--> $2,720/kg  ; Future Starship promises $47/kg [build cost $10 billion]
@@ -283,9 +288,9 @@
        - Mars Exploration
          - as of 2020 | total missions: 62 | 28 successful | 26 failure : 3 partial failures | 5 En route
          - of 28 successful --> 8 are currently in operation ; 1 Rover(Curiosity), 1 Lander(Insight), 6 Orbiters
-         - Soviet Union : 20 Missions | 14 failures ; 3 partial failures ; 3 successful(One 1st lander on Mars 1971)
+         - Soviet Union : 20 Missions | 14 failures ; 3 partial failures ; 3 successful(1st lander on Mars 1971)
          - Russia : 2 Missions ; 2 failures
-         - China : 3 Missions ; 1 failure ; 2 on the way to Mars(2020)
+         - China : 3 Missions ; 1 failure ; 2 en route to Mars(2020)
          - ESA : 5 Missions ; 3 success(1 combined effort with Russia: ExoMars); 2 failures(Landers)
          - Japan : 1 Mission ; 1 failure
          - UAE : 1 Mission --> En route (Orbiter)
@@ -341,20 +346,25 @@
            - Explorer of Enceladus and Titan, Journey to Enceladus and Titan
        - Uranus Exploration
          - Voyager 2 (1986 flyby)
-         - Future Missions : MUSE(2026)-ESA, Oceanus-NASA, ODINUS-ESA, NASA Uranus orbiter & probe,Uranus Pathfinder
+         - Future Missions 
+           - MUSE(2026)-ESA
+           - Oceanus-NASA
+           - ODINUS-ESA
+           - NASA Uranus orbiter & probe
+           - Uranus Pathfinder
        - Neptune Exploration
          - Voyager 2 (1989 flyby)
          - Future Missions: ODINUS - ESA, Triton Hopper, Argo, Trident
      - Planetary Moon Missions
        - Earths Moon
          - Notable Past : Apollo Program --> Cost: 25.4 billion(1973)/$153 billion(2018); 
-           - Total Sample returned: 382 kg (842 lb); 32 Austronauts/3 Died/24 Orbited Moon/12 Walked on Moon
+           - Total Sample returned: 382 kg (842 lb); 32 Austronauts /3 Died /24 Orbited Moon /12 Walked on Moon
            - Apollo 1 - 1967: failure; 3 Crew died
            - Apollo 7 - 1968(OCT): 3 Crews, Earth orbital demonstration
            - Apollo 8 - 1968(DEc): 3 Crews, Saturn V; 10 lunar orbits in 20 hours
            - Apollo 9 - 1969(Mar): 3 Crews, Demonstrated portable life support system
            - Apollo 10 - 1969(May): 3 Crews, first lunar landing of Lunar Module
-           - Apollo 11 - 1969(Jul): 3 Crews, 1stcrewed landing(Neil Armstrong)--> 2:31hr; Place:(Sea of Tranquility)
+           - Apollo 11 - 1969(Jul): 3 Crews, 1stcrewed landing(Neil Armstrong)--> 2:31hr; Place: Sea of Tranquility
            - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
            - Apollo 13 - 1970(Apr): 3 Crews, Failure
            - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
@@ -368,8 +378,8 @@
          - Future Missions 
            - Artemis Program - NASA
              - Artemis 1 (2021) 
-               - ArgoMoon, BioSentinel, Cislunar Explorers. CU-E3, CuSP, EQUULEUS, LunaH-Map, Lunar Flashlight
-               - Lunar IceCube, NEA Scout. OMOTENASHI, SkyFire, Team Miles
+               - ArgoMoon, BioSentinel, Cislunar Explorers. CU-E3, CuSP, EQUULEUS, LunaH-Map 
+               - Lunar Flashlight, Lunar IceCube, NEA Scout. OMOTENASHI, SkyFire, Team Miles
              - Artemis 2 (2023), Artemis 3 (2024), Artemis 4 (2025)
              - Artemis 5 (2026), Artemis 6 (2027), Artemis 7 (2028), Artemis 8 (2028)
            - Commercial Lunar Payload Services - NASA
