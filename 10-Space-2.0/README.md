@@ -290,7 +290,7 @@
          - Japan : 1 Mission ; 1 failure
          - UAE : 1 Mission --> On the way to Mars (Orbiter)
          - India(ISRO) : 1 Mission ; 1 Operational (MoM)
-         - NASA(USA) : 30 Missions ; 23 successful --> 5 Operational (3 Orbiters; 1 Lander; 1 Rover) ; 2 On the way (2020) ; 5 Failures
+         - NASA(USA) : 29 Missions ; 21 successful --> 5 Operational (3 Orbiters; 1 Lander; 1 Rover) ; 2 On the way (2020) ; 6 Failures
          - Future Missions
            - NeMO(Telecom Orbiter)- NASA --> 2020? 2022?
            - ExoMars 2022  - ESA
@@ -299,6 +299,17 @@
            - MoM2 2024 - ISRO
            - Cargo Demo 2022 - SpaceX ? 
            - Crewed mission 2024 - SpaceX ?
+       - Venus Exploration
+         - as of 2020 | Total missions : 44 | 27 successfull : 1 Operational (Akatsuki Orbiter -- > JAXA) | 17 failures
+         - Soviet Union : 29 Missions ; 14 Successful; 15 Failures
+         - ESA : 2 Missions ; 2 Successful
+         - JAPAN : 3 Missions ; 2 Successful --> 1 Operational (Akatsuki Orbiter) ; 1 failure
+         - NASA(USA) : 10 Missions ; 9 Successful ; 1 failure
+         - Future Missions
+           - NASA : [VICI, VISAGE, VISE-->Balloon, DAVINCI, VERITAS] (late 2020/2021), VAMP(2026)-->balloon, CUVE, HAVOC--> Crewed, VOX, Zephyr(2039)--> Robotic Rover ( May be 1st Rover on Venus)
+           - ESA : EnVision (2032), EVE
+           - ISRO : Shukrayaan-1 (2023) --> Orbiter & Balloon
+           - ROSCOSMOS : Venera-D (2026)
      - Moons, Asteroids, comets
      - Space Astronomy Projects
      - Interstellar Probes
