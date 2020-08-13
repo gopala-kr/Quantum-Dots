@@ -49,7 +49,7 @@
  - [Space Colonization](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_colonization.md)
    - Space Industries
    - Space Tourism
-   - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 < $100t
+   - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 asteroids worth $100 trillion ; [Current Earth Economy(GDP-2019) : $87 trillion](https://www.worldometers.info/gdp/#gdpyear)
      - Ceres Colonization
      - Ryugu
      - Didymos
@@ -205,8 +205,8 @@
      - Slyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
-        - Current Rocket Tech - Lowest by SpaceX--> $2,720/kg  ; Future Starship promises $47/kg
-        - Elevator: $6Billion build cost--> $220/kg
+        - Current Rocket Tech - Lowest by SpaceX (Private)--> $2,720/kg  ; Future Starship promises $47/kg [build cost $10 billion]
+        - Edward Space Elevator (Private): $6 billion build cost--> $220/kg
      - Base Station - Mobile(Ocean)/Stationary
      - Cable
        - Graphene ribbons
