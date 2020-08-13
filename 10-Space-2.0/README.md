@@ -92,6 +92,7 @@
        - Oberon
        - Yorktown*
    - Solar System Colonization
+     - Lagrangian points
      - Moons Colonization
        - Moon(Earth)
          - Moon Surface Sites --> Sinus Roris, Eratosthenes, Sinus Medii, Montes Apenninus, Kepler, Shackleton, Peary
@@ -278,7 +279,27 @@
    - Historical Missions
      - Unmanned
      - Manned
-     - Planetary, Moons, Asteroids, comets
+     - Planetary Missions
+       - Mars Exploration
+         - [as of 2020 | Total Missions: 62 | 28 Successful | 26 Failure : 3 Partial failures | 5 On the way to Mars]
+         - of 28 Successful --> 8 are currently operational ; 1 Rover(Curiosity), 1 Lander(Insight), 6 Orbiters
+         - Soviet Union : 20 Missions | 14 failures ; 3 partial failures ; 3 successful(One 1st lander on Mars 1971)
+         - Russia : 2 Missions ; 2 failures
+         - China : 3 Missions ; 1 failure ; 2 on the way to Mars(2020)
+         - ESA : 5 Missions ; 3 success(1 combined effort with Russia: ExoMars); 2 failures(Landers)
+         - Japan : 1 Mission ; 1 failure
+         - UAE : 1 Mission --> On the way to Mars (Orbiter)
+         - India(ISRO) : 1 Mission ; 1 Operational (MoM)
+         - NASA(USA) : 30 Missions ; 23 successful --> 5 Operational (3 Orbiters; 1 Lander; 1 Rover) ; 2 On the way (2020) ; 5 Failures
+         - Future Missions
+           - NeMO(Telecom Orbiter)- NASA --> 2020? 2022?
+           - ExoMars 2022  - ESA
+           - TEREX 2022 - JAXA
+           - MMX 2024 - JAXA         
+           - MoM2 2024 - ISRO
+           - Cargo Demo 2022 - SpaceX ? 
+           - Crewed mission 2024 - SpaceX ?
+     - Moons, Asteroids, comets
      - Space Astronomy Projects
      - Interstellar Probes
     - Orbiters, Landers & Rovers
