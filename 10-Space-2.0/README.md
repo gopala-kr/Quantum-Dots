@@ -201,21 +201,23 @@
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
    - [Space Elevators](http://spaceref.com/space-elevator/)
-     - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
-     - Japan Space Elevator Association - put forth plan estimate $8 billion
-     - Obayashi Corporation(2012) - 38 year plan
-     - STARS-Me(japan) - 2018 --> CubeSat tested
-     - Spaceline (2019)- https://arxiv.org/pdf/1908.09339.pdf 
-     - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
-       - Elevator:2010 - $1 million --> no Teams own
-       - EuSEC:2011
-     - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) - Current Rocket Tech - Lowest by SpaceX--> $2,720/kg  : Elevator
+     - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
+        - Current Rocket Tech - Lowest by SpaceX--> $2,720/kg  ; Future Starship promises $47/kg
+        - Elevator: $6Billion build cost--> $220/kg
      - Base Station - Mobile(Ocean)/Stationary
      - Cable
        - Graphene ribbons
        - Diamond nanothreads 
      - Climbers - 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000KM)
      - Counterweight - A asteroid, space dock, space station or spaceport
+     - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
+       - Elevator:2010 - $1 million --> no Teams own
+       - [EuSEC:2011](https://euspec.warr.de/)
+     - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
+     - Japan Space Elevator Association - put forth plan estimate $8 billion
+     - Obayashi Corporation(2012) - 38 year plan
+     - STARS-Me(japan) - 2018 --> CubeSat tested
+     - Spaceline(2019) - https://arxiv.org/pdf/1908.09339.pdf 
      - Earth-space elevator
      - Lunar-space elevator
      - Earth-Moon elevator
