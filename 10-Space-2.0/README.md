@@ -189,7 +189,7 @@
        - Europe - [HM7B, Vinci, Vulcain] (hydrolox), [Mira (LM-10) & Prometheus] (methalox*), Viking
    - [Launch Vehicles(Rockets)](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)
      - Rocket Families 
-     - Historical(retired & Cancelled) 
+     - Historical(retired & cancelled) 
      - Currently Active 
      - Under Developemnt 
      - Reusable Space Launch System(Future Trends)
@@ -197,9 +197,11 @@
        - Blue Origin --> New Shepard(Active)
        - ISRO --> RLV-TD(Tested)
        - Virgin Galactic --> SpaceShipTwo(Active)
-     - [Private Launchers](https://www.newspace.im/launchers)
+     - [Private Launch Companies](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
+   - Non-Rockect Space Launch Systems
+     - Slyhook, Orbital ring, Space fountain, Launch loop, StarTram, Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
         - Current Rocket Tech - Lowest by SpaceX--> $2,720/kg  ; Future Starship promises $47/kg
@@ -208,19 +210,19 @@
      - Cable
        - Graphene ribbons
        - Diamond nanothreads 
-     - Climbers - 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000KM)
+     - Climbers - with 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,0000km)
      - Counterweight - A asteroid, space dock, space station or spaceport
      - [Space Elevators Competitions](https://www.spaceelevatorblog.com/?cat=4)
-       - Elevator:2010 - $1 million --> no Teams own
-       - [EuSEC:2011](https://euspec.warr.de/)
+       - Elevator:2010 - $1 million --> no teams own
+       - [EuSEC:2020](https://euspec.warr.de/)
      - LiftPort Group - 2005 --> carbon nanotube manufacturing factory --> Space-Elevator-Tether :  Millville, New Jersey
      - Japan Space Elevator Association - put forth plan estimate $8 billion
      - Obayashi Corporation(2012) - 38 year plan
      - STARS-Me(japan) - 2018 --> CubeSat tested
-     - Spaceline(2019) - https://arxiv.org/pdf/1908.09339.pdf 
-     - Earth-space elevator
-     - Lunar-space elevator
-     - Earth-Moon elevator
+     - Lunar-space elevator - Earth-Moon elevator?
+       - L1 is 56,315 km +/- 3,183 km - gravity balences
+       - L2 is 62,851 km +/- 3,539 km - gravity balences
+       - Spaceline(2019) - [https://arxiv.org/pdf/1908.09339.pdf](https://arxiv.org/pdf/1908.09339.pdf)
    - Intersteller Travel
      - Ramjet
      - Magnetic/Light Sail
