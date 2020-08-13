@@ -310,6 +310,22 @@
            - ESA : EnVision (2032), EVE
            - ISRO : Shukrayaan-1 (2023) --> Orbiter & Balloon
            - ROSCOSMOS : Venera-D (2026)
+       - Mercury Exploration - Flybys/Orbiters
+         - Mariner 10 (1973–1975) - NASA
+         - MESSENGER (2004–2015) - NASA
+         - BepiColombo (2018–present) - ESA
+         - Mercury-P (~2031) - Russia
+       - Jupiter Exploration
+         - Flybys :  Pioneer 10 & 11, Voyager 1 & 2, Ulysses, Cassini–Huygens, New Horizons
+         - Obriters : Galileo(1989), Juno(2011) (active)
+         - Future Missions
+           - JUICE (2022)
+           - Europa Clipper (2025)
+           - Io Volcano Observer (2026)
+           - Laplace-P (2026)
+           - Europa Lander (2025)
+           - FIRE (2024), OKEANOS (2027)
+           - SMARA (2030)
      - Moons, Asteroids, comets
      - Space Astronomy Projects
      - Interstellar Probes
