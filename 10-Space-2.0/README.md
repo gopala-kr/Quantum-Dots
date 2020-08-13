@@ -123,9 +123,11 @@
        - Europa(Jupiter)
          - Advantages - Water = 2 * Earth; 60 to 150km deep ocean; 15 to 25km Shell; 1/4(earth) diameter
          - Challenges - Radiation(540 rem/day)
-         - Probes --> Pioneer 10(1972), Pioneer 11(1973), Voyager 1(1980), Voyager 2(1979), Galileo(1995), Cassini–Huygens(2005), New Horizons(2007)
+         - Flybys:  
+           - Pioneer 10(1972), Pioneer 11(1973), Voyager 1(1980), Voyager 2(1979)
+           - Galileo(1995), Cassini–Huygens(2005), New Horizons(2007)
          - Future missions --> Jupiter Icy Moons Explorer (2022), Europa Clipper (2025)
-         - In-Fiction --> Source of Water, inhabitated by genetically engineered posthumans, as a military installation(weapons development)
+         - In-Fiction: Source of Water, inhabitated by genetically engineered posthumans, military installation(weapons dev base)
        - Titan(Saturn) - circumstellar
        - Enceladus(Saturn) - circumstellar
        - Triton(Neptune) - circumstellar
@@ -183,19 +185,19 @@
    - Rocket Equation & Propulsion
      - All Propulsion Methods
        - Proven 
-         - *[Solid, Liquid, Hybrid, Ion, Solar Sails]*
+         - [Solid, Liquid, Hybrid, Ion, Solar Sails]
        - Qualified/Demonstrated(Space/Ground) 
-         - *[Plasma, Solar sails, Magnetoplasmadynamic, Nuclear–thermal(fission)]*
+         - [Plasma, Solar sails, Magnetoplasmadynamic, Nuclear–thermal(fission)]
        - Components Validated(vacuum/lab) 
-         - *[Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]*
+         - [Pulsed-inductive, VASIMR, Magnetic-field Osci, Solar–thermal, Radioisotope]
        - Validated PoC/Farmulated 
-         - *[Orion Project, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]*
+         - [Orion Project, Space elevators, Electric sails, Magnetic sails, Beam-powered/laser]
        - Conceptual(Theoretical) 
-         - *[Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]*
-         - *[Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]*
+         - [Orbital ring, Nuclear Pulse(Project Daedalus), Nuclear salt-water, Fission sail, Fission-fragment]
+         - [Blackbody Radiation Thrust, Antimatter, Bussard Ramjet]
        - Hypothetical 
-         - *[Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]*
-         - *[Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]*
+         - [Q-thrusters, emDrive(RF resonant cavity thruster), Dark Matter-Fuel, Black hole starship, FTL-methods]
+         - [Gravitational shielding, Photon/Photonic laser, Reactionless drive(Warp Drive, Gyroscopic Inertial)]
      - [Rocket Engines](https://en.wikipedia.org/wiki/Comparison_of_orbital_rocket_engines) - Manufacturer's
        - Aerojet Rocketdyne
          - Active - [RS-25 (LH2/LOX), RL10 (LH2/LOX), RS-68 (LH2/LOX), J-2X (LH2/LOX), AJ-60A, MRxxx, Blue Origin CCE]
