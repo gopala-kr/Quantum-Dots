@@ -240,6 +240,7 @@
      - [Private Launch Companies](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
+     - [Ship Types](http://www.projectrho.com/public_html/rocket/shiptypes.php)
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
