@@ -702,8 +702,6 @@
 --------
 ![telescope](https://www.futuretimeline.net/blog/images/631-hubble-james-webb-space-telescope-comparison.jpg)
 -------------
-![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
------------
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)  
 ----------------
 ---------------------------
