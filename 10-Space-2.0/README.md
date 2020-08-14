@@ -163,7 +163,8 @@
      - NASA --> 3D printing Mars bases with Regolith, 3D Printed Telescopes
      - [Relativity Space](https://www.relativityspace.com/) --> 3D PRINTED ROCKETS
  - [Making of Artificial Gravity](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/artificial_gravity.md)
-   - Centripetal Acceleration(Spin/Rotation)
+   - http://www.artificial-gravity.com/
+   - Centripetal Acceleration(Spin/Rotation) - [Calculator](http://www.artificial-gravity.com/sw/SpinCalc/SpinCalc.htm)
    - Magnetic Levitation
    - Dark Energy & Dark Matter
  - [Space Travel Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/spacecrafts_%26_rockets.md)
