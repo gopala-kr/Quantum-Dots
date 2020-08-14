@@ -195,7 +195,13 @@
      - Comparision
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
+     - [Rocket Theory](http://www.projectrho.com/public_html/rocket/engines.php)
+       - [Multistage](http://www.projectrho.com/public_html/rocket/multistage.php)
      - All Propulsion Methods
+       - [Engine List](http://www.projectrho.com/public_html/rocket/engineintro.php)
+         - [Engine List 1](http://www.projectrho.com/public_html/rocket/enginelist.php)
+         - [Engine List 2](http://www.projectrho.com/public_html/rocket/enginelist2.php)
+         - [Engine List 3](http://www.projectrho.com/public_html/rocket/enginelist3.php)
        - Proven 
          - [Solid, Liquid, Hybrid, Ion, Solar Sails]
        - Qualified/Demonstrated(Space/Ground) 
