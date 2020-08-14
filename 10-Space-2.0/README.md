@@ -21,6 +21,8 @@
 #### Global Space Industry Analysis
  - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
    - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md) | [NewSpace Orbital Economy organizations](https://www.factoriesinspace.com/space-economy-varia)
+   - [Shipping costs for Earth, Moon & Mars Commerce: A tool to identify worthy space businesses](http://www.projectrho.com/public_html/rocket/supplement/ShippingCosts.pdf) *star*
+   - [Space Macroeconomics](http://www.projectrho.com/public_html/rocket/macroecon.php)
  - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) | [nanosats.eu](https://www.nanosats.eu/)
    - Uplink & Downlink
    - Earth Observation
@@ -138,6 +140,18 @@
      - Venus Colonization
    - Interstellar Colonization
    - Galactic Empires & Colonization
+     - [Galactic Survey](http://www.projectrho.com/public_html/rocket/survey.php)
+       - [Stellar Colony](http://www.projectrho.com/public_html/rocket/stellarcolony.php)
+       - [Planet Colony](http://www.projectrho.com/public_html/rocket/colonysite.php)
+       - [Space Colony](http://www.projectrho.com/public_html/rocket/spacecolony.php)
+       - [Planet Roles](http://www.projectrho.com/public_html/rocket/planetroles.php)
+       - [Colony Sites](http://www.projectrho.com/public_html/rocket/colonysitereal.php)
+       - [Future Money](http://www.projectrho.com/public_html/rocket/money.php)
+       - [Intersteller Trade](http://www.projectrho.com/public_html/rocket/stellartrade.php)
+       - [Galactic, Interstellar & Space Empires](http://www.projectrho.com/public_html/rocket/stellarempire.php)
+         - [Galactic Empire Maps](http://www.projectrho.com/public_html/rocket/empiremap.php)
+         - [Galactic Telecommunication](http://www.projectrho.com/public_html/rocket/telecommunication.php) :star: :star:
+         - [Spacelaw](http://www.projectrho.com/public_html/rocket/spacelaw.php)
  - [Advanced Civilization's Artifacts(fictional)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/advanced_civilizations.md)
    - [Future History](http://www.projectrho.com/public_html/rocket/futurehistory.php)
      - [Model History](http://www.projectrho.com/public_html/rocket/modelhistory.php)
@@ -264,6 +278,7 @@
      - [Starships](http://www.projectrho.com/public_html/rocket/slowerlight.php)
        - [Near Light Speed Starships](http://www.projectrho.com/public_html/rocket/slowerlight3.php)
        - [Faster Than Light Speed Starships](http://www.projectrho.com/public_html/rocket/fasterlight.php)
+     - [Starship Economics](http://www.projectrho.com/public_html/rocket/starshipowner.php)
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
