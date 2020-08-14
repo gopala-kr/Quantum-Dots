@@ -52,6 +52,7 @@
    - Space Industries
    - Space Tourism
    - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 asteroids worth $100 trillion ; [Current Earth Economy(GDP-2019) : $87 trillion](https://www.worldometers.info/gdp/#gdpyear)
+     - [Sapce Mining Techniques](http://www.projectrho.com/public_html/rocket/mining.php)
      - Ceres Colonization
      - Ryugu
      - Didymos
@@ -138,6 +139,10 @@
    - Interstellar Colonization
    - Galactic Empires & Colonization
  - [Advanced Civilization's Artifacts(fictional)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/advanced_civilizations.md)
+   - [Future History](http://www.projectrho.com/public_html/rocket/futurehistory.php)
+     - [Model History](http://www.projectrho.com/public_html/rocket/modelhistory.php)
+     - [Calculating History](http://www.projectrho.com/public_html/rocket/appcalchistory.php)
+     - [Alternate History](http://www.projectrho.com/public_html/rocket/althistory.php)
    - Kardashev Scale
      - Type I civilization - Planetary
      - Type II civilization - Stellar
