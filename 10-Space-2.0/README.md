@@ -680,7 +680,10 @@
          - Stellarator
            - LHD
            - WEGA
-     - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) - 440/55
+     - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
+       - 440 nuclear power reactors operating in 30 countries/400 GWe
+       - 55 power reactors are currently being constructed in 15 countries
+       - In 2018 these provided 2563 TWh, over 10% of the world's electricity
        - [Nuclear Fuel Cycle](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle.aspx)
          - [The Cosmic Origins of Uranium](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/the-cosmic-origins-of-uranium.aspx)
          - [Geology of Uranium Deposits](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/uranium-resources/geology-of-uranium-deposits.aspx)
@@ -692,10 +695,15 @@
          - [The Many Uses of Nuclear Technology](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/overview/the-many-uses-of-nuclear-technology.aspx)
        - [Nuclear Power in India](https://www.world-nuclear.org/information-library/country-profiles/countries-g-n/india.aspx)
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
+       - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
 ----------------------------
-         - Today there are about 440 nuclear power reactors operating in 30 countries, with a combined capacity of about 400 GWe. 
-         - In 2018 these provided 2563 TWh, over 10% of the world's electricity.
-         - About 55 power reactors are currently being constructed in 15 countries.  
-         
+------------------------------
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+--------
+![telescope](https://www.futuretimeline.net/blog/images/631-hubble-james-webb-space-telescope-comparison.jpg)
+-------------
+![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
+-----------
+![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)  
 ----------------
 ---------------------------
