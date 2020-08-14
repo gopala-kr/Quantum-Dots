@@ -283,9 +283,20 @@
      - Tachyons
      - Teleportation
  - [Space Exploration 1.0 & 2.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
+   - [List of Solar System probes](https://en.wikipedia.org/wiki/List_of_Solar_System_probes)
    - Historical Missions
      - Unmanned
      - Manned
+     - Solar probes
+       - Active Missions 
+         - NASA : WIND (1994), SOHO (1996), ACE (1997), STEREO A (2006), DSCOVR (2015), Parker Solar Probe ( 2018)
+         - ESA : SOHO (1996), Solar Orbiter(2020)
+       - Future Missions 
+         - Aditya-L1 (ISRO) - 2020
+         - PROBA-3 (2021)
+         - PUNCH (2023)
+         - TRACERS (2023)
+         - SWFO-L1 (2024)
      - Planetary Missions
        - Mars Exploration
          - as of 2020 | total missions: 62 | 28 successful | 26 failure : 3 partial failures | 5 En route
@@ -409,9 +420,36 @@
      - Minor Planets, Asteroids & Comets Missions
        - Asteroid belt, between 2-3 AU
        - Kuiper belt, between 30-60 AU
+       - Ceres
+         - Dawn mission
+         - Ceres Polar Lander (proposed)
+         - Calathus Mission (proposed)
+       - 162173 Ryugu - Hayabusa2	- Japan JAXA
+       - 101955 Bennu	- OSIRIS-REx - 	United States NASA
+       - Future Missions
+         - NASA : Near-Earth Asteroid Scout (2021)
+           - (Dimorphos & Didymos)-(DART) 2021-22
+           - Lucy: Donaldjohanson(2025), 3548 Eurybates & 15094 Polymele(2027), 11351 Leucus & 21900 Orus(2028), Patroclus and Menoetius(2033)
+           - Psyche : 16 Psyche	(2022-26)
+           - New Horizons (2019): 486958 Arrokoth
+         - JAXA : 3200 Phaethon - 	DESTINY+ (2022 (launch) -2026 (arrival))
+         - CNSA : 469219 Kamo‘oalewa	- ZhengHe (2022-23), 7968 Elst-Pizarro - ZhengHe (2022-30), IHP-2 - Kuiper Belt 
+         - ESA : 65803 Didymos - Hera (2027), (65803) Dimorphos - APEX & Juventas?
      - Space Astronomy Projects
      - Interstellar Probes
-    - Orbiters, Landers & Rovers
+       - NASA
+         - Voyager 1 : September 5, 1977 | 42 years, 11 months, 8 days elapsed 
+           - At a distance of 149.39 AU (22.3 billion km; 13.9 billion mi) from Earth as of July 26, 2020.
+           - It is the most distant man-made object from Earth.
+         - [Voyager 2](https://twitter.com/NSFVoyager2) : August 20, 1977 | 42 years, 11 months, 23 days, 20 hours, 49 minutes elapsed
+           - 17 hrs 10 mins 51 secs of light-travel time from Earth (2020:227:000000:2L)
+         - New Horizons : January 19, 2006 | Elapsed: 14 years, 6 months, 25 days 
+           - As of March 2019, New Horizons was about 4.1 billion miles (6.6 billion kilometers) from Earth, operating normally.
+           - speeding deeper into the Kuiper Belt at nearly 33,000 miles (53,000 kilometers) per hour.
+       - Future Missions
+         - CNSA
+           - IHP-1
+           - IHP-2
  - [Future of Space Exploration](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/future_of_space_exploration.md)
  - Space Defence Technology
    - Space Force
@@ -424,6 +462,10 @@
  - Space Agencies
    - Government
      - NASA
+       - [Humans in Space](https://www.nasa.gov/content/human-missions-list)
+       - [Universe Missions](https://www.nasa.gov/content/universe-missions-list)
+       - [Solar System Missions](https://www.nasa.gov/content/solar-missions-list)
+       - [Earth Missions List](https://www.nasa.gov/content/earth-missions-list)
      - Roscosmos
      - CNSA
      - ISRO
