@@ -143,6 +143,9 @@
      - [Model History](http://www.projectrho.com/public_html/rocket/modelhistory.php)
      - [Calculating History](http://www.projectrho.com/public_html/rocket/appcalchistory.php)
      - [Alternate History](http://www.projectrho.com/public_html/rocket/althistory.php)
+   - [Technology Level](http://www.projectrho.com/public_html/rocket/techlevel.php)
+     - [Tech & Society 1](http://www.projectrho.com/public_html/rocket/scisociety.php)
+     - [Tech & Society 2](http://www.projectrho.com/public_html/rocket/scisociety2.php)
    - Kardashev Scale
      - Type I civilization - Planetary
      - Type II civilization - Stellar
