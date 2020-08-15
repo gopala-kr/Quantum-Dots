@@ -234,7 +234,9 @@
      - Comparision
    - Avionics, Guidance, Navigation & Control
    - Rocket Equation & Propulsion
+     - [Equations](http://www.projectrho.com/public_html/rocket/appequations.php)
      - [Missions](http://www.projectrho.com/public_html/rocket/mission.php)
+     - [Delta-V](http://www.projectrho.com/public_html/rocket/appmissiontable.php)
      - [Orbits](http://www.projectrho.com/public_html/rocket/orbits.php)
      - [Embarking](http://www.projectrho.com/public_html/rocket/embarking.php)
      - [Blast-Off](http://www.projectrho.com/public_html/rocket/blastoff.php)
@@ -314,8 +316,8 @@
        - [Basic Design](http://www.projectrho.com/public_html/rocket/basicdesign.php)
        - [Advanced Spacecraft Design](http://www.projectrho.com/public_html/rocket/advdesign.php)
        - [Spacecraft Sizing](http://www.projectrho.com/public_html/rocket/sizing.php)
-       - [Atomic Radiations Considerations](http://www.projectrho.com/public_html/rocket/radiation.php)
-       - [Spaceship Heat Radiations](http://www.projectrho.com/public_html/rocket/heatrad.php)
+       - [Atomic Radiation Considerations](http://www.projectrho.com/public_html/rocket/radiation.php)
+       - [Spaceship Heat Radiators](http://www.projectrho.com/public_html/rocket/heatrad.php)
        - [Life Support Systems](http://www.projectrho.com/public_html/rocket/lifesupport.php)
          - [Human Factors](http://www.projectrho.com/public_html/rocket/humanfactor.php)
          - [Artificial Gravity](http://www.projectrho.com/public_html/rocket/artificialgrav.php)
@@ -560,7 +562,7 @@
      - [Space War Detection](http://www.projectrho.com/public_html/rocket/spacewardetect.php)
      - [Space Weapons](http://www.projectrho.com/public_html/rocket/spacegunintro.php)
        - [Exotic](http://www.projectrho.com/public_html/rocket/spacegunexotic.php)
-       - [Convent]http://www.projectrho.com/public_html/rocket/spacegunconvent.php()
+       - [Convent](http://www.projectrho.com/public_html/rocket/spacegunconvent.php)
      - [Space Warship Defences](http://www.projectrho.com/public_html/rocket/spacewardefense.php)
      - [Space Warship Design](http://www.projectrho.com/public_html/rocket/spacewarship.php)
        - [Gallery](http://www.projectrho.com/public_html/rocket/spacewarshipart.php)
@@ -574,7 +576,7 @@
        - [Projectile Weapons](http://www.projectrho.com/public_html/rocket/sidearmslug.php)
        - [Energy Weapons](http://www.projectrho.com/public_html/rocket/sidearmenergy.php)
        - [Exotic Weapons](http://www.projectrho.com/public_html/rocket/sidearmexotic.php)
-       - [Space Body Armour](http://www.projectrho.com/public_html/rocket/bodyarmor.php)  - Iron Man Armour? No.. It is Space
+       - [Space Body Armour](http://www.projectrho.com/public_html/rocket/bodyarmor.php)
    - Asteroid Deflection
      - Gravity Assist
    - Space Debris Removal
@@ -583,6 +585,9 @@
  - [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php)
  - [Rocketpunk Future](http://www.projectrho.com/public_html/rocket/macguffinite.php)
  - [Unobtainium and Handwavium](http://www.projectrho.com/public_html/rocket/unobtanium.php)
+ - [Space Calculations](http://www.projectrho.com/public_html/rocket/calculators.php) :star: :star:
+ - [Future Measurements](http://www.projectrho.com/public_html/rocket/futuremeasure.php)
+ - [Useful Tables](http://www.projectrho.com/public_html/rocket/usefultables.php)
  - Space Agencies
    - Government
      - NASA
@@ -866,6 +871,7 @@
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
 -------------------
-[Scientifictonal.........Reeeeeeeeeeeee..................eeeeeeeeeeeeeeeeeeeeeeeee.............eeeeeeeeeeeeeeeeeeeeeeeeeeadings..](http://www.projectrho.com/public_html/rocket/reading.php)  :laughing:
+[Scientifictonal.........Reeeeeeeeeeeee..................eeeeeeeeeeeeeeeeeeeeeeeee.............eeeeeeeeeeeeeeeeeeeeeeeeeeadings..](http://www.projectrho.com/public_html/rocket/reading.php)  :smile:
+
 ----------------
 ---------------------------
