@@ -182,13 +182,25 @@
      - Type IV/Ω civilization - Universal
    - Dyson Sphere's
    - Matrioshka brain
+     - [Matrioshka Micronode](https://www.orionsarm.com/eg-article/4a48cf99d24c8)
+     - [Megaminds](https://medium.com/@thebojda/megaminds-abstract-evolution-and-the-consistency-machine-d2915a719443)
    - Stellar Engine
+     - [Stellar Engines for Kardashev's Type II Civilisations](http://www.jbis.org.uk/paper.php?p=2000.53.297)
+     - [Stellar engines: Design considerations for maximizing acceleration](https://www.sciencedirect.com/science/article/abs/pii/S0094576519312457)
+     - [Shkadov thruster](https://www.daviddarling.info/encyclopedia/S/stellar_engine.html)
+     - [How to Move the Sun: Stellar Engines](https://www.youtube.com/watch?v=v3y8AIEX_dU) - Escape a Super Nova
    - Holography & Simulation
    - Simulated Consciousness
+     - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
    - Techyons
+     - [Positronic brain](https://memory-alpha.fandom.com/wiki/Positronic_brain)
+     - [scienceworld.wolfram.com](https://scienceworld.wolfram.com/physics/Tachyon.html)
+     - [Do they exist?](http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/tachyons.html)
    - Telekinesis
+     - [TelekinesisWiki](https://powerlisting.fandom.com/wiki/Telekinesis)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
+     - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
@@ -377,6 +389,7 @@
      - Time Machine
      - FTL Travel
        - Time Dilation
+       - [Is FTL Travel or Communication Possible?](https://web.archive.org/web/20001121064300/http://www.public.iastate.edu/~physics/sci.physics/faq/FTL.html#1)
        - FTL Neutrino(MINOS)
      - Alcubierre Warp Drive
      - Artificial Black Hole
