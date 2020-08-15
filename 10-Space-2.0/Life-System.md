@@ -1,6 +1,6 @@
 
 <table
-class="prettytable" style="display:inline-block;"><caption>TABLE 2<br
+class="prettytable" style="display:inline-block;"><caption><br
 />Selected Major Components of Each of the 19 Critical Subsystems at Each of the Seven Levels of Living Systems</caption><thead><tr><th></th><th
 colspan="7">LEVEL</th></tr></thead><thead><tr><th>SUBSYSTEM</th><th>Cell</th><th>Organ</th><th>Organism</th><th>Group</th><th>Organization</th><th>Society</th><th>Supranational System</th></tr></thead><tr><th>Reproducer 3.1.1</th><td>Chromosome</td><td><em>None</em> (downwardly dispersed to cell level)</td><td>Genitalia</td><td>Mating Dyad</td><td>Group that produces a charter for an organization</td><td>Constitutional Convention</td><td>Superanational systems which creates another supranational system</td></tr><tr><th>Boundary 3.1.2</th><td>Cell membrane</td><td>Capsule of <a
 href="https://en.wikipedia.org/wiki/Organ_(anatomy)">viscus</a></td><td>Skin</td><td><a
