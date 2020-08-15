@@ -1,9 +1,5 @@
 
 #### Space 2.0 Report - 2020
-----------------------------
-
-![Space Age](https://cms.qz.com/wp-content/uploads/2017/09/grand_tourx.jpg?quality=75&strip=all&w=1600&h=900&crop=1)
-
 --------------------------
 ------------------------------
 
@@ -23,10 +19,12 @@
 
 #### Global Space Industry Analysis
  - [Space Industry Scope & Overview](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_industry_overview.md)
-   - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md) | [NewSpace Orbital Economy organizations](https://www.factoriesinspace.com/space-economy-varia)
-   - [Shipping costs for Earth, Moon & Mars Commerce: A tool to identify worthy space businesses](http://www.projectrho.com/public_html/rocket/supplement/ShippingCosts.pdf) *star*
+   - [Space Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_economy.md) 
+   - [NewSpace Orbital Economy organizations](https://www.factoriesinspace.com/space-economy-varia)
+   - [Shipping costs for Earth, Moon & Mars Commerce: A tool to identify worthy space businesses](http://www.projectrho.com/public_html/rocket/supplement/ShippingCosts.pdf)
    - [Space Macroeconomics](http://www.projectrho.com/public_html/rocket/macroecon.php)
- - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) | [nanosats.eu](https://www.nanosats.eu/)
+ - [Satellite Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellites.md) 
+   - [nanosats.eu](https://www.nanosats.eu/)
    - Uplink & Downlink
    - Earth Observation
    - Remote Sensing
