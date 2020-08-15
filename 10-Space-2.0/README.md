@@ -871,7 +871,7 @@
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
 -------------------
-[Scientifictonal.........Reeeeeeeeeeeee..................eeeeeeeeeeeeeeeeeeeeeeeee.............eeeeeeeeeeeeeeeeeeeeeeeeeeadings..](http://www.projectrho.com/public_html/rocket/reading.php)  :smile:
+- [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 
 ----------------
 ---------------------------
