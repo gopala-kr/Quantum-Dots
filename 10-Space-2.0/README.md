@@ -2,7 +2,7 @@
 #### Space 2.0 Report - 2020
 ----------------------------
 
-![Space Age](https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F1%2F1%2F5%2F17115026%5D&call=url%5Bfile%3Aproduct.chain%5D)
+![Space Age](https://cms.qz.com/wp-content/uploads/2017/09/grand_tourx.jpg?quality=75&strip=all&w=1600&h=900&crop=1)
 
 --------------------------
 ------------------------------
@@ -164,6 +164,7 @@
      - [Tech & Society 1](http://www.projectrho.com/public_html/rocket/scisociety.php)
      - [Tech & Society 2](http://www.projectrho.com/public_html/rocket/scisociety2.php)
      - [Tech & Society 3](http://www.projectrho.com/public_html/rocket/scisociety3.php)
+   - [High-Tech Aliens](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Kardashev Scale
      - Type I civilization - Planetary
      - Type II civilization - Stellar
@@ -177,9 +178,12 @@
    - Techyons
    - Telekinesis
    - Telepathy
+     - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
    - Teleportation
+     - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
    - Time travel
+     - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
@@ -191,7 +195,8 @@
      - NASA --> 3D printing Mars bases with Regolith, 3D Printed Telescopes
      - [Relativity Space](https://www.relativityspace.com/) --> 3D PRINTED ROCKETS
  - [Making of Artificial Gravity](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/artificial_gravity.md)
-   - http://www.artificial-gravity.com/
+   - [artificial-gravity.com](http://www.artificial-gravity.com/)
+   - [Anti-gravity](http://www.projectrho.com/public_html/rocket/antigravity.php)
    - Centripetal Acceleration(Spin/Rotation) - [Calculator](http://www.artificial-gravity.com/sw/SpinCalc/SpinCalc.htm)
    - Magnetic Levitation
    - Dark Energy & Dark Matter
@@ -473,7 +478,7 @@
        - Future Missions
          - NASA : Near-Earth Asteroid Scout (2021)
            - (Dimorphos & Didymos)-(DART) 2021-22
-           - Lucy: Donaldjohanson(2025), 3548 Eurybates & 15094 Polymele(2027), 11351 Leucus & 21900 Orus(2028), Patroclus and Menoetius(2033)
+           - Lucy: Donaldjohanson(2025), Eurybates & Polymele(2027), Leucus & Orus(2028), Patroclus and Menoetius(2033)
            - Psyche : 16 Psyche	(2022-26)
            - New Horizons (2019): 486958 Arrokoth
          - JAXA : 3200 Phaethon - 	DESTINY+ (2022 (launch) -2026 (arrival))
@@ -485,11 +490,11 @@
          - Voyager 1 : September 5, 1977 | 42 years, 11 months, 8 days elapsed 
            - At a distance of 149.39 AU (22.3 billion km; 13.9 billion mi) from Earth as of July 26, 2020.
            - It is the most distant man-made object from Earth.
-         - [Voyager 2](https://twitter.com/NSFVoyager2) : August 20, 1977 | 42 years, 11 months, 23 days, 20 hours, 49 minutes elapsed
+         - [Voyager 2](https://twitter.com/NSFVoyager2) : August 20, 1977 | 42 years, 11 months, 23 days elapsed
            - 17 hrs 10 mins 51 secs of light-travel time from Earth (2020:227:000000:2L)
          - New Horizons : January 19, 2006 | Elapsed: 14 years, 6 months, 25 days 
-           - As of March 2019, New Horizons was about 4.1 billion miles (6.6 billion kilometers) from Earth, operating normally.
-           - speeding deeper into the Kuiper Belt at nearly 33,000 miles (53,000 kilometers) per hour.
+           - As of March 2019, New Horizons was about 4.1 billion miles (6.6 billion kilometers) from Earth.
+           - Speeding deeper into the Kuiper Belt at nearly 33,000 miles (53,000 kilometers) per hour.
        - Future Missions
          - CNSA
            - IHP-1
