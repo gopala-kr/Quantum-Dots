@@ -180,7 +180,14 @@
      - Type II civilization - Stellar
      - Type III civilization - Galactic
      - Type IV/Ω civilization - Universal
-   - Dyson Sphere's
+   - [Dyson Sphere's](http://wiki.c2.com/?DysonSphere)
+     - [Toruses and Dyson Swarms Simulation](http://burtleburtle.net/bob/scifi/dyson.html)
+     - [Upper limit on Dyson spheresS](http://iopscience.iop.org/0004-637X/698/2/2075/pdf/0004-637X_698_2_2075.pdf)
+     - [Startrek Wiki](https://memory-alpha.fandom.com/wiki/Dyson_sphere)
+     - [Dyson Sphere FAQ](http://www.aleph.se/Nada/dysonFAQ.html#FIRST)
+     - [Some Sketches of Dyson Spheres](http://www.aleph.se/Trans/Tech/Megascale/dyson_page.html)
+     - [Fermilab Dyson Sphere search program](https://web.archive.org/web/20060306222359/http://home.fnal.gov/~carrigan/Infrared_Astronomy/Fermilab_search.htm)
+     - [Dyson Sphere searches](https://home.fnal.gov/~carrigan/infrared_astronomy/Other_searches.htm)
    - Matrioshka brain
      - [Matrioshka Micronode](https://www.orionsarm.com/eg-article/4a48cf99d24c8)
      - [Megaminds](https://medium.com/@thebojda/megaminds-abstract-evolution-and-the-consistency-machine-d2915a719443)
@@ -205,8 +212,14 @@
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
-   - Time travel
+   - [Time travel](https://iep.utm.edu/timetrav/)
      - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
+     - [Mathematically Feasible But Not Possible. Yet.](https://futurism.com/new-research-shows-that-time-travel-is-mathematically-possible)
+     - [Energy to Power a Time Machine?](https://futurism.com/how-much-energy-need-power-time-machine)
+     - [Black holes, Wormholes and Time Travel](http://www.vega.org.uk/video/programme/61)
+     - [Time Travel and Modern Physics](https://plato.stanford.edu/entries/time-travel-phys/)
+     - [NASA: Is Time Travel Possible?](https://spaceplace.nasa.gov/time-travel/en/)
+     - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
