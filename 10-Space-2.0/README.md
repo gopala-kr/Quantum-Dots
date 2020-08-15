@@ -34,6 +34,7 @@
    - Global/Regional Navigation
  - [Space Debris](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_debris.md)
    - [Review of Active Space Debris Removal Methods](https://www.sciencedirect.com/science/article/abs/pii/S0265964618300110)
+ - [Spaceports](http://www.projectrho.com/public_html/rocket/spaceport.php)
  - [Space Stations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_stations.md)
    - [Surface to Orbit Economics](http://www.projectrho.com/public_html/rocket/surfaceorbit.php)
    - [Space Station Designs](http://www.projectrho.com/public_html/rocket/spacestations.php)
@@ -97,6 +98,13 @@
        - Death Star
        - Oberon
        - Yorktown*
+   - [Space Infrastructure](http://www.projectrho.com/public_html/rocket/infrastructure.php)
+   - [Planetary Bases](http://www.projectrho.com/public_html/rocket/planetbase.php)
+   - [Colonization Astronomy](http://www.projectrho.com/public_html/rocket/weirdastronomy.php)
+   - [Congfigure the Universe(Matter & Energy)](http://www.projectrho.com/public_html/rocket/worldbuilding.php) - New Worldbuilding
+     - [RocketCat's Universe](http://www.projectrho.com/public_html/rocket/approcketcatu.php)
+     - [Ring Raiders](http://www.projectrho.com/public_html/rocket/appringraiders.php)
+     - [Cape Dread](http://www.projectrho.com/public_html/rocket/appcapedread.php)
    - Solar System Colonization
      - Lagrangian points
      - Moons Colonization
@@ -180,6 +188,7 @@
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
+     - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
    - Time travel
      - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
@@ -201,7 +210,13 @@
  - [Space Travel Tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/spacecrafts_%26_rockets.md)
    - [Spacecrafts(Crewed, Uncrewed)](https://www.newspace.im/spacecraft)
      - Payload
-     - Crewed (Active & In-dev)
+     - Crew & Gear
+       - [Crew](http://www.projectrho.com/public_html/rocket/crew.php)
+       - [Crew Gear](http://www.projectrho.com/public_html/rocket/crewgear.php)
+       - [Space Suites](http://www.projectrho.com/public_html/rocket/spacesuits.php)
+       - [Man Aplifiers & Robots](http://www.projectrho.com/public_html/rocket/manamplifier.php)
+       - [Roving Vehicles & Flitters](http://www.projectrho.com/public_html/rocket/flitters.php)
+     - Crewed Spacecrafts (Active & In-dev)
        - Soyuz
        - Shenzhou
        - Crew Dragon
@@ -535,6 +550,9 @@
    - Space Debris Removal
    - Missile's
    - Rail Gun
+ - [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php)
+ - [Rocketpunk Future](http://www.projectrho.com/public_html/rocket/macguffinite.php)
+ - [Unobtainium and Handwavium](http://www.projectrho.com/public_html/rocket/unobtanium.php)
  - Space Agencies
    - Government
      - NASA
@@ -635,6 +653,7 @@
      - Zoo hypothesis
      - Drake Equation
      - Fermi Paradox
+       - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
      - The Great Filter
        - [Global Catastrophic/Existential Risks](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
      - [Unidentified Flying Objects (UFOs)](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)
@@ -662,6 +681,7 @@
       - Red Dwarf
       - Neutron Star
       - Black hole
+     
 
 
 ----------------
