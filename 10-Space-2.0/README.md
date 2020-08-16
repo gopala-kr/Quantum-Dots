@@ -203,6 +203,7 @@
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
    - Techyons
+     - [Tachyons: Faster Than Light Particles](https://www.youtube.com/watch?v=iOiEezN3ZNM)
      - [Positronic brain](https://memory-alpha.fandom.com/wiki/Positronic_brain)
      - [scienceworld.wolfram.com](https://scienceworld.wolfram.com/physics/Tachyon.html)
      - [Do they exist?](http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/tachyons.html)
@@ -216,13 +217,13 @@
    - Fermi paradox
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
    - [Time Travel](https://iep.utm.edu/timetrav/)
+     - [Time Travel Mythology: Mahabharata](http://the-wanderling.com/mahabharata.html)
      - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
      - [Mathematically Feasible But Not Possible. Yet.](https://futurism.com/new-research-shows-that-time-travel-is-mathematically-possible)
      - [Energy to Power a Time Machine?](https://futurism.com/how-much-energy-need-power-time-machine)
      - [Black holes, Wormholes and Time Travel](http://www.vega.org.uk/video/programme/61)
      - [Time Travel and Modern Physics](https://plato.stanford.edu/entries/time-travel-phys/)
      - [NASA: Is Time Travel Possible?](https://spaceplace.nasa.gov/time-travel/en/)
-     - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s) | [The Time Machine (2002) - Time Travel Scene](https://www.youtube.com/watch?v=P-VP-FyI9KU)
      - Dcumentaries/Sci-Fi 
        - [Genius : Time Is But a Stubborn Illusion](https://www.youtube.com/watch?v=ZyYqyYAKGC0)
        - [RI Lecture: The Physics and Philosophy of Time](https://www.youtube.com/watch?v=-6rWqJhDv7M)
@@ -234,19 +235,14 @@
        - [Is Time Travel Into the Past Possible? | Matt Szydagis](https://www.youtube.com/watch?v=m2-I5HUwfRg)
        - [The Illusion of Time](https://www.youtube.com/watch?v=Zuedaptw73w)
        - [Brian Greene: Time Travel is Possible](https://www.youtube.com/watch?v=6yMiUq7W_xI)
+       - [The Nature of Space and Time](https://www.youtube.com/watch?v=M22MEShcyx8)
+       - [Prof. Brian Greene Shows You How to Time Travel!](https://www.youtube.com/watch?v=DMK1MMjIm7I)
        - [Theories That Prove Time Travel Exists](https://www.youtube.com/watch?v=nzPIYHWTplk)
        - [Traveling Back in Time](https://www.youtube.com/watch?v=2w22CBE_9GI)
        - [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s)
        - [Superluminal Time Travel + Time Warp ](https://www.youtube.com/watch?v=HUMGc8hEkpc)
        - [When Will Time End?](https://www.youtube.com/watch?v=M7RMnpiUrfE)
        - [The Worlds First Time Machine](https://www.youtube.com/watch?v=Yc9_ZFxMvMw)
-       - Interesting Short Movies: [1960 Time Machine](https://www.youtube.com/watch?v=qLyTKRBO9fY) | [One-Minute TM](https://www.youtube.com/watch?v=vBkBS4O3yvY) | [Room 88](https://www.youtube.com/watch?v=5tLNEeraSfc) | [Plurality](https://www.youtube.com/watch?v=pocEN5HprsM)
-       - Sci-fi Time Machines : 
-         - [Time Displacement Equipment](https://www.youtube.com/watch?v=1XQYISuESh8)
-         - [Time Turner](https://www.youtube.com/watch?v=Mg1A7fB9nrk)
-         - [TARDIS: Time And Relative Dimension In Space](https://www.youtube.com/watch?v=oAPNb6y4cC4)
-         - [Cosmic Treadmill](https://www.youtube.com/watch?v=1Gg2cUFjWcY)
-         - [Time Jump Device](https://www.youtube.com/watch?v=cNhNxsIBxtE)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
@@ -451,17 +447,27 @@
        - [Interstellar Highway System](https://www.youtube.com/watch?v=ZevUW__aMZE)
        - [Interstellar Travel: Approaching Light Speed](https://www.youtube.com/watch?v=c4z6RZXv5p8)
        - [Interstellar voyage to find the Second Earth](https://www.youtube.com/watch?v=cL2O-MyvtPs)
+       - [Possibilities for Interstellar Travel](https://www.youtube.com/watch?v=EzZGPCyrpSU)
+       - [Will Wormholes Allow Fast Interstellar Travel?](https://www.youtube.com/watch?v=ldVDM-v5uz0)
+       - [Neil deGrasse Tyson on "Interstellar"](https://www.youtube.com/watch?v=l7tV7v71k-I)
    - Fictional
      - Time Machine
      - FTL Travel
        - Time Dilation
        - [Is FTL Travel or Communication Possible?](https://web.archive.org/web/20001121064300/http://www.public.iastate.edu/~physics/sci.physics/faq/FTL.html#1)
        - FTL Neutrino(MINOS)
-       - Sci-Fi
+       - Documentaries/Sci-Fi
          - [Short Film “FTL"](https://www.youtube.com/watch?v=t8LD0iUYv80&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS)
          - [Einstein-Rosen](https://www.youtube.com/watch?v=mMZbig5t8Ug&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS&index=35)
          - [Can We Travel Faster Than Light? with Dr. Miguel Alcubierre](https://www.youtube.com/watch?v=JafY92PhgKU)
+         - [Elon Musk on FTL](https://www.youtube.com/watch?v=ni17Y_FxbsU)
+         - [Fermilab: How to travel faster than light](https://www.youtube.com/watch?v=BhG_QZl8WVY)
+         - [Hyperdrive in Real Life](https://www.youtube.com/watch?v=sJDm6d9lOcw)
+         - [NASA's Eagleworks Lab](https://www.youtube.com/watch?v=RguSFaX8wBc)
      - Alcubierre Warp Drive
+       - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
+       - [Alcubierre Drive: Warp Speed - Star Trek fantasy or plausible?](https://www.youtube.com/watch?v=Imi8-rCicaQ)
+       - [The Alcubierre Warp Field and Anti Matter [2020]](https://www.youtube.com/watch?v=gHAaoTMrc3A)
      - Artificial Black Hole
      - Traversable Wormhole
      - Antimatter(Negative Energy)
@@ -921,6 +927,7 @@
             - XENON
           - Antimatter Detectors
             - Alpha Magnetic Spectrometer(AMS)
+            - [CERN Antimatter Factory](https://www.youtube.com/watch?v=nkXwO5nrimw)
        - On Moon(Future)
        - On Asteroid Belt(Future)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
@@ -937,7 +944,7 @@
            - PROTO
            - ADITYA
            - Private Players
-         - Stellarator
+         - [Stellarator](https://www.youtube.com/watch?v=qKTePWmHRQw)
            - LHD
            - WEGA
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
@@ -959,6 +966,8 @@
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
+- [StarTalk](https://www.youtube.com/c/StarTalk/playlists)
+- [Space and Space Travel](https://www.youtube.com/playlist?list=PLAnwfqs0VrqqHSjw-lvnMFlfWGIOYAWTI)
 - Space Games
   - [kerbalspaceprogram](https://www.kerbalspaceprogram.com/)
   - [robertsspaceindustries](https://robertsspaceindustries.com/)
