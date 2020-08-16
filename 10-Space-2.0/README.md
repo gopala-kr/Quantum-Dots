@@ -97,7 +97,7 @@
        - The Tet 
        - Death Star
        - Oberon
-       - Yorktown*
+       - [Yorktown](https://www.youtube.com/watch?v=eZTnSxW4pOI)*
    - [Space Infrastructure](http://www.projectrho.com/public_html/rocket/infrastructure.php)
    - [Planetary Bases](http://www.projectrho.com/public_html/rocket/planetbase.php)
    - [Life in a Space Colony](https://www.youtube.com/playlist?list=PLIIOUpOge0Lvr26RCeM_6mq72KFhPWEkG)
@@ -488,14 +488,21 @@
          - [Fermilab: How to travel faster than light](https://www.youtube.com/watch?v=BhG_QZl8WVY)
          - [Hyperdrive in Real Life](https://www.youtube.com/watch?v=sJDm6d9lOcw)
          - [NASA's Eagleworks Lab](https://www.youtube.com/watch?v=RguSFaX8wBc)
-         - [Fastest Spaceships](https://www.youtube.com/watch?v=hscmjYjxiug)
+         - [Fastest Spaceships In The Universe](https://www.youtube.com/watch?v=hscmjYjxiug)
          - [Speed Comparison 2 : Faster than Light](https://www.youtube.com/watch?v=F-jwrpXPBp0)
          - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
      - Alcubierre Warp Drive
+       - [Alcubierre Warp drive 2d plot in Google](https://www.google.de/search?hl=de&q=(x%2F(x%5E2%2By%5E2)%5E0.5)*((2*(1%2F(cosh(2*(x%5E2%2By%5E2)%5E0.5%2B5)%5E2))-(2*(1%2F(cosh+(2*(x%5E2%2By%5E2)%5E0.5-5))%5E2)))%2F(2*tanh(2*5)))%2C+x+is+from+-5+to+5%2C+y+is+from+-5+to+5%2C+z+is+from+-1+to+1&safe=off&cad=h)
+       - [NASA: Is Warp Drive Real?](https://www.nasa.gov/centers/glenn/technology/warp/warp.html)
        - [Miguel Alcubierre, "Faster Than The Speed Of Light"](https://www.youtube.com/watch?v=5q_z8BjiYng&list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T&index=6&t=0s)
        - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
        - [Alcubierre Drive: Warp Speed - Star Trek fantasy or plausible?](https://www.youtube.com/watch?v=Imi8-rCicaQ)
        - [The Alcubierre Warp Field and Anti Matter [2020]](https://www.youtube.com/watch?v=gHAaoTMrc3A)
+       - [Star Trek: The Best of Warp Speed!](https://www.youtube.com/watch?v=zP9PLYJxjaM)
+       - [Star Trek: Warp Speed Comparison](https://www.youtube.com/watch?v=iSyfpUyzQGU)
+       - [Warp Speeds Compared (Transwarp, Slipstream, Spore Drive, etc)](https://www.youtube.com/watch?v=uMSf9wAU-wY)
+       - [Fastest Spaceships In The Universe](https://www.youtube.com/watch?v=hscmjYjxiug)
+       - [What warp speed actually looks like with real-distance, in real-time!](https://www.youtube.com/watch?v=G-oI5Y4sAi8)
      - Artificial Black Hole
        - [Black Holes Series](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv3LmdudQ6aPFzEvJarKF2J)
      - Traversable Wormhole
@@ -1030,5 +1037,6 @@
   - [Endless Space](https://www.endless-space.com/)
   - [PULSAR: Lost Colony](https://www.pulsarthegame.com/)
   - [Stellaris](https://www.paradoxplaza.com/stellaris/STST01G-MASTER.html)
+
 ----------------
 ---------------------------
