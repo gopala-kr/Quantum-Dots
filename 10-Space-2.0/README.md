@@ -100,12 +100,19 @@
        - Yorktown*
    - [Space Infrastructure](http://www.projectrho.com/public_html/rocket/infrastructure.php)
    - [Planetary Bases](http://www.projectrho.com/public_html/rocket/planetbase.php)
+   - [Life in a Space Colony](https://www.youtube.com/playlist?list=PLIIOUpOge0Lvr26RCeM_6mq72KFhPWEkG)
    - [Colonization Astronomy](http://www.projectrho.com/public_html/rocket/weirdastronomy.php)
    - [Congfigure the Universe(Matter & Energy)](http://www.projectrho.com/public_html/rocket/worldbuilding.php) - New Worldbuilding
+     - [Interstellar Warfare, Worldbuilding & HADES 9](https://www.youtube.com/playlist?list=PLIIOUpOge0LsnC7OipBrfLSewH76ENAgc)
      - [RocketCat's Universe](http://www.projectrho.com/public_html/rocket/approcketcatu.php)
      - [Ring Raiders](http://www.projectrho.com/public_html/rocket/appringraiders.php)
      - [Cape Dread](http://www.projectrho.com/public_html/rocket/appcapedread.php)
    - Solar System Colonization
+     - [Earth 2.0](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv9Y_4Vmcgaxue0jyZG3_4K)
+     - [Visions of Earth](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls94qU9ZgTy3A-PbmRKKbV4) 
+     - [Biotechnology](https://www.youtube.com/playlist?list=PLIIOUpOge0LvNm82I9n8CBaGUXoVeKbYn)
+     - [Colonizing Space](https://www.youtube.com/playlist?list=PLIIOUpOge0LufQYxcfYVqcVQOFOHFynMl)
+     - [Outward Bound](https://www.youtube.com/playlist?list=PLIIOUpOge0LsIzYlIAIRdAGJTqAW6FmCE) :star:
      - Lagrangian points
      - Moons Colonization
        - Moon(Earth)
@@ -162,7 +169,13 @@
          - [Galactic Empire Maps](http://www.projectrho.com/public_html/rocket/empiremap.php)
          - [Galactic Telecommunication](http://www.projectrho.com/public_html/rocket/telecommunication.php) :star: :star:
          - [Spacelaw](http://www.projectrho.com/public_html/rocket/spacelaw.php)
+         - [Isaac Arthur: Collaborations](https://www.youtube.com/playlist?list=PLIIOUpOge0LuhBqHPneHGXX0CXMQIMAuK) :star:
  - [Advanced Civilization's Artifacts(fictional)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/advanced_civilizations.md)
+   - [Megastructures](https://www.youtube.com/playlist?list=PLIIOUpOge0LtW77TNvgrWWu5OC3EOwqxQ)
+   - [Advanced Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls3WMYP_2FpP9Y0mjgtf98M)
+   - [Civilizations at the End of Time](https://www.youtube.com/playlist?list=PLIIOUpOge0LvHsTP5fm8oxB1qPS54sTMk)
+   - [Post Scarcity Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0LvQYACAZwizb8gqtXL-10PC)
+   - [Rogue Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0LtBd4s7qojmayIXcB80x0qB)
    - [Future History](http://www.projectrho.com/public_html/rocket/futurehistory.php)
      - [Model History](http://www.projectrho.com/public_html/rocket/modelhistory.php)
      - [Calculating History](http://www.projectrho.com/public_html/rocket/appcalchistory.php)
@@ -171,8 +184,9 @@
      - [Tech & Society 1](http://www.projectrho.com/public_html/rocket/scisociety.php)
      - [Tech & Society 2](http://www.projectrho.com/public_html/rocket/scisociety2.php)
      - [Tech & Society 3](http://www.projectrho.com/public_html/rocket/scisociety3.php)
+   - [Clarketech: Technologies Indistinguishable from Magic](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls9qzKr4sp4Kys3NPXxBZ-C)
    - [High-Tech Aliens](http://www.projectrho.com/public_html/rocket/alientech.php)
-     - [Aliens](http://www.projectrho.com/public_html/rocket/aliens.php) ?????
+     - [Aliens](http://www.projectrho.com/public_html/rocket/aliens.php) ?????  | [Alien Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0Lu97HzMt_BJu36UMaItB1cm)
        - [Where are they?](http://www.projectrho.com/public_html/rocket/lebensraum.php)
        - [How to they look?](http://www.projectrho.com/public_html/rocket/alienbody.php)
      - [Alien Contact](http://www.projectrho.com/public_html/rocket/aliencontact.php)
@@ -215,6 +229,7 @@
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
+     - [Fermi Paradox Explained](https://www.youtube.com/playlist?list=PLIIOUpOge0LulClL2dHXh8TTOnCgRkLdU)
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
    - [Time Travel](https://iep.utm.edu/timetrav/)
      - [Time Travel Mythology: Mahabharata](http://the-wanderling.com/mahabharata.html)
@@ -355,6 +370,7 @@
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
      - Dcumentaries/Sci-Fi
        - [Rocket Science](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe)
+       - [Upward Bound](https://www.youtube.com/playlist?list=PLIIOUpOge0LsGJI_vni4xvfBQTuryTwlU) :star:
        - [Spaceflight History](https://www.youtube.com/playlist?list=PLYu7z3I8tdEloPRplrTAUzGUjcQqp3iTN)
        - [Human Spaceflight](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmRqrGfi3eNIzHLa7ux1IMb)
        - [Edge of Universe](https://www.youtube.com/watch?v=pj9cNnT7PJs)
@@ -369,8 +385,6 @@
        - [Near Light Speed Starships](http://www.projectrho.com/public_html/rocket/slowerlight3.php)
        - [Faster Than Light Speed Starships](http://www.projectrho.com/public_html/rocket/fasterlight.php)
        - [FTL -2](http://www.projectrho.com/public_html/rocket/fasterlight2.php)
-       - [Fastest Spaceships](https://www.youtube.com/watch?v=hscmjYjxiug)
-       - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
      - [Starship Economics](http://www.projectrho.com/public_html/rocket/starshipowner.php)
      - Spaceship Design
        - [Basic Design](http://www.projectrho.com/public_html/rocket/basicdesign.php)
@@ -400,10 +414,12 @@
      - [Lander Designs](http://www.projectrho.com/public_html/rocket/excursion.php)
      - [Space Tugs](http://www.projectrho.com/public_html/rocket/spacetug.php)
      - [Returning Vehicle Designs](http://www.projectrho.com/public_html/rocket/erv.php)
-     - [The Ships of The Expanse](https://www.youtube.com/playlist?list=PLqOEDroJnZHxf1X9LaMIk7jjUEDugPukx)
-     - [Marvel Spaceships](https://www.youtube.com/playlist?list=PLqOEDroJnZHzqX8QRNHDai3fN6mTAttwj)
-     - [Space Ships | Generation Films](https://www.youtube.com/playlist?list=PLpvdEKCBVrBjB7nHueZcmPd3IKDycflwT)
-     - [Spacedock](https://www.youtube.com/c/Spacedock/playlists)
+     - Spaceship Documentaries/Sci-Fi
+       - [Generation Ships & Interstellar Colonization](https://www.youtube.com/playlist?list=PLIIOUpOge0LskSp9Jac9nE6xSDfZ83Tgf) :star:
+       - [The Ships of The Expanse](https://www.youtube.com/playlist?list=PLqOEDroJnZHxf1X9LaMIk7jjUEDugPukx)
+       - [Marvel Spaceships](https://www.youtube.com/playlist?list=PLqOEDroJnZHzqX8QRNHDai3fN6mTAttwj)
+       - [Space Ships | Generation Films](https://www.youtube.com/playlist?list=PLpvdEKCBVrBjB7nHueZcmPd3IKDycflwT)
+       - [Spacedock](https://www.youtube.com/c/Spacedock/playlists)
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
@@ -457,18 +473,29 @@
        - [Is FTL Travel or Communication Possible?](https://web.archive.org/web/20001121064300/http://www.public.iastate.edu/~physics/sci.physics/faq/FTL.html#1)
        - FTL Neutrino(MINOS)
        - Documentaries/Sci-Fi
+         - [FTL01: Quantum Entanglement](https://www.youtube.com/watch?v=2_4l5_G3dnM)
+         - [FTL02: Tachyons and Time Travel](https://www.youtube.com/watch?v=-CgxuW203fk) | [Time Travel](https://www.youtube.com/watch?v=0-37PLt7n7A)
+         - [FTL03: Alcubierre Warp Drives](https://www.youtube.com/watch?v=yCCsmxGjEV0)
+         - [FTL04: Wormholes](https://www.youtube.com/watch?v=LNwhe_ztaGw)
+         - [Is Quantum Tunneling Faster than Light? ](https://www.youtube.com/watch?v=-IfmgyXs7z8)
          - [Short Film “FTL"](https://www.youtube.com/watch?v=t8LD0iUYv80&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS)
          - [Einstein-Rosen](https://www.youtube.com/watch?v=mMZbig5t8Ug&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS&index=35)
          - [Can We Travel Faster Than Light? with Dr. Miguel Alcubierre](https://www.youtube.com/watch?v=JafY92PhgKU)
          - [Elon Musk on FTL](https://www.youtube.com/watch?v=ni17Y_FxbsU)
+         - [Will This Go Faster Than Light?](https://www.youtube.com/watch?v=EPsG8td7C5k)
+         - [Why Space Travels Faster Than Light](https://www.youtube.com/watch?v=aOAWG68gmqQ)
          - [Fermilab: How to travel faster than light](https://www.youtube.com/watch?v=BhG_QZl8WVY)
          - [Hyperdrive in Real Life](https://www.youtube.com/watch?v=sJDm6d9lOcw)
          - [NASA's Eagleworks Lab](https://www.youtube.com/watch?v=RguSFaX8wBc)
+         - [Fastest Spaceships](https://www.youtube.com/watch?v=hscmjYjxiug)
+         - [Speed Comparison 2 : Faster than Light](https://www.youtube.com/watch?v=F-jwrpXPBp0)
+         - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
      - Alcubierre Warp Drive
        - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
        - [Alcubierre Drive: Warp Speed - Star Trek fantasy or plausible?](https://www.youtube.com/watch?v=Imi8-rCicaQ)
        - [The Alcubierre Warp Field and Anti Matter [2020]](https://www.youtube.com/watch?v=gHAaoTMrc3A)
      - Artificial Black Hole
+       - [Black Holes Series](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv3LmdudQ6aPFzEvJarKF2J)
      - Traversable Wormhole
      - Antimatter(Negative Energy)
      - Tachyons
@@ -650,7 +677,7 @@
      - [Colony Service](http://www.projectrho.com/public_html/rocket/colservice.php)
      - [Space Rescue](http://www.projectrho.com/public_html/rocket/rescue.php)
      - [Space War Detection](http://www.projectrho.com/public_html/rocket/spacewardetect.php)
-     - [Space Weapons](http://www.projectrho.com/public_html/rocket/spacegunintro.php)
+     - [Space Weapons](http://www.projectrho.com/public_html/rocket/spacegunintro.php) | [Futuristic Weapons](https://www.youtube.com/playlist?list=PLIIOUpOge0LvpLdGIp4xCyCVZEEUQ1Udn)
        - [Exotic](http://www.projectrho.com/public_html/rocket/spacegunexotic.php)
        - [Convent](http://www.projectrho.com/public_html/rocket/spacegunconvent.php)
      - [Space Warship Defences](http://www.projectrho.com/public_html/rocket/spacewardefense.php)
@@ -754,6 +781,7 @@
      - LISA(space)
      - Big Bang Observer(space)
    - [Exoplanets](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/exoplanets.md)
+     - [Habitable Planets](https://www.youtube.com/playlist?list=PLIIOUpOge0LuGoV8698AWjDcMYeB9OvEf)
      - Space
        - MOST (2003–2019)
        - SWEEPS using HST (2006)
@@ -782,6 +810,8 @@
      - Fermi Paradox
        - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
      - The Great Filter
+       - [Fermi Paradox Great Filters](https://www.youtube.com/playlist?list=PLIIOUpOge0LuzO1f6z-sCZFawM_xiMHCD)
+       - [Existential Crisis Series](https://www.youtube.com/playlist?list=PLIIOUpOge0LuCndr25ORvBN9OI1k1O4kJ)
        - [Global Catastrophic/Existential Risks](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
      - [Unidentified Flying Objects (UFOs)](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)
      - Kardashev Scale
