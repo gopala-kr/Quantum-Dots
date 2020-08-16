@@ -224,9 +224,14 @@
      - [NASA: Is Time Travel Possible?](https://spaceplace.nasa.gov/time-travel/en/)
      - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s) | [The Time Machine (2002) - Time Travel Scene](https://www.youtube.com/watch?v=P-VP-FyI9KU)
      - Dcumentaries/Sci-Fi 
+       - [Genius : Time Is But a Stubborn Illusion](https://www.youtube.com/watch?v=ZyYqyYAKGC0)
        - [RI Lecture: The Physics and Philosophy of Time](https://www.youtube.com/watch?v=-6rWqJhDv7M)
        - [Jim Al-Khalili Lecture](https://www.youtube.com/watch?v=DoJU3GxkuYw&list=RDQMgLGE2y0gfrA&index=9)
+       - [The True Nature Of Time](https://www.youtube.com/watch?v=2TiQidGPHA4)
+       - [Dr.Seth Lloyd(MIT): The Quantum Mechanics of Time Travel](https://www.youtube.com/watch?v=yCQ_3qE6SmQ&list=RDQMgLGE2y0gfrA&index=17)
        - [How To Time Travel](https://www.youtube.com/watch?v=SafwXdP7ylc)
+       - [The physics of time travel, by Dr Pieter Kok](https://www.youtube.com/watch?v=uz9eLjO2BrA&list=RDQMgLGE2y0gfrA&index=15)
+       - [Is Time Travel Into the Past Possible? | Matt Szydagis](https://www.youtube.com/watch?v=m2-I5HUwfRg&list=RDQMgLGE2y0gfrA&index=12)
        - [The Illusion of Time](https://www.youtube.com/watch?v=Zuedaptw73w)
        - [Brian Greene: Time Travel is Possible](https://www.youtube.com/watch?v=6yMiUq7W_xI&list=RDQMgLGE2y0gfrA&index=7)
        - [Theories That Prove Time Travel Exists](https://www.youtube.com/watch?v=nzPIYHWTplk)
@@ -235,7 +240,7 @@
        - [Superluminal Time Travel + Time Warp ](https://www.youtube.com/watch?v=HUMGc8hEkpc)
        - [When Will Time End?](https://www.youtube.com/watch?v=M7RMnpiUrfE)
        - [The Worlds First Time Machine](https://www.youtube.com/watch?v=Yc9_ZFxMvMw)
-       - Interesting Short Movies: [One-Minute TM](https://www.youtube.com/watch?v=vBkBS4O3yvY) | [Plurality](https://www.youtube.com/watch?v=pocEN5HprsM)
+       - Interesting Short Movies: [1960 Time Machine](https://www.youtube.com/watch?v=7aVpiGzsCBI&list=RDQMgLGE2y0gfrA&index=20) | [One-Minute TM](https://www.youtube.com/watch?v=vBkBS4O3yvY) | [Room 88](https://www.youtube.com/watch?v=5tLNEeraSfc) |[Plurality](https://www.youtube.com/watch?v=pocEN5HprsM)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
