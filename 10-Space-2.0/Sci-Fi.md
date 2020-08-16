@@ -84,15 +84,15 @@
      - The Exploration of Space (1951) New York: Harper & Brothers
      - The Exploration of the Moon (1954) with R. A. Smith, New York: Harper Brothers
      - The Coast of Coral (1955) London: Frederick Muller
-Boy Beneath the Sea (1958) New York: Harper, ISBN 0060212667
-Voice Across the Sea (1958) New York: Harper
-Profiles of the Future: An Inquiry into the Limits of the Possible (1962) New York: Harper & Row
-The Treasure of the Great Reef (1964) with Mike Wilson, New York: Harper & Row
-Voices from the Sky: Previews of the Coming Space Age (1965) New York: Harper & Row
-The Promise of Space (1968) New York: Harper & Row
-The View from Serendip (1977) New York: Random House, ISBN 0-394-41796-8
-1984: Spring - A Choice of Futures (1984) collected non-fiction writings, New York: Del Rey / Ballantine, ISBN 0-345-31357-7
-Astounding Days: A Science Fictional Autobiography (1989) London: Gollancz, ISBN 0-575-04446-2
-How the World Was One: Beyond the Global Village (1992) London: Gollancz, ISBN 0-575-05226-0
-Greetings, Carbon-Based Bipeds! : Collected Essays, 1934–1998 (1999) New York: St. Martin's Press, and London: Voyager
+     - Boy Beneath the Sea (1958) New York: Harper, ISBN 0060212667
+     - Voice Across the Sea (1958) New York: Harper
+     - Profiles of the Future: An Inquiry into the Limits of the Possible (1962) New York: Harper & Row
+     - The Treasure of the Great Reef (1964) with Mike Wilson, New York: Harper & Row
+     - Voices from the Sky: Previews of the Coming Space Age (1965) New York: Harper & Row
+     - The Promise of Space (1968) New York: Harper & Row
+     - The View from Serendip (1977) New York: Random House, ISBN 0-394-41796-8
+     - 1984: Spring - A Choice of Futures (1984) collected non-fiction writings, New York: Del Rey / Ballantine, ISBN 0-345-31357-7
+     - Astounding Days: A Science Fictional Autobiography (1989) London: Gollancz, ISBN 0-575-04446-2
+     - How the World Was One: Beyond the Global Village (1992) London: Gollancz, ISBN 0-575-05226-0
+     - Greetings, Carbon-Based Bipeds! : Collected Essays, 1934–1998 (1999) New York: St. Martin's Press, and London: Voyager
    -------------------------
