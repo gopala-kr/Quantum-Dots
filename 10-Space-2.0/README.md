@@ -223,6 +223,19 @@
      - [Time Travel and Modern Physics](https://plato.stanford.edu/entries/time-travel-phys/)
      - [NASA: Is Time Travel Possible?](https://spaceplace.nasa.gov/time-travel/en/)
      - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s) | [The Time Machine (2002) - Time Travel Scene](https://www.youtube.com/watch?v=P-VP-FyI9KU)
+     - Dcumentaries/Sci-Fi 
+       - [RI Lecture: The Physics and Philosophy of Time](https://www.youtube.com/watch?v=-6rWqJhDv7M)
+       - [Jim Al-Khalili Lecture](https://www.youtube.com/watch?v=DoJU3GxkuYw&list=RDQMgLGE2y0gfrA&index=9)
+       - [How To Time Travel](https://www.youtube.com/watch?v=SafwXdP7ylc)
+       - [The Illusion of Time](https://www.youtube.com/watch?v=Zuedaptw73w)
+       - [Brian Greene: Time Travel is Possible](https://www.youtube.com/watch?v=6yMiUq7W_xI&list=RDQMgLGE2y0gfrA&index=7)
+       - [Theories That Prove Time Travel Exists](https://www.youtube.com/watch?v=nzPIYHWTplk)
+       - [Traveling Back in Time](https://www.youtube.com/watch?v=2w22CBE_9GI)
+       - [Time Travel in Fiction Rundown](https://www.youtube.com/watch?v=d3zTfXvYZ9s)
+       - [Superluminal Time Travel + Time Warp ](https://www.youtube.com/watch?v=HUMGc8hEkpc)
+       - [When Will Time End?](https://www.youtube.com/watch?v=M7RMnpiUrfE)
+       - [The Worlds First Time Machine](https://www.youtube.com/watch?v=Yc9_ZFxMvMw)
+       - Interesting Short Movies: [One-Minute TM](https://www.youtube.com/watch?v=vBkBS4O3yvY) | [Plurality](https://www.youtube.com/watch?v=pocEN5HprsM)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
@@ -333,6 +346,10 @@
        - Virgin Galactic --> SpaceShipTwo(Active)
      - [Private Launch Companies](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
+     - Dcumentaries/Sci-Fi
+       - [Edge of Universe](https://www.youtube.com/watch?v=pj9cNnT7PJs)
+       - [Flight of the Future](https://www.youtube.com/watch?v=qn2x62G5GmM)
+       - [Spaceplanes](https://www.youtube.com/watch?v=I7s8c4aQQSg)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
      - [Ship Types](http://www.projectrho.com/public_html/rocket/shiptypes.php)
      - [Starships](http://www.projectrho.com/public_html/rocket/slowerlight.php)
@@ -406,12 +423,21 @@
      - Project Dragonfly
      - Sleeper Ships(Hibernation & Cryonic Preservation)
      - 100 Year Starship Mission
+     - Documentaries/Sci-Fi
+       - [Interstellar Flight](https://www.youtube.com/watch?v=dQdRrhDMXnY)
+       - [Interstellar Highway System](https://www.youtube.com/watch?v=ZevUW__aMZE)
+       - [Interstellar Travel: Approaching Light Speed](https://www.youtube.com/watch?v=c4z6RZXv5p8)
+       - [Interstellar voyage to find the Second Earth](https://www.youtube.com/watch?v=cL2O-MyvtPs)
    - Fictional
      - Time Machine
      - FTL Travel
        - Time Dilation
        - [Is FTL Travel or Communication Possible?](https://web.archive.org/web/20001121064300/http://www.public.iastate.edu/~physics/sci.physics/faq/FTL.html#1)
        - FTL Neutrino(MINOS)
+       - Sci-Fi
+         - [Short Film “FTL"](https://www.youtube.com/watch?v=t8LD0iUYv80&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS)
+         - [Einstein-Rosen](https://www.youtube.com/watch?v=mMZbig5t8Ug&list=PL2X2odndvaIewivM69M0byISpn0tLg2eS&index=35)
+         - [Can We Travel Faster Than Light? with Dr. Miguel Alcubierre](https://www.youtube.com/watch?v=JafY92PhgKU)
      - Alcubierre Warp Drive
      - Artificial Black Hole
      - Traversable Wormhole
