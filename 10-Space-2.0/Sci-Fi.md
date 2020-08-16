@@ -1,0 +1,80 @@
+Science Fiction
+ - [Timeline of science fiction](https://en.wikipedia.org/wiki/Timeline_of_science_fiction)
+ - Anthropological
+ - Apocalyptic and post-apocalyptic
+ - Christian
+ - Climate fiction
+ - Comedy Sitcoms
+ - Dying Earth
+ - Feminist 
+ - Gothic
+ - Isekai
+ - Libertarian
+ - Mecha anime and manga
+ - Military
+ - Parallel worlds
+ - Planetary romance
+ - Scientific romance
+ - SocialSpace opera
+ - Space Western
+ - Superhero
+ - Sword and planet
+ - Tech noir
+ - Tokusatsu
+ - Sci-Fi Themes
+   - Astroengineering
+   - AI takeover(Artificial intelligence)
+   - Cloaking device
+   - Holography
+   - Invisibility
+   - Maritime
+   - Megastructure
+     - Dyson sphere
+     - Matrioshka brain
+     - Stellar engine
+     - Space stations and habitats
+   - Mind uploading
+   - Nanotechnology
+   - Organ transplantation
+   - Prosthetics
+   - Robots
+   - Self-replicating machines
+   - Simulated consciousness
+   - Simulated reality
+   - Space warfare
+   - Tachyons
+   - Terraforming
+   - Technomancy
+   - Time viewer
+   - Fermi paradox
+   - Grandfather paradox
+   - Time travel
+   - Biological warfare
+   - Energy being
+   - Evolution
+   - Extraterrestrials
+   - Genetic engineering
+   - Group mind
+   - Parasites
+   - Symbiosis
+   - Space Time
+   - Spatial Anomalies
+   - Ancient astronauts
+   - Alien invasion
+   - Alien language
+   - Cyborgs
+   - Evil corporation
+   - First contact
+   - Frankenstein complex
+   - Galactic empire
+   - Libertarian
+   - Message from space
+   - Political ideas
+   - Religious ideas
+   - Science horror
+   - Transhumanism
+   - Uplifting 
+   - World government
+   - Xenoarchaeology
+   
+   -------------------------
