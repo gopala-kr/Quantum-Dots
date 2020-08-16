@@ -96,4 +96,5 @@
      - How the World Was One: Beyond the Global Village (1992) London: Gollancz, ISBN 0-575-05226-0
      - Greetings, Carbon-Based Bipeds! : Collected Essays, 1934–1998 (1999) New York: St. Martin's Press, and London: Voyager
    - [Isaac Asimov]()
+   - Philip K. Dick
    -------------------------
