@@ -1012,31 +1012,12 @@
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
+- [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
 - [StarTalk](https://www.youtube.com/c/StarTalk/playlists)
 - [Space and Space Travel](https://www.youtube.com/playlist?list=PLAnwfqs0VrqqHSjw-lvnMFlfWGIOYAWTI)
 - [Starship Congress 2017](https://www.youtube.com/playlist?list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T)
 - [Challenge Questions](https://www.youtube.com/playlist?list=PLsPUh22kYmNDnezZ15MkicBGVDm2ypthG)
-- Space Games
-  - [kerbalspaceprogram](https://www.kerbalspaceprogram.com/)
-  - [robertsspaceindustries](https://robertsspaceindustries.com/)
-  - [elitedangerous](https://www.elitedangerous.com/)
-  - [nomanssky](https://www.nomanssky.com/?cli_action=1597601788.199)
-  - [dualthegame](https://www.dualthegame.com/en/)
-  - [spaceengineersgame](https://www.spaceengineersgame.com/)
-  - [Empyrion - Galactic Survival](https://empyriongame.com/)
-  - [avorion](https://www.avorion.net/)
-  - [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)
-  - [X4: Foundations](https://www.egosoft.com/games/x4/info_en.php)
-  - [sinsofasolarempire](https://www.sinsofasolarempire.com/)
-  - [Surviving Mars](https://www.paradoxplaza.com/surviving-mars/SUSM01GSK-MASTER.html)
-  - [Galactic Civilizations III](https://www.galciv3.com/)
-  - [Take On Mars](http://mars.takeonthegame.com/)
-  - [Waking Mars](https://store.steampowered.com/app/227200/Waking_Mars/)
-  - [X3: Terran Conflict](https://www.egosoft.com/games/x3tc/info_en.php)
-  - [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)
-  - [Endless Space](https://www.endless-space.com/)
-  - [PULSAR: Lost Colony](https://www.pulsarthegame.com/)
-  - [Stellaris](https://www.paradoxplaza.com/stellaris/STST01G-MASTER.html)
+
 
 ----------------
 ---------------------------
