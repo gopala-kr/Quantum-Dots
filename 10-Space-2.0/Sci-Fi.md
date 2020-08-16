@@ -78,4 +78,7 @@
    - World government
    - Xenoarchaeology
    
+   -----------------
+   - [Arthur C. Clarke](https://www.britannica.com/biography/Arthur-C-Clarke)
+   
    -------------------------
