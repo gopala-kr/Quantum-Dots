@@ -75,7 +75,7 @@
        - Fobos-Grunt2(2024)
        - VIPER rover
      - Sci-Fi
-       - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) *
+       - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) | 
    - Space Colonies/Habitats
      - Aurora Station
      - Bernal sphere --> Island One(NASA)
@@ -87,8 +87,8 @@
      - Rotating wheel/Ring Worlds
      - Stanford torus
      - Sci-Fi [Habitats](https://en.wikipedia.org/wiki/List_of_fictional_space_stations)
-       - [Deep Space 9](https://memory-alpha.fandom.com/wiki/Deep_Space_9)
-       - [Babylon 5](http://www.zteamproductions.com/protob5.html)
+       - [Deep Space 9](https://www.youtube.com/watch?v=FAsm8Nkfjbk)
+       - [Babylon 5](https://www.youtube.com/playlist?list=PLqOEDroJnZHwfxK8GulC8MVUgoc4pLxbt)
        - Elysium*
        - Cooper Station(Interstellar) --> O'Neill cylinder
        - [Space Station V](https://2001.fandom.com/wiki/Space_Station_V)
@@ -241,6 +241,12 @@
        - [When Will Time End?](https://www.youtube.com/watch?v=M7RMnpiUrfE)
        - [The Worlds First Time Machine](https://www.youtube.com/watch?v=Yc9_ZFxMvMw)
        - Interesting Short Movies: [1960 Time Machine](https://www.youtube.com/watch?v=qLyTKRBO9fY) | [One-Minute TM](https://www.youtube.com/watch?v=vBkBS4O3yvY) | [Room 88](https://www.youtube.com/watch?v=5tLNEeraSfc) | [Plurality](https://www.youtube.com/watch?v=pocEN5HprsM)
+       - Sci-fi Time Machines : 
+         - [Time Displacement Equipment](https://www.youtube.com/watch?v=1XQYISuESh8)
+         - [Time Turner](https://www.youtube.com/watch?v=Mg1A7fB9nrk)
+         - [TARDIS: Time And Relative Dimension In Space](https://www.youtube.com/watch?v=oAPNb6y4cC4)
+         - [Cosmic Treadmill](https://www.youtube.com/watch?v=1Gg2cUFjWcY)
+         - [Time Jump Device](https://www.youtube.com/watch?v=cNhNxsIBxtE)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
@@ -352,15 +358,23 @@
      - [Private Launch Companies](https://www.newspace.im/launchers)
      - [Payload Capacity & Price Comparison](https://spacefund.com/launch-database/)
      - Dcumentaries/Sci-Fi
+       - [Rocket Science](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe)
+       - [Spaceflight History](https://www.youtube.com/playlist?list=PLYu7z3I8tdEloPRplrTAUzGUjcQqp3iTN)
+       - [Human Spaceflight](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmRqrGfi3eNIzHLa7ux1IMb)
        - [Edge of Universe](https://www.youtube.com/watch?v=pj9cNnT7PJs)
        - [Flight of the Future](https://www.youtube.com/watch?v=qn2x62G5GmM)
        - [Spaceplanes](https://www.youtube.com/watch?v=I7s8c4aQQSg)
+       - [NASA's Engines and Possible Speed of Light Propulsion?](https://www.youtube.com/watch?v=W8SUrR8Rb7o)
+       - [The Rocket Science of 'The Expanse'](https://www.youtube.com/watch?v=JWZqp0QoXcw)
+       - [Rocket Failures & Crashes](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkezCLbE8jNPyyiae_aZuUP)
    - [Spaceships](https://en.wikipedia.org/wiki/List_of_fictional_spacecraft)
      - [Ship Types](http://www.projectrho.com/public_html/rocket/shiptypes.php)
      - [Starships](http://www.projectrho.com/public_html/rocket/slowerlight.php)
        - [Near Light Speed Starships](http://www.projectrho.com/public_html/rocket/slowerlight3.php)
        - [Faster Than Light Speed Starships](http://www.projectrho.com/public_html/rocket/fasterlight.php)
        - [FTL -2](http://www.projectrho.com/public_html/rocket/fasterlight2.php)
+       - [Fastest Spaceships](https://www.youtube.com/watch?v=hscmjYjxiug)
+       - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
      - [Starship Economics](http://www.projectrho.com/public_html/rocket/starshipowner.php)
      - Spaceship Design
        - [Basic Design](http://www.projectrho.com/public_html/rocket/basicdesign.php)
@@ -390,6 +404,22 @@
      - [Lander Designs](http://www.projectrho.com/public_html/rocket/excursion.php)
      - [Space Tugs](http://www.projectrho.com/public_html/rocket/spacetug.php)
      - [Returning Vehicle Designs](http://www.projectrho.com/public_html/rocket/erv.php)
+     - [The Ships of The Expanse](https://www.youtube.com/playlist?list=PLqOEDroJnZHxf1X9LaMIk7jjUEDugPukx)
+     - [Marvel Spaceships](https://www.youtube.com/playlist?list=PLqOEDroJnZHzqX8QRNHDai3fN6mTAttwj)
+     - [Space Ships | Generation Films](https://www.youtube.com/playlist?list=PLpvdEKCBVrBjB7nHueZcmPd3IKDycflwT)
+     - [Spacedock](https://www.youtube.com/c/Spacedock/playlists)
+     - Space Games
+       - [kerbalspaceprogram](https://www.kerbalspaceprogram.com/)
+       - [robertsspaceindustries](https://robertsspaceindustries.com/)
+       - [elitedangerous](https://www.elitedangerous.com/)
+       - [nomanssky](https://www.nomanssky.com/?cli_action=1597601788.199)
+       - [dualthegame](https://www.dualthegame.com/en/)
+       - [spaceengineersgame](https://www.spaceengineersgame.com/)
+       - [Empyrion - Galactic Survival](https://empyriongame.com/)
+       - [avorion](https://www.avorion.net/)
+       - [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)
+       - [X4: Foundations](https://www.egosoft.com/games/x4/info_en.php)
+       - [sinsofasolarempire](https://www.sinsofasolarempire.com/)
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
@@ -454,6 +484,7 @@
    - Historical Missions
      - Unmanned
      - Manned
+       - [Human Spaceflight](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmRqrGfi3eNIzHLa7ux1IMb)
      - Solar probes
        - Active Missions 
          - NASA : WIND (1994), SOHO (1996), ACE (1997), STEREO A (2006), DSCOVR (2015), Parker Solar Probe ( 2018)
@@ -631,6 +662,7 @@
      - [Space Warship Defences](http://www.projectrho.com/public_html/rocket/spacewardefense.php)
      - [Space Warship Design](http://www.projectrho.com/public_html/rocket/spacewarship.php)
        - [Gallery](http://www.projectrho.com/public_html/rocket/spacewarshipart.php)
+       - [War Stories](https://www.youtube.com/playlist?list=PLpvdEKCBVrBioCcxHDZJ1ev_Gn6pzkqvF)
      - [Space Fighters](http://www.projectrho.com/public_html/rocket/fighter.php)
      - [Space War Strategy](http://www.projectrho.com/public_html/rocket/spacewartactic.php)
      - [Planetary Orbital Attack](http://www.projectrho.com/public_html/rocket/planetaryattack.php)
@@ -642,8 +674,9 @@
        - [Energy Weapons](http://www.projectrho.com/public_html/rocket/sidearmenergy.php)
        - [Exotic Weapons](http://www.projectrho.com/public_html/rocket/sidearmexotic.php)
        - [Space Body Armour](http://www.projectrho.com/public_html/rocket/bodyarmor.php)
+         - [Armor](https://www.youtube.com/playlist?list=PLpvdEKCBVrBi6cxQYR9xHEyTYz3_O8-JB)
    - Asteroid Deflection
-     - Gravity Assist
+     - [Gravity Assist](https://www.youtube.com/watch?v=16jr7WWGSxo)
    - Space Debris Removal
    - Missile's
    - Rail Gun
@@ -935,6 +968,7 @@
        - [Nuclear Power in India](https://www.world-nuclear.org/information-library/country-profiles/countries-g-n/india.aspx)
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
+         - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 
