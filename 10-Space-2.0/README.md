@@ -1017,7 +1017,7 @@
 - [Space and Space Travel](https://www.youtube.com/playlist?list=PLAnwfqs0VrqqHSjw-lvnMFlfWGIOYAWTI)
 - [Starship Congress 2017](https://www.youtube.com/playlist?list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T)
 - [Challenge Questions](https://www.youtube.com/playlist?list=PLsPUh22kYmNDnezZ15MkicBGVDm2ypthG)
-
+- [Space Games (PC-VR)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space-games.md)
 
 ----------------
 ---------------------------
