@@ -113,6 +113,7 @@
      - [Biotechnology](https://www.youtube.com/playlist?list=PLIIOUpOge0LvNm82I9n8CBaGUXoVeKbYn)
      - [Colonizing Space](https://www.youtube.com/playlist?list=PLIIOUpOge0LufQYxcfYVqcVQOFOHFynMl)
      - [Outward Bound](https://www.youtube.com/playlist?list=PLIIOUpOge0LsIzYlIAIRdAGJTqAW6FmCE) :star:
+     - [Futurism and Space Exploration](https://www.youtube.com/playlist?list=PLsPUh22kYmNDgWwp73HmRNX-nLNgFp86g)
      - Lagrangian points
      - Moons Colonization
        - Moon(Earth)
@@ -491,6 +492,7 @@
          - [Speed Comparison 2 : Faster than Light](https://www.youtube.com/watch?v=F-jwrpXPBp0)
          - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
      - Alcubierre Warp Drive
+       - [Miguel Alcubierre, "Faster Than The Speed Of Light"](https://www.youtube.com/watch?v=5q_z8BjiYng&list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T&index=6&t=0s)
        - [Warp Drive and Aliens: Bryan Gaensler Public Lecture](https://www.youtube.com/watch?v=fzweIEvN8sc)
        - [Alcubierre Drive: Warp Speed - Star Trek fantasy or plausible?](https://www.youtube.com/watch?v=Imi8-rCicaQ)
        - [The Alcubierre Warp Field and Anti Matter [2020]](https://www.youtube.com/watch?v=gHAaoTMrc3A)
@@ -808,11 +810,13 @@
      - Zoo hypothesis
      - Drake Equation
      - Fermi Paradox
+       - [Anthropic Principle](https://www.youtube.com/playlist?list=PLsPUh22kYmNBVC9vvhnleNvgQOvkfjCrV)
        - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
      - The Great Filter
        - [Fermi Paradox Great Filters](https://www.youtube.com/playlist?list=PLIIOUpOge0LuzO1f6z-sCZFawM_xiMHCD)
        - [Existential Crisis Series](https://www.youtube.com/playlist?list=PLIIOUpOge0LuCndr25ORvBN9OI1k1O4kJ)
        - [Global Catastrophic/Existential Risks](https://en.wikipedia.org/wiki/Global_catastrophic_risk)
+       - [The End(s) of the World](https://www.youtube.com/playlist?list=PLsPUh22kYmND79ksPNrzpAS9yzxgdImsn)
      - [Unidentified Flying Objects (UFOs)](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)
      - Kardashev Scale
        - Type I civilization - Planetary
@@ -830,6 +834,10 @@
    - Radio
    - Ultraviolet, X-ray and gamma
    - Cosmic Evolution
+     - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
+     - [Space Time!](https://www.youtube.com/playlist?list=PLsPUh22kYmNC_pRT9cKXSoWFLftC5i4S9)
+     - [Curved Spacetime in General Relativity](https://www.youtube.com/playlist?list=PLsPUh22kYmNAmjsHke4pd8S9z6m_hVRur)
+     - [The Big Bang & Cosmic Inflation](https://www.youtube.com/playlist?list=PLsPUh22kYmNCc3WCKb5yF136QSRf0xErm)
      - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
      - Timeline
      - Cosmic Microwave Background(CMB)
@@ -927,6 +935,7 @@
         - Particle Accelerators
         - Black Hole Information Paradox
           - Hawking radiation
+            - [Holographic Universe](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR)
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
@@ -998,6 +1007,8 @@
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [StarTalk](https://www.youtube.com/c/StarTalk/playlists)
 - [Space and Space Travel](https://www.youtube.com/playlist?list=PLAnwfqs0VrqqHSjw-lvnMFlfWGIOYAWTI)
+- [Starship Congress 2017](https://www.youtube.com/playlist?list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T)
+- [Challenge Questions](https://www.youtube.com/playlist?list=PLsPUh22kYmNDnezZ15MkicBGVDm2ypthG)
 - Space Games
   - [kerbalspaceprogram](https://www.kerbalspaceprogram.com/)
   - [robertsspaceindustries](https://robertsspaceindustries.com/)
