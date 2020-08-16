@@ -97,4 +97,5 @@
      - Greetings, Carbon-Based Bipeds! : Collected Essays, 1934–1998 (1999) New York: St. Martin's Press, and London: Voyager
    - [Isaac Asimov]()
    - Philip K. Dick
+   - H. G. Wells
    -------------------------
