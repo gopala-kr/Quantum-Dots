@@ -129,8 +129,8 @@
          - Moon Tourism [All Plans, not in operation]
            - Sites Attraction- far side of the Moon, Earthrise over the lunar horizon
            - Circumlunar trajectory(flyby) - $150 million/seat;  Space Adventures & Excalibur Almaz(cancelled)
-           - Lunar orbit
-           - lunar landing - $750 million/seat - Golden Spike Company(Cancelled)
+           - Lunar Orbit
+           - Lunar Landing - $750 million/seat - Golden Spike Company(Cancelled)
            - Proposals
              - DSE-Alpha --> Space Adventures --> Soyuz spacecraft --> 100km near lunar surface --> 2+1 ; 1 week trip
              - #dearMoon project --> SpaceX --> Starship --> 6–8 artists --> $70 million?
@@ -142,6 +142,7 @@
            - Galileo(1995), Cassini–Huygens(2005), New Horizons(2007)
          - Future missions --> Jupiter Icy Moons Explorer (2022), Europa Clipper (2025)
          - In-Fiction: Source of Water, inhabitated by genetically engineered posthumans, military installation(weapons dev base)
+           - [Europa Report](https://www.netflix.com/title/70276016)
        - Titan(Saturn) - circumstellar
        - Enceladus(Saturn) - circumstellar
        - Triton(Neptune) - circumstellar
@@ -182,7 +183,7 @@
      - Type IV/Ω civilization - Universal
    - [Dyson Sphere's](http://wiki.c2.com/?DysonSphere)
      - [Toruses and Dyson Swarms Simulation](http://burtleburtle.net/bob/scifi/dyson.html)
-     - [Upper limit on Dyson spheresS](http://iopscience.iop.org/0004-637X/698/2/2075/pdf/0004-637X_698_2_2075.pdf)
+     - [Upper limit on Dyson Spheres](http://iopscience.iop.org/0004-637X/698/2/2075/pdf/0004-637X_698_2_2075.pdf)
      - [Startrek Wiki](https://memory-alpha.fandom.com/wiki/Dyson_sphere)
      - [Dyson Sphere FAQ](http://www.aleph.se/Nada/dysonFAQ.html#FIRST)
      - [Some Sketches of Dyson Spheres](http://www.aleph.se/Trans/Tech/Megascale/dyson_page.html)
@@ -196,6 +197,8 @@
      - [Stellar engines: Design considerations for maximizing acceleration](https://www.sciencedirect.com/science/article/abs/pii/S0094576519312457)
      - [Shkadov thruster](https://www.daviddarling.info/encyclopedia/S/stellar_engine.html)
      - [How to Move the Sun: Stellar Engines](https://www.youtube.com/watch?v=v3y8AIEX_dU) - Escape a Super Nova
+     - Sci-Fi
+       - [The Wandering Earth](https://www.netflix.com/watch/81067760?source=35)
    - Holography & Simulation
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
@@ -212,14 +215,14 @@
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
    - Fermi paradox
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
-   - [Time travel](https://iep.utm.edu/timetrav/)
+   - [Time Travel](https://iep.utm.edu/timetrav/)
      - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
      - [Mathematically Feasible But Not Possible. Yet.](https://futurism.com/new-research-shows-that-time-travel-is-mathematically-possible)
      - [Energy to Power a Time Machine?](https://futurism.com/how-much-energy-need-power-time-machine)
      - [Black holes, Wormholes and Time Travel](http://www.vega.org.uk/video/programme/61)
      - [Time Travel and Modern Physics](https://plato.stanford.edu/entries/time-travel-phys/)
      - [NASA: Is Time Travel Possible?](https://spaceplace.nasa.gov/time-travel/en/)
-     - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s)
+     - [H. G. Wells: Time Machine](https://www.youtube.com/watch?v=gE6oVq5k94s) | [The Time Machine (2002) - Time Travel Scene](https://www.youtube.com/watch?v=P-VP-FyI9KU)
  - [Microgravity (In-Space Manufacturing)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/inspace_manufacturing.md) | [Making things in orbit](https://www.factoriesinspace.com/manufacturing-companies#index.html)
    - Astro-Robotics
      - [Astrobotic Technology](https://www.astrobotic.com/)
@@ -368,6 +371,11 @@
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
+   - [Plannet Exploration Rovers Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/rovers-landers.md)
+     - [NASA Opensource Rover Design](https://opensourcerover.jpl.nasa.gov/#!/home)
+     - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover)
+     - [Roger-random/Sawppy_Rover](https://github.com/Roger-random/Sawppy_Rover) | [hackaday.io](https://hackaday.io/project/158208-sawppy-the-rover)
+     - [marsrover](https://marsrover.mst.edu/)
    - [Space Elevators](http://spaceref.com/space-elevator/)
      - [Economics](https://en.wikipedia.org/wiki/Space_elevator_economics#:~:text=and%20launch%20vehicles.-,Total%20cost%20of%20a%20privately%20funded%20Edwards'%20Space%20Elevator,estimated%20to%20cost%20%246%20billion.) 
         - Current Rocket Tech - Lowest by SpaceX (Private)--> $2,720/kg  ; Future Starship promises $47/kg [build cost $10 billion]
@@ -435,8 +443,8 @@
          - ESA : 5 Missions ; 3 success(1 combined effort with Russia: ExoMars); 2 failures(Landers)
          - Japan : 1 Mission ; 1 failure
          - UAE : 1 Mission --> En route (Orbiter)
-         - India(ISRO) : 1 Mission ; 1 Operational (MoM)
-         - NASA(USA):29 Missions; 21 successful--> 5 operational (3 orbiters; 1 Lander; 1 Rover) ; 2 En route (2020) ; 6 Failures
+         - [India(ISRO)](https://www.isro.gov.in/pslv-c25-mars-orbiter-mission) : 1 Mission ; 1 Operational (MoM)
+         - [NASA(USA)](https://mars.nasa.gov/): 29 Missions; 21 successful--> 5 operational(3 orbiters; 1 Lander; 1 Rover) ; 2 En route (2020); 6 Failures
          - Future Missions
            - NeMO(Telecom Orbiter)- NASA --> 2020? 2022?
            - ExoMars 2022  - ESA
