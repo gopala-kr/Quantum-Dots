@@ -271,6 +271,7 @@
        - [The Illusion of Time](https://www.youtube.com/watch?v=Zuedaptw73w)
        - [Brian Greene: Time Travel is Possible](https://www.youtube.com/watch?v=6yMiUq7W_xI)
        - [The Nature of Space and Time](https://www.youtube.com/watch?v=M22MEShcyx8)
+       - [The Richness of Time](https://www.youtube.com/watch?v=1FJWvEbeBps)
        - [Prof. Brian Greene Shows You How to Time Travel!](https://www.youtube.com/watch?v=DMK1MMjIm7I)
        - [Theories That Prove Time Travel Exists](https://www.youtube.com/watch?v=nzPIYHWTplk)
        - [Traveling Back in Time](https://www.youtube.com/watch?v=2w22CBE_9GI)
@@ -793,7 +794,8 @@
        - XMM-Newton
        - NuSTAR
        - Astrosat
-       - Hubble Space Telescope
+       - [Hubble Space Telescope](https://hubblesite.org/)
+         - 
        - NEOSSat
        - WISE
        - LISA Pathfinder
@@ -812,6 +814,8 @@
      - Einstein Telescope
      - LISA(space)
      - Big Bang Observer(space)
+     - GW Documentaries
+       - [Catching Gravitational Waves - with Sheila Rowan](https://www.youtube.com/watch?v=P9k4FP_b1fo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=48)
    - [Exoplanets](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/exoplanets.md)
      - [Habitable Planets](https://www.youtube.com/playlist?list=PLIIOUpOge0LuGoV8698AWjDcMYeB9OvEf)
      - Space
@@ -856,6 +860,9 @@
      - Fast Radio Burst (FRBs)
      - Interstellar Radio Messages (IRMs)
      - [Voyager Golden Record](https://www.youtube.com/results?search_query=voyager+golden+record)
+     - Exoplanet Documentaries/Sci-Fi
+       - [Planets - The Search For A New World ](https://www.youtube.com/watch?v=byp2DkePnL8)
+       - [Searching for Life on Another Planet - with Sarah Stewart Johnson](https://www.youtube.com/watch?v=4t8CJGnViNY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=3)
    - Solar & Near-Earth
    - Microwave 
    - Infrared
@@ -863,6 +870,9 @@
    - Optical
    - Radio
    - Ultraviolet, X-ray and gamma
+     - EM wave Documentaries
+       - [RI Lecture : The Universe Beyond Visible Light - with Jen Gupta](https://www.youtube.com/watch?v=nhzU8SQTnHE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=32)
+       - [RI Lecture : The Physics and Psychology of Colour - with Andrew Hanson](https://www.youtube.com/watch?v=af78RPi6ayE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=26)
    - Cosmic Evolution
      - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
      - [Space Time!](https://www.youtube.com/playlist?list=PLsPUh22kYmNC_pRT9cKXSoWFLftC5i4S9)
@@ -871,11 +881,35 @@
      - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
      - Timeline
      - Cosmic Microwave Background(CMB)
+       - COBE
+       - LiteBIRD
+       - Planck
+       - RELIKT-1
+       - WMAP
+     - Cosmic Documentaries/Sci-Fi
+       - [RI Lecture: Cosmology: Galileo to Gravitational Waves - with Hiranya Peiris](https://www.youtube.com/watch?v=5HXOfIwl9Jo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=33) :star:
+       - [Observing the Birth of the Universe - with Lyman Page](https://www.youtube.com/watch?v=Y5rZ58Q_0zk&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=4)
+       - [Exploring Our Solar System - with Stuart Eves](https://www.youtube.com/watch?v=EL-_q8ufYO0&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=21)
+       - [RI Lecture: What Happened At The Beginning Of Time?](https://www.youtube.com/watch?v=dB7d89-YHjM)
+       - [RI Lecture: The Big Picture: From the Big Bang to the Meaning of Life](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+       - [Cosmos - Carl Sagan](https://www.youtube.com/playlist?list=PLtvRfQfTh1K8M9Jrk7LPRhvKLgvJqdNfA) :star:
+       - [Cosmos : Possible Worlds - Neil deGrasse Tyson](https://www.hotstar.com/in/tv/cosmos-possible-worlds/s-1208/seasons/season-1/ss-5068)
+       - [The Fabric of the Cosmos: The Illusion of Time - Documentary](https://www.youtube.com/watch?v=Zuedaptw73w)
+       - [Journey Through The Universe - HD Documentary](https://www.youtube.com/watch?v=mO3Q4bRQZ3k)
+       - [Science Documentary with Neil DeGrasse Tyso](https://www.youtube.com/watch?v=UFzpAh-x_IY)
+       - [The Fabric of the Cosmos: What Is Space?](https://www.youtube.com/watch?v=jy1TALSaRbw)
+       - [Cosmic Journeys - Hubble: Universe in Motion](https://www.youtube.com/watch?v=IN1KJ8LYW3U)
+       - [The Mysterious Architecture of the Universe - with J Richard Gott](https://www.youtube.com/watch?v=s9AuqxSVHUY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=39)
    - Stellar Evolution
       - White Dwarf
       - Red Dwarf
       - Neutron Star
       - Black hole
+        - [RI Lecture: The Physics of Black Holes - with Chris Impey](https://www.youtube.com/watch?v=roM1QPr8lNo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=17&t=0s)
+        - [The Largest Black Holes in the Universe](https://www.youtube.com/watch?v=xp-8HysWkxw)
+        - [The Unbelievable Scale of Black Holes Visualized](https://www.youtube.com/watch?v=NU5LHohWOs8)
+        - [Spinning Black Holes](https://www.youtube.com/watch?v=fu3645D4ZlI)
+        - [Black Holes and the Fundamental Laws of Physics - with Jerome Gauntlett](https://www.youtube.com/watch?v=laKp1XeEF74&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=36)
      
 
 
@@ -957,6 +991,8 @@
         - Infinite-Dimensional? Parallell Universes? --> Time Travel?
         - Mathematical Universe?
         - Holographic/Simulated?
+         - Multiverse Documentaries/Sci-Fi
+           - [Multiverse: One Universe or Many?](https://www.youtube.com/watch?v=aUW7patpm9s)
       - Quantum Gravity?
         - Quantum Foam
         - Thought Experiments
@@ -967,6 +1003,13 @@
         - Black Hole Information Paradox
           - Hawking radiation
             - [Holographic Universe](https://www.youtube.com/playlist?list=PLsPUh22kYmNCHVpiXDJyAcRJ8gluQtOJR)
+        - Quantum Mechanics Documentaries/Sci-Fi
+          - [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU)
+          - [How Will Quantum Technology Change Our Lives?](https://www.youtube.com/watch?v=St76QFAjwXY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=10)
+          - [What's the Real Meaning of Quantum Mechanics? - with Jim Baggott](https://www.youtube.com/watch?v=LqY3TUW7skI&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=2)
+          - [Why Space Itself May Be Quantum in Nature - with Jim Baggott](https://www.youtube.com/watch?v=dW7J49UTns8&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=19)
+          - [Why Everything You Thought You Knew About Quantum Physics is Different](https://www.youtube.com/watch?v=q7v5NtV8v6I&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=24)
+          - [Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=42)
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
@@ -1001,6 +1044,17 @@
             - [CERN Antimatter Factory](https://www.youtube.com/watch?v=nkXwO5nrimw)
        - On Moon(Future)
        - On Asteroid Belt(Future)
+       - Particle Physics Dcoumentaries/Sci-Fi
+         - [Mapping Particle Physics - with Jon Butterworth](https://www.youtube.com/watch?v=wf1W_ZfqYEs&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=31)
+         - [RI Lecture: Smashing Physics - with Jon Butterworth and Brian Cox](https://www.youtube.com/watch?v=aN4zmEY9i_U&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=60)
+         - [Upgrading the Particle Physics Toolkit: The Future Circular Collider](https://www.youtube.com/watch?v=rEuM_e4MvgE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=20)
+         - [Beyond the Higgs: What's Next for the LHC? - with Harry Cliff](https://www.youtube.com/watch?v=edvdzh9Pggg&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=34)
+         - [Building a Big Bang Machine on the Moon - with James Beacham](https://www.youtube.com/watch?v=8_zzw4tSOe8&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=28)
+         - [How Particle Accelerators Are Used to Cure Cancer](https://www.youtube.com/watch?v=8YnQkUWTS64&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=22)
+         - [The Concept of Mass - with Jim Baggott](https://www.youtube.com/watch?v=HfHjzomqbZc&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=37)
+         - [What is the Future of Particle Accelerators?](https://www.youtube.com/watch?v=YR66Z54mRaQ&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=45)
+         - [Particle Accelerators Reimagined - with Suzie Sheehy](https://www.youtube.com/watch?v=jLmciZdh5j4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=47)
+         - [How to Know a Neutrino - with Art McDonal](https://www.youtube.com/watch?v=eWc0jywR-H4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=46)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
      - [Fussion Reactors](https://www.world-nuclear.org/information-library/current-and-future-generation/nuclear-fusion-power.aspx)
        - Gravitational
@@ -1047,6 +1101,7 @@
 - [Challenging Questions](https://www.youtube.com/playlist?list=PLsPUh22kYmNDnezZ15MkicBGVDm2ypthG)
 - [Space Games (PC-VR)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space-games.md)
 - [Science Fiction Stories with Good Astronomy & Physics: A Topical Index](http://www.fraknoi.com/wp-content/uploads/2019/07/Science-Fiction-with-Good-Astronomy-PDF.pdf) :star:
+- [The Royal Institution ](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw)
 
 ----------------
 ---------------------------
