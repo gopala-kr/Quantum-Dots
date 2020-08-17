@@ -217,11 +217,22 @@
    - Holography & Simulation
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
+   - Superluminal Communication(FTL Communication)
+     - Theoretic:  tachyons, quantum nonlocality & wormholes
+     - Fictional devices
+       - Ultrawave & hyperwave
+       - Dirac communicator (Techyon)
+       - Ansible Tecnology- ISC:InterStellar Communications
+       - Entangled particles(Quantum entanglement)
+       - Sophons: "single protons that have been unfolded from eleven space dimensions to two dimensions, programmed, and then refolded."(Quantum Entanglement)
+       - Twin telepathy: revolves around wormholes for instant teleportation, faster-than-light, space-warping travel, and sometimes around quantum multiverses
+       - Hypernet : a galaxy-spanning analogue to the internet, through nanoscopic wormholes.
    - Techyons
      - [Tachyons: Faster Than Light Particles](https://www.youtube.com/watch?v=iOiEezN3ZNM)
      - [Positronic brain](https://memory-alpha.fandom.com/wiki/Positronic_brain)
      - [scienceworld.wolfram.com](https://scienceworld.wolfram.com/physics/Tachyon.html)
      - [Do they exist?](http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/tachyons.html)
+     - [Tachyons in fiction](https://en.wikipedia.org/wiki/Tachyons_in_fiction)
    - Telekinesis
      - [TelekinesisWiki](https://powerlisting.fandom.com/wiki/Telekinesis)
    - Telepathy
@@ -229,12 +240,20 @@
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
+     - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
    - Fermi paradox
      - [Fermi Paradox Explained](https://www.youtube.com/playlist?list=PLIIOUpOge0LulClL2dHXh8TTOnCgRkLdU)
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
    - [Time Travel](https://iep.utm.edu/timetrav/)
-     - [Time Travel Mythology: Mahabharata](http://the-wanderling.com/mahabharata.html)
+     - Grandfather paradox
+     - Causal loop
      - [timetravel](http://www.projectrho.com/public_html/rocket/timetravel.php)
+     - [Time Travel Mythology: Mahabharata](http://the-wanderling.com/mahabharata.html)
+     - [SW Hawking: chronology protection conjecture](https://pdfs.semanticscholar.org/347d/0220bfd18b1507008d20eaf63d89b7b47fa9.pdf)
+     - [From wormhole to time machine: Comments on Hawking's Chronology Protection Conjecture](https://arxiv.org/pdf/hep-th/9202090.pdf)
+     - [Damon Shavers: A Primer On Time Travel](https://web.archive.org/web/20041015234901/http://www.readmag.com/Columns/timetravel.htm)
+     - [Kip Thorne: Is time travel allowed?](https://plus.maths.org/content/time-travel-allowed)
+     - [Closed timelike curve](https://www.its.caltech.edu/~kip/index.html/PubScans/II-121.pdf)
      - [Mathematically Feasible But Not Possible. Yet.](https://futurism.com/new-research-shows-that-time-travel-is-mathematically-possible)
      - [Energy to Power a Time Machine?](https://futurism.com/how-much-energy-need-power-time-machine)
      - [Black holes, Wormholes and Time Travel](http://www.vega.org.uk/video/programme/61)
@@ -398,6 +417,10 @@
          - [Artificial Gravity](http://www.projectrho.com/public_html/rocket/artificialgrav.php)
          - [Habitat Module](http://www.projectrho.com/public_html/rocket/habmod.php)
      - [Worked Examples](http://www.projectrho.com/public_html/rocket/appworkedexample.php)
+       - [Sci-Fi Spaceship Names](https://web.archive.org/web/20070217091033/http://www.infoshop.org/sf/index.php/Spaceship_Names)
+       - [Starship#Fictional_examples](https://en.wikipedia.org/wiki/Starship#Fictional_examples)
+       - [Starship Size Comparison Chart 1](https://www.st-minutiae.com/resources/comparison/index.html)
+       - [Starship Size Comparison Chart 2](https://www.st-minutiae.com/resources/comparison/index.html)
      - [Spaceship Design Plans Deck](http://www.projectrho.com/public_html/rocket/deckplans.php)
        - [Control Deck](http://www.projectrho.com/public_html/rocket/controldeck.php)
        - [Engineering Deck](http://www.projectrho.com/public_html/rocket/enginedeck.php)
@@ -868,6 +891,7 @@
           - Single Molecule Interference
           - Compton scattering
         - Schrödinger's Cat & Immortality(Quantum Suicide Experiment)
+          - [Schrodinger's cat versus Darwin](https://arxiv.org/pdf/0903.5539.pdf)
       - Quantum Tunneling - FTL?
         - Heisenberg uncertainty principle
         - Diode/VLSI gates(1–3 nm)
@@ -971,6 +995,7 @@
           - [Dark Matter Detectors](https://www.interactions.org/hub/dark-matter-hub#:~:text=Experiments%20generally%20hunt%20for%20dark,there's%20little%20background%20noise%2C%20or)
             - Large Underground Xenon experiment (LUX)
             - XENON
+            - [Dark matter in fiction](https://en.wikipedia.org/wiki/Dark_matter_in_fiction)
           - Antimatter Detectors
             - Alpha Magnetic Spectrometer(AMS)
             - [CERN Antimatter Factory](https://www.youtube.com/watch?v=nkXwO5nrimw)
@@ -1018,6 +1043,9 @@
 - [Starship Congress 2017](https://www.youtube.com/playlist?list=PLoBjRizwWKoaLlGAsDMO3CqRrVGMbsr-T)
 - [Challenge Questions](https://www.youtube.com/playlist?list=PLsPUh22kYmNDnezZ15MkicBGVDm2ypthG)
 - [Space Games (PC-VR)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space-games.md)
-
+- [Science Fiction Stories with Good Astronomy & Physics:A Topical Index](http://www.fraknoi.com/wp-content/uploads/2019/07/Science-Fiction-with-Good-Astronomy-PDF.pdf) :star:
+- [Technology in science fiction](https://en.wikipedia.org/wiki/Technology_in_science_fiction)
+- [Materials science in science fiction](https://en.wikipedia.org/wiki/Materials_science_in_science_fiction)
+- [List of fictional elements, materials, isotopes and subatomic particles](https://en.wikipedia.org/wiki/List_of_fictional_elements,_materials,_isotopes_and_subatomic_particles)
 ----------------
 ---------------------------
