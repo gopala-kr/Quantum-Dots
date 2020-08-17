@@ -87,8 +87,23 @@
    - H. G. Wells
    - Carl Sagan
  ------------
+ - [Project Gutenberg: Science_Fiction Bookshelf](http://www.gutenberg.org/wiki/Science_Fiction_(Bookshelf))
+ - [Science Fiction Studies : Science Fiction History, Theory, and Criticism](https://www.depauw.edu/sfs/biblio.htm) :star:
+ - [5 Science Fiction Eras of History](https://www.youtube.com/watch?v=VNficZQdh2Q)
+ - [Why our world needs science fiction](https://www.youtube.com/watch?v=FJkixvgJqsY)
+ - [Science Fiction: Teaching Students How to Save the World](https://www.youtube.com/watch?v=9Ed8OeZcOBI)
+ - [StarTalk Podcast: Creating Science Fiction, with Gale Anne Hurd](https://www.youtube.com/watch?v=6YezXTR_5cc) :star:
+ - [The History of the Future and Why Science Fiction Matters | Brady Kruse ](https://www.youtube.com/watch?v=qEZ1ZtpDxmU)
  - [The Truth About Science Fiction (Documentary)](https://www.youtube.com/watch?v=OqFTDSsaFJE)
  - [History Lab: Fiction and the Future](https://www.sciencehistory.org/event/history-lab-fiction-and-the-future)
+ - [Using Science Fiction to Teach Science Facts](https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1262&context=etds)
+ - [Teaching Science Fiction](http://www.sfcenter.ku.edu/teaching.htm)
+ - [Science Fiction: The Evolutionary Mythology of the Future](https://www.centerforfutureconsciousness.com/pdf_files/Readings/Science-Fiction_The%20Evolutionary%20Mythology%20of%20the%20Future.pdf) :star:
+ - [SCIENCE FICTION AS A WORLDWIDE PHENOMENON:ASTUDY OF INTERNATIONAL CREATION,CONSUMPTION AND DISSEMINATIO](https://arxiv.org/ftp/arxiv/papers/1308/1308.1292.pdf)
+ - [Science Fiction and Literature ](https://shodhganga.inflibnet.ac.in/bitstream/10603/62113/7/07_chapter%20-%20i.pdf)
+ - [NCERT: On Science Fiction](https://ncert.nic.in/ncerts/l/lekl126.pdf)
+ - [https://www.esa.int/esapub/br/br205/br205.pdf](https://www.esa.int/esapub/br/br205/br205.pdf)
+ - [Science Fiction in Education: case studies from classroom implementations](https://www.researchgate.net/publication/282350899_Science_Fiction_in_Education_case_studies_from_classroom_implementations)
  ----------------
  ![rtplgwt](https://bioensci.files.wordpress.com/2013/04/rtplgwt.jpg)
  ---------------
