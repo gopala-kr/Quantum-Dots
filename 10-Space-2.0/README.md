@@ -873,6 +873,7 @@
      - EM wave Documentaries
        - [RI Lecture : The Universe Beyond Visible Light - with Jen Gupta](https://www.youtube.com/watch?v=nhzU8SQTnHE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=32)
        - [RI Lecture : The Physics and Psychology of Colour - with Andrew Hanson](https://www.youtube.com/watch?v=af78RPi6ayE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=26)
+       - [Seeing Things in a Different Light: How X-ray crystallography revealed the structure of everything](https://www.youtube.com/watch?v=gBxZVF3s4cU&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=61)
    - Cosmic Evolution
      - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
      - [Space Time!](https://www.youtube.com/playlist?list=PLsPUh22kYmNC_pRT9cKXSoWFLftC5i4S9)
@@ -891,6 +892,7 @@
        - [Observing the Birth of the Universe - with Lyman Page](https://www.youtube.com/watch?v=Y5rZ58Q_0zk&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=4)
        - [Exploring Our Solar System - with Stuart Eves](https://www.youtube.com/watch?v=EL-_q8ufYO0&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=21)
        - [RI Lecture: What Happened At The Beginning Of Time?](https://www.youtube.com/watch?v=dB7d89-YHjM)
+       - [The Story of Spacetime – with Fay Dowker](https://www.youtube.com/watch?v=XtptrdsToXU&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=50)
        - [RI Lecture: The Big Picture: From the Big Bang to the Meaning of Life](https://www.youtube.com/watch?v=2JsKwyRFiYY)
        - [Cosmos - Carl Sagan](https://www.youtube.com/playlist?list=PLtvRfQfTh1K8M9Jrk7LPRhvKLgvJqdNfA) :star:
        - [Cosmos : Possible Worlds - Neil deGrasse Tyson](https://www.hotstar.com/in/tv/cosmos-possible-worlds/s-1208/seasons/season-1/ss-5068)
@@ -900,6 +902,8 @@
        - [The Fabric of the Cosmos: What Is Space?](https://www.youtube.com/watch?v=jy1TALSaRbw)
        - [Cosmic Journeys - Hubble: Universe in Motion](https://www.youtube.com/watch?v=IN1KJ8LYW3U)
        - [The Mysterious Architecture of the Universe - with J Richard Gott](https://www.youtube.com/watch?v=s9AuqxSVHUY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=39)
+       - [Dark Matter's Not Enough - with Andrew Pontzen](https://www.youtube.com/watch?v=GFxPMMkhHuA&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=57)
+       - [Tara Shears - Antimatter: Why the anti-world matters](https://www.youtube.com/watch?v=0Fy6oiIRwJc&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=62)
    - Stellar Evolution
       - White Dwarf
       - Red Dwarf
@@ -910,6 +914,7 @@
         - [The Unbelievable Scale of Black Holes Visualized](https://www.youtube.com/watch?v=NU5LHohWOs8)
         - [Spinning Black Holes](https://www.youtube.com/watch?v=fu3645D4ZlI)
         - [Black Holes and the Fundamental Laws of Physics - with Jerome Gauntlett](https://www.youtube.com/watch?v=laKp1XeEF74&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=36)
+        - [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette](https://www.youtube.com/watch?v=_8bhtEgB8Mo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=59)
      
 
 
@@ -1010,6 +1015,9 @@
           - [Why Space Itself May Be Quantum in Nature - with Jim Baggott](https://www.youtube.com/watch?v=dW7J49UTns8&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=19)
           - [Why Everything You Thought You Knew About Quantum Physics is Different](https://www.youtube.com/watch?v=q7v5NtV8v6I&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=24)
           - [Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=42)
+          - [The Search for the Theory of Everything - with John Gribbin](https://www.youtube.com/watch?v=8V669ohFOkI&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=51)
+          - [Light and the Quantum - with Serge Haroche](https://www.youtube.com/watch?v=RM7_we-F7hQ&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=52)
+          - [Quantum Physics and Universal Beauty - with Frank Wilczek](https://www.youtube.com/watch?v=sPbwki0qpQ4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=54)
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
@@ -1072,6 +1080,8 @@
          - [Stellarator](https://www.youtube.com/watch?v=qKTePWmHRQw)
            - LHD
            - WEGA
+        - Fusion Documentaries
+          - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman](https://www.youtube.com/watch?v=zn1SJOPgewo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=49)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
        - 55 power reactors are currently being constructed in 15 countries
