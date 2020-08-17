@@ -75,7 +75,7 @@
        - Fobos-Grunt2(2024)
        - VIPER rover
      - Sci-Fi
-       - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) | 
+       - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) :star:
    - Space Colonies/Habitats
      - Aurora Station
      - Bernal sphere --> Island One(NASA)
@@ -222,10 +222,10 @@
      - Fictional devices
        - Ultrawave & hyperwave
        - Dirac communicator (Techyon)
-       - Ansible Tecnology- ISC:InterStellar Communications
+       - Ansible Technology - ISC:InterStellar Communications
        - Entangled particles(Quantum entanglement)
        - Sophons: "single protons that have been unfolded from eleven space dimensions to two dimensions, programmed, and then refolded."(Quantum Entanglement)
-       - Twin telepathy: revolves around wormholes for instant teleportation, faster-than-light, space-warping travel, and sometimes around quantum multiverses
+       - Twin telepathy: revolves around wormholes for instant teleportation, faster-than-light, space-warping travel, and sometimes around quantum multiverses.
        - Hypernet : a galaxy-spanning analogue to the internet, through nanoscopic wormholes.
    - Techyons
      - [Tachyons: Faster Than Light Particles](https://www.youtube.com/watch?v=iOiEezN3ZNM)
@@ -447,7 +447,7 @@
    - Non-Rocket Space Launch Systems
      - Skyhook, Orbital ring, Space fountain, Launch loop, StarTram
      - Space gun, Railgun, Ram accelerator, Slingatron, Spaceplanes, Balloon
-   - [Plannet Exploration Rovers Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/rovers-landers.md)
+   - [Rovers Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/rovers-landers.md)
      - [NASA Opensource Rover Design](https://opensourcerover.jpl.nasa.gov/#!/home)
      - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover)
      - [Roger-random/Sawppy_Rover](https://github.com/Roger-random/Sawppy_Rover) | [hackaday.io](https://hackaday.io/project/158208-sawppy-the-rover)
