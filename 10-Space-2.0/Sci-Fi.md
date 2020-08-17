@@ -1,5 +1,7 @@
 #### Science Fiction
 -----------------
+![Fantasy-Diagram-2](https://the-artifice.com/wp-content/uploads/2018/10/Fantasy-Diagram-2.jpg)
+-----------------
  - [Timeline of science fiction](https://en.wikipedia.org/wiki/Timeline_of_science_fiction)
  - Anthropological
  - Apocalyptic and post-apocalyptic
@@ -79,24 +81,24 @@
    - Xenoarchaeology
    
    -----------------
-   - [Arthur C. Clarke](https://www.britannica.com/biography/Arthur-C-Clarke)
-     - Interplanetary Flight: an introduction to astronautics (1950) London: Temple Press, ISBN 0-425-06448-4
-     - The Exploration of Space (1951) New York: Harper & Brothers
-     - The Exploration of the Moon (1954) with R. A. Smith, New York: Harper Brothers
-     - The Coast of Coral (1955) London: Frederick Muller
-     - Boy Beneath the Sea (1958) New York: Harper, ISBN 0060212667
-     - Voice Across the Sea (1958) New York: Harper
-     - Profiles of the Future: An Inquiry into the Limits of the Possible (1962) New York: Harper & Row
-     - The Treasure of the Great Reef (1964) with Mike Wilson, New York: Harper & Row
-     - Voices from the Sky: Previews of the Coming Space Age (1965) New York: Harper & Row
-     - The Promise of Space (1968) New York: Harper & Row
-     - The View from Serendip (1977) New York: Random House, ISBN 0-394-41796-8
-     - 1984: Spring - A Choice of Futures (1984) collected non-fiction writings, New York: Del Rey / Ballantine, ISBN 0-345-31357-7
-     - Astounding Days: A Science Fictional Autobiography (1989) London: Gollancz, ISBN 0-575-04446-2
-     - How the World Was One: Beyond the Global Village (1992) London: Gollancz, ISBN 0-575-05226-0
-     - Greetings, Carbon-Based Bipeds! : Collected Essays, 1934–1998 (1999) New York: St. Martin's Press, and London: Voyager
-   - [Isaac Asimov]()
+   - Arthur C. Clarke
+   - Isaac Asimov
    - Philip K. Dick
    - H. G. Wells
    - Carl Sagan
+ ------------
+ - [The Truth About Science Fiction (Documentary)](https://www.youtube.com/watch?v=OqFTDSsaFJE)
+ - [History Lab: Fiction and the Future](https://www.sciencehistory.org/event/history-lab-fiction-and-the-future)
+ ----------------
+ ![rtplgwt](https://bioensci.files.wordpress.com/2013/04/rtplgwt.jpg)
+ ---------------
+   ![comment_UisejFNHOXkN0ATYQow58BH21raUKIb7](https://cdn.vox-cdn.com/thumbor/DPT3trnllka3l8fkgFRf0RbFVz0=/1385x369:3272x1417/1400x1400/filters:focal(1848x801:2552x1505):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/54235177/comment_UisejFNHOXkN0ATYQow58BH21raUKIb7.1492093324.jpg)
+   -----------
+   ![science-fiction-timeline](https://vizzlo.com/gallery/timeline/example/science-fiction-timeline.png)
+   ------------
+   ![2c9b4a84d607807e5dc6f8031661a1b4](https://i.pinimg.com/originals/2c/9b/4a/2c9b4a84d607807e5dc6f8031661a1b4.png)
    -------------------------
+   ![D0khD7yWwAAviHf](https://pbs.twimg.com/media/D0khD7yWwAAviHf.jpg:large)
+   ---------
+   ![8bf1539b69d8e00636c4a37071757d0b](https://i.pinimg.com/originals/8b/f1/53/8bf1539b69d8e00636c4a37071757d0b.jpg)
+   ------------
