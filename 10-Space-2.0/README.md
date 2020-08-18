@@ -39,16 +39,16 @@
    - [Surface to Orbit Economics](http://www.projectrho.com/public_html/rocket/surfaceorbit.php)
    - [Space Station Designs](http://www.projectrho.com/public_html/rocket/spacestations.php)
    - Salyut (1971–1986) - Soviet Union
-   - Mir (20 February 1986 – 23 April 1996) - Soviet Union
+   - Mir (1986 –  1996) - Soviet Union
    - Skylab (1973 - 1979) - NASA
-   - ISS (1998-2030) - International(Canada,Japan,Russia,US & ESA(Belgium,Denmark,France,Germany,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,UK))
+   - ISS (1998 - 2030) - International(Canada,Japan,Russia,US & ESA)
    - Tiangong Program [1(2011-2018), 2(2016-2019)  & 3 (~2020–2022)] - China(CNSA)
    - Genesis I & II (2006 - 2019) - Bigelow Aerospace(Private) - US
    - Future Stations
-     - Lunar Gateway(NASA)
-     - Lunar Orbital Station(Roscosmos)
-     - Indian Space Station
-     - Skylab II (FlexCraft)
+     - Lunar Gateway(NASA) - 2024 (planned)
+     - Lunar Orbital Station(Roscosmos) - 2025(proposed)
+     - Indian Space Station(ISRO) - 2022 - Post Gaganayan Mission(2021)
+     - Skylab II (FlexCraft) (2021)
      - Commercial
        - Axiom Space
        - Bigelow Aerospace (Alpha, Bravo)
