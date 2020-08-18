@@ -38,12 +38,12 @@
  - [Space Stations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_stations.md)
    - [Surface to Orbit Economics](http://www.projectrho.com/public_html/rocket/surfaceorbit.php)
    - [Space Station Designs](http://www.projectrho.com/public_html/rocket/spacestations.php)
-   - Salyut
-   - Mir
-   - Skylab
-   - ISS
-   - Tiangong
-   - Genesis I & II
+   - Salyut (1971–1986) - Soviet Union
+   - Mir (20 February 1986 – 23 April 1996) - Soviet Union
+   - Skylab (1973 - 1979) - NASA
+   - ISS (1998-2030) - International(Canada,Japan,Russia,US & ESA(Belgium,Denmark,France,Germany,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,UK))
+   - Tiangong Program [1(2011-2018), 2(2016-2019)  & 3 (~2020–2022)] - China(CNSA)
+   - Genesis I & II (2006 - 2019) - Bigelow Aerospace(Private) - US
    - Future Stations
      - Lunar Gateway(NASA)
      - Lunar Orbital Station(Roscosmos)
@@ -480,6 +480,7 @@
      - Caplan Thruster
      - Star Wisp
      - Breakthrough Starshot(Planned 1000km/s)
+       - [The Extreme World of Ultra Intense Lasers - with Kate Lancaster](https://www.youtube.com/watch?v=hcGgaa2mFc4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=66)
      - Project Dragonfly
      - Sleeper Ships(Hibernation & Cryonic Preservation)
      - 100 Year Starship Mission
@@ -561,6 +562,7 @@
          - UAE : 1 Mission --> En route (Orbiter)
          - [India(ISRO)](https://www.isro.gov.in/pslv-c25-mars-orbiter-mission) : 1 Mission ; 1 Operational (MoM)
          - [NASA(USA)](https://mars.nasa.gov/): 29 Missions; 21 successful--> 5 operational(3 orbiters; 1 Lander; 1 Rover) ; 2 En route (2020); 6 Failures
+         - [Mars Exploration: Curiosity and Beyond - with Anita Sengupta](https://www.youtube.com/watch?v=KvFKo2ifuVU&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=65)
          - Future Missions
            - NeMO(Telecom Orbiter)- NASA --> 2020? 2022?
            - ExoMars 2022  - ESA
@@ -601,7 +603,7 @@
            - SMARA (2030)
        - Saturn Exploration
          - Flybys: Pioneer 11, Voyager 1 & 2
-         - Orbiter : Cassini–Huygens
+         - Orbiter : [Cassini](Studying Saturn: The Legacy of the Cassini Mission - with Michele Dougherty)–Huygens
          - Lander : Huygens ( on Titan)
          - Future Missions
            - Dragonfly (to Titan, 2026)
@@ -629,7 +631,7 @@
            - Apollo 8 - 1968(DEc): 3 Crews, Saturn V; 10 lunar orbits in 20 hours
            - Apollo 9 - 1969(Mar): 3 Crews, Demonstrated portable life support system
            - Apollo 10 - 1969(May): 3 Crews, first lunar landing of Lunar Module
-           - Apollo 11 - 1969(Jul): 3 Crews, 1stcrewed landing(Neil Armstrong)--> 2:31hr; Place: Sea of Tranquility
+           - Apollo 11 - 1969(Jul): 3 Crews, 1st crewed landing(Neil Armstrong)--> 2:31hr; Place: Sea of Tranquility
            - Apollo 12 - 1969(Nov): 3 Crews, 2nd Landing, Place:Ocean of Storms near Surveyor 3 --> 7:45 hr
            - Apollo 13 - 1970(Apr): 3 Crews, Failure
            - Apollo 14 - 1971(Feb): 3 Crews, 3rd Landing, Place: Fra Mauro formation(Ocean of Storms)--> 9:21 hr
@@ -756,10 +758,6 @@
      - B612 Foundation
      - Stratolaunch Systems
      - Planetary Resources
-     - Arianespace
-     - Axiom Space
-     - ARCAspace
-     - Astra
      - Bigelow Aerospace
      - Blue Origin
      - Copenhagen Suborbitals
@@ -770,6 +768,10 @@
      - Virgin Galactic
      - Virgin Orbit
      - PLD Space
+     - Arianespace
+     - Axiom Space
+     - ARCAspace
+     - Astra
      - Firefly Aerospace
      - Starchaser Industries
      - PlanetSpace-Canadian Arrow
@@ -788,14 +790,13 @@
 #### Astronomy
    - Telescopes
      - [Ground](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/telescopes.md)
-     - Space(Active & Future)
+     - Space(active & future)
        - INTEGRAL
        - Chandra X-ray Observatory
        - XMM-Newton
        - NuSTAR
        - Astrosat
        - [Hubble Space Telescope](https://hubblesite.org/)
-         - 
        - NEOSSat
        - WISE
        - LISA Pathfinder
@@ -902,8 +903,6 @@
        - [The Fabric of the Cosmos: What Is Space?](https://www.youtube.com/watch?v=jy1TALSaRbw)
        - [Cosmic Journeys - Hubble: Universe in Motion](https://www.youtube.com/watch?v=IN1KJ8LYW3U)
        - [The Mysterious Architecture of the Universe - with J Richard Gott](https://www.youtube.com/watch?v=s9AuqxSVHUY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=39)
-       - [Dark Matter's Not Enough - with Andrew Pontzen](https://www.youtube.com/watch?v=GFxPMMkhHuA&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=57)
-       - [Tara Shears - Antimatter: Why the anti-world matters](https://www.youtube.com/watch?v=0Fy6oiIRwJc&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=62)
    - Stellar Evolution
       - White Dwarf
       - Red Dwarf
@@ -915,6 +914,7 @@
         - [Spinning Black Holes](https://www.youtube.com/watch?v=fu3645D4ZlI)
         - [Black Holes and the Fundamental Laws of Physics - with Jerome Gauntlett](https://www.youtube.com/watch?v=laKp1XeEF74&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=36)
         - [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette](https://www.youtube.com/watch?v=_8bhtEgB8Mo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=59)
+        - [A Journey to the Centre of the Sun - with Lucie Green](https://www.youtube.com/watch?v=l9MS8XlP3-Y&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=43)
      
 
 
@@ -1018,6 +1018,9 @@
           - [The Search for the Theory of Everything - with John Gribbin](https://www.youtube.com/watch?v=8V669ohFOkI&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=51)
           - [Light and the Quantum - with Serge Haroche](https://www.youtube.com/watch?v=RM7_we-F7hQ&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=52)
           - [Quantum Physics and Universal Beauty - with Frank Wilczek](https://www.youtube.com/watch?v=sPbwki0qpQ4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=54)
+          - [Jim Al-Khalili - Quantum Life: How Physics Can Revolutionise Biology](https://www.youtube.com/watch?v=wwgQVZju1ZM&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=63)
+          - [An Introduction to Quantum Biology - with Philip Ball](https://www.youtube.com/watch?v=bLeEsYDlXJk&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=56)
+          - [Einstein's Greatest Mistake - with David Bodanis](https://www.youtube.com/watch?v=zpTUjb-iKf4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=44)
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
@@ -1063,6 +1066,9 @@
          - [What is the Future of Particle Accelerators?](https://www.youtube.com/watch?v=YR66Z54mRaQ&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=45)
          - [Particle Accelerators Reimagined - with Suzie Sheehy](https://www.youtube.com/watch?v=jLmciZdh5j4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=47)
          - [How to Know a Neutrino - with Art McDonal](https://www.youtube.com/watch?v=eWc0jywR-H4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=46)
+         - [Sean Carroll - The Particle at the End of the Universe](https://www.youtube.com/watch?v=RwdY7Eqyguo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=64)
+         - [Dark Matter's Not Enough - with Andrew Pontzen](https://www.youtube.com/watch?v=GFxPMMkhHuA&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=57)
+         - [Tara Shears - Antimatter: Why the anti-world matters](https://www.youtube.com/watch?v=0Fy6oiIRwJc&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=62)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
      - [Fussion Reactors](https://www.world-nuclear.org/information-library/current-and-future-generation/nuclear-fusion-power.aspx)
        - Gravitational
