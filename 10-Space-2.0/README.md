@@ -949,19 +949,27 @@
        - [RI Lecture : The Physics and Psychology of Colour - with Andrew Hanson](https://www.youtube.com/watch?v=af78RPi6ayE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=26)
        - [Seeing Things in a Different Light: How X-ray crystallography revealed the structure of everything](https://www.youtube.com/watch?v=gBxZVF3s4cU&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=61)
    - Cosmic Evolution
-     - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
-     - [Space Time!](https://www.youtube.com/playlist?list=PLsPUh22kYmNC_pRT9cKXSoWFLftC5i4S9)
-     - [Curved Spacetime in General Relativity](https://www.youtube.com/playlist?list=PLsPUh22kYmNAmjsHke4pd8S9z6m_hVRur)
-     - [The Big Bang & Cosmic Inflation](https://www.youtube.com/playlist?list=PLsPUh22kYmNCc3WCKb5yF136QSRf0xErm)
-     - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
-     - Timeline
+     - [Timeline of cosmological theories](https://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
      - Cosmic Microwave Background(CMB)
-       - COBE
+       - [Timeline of CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background#Timeline_of_prediction,_discovery_and_interpretation)
+       - Cosmic Background Explorer(COBE) - 1989-1993 - NASA
+       - BOOMERanG experiment (1999-2001) - NASA
+       - Wilkinson Microwave Anisotropy Probe (WMAP) - 2003
+         - The images can be interpreted to indicate that the universe is 13.7 billion years old (within one percent error), 
+         - and are very consistent with the Lambda-CDM model and the density fluctuations predicted by inflation.
+       - SDSS and WiggleZ9(2006-11) - baryon acoustic oscillations
        - LiteBIRD
-       - Planck
+       - Planck - 2009-2013 - ESA
        - RELIKT-1
-       - WMAP
+       - BICEP2 collaboration(2014) - detection of inflationary gravitational waves - evidence for inflationary theory
+       - LIGO & VIRGO(2016) - detection of graviational wave from merger of a pair of black holes of around 36 and 29 solar masses
+       - The Event Horizon Telescope - 2019 -image of the shadow of the black hole at the center of the M87 Galaxy
      - Cosmic Documentaries/Sci-Fi
+       - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
+       - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
+       - [Space Time!](https://www.youtube.com/playlist?list=PLsPUh22kYmNC_pRT9cKXSoWFLftC5i4S9)
+       - [Curved Spacetime in General Relativity](https://www.youtube.com/playlist?list=PLsPUh22kYmNAmjsHke4pd8S9z6m_hVRur)
+       - [The Big Bang & Cosmic Inflation](https://www.youtube.com/playlist?list=PLsPUh22kYmNCc3WCKb5yF136QSRf0xErm)
        - [RI Lecture: Cosmology: Galileo to Gravitational Waves - with Hiranya Peiris](https://www.youtube.com/watch?v=5HXOfIwl9Jo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=33) :star:
        - [Everything and Nothing: The Amazing Science of Empty Space](https://www.amazon.com/Everything-Nothing-Amazing-Science-Empty/dp/B01MY6PO1C#:~:text=Everything%20and%20Nothing%3A%20The%20Amazing%20Science%20of%20Empty%20Space,-(281)IMDb%208.6&text=This%20award%2Dwinning%20film%20takes,with%20energy%20and%20exotic%20matter.) :star:
        - [Observing the Birth of the Universe - with Lyman Page](https://www.youtube.com/watch?v=Y5rZ58Q_0zk&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=4)
