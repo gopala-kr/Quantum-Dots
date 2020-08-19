@@ -492,6 +492,7 @@
        - [Possibilities for Interstellar Travel](https://www.youtube.com/watch?v=EzZGPCyrpSU)
        - [Will Wormholes Allow Fast Interstellar Travel?](https://www.youtube.com/watch?v=ldVDM-v5uz0)
        - [Neil deGrasse Tyson on "Interstellar"](https://www.youtube.com/watch?v=l7tV7v71k-I)
+       - [Faster Than Light: the Dream of Interstellar Flight](https://www.amazon.com/Faster-Than-Light-Interstellar-Flight/dp/B078N6XJ4Q) :star:
    - Fictional
      - Time Machine
      - FTL Travel
@@ -890,6 +891,7 @@
        - WMAP
      - Cosmic Documentaries/Sci-Fi
        - [RI Lecture: Cosmology: Galileo to Gravitational Waves - with Hiranya Peiris](https://www.youtube.com/watch?v=5HXOfIwl9Jo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=33) :star:
+       - [Everything and Nothing: The Amazing Science of Empty Space](https://www.amazon.com/Everything-Nothing-Amazing-Science-Empty/dp/B01MY6PO1C#:~:text=Everything%20and%20Nothing%3A%20The%20Amazing%20Science%20of%20Empty%20Space,-(281)IMDb%208.6&text=This%20award%2Dwinning%20film%20takes,with%20energy%20and%20exotic%20matter.) :star:
        - [Observing the Birth of the Universe - with Lyman Page](https://www.youtube.com/watch?v=Y5rZ58Q_0zk&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=4)
        - [Exploring Our Solar System - with Stuart Eves](https://www.youtube.com/watch?v=EL-_q8ufYO0&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=21)
        - [RI Lecture: What Happened At The Beginning Of Time?](https://www.youtube.com/watch?v=dB7d89-YHjM)
@@ -1118,6 +1120,49 @@
 - [Space Games (PC-VR)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space-games.md)
 - [Science Fiction Stories with Good Astronomy & Physics: A Topical Index](http://www.fraknoi.com/wp-content/uploads/2019/07/Science-Fiction-with-Good-Astronomy-PDF.pdf) :star:
 - [The Royal Institution ](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw)
+
+----------------
+--------------------
+    
+         According to quantum theory, the vacuum contains neither matter nor energy, but it does contain fluctuations, transitions between something and nothing 
+         in which potential existence can be transformed into real existence by the addition of energy. (Energy and matter are equivalent since all matter 
+         ultimately consists of packets of energy.) Thus, the vacuum's totally empty space is actually a seething turmoil of creation and annihilation, of which 
+         to the ordinary world appears calm because the scale of fluctuations in the vacuum is tiny and the fluctuations tend to cancel each other out. 
+         Even though they appear calm, they are in a state of restlessness, looking for compatible matter or fluctuations. — M.W. Browne (1990)
+
+![Quantum_Fluctuations](https://upload.wikimedia.org/wikipedia/commons/2/2a/Quantum_Fluctuations.gif)
+--------
+![d89384323cb63b6b6e45f6d24330b8f6](https://i.pinimg.com/originals/d8/93/84/d89384323cb63b6b6e45f6d24330b8f6.jpg)
+---------
+![LcIGc47WV44OsACPcBGAYYCw](https://1.bp.blogspot.com/-yvHdeukCqeE/XNFOabqEPLI/AAAAAAAAAHo/AlCpY4pHhF4RzCw3UN-LcIGc47WV44OsACPcBGAYYCw/s1600/gig.gif)
+--------
+![jTtmoTiIq5zlHOcaQGqHhQ](https://blogs-images.forbes.com/startswithabang/files/2017/08/1-jTtmoTiIq5zlHOcaQGqHhQ.gif?)
+----------
+![the_history_of_the_universe](https://darkmatterdarkenergy.files.wordpress.com/2015/03/the_history_of_the_universe.jpg)
+----------
+![160616_fig1_eng](https://www.almaobservatory.org/wp-content/uploads/2017/02/160616_fig1_eng.jpg)
+---------------
+![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=2000&h=433&fit=fill)
+--------
+![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
+----------
+![internal_resources](https://exoplanets.nasa.gov/internal_resources/400/)
+---------
+![Image_Three](https://cdn.vox-cdn.com/thumbor/8QHD6h2HaUsNezdJOh7yYbwgYLE=/0x0:3256x1848/1200x0/filters:focal(0x0:3256x1848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13442526/Image_Three.png)
+--------
+![k0wNMh26t71dDlUz](https://miro.medium.com/max/970/0*k0wNMh26t71dDlUz.jpg)
+-----------
+![RwXavrfkAl6ldCRuLR9W_g](https://miro.medium.com/max/1706/1*RwXavrfkAl6ldCRuLR9W_g.jpeg)
+---------
+![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
+------------
+- [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+
+-----------------
+-------------
+![9754b341568788582e7b244779fa606f](https://i.pinimg.com/originals/97/54/b3/9754b341568788582e7b244779fa606f.jpg)
 
 ----------------
 ---------------------------
