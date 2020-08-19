@@ -32,6 +32,7 @@
  - [Satellite Constellations](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/satellite_constellation.md) 
    - [LEO Internet](https://www.newspace.im/)
    - Global/Regional Navigation
+     - [Atomic Clock](https://www.youtube.com/watch?v=LxbkyuzXst4)
  - [Space Debris](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_debris.md)
    - [Review of Active Space Debris Removal Methods](https://www.sciencedirect.com/science/article/abs/pii/S0265964618300110)
  - [Spaceports](http://www.projectrho.com/public_html/rocket/spaceport.php)
@@ -204,7 +205,7 @@
      - [Some Sketches of Dyson Spheres](http://www.aleph.se/Trans/Tech/Megascale/dyson_page.html)
      - [Fermilab Dyson Sphere search program](https://web.archive.org/web/20060306222359/http://home.fnal.gov/~carrigan/Infrared_Astronomy/Fermilab_search.htm)
      - [Dyson Sphere searches](https://home.fnal.gov/~carrigan/infrared_astronomy/Other_searches.htm)
-   - Matrioshka brain
+   - [Matrioshka brain](https://www.youtube.com/watch?v=Ef-mxjYkllw)
      - [Matrioshka Micronode](https://www.orionsarm.com/eg-article/4a48cf99d24c8)
      - [Megaminds](https://medium.com/@thebojda/megaminds-abstract-evolution-and-the-consistency-machine-d2915a719443)
    - Stellar Engine
@@ -214,6 +215,7 @@
      - [How to Move the Sun: Stellar Engines](https://www.youtube.com/watch?v=v3y8AIEX_dU) - Escape a Super Nova
      - Sci-Fi
        - [The Wandering Earth](https://www.netflix.com/watch/81067760?source=35)
+       - [Starlifting](https://www.youtube.com/watch?v=pzuHxL5FD5U)
    - Holography & Simulation
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
@@ -460,6 +462,7 @@
      - Base Station - Mobile(Ocean)/Stationary
      - Cable
        - Graphene ribbons
+         - [Nanotube Strength, Bad News for Space Elevators [2019]](https://www.youtube.com/watch?v=u7tjYISFNs4)
        - Diamond nanothreads 
      - Climbers(pods) - with 300 km/h (190 mph) - 5 days to Geosynchronous Orbit(36,000km) --> only cargo? + people?
      - Counterweight - An asteroid, a space dock, space station or spaceport
@@ -485,6 +488,7 @@
      - Sleeper Ships(Hibernation & Cryonic Preservation)
      - 100 Year Starship Mission
      - Documentaries/Sci-Fi
+       - [Interstellar Travel Challenges](https://www.youtube.com/watch?v=s6BQSgidbmc)
        - [Interstellar Flight](https://www.youtube.com/watch?v=dQdRrhDMXnY)
        - [Interstellar Highway System](https://www.youtube.com/watch?v=ZevUW__aMZE)
        - [Interstellar Travel: Approaching Light Speed](https://www.youtube.com/watch?v=c4z6RZXv5p8)
@@ -492,11 +496,19 @@
        - [Possibilities for Interstellar Travel](https://www.youtube.com/watch?v=EzZGPCyrpSU)
        - [Will Wormholes Allow Fast Interstellar Travel?](https://www.youtube.com/watch?v=ldVDM-v5uz0)
        - [Neil deGrasse Tyson on "Interstellar"](https://www.youtube.com/watch?v=l7tV7v71k-I)
+       - [Interstellar Highway System](https://www.youtube.com/watch?v=ZevUW__aMZE)
+       - [Interstellar Highways](https://www.youtube.com/watch?v=oDR4AHYRmlk)
        - [Faster Than Light: the Dream of Interstellar Flight](https://www.amazon.com/Faster-Than-Light-Interstellar-Flight/dp/B078N6XJ4Q) :star:
    - Fictional
-     - Time Machine
+     - Time Machine         
+       - [Time Displacement Equipment](https://www.youtube.com/watch?v=1XQYISuESh8)
+       - [Time Turner](https://www.youtube.com/watch?v=Mg1A7fB9nrk)
+       - [TARDIS: Time And Relative Dimension In Space](https://www.youtube.com/watch?v=oAPNb6y4cC4)
+       - [Cosmic Treadmill](https://www.youtube.com/watch?v=1Gg2cUFjWcY)
+       - [Time Jump Device](https://www.youtube.com/watch?v=cNhNxsIBxtE)
+       - [DeLorean](https://www.youtube.com/watch?v=Psxktpxkc6o)
      - FTL Travel
-       - Time Dilation
+       - [Time Dilation](https://www.youtube.com/watch?v=yuD34tEpRFw)
        - [Is FTL Travel or Communication Possible?](https://web.archive.org/web/20001121064300/http://www.public.iastate.edu/~physics/sci.physics/faq/FTL.html#1)
        - FTL Neutrino(MINOS)
        - Documentaries/Sci-Fi
@@ -517,6 +529,7 @@
          - [Fastest Spaceships In The Universe](https://www.youtube.com/watch?v=hscmjYjxiug)
          - [Speed Comparison 2 : Faster than Light](https://www.youtube.com/watch?v=F-jwrpXPBp0)
          - [How Fast Are Spaceships In 'The Expanse'?](https://www.youtube.com/watch?v=SIaGXcEnC74)
+         - [Neil deGrasse Tyson: Faster than the Speed of Light](https://www.youtube.com/watch?v=VNv0Yzk00qg)
      - Alcubierre Warp Drive
        - [Alcubierre Warp drive 2d plot in Google](https://www.google.de/search?hl=de&q=(x%2F(x%5E2%2By%5E2)%5E0.5)*((2*(1%2F(cosh(2*(x%5E2%2By%5E2)%5E0.5%2B5)%5E2))-(2*(1%2F(cosh+(2*(x%5E2%2By%5E2)%5E0.5-5))%5E2)))%2F(2*tanh(2*5)))%2C+x+is+from+-5+to+5%2C+y+is+from+-5+to+5%2C+z+is+from+-1+to+1&safe=off&cad=h)
        - [NASA: Is Warp Drive Real?](https://www.nasa.gov/centers/glenn/technology/warp/warp.html)
@@ -531,10 +544,69 @@
        - [What warp speed actually looks like with real-distance, in real-time!](https://www.youtube.com/watch?v=G-oI5Y4sAi8)
      - Artificial Black Hole
        - [Black Holes Series](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv3LmdudQ6aPFzEvJarKF2J)
+       - [Machine Creates a Super Massive Black Hole | Strip the Cosmos](https://www.youtube.com/watch?v=ZJ5joA5X65A)
+       - [What Happens If 1 mm Black Hole Appears On Earth?](https://www.youtube.com/watch?v=2G_Jqz2ctlA)
+       - [Creating artificial black holes in optical medium](https://www.youtube.com/watch?v=IcZhDyKEC9Q)
+       - [How to make a black hole | NASA's Michelle Thaller](https://www.youtube.com/watch?v=BUjBJbDJoZQ)
+       - [Could Black Holes Made of Light Power Our Spaceships?](https://www.youtube.com/watch?v=CatVxw3aEc4)
+       - [Black Hole Ships](https://www.youtube.com/watch?v=oAocMzxPjjo)
+       - [What If We Could Harness the Energy of a Black Hole?](https://www.youtube.com/watch?v=n36WoXqQbjg)
+       - [What If a Black Hole Opened at CERN?](https://www.youtube.com/watch?v=bSxJHt_TTN8)
+       - [What If the Large Hadron Collider Made a Black Hole?](https://www.youtube.com/watch?v=y7XN-8i0J6s)
+       - [Making Black Holes is HARDER than you think!](https://www.youtube.com/watch?v=bSxJHt_TTN8)
+       - [Planck Star (Black Hole) Starship](https://www.youtube.com/watch?v=D86vRmMjjzc)
+       - [Short Film: The Black Hole](https://www.youtube.com/watch?v=P5_Msrdg3Hk)
+       - [Black Hole Starships](https://www.youtube.com/watch?v=x32AkL6HPfc)
+       - [Black Hole-powered Starship](https://www.youtube.com/watch?v=A7YRiprQ8cU)
+       - [The Black Hole Bomb and Black Hole Civilizations](https://www.youtube.com/watch?v=ulCdoCfw-bY)
+       - [Colonizing Black Holes](https://www.youtube.com/watch?v=pxa0IrZCNzg)
+       - [Using Black Holes to Traverse the Universe with Dr. David Kipping](https://www.youtube.com/watch?v=uYXH4rH1SwM)
+       - [The Halo Drive](https://www.youtube.com/watch?v=rFqL9CkNxXw)
+       - [Travel INSIDE a Black Hole](https://www.youtube.com/watch?v=3pAnRKD4raY)
+       - [Do Events Inside Black Holes Happen?](https://www.youtube.com/watch?v=vNaEBbFbvcY)
      - Traversable Wormhole
-     - Antimatter(Negative Energy)
+       - [How To Make A Wormhole](https://www.youtube.com/watch?v=ZxpnW4b0fCU)
+       - [Wormholes Explained – Breaking Spacetime](https://www.youtube.com/watch?v=9P6rdqiybaw)
+       - [How Wormholes Work](https://www.youtube.com/watch?v=ZdhK3X-Ef6U)
+       - [How Scientists Created A Wormhole In A Lab](https://www.youtube.com/watch?v=_kxKTX_GH4k)
+       - [What If a Wormhole Formed in Our Solar System?](https://www.youtube.com/watch?v=UnwrooAPyo8)
+       - [Will Wormholes Allow Fast Interstellar Travel?](https://www.youtube.com/watch?v=ldVDM-v5uz0)
+       - [Interstellar Highway System](https://www.youtube.com/watch?v=ZevUW__aMZE)
+       - [Interstellar Highways](https://www.youtube.com/watch?v=oDR4AHYRmlk)
+       - [FTL04: Wormholes](https://www.youtube.com/watch?v=LNwhe_ztaGw)
+       - [Through the Wormhole with Morgan Freeman](https://www.youtube.com/watch?v=ZqSVLZKhSfQ&list=PLGMVCsud2sqU2tzV1De6z1HhZgp-fIiX1)
+       - [Will We Ever Be Able to Travel Through a Wormhole?](https://www.youtube.com/watch?v=2tRX4NU8-TM)
+       - [What Wormholes Would Actually Look Like According To Physics (VR/360)](https://www.youtube.com/watch?v=V7e-1bRpweo) :star:
+       - [Wormholes Get Weirder - Watch Other Objects Near Wormholes & Learn How](https://www.youtube.com/watch?v=PVO8nvb1o2w)
+       - [What If Black Holes Are Wormholes? ](https://www.youtube.com/watch?v=gLZYFCdexdo)
+       - [Ancient Aliens: Shocked Quartz Wormholes in Mexico (Season 10)](https://www.youtube.com/watch?v=wpOhhy9jQ04)
+       - [How Time Travel Could Be Possible With Wormholes](https://www.youtube.com/watch?v=r6Mng4FM1BA)
+       - Sci-Fi
+         - [Interstellar - Wormhole](https://www.youtube.com/watch?v=69EUgdj7lzI)
      - Tachyons
+       - [Tachyons](https://www.youtube.com/watch?v=LLrzwM9ZBew)
+       - [Tachyons: Faster Than Light Particles](https://www.youtube.com/watch?v=iOiEezN3ZNM)
+       - [Faster Than Light ep02: Tachyons and Time Travel](https://www.youtube.com/watch?v=-CgxuW203fk)
+       - [Can You Phone the Past? The Tachyonic Antitelephone](https://www.youtube.com/watch?v=4yJHZkaMVWU)
+       - [There could be particles that travel faster than the speed of light](https://www.youtube.com/watch?v=GEsTmO6HvZE)
+       - [Tachyonic Antitelephone: A Phone Call to Your Own Past | Tachyons](https://www.youtube.com/watch?v=KCoBooJtVzo)
+       - Sci-Fi
+         - [Barry gets 4x faster with the tachyon device](https://www.youtube.com/watch?v=T4S-OaBR2us)
+         - [The Flash: Where is the Tachyon Device?](https://www.youtube.com/watch?v=1RrDnff6sbA)
      - Teleportation
+       - [Teleportation: Tearing the Fabric of Spacetime](https://www.youtube.com/watch?v=rrJobgkJoJU)
+       - [Transporters and Quantum Teleportation](https://www.youtube.com/watch?v=dAaHHGHuy1c)
+       - [How to Teleport Schrödinger's Cat](https://www.youtube.com/watch?v=DxQK1WDYI_k)
+       - [What If Teleportation Was Possible?](https://www.youtube.com/watch?v=Hvqtzt8O_fw)
+       - [Neil deGrasse Tyson Explains: Teleporting Electrons](https://www.youtube.com/watch?v=514dJvwxoCA)
+       - [Why Teleportation Would Most Likely Kill You | Answers With Joe](https://www.youtube.com/watch?v=MhuGCgEHzws)
+       - [U-M takes first step towards teleportation](https://www.youtube.com/watch?v=XHjczeJIooc)
+       - [Will Teleportation Ever Be Possible?](https://www.youtube.com/watch?v=yfePpMTbFYY)
+       - [Teleportation: The Quantum Around You](https://www.youtube.com/watch?v=A12TT2Jxf8k)
+       - [REAL LIFE Cases of TELEPORTATION](https://www.youtube.com/watch?v=R6KIaLogAQI)
+       - Sci-Fi
+         - [The Transporter in Star Trek](https://www.youtube.com/watch?v=Oxh-qoLz_pM)
+         - [The Trouble with Transporters](https://www.youtube.com/watch?v=nQHBAdShgYI)
  - [Space Exploration 1.0 & 2.0](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space_exploration_1.0_%26_2.0.md)
    - [List of Solar System probes](https://en.wikipedia.org/wiki/List_of_Solar_System_probes)
    - Historical Missions
@@ -1071,6 +1143,17 @@
          - [Sean Carroll - The Particle at the End of the Universe](https://www.youtube.com/watch?v=RwdY7Eqyguo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=64)
          - [Dark Matter's Not Enough - with Andrew Pontzen](https://www.youtube.com/watch?v=GFxPMMkhHuA&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=57)
          - [Tara Shears - Antimatter: Why the anti-world matters](https://www.youtube.com/watch?v=0Fy6oiIRwJc&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=62)
+         - [What happened to antimatter? - Rolf Landua](https://www.youtube.com/watch?v=CtR5EkvLNfg)
+         - [Why antimatter matters | Professor Tara Shears](https://www.youtube.com/watch?v=AR6Ri-HN7S0)
+         - [Why is There More Matter Than Antimatter in the Universe?](https://www.youtube.com/watch?v=6ZuMjNh3WuY)
+         - [What If You Explode An Antimatter Bomb On Earth?](https://www.youtube.com/watch?v=otx3LVDysvk)
+         - [Antimatter - How it is made [2019]](https://www.youtube.com/watch?v=z7I0edsIB60)
+         - [What Is Antimatter And Why Are We Searching For It?](https://www.youtube.com/watch?v=3ZWqQciAQlU)
+         - [Where Is All The Antimatter? | Answers With Joe](https://www.youtube.com/watch?v=h1cZo80mYWA)
+         - [What Would An Antimatter Universe Look Like?](https://www.youtube.com/watch?v=LC3rrqPSEw0)
+         - [Fermilab: What is Antimatter?](https://www.youtube.com/watch?v=en2S1tBl1_s)
+         - [Antimatter Factories & Uses](https://www.youtube.com/watch?v=OeJI3LUJzlA)
+         - [The Riddle of AntiMatter](https://www.youtube.com/watch?v=Y5oNwJNdMxY)
   - [Nuclear Physics](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear-reactors.md)
      - [Fussion Reactors](https://www.world-nuclear.org/information-library/current-and-future-generation/nuclear-fusion-power.aspx)
        - Gravitational
@@ -1107,6 +1190,10 @@
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
+         - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
+         - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
+         - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
+         - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
