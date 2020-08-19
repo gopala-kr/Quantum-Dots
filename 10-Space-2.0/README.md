@@ -950,6 +950,8 @@
        - [Seeing Things in a Different Light: How X-ray crystallography revealed the structure of everything](https://www.youtube.com/watch?v=gBxZVF3s4cU&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=61)
    - Cosmic Evolution
      - [Timeline of cosmological theories](https://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
+     - [Graphical timeline of the Big Bang](https://en.wikipedia.org/wiki/Graphical_timeline_of_the_Big_Bang)
+     - [Chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
      - Cosmic Microwave Background(CMB)
        - [Timeline of CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background#Timeline_of_prediction,_discovery_and_interpretation)
        - Cosmic Background Explorer(COBE) - 1989-1993 - NASA
@@ -964,6 +966,29 @@
        - BICEP2 collaboration(2014) - detection of inflationary gravitational waves - evidence for inflationary theory
        - LIGO & VIRGO(2016) - detection of graviational wave from merger of a pair of black holes of around 36 and 29 solar masses
        - The Event Horizon Telescope - 2019 -image of the shadow of the black hole at the center of the M87 Galaxy
+     - Cosmic Components & Structures
+       - Baryonic Matter
+       - Energy
+       - Radiation
+       - Dark energy
+       - Dark matter (Cold, Warm, Hot)
+       - Dark Matter Radiation
+       - Observable Universe
+       - Galaxy Farmation
+         - Quasars
+         - Filaments
+         - Clusters
+         - Superclusters
+         - Groups
+         - Types
+           - Disc
+           - Lenticular
+           - Spiral
+           - Dwarf
+           - Elliptical
+           - Irregular
+           - Ring
+           - Peculiar
      - Cosmic Documentaries/Sci-Fi
        - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
        - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
