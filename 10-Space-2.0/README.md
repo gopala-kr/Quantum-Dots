@@ -1012,8 +1012,9 @@
           - Pulsar wind nebula
         - Gravitational collapse(Stellar Remnants)
           - White Dwarf
-          - Red Dwarf
           - Neutron Star
+            - Pulsar
+            - Magnetar
           - Black hole
             - [RI Lecture: The Physics of Black Holes - with Chris Impey](https://www.youtube.com/watch?v=roM1QPr8lNo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=17&t=0s)
             - [The Largest Black Holes in the Universe](https://www.youtube.com/watch?v=xp-8HysWkxw)
@@ -1031,6 +1032,28 @@
               - G	5,500–6,000 K	Sun
               - K	4,000–5,250 K	Epsilon Indi
               - M	2,600–3,850 K	Proxima Centauri
+          - Stellar Nucleosynthesis
+            - Hydrogen fusion:
+              - Deuterium fusion
+              - The proton–proton chain
+              - The carbon–nitrogen–oxygen cycle
+            - Helium fusion:
+              - The triple-alpha process
+              - The alpha process
+            - Fusion of heavier elements:
+              - Lithium burning: a process found most commonly in brown dwarfs
+              - Carbon-burning process
+              - Neon-burning process
+              - Oxygen-burning process
+              - Silicon-burning process
+            - Production of elements heavier than iron:
+              - Neutron capture:
+                - The r-process
+                - The s-process
+              - Proton capture:
+                - The rp-process
+                - The p-process
+              - Photodisintegration
      - Cosmic Documentaries/Sci-Fi
        - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
        - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
@@ -1295,6 +1318,28 @@
 ----------
 ![160616_fig1_eng](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/Scale.jpg?w=1600&h=500&fit=fill)
 ---------------
+![figure78](https://ned.ipac.caltech.edu/level5/Sept14/Kormendy/Figures/figure78.jpg)
+--------------
+![31407199990502880fbac9ee768064d0](https://i.pinimg.com/originals/31/40/71/31407199990502880fbac9ee768064d0.gif)
+-----
+![fonction-de-leur-masse-Credit](https://www.researchgate.net/profile/Fabien_Louvet/publication/281184909/figure/fig3/AS:614355771064326@1523485238393/Schema-empirique-des-chemins-evolutifs-des-etoiles-en-fonction-de-leur-masse-Credit.png)
+----------------
+![star](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/star.jpg?w=1600&h=500&fit=fill)
+----------------
+![SLH_STARDOME_ART_02_How_a_solar_system_is_formed_LowAndHighMassStars](https://static.sciencelearn.org.nz/images/images/000/002/755/full/SLH_STARDOME_ART_02_How_a_solar_system_is_formed_LowAndHighMassStars.jpg?1522310812)
+----------------
+![out+to+.3R+15-8+million](https://slideplayer.com/slide/8783297/26/images/4/Inner+Layers+of+the+Sun+Core%3A+out+to+.3R+15-8+million+%C2%B0K.jpg)
+------------
+![Nucleosynthesis](https://slideplayer.com/slide/3892197/13/images/23/Stellar+Nucleosynthesis.jpg)
+-------------
+![walk+form+the+core+to+the+surface+of+the+sun](https://slideplayer.com/slide/8333073/26/images/4/Random+walk+So+the+photons+take+this+random+walk+form+the+core+to+the+surface+of+the+sun..jpg)
+------------------
+![EMSPoster](https://www.sofia.usra.edu/sites/default/files/EMSPoster.jpg)
+---------------
+![Nucleosynthesis_periodic_table](https://upload.wikimedia.org/wikipedia/commons/3/31/Nucleosynthesis_periodic_table.svg)
+-----------
+![Boyce_LS_NS_PT](https://www.meta-synthesis.com/webbook/35_pt/Boyce_LS_NS_PT.jpeg)
+------------------
 ![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=433&fit=fill)
 --------
 ![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
