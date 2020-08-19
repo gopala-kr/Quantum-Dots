@@ -1140,9 +1140,9 @@
 ----------
 ![the_history_of_the_universe](https://darkmatterdarkenergy.files.wordpress.com/2015/03/the_history_of_the_universe.jpg)
 ----------
-![160616_fig1_eng](https://www.almaobservatory.org/wp-content/uploads/2017/02/160616_fig1_eng.jpg?w=1600&h=433&fit=fill)
+![160616_fig1_eng](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/Scale.jpg?w=1600&h=500&fit=fill)
 ---------------
-![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=433&fit=fill)
+![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=500&fit=fill)
 --------
 ![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
 ----------
@@ -1154,11 +1154,12 @@
 -----------
 ![RwXavrfkAl6ldCRuLR9W_g](https://miro.medium.com/max/1706/1*RwXavrfkAl6ldCRuLR9W_g.jpeg)
 ---------
+
+Logarithmic Scale:
+
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
 ------------
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-
-Logarithmic Scale:
 
 ![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
 
