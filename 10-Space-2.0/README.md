@@ -1124,13 +1124,19 @@
 ----------------
 --------------------
     
-         According to quantum theory, the vacuum contains neither matter nor energy, but it does contain fluctuations, transitions between something and nothing 
-         in which potential existence can be transformed into real existence by the addition of energy. (Energy and matter are equivalent since all matter 
-         ultimately consists of packets of energy.) Thus, the vacuum's totally empty space is actually a seething turmoil of creation and annihilation, of which 
-         to the ordinary world appears calm because the scale of fluctuations in the vacuum is tiny and the fluctuations tend to cancel each other out. 
-         Even though they appear calm, they are in a state of restlessness, looking for compatible matter or fluctuations. — M.W. Browne (1990)
+     According to quantum theory, the vacuum contains neither matter nor energy, but it does contain fluctuations, transitions between something and nothing 
+     in which potential existence can be transformed into real existence by the addition of energy. (Energy and matter are equivalent since all matter 
+     ultimately consists of packets of energy.) Thus, the vacuum's totally empty space is actually a seething turmoil of creation and annihilation, of which 
+     to the ordinary world appears calm because the scale of fluctuations in the vacuum is tiny and the fluctuations tend to cancel each other out. 
+     Even though they appear calm, they are in a state of restlessness, looking for compatible matter or fluctuations. — M.W. Browne (1990)
+     
+     Quite revealingly, the observed amplitude of the temperature anisotropies requires the quantum fluctuations in phi to have classicalized at ~3.5x10^15 GeV, 
+     consistent with the energy scale in grand unified theories.
+
+- [Quantum Fluctuations at the Planck Scale](https://arxiv.org/pdf/1905.08626.pdf), 2019.
 
 ![Quantum_Fluctuations](https://upload.wikimedia.org/wikipedia/commons/2/2a/Quantum_Fluctuations.gif)
+
 --------
 ![d89384323cb63b6b6e45f6d24330b8f6](https://i.pinimg.com/originals/d8/93/84/d89384323cb63b6b6e45f6d24330b8f6.jpg)
 ---------
@@ -1142,7 +1148,7 @@
 ----------
 ![160616_fig1_eng](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/Scale.jpg?w=1600&h=500&fit=fill)
 ---------------
-![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=500&fit=fill)
+![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=433&fit=fill)
 --------
 ![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
 ----------
