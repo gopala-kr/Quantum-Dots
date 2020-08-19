@@ -989,6 +989,48 @@
            - Irregular
            - Ring
            - Peculiar
+           - Satellite
+         - Structures
+           - Dark Matter Halo
+           - Interstellar Medium (Gas & Dust)
+           - Galactic Halo(Corona)
+           - Protogalaxy
+           - Center
+           - Plane
+           - Ridge
+           - Spiral arms
+           - Supermassive Black Hole(at the center of every galaxy)
+           - Void
+      - Stellar Evolution
+        - Nebula ( Interstellar cloud of dust, hydrogen, helium and other ionized gases)
+          - Diffuse nebulae
+          - Planetary nebulae
+          - Protoplanetary nebulae
+          - Nova/Supernova remnants
+          - Dark Nebula
+          - HII region
+          - Pulsar wind nebula
+        - Gravitational collapse(Stellar Remnants)
+          - White Dwarf
+          - Red Dwarf
+          - Neutron Star
+          - Black hole
+            - [RI Lecture: The Physics of Black Holes - with Chris Impey](https://www.youtube.com/watch?v=roM1QPr8lNo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=17&t=0s)
+            - [The Largest Black Holes in the Universe](https://www.youtube.com/watch?v=xp-8HysWkxw)
+            - [The Unbelievable Scale of Black Holes Visualized](https://www.youtube.com/watch?v=NU5LHohWOs8)
+            - [Spinning Black Holes](https://www.youtube.com/watch?v=fu3645D4ZlI)
+            - [Black Holes and the Fundamental Laws of Physics - with Jerome Gauntlett](https://www.youtube.com/watch?v=laKp1XeEF74&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=36)
+            - [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette](https://www.youtube.com/watch?v=_8bhtEgB8Mo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=59)
+            - [A Journey to the Centre of the Sun - with Lucie Green](https://www.youtube.com/watch?v=l9MS8XlP3-Y&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=43)
+          - Stellar Classification
+            - Surface Temaperature
+              - O	33,000 K or more	Zeta Ophiuchi
+              - B	10,500–30,000 K	Rigel
+              - A	7,500–10,000 K	Altair
+              - F	6,000–7,200 K	Procyon A
+              - G	5,500–6,000 K	Sun
+              - K	4,000–5,250 K	Epsilon Indi
+              - M	2,600–3,850 K	Proxima Centauri
      - Cosmic Documentaries/Sci-Fi
        - [Spacemaps](http://www.projectrho.com/public_html/rocket/spacemaps.php)
        - [The Origin of Matter and Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCLrXgf8e6nC_xEzxdx4nmY)
@@ -1010,21 +1052,6 @@
        - [The Fabric of the Cosmos: What Is Space?](https://www.youtube.com/watch?v=jy1TALSaRbw)
        - [Cosmic Journeys - Hubble: Universe in Motion](https://www.youtube.com/watch?v=IN1KJ8LYW3U)
        - [The Mysterious Architecture of the Universe - with J Richard Gott](https://www.youtube.com/watch?v=s9AuqxSVHUY&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=39)
-   - Stellar Evolution
-      - White Dwarf
-      - Red Dwarf
-      - Neutron Star
-      - Black hole
-        - [RI Lecture: The Physics of Black Holes - with Chris Impey](https://www.youtube.com/watch?v=roM1QPr8lNo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=17&t=0s)
-        - [The Largest Black Holes in the Universe](https://www.youtube.com/watch?v=xp-8HysWkxw)
-        - [The Unbelievable Scale of Black Holes Visualized](https://www.youtube.com/watch?v=NU5LHohWOs8)
-        - [Spinning Black Holes](https://www.youtube.com/watch?v=fu3645D4ZlI)
-        - [Black Holes and the Fundamental Laws of Physics - with Jerome Gauntlett](https://www.youtube.com/watch?v=laKp1XeEF74&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=36)
-        - [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette](https://www.youtube.com/watch?v=_8bhtEgB8Mo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=59)
-        - [A Journey to the Centre of the Sun - with Lucie Green](https://www.youtube.com/watch?v=l9MS8XlP3-Y&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=43)
-     
-
-
 ----------------
 
 #### Applied Physics
