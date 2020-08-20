@@ -1341,6 +1341,14 @@
 ![walk+form+the+core+to+the+surface+of+the+sun](https://slideplayer.com/slide/8333073/26/images/4/Random+walk+So+the+photons+take+this+random+walk+form+the+core+to+the+surface+of+the+sun..jpg?w=1600&h=500&fit=fill)
 ------------------
 ![EMSPoster](https://www.sofia.usra.edu/sites/default/files/EMSPoster.jpg?w=1600&h=500&fit=fill)
+---------
+![7934370_orig](https://stopocsmartmeters.com/uploads/3/5/4/6/35461952/7934370_orig.jpg)
+--------
+![Light source](https://www.hamamatsu.com/sp/hc/resources/img00_en_00B.jpg)
+------
+![electronics & phtonics](https://aer.nict.go.jp/people/img/irimajiri/people_irimajiri_z01_en.png)
+------
+![Chart of electromagnetc spectrum](https://ssl.c.photoshelter.com/img-get/I0000QtK4N6KeqQs/s/1200/I0000QtK4N6KeqQs.jpg)
 -------
 ![Introduction_0](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/440/2019/03/08161306/EMS-Introduction_0-1024x668.jpeg)
 ---------
