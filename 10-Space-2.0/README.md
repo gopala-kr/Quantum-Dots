@@ -1468,6 +1468,8 @@ Logarithmic Scale:
 ![11049](http://www.infohow.org/wp-content/uploads/2012/11/Space-Missions.jpg)
 -------------
 ![2C_active_space_probes_2019](https://upload.wikimedia.org/wikipedia/commons/6/62/What%27s_Up_in_the_Solar_System%2C_active_space_probes_2019-07.png)
+--------
+![10742](https://www.jpl.nasa.gov/infographics/uploads/infographics/full/10742.jpg)
 ---------
 ![Timeline_of_Solar_System_exploration](https://upload.wikimedia.org/wikipedia/commons/6/6b/Timeline_of_Solar_System_exploration.jpg)
 ----------
