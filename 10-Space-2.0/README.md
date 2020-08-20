@@ -193,9 +193,9 @@
        - [How to they look?](http://www.projectrho.com/public_html/rocket/alienbody.php)
      - [Alien Contact](http://www.projectrho.com/public_html/rocket/aliencontact.php)
    - Kardashev Scale
-     - Type I civilization - Planetary
-     - Type II civilization - Stellar
-     - Type III civilization - Galactic
+     - Type I civilization - Planetary - 10^16 Watts
+     - Type II civilization - Stellar- 10^26 Watts
+     - Type III civilization - Galactic- 10^36 Watts
      - Type IV/Ω civilization - Universal
    - [Dyson Sphere's](http://wiki.c2.com/?DysonSphere)
      - [Toruses and Dyson Swarms Simulation](http://burtleburtle.net/bob/scifi/dyson.html)
@@ -1466,6 +1466,8 @@ Logarithmic Scale:
 ![20770](https://cdn.statcdn.com/Infographic/images/normal/20770.jpeg)
 --------
 ![11049](http://www.infohow.org/wp-content/uploads/2012/11/Space-Missions.jpg)
+-------------
+![2C_active_space_probes_2019](https://upload.wikimedia.org/wikipedia/commons/6/62/What%27s_Up_in_the_Solar_System%2C_active_space_probes_2019-07.png)
 ---------
 ![Timeline_of_Solar_System_exploration](https://upload.wikimedia.org/wikipedia/commons/6/6b/Timeline_of_Solar_System_exploration.jpg)
 ----------
