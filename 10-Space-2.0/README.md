@@ -307,12 +307,12 @@
        - [Man Aplifiers & Robots](http://www.projectrho.com/public_html/rocket/manamplifier.php)
        - [Roving Vehicles & Flitters](http://www.projectrho.com/public_html/rocket/flitters.php)
      - Crewed Spacecrafts (Active & In-dev)
-       - Soyuz
-       - Shenzhou
-       - Crew Dragon
-       - Starliner
-       - New Shepard
-       - SpaceShipTwo
+       - Soyuz - (1967 - Present) - Soviet & Roscosmos
+       - Shenzhou (1999 - Present) - CNSA
+       - Crew Dragon - (2010 - Present) - SpaceX
+       - Starliner - (2019 - Present) - Boeing
+       - New Shepard - (2015 - Present) - Blue Origin
+       - SpaceShipTwo - (2010 - Present) - Virgin Galactic
        - Gaganyaan
        - Orion
        - Starship
