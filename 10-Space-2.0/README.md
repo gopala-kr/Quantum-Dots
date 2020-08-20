@@ -1386,6 +1386,12 @@ Milkyway Center.. Sagitarious A* Supermassive Block Hole
 ![size_restricted](https://thumbs.gfycat.com/NaturalHollowBluejay-size_restricted.gif)
 --------
 ![spacetime-frame-dragging](https://cerebrovortex.files.wordpress.com/2013/07/spacetime-frame-dragging.jpg)
+--------------
+![solar system gravivty well](https://qph.fs.quoracdn.net/main-qimg-5396aafaa2b34300573ba0e85dfcb724)
+----------
+![Elliptical](https://lh3.googleusercontent.com/proxy/Y9Bc5V3xRaSF2dfFIVHpWSYbpNZYDSSll1DWjIJqWlFik0wxj5rZnz1u099w5bv1zZ2Lhk4yd2dC0JDBnL_AkUE4L1cwr--wMQntaiIopFFHtNjepdO3kpeYrvYkWSDG)
+--------------
+![4dd8869104f7a50c714f5450a776b06b](https://qph.fs.quoracdn.net/main-qimg-4dd8869104f7a50c714f5450a776b06b)
 ---------
 ![BH_1300lede](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_1300lede.gif)
 -------
@@ -1429,6 +1435,9 @@ Logarithmic Scale:
 - [https://theskylive.com/3dsolarsystem](https://theskylive.com/3dsolarsystem)
 
 ![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+
+-------------
+![DtvQVz4WsAIL-0n](https://pbs.twimg.com/media/DtvQVz4WsAIL-0n.jpg)
 --------
 --------
 ![Orbitalaltitudes](https://upload.wikimedia.org/wikipedia/commons/8/82/Orbitalaltitudes.jpg)
