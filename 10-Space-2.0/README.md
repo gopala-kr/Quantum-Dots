@@ -1334,6 +1334,8 @@
 ----------------
 ![SLH_STARDOME_ART_02_How_a_solar_system_is_formed_LowAndHighMassStars](https://static.sciencelearn.org.nz/images/images/000/002/755/full/SLH_STARDOME_ART_02_How_a_solar_system_is_formed_LowAndHighMassStars.jpg?w=1600&h=500&fit=fill)
 ----------------
+![Nucleosynthesis Flowchart](https://images.slideplayer.com/8/2429726/slides/slide_1.jpg)
+----------------
 ![out+to+.3R+15-8+million](https://slideplayer.com/slide/8783297/26/images/4/Inner+Layers+of+the+Sun+Core%3A+out+to+.3R+15-8+million+%C2%B0K.jpg?w=1600&h=500&fit=fill)
 ------------
 ![Nucleosynthesis](https://slideplayer.com/slide/3892197/13/images/23/Stellar+Nucleosynthesis.jpg?w=1600&h=500&fit=fill)
