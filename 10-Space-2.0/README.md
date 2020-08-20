@@ -503,6 +503,11 @@
        - [Could We Really Sleep in Space for Years?](https://www.youtube.com/watch?v=ijdcKxVoX9c)
        - [Sci-Fi Short Film “Hibernation" ](https://www.youtube.com/watch?v=V-r6MuIRaI4)
      - 100 Year Starship Mission
+       - [100 Year Starship (SETICon 2 presentations)](https://www.youtube.com/watch?v=6M965JQjuQA)
+       - [100 YEAR STARSHIP (100YSS)](https://www.youtube.com/watch?v=LDDRnrun2Ik)
+       - [100 year starship](https://www.youtube.com/playlist?list=PL5DmtYDzfmktuAP6YbNLfld60_4Bqpeql)
+       - [The People of NewSpace: Mae Jemison, MD - The 100 Year Starship Project.](https://www.youtube.com/watch?v=333ucCC3SUw)
+       - [DARPA-NASA One Hundred Year Starship Study](https://www.youtube.com/watch?v=1VvWNV6W89M)
      - Documentaries/Sci-Fi
        - [Interstellar Travel Challenges](https://www.youtube.com/watch?v=s6BQSgidbmc)
        - [Interstellar Flight](https://www.youtube.com/watch?v=dQdRrhDMXnY)
