@@ -1290,7 +1290,7 @@
 - [Space Games (PC-VR)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/space-games.md)
 - [Science Fiction Stories with Good Astronomy & Physics: A Topical Index](http://www.fraknoi.com/wp-content/uploads/2019/07/Science-Fiction-with-Good-Astronomy-PDF.pdf) :star:
 - [The Royal Institution ](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw)
-
+- [http://universe-review.ca/](http://universe-review.ca/)
 ----------------
 --------------------
     
@@ -1309,15 +1309,19 @@
 
 --------
 ![d89384323cb63b6b6e45f6d24330b8f6](https://i.pinimg.com/originals/d8/93/84/d89384323cb63b6b6e45f6d24330b8f6.jpg)
--------
-![AT_7e_Figure_27_04](https://pages.uoregon.edu/jimbrau/BrauImNew/Chap27/7th/AT_7e_Figure_27_04.jpg)
 ---------
 ![LcIGc47WV44OsACPcBGAYYCw](https://1.bp.blogspot.com/-yvHdeukCqeE/XNFOabqEPLI/AAAAAAAAAHo/AlCpY4pHhF4RzCw3UN-LcIGc47WV44OsACPcBGAYYCw/s1600/gig.gif)
 --------
 ![jTtmoTiIq5zlHOcaQGqHhQ](https://blogs-images.forbes.com/startswithabang/files/2017/08/1-jTtmoTiIq5zlHOcaQGqHhQ.gif?)
 ----------
+![773792dda5b7320061187fc942a101b2](https://i.pinimg.com/originals/77/37/92/773792dda5b7320061187fc942a101b2.jpg)
+------------
 ![AT_7e_Figure_27_04](https://pages.uoregon.edu/jimbrau/BrauImNew/Chap27/7th/AT_7e_Figure_27_04.jpg)
 ---------
+![Universe](https://slideplayer.com/slide/6866818/23/images/20/Timeline+of+the+Universe+2.jpg)
+----------
+![IHO8sJ5m11GyN7P2](https://miro.medium.com/max/1050/0*IHO8sJ5m11GyN7P2.jpg)
+--------
 ![the_history_of_the_universe](https://darkmatterdarkenergy.files.wordpress.com/2015/03/the_history_of_the_universe.jpg)
 ----------
 ![160616_fig1_eng](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/ad/Scale.jpg?w=1600&h=500&fit=fill)
