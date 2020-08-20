@@ -483,8 +483,15 @@
      - Caplan Thruster
      - Star Wisp
      - Breakthrough Starshot(Planned 1000km/s)
+       - [Breakthrough Starshot Animation (Full)](https://www.youtube.com/watch?v=xRFXV4Z6x8s)
+       - [What is Breakthrough Starshot?](https://www.youtube.com/watch?v=WjP40_TPtO0)
        - [The Extreme World of Ultra Intense Lasers - with Kate Lancaster](https://www.youtube.com/watch?v=hcGgaa2mFc4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=66)
+       - [How Will We Get to Alpha Centauri?](https://www.youtube.com/watch?v=9sGI6UkXShQ)
+       - [NASA solution for Stephen Hawking's Breakthrough StarShot](https://www.youtube.com/watch?v=4ixojIvymxM)
+       - [Breakthrough Starshot Mission](https://www.youtube.com/watch?v=rWxvrMLshPU)
+       - [Starshot, the first interstellar probe](https://www.youtube.com/watch?v=oL_M7z7ypeA)
      - Project Dragonfly
+       - [Project Dragonfly. A Laser-Powered Probe to Alpha Centauri](https://www.youtube.com/watch?v=598UtgxFd1E)
      - Sleeper Ships(Hibernation & Cryonic Preservation)
      - 100 Year Starship Mission
      - Documentaries/Sci-Fi
