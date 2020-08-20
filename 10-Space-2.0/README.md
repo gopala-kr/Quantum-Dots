@@ -1364,6 +1364,12 @@
 -----------
 ![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=1600&h=433&fit=fill)
 --------
+![cosmos15_06](https://absolutezeroastronomy.files.wordpress.com/2014/10/cosmos15_06.jpg)
+-----------
+![Earths_Location_in_the_Universe_SMALLER_JPEG](https://wp-assets.futurism.com/2013/04/1920px-Earths_Location_in_the_Universe_SMALLER_JPEG.jpg)
+----------
+![A_b](https://o.quizlet.com/NUhJWKqq3EXfHKgfs1kU-A_b.png)
+------------
 ![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
 ----------
 ![internal_resources](https://exoplanets.nasa.gov/internal_resources/400/)
@@ -1380,6 +1386,11 @@ Logarithmic Scale:
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
 ------------
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- [earth-3d-model](https://solarsystem.nasa.gov/resources/2393/earth-3d-model/)
+- [http://universesandbox.com/vr/](http://universesandbox.com/vr/)
+- [https://solarstory.net/3d-simulation/](https://solarstory.net/3d-simulation/)
+- [http://spaceengine.org/](http://spaceengine.org/)
+- [https://theskylive.com/3dsolarsystem](https://theskylive.com/3dsolarsystem)
 
 ![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
 --------
