@@ -1385,10 +1385,19 @@ Milkyway Center.. Sagitarious A* Supermassive Block Hole
 ---------
 ![size_restricted](https://thumbs.gfycat.com/NaturalHollowBluejay-size_restricted.gif)
 --------
-![BH_1300lede](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_1300lede.gif)
+![spacetime-frame-dragging](https://cerebrovortex.files.wordpress.com/2013/07/spacetime-frame-dragging.jpg)
 ---------
+![BH_1300lede](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_1300lede.gif)
+-------
+![SingularityProof_Lede1300](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/12/SingularityProof_Lede1300.gif)
+------------------------
+![XnjD](https://i.gifer.com/XnjD.gif)
+--------
+![bh_accretiondisk_sim_stationary_websize](https://www.nasa.gov/sites/default/files/thumbnails/image/bh_accretiondisk_sim_stationary_websize.gif)
+-------------
 ![smush_1024](https://www.sciencealert.com/images/2019-05/black-hole-smush_1024.gif)
 -------------
+--------------
 ![Earths_Location_in_the_Universe_SMALLER_JPEG](https://wp-assets.futurism.com/2013/04/1920px-Earths_Location_in_the_Universe_SMALLER_JPEG.jpg)
 ----------
 ![A_b](https://o.quizlet.com/NUhJWKqq3EXfHKgfs1kU-A_b.png)
@@ -1407,6 +1416,14 @@ Milkyway Center.. Sagitarious A* Supermassive Block Hole
 Logarithmic Scale:
 
 ![28horizontal_layout_english_annotations](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png/1920px-Observable_Universe_Logarithmic_Map_%28horizontal_layout_english_annotations%29.png)
+--------
+![fullsizeoutput_25ff](https://images.squarespace-cdn.com/content/v1/520b815ae4b004c7f377f9a6/1514822146066-DB01ZHSIYIE1ZW2G3CRP/ke17ZwdGBToddI8pDm48kMqlcOFduyt02mmMLXt_HyZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UX2Wd0nBNzMlRzo61AUSKJ542rZ2C9yXrslNTeDKM2mtXejQve6EWhtsEXNp5cp4uw/fullsizeoutput_25ff.jpeg)
+--------
+![3ea84401d353d31a77bc877e6b9f9ae6](https://qph.fs.quoracdn.net/main-qimg-3ea84401d353d31a77bc877e6b9f9ae6)
+-----------
+![Particle_overview](https://hackaday.com/wp-content/uploads/2020/04/Particle_overview-themed-1.png)
+
+--------------------
 ------------
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - [earth-3d-model](https://solarsystem.nasa.gov/resources/2393/earth-3d-model/)
