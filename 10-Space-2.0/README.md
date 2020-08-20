@@ -1393,7 +1393,7 @@ Milkyway Center.. Sagitarious A* Supermassive Block Hole
 --------------
 ![4dd8869104f7a50c714f5450a776b06b](https://qph.fs.quoracdn.net/main-qimg-4dd8869104f7a50c714f5450a776b06b)
 ---------
-![BH_1300lede](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_1300lede.gif)
+![BH Gravity well](https://images.slideplayer.com/25/7753102/slides/slide_14.jpg)
 -------
 ![tidaldisruptions_a_1440x810](https://sonalimohapatra.files.wordpress.com/2019/02/tidaldisruptions_a_1440x810.gif)
 -------------
@@ -1522,8 +1522,6 @@ Logarithmic Scale:
 ![57f0381a9c3db9c18a82b4e110c8b019083b7410](https://preview.redd.it/or2k8kcx3w641.jpg?auto=webp&s=57f0381a9c3db9c18a82b4e110c8b019083b7410)
 ------
 ![Sto_temporalsummary](https://gamepedia.cursecdn.com/sto_gamepedia/thumb/b/b8/Sto_temporalsummary.jpg/1200px-Sto_temporalsummary.jpg)
-------------
---------------
-![the-gravity-well](https://imgix.bustle.com/inverse/11/ec/d7/46/269c/4e91/a119/555081e0d991/the-gravity-well.jpeg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg)
+
 ----------------
 ---------------------------
