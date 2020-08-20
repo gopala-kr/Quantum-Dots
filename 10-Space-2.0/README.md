@@ -313,9 +313,9 @@
        - Starliner - (2019 - Present) - Boeing
        - New Shepard - (2015 - Present) - Blue Origin
        - SpaceShipTwo - (2010 - Present) - Virgin Galactic
-       - Gaganyaan
-       - Orion
-       - Starship
+       - Gaganyaan - (2020-21) - ISRO
+       - Orion - (2019 - present - NASA
+       - Starship (2019-2020) - SpaceX
      - Manufacturing Companies
      - Comparision
    - Avionics, Guidance, Navigation & Control
