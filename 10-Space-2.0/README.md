@@ -493,6 +493,15 @@
      - Project Dragonfly
        - [Project Dragonfly. A Laser-Powered Probe to Alpha Centauri](https://www.youtube.com/watch?v=598UtgxFd1E)
      - Sleeper Ships(Hibernation & Cryonic Preservation)
+       - [Sleeper Ships](https://www.youtube.com/watch?v=fM-JHvg-ZCM)
+       - [Generation Ships](https://www.youtube.com/watch?v=H2f0Wd3zNj0)
+       - [Living on a Generation Ship](https://www.youtube.com/watch?v=o8tOaGsW1l8)
+       - [The Million Year Ark](https://www.youtube.com/watch?v=25ODAzr6Bbw)
+       - [Could Humans Hibernate for Space Travel? ](https://www.youtube.com/watch?v=aGSMEhKPIeo)
+       - [Is Human Hibernation Possible? Going to Sleep for Long Duration Spaceflight](https://www.youtube.com/watch?v=VfmOnqh9vyA)
+       - [NASA’s Cryosleep Chamber Could Help You Snooze Your Way to Mars](https://www.youtube.com/watch?v=wj0KM_j0TLY)
+       - [Could We Really Sleep in Space for Years?](https://www.youtube.com/watch?v=ijdcKxVoX9c)
+       - [Sci-Fi Short Film “Hibernation" ](https://www.youtube.com/watch?v=V-r6MuIRaI4)
      - 100 Year Starship Mission
      - Documentaries/Sci-Fi
        - [Interstellar Travel Challenges](https://www.youtube.com/watch?v=s6BQSgidbmc)
