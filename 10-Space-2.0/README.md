@@ -479,8 +479,16 @@
        - Spaceline(2019) - [arxiv](https://arxiv.org/pdf/1908.09339.pdf)
    - Intersteller Travel
      - Ramjet
+       - [Interstellar Ramjet Laser Revisited: Bussard and Augmented](https://www.youtube.com/watch?v=AFn_fDPHcM0)
+       - [Bussard Ramjet Space Ship](https://www.youtube.com/watch?v=RQjq5E8RWkg)
      - Magnetic/Light Sail
-     - Caplan Thruster
+       - [Missions Enabled by Plasma Magnet Sails](https://www.youtube.com/watch?v=0vVOtrAnIxM)
+       - [Magnetic sails may be the key to interstellar spacecraft](https://www.youtube.com/watch?v=48ZVOEFlXtA)
+     - Caplan/Shkadov Thruster
+       - [How to Move the Sun: Stellar Engines](https://www.youtube.com/watch?v=v3y8AIEX_dU)
+       - [Use Stellar Engines To Move The Sun And Stars!](https://www.youtube.com/watch?v=P6skjmIMqaE)
+       - [What If We Moved the Solar System?](https://www.youtube.com/watch?v=ycwuFmskijM)
+       - [Megastructures 08: Shkadov Thrusters](https://www.youtube.com/watch?v=_VetAm7fCS0)
      - Star Wisp
      - Breakthrough Starshot(Planned 1000km/s)
        - [Breakthrough Starshot Animation (Full)](https://www.youtube.com/watch?v=xRFXV4Z6x8s)
