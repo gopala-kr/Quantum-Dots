@@ -3,6 +3,10 @@
 --------------------------
 ------------------------------
 
+##### Why Space?
+
+---------------
+
 ![Pale_Blue_Dot](https://i.redd.it/pj70nu808l921.jpg)
 
 ---------------------
@@ -86,9 +90,11 @@
          
 -----------------------------
 
-         - “You have to know the past to understand the present.” ― Carl Sagan
+      - “You have to know the past to understand the present.” ― Carl Sagan
          
-         - “The farther backward you can look, the farther forward you are likely to see.” ― Winston S. Churchill
+      - “The farther backward you can look, the farther forward you are likely to see.” ― Winston S. Churchill
+      
+      - "The first step is to establish that something is possible; then probability will occur." - Elon Musk
          
 ----------------------------------------
 
@@ -125,14 +131,14 @@
      - I believe that space travel will one day become as common as airline travel is today. I'm convinced, however, that the true future 
        of space travel does not lie with government agencies -- NASA is still obsessed with the idea that the primary purpose of the space 
        program is science -- but real progress will come from private companies competing to provide the ultimate adventure ride, and NASA 
-        will receive the trickle-down benefits. - BUZZ ALDRIN (Book: Magnificent Desolation)
+       will receive the trickle-down benefits. - BUZZ ALDRIN (Book: Magnificent Desolation)
            
 -------------------------------
 
       - "There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose. 
-         We do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets 
-         or manned space-flight. " "But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, 
-         we must be second to none in the application of advanced technologies to the real problems of man and society." - Dr. Vikram Sarabhai
+        We do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets 
+        or manned space-flight. " "But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, 
+        we must be second to none in the application of advanced technologies to the real problems of man and society." - Dr. Vikram Sarabhai
 
       - Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever. - RAY BRADBURY  
           
@@ -172,8 +178,8 @@
        how the aliens would know in advance what terrestrial life uses.” ― Paul Davies
 
      - “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations 
-        would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t 
-        eat our plants and animals.” ― Paul Davies
+       would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t 
+       eat our plants and animals.” ― Paul Davies
 
      - “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a 
        transitory phenomenon, a fleeting phase in the evolution of intelligence in the universe. If we ever encounter extraterrestrial 
