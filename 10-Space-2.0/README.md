@@ -3,96 +3,97 @@
 --------------------------
 ------------------------------
 
-![Pale_Blue_Dot](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
+![Pale_Blue_Dot](https://i.redd.it/pj70nu808l921.jpg)
 
 ---------------------
 
-         "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard 
-         of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, 
-         ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, 
-         every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of 
-         morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived 
-         there--on a mote of dust suspended in a sunbeam.
+     "Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you 
+     ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands 
+     of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator 
+     and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, 
+     inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every 
+     saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam.
 
-         The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, 
-         in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants 
-         of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager 
-         they are to kill one another, how fervent their hatreds.
+     The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and 
+     emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless
+     cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other 
+     corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
 
-         Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of 
-         pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will 
-         come from elsewhere to save us from ourselves.
+     Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are 
+     challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, 
+     in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
 
-         The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. 
-         Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+     The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our 
+     species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
 
-         It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits 
-         than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the 
-         pale blue dot, the only home we've ever known."
+     It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of 
+     the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more 
+     kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known."
 
            -- Carl Sagan, Pale Blue Dot, 1994
          
-         - “Not explaining science seems to me perverse. When you're in love, you want to tell the world.” ― Carl Sagan
+     - “Not explaining science seems to me perverse. When you're in love, you want to tell the world.” ― Carl Sagan
          
-         - For small creatures such as we the vastness is bearable only through love. -- Carl Sagan
+     - For small creatures such as we the vastness is bearable only through love. -- Carl Sagan
          
-         - “Every one of us is, in the cosmic perspective, "precious". If a human disagrees with you, let him/her live. 
-            In a hundred billion galaxies, you will not find another.” ― Carl Sagan, Cosmos
+     - “Every one of us is, in the cosmic perspective, "precious". If a human disagrees with you, let him/her live. 
+       In a hundred billion galaxies, you will not find another.” ― Carl Sagan, Cosmos
          
-         - “A blade of grass is a commonplace on Earth; it would be a miracle on Mars. Our descendants on Mars will know the value of a 
-            patch of green. And if a blade of grass is priceless, what is the value of a human being?” ― Carl Sagan
+     - “A blade of grass is a commonplace on Earth; it would be a miracle on Mars. Our descendants on Mars will know the value of a 
+       patch of green. And if a blade of grass is priceless, what is the value of a human being?” ― Carl Sagan
             
-         - “It's hard to kill a creature once it lets you see its consciousness.” ― Carl Sagan
+     - “It's hard to kill a creature once it lets you see its consciousness.” ― Carl Sagan
          
-         - The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. 
-           We're made of star stuff. We are a way for the cosmos to know itself. -- Carl Sagan
+     - The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. 
+       We're made of star stuff. We are a way for the cosmos to know itself. -- Carl Sagan
          
-         - “We are star stuff harvesting sunlight.” ― Carl Sagan
+     - “We are star stuff harvesting sunlight.” ― Carl Sagan
          
-         - “What a marvelous cooperative arrangement - plants and animals each inhaling each other's exhalations, a kind of planet-wide mutual mouth-to-stoma 
-           resuscitation, the entire elegant cycle powered by a star 150 million kilometers away.” ― Carl Sagan
+     - “What a marvelous cooperative arrangement - plants and animals each inhaling each other's exhalations, a kind of planet-wide mutual mouth-to-stoma 
+       resuscitation, the entire elegant cycle powered by a star 150 million kilometers away.” ― Carl Sagan
            
-         - “The beauty of a living thing is not the atoms that go into it, but the way those atoms are put together.” ― Carl Sagan, Cosmos
+     - “The beauty of a living thing is not the atoms that go into it, but the way those atoms are put together.” ― Carl Sagan, Cosmos
 
-         - If you want to make an apple pie from scratch, you must first create the universe -- Carl Sagan
+     - If you want to make an apple pie from scratch, you must first create the universe -- Carl Sagan
          
-         - Imagine we could accelerate continuously at 1 g -- what we're comfortable with on good old terra firma -- to the midpoint of our voyage, 
-           and decelerate continuously at 1 g until we arrive at our destination. It would take a day to get to Mars, a week and a half to Pluto, 
-           a year to the Oort Cloud, and a few years to the nearest stars. -- Carl Sagan
+     - Imagine we could accelerate continuously at 1 g -- what we're comfortable with on good old terra firma -- to the midpoint of our voyage, 
+       and decelerate continuously at 1 g until we arrive at our destination. It would take a day to get to Mars, a week and a half to Pluto, 
+       a year to the Oort Cloud, and a few years to the nearest stars. -- Carl Sagan
            
-         - Imagination will often carry us to worlds that never were. But without it we go nowhere. -- Carl Sagan 
+     - Imagination will often carry us to worlds that never were. But without it we go nowhere. -- Carl Sagan 
          
-         - “The cure for a fallacious argument is a better argument, not the suppression of ideas.” ― Carl Sagan
+     - “The cure for a fallacious argument is a better argument, not the suppression of ideas.” ― Carl Sagan
            
-         - “The Hindu religion is the only one of the world’s great faiths dedicated to the idea that the Cosmos itself undergoes an immense, indeed an 
-           infinite, number of deaths and rebirths. It is the only religion in which the time scales correspond to those of modern scientific cosmology. 
-           Its cycles run from our ordinary day and night to a day and night of Brahma, 8.64 billion years long. Longer than the age of the Earth or the 
-           Sun and about half the time since the Big Bang.” ― Carl Sagan, Cosmos
+     - “The Hindu religion is the only one of the world’s great faiths dedicated to the idea that the Cosmos itself undergoes an immense, indeed an 
+       infinite, number of deaths and rebirths. It is the only religion in which the time scales correspond to those of modern scientific cosmology. 
+       Its cycles run from our ordinary day and night to a day and night of Brahma, 8.64 billion years long. Longer than the age of the Earth or the 
+       Sun and about half the time since the Big Bang.” ― Carl Sagan, Cosmos
            
-         - If by 'God,' one means the set of physical laws that govern the universe, then clearly there is such a God. This God is emotionally unsatisfying... 
-           it does not make much sense to pray to the law of gravity. ― Carl Sagan
+     - If by 'God,' one means the set of physical laws that govern the universe, then clearly there is such a God. This God is emotionally unsatisfying... 
+       it does not make much sense to pray to the law of gravity. ― Carl Sagan
            
-         - I don't want to believe, I want to know ― Carl Sagan(this is interpreted, may not be him directly. but belief and science both are essential for human progress, constantly questioning the beliefs is what science is. Science is a way of thinking)
+     - I don't want to believe, I want to know ― Carl Sagan(this is interpreted, may not be him directly. but belief and science both are essential for human progress, constantly questioning the beliefs is what science is. Science is a way of thinking)
          
-         - “Understanding is a kind of ecstasy” ― Carl Sagan
+     - “Understanding is a kind of ecstasy” ― Carl Sagan
          
-         - “The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars.” ― Carl Sagan
+     - “The sky calls to us. If we do not destroy ourselves, we will one day venture to the stars.” ― Carl Sagan
          
-         - “We can't help it. Life looks for life.” ― Carl Sagan
+     - “We can't help it. Life looks for life.” ― Carl Sagan
          
-         - When you're in love, you want to tell the world. ― Carl Sagan
+     - When you're in love, you want to tell the world. ― Carl Sagan
          
-         - “Keeping an open mind is a virtue—but, as the space engineer James Oberg once said, not so open that your brains fall out.” ― Carl Sagan
+     - “Keeping an open mind is a virtue—but, as the space engineer James Oberg once said, not so open that your brains fall out.” ― Carl Sagan
          
 -----------------------------
 
          - “You have to know the past to understand the present.” ― Carl Sagan
+         
          - “The farther backward you can look, the farther forward you are likely to see.” ― Winston S. Churchill
          
 ----------------------------------------
 
-         - Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. That's our new frontier out there, 
-           and it's everybody's business to know about space. - Christa McAuliffe 
+      - Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. 
+        That's our new frontier out there, and it's everybody's business to know about space. - Christa McAuliffe 
            
 -------------------------------------------
            
@@ -101,77 +102,83 @@
          
          - "That's one small step for a man, one giant leap for mankind." - Neil Armstrong
         
-         - You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion 
-           to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of 
-           the neck and drag him a quarter of a million miles out and say, "Look at that, you son of a bitch." — Mitchell on seeing the Earth from the Moon.
+         - You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the 
+           state of the world, and a compulsion to do something about it. From out there on the moon, international 
+           politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of 
+           a million miles out and say, "Look at that, you son of a bitch." — Mitchell on seeing the Earth from the Moon.
          
 ------------------------------------
 
-         - The exploration of space will go ahead, whether we join in it or not, and it is one of the great adventures of all time, 
-           and no nation which expects to be the leader of other nations can expect to stay behind in the race for space. - JOHN F. KENNEDY
+     - The exploration of space will go ahead, whether we join in it or not, and it is one of the great adventures of all time, 
+       and no nation which expects to be the leader of other nations can expect to stay behind in the race for space. - JOHN F. KENNEDY
            
-         - We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because 
-           that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing 
-           to accept, one we are unwilling to postpone, and one which we intend to win. - JOHN F. KENNEDY
+     - We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because 
+       that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing 
+       to accept, one we are unwilling to postpone, and one which we intend to win. - JOHN F. KENNEDY
          
-         - Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. 
-           He said "Because it is there." Well, space is there, and we're going to climb it, and the moon and the planets are there, and new 
-           hopes for knowledge and peace are there. - JOHN F. KENNEDY
+     - Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. 
+       He said "Because it is there." Well, space is there, and we're going to climb it, and the moon and the planets are there, and new 
+       hopes for knowledge and peace are there. - JOHN F. KENNEDY
          
-         - The stars will never be won by little minds; we must be big as space itself. - Robert A. Heinlein - Double Star (1956)
+     - The stars will never be won by little minds; we must be big as space itself. - Robert A. Heinlein - Double Star (1956)
          
-         - I believe that space travel will one day become as common as airline travel is today. I'm convinced, however, that the true future 
-           of space travel does not lie with government agencies -- NASA is still obsessed with the idea that the primary purpose of the space 
-           program is science -- but real progress will come from private companies competing to provide the ultimate adventure ride, and NASA 
-           will receive the trickle-down benefits. - BUZZ ALDRIN (Book: Magnificent Desolation)
+     - I believe that space travel will one day become as common as airline travel is today. I'm convinced, however, that the true future 
+       of space travel does not lie with government agencies -- NASA is still obsessed with the idea that the primary purpose of the space 
+       program is science -- but real progress will come from private companies competing to provide the ultimate adventure ride, and NASA 
+        will receive the trickle-down benefits. - BUZZ ALDRIN (Book: Magnificent Desolation)
            
 -------------------------------
 
-          - "There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose. 
-             We do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets or manned space-flight. "
-            "But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, we must be second to 
-             none in the application of advanced technologies to the real problems of man and society." - Dr. Vikram Sarabhai
+      - "There are some who question the relevance of space activities in a developing nation. To us, there is no ambiguity of purpose. 
+         We do not have the fantasy of competing with the economically advanced nations in the exploration of the moon or the planets 
+         or manned space-flight. " "But we are convinced that if we are to play a meaningful role nationally, and in the community of nations, 
+         we must be second to none in the application of advanced technologies to the real problems of man and society." - Dr. Vikram Sarabhai
 
-          - Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever. - RAY BRADBURY  
+      - Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever. - RAY BRADBURY  
           
-          - Some say that we should stop exploring space, that the cost in human lives is too great. But Columbia's crew would not have wanted that. 
-            We are a curious species, always wanting to know what is over the next hill, around the next corner, on the next island. And we have been 
-            that way for thousands of years. - STUART ATKINSON (Book: New Mars)
+      - Some say that we should stop exploring space, that the cost in human lives is too great. But Columbia's crew would not have wanted that. 
+        We are a curious species, always wanting to know what is over the next hill, around the next corner, on the next island. And we have been 
+        that way for thousands of years. - STUART ATKINSON (Book: New Mars)
 ------------------------------
 
-          - We cannot predict the new forces, powers, and discoveries that will be disclosed to us when we reach the other planets and set up new laboratories in space. 
-            They are as much beyond our vision today as fire or electricity would be beyond the imagination of a fish. - ARTHUR C. CLARKE(Book:Space and the Spirit of Man")
+     - We cannot predict the new forces, powers, and discoveries that will be disclosed to us when we reach the other planets 
+       and set up new laboratories in space. They are as much beyond our vision today as fire or electricity would be beyond 
+       the imagination of a fish. - ARTHUR C. CLARKE(Book:Space and the Spirit of Man")
             
-          - NASA spent millions of dollars inventing the ball-point pen so they could write in space. The Russians took a pencil.
+     - NASA spent millions of dollars inventing the ball-point pen so they could write in space. The Russians took a pencil.
           
 -------------------------------
 
-           - An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, 
-             if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies 
-             of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present 
-             before its eyes. - Laplace(1814)
+     - An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items 
+       of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace 
+       in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect 
+       nothing would be uncertain and the future just like the past would be present before its eyes. - Laplace(1814)
              
 ----------------------------------------
 
-            - NASA's next urgent mission should be to send good poets into space so they can describe what it's really like. - SHANNON HALE
+     - NASA's next urgent mission should be to send good poets into space so they can describe what it's really like. - SHANNON HALE
             
-            - We will never be able to build enough spaceships. The demand is enormous. - RICHARD BRANSON
+     - We will never be able to build enough spaceships. The demand is enormous. - RICHARD BRANSON
             
-            - The dinosaurs became extinct because they didn't have a space program. And if we become extinct because we don't have a space program, it'll serve us right! - LARRY NIVEN
-            - “Decreasing the budget on the space exploration is nothing but a great treason to humanity! Space exploration is closely related to
-               our very existence! Cut the budget on other things and increase the budget on the space exploration! Think great; if you do not think great, 
-               universe annihilates you!” ― Mehmet Murat ildan
+     - The dinosaurs became extinct because they didn't have a space program. And if we become extinct because we don't have 
+       a space program, it'll serve us right! - LARRY NIVEN
+       
+     - “Decreasing the budget on the space exploration is nothing but a great treason to humanity! Space exploration is 
+       closely related to our very existence! Cut the budget on other things and increase the budget on the space exploration! 
+       Think great; if you do not think great, universe annihilates you!” ― Mehmet Murat ildan
 -----------------
 
-        - “Most obvious is that DNA may be only one of many ways that biological information is encoded, and it is hard to see how the aliens would know in advance 
-           what terrestrial life uses.” ― Paul Davies
+     - “Most obvious is that DNA may be only one of many ways that biological information is encoded, and it is hard to see 
+       how the aliens would know in advance what terrestrial life uses.” ― Paul Davies
 
-        - “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations would be used as enzymes by all life.
-           Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t eat our plants and animals.” ― Paul Davies
+     - “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations 
+        would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t 
+        eat our plants and animals.” ― Paul Davies
 
-        - “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a transitory phenomenon, a fleeting phase 
-          in the evolution of intelligence in the universe. If we ever encounter extraterrestrial intelligence, I believe it is overwhelmingly likely to be post-biological 
-          in nature, a conclusion that has obvious and far-reaching ramifications for SETI.” ― Paul Davies
+     - “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a 
+       transitory phenomenon, a fleeting phase in the evolution of intelligence in the universe. If we ever encounter extraterrestrial 
+       intelligence, I believe it is overwhelmingly likely to be post-biological in nature, a conclusion that has obvious and far-reaching 
+       ramifications for SETI.” ― Paul Davies
           
 ----------
 
