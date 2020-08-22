@@ -1702,6 +1702,14 @@ Logarithmic Scale:
 
 ![Benjamin_Wandelt](https://www.researchgate.net/profile/Benjamin_Wandelt/publication/325168008/figure/fig1/AS:626760899129351@1526442851736/Timeline-of-future-space-mission-or-major-observatories-in-the-2020s.png)
 -------
+![telescopehist](https://www.jaymaron.com/cobalt/telescopehist.png)
+---------
+![primary_mirrors](https://i0.wp.com/www.johngrimwade.com/blog/wp-content/uploads/2018/08/primary_mirrors.jpg?resize=960%2C780)
+--------
+![10-Distance-2](https://secretsoftheuniversefilm.com/wp-content/uploads/2019/04/10-Distance-2.jpg)
+------------
+![Lagrange_points](https://upload.wikimedia.org/wikipedia/commons/8/88/Lagrange_points.jpg)
+---------
 ![2bc3bedf46b5e4fe0a56bc47b11dcbb6](https://upload.wikimedia.org/wikipedia/en/timeline/2bc3bedf46b5e4fe0a56bc47b11dcbb6.png)
 -----------
 ![Asteroid-Exploration-Timeline](https://www.asteroidmission.org/wp-content/uploads/2015/08/Asteroid-Exploration-Timeline.png)
