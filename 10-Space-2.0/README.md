@@ -96,13 +96,7 @@
       
       - “This is the best reason to learn history: not in order to predict the future, but to free yourself of the 
         past and imagine alternative destinies. Of course this is not total freedom – we cannot avoid being shaped 
-        by the past. But some freedom is better than none.” ― Yuval Noah Harari
-        
-      - In a world deluged by irrelevant information, clarity is power. “In the past, censorship worked by blocking 
-        the flow of information. In the twenty-first century, censorship works by flooding people with irrelevant 
-        information. [...] In ancient times having power meant having access to data. Today having power means knowing 
-        what to ignore.” ― Yuval Noah Harari
-      
+        by the past. But some freedom is better than none.” ― Yuval Noah Harari    
       
       - "The first step is to establish that something is possible; then probability will occur." - Elon Musk
          
