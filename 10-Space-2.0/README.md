@@ -1529,6 +1529,8 @@
 ----------
 ![Standard_Model_of_Elementary_Particles](https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg)
 -------
+![githubusercontent](https://camo.githubusercontent.com/042449c041cd14633a10797ec372fc9f858a18ec/68747470733a2f2f616c657872686f77652e66696c65732e776f726470726573732e636f6d2f323031392f31322f6461726b6d6174746572322e706e67)
+------------
 ![773792dda5b7320061187fc942a101b2](https://i.pinimg.com/originals/77/37/92/773792dda5b7320061187fc942a101b2.jpg)
 ------------
 ![AT_7e_Figure_27_04](https://pages.uoregon.edu/jimbrau/BrauImNew/Chap27/7th/AT_7e_Figure_27_04.jpg)
@@ -1562,6 +1564,8 @@
 ![Light source](https://www.hamamatsu.com/sp/hc/resources/img00_en_00B.jpg)
 ------
 ![electronics & phtonics](https://aer.nict.go.jp/people/img/irimajiri/people_irimajiri_z01_en.png)
+--------
+![Ofcom-EMS](https://telecoms.com/wp-content/blogs.dir/1/files/2020/04/Ofcom-EMS.jpg)
 ------
 ![Chart of electromagnetc spectrum](https://ssl.c.photoshelter.com/img-get/I0000QtK4N6KeqQs/s/1200/I0000QtK4N6KeqQs.jpg)
 -------
@@ -1582,6 +1586,11 @@
 ![indicating-the-applications](https://www.researchgate.net/publication/261016458/figure/fig1/AS:670718991810560@1536923277014/Chart-of-the-nuclides-indicating-the-applications-of-rare-isotope-beams-to-nuclear.png)
 --------
 ![Observed-nuclides-are](https://www.researchgate.net/profile/Yuri_Novikov/publication/41674035/figure/fig10/AS:394207761059846@1470997862365/Color-online-The-chart-of-the-nuclides-in-the-Z-N-plane-10-Observed-nuclides-are.png)
+
+---------
+![The+nuclear+chart%3A+a+rich+potential](https://slideplayer.com/slide/13360110/80/images/2/The+nuclear+chart%3A+a+rich+potential.jpg)
+---------
+![Ferous](https://camo.githubusercontent.com/cd61aff2f611965b1375118de24cfc7bf796247c/68747470733a2f2f7777772e7265736561726368676174652e6e65742f70726f66696c652f48616e6e61685f4d656c69612f7075626c69636174696f6e2f3333313938333333392f6669677572652f666967322f41533a37343033363436363331343835363440313535333532383039393639322f5468652d62696e64696e672d656e657267792d7065722d6e75636c656f6e2d612d6d6561737572652d6f662d6e75636c6561722d73746162696c6974792d4d6164652d776974682d7468652d456c656d656e74732e70706d)
 -----------
 ![science-timeline](https://www.jimworthey.com/history/science-timeline.png?w=1600&h=500&fit=fill)
 -----------
@@ -1590,7 +1599,7 @@
 ![milkywaycosmos15_06](https://absolutezeroastronomy.files.wordpress.com/2014/10/cosmos15_06.jpg)
 -----------
 
-Milkyway Center.. Sagitaarius A* Supermassive Black Hole
+Milkyway Center.. Sagittarius A* Supermassive Black Hole
 
 ![6e583ec8b670ff5fc48743c605af8a2e](https://qph.fs.quoracdn.net/main-qimg-6e583ec8b670ff5fc48743c605af8a2e)
 --------
