@@ -126,6 +126,8 @@
    
    ![media_franchises](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/media_franchises.png)
    ------------
+![1333999604-the-fiction-to-reality-timeline-1](https://thetechjournal.com/wp-content/uploads/images/1204/1333999604-the-fiction-to-reality-timeline-1.jpg)
+-------------
 ![9754b341568788582e7b244779fa606f](https://i.pinimg.com/originals/97/54/b3/9754b341568788582e7b244779fa606f.jpg)
 --------
 ![JxrdX4AAU](https://pbs.twimg.com/media/ED-JxrdX4AAU-O9.jpg)
@@ -148,5 +150,7 @@
 ![1163272717](https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/6/68/Phase_Four_Slate.jpg/revision/latest?cb=20190724022013)
 ------------
 ![904cc1a99894a4a53eb556edad0bd9b3d97a46f5](https://external-preview.redd.it/-ERHVyoRUsg9EenH2fUBE6cVefBBzlkwlVctqmVZPNo.png?auto=webp&s=904cc1a99894a4a53eb556edad0bd9b3d97a46f5)
+----------
+![scifi-timeline](https://www.glow-internet.com/media/1649/scifi-timeline.jpg)
 ----------------
 ---------------------------
