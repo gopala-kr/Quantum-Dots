@@ -1766,6 +1766,8 @@ Logarithmic Scale:
 ![57f0381a9c3db9c18a82b4e110c8b019083b7410](https://preview.redd.it/or2k8kcx3w641.jpg?auto=webp&s=57f0381a9c3db9c18a82b4e110c8b019083b7410)
 ------
 ![Sto_temporalsummary](https://gamepedia.cursecdn.com/sto_gamepedia/thumb/b/b8/Sto_temporalsummary.jpg/1200px-Sto_temporalsummary.jpg)
+------------
+![e93a75d5c76e25342e09f99de97f6d69](https://upload.wikimedia.org/wikipedia/en/timeline/e93a75d5c76e25342e09f99de97f6d69.png)
 
 ----------------
 ---------------------------
