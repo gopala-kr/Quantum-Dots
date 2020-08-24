@@ -136,7 +136,7 @@
 ![0abbqlrm9mw41](https://i.redd.it/0abbqlrm9mw41.jpg)
 
 -----------
-![marvel-timeline-1](https://illusion0flife.files.wordpress.com/2019/04/marvel-timeline-1.png?w=480&h=1976&zoom=2)
+![marvel-timeline-1](https://illusion0flife.files.wordpress.com/2019/04/marvel-timeline-1.png)
 ----------
 ![hi2wq6dmo3q21](https://i.redd.it/hi2wq6dmo3q21.jpg)
 -----------
