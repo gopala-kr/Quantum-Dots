@@ -162,7 +162,10 @@
 
 --------
 ![7b21f7679e5c5be3cffef9f84fcdc15aad12cf5b](https://preview.redd.it/0az1j9c69yf31.png?width=1566&format=png&auto=webp&s=7b21f7679e5c5be3cffef9f84fcdc15aad12cf5b)
+----------
+![6b3efa193ef1b53d0e33f2699d34e6d2](https://i.pinimg.com/originals/6b/3e/fa/6b3efa193ef1b53d0e33f2699d34e6d2.jpg)
 --------------
 ![infographic_5049f619d6235_w587](http://thumbnails.visually.netdna-cdn.com/time-infographic_5049f619d6235_w587.jpg)
+
 ----------
 --------------
