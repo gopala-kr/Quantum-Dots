@@ -121,3 +121,15 @@
    
    ![media_franchises](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/media_franchises.png)
    ------------
+![9754b341568788582e7b244779fa606f](https://i.pinimg.com/originals/97/54/b3/9754b341568788582e7b244779fa606f.jpg)
+--------
+![JxrdX4AAU](https://pbs.twimg.com/media/ED-JxrdX4AAU-O9.jpg)
+----------
+![57f0381a9c3db9c18a82b4e110c8b019083b7410](https://preview.redd.it/or2k8kcx3w641.jpg?auto=webp&s=57f0381a9c3db9c18a82b4e110c8b019083b7410)
+------
+![Sto_temporalsummary](https://gamepedia.cursecdn.com/sto_gamepedia/thumb/b/b8/Sto_temporalsummary.jpg/1200px-Sto_temporalsummary.jpg)
+------------
+![e93a75d5c76e25342e09f99de97f6d69](https://upload.wikimedia.org/wikipedia/en/timeline/e93a75d5c76e25342e09f99de97f6d69.png)
+
+----------------
+---------------------------
