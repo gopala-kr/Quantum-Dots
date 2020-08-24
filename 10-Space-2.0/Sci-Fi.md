@@ -158,6 +158,11 @@
 -----------------
 ![an-exploration-of-Mars-in-fiction-2](https://bookriot.com/wp-content/uploads/2016/03/an-exploration-of-Mars-in-fiction-2-512x1024.png)
 ----
-![TE_alex_slingshot_ez2](https://filmschoolrejects.com/wp-content/uploads/2019/09/TE_alex_slingshot_ez2.gif)
+![BSG](https://external-preview.redd.it/idOfYsZEM_ZwbzoYONyg-FOAg4O5Yd9qJjrROshJ2es.jpg?auto=webp&s=6e92208c8c9703b3b3f7317d03e6a0d4c26a029b)
+
+--------
+![7b21f7679e5c5be3cffef9f84fcdc15aad12cf5b](https://preview.redd.it/0az1j9c69yf31.png?width=1566&format=png&auto=webp&s=7b21f7679e5c5be3cffef9f84fcdc15aad12cf5b)
+--------------
+![infographic_5049f619d6235_w587](http://thumbnails.visually.netdna-cdn.com/time-infographic_5049f619d6235_w587.jpg)
 ----------
 --------------
