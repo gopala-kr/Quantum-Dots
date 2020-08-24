@@ -381,6 +381,8 @@
      - [Tech & Society 2](http://www.projectrho.com/public_html/rocket/scisociety2.php)
      - [Tech & Society 3](http://www.projectrho.com/public_html/rocket/scisociety3.php)
    - [Clarketech: Technologies Indistinguishable from Magic](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls9qzKr4sp4Kys3NPXxBZ-C)
+   - [Technology in Star Wars](https://en.wikipedia.org/wiki/Technology_in_Star_Wars)
+   - [Technology in Star Trek](https://en.wikipedia.org/wiki/Technology_in_Star_Trek#:~:text=The%20technology%20in%20Star%20Trek,slipstream%20drives%2C%20and%20photon%20torpedoes.)
    - [High-Tech Aliens](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Aliens](http://www.projectrho.com/public_html/rocket/aliens.php) ?????  | [Alien Civilizations](https://www.youtube.com/playlist?list=PLIIOUpOge0Lu97HzMt_BJu36UMaItB1cm)
        - [Where are they?](http://www.projectrho.com/public_html/rocket/lebensraum.php)
