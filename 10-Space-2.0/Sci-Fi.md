@@ -130,6 +130,7 @@
 ![Sto_temporalsummary](https://gamepedia.cursecdn.com/sto_gamepedia/thumb/b/b8/Sto_temporalsummary.jpg/1200px-Sto_temporalsummary.jpg)
 ------------
 ![e93a75d5c76e25342e09f99de97f6d69](https://upload.wikimedia.org/wikipedia/en/timeline/e93a75d5c76e25342e09f99de97f6d69.png)
-
+--------------
+![how_starwars_changed_the_world](https://ctch110michaelqing.files.wordpress.com/2016/01/how_starwars_changed_the_world.jpg)
 ----------------
 ---------------------------
