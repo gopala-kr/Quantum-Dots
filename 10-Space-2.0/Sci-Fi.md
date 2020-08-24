@@ -2,7 +2,7 @@
 
 -------------
 
-    Human Civilization History was shaped by mythology.. Science Fiction is the mythology of future..
+    Civilizations History is shaped by mythology.. Science Fiction is the mythology of future..
 
 -----------------
 ![Fantasy-Diagram-2](https://the-artifice.com/wp-content/uploads/2018/10/Fantasy-Diagram-2.jpg)
@@ -141,10 +141,12 @@
 ![0abbqlrm9mw41](https://i.redd.it/0abbqlrm9mw41.jpg)
 
 -----------
-![marvel-timeline-1](https://illusion0flife.files.wordpress.com/2019/04/marvel-timeline-1.png?w=500&h=2000&zoom=1)
+![marvel-timeline-1](https://illusion0flife.files.wordpress.com/2019/04/marvel-timeline-1.png?w=1000&h=3000&zoom=1)
 ----------
 ![hi2wq6dmo3q21](https://i.redd.it/hi2wq6dmo3q21.jpg)
 -----------
+![1163272717](https://cdn.vox-cdn.com/thumbor/aiiTBvqWuNOihcaPWL8yFtATveQ=/0x0:4000x2401/1400x933/filters:focal(1680x881:2320x1521):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/64773901/1163272717.jpg.5.jpg)
+------------
 ![904cc1a99894a4a53eb556edad0bd9b3d97a46f5](https://external-preview.redd.it/-ERHVyoRUsg9EenH2fUBE6cVefBBzlkwlVctqmVZPNo.png?auto=webp&s=904cc1a99894a4a53eb556edad0bd9b3d97a46f5)
 ----------------
 ---------------------------
