@@ -116,4 +116,8 @@
    ![D0khD7yWwAAviHf](https://pbs.twimg.com/media/D0khD7yWwAAviHf.jpg:large)
    ---------
    ![8bf1539b69d8e00636c4a37071757d0b](https://i.pinimg.com/originals/8b/f1/53/8bf1539b69d8e00636c4a37071757d0b.jpg)
+   --------
+   - [highest-grossing media franchises](https://en.wikipedia.org/wiki/List_of_highest-grossing_media_franchises)
+   
+   ![media_franchises](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/media_franchises.png)
    ------------
