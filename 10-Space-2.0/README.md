@@ -350,6 +350,14 @@
        - Enceladus(Saturn) - circumstellar
        - Triton(Neptune) - circumstellar
      - Mars Colonization
+       - Documentaries/Sci-Fi
+         - [What Would A Million Person Mars Colony Look Like?](https://www.youtube.com/watch?v=JaimO7nvzzQ)
+         - [How would we build a colony on Mars?](https://www.youtube.com/watch?v=t_n0yhhuJBs)
+         - [Outward Bound: Colonizing Mars](https://www.youtube.com/watch?v=kmFOBoy2MZ8)
+         - [Mars Colony Documentary | 1 Million Residents by 2060 | NASA Vs Elon Musk](https://www.youtube.com/watch?v=HpXvQaQ9ktc)
+         - [SpaceX's Most Detailed Plans To Colonize Mars](https://www.youtube.com/watch?v=zSv0Y7qrzQM)
+         - [NASA vs SpaceX: Who Will Get To Mars First?](https://www.youtube.com/watch?v=fQEBu3rZmcw)
+         - [Terraforming Mars with Neil deGrasse Tyson]()
      - Venus Colonization
    - Interstellar Colonization
    - Galactic Empires & Colonization
