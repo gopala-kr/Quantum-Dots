@@ -379,6 +379,7 @@
      - Venus Colonization
        - Documentaries/Sci-Fi
          - [Timeline of Venus](https://www.youtube.com/watch?v=yDiUDbvihmY)
+         - [Should We Colonize Venus Instead of Mars?](https://www.youtube.com/watch?v=gJ5KV3rzuag)
          - [What If We Built Cloud Cities on Venus?](https://www.youtube.com/watch?v=a-zZkuGAVQY)
          - [Could We Terraform Venus?](https://www.youtube.com/watch?v=xYRxfh76hhA)
          - [Can We Terraform The Planet Venus?](https://www.youtube.com/watch?v=XG61iJOoUwY)
