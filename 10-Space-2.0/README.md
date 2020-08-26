@@ -303,6 +303,14 @@
      - [Ring Raiders](http://www.projectrho.com/public_html/rocket/appringraiders.php)
      - [Cape Dread](http://www.projectrho.com/public_html/rocket/appcapedread.php)
    - Solar System Colonization
+     - [TIMELAPSE OF THE ENTIRE UNIVERSE](https://www.youtube.com/watch?v=TBikbn5XJhg)
+     - [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA) :star:
+     - [LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history](https://www.youtube.com/watch?v=SUelbSa-OkA)
+     - [History and Future of the Solar System](https://www.youtube.com/watch?v=d27exZfXzsc)
+     - [History of the Earth](https://www.youtube.com/watch?v=Q1OreyX0-fw) | [The History of Earth - Full Documentary HD](https://www.youtube.com/watch?v=pN7VQas4OgQ)
+     - [The Whole History of the Earth and Life](https://www.youtube.com/watch?v=NQ4CUw9RcuA)
+     - [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
+     - [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
      - [Earth 2.0](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv9Y_4Vmcgaxue0jyZG3_4K)
      - [Visions of Earth](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls94qU9ZgTy3A-PbmRKKbV4) 
      - [Biotechnology](https://www.youtube.com/playlist?list=PLIIOUpOge0LvNm82I9n8CBaGUXoVeKbYn)
@@ -362,6 +370,12 @@
          - [Springtime on Mars: Terraforming the Red Planet](https://www.youtube.com/watch?v=RcXBuYwm3xk)
          - [Mars Calling: Manifest Destiny or Grand Illusion](https://www.youtube.com/watch?v=mrEczg72V4M)
      - Venus Colonization
+       - Documentaries/Sci-Fi
+         - [Timeline of Venus](https://www.youtube.com/watch?v=yDiUDbvihmY)
+         - [What If We Built Cloud Cities on Venus?](https://www.youtube.com/watch?v=a-zZkuGAVQY)
+         - [Could We Terraform Venus?](https://www.youtube.com/watch?v=xYRxfh76hhA)
+         - [Can We Terraform The Planet Venus?](https://www.youtube.com/watch?v=XG61iJOoUwY)
+         - [Outward Bound: Colonizing Venus](https://www.youtube.com/watch?v=BI-old7YI4I)
    - Interstellar Colonization
    - Galactic Empires & Colonization
      - [Galactic Survey](http://www.projectrho.com/public_html/rocket/survey.php)
