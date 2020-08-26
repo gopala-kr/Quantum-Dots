@@ -470,6 +470,8 @@
      - [ARE WE LIVING IN A SIMULATION?](https://www.youtube.com/watch?v=M9fyZvxkpz4)
      - [Computing a Universe Simulation](https://www.youtube.com/watch?v=0GLgZvTCbaA)
      - [The Simulation Hypothesis Documentary](https://www.youtube.com/watch?v=pznWo8f020I)
+     - [Reasons You May Be Living In A Simulation](https://www.youtube.com/watch?v=I_KJKEYoaoo)
+     - [Neil deGrasse Tyson Explains the Simulation Hypothesis](https://www.youtube.com/watch?v=pmcrG7ZZKUc)
    - Superluminal Communication(FTL Communication)
      - Theoretic:  tachyons, quantum nonlocality & wormholes
      - Fictional devices
