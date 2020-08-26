@@ -466,6 +466,7 @@
      - [Leonard Susskind on Richard Feynman, the Holographic Principle, and Unanswered Questions in Physics](https://www.youtube.com/watch?v=CQAcLW6qdQY) 
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
+     - [You are a Simulation & Physics Can Prove It: George Smoot at TEDxSalford](https://www.youtube.com/watch?v=Chfoo9NBEow)
      - [ARE WE LIVING IN A SIMULATION?](https://www.youtube.com/watch?v=M9fyZvxkpz4)
      - [Computing a Universe Simulation](https://www.youtube.com/watch?v=0GLgZvTCbaA)
      - [The Simulation Hypothesis Documentary](https://www.youtube.com/watch?v=pznWo8f020I)
