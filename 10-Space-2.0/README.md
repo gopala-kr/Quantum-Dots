@@ -311,6 +311,8 @@
      - [The Whole History of the Earth and Life](https://www.youtube.com/watch?v=NQ4CUw9RcuA)
      - [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
      - [Putting The History Of Earth Into Perspective](https://www.youtube.com/watch?v=0yBzxC9eoog)
+     - [Earth's mass extinctions](https://www.youtube.com/watch?v=3lYN_lXU9PA)
+     - [Earth's five mass extinctions](https://www.youtube.com/watch?v=edz6_hfWJDo)
      - [Continental Drift: 3.3 Billion Years](https://www.youtube.com/watch?v=UwWWuttntio)
      - [240 million years ago to 250 million years in the future](https://www.youtube.com/watch?v=uLahVJNnoZ4)
      - [Humans Migrated Across The Globe](https://www.youtube.com/watch?v=CJdT6QcSbQ0)
