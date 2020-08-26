@@ -357,7 +357,10 @@
          - [Mars Colony Documentary | 1 Million Residents by 2060 | NASA Vs Elon Musk](https://www.youtube.com/watch?v=HpXvQaQ9ktc)
          - [SpaceX's Most Detailed Plans To Colonize Mars](https://www.youtube.com/watch?v=zSv0Y7qrzQM)
          - [NASA vs SpaceX: Who Will Get To Mars First?](https://www.youtube.com/watch?v=fQEBu3rZmcw)
-         - [Terraforming Mars with Neil deGrasse Tyson]()
+         - [Terraforming Mars with Neil deGrasse Tyson](https://www.youtube.com/watch?v=7XdkKMhAdnA)
+         - [Mars Making the New Earth](https://www.youtube.com/watch?v=_50N5QoQoc4)
+         - [Springtime on Mars: Terraforming the Red Planet](https://www.youtube.com/watch?v=RcXBuYwm3xk)
+         - [Mars Calling: Manifest Destiny or Grand Illusion](https://www.youtube.com/watch?v=mrEczg72V4M)
      - Venus Colonization
    - Interstellar Colonization
    - Galactic Empires & Colonization
