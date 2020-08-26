@@ -454,7 +454,8 @@
      - Sci-Fi
        - [The Wandering Earth](https://www.netflix.com/watch/81067760?source=35)
        - [Starlifting](https://www.youtube.com/watch?v=pzuHxL5FD5U)
-   - Holography & Simulation
+   - Holography
+     - [Is the Universe a Hologram?](https://www.youtube.com/watch?v=6bwLtlA9eDM)
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
    - Superluminal Communication(FTL Communication)
