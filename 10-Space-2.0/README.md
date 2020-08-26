@@ -303,14 +303,20 @@
      - [Ring Raiders](http://www.projectrho.com/public_html/rocket/appringraiders.php)
      - [Cape Dread](http://www.projectrho.com/public_html/rocket/appcapedread.php)
    - Solar System Colonization
-     - [TIMELAPSE OF THE ENTIRE UNIVERSE](https://www.youtube.com/watch?v=TBikbn5XJhg)
+     - [TIMELAPSE OF THE ENTIRE UNIVERSE](https://www.youtube.com/watch?v=TBikbn5XJhg) :star:
      - [TIMELAPSE OF THE FUTURE: A Journey to the End of Time](https://www.youtube.com/watch?v=uD4izuDMUQA) :star:
      - [LIFE BEYOND: Chapter 1. Alien life, deep time, and our place in cosmic history](https://www.youtube.com/watch?v=SUelbSa-OkA)
      - [History and Future of the Solar System](https://www.youtube.com/watch?v=d27exZfXzsc)
      - [History of the Earth](https://www.youtube.com/watch?v=Q1OreyX0-fw) | [The History of Earth - Full Documentary HD](https://www.youtube.com/watch?v=pN7VQas4OgQ)
      - [The Whole History of the Earth and Life](https://www.youtube.com/watch?v=NQ4CUw9RcuA)
      - [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
+     - [Putting The History Of Earth Into Perspective](https://www.youtube.com/watch?v=0yBzxC9eoog)
+     - [Continental Drift: 3.3 Billion Years](https://www.youtube.com/watch?v=UwWWuttntio)
+     - [240 million years ago to 250 million years in the future](https://www.youtube.com/watch?v=uLahVJNnoZ4)
+     - [Humans Migrated Across The Globe](https://www.youtube.com/watch?v=CJdT6QcSbQ0)
      - [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
+     - [History of the World: Every Year](https://www.youtube.com/watch?v=ymI5Uv5cGU4)
+     - [Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)
      - [Earth 2.0](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv9Y_4Vmcgaxue0jyZG3_4K)
      - [Visions of Earth](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls94qU9ZgTy3A-PbmRKKbV4) 
      - [Biotechnology](https://www.youtube.com/playlist?list=PLIIOUpOge0LvNm82I9n8CBaGUXoVeKbYn)
