@@ -459,6 +459,7 @@
      - [Is The Universe A Hologram?](https://www.youtube.com/watch?v=iNgIl-qIklU)
      - [The Holographic Universe Explained](https://www.youtube.com/watch?v=klpDHn8viX8)
      - [A Thin Sheet of Reality: The Universe as a Hologram](https://www.youtube.com/watch?v=HnETCBOlzJs)
+     - [Quantum Gravity and the Hardest Problem in Physics](https://www.youtube.com/watch?v=YNEBhwimJWs)
      - [Leonard Susskind on Richard Feynman, the Holographic Principle, and Unanswered Questions in Physics](https://www.youtube.com/watch?v=CQAcLW6qdQY) 
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
