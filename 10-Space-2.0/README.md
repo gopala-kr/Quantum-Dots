@@ -456,6 +456,8 @@
        - [Starlifting](https://www.youtube.com/watch?v=pzuHxL5FD5U)
    - Holography
      - [Is the Universe a Hologram?](https://www.youtube.com/watch?v=6bwLtlA9eDM)
+     - [The Holographic Universe Explained](https://www.youtube.com/watch?v=klpDHn8viX8)
+     - [Leonard Susskind on Richard Feynman, the Holographic Principle, and Unanswered Questions in Physics](https://www.youtube.com/watch?v=CQAcLW6qdQY)
    - Simulated Consciousness
      - [Simulation, Consciousness, Existence](https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html)
    - Superluminal Communication(FTL Communication)
