@@ -316,7 +316,7 @@
      - [Humans Migrated Across The Globe](https://www.youtube.com/watch?v=CJdT6QcSbQ0)
      - [Human Population Through Time](https://www.youtube.com/watch?v=PUwmA3Q0_OE)
      - [History of the World: Every Year](https://www.youtube.com/watch?v=ymI5Uv5cGU4)
-     - [Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)
+     - [How religions spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)
      - [Earth 2.0](https://www.youtube.com/playlist?list=PLIIOUpOge0Lv9Y_4Vmcgaxue0jyZG3_4K)
      - [Visions of Earth](https://www.youtube.com/playlist?list=PLIIOUpOge0Ls94qU9ZgTy3A-PbmRKKbV4) 
      - [Biotechnology](https://www.youtube.com/playlist?list=PLIIOUpOge0LvNm82I9n8CBaGUXoVeKbYn)
