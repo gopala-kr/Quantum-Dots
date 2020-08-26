@@ -457,6 +457,7 @@
    - Holography
      - [Is the Universe a Hologram?](https://www.youtube.com/watch?v=6bwLtlA9eDM)
      - [Is The Universe A Hologram?](https://www.youtube.com/watch?v=iNgIl-qIklU)
+     - [Holographic Universe: Is the Universe a Hologram?](https://www.youtube.com/watch?v=Q02EiZBua24)
      - [The Holographic Universe Explained](https://www.youtube.com/watch?v=klpDHn8viX8)
      - [A Thin Sheet of Reality: The Universe as a Hologram](https://www.youtube.com/watch?v=HnETCBOlzJs)
      - [Quantum Gravity and the Hardest Problem in Physics](https://www.youtube.com/watch?v=YNEBhwimJWs)
