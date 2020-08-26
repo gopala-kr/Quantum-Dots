@@ -365,6 +365,7 @@
        - Enceladus(Saturn) - circumstellar
          - [Timeline of Enceladus (Saturn's Moon)](https://www.youtube.com/watch?v=Wdfcf7CNBQ4)
          - [Saturn’s Moon Enceladus](https://www.youtube.com/watch?v=MjOpZrYLE1U)
+         - [Enceladus and the Conditions for Life](https://www.youtube.com/watch?v=T6b9e6DuCew)
        - Triton(Neptune) - circumstellar
        - Titan
          - [Destination: Titan](https://www.youtube.com/watch?v=uE5POhMnN78)
