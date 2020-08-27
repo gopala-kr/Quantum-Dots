@@ -1578,6 +1578,8 @@
          - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
          - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
          - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
+     - Nulcear Documentaries/Sci-fi
+       - [History of nuclear power](https://www.youtube.com/watch?v=gGTEDH0SIdA)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
