@@ -1103,6 +1103,7 @@
      - [Is India Emerging as a Global Power?](https://www.youtube.com/watch?v=Z7NVWoQBV5I)
      - [America's Patriot Missiles](https://www.youtube.com/watch?v=MzpTmYvLDdM)
      - [Russian Nuclear Missiles 2020](https://www.youtube.com/watch?v=SNhEAFTiJCw)
+     - [Powerful Cruise Missiles in the World (2020)](https://www.youtube.com/watch?v=6EwyyVr6Msc)
      - [Powerful Missiles That Can't Be Stopped](https://www.youtube.com/watch?v=5d5xTzjphi0)
      - [Missile Range Comparison of Nuclear Power Countries](https://www.youtube.com/watch?v=URl8Yr3SR7U)
      - [Hypersonic Missiles vs ICBM's](https://www.youtube.com/watch?v=p0t06EkZJcM)
