@@ -1089,9 +1089,13 @@
    - Asteroid Deflection
      - [Gravity Assist](https://www.youtube.com/watch?v=16jr7WWGSxo)
    - Space Debris Removal
-   - Space Missile's
+   - Missile's
+     - [Fastest Missiles](https://www.youtube.com/watch?v=uhS02F9YmT4)
+     - [Cruise Missiles in NATO](https://www.youtube.com/watch?v=5zoYE7YhLIc)
      - [What If The Most Powerful Nuclear Bomb Explodes In Space](https://www.youtube.com/watch?v=Jec6ZKuYgxU)
+     - [How to Launch a Nuclear Missile](https://www.youtube.com/watch?v=knDIENvBTgw)
      - [The Space Layer: Hypersonic and Ballistic Missile Tracking Space Satellites](https://www.youtube.com/watch?v=ht0ulmqvFS8)
+     - [Is India Emerging as a Global Power?](https://www.youtube.com/watch?v=Z7NVWoQBV5I)
    - Rail Gun
  - [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php)
  - [Rocketpunk Future](http://www.projectrho.com/public_html/rocket/macguffinite.php)
