@@ -1556,6 +1556,7 @@
            - LHD
            - WEGA
         - Fusion Documentaries
+          - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman]https://www.youtube.com/watch?v=zn1SJOPgewo()
           - [Fusion Power Explained – Future or Failure](https://www.youtube.com/watch?v=mZsaaturR6E)
           - [Is Nuclear Fusion The Answer To Clean Energy?](https://www.youtube.com/watch?v=vPS-epGPJmg)
           - [The truth about nuclear fusion power - new breakthroughs](https://www.youtube.com/watch?v=Wc8SJqAPVaM)
