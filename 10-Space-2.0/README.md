@@ -1561,6 +1561,7 @@
           - [Nuclear Fusion Energy | Ian Hutchinson and Lex Fridman](https://www.youtube.com/watch?v=HT9YRGSSyNk)
           - [Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion](https://www.youtube.com/watch?v=pDSEjaDCtOU)
           - [A Technology That Would Change The World](https://www.youtube.com/watch?v=cLvoCjz9Q1k)
+          - [Fusion Energy (Part I) — Prof. Steven Cowley](https://www.youtube.com/watch?v=SMxOvuSMAug)
           - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman]https://www.youtube.com/watch?v=zn1SJOPgewo()
           - [Fusion Power Explained – Future or Failure](https://www.youtube.com/watch?v=mZsaaturR6E)
           - [Is Nuclear Fusion The Answer To Clean Energy?](https://www.youtube.com/watch?v=vPS-epGPJmg)
