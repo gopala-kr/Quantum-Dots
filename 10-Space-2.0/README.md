@@ -1592,6 +1592,7 @@
          - [World Uranium Mining Production](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production.aspx)
          - [Thorium as a nuclear fuel](https://www.world-nuclear.org/information-library/current-and-future-generation/thorium.aspx)
          - [The Many Uses of Nuclear Technology](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/overview/the-many-uses-of-nuclear-technology.aspx)
+         - [Fusion Energy is About to Unlock Humanity's Destiny](https://www.youtube.com/watch?v=LADbinZcEyM)
        - [Nuclear Power in India](https://www.world-nuclear.org/information-library/country-profiles/countries-g-n/india.aspx)
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
