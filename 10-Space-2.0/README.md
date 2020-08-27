@@ -1093,6 +1093,7 @@
      - [Fastest Missiles](https://www.youtube.com/watch?v=uhS02F9YmT4)
      - [Fastest Missiles 2019](https://www.youtube.com/watch?v=dMDDTd7Z5lI)
      - [Cruise Missiles in NATO](https://www.youtube.com/watch?v=5zoYE7YhLIc)
+     - [Hypersonic Missiles](https://www.youtube.com/watch?v=NXP3VZ7ldyg)
      - [What If The Most Powerful Nuclear Bomb Explodes In Space](https://www.youtube.com/watch?v=Jec6ZKuYgxU)
      - [How to Launch a Nuclear Missile](https://www.youtube.com/watch?v=knDIENvBTgw)
      - [The Space Layer: Hypersonic and Ballistic Missile Tracking Space Satellites](https://www.youtube.com/watch?v=ht0ulmqvFS8)
