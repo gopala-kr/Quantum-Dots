@@ -1609,6 +1609,7 @@
        - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
        - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
        - [Thorium can give humanity clean, pollution free energy | Kirk Sorensen](https://www.youtube.com/watch?v=kybenSq0KPo)
+       - [Thorium to light up the world | Srikumar Banerjee](https://www.youtube.com/watch?v=yGhEdcwXxdE)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
