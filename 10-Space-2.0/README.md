@@ -1096,6 +1096,7 @@
      - [How to Launch a Nuclear Missile](https://www.youtube.com/watch?v=knDIENvBTgw)
      - [The Space Layer: Hypersonic and Ballistic Missile Tracking Space Satellites](https://www.youtube.com/watch?v=ht0ulmqvFS8)
      - [Is India Emerging as a Global Power?](https://www.youtube.com/watch?v=Z7NVWoQBV5I)
+     - [America's Patriot Missiles](https://www.youtube.com/watch?v=MzpTmYvLDdM)
    - Rail Gun
  - [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php)
  - [Rocketpunk Future](http://www.projectrho.com/public_html/rocket/macguffinite.php)
