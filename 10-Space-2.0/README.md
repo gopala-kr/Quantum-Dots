@@ -1559,6 +1559,7 @@
           - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman](https://www.youtube.com/watch?v=zn1SJOPgewo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=49)
           - [Fusion in 30 years? ITER update [2020]](https://www.youtube.com/watch?v=XNcGpQCX8a0)
           - [Stellarators - The Future of Fusion Energy [2020]](https://www.youtube.com/watch?v=qKTePWmHRQw)
+          - [Nuclear fusion within reach | Michel Laberge](https://www.youtube.com/watch?v=b-LCfx9v4YQ)
           - [The Dawn of the Fusion Age | Mark Henderson](https://www.youtube.com/watch?v=KlxPJ6LnyFc)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
