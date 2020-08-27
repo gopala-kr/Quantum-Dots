@@ -1089,7 +1089,9 @@
    - Asteroid Deflection
      - [Gravity Assist](https://www.youtube.com/watch?v=16jr7WWGSxo)
    - Space Debris Removal
-   - Missile's
+   - Space Missile's
+     - [What If The Most Powerful Nuclear Bomb Explodes In Space](https://www.youtube.com/watch?v=Jec6ZKuYgxU)
+     - [The Space Layer: Hypersonic and Ballistic Missile Tracking Space Satellites](https://www.youtube.com/watch?v=ht0ulmqvFS8)
    - Rail Gun
  - [Respecting Science](http://www.projectrho.com/public_html/rocket/respectscience.php)
  - [Rocketpunk Future](http://www.projectrho.com/public_html/rocket/macguffinite.php)
