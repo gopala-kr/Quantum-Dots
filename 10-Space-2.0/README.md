@@ -1580,6 +1580,7 @@
           - [The UK Is Racing to Build the World’s First Commercial Fusion Power Plant](https://www.youtube.com/watch?v=BThHyvNX6So)
           - [Fusion Energy Is Coming. No, Really.](https://www.youtube.com/watch?v=KZm_mpbKX5c)
           - [Fusion: Powering a Bright Future](https://www.youtube.com/watch?v=ChTJHEdf6yM)
+          - [The Impact of Nuclear Fusion](https://www.youtube.com/watch?v=8Pmgr6FtYcY)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
        - 55 power reactors are currently being constructed in 15 countries
