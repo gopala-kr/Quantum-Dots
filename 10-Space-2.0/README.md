@@ -1557,6 +1557,7 @@
            - WEGA
         - Fusion Documentaries
           - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman](https://www.youtube.com/watch?v=zn1SJOPgewo&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=49)
+          - [Fusion in 30 years? ITER update [2020]](https://www.youtube.com/watch?v=XNcGpQCX8a0)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
        - 55 power reactors are currently being constructed in 15 countries
@@ -1574,12 +1575,12 @@
        - [Nuclear Waste](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes.aspx)
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
-         - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
-         - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
-         - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
-         - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
      - Nulcear Documentaries/Sci-fi
        - [History of nuclear power](https://www.youtube.com/watch?v=gGTEDH0SIdA)
+       - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
+       - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
+       - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
+       - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
