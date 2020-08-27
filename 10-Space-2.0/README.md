@@ -1557,6 +1557,7 @@
            - WEGA
         - Fusion Documentaries
           - [Nuclear Fusion Energy: The Race to Create a Star on Earth](https://www.youtube.com/watch?v=knrHPneSN10)
+          - [Creating fusion energy on Earth - How many different ways are there?](https://www.youtube.com/watch?v=LCj2p30i2rk)
           - [Nuclear Fusion Energy | Ian Hutchinson and Lex Fridman](https://www.youtube.com/watch?v=HT9YRGSSyNk)
           - [Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion](https://www.youtube.com/watch?v=pDSEjaDCtOU)
           - [A Technology That Would Change The World](https://www.youtube.com/watch?v=cLvoCjz9Q1k)
