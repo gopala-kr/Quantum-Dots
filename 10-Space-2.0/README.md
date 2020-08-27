@@ -1563,6 +1563,7 @@
           - [A Technology That Would Change The World](https://www.youtube.com/watch?v=cLvoCjz9Q1k)
           - [Fusion Energy (Part I) — Prof. Steven Cowley](https://www.youtube.com/watch?v=SMxOvuSMAug)
           - [Fusion Energy (Part II) — Prof. Steven Cowley](https://www.youtube.com/watch?v=-fzewZxEdAs)
+          - [MIT: Breakthrough in Nuclear Fusion? - Prof. Dennis Whyte](https://www.youtube.com/watch?v=KkpqA8yG9T4)
           - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman]https://www.youtube.com/watch?v=zn1SJOPgewo()
           - [Fusion Power Explained – Future or Failure](https://www.youtube.com/watch?v=mZsaaturR6E)
           - [Is Nuclear Fusion The Answer To Clean Energy?](https://www.youtube.com/watch?v=vPS-epGPJmg)
@@ -1607,6 +1608,7 @@
        - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
        - [Is Thorium Our Energy Future? | Answers With Joe](https://www.youtube.com/watch?v=XMuxjHLLk0E)
        - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
+       - [Thorium can give humanity clean, pollution free energy | Kirk Sorensen](https://www.youtube.com/watch?v=kybenSq0KPo)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
