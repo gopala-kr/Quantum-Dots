@@ -1573,6 +1573,7 @@
           - [The Dawn of the Fusion Age | Mark Henderson](https://www.youtube.com/watch?v=KlxPJ6LnyFc)
           - [ITER: Assembly of world's largest nuclear fusion reactor begins](https://www.youtube.com/watch?v=bAw-rdl9YZg)
           - [How Close Are We to Fusion Energy?](https://www.youtube.com/watch?v=ZW_YCWLyv6A)
+          - [China Made An Artificial Star 6 Times Hotter Than The Sun](https://www.youtube.com/watch?v=oGE9MmG4zhk)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
        - 55 power reactors are currently being constructed in 15 countries
