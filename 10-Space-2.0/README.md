@@ -1556,6 +1556,7 @@
            - LHD
            - WEGA
         - Fusion Documentaries
+          - [Fusion lectures](https://www.youtube.com/playlist?list=PLQhhM5QzOLxboA8Z8FF_X0OPWpJC69H4h)
           - [Nuclear Fusion Energy: The Race to Create a Star on Earth](https://www.youtube.com/watch?v=knrHPneSN10)
           - [Creating fusion energy on Earth - How many different ways are there?](https://www.youtube.com/watch?v=LCj2p30i2rk)
           - [Nuclear Fusion Energy | Ian Hutchinson and Lex Fridman](https://www.youtube.com/watch?v=HT9YRGSSyNk)
