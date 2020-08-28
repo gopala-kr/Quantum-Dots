@@ -1584,6 +1584,7 @@
           - [Fusion Energy Is Coming. No, Really.](https://www.youtube.com/watch?v=KZm_mpbKX5c)
           - [Fusion: Powering a Bright Future](https://www.youtube.com/watch?v=ChTJHEdf6yM)
           - [The Impact of Nuclear Fusion](https://www.youtube.com/watch?v=8Pmgr6FtYcY)
+          - [The energy manhattan project that will change everything](https://www.youtube.com/watch?v=_Bfcm6s75OA)
      - [Fission Reactors](https://www.world-nuclear.org/information-library.aspx) 
        - 440 nuclear power reactors operating in 30 countries/400 GWe
        - 55 power reactors are currently being constructed in 15 countries
