@@ -1873,6 +1873,6 @@ Logarithmic Scale:
 --------
 ![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png?w=1600&h=500&fit=fill)
 ----------
-![civilization](https://i.pinimg.com/originals/0c/e9/ac/0ce9ac2eec0d63dc7d831feb56bf9ec2.jpg
+![civilization](https://i.pinimg.com/originals/0c/e9/ac/0ce9ac2eec0d63dc7d831feb56bf9ec2.jpg)
 ------------
 -----------
