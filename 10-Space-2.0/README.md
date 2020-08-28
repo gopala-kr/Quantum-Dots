@@ -1606,6 +1606,7 @@
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
      - Nulcear Documentaries/Sci-fi
        - [Nuclear Physics Explained](https://www.thegreatcourses.com/courses/nuclear-physics-explained.html) :star: :star:
+       - [MIT: Nuclear Engineering and Ionizing Radiation](https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)
        - [History of nuclear power](https://www.youtube.com/watch?v=gGTEDH0SIdA)
        - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
        - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
