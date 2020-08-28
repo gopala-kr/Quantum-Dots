@@ -1605,6 +1605,7 @@
        - [Nuclear Tests & Weapons](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/nuclear_power.md)
          - [The Science Of Nuclear Weapons](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnTQMXpP6gYN9DVm_DjXza9)
      - Nulcear Documentaries/Sci-fi
+       - [Nuclear Physics Explained](https://www.thegreatcourses.com/courses/nuclear-physics-explained.html) :star: :star:
        - [History of nuclear power](https://www.youtube.com/watch?v=gGTEDH0SIdA)
        - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
        - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
@@ -1612,6 +1613,7 @@
        - [Thorium Disadvantages](https://www.youtube.com/watch?v=GAiHtrWHxK0)
        - [Thorium can give humanity clean, pollution free energy | Kirk Sorensen](https://www.youtube.com/watch?v=kybenSq0KPo)
        - [Thorium to light up the world | Srikumar Banerjee](https://www.youtube.com/watch?v=yGhEdcwXxdE)
+       - [Nuclear Reactor Construction and Operation](https://www.youtube.com/watch?v=qHPp458m1cs)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
