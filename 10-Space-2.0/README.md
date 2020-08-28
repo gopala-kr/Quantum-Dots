@@ -1564,7 +1564,7 @@
           - [Fusion Energy (Part I) — Prof. Steven Cowley](https://www.youtube.com/watch?v=SMxOvuSMAug)
           - [Fusion Energy (Part II) — Prof. Steven Cowley](https://www.youtube.com/watch?v=-fzewZxEdAs)
           - [MIT: Breakthrough in Nuclear Fusion? - Prof. Dennis Whyte](https://www.youtube.com/watch?v=KkpqA8yG9T4)
-          - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman]https://www.youtube.com/watch?v=zn1SJOPgewo()
+          - [Fusion: How to Put the Sun in a Magnetic Bottle - with Ian Chapman](https://www.youtube.com/watch?v=zn1SJOPgewo)
           - [Fusion Power Explained – Future or Failure](https://www.youtube.com/watch?v=mZsaaturR6E)
           - [Is Nuclear Fusion The Answer To Clean Energy?](https://www.youtube.com/watch?v=vPS-epGPJmg)
           - [The truth about nuclear fusion power - new breakthroughs](https://www.youtube.com/watch?v=Wc8SJqAPVaM)
