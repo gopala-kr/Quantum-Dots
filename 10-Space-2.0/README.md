@@ -1517,6 +1517,7 @@
          - [Mapping Particle Physics - with Jon Butterworth](https://www.youtube.com/watch?v=wf1W_ZfqYEs&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=31)
          - [RI Lecture: Smashing Physics - with Jon Butterworth and Brian Cox](https://www.youtube.com/watch?v=aN4zmEY9i_U&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=60)
          - [Upgrading the Particle Physics Toolkit: The Future Circular Collider](https://www.youtube.com/watch?v=rEuM_e4MvgE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=20)
+         - [Leonard Susskind - All Stanford physics lectures in order](https://www.youtube.com/playlist?list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8)
          - [Stanford: New Revolutions in Particle Physics](https://www.youtube.com/playlist?list=PL768E1383EA79C603) 
          - [Beyond the Higgs: What's Next for the LHC? - with Harry Cliff](https://www.youtube.com/watch?v=edvdzh9Pggg&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=34)
          - [Building a Big Bang Machine on the Moon - with James Beacham](https://www.youtube.com/watch?v=8_zzw4tSOe8&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=28)
