@@ -1871,8 +1871,8 @@ Logarithmic Scale:
 -----------
 ![687474703a2f2f692e696d6775722e636f6d2f664b5a594f2e6a7067](https://camo.githubusercontent.com/8bf25a5ba65a369e3833cce507e58b6984844150/687474703a2f2f692e696d6775722e636f6d2f664b5a594f2e6a7067)
 --------
-![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png)
+![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png?w=1600&h=500&fit=fill)
 ----------
-![civilization](https://thefutureworld.org/wp-content/uploads/2019/03/type3-civilization-2.jpg)
+![civilization](https://thefutureworld.org/wp-content/uploads/2019/03/type3-civilization-2.jpg?w=1600&h=500&fit=fill)
 ------------
 -----------
