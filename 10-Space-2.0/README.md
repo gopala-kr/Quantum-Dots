@@ -1624,6 +1624,7 @@
        - [Atomic and Hydrogen Bombs](https://www.youtube.com/watch?v=3p4NteQYhL0)
        - [Nuclear Lab (RADIOACTIVE) - Periodic Table of Videos](https://www.youtube.com/watch?v=NrIzWWmlboE)
        - [Nuclear Reactor Start up, 500kW, 1MW, and Shut Down](https://www.youtube.com/watch?v=uYrhWO_ZLYw)
+       - [Reactors of the Future (Generation IV)](https://www.youtube.com/watch?v=_mJ3S-VQuHY)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
