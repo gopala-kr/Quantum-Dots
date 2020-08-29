@@ -1514,6 +1514,7 @@
        - On Moon(Future)
        - On Asteroid Belt(Future)
        - Particle Physics Dcoumentaries/Sci-Fi
+         - [Detectors and Accelerators](https://www.youtube.com/playlist?list=PLCfRa7MXBEsrL-SMhfnZFK3nQ7PgMt_1O)
          - [Mapping Particle Physics - with Jon Butterworth](https://www.youtube.com/watch?v=wf1W_ZfqYEs&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=31)
          - [RI Lecture: Smashing Physics - with Jon Butterworth and Brian Cox](https://www.youtube.com/watch?v=aN4zmEY9i_U&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=60)
          - [Upgrading the Particle Physics Toolkit: The Future Circular Collider](https://www.youtube.com/watch?v=rEuM_e4MvgE&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=20)
