@@ -1630,6 +1630,8 @@
        - [Why Chernobyl Exploded - The Real Physics Behind The Reactor](https://www.youtube.com/watch?v=q3d3rzFTrLg)
        - [Reactors and Fuels & Nuclear Reactors](https://www.youtube.com/watch?v=2Hpq-rU92kw)
        - [What You Need to Know: Thorium Nuclear Power](https://www.youtube.com/watch?v=F92L6F0INYk)
+       - ["The Bomb" (Documentary) Nuclear weapons - BBC 2017](https://www.youtube.com/watch?v=Qrze43Uchm8)
+       - [The Manhattan Project: Race for the Atomic Bomb | Secrets of War | Timeline](https://www.youtube.com/watch?v=DNOUEvsC3WQ)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
