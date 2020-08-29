@@ -1627,6 +1627,7 @@
        - [Reactors of the Future (Generation IV)](https://www.youtube.com/watch?v=_mJ3S-VQuHY)
        - [Reactor Hall of Unit 2, Chernobyl Nuclear Power Plant](https://www.youtube.com/watch?v=Oe_zzTQFV3o)
        - [Why Chernobyl Exploded - The Real Physics Behind The Reactor](https://www.youtube.com/watch?v=q3d3rzFTrLg)
+       - [Reactors and Fuels & Nuclear Reactors](https://www.youtube.com/watch?v=2Hpq-rU92kw)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
