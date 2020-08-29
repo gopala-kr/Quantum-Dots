@@ -1618,6 +1618,7 @@
        - [Thorium to light up the world | Srikumar Banerjee](https://www.youtube.com/watch?v=yGhEdcwXxdE)
        - [Nuclear Reactor Construction and Operation](https://www.youtube.com/watch?v=qHPp458m1cs)
        - [Uranium - THE MOST DANGEROUS METAL ON EARTH!](https://www.youtube.com/watch?v=Kkd2bYAVtOU)
+       - [Inside MIT's Nuclear Reactor](https://www.youtube.com/watch?v=5QcN3KDexcU)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
