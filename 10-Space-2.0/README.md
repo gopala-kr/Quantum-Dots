@@ -1611,6 +1611,7 @@
      - Nuclear Documentaries/Sci-fi
        - [Nuclear Physics Explained](https://www.thegreatcourses.com/courses/nuclear-physics-explained.html) :star: :star:
        - [MIT: Nuclear Engineering and Ionizing Radiation](https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu)
+       - [MIT: How Nuclear Energy Works](https://www.youtube.com/watch?v=RW2DPHAoXiQ)
        - [History of nuclear power](https://www.youtube.com/watch?v=gGTEDH0SIdA)
        - [THORIUM 232 - From History to Reactor [2019]](https://www.youtube.com/watch?v=biToH42YZZ4)
        - [Thorium and the Future of Nuclear Energy](https://www.youtube.com/watch?v=ElulEJruhRQ)
@@ -1628,6 +1629,7 @@
        - [Reactor Hall of Unit 2, Chernobyl Nuclear Power Plant](https://www.youtube.com/watch?v=Oe_zzTQFV3o)
        - [Why Chernobyl Exploded - The Real Physics Behind The Reactor](https://www.youtube.com/watch?v=q3d3rzFTrLg)
        - [Reactors and Fuels & Nuclear Reactors](https://www.youtube.com/watch?v=2Hpq-rU92kw)
+       - [What You Need to Know: Thorium Nuclear Power](https://www.youtube.com/watch?v=F92L6F0INYk)
 -------------------
 - [Space Science Fiction Readings](http://www.projectrho.com/public_html/rocket/reading.php)
 - [Science Fiction Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Sci-Fi.md)
