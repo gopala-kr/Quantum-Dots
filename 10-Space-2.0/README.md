@@ -497,6 +497,8 @@
        - [Banned TEDTalk about Psychic Abilities | Russell Targ](https://www.youtube.com/watch?v=hBl0cwyn5GY)
        - [Scientific and Spiritual Implications of Psychic Abilities - Russell Targ](https://www.youtube.com/watch?v=zgyYms376Mg)
        - [Is Mind Over Matter REAL? | Scientific Evidence](https://www.youtube.com/watch?v=KukfeoZ7Y88)
+       - [Wonders of the Mind | The Clairvoyants](https://www.youtube.com/watch?v=8AmtD32nG_M)
+       - [Mind is Everything | Dr. David Hendricks](https://www.youtube.com/watch?v=xI8lLpYtQ6M)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
