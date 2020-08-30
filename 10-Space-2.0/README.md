@@ -252,7 +252,7 @@
    - Space Tourism
    - [Asteroids](https://www.asterank.com/3d/) Mining  - per [asterank.com](https://www.asterank.com/3d/), 711 asteroids worth $100 trillion ; [Current Earth Economy(GDP-2019) : $87 trillion](https://www.worldometers.info/gdp/#gdpyear)
      - [Sapce Mining Techniques](http://www.projectrho.com/public_html/rocket/mining.php)
-     - Ceres Colonization
+     - [Ceres Colonization](https://www.youtube.com/watch?v=LqoYtBZAKO0)
      - Ryugu
      - Didymos
      - Anteros
@@ -269,8 +269,15 @@
        - Asteroid Redirect Mission
        - Fobos-Grunt2(2024)
        - VIPER rover
-     - Sci-Fi
+     - [Documentaries/Sci-Fi]
        - [The Expanse](https://www.amazon.com/The-Expanse-Season-1/dp/B018BZ3SCM) :star:
+       - [Asteroid Mining](https://www.youtube.com/watch?v=3-3DjxhGaUg)
+       - [Hayabusa2: Asteroid Explosion](https://www.youtube.com/watch?v=hd7yKx8lwNg)
+       - [Unlimited Resources From Space – Asteroid Mining](https://www.youtube.com/watch?v=y8XvQNt26KI)
+       - [How Close Are We to Mining in Space?](https://www.youtube.com/watch?v=d44TQRewClc)
+       - [How Asteroid Mining Will Save Earth](https://www.youtube.com/watch?v=TF6GRPaeLbk)
+       - [Who Wants To Be A Trillionaire?](https://www.youtube.com/watch?v=VGosZWBTF7A)
+       - [Asteroid Explorer "HAYABUSA" - Return to the Earth](https://www.youtube.com/watch?v=NjhP5yULCpM)
    - Space Colonies/Habitats
      - Aurora Station
      - Bernal sphere --> Island One(NASA)
