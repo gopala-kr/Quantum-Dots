@@ -490,6 +490,9 @@
      - [Tachyons in fiction](https://en.wikipedia.org/wiki/Tachyons_in_fiction)
    - Telekinesis
      - [TelekinesisWiki](https://powerlisting.fandom.com/wiki/Telekinesis)
+     - Documentaries
+       - [The Paradigm Shift](https://www.youtube.com/watch?v=uBuTo9R6EhY)
+       - [Telekinesis Car Chase](https://www.youtube.com/watch?v=Z6UwH4lEcaI)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
