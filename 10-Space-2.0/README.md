@@ -502,6 +502,8 @@
        - [Short Film “Telepathy"](https://www.youtube.com/watch?v=193qajOfVK0)
        - [Mind Reading and Telepathy](https://www.youtube.com/watch?v=VLcewClf0H0)
        - [IS TELEPATHY SCIENTIFICALLY POSSIBLE?](https://www.youtube.com/watch?v=HlfeNt6Wxdw)
+       - [Banned TEDTalk about Psychic Abilities | Russell Targ](https://www.youtube.com/watch?v=hBl0cwyn5GY)
+       - [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
