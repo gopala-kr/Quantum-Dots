@@ -506,6 +506,7 @@
        - [Mind Reading and Telepathy](https://www.youtube.com/watch?v=VLcewClf0H0)
        - [IS TELEPATHY SCIENTIFICALLY POSSIBLE?](https://www.youtube.com/watch?v=HlfeNt6Wxdw)
        - [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI)
+       - [Brain magic | Keith Barry](https://www.youtube.com/watch?v=GigYWy2UmOY)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
