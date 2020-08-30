@@ -526,6 +526,7 @@
        - [Quantum Teleportation Is Real, Here's How It Works](https://www.youtube.com/watch?v=yb38jozeDOs)
        - [Will Teleportation Ever Be Possible?](https://www.youtube.com/watch?v=yfePpMTbFYY)
        - [The Trouble with Transporters](https://www.youtube.com/watch?v=nQHBAdShgYI)
+       - [What Would It Take To Build A Teleportation Machine?](https://www.youtube.com/watch?v=sId-gB033Oc)
    - Fermi paradox
      - [Fermi Paradox Explained](https://www.youtube.com/playlist?list=PLIIOUpOge0LulClL2dHXh8TTOnCgRkLdU)
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
