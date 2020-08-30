@@ -515,8 +515,10 @@
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
      - Documentaries/Sci-Fi
        - [Teleportation](https://www.youtube.com/watch?v=rtljRNDuQvY)
+       - [Transporters and Quantum Teleportation](https://www.youtube.com/watch?v=dAaHHGHuy1c)
        - [Neil deGrasse Tyson Explains: Teleporting Electrons](https://www.youtube.com/watch?v=514dJvwxoCA)
        - [Michio Kaku: The Metaphysics of Teleportation](https://www.youtube.com/watch?v=KcivmBojzVk)
+       - [Professor Brian Cox On Teleportation](https://www.youtube.com/watch?v=QFy87tFTZwY)
    - Fermi paradox
      - [Fermi Paradox Explained](https://www.youtube.com/playlist?list=PLIIOUpOge0LulClL2dHXh8TTOnCgRkLdU)
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
