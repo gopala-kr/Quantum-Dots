@@ -493,6 +493,8 @@
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
+     - Documentaries
+       - [Naked Science - Telepathy](https://www.youtube.com/watch?v=AdmyUEVLRAM)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
