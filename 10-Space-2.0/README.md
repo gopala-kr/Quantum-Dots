@@ -509,6 +509,7 @@
        - [IS TELEPATHY SCIENTIFICALLY POSSIBLE?](https://www.youtube.com/watch?v=HlfeNt6Wxdw)
        - [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI)
        - [Brain magic | Keith Barry](https://www.youtube.com/watch?v=GigYWy2UmOY)
+       - [Remote Viewing and the Reality of Psychic Phenomena](https://www.youtube.com/watch?v=IC1kTVe61yc)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
