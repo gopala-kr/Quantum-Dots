@@ -501,6 +501,7 @@
        - [Naked Science - Telepathy](https://www.youtube.com/watch?v=AdmyUEVLRAM)
        - [Short Film “Telepathy"](https://www.youtube.com/watch?v=193qajOfVK0)
        - [Mind Reading and Telepathy](https://www.youtube.com/watch?v=VLcewClf0H0)
+       - [IS TELEPATHY SCIENTIFICALLY POSSIBLE?](https://www.youtube.com/watch?v=HlfeNt6Wxdw)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
      - [Teleportation in fiction](https://en.wikipedia.org/wiki/Teleportation_in_fiction)
