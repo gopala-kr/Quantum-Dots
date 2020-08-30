@@ -495,6 +495,7 @@
        - [What If Telekinesis Was Real?](https://www.youtube.com/watch?v=VoSfu6cW8zY)
        - [Telekinesis Car Chase](https://www.youtube.com/watch?v=Z6UwH4lEcaI)
        - [Banned TEDTalk about Psychic Abilities | Russell Targ](https://www.youtube.com/watch?v=hBl0cwyn5GY)
+       - [Scientific and Spiritual Implications of Psychic Abilities - Russell Targ](https://www.youtube.com/watch?v=zgyYms376Mg)
        - [Is Mind Over Matter REAL? | Scientific Evidence](https://www.youtube.com/watch?v=KukfeoZ7Y88)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
