@@ -490,13 +490,14 @@
      - [Tachyons in fiction](https://en.wikipedia.org/wiki/Tachyons_in_fiction)
    - Telekinesis
      - [TelekinesisWiki](https://powerlisting.fandom.com/wiki/Telekinesis)
-     - Documentaries
+     - Documentaries/Sci-fi
        - [The Paradigm Shift](https://www.youtube.com/watch?v=uBuTo9R6EhY)
+       - [What If Telekinesis Was Real?](https://www.youtube.com/watch?v=VoSfu6cW8zY)
        - [Telekinesis Car Chase](https://www.youtube.com/watch?v=Z6UwH4lEcaI)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
-     - Documentaries
+     - Documentaries/Sci-Fi
        - [Naked Science - Telepathy](https://www.youtube.com/watch?v=AdmyUEVLRAM)
        - [Short Film “Telepathy"](https://www.youtube.com/watch?v=193qajOfVK0)
        - [Mind Reading and Telepathy](https://www.youtube.com/watch?v=VLcewClf0H0)
