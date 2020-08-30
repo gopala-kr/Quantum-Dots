@@ -494,6 +494,8 @@
        - [The Paradigm Shift](https://www.youtube.com/watch?v=uBuTo9R6EhY)
        - [What If Telekinesis Was Real?](https://www.youtube.com/watch?v=VoSfu6cW8zY)
        - [Telekinesis Car Chase](https://www.youtube.com/watch?v=Z6UwH4lEcaI)
+       - [Banned TEDTalk about Psychic Abilities | Russell Targ](https://www.youtube.com/watch?v=hBl0cwyn5GY)
+       - [Is Mind Over Matter REAL? | Scientific Evidence](https://www.youtube.com/watch?v=KukfeoZ7Y88)
    - Telepathy
      - [Psionics](http://www.projectrho.com/public_html/rocket/psionics.php)
      - [TelepathyWiki](https://powerlisting.fandom.com/wiki/Telepathy)
@@ -502,7 +504,6 @@
        - [Short Film “Telepathy"](https://www.youtube.com/watch?v=193qajOfVK0)
        - [Mind Reading and Telepathy](https://www.youtube.com/watch?v=VLcewClf0H0)
        - [IS TELEPATHY SCIENTIFICALLY POSSIBLE?](https://www.youtube.com/watch?v=HlfeNt6Wxdw)
-       - [Banned TEDTalk about Psychic Abilities | Russell Targ](https://www.youtube.com/watch?v=hBl0cwyn5GY)
        - [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI)
    - Teleportation
      - [Matter Transmitter](http://www.projectrho.com/public_html/rocket/alientech.php)
