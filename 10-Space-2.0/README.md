@@ -519,6 +519,9 @@
        - [Neil deGrasse Tyson Explains: Teleporting Electrons](https://www.youtube.com/watch?v=514dJvwxoCA)
        - [Michio Kaku: The Metaphysics of Teleportation](https://www.youtube.com/watch?v=KcivmBojzVk)
        - [Professor Brian Cox On Teleportation](https://www.youtube.com/watch?v=QFy87tFTZwY)
+       - [What If Teleportation Was Possible?](https://www.youtube.com/watch?v=Hvqtzt8O_fw)
+       - [Quantum Teleportation From Space Achieved by China!](https://www.youtube.com/watch?v=dWc6Goy6cRk)
+       - [Teleportation: Tearing the Fabric of Spacetime](https://www.youtube.com/watch?v=rrJobgkJoJU)
    - Fermi paradox
      - [Fermi Paradox Explained](https://www.youtube.com/playlist?list=PLIIOUpOge0LulClL2dHXh8TTOnCgRkLdU)
      - [Apocalypse](http://www.projectrho.com/public_html/rocket/apocalypse.php)
