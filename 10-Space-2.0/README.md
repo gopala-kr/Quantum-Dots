@@ -277,6 +277,11 @@
        - [How Close Are We to Mining in Space?](https://www.youtube.com/watch?v=d44TQRewClc)
        - [How Asteroid Mining Will Save Earth](https://www.youtube.com/watch?v=TF6GRPaeLbk)
        - [Who Wants To Be A Trillionaire?](https://www.youtube.com/watch?v=VGosZWBTF7A)
+       - [How To Become A Quadrillionaire | Answers With Joe](https://www.youtube.com/watch?v=Oo72-BtYc24)
+       - [Become The World's First Trillionaire](https://www.youtube.com/watch?v=U-Y7OiafFcA)
+       - [Planetary Resources, The Asteroid Mining Company](https://www.youtube.com/watch?v=zmiAwONRD2g)
+       - [Japan's JAXA Is Paving The Way For Asteroid Mining | Answers With Joe](https://www.youtube.com/watch?v=eQXH7zgrMzs)
+       - [Tour of Planetary Resources with CEO Chris Lewicki](https://www.youtube.com/watch?v=W89bwFbpcjM)
        - [Asteroid Explorer "HAYABUSA" - Return to the Earth](https://www.youtube.com/watch?v=NjhP5yULCpM)
    - Space Colonies/Habitats
      - Aurora Station
