@@ -516,6 +516,7 @@
      - Documentaries/Sci-Fi
        - [Teleportation](https://www.youtube.com/watch?v=rtljRNDuQvY)
        - [Transporters and Quantum Teleportation](https://www.youtube.com/watch?v=dAaHHGHuy1c)
+       - [How to Teleport Schrödinger's Cat](https://www.youtube.com/watch?v=DxQK1WDYI_k)
        - [Neil deGrasse Tyson Explains: Teleporting Electrons](https://www.youtube.com/watch?v=514dJvwxoCA)
        - [Michio Kaku: The Metaphysics of Teleportation](https://www.youtube.com/watch?v=KcivmBojzVk)
        - [Professor Brian Cox On Teleportation](https://www.youtube.com/watch?v=QFy87tFTZwY)
