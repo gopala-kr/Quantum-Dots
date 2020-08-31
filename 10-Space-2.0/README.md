@@ -1541,6 +1541,7 @@
           - [MIT 8.04 Quantum Physics](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
           - [Quantum Theory - Full Documentary HD](https://www.youtube.com/watch?v=CBrsWPCp_rs)
           - [Quantum Riddle - Full Documentary HD 2019](https://www.youtube.com/watch?v=8LEUFNuyoNY)
+          - [The Secret Of Quantum Physics: Einstein's Nightmare (Jim Al-Khalili)](https://www.youtube.com/watch?v=f_4nYgrDJvc)
   - Particle Physics
     - [Particle Accelerators(high energy)](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/particle-accelerators.md) 
        - [On Silicon Chip](https://news.stanford.edu/2020/01/02/accelerator-chip-research-fight-cancer/)
