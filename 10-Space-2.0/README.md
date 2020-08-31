@@ -48,33 +48,33 @@
             
      - “It's hard to kill a creature once it lets you see its consciousness.” ― Carl Sagan
          
-     - The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. 
-       We're made of star stuff. We are a way for the cosmos to know itself. -- Carl Sagan
+     - The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors 
+       of collapsing stars. We're made of star stuff. We are a way for the cosmos to know itself. -- Carl Sagan
          
      - “We are star stuff harvesting sunlight.” ― Carl Sagan
          
-     - “What a marvelous cooperative arrangement - plants and animals each inhaling each other's exhalations, a kind of planet-wide mutual mouth-to-stoma 
-       resuscitation, the entire elegant cycle powered by a star 150 million kilometers away.” ― Carl Sagan
+     - “What a marvelous cooperative arrangement - plants and animals each inhaling each other's exhalations, a kind of planet-wide mutual 
+        mouth-to-stoma resuscitation, the entire elegant cycle powered by a star 150 million kilometers away.” ― Carl Sagan
            
      - “The beauty of a living thing is not the atoms that go into it, but the way those atoms are put together.” ― Carl Sagan, Cosmos
 
      - If you want to make an apple pie from scratch, you must first create the universe -- Carl Sagan
          
-     - Imagine we could accelerate continuously at 1 g -- what we're comfortable with on good old terra firma -- to the midpoint of our voyage, 
-       and decelerate continuously at 1 g until we arrive at our destination. It would take a day to get to Mars, a week and a half to Pluto, 
-       a year to the Oort Cloud, and a few years to the nearest stars. -- Carl Sagan
+     - Imagine we could accelerate continuously at 1 g -- what we're comfortable with on good old terra firma -- to the midpoint of 
+       our voyage, and decelerate continuously at 1 g until we arrive at our destination. It would take a day to get to Mars, a week
+       and a half to Pluto, a year to the Oort Cloud, and a few years to the nearest stars. -- Carl Sagan
            
      - Imagination will often carry us to worlds that never were. But without it we go nowhere. -- Carl Sagan 
          
      - “The cure for a fallacious argument is a better argument, not the suppression of ideas.” ― Carl Sagan
            
-     - “The Hindu religion is the only one of the world’s great faiths dedicated to the idea that the Cosmos itself undergoes an immense, indeed an 
-       infinite, number of deaths and rebirths. It is the only religion in which the time scales correspond to those of modern scientific cosmology. 
-       Its cycles run from our ordinary day and night to a day and night of Brahma, 8.64 billion years long. Longer than the age of the Earth or the 
-       Sun and about half the time since the Big Bang.” ― Carl Sagan, Cosmos
+     - “The Hindu religion is the only one of the world’s great faiths dedicated to the idea that the Cosmos itself undergoes an 
+        immense, indeed an infinite, number of deaths and rebirths. It is the only religion in which the time scales correspond to 
+        those of modern scientific cosmology. Its cycles run from our ordinary day and night to a day and night of Brahma, 
+        8.64 billion years long. Longer than the age of the Earth or the Sun and about half the time since the Big Bang.” ― Carl Sagan, Cosmos
            
-     - If by 'God,' one means the set of physical laws that govern the universe, then clearly there is such a God. This God is emotionally unsatisfying... 
-       it does not make much sense to pray to the law of gravity. ― Carl Sagan
+     - If by 'God,' one means the set of physical laws that govern the universe, then clearly there is such a God. 
+       This God is emotionally unsatisfying... it does not make much sense to pray to the law of gravity. ― Carl Sagan
            
      - I don't want to believe, I want to know ― Carl Sagan(this is interpreted, may not be him directly. but belief and science both are essential for human progress, constantly questioning the beliefs is what science is. Science is a way of thinking)
          
@@ -96,7 +96,10 @@
       
       - “This is the best reason to learn history: not in order to predict the future, but to free yourself of the 
         past and imagine alternative destinies. Of course this is not total freedom – we cannot avoid being shaped 
-        by the past. But some freedom is better than none.” ― Yuval Noah Harari    
+        by the past. But some freedom is better than none.” ― Yuval Noah Harari  
+        
+      - “To understand the difficulty of predicting the next 100 years, we have to appreciate the difficulty that the 
+        people of 1900 had in predicting the world of 2000.” ― Michio Kaku
       
       - "The first step is to establish that something is possible; then probability will occur." - Elon Musk
          
@@ -146,9 +149,9 @@
 
       - Space travel is life-enhancing, and anything that's life-enhancing is worth doing. It makes you want to live forever. - RAY BRADBURY  
           
-      - Some say that we should stop exploring space, that the cost in human lives is too great. But Columbia's crew would not have wanted that. 
-        We are a curious species, always wanting to know what is over the next hill, around the next corner, on the next island. And we have been 
-        that way for thousands of years. - STUART ATKINSON (Book: New Mars)
+      - Some say that we should stop exploring space, that the cost in human lives is too great. But Columbia's crew would not 
+        have wanted that. We are a curious species, always wanting to know what is over the next hill, around the next corner, 
+        on the next island. And we have been that way for thousands of years. - STUART ATKINSON (Book: New Mars)
 ------------------------------
 
      - We cannot predict the new forces, powers, and discoveries that will be disclosed to us when we reach the other planets 
@@ -163,6 +166,18 @@
        of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace 
        in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect 
        nothing would be uncertain and the future just like the past would be present before its eyes. - Laplace(1814)
+       
+     - Einstein spent his last 30 years struggling to find a single theory which would unify all physical laws, much like his 
+       equation E = mc2 united matter and energy. He failed. But many physicists now believe that they might have it. It is 
+       called string theory or M-theory, and postulates that all the particles, atoms, molecules, etc. in the universe are nothing 
+       but musical notes on vibrating strings or membranes. If true, it means that physics represents the beautiful harmonies of nature, 
+       that chemistry represents the melodies played on these strings, and the universe is a symphony of strings. It would also mean that 
+       the "mind of God" is cosmic music resonating through 11 dimensional hyperspace. The theory also melds Buddhist and Christian thinking. 
+       Buddhists believe in a timeless universe, a 1\irvana with no beginning or end. But Judeo-Christian thinking is based on Genesis, 
+       a single moment of Creation. But either the universe had a beginning, or it didn't. There is no middle ground. Until now. In this 
+       new theory, universes are constantly being born in an ocean of 11 dimensional hyperspace or Nirvana, like bubbles floating in the air. 
+       Hence, we have a beautiful melding of these two theories. In addition, the question now being debated by physicists is: what lies in 
+       these other universes? Can we ever reach them? Is there life on these universes? Is there a clone of myself existing in these parallel universes? - Michio Kaku
              
 ----------------------------------------
 
