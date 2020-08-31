@@ -1541,6 +1541,7 @@
           - [Einstein's Greatest Mistake - with David Bodanis](https://www.youtube.com/watch?v=zpTUjb-iKf4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=44)
           - [MIT 8.04 Quantum Physics](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
           - [Quantum Theory - Full Documentary HD](https://www.youtube.com/watch?v=CBrsWPCp_rs)
+          - [Carthage PHY4200](https://www.youtube.com/playlist?list=PL65jGfVh1ilueHVVsuCxNXoxrLI3OZAPI)
           - [Quantum Riddle - Full Documentary HD 2019](https://www.youtube.com/watch?v=8LEUFNuyoNY)
           - [The Secret Of Quantum Physics: Einstein's Nightmare (Jim Al-Khalili)](https://www.youtube.com/watch?v=f_4nYgrDJvc)
           - [Richard Feynman's Lectures On Quantum Mechanics](https://www.youtube.com/playlist?list=PLScveiBTRSGHy146igMFA4hIKOkLV3AaI)
