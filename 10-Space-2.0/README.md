@@ -1532,6 +1532,7 @@
           - [Why Space Itself May Be Quantum in Nature - with Jim Baggott](https://www.youtube.com/watch?v=dW7J49UTns8&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=19)
           - [Why Everything You Thought You Knew About Quantum Physics is Different](https://www.youtube.com/watch?v=q7v5NtV8v6I&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=24)
           - [Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=42)
+          - [Quantum Physics Explained](https://www.youtube.com/watch?v=1xj0MC2IuDU)
           - [The Search for the Theory of Everything - with John Gribbin](https://www.youtube.com/watch?v=8V669ohFOkI&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=51)
           - [Light and the Quantum - with Serge Haroche](https://www.youtube.com/watch?v=RM7_we-F7hQ&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=52)
           - [Quantum Physics and Universal Beauty - with Frank Wilczek](https://www.youtube.com/watch?v=sPbwki0qpQ4&list=PLbnrZHfNEDZzxswBf5WhzbIDTInJOgCIP&index=54)
