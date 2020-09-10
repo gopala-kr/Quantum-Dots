@@ -10,7 +10,7 @@
 - [[Week-10-11-12-13-14](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)] : Space Tech Review
 
 -------------
-- [[Week-15](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - 16/08/2020 : VIO Frameworks & Algorithms Review
+- [[Week-15](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - 20/09/2020 : VIO Frameworks & Algorithms Review
 ------------------------
 
 
