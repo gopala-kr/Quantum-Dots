@@ -1,5 +1,6 @@
  - [ADVIO: An Authentic Dataset forVisual-Inertial Odometry](https://arxiv.org/pdf/1807.09828.pdf)
  - [Visual Odometry](https://paperswithcode.com/task/visual-odometry/codeless?page=7)
+ - [Visual Odometry](https://www.youtube.com/playlist?list=PLx2fI1IGczHxf9s6mxIDq5nEzzPCbcf-Z)
  - [Visual-Inertial Odometry of Aerial Robots](https://arxiv.org/pdf/1906.03289.pdf)
  - [Visual and Inertial Odometry](https://www.ifi.uzh.ch/en/rpg/research/research_vo.html)
  - [Two Years of Visual Odometry on the Mars Exploration Rovers](https://www-robotics.jpl.nasa.gov/publications/Mark_Maimone/rob-06-0081.R4.pdf)
