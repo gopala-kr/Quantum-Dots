@@ -1,7 +1,7 @@
 -----------
 
 - [Materials  issues  for  quantum computation](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0883769413002108)
-
+- [The European Quantum Computing Startup Landscape](https://medium.com/uvc-partners-news/the-european-quantum-computing-startup-landscape-a115ffe84ad8)
 ------------
 ![architecture_5ce2dae6383a2_w1500](https://thumbnails-visually.netdna-ssl.com/quantum-computing-architecture_5ce2dae6383a2_w1500.jpg)
 -----------------
