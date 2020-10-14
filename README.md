@@ -11,7 +11,7 @@
 
 -------------
 - [[Week-15-21](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - Sep-2020: VIO Frameworks & Algorithms Review :yellow_circle:
-- [[Week-23-25](https://github.com/gopala-kr/Quantum-Dots/tree/master/23-Future-of-ET)] - Oct-2020: Future-of-ET  :green_square:
+- [[Week-23-25](https://github.com/gopala-kr/Quantum-Dots/tree/master/23-Future-of-ET)] - Oct-2020: ET Review  :green_circle:
 ------------------------
 
 
