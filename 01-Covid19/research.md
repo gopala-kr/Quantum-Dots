@@ -1,0 +1,1 @@
+- [A Survey on Applications of Artificial Intelligence in FightingAgainst COVID-19, Jul 2020](https://arxiv.org/pdf/2007.02202v1.pdf)
