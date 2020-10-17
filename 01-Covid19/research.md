@@ -1,1 +1,2 @@
 - [A Survey on Applications of Artificial Intelligence in FightingAgainst COVID-19, Jul 2020](https://arxiv.org/pdf/2007.02202v1.pdf)
+- [COVID-19 Open Source Data Sets: A Comprehensive Survey](https://www.medrxiv.org/content/10.1101/2020.05.19.20107532v2.full.pdf)
