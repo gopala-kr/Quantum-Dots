@@ -16,3 +16,7 @@
 ------------
 ![interstellar-object-16](https://cdn.arstechnica.net/wp-content/uploads/2019/09/interstellar-object-16.gif)
 ------------
+![Animation_of_Voyager_2_trajectory](https://upload.wikimedia.org/wikipedia/commons/1/1d/Animation_of_Voyager_2_trajectory.gif)
+------------
+![fe10ae_5707f7babab2432696afbce3371137b6](https://static.wixstatic.com/media/fe10ae_5707f7babab2432696afbce3371137b6~mv2.gif)
+------------
