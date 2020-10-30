@@ -7,3 +7,5 @@
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
+![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
+-------------------------
