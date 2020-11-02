@@ -18,6 +18,7 @@
     - Implementation
     - Maintenance
 ----------------------
+-------------------------
 ![Faster%20Innovation%20Cycles_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/Faster%20Innovation%20Cycles_White%20Paper%20Part%20Two_0.png)
 ---------
 ![More%20Discontinuous%20Change_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/More%20Discontinuous%20Change_White%20Paper%20Part%20Two_0.png)
@@ -31,6 +32,20 @@
 ----------
 ![Technology%20Evolution%20Ladder_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/Technology%20Evolution%20Ladder_White%20Paper%20Part%20Two_0.png)
 -----------
+![Technologies%20Evolve%20throug%20Generation_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/Technologies%20Evolve%20throug%20Generation_White%20Paper%20Part%20Two_0.PNG)
+
+---------------
+
+![Technologies%20Evolve%20through%20Generations%20Ladder%20Version_White%20Paper%20Part%20Two](https://evolutionarytree.com/sites/default/files/Technologies%20Evolve%20through%20Generations%20Ladder%20Version_White%20Paper%20Part%20Two.PNG)
+
+----------
+![Replacement%20Cycle_White%20Paper%20Part%20Two](https://evolutionarytree.com/sites/default/files/Replacement%20Cycle_White%20Paper%20Part%20Two.PNG)
+---------
+![Replacement%20Cycle%20with%20Examples_White%20Paper%20Part%20Two](https://evolutionarytree.com/sites/default/files/Replacement%20Cycle%20with%20Examples_White%20Paper%20Part%20Two.PNG)
+----------
+![Industry%20and%20Meso%20Down%20Dynamics_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/Industry%20and%20Meso%20Down%20Dynamics_White%20Paper%20Part%20Two_0.PNG)
+------------
+-------------------
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
