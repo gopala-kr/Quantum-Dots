@@ -1,6 +1,17 @@
 
 #### ET
 
+-----------------------
+
+- Earth Organizations
+  - Transparency
+- Earth Industries
+- Earth Workforce 
+- Organization Structure
+- Evolution from Medieval
+- Business + Technology
+- Digitalization of Earth Organization
+
 ----------------------
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 
