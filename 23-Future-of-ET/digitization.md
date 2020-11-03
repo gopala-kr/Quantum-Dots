@@ -5,3 +5,5 @@
 -------------
 ![personal-tech-market-share](https://www.visualcapitalist.com/wp-content/uploads/2020/10/personal-tech-market-share.jpg)
 ---------
+![f9X9pH7zFSdP43Qu](https://miro.medium.com/max/3998/0*f9X9pH7zFSdP43Qu.png)
+-------------
