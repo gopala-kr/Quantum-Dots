@@ -10,3 +10,5 @@
 --------
 ![aiot-internet-of-things-meets-ai](https://www.visualcapitalist.com/wp-content/uploads/2020/08/aiot-internet-of-things-meets-ai.jpg)
 -----------
+![Internet-Users-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/08/Internet-Users-1200px.jpg)
+-----------
