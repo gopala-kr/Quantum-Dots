@@ -5,6 +5,8 @@
 ![P7XsZb1t9wBEKicG9vRLsA](https://miro.medium.com/max/850/1*P7XsZb1t9wBEKicG9vRLsA.jpeg)
 ---------
 ![All-The-Worlds-Brands-Supplement-2](https://www.visualcapitalist.com/wp-content/uploads/2020/07/All-The-Worlds-Brands-Supplement-2.jpg)
+--------
+![VC_Tech-Giant-Billions_2020_V5](https://www.visualcapitalist.com/wp-content/uploads/2020/07/VC_Tech-Giant-Billions_2020_V5.jpg)
 ------------
 ![All-The-Worlds-Brands-V3-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/All-The-Worlds-Brands-V3-1.jpg)
 -------------
@@ -27,7 +29,7 @@
 -----------
 
 
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="600">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="2000">
 
 ----------
 ![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
