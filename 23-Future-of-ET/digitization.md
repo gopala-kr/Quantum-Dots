@@ -27,6 +27,8 @@
 -----------
 
 
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" scale="0">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="600">
 
 ----------
+![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
+------------
