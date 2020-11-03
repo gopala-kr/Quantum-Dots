@@ -25,5 +25,7 @@
 -----------
 ![Internet-Users-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/08/Internet-Users-1200px.jpg)
 -----------
+
 ![mCloud-ConnectedWorkers-Infographic-v7-3](https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg)
+
 ----------
