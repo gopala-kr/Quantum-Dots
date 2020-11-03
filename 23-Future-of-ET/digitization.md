@@ -11,6 +11,8 @@
 ![All-The-Worlds-Brands-V3-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/All-The-Worlds-Brands-V3-1.jpg)
 -------------
 ![All-The-Worlds-Brands-Supplement-1-v2](https://www.visualcapitalist.com/wp-content/uploads/2020/08/All-The-Worlds-Brands-Supplement-1-v2.jpg)
+------------
+![Size-of-Amazon](https://www.visualcapitalist.com/wp-content/uploads/2020/07/Size-of-Amazon-.jpg)
 ------------------------
 ![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
 -----------------
@@ -29,7 +31,7 @@
 -----------
 
 
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="2000">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="4000">
 
 ----------
 ![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
