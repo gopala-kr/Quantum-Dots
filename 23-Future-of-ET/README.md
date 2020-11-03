@@ -48,6 +48,8 @@
 -------------------
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
+![f9X9pH7zFSdP43Qu](https://miro.medium.com/max/3998/0*f9X9pH7zFSdP43Qu.png)
+-------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
