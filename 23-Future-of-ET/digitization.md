@@ -8,3 +8,5 @@
 ---------
 ![Social-media-universe-2020-1-1](https://www.visualcapitalist.com/wp-content/uploads/2020/08/Social-media-universe-2020-1-1.jpg)
 --------
+![aiot-internet-of-things-meets-ai](https://www.visualcapitalist.com/wp-content/uploads/2020/08/aiot-internet-of-things-meets-ai.jpg)
+-----------
