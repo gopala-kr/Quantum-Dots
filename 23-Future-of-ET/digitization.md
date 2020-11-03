@@ -6,4 +6,5 @@
 -------------
 ![personal-tech-market-share](https://www.visualcapitalist.com/wp-content/uploads/2020/10/personal-tech-market-share.jpg)
 ---------
-
+![Social-media-universe-2020-1-1](https://www.visualcapitalist.com/wp-content/uploads/2020/08/Social-media-universe-2020-1-1.jpg)
+--------
