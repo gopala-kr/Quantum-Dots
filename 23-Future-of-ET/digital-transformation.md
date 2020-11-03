@@ -31,8 +31,35 @@
 -----------
 
 
-<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="400" height="4000">
+<img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="600" height="12000">
 
 ----------
 ![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
 ------------
+![Digital-Payments_VC-Version_v3](https://www.visualcapitalist.com/wp-content/uploads/2020/06/Digital-Payments_VC-Version_v3.jpg)
+------------
+![Facial-Recognition-World-Map-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/05/Facial-Recognition-World-Map-1200px.jpg)
+----------
+![future-procurement-2020-raconteur](https://www.visualcapitalist.com/wp-content/uploads/2020/05/future-procurement-2020-raconteur.jpg)
+-------------
+![Apps-by-download-2](https://www.visualcapitalist.com/wp-content/uploads/2020/01/Apps-by-download-2.jpg)
+-----------
+![most-downloaded-apps-rank-](https://www.visualcapitalist.com/wp-content/uploads/2020/01/most-downloaded-apps-rank-1.jpg)
+-----------
+![app-downloads-by-country](https://www.visualcapitalist.com/wp-content/uploads/2020/01/app-downloads-by-country.jpg)
+-------------
+![COTW-Smartphone-Multiplier-Market](https://www.visualcapitalist.com/wp-content/uploads/2020/01/COTW-Smartphone-Multiplier-Market.jpg)
+
+----------------
+![Music-Streaming-Around-the-World_Shareable-1200px](https://www.visualcapitalist.com/wp-content/uploads/2019/12/Music-Streaming-Around-the-World_Shareable-1200px.jpg)
+-----------------
+![biometric-security-infographic](https://www.visualcapitalist.com/wp-content/uploads/2019/12/biometric-security-infographic.jpg)
+--------------
+![150-apps-gig-economy-1](https://www.visualcapitalist.com/wp-content/uploads/2019/05/150-apps-gig-economy-1.jpg)
+-------------
+![most-valuable-brands-infographic-2019](https://www.visualcapitalist.com/wp-content/uploads/2019/06/most-valuable-brands-infographic-2019.jpg)
+--------------
+![largest-market-caps-1999-today](https://www.visualcapitalist.com/wp-content/uploads/2019/06/largest-market-caps-1999-today.jpg)
+-----------
+![future-construction-2019-page-001](https://www.visualcapitalist.com/wp-content/uploads/2019/09/future-construction-2019-page-001.jpg)
+-----------
