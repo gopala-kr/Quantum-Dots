@@ -1,0 +1,4 @@
+- [Intelligent Manufacturing in the Context of Industry 4.0: A Review](https://www.sciencedirect.com/science/article/pii/S2095809917307130?via%3Dihub)
+- [A    Brief    History    of    Technology](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
+- [A Brief View of the Evolution of Technology and Engineering Education](https://www.ejmste.com/download/a-brief-view-of-the-evolution-of-technology-and-engineering-education-5063.pdf)
+- [A theory of the evolution of technology: Technological parasitism and the implications for innovation magement](https://www.researchgate.net/publication/338332115_A_theory_of_the_evolution_of_technology_Technological_parasitism_and_the_implications_for_innovation_magement)
