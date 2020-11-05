@@ -5,3 +5,4 @@
 - [Technological Forecasting – A Review](http://web.mit.edu/smadnick/www/wp/2008-15.pdf)
 - [TECHNOLOGICAL PARASITISM](https://arxiv.org/ftp/arxiv/papers/1901/1901.09073.pdf)
 - [Innovation as Evolution](https://arxiv.org/ftp/nlin/papers/0412/0412043.pdf)
+- [Evolution and structure of technological systems - An innovation output network](https://arxiv.org/pdf/1811.06772.pdf)
