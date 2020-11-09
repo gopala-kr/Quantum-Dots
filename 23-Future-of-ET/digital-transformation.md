@@ -84,5 +84,8 @@
 ![Main-graphic-Decline-in-Ad-Spend-3](https://www.visualcapitalist.com/wp-content/uploads/2020/10/Main-graphic-Decline-in-Ad-Spend-3.jpg)
 -----------------
 ![top-100-amazon-searches](https://www.visualcapitalist.com/wp-content/uploads/2020/10/top-100-amazon-searches.png)
-
+----------
+![game-console-unit-sales3](https://www.visualcapitalist.com/wp-content/uploads/2020/11/game-console-unit-sales3.png)
 ------------
+![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
+----------
