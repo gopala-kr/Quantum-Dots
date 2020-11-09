@@ -13,9 +13,7 @@
 
 ![88-trillion-dollar-world-economy-2019](https://www.visualcapitalist.com/wp-content/uploads/2020/09/88-trillion-dollar-world-economy-2019.jpg)
 ---------
-
+![new_computer-devices-exports-by-country-copy-50e2](https://cdn.howmuch.net/articles/new_computer-devices-exports-by-country-copy-50e2.jpg)
 -----------
-![]()
------------
-![]()
+![world-map-manufacturing-output-cb7a](https://cdn.howmuch.net/articles/world-map-manufacturing-output-cb7a.jpg)
 -----------
