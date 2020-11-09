@@ -6,3 +6,5 @@
 -------
 ![arms-imports-by-countries-2017-%282%29-9606-0f53](https://cdn.howmuch.net/articles/arms-imports-by-countries-2017-%282%29-9606-0f53.jpg)
 ----------
+![most-expensive-wars-us-history-%281%29-73b5](https://cdn.howmuch.net/articles/most-expensive-wars-us-history-%281%29-73b5.jpg)
+---------
