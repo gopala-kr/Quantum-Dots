@@ -27,3 +27,11 @@
 --------
 ![unemployment-usa-58a](https://cdn.howmuch.net/content/images/1600/unemployment-usa-58a7.jpg)
 ---------
+![how-much-americans-make-in-wages-35c8](https://cdn.howmuch.net/articles/how-much-americans-make-in-wages-35c8.png)
+-------------------------
+![breakdown-average-american-spending-%281%29-1802](https://cdn.howmuch.net/articles/breakdown-average-american-spending-%281%29-1802.jpg)
+----------
+![final_BEST-0fb6](https://cdn.howmuch.net/articles/final_BEST-0fb6.png)
+------
+![US-Unemployment-Rally-v4a---2500px---72dpi-b56e](https://cdn.howmuch.net/articles/US-Unemployment-Rally-v4a---2500px---72dpi-b56e.jpg)
+-------------------------
