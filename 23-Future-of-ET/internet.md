@@ -3,3 +3,17 @@
 ----------
 ![VC-Mobile-Data_V3](https://www.visualcapitalist.com/wp-content/uploads/2020/07/VC-Mobile-Data_V3.jpg)
 ------------
+![the-price-of-mobile-internet-worldwide-2019-49ec](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-49ec.jpg)
+---------
+![the-price-of-mobile-internet-worldwide-2019-Africa-14d6](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-Africa-14d6.jpg)
+---------
+![the-price-of-mobile-internet-worldwide-2019-Asia-9536](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-Asia-9536.jpg)
+-----------
+![the-price-of-mobile-internet-worldwide-2019-Europe-7e5c](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-Europe-7e5c.jpg)
+-------------
+![the-price-of-mobile-internet-worldwide-2019-North-America-daf7](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-North-America-daf7.jpg)
+---------
+![the-price-of-mobile-internet-worldwide-2019-Oceania-2409](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-Oceania-2409.jpg)
+---------
+![the-price-of-mobile-internet-worldwide-2019-South-America-fb5b](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-South-America-fb5b.jpg)
+-----------
