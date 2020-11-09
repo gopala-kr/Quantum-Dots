@@ -22,3 +22,6 @@
 ![price-changes-in-usa-in-past-20-years-2294](https://cdn.howmuch.net/articles/price-changes-in-usa-in-past-20-years-2294.jpg)
 
 ----------------
+![bitcoin-money-economy-in-perspective-7dd6](https://cdn.howmuch.net/articles/bitcoin-money-economy-in-perspective-7dd6.jpg)
+
+----------------
