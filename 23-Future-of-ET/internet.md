@@ -1,5 +1,8 @@
-- [Wired World: 35 Years of Submarine Cables in One Map](https://www.visualcapitalist.com/wired-world-35-years-of-submarine-cables-in-one-map/)
+- [Wired World: 35 Years of Submarine Cables](https://www.visualcapitalist.com/wired-world-35-years-of-submarine-cables-in-one-map/)
 - [Submarine Cables Map](https://maps.esri.com/rc/cable/index.html)
+- [Internet-Statistics-2020](https://www.broadbandsearch.net/blog/internet-statistics)
+
+-----------------
 
       - From 2016-2020, over 100 new cables were laid with an estimated value of $14 billion. Now, even the most remote Polynesian islands have access to high-speed internet.
       - Amazon, Microsoft and Google own close to 65% market share in cloud data storage, so it’s understandable that they’d want to control the physical means of transporting that data as well.
@@ -11,6 +14,8 @@
 ![tech-company-submarine-cables](https://www.visualcapitalist.com/wp-content/uploads/2019/12/tech-company-submarine-cables.png)
 -------------
 ![number-of-internet-users-2020](https://www.futuretimeline.net/21stcentury/images/number-of-internet-users-2020.gif)
+----------
+![Internet-Users-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/08/Internet-Users-1200px.jpg)
 -------------
 ![The-Rise-of-the-Cloud-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/The-Rise-of-the-Cloud-1.jpg)
 ----------
