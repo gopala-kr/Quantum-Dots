@@ -2,3 +2,7 @@
 ----------
 ![Global-Military-Spending-2019](https://www.visualcapitalist.com/wp-content/uploads/2020/09/Global-Military-Spending-2019.jpg)
 -----------
+![arms-exports-by-countries-2017-%282%29-58aa-87e0](https://cdn.howmuch.net/articles/arms-exports-by-countries-2017-%282%29-58aa-87e0.jpg)
+-------
+![arms-imports-by-countries-2017-%282%29-9606-0f53](https://cdn.howmuch.net/articles/arms-imports-by-countries-2017-%282%29-9606-0f53.jpg)
+----------
