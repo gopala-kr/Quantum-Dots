@@ -19,3 +19,11 @@
 --------
 ![charting-extreme-poverty-around-world-fc0d](https://cdn.howmuch.net/articles/charting-extreme-poverty-around-world-fc0d.jpg)
 --------
+![GDP-unemployment-wages-usa-6563](https://cdn.howmuch.net/articles/GDP-unemployment-wages-usa-6563.jpg)
+---------
+![1-world-map-b37c](https://cdn.howmuch.net/articles/1-world-map-b37c.jpg)
+-----------
+![the-usa-of-innovation-7ff2](https://cdn.howmuch.net/content/images/1600/the-usa-of-innovation-7ff2.jpg)
+--------
+![unemployment-usa-58a](https://cdn.howmuch.net/content/images/1600/unemployment-usa-58a7.jpg)
+---------
