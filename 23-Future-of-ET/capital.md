@@ -17,3 +17,8 @@
 -----------
 ![world-map-manufacturing-output-cb7a](https://cdn.howmuch.net/articles/world-map-manufacturing-output-cb7a.jpg)
 -----------
+![countries-receiving-most-investment-from-abroad-814b](https://cdn.howmuch.net/articles/countries-receiving-most-investment-from-abroad-814b.jpg)
+--------
+![price-changes-in-usa-in-past-20-years-2294](https://cdn.howmuch.net/articles/price-changes-in-usa-in-past-20-years-2294.jpg)
+
+----------------
