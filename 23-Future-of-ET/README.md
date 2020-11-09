@@ -19,11 +19,6 @@
     - Maintenance
 ----------------------
 -------------------
-![world_population](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/world_population.PNG)
---------------
-![TimelineEconomicHistory-5c3b-f9fb](https://cdn.howmuch.net/articles/TimelineEconomicHistory-5c3b-f9fb.jpg)
-----------
-------------
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 ---------
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
@@ -32,5 +27,4 @@
 -----------------------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
-
 ------------------------------------
