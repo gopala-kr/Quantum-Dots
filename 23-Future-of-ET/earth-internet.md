@@ -1,3 +1,4 @@
+- [https://internet-map.net/](https://internet-map.net/)
 - [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
 - [Wired World: 35 Years of Submarine Cables](https://www.visualcapitalist.com/wired-world-35-years-of-submarine-cables-in-one-map/)
 - [Submarine Cables Map](https://maps.esri.com/rc/cable/index.html)
@@ -7,6 +8,10 @@
 - [The moon is getting 4G internet before 4 billion earthlings](https://qz.com/1919694/the-moon-is-getting-4g-internet-before-4-billion-earthlings/#:~:text=The%20Finnish%20telco%20won%20a,on%20its%20nearest%20celestial%20neighbor.)
 - [NASA and nokia are bringing the internet to the moon
 technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moon-10-19-2020/)
+- [Microsoft, SpaceX Team Up to Bring Cloud Computing to Space](https://www.nextgov.com/it-modernization/2020/10/microsoft-spacex-team-bring-cloud-computing-space/169377/)
+- [(DOE) Unveils Blueprint for a U.S. Quantum Internet, 2020](https://quantumcomputingreport.com/department-of-energy-doe-unveils-blueprint-for-a-u-s-quantum-internet/) | [Workshop](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202004/Quantum_Internet_Blueprint_Update.pdf?la=en&hash=8C076C1BEB7CA49A3920B1A3C15AA531B48BDD72)
+- [China’s 2,000-km Quantum Link](https://spectrum.ieee.org/telecom/security/chinas-2000km-quantum-link-is-almost-complete)
+- [China Quantum communication takes a major leap with satellite-based experiment](https://www.intelligentliving.co/china-quantum-communication-satellites/)
 -----------------
 
       - From 2016-2020, over 100 new cables were laid with an estimated value of $14 billion. Now, even the most remote Polynesian islands have access to high-speed internet.
