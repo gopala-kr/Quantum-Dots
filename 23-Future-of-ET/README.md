@@ -26,6 +26,7 @@
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
+- [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
 
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
