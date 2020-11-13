@@ -25,6 +25,8 @@
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
+- [The Practice of Enterprise Architecture](http://kotusev.com/)
+
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
