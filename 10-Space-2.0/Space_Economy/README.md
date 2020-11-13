@@ -1,3 +1,6 @@
+
+- [Earth_Space_Agencies](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Space_Economy/Earth_Space_Agencies.xls?raw=true)
+- [Earth_Space_Budgets](https://github.com/gopala-kr/Quantum-Dots/blob/master/10-Space-2.0/Space_Economy/Earth_Space_Budgets.xls?raw=true)
 - [Race-to-Invest-in-Space_V5-VC-1](https://www.visualcapitalist.com/wp-content/uploads/2019/11/Race-to-Invest-in-Space_V5-VC-1.jpg)
 ----------
 ![Global-Military-Spending-2019](https://www.visualcapitalist.com/wp-content/uploads/2020/09/Global-Military-Spending-2019.jpg)
