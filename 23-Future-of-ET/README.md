@@ -42,8 +42,7 @@
 - [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
-- [Technology and Innovation for the Future of Production: Accelerating Value CreationMarch 2017In collaboration with A.T. KearneyWhite Paper
-](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
+- [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 - [World Economic Forum : Fourth Industrial Revolution](https://www.weforum.org/focus/fourth-industrial-revolution)
 - [How to Prepare for the Fourth Industrial Revolution](https://www.youtube.com/watch?v=XwIQLLbD7SI)
 - [The Industrial Revolution | BBC Documentary](https://www.youtube.com/watch?v=GYln_S2PVYA)
@@ -53,6 +52,8 @@
 - [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
 - [21 Lessons for the 21st Century | Yuval Noah Harari | Talks at Google](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&pbjreload=101)
 - [Homo Deus: A Brief History of Tomorrow with Yuval Noah Harari](https://www.youtube.com/watch?v=4ChHc5jhZxs)
+- [The Future of Humanity - with Yuval Noah Harari](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
+- [The Future of Humanity | Michio Kaku | Talks at Google](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
