@@ -47,6 +47,8 @@
 - [World Economic Forum : Fourth Industrial Revolution](https://www.weforum.org/focus/fourth-industrial-revolution)
 - [How to Prepare for the Fourth Industrial Revolution](https://www.youtube.com/watch?v=XwIQLLbD7SI)
 - [The Industrial Revolution | BBC Documentary](https://www.youtube.com/watch?v=GYln_S2PVYA)
+- [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
+- [The Zero Marginal Cost Society | Jeremy Rifkin | Talks at Google](https://www.youtube.com/watch?v=5-iDUcETjvo)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
