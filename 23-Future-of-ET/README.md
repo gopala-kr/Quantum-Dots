@@ -45,6 +45,7 @@
 - [Technology and Innovation for the Future of Production: Accelerating Value CreationMarch 2017In collaboration with A.T. KearneyWhite Paper
 ](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 - [World Economic Forum : Fourth Industrial Revolution](https://www.weforum.org/focus/fourth-industrial-revolution)
+- [How to Prepare for the Fourth Industrial Revolution](https://www.youtube.com/watch?v=XwIQLLbD7SI)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
