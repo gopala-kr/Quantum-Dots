@@ -42,6 +42,8 @@
 - [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
+- [Technology and Innovation for the Future of Production: Accelerating Value CreationMarch 2017In collaboration with A.T. KearneyWhite Paper
+](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
