@@ -13,5 +13,9 @@
 - [The Sentient Enterprise The Evolution of Business Decision Making](https://www.google.co.in/books/edition/The_Sentient_Enterprise/sa82DwAAQBAJ?hl=en&gbpv=0)
 - [The Evolution of ERP Systems: A Historical Perspective](https://faculty.biu.ac.il/~shnaidh/zooloo/nihul/evolution.pdf)
 - [Enterprise Resource Planning: Past, Present, and Future](https://www.tandfonline.com/doi/full/10.1080/13614576.2020.1742770#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xMzYxNDU3Ni4yMDIwLjE3NDI3NzA/bmVlZEFjY2Vzcz10cnVlQEBAMA==)
+- [The Practice of Enterprise Architecture](http://kotusev.com/)
+- [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
+- [Enterprise Architecture:Forget Systems Thinking, Improve Communication](http://kotusev.com/Enterprise%20Architecture%20-%20Forget%20Systems%20Thinking,%20Improve%20Communication.pdf)
+- [The Hard Side of Business and IT Alignment](http://kotusev.com/The%20Hard%20Side%20of%20Business%20and%20IT%20Alignment.pdf)
 
 -------------
