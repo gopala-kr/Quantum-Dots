@@ -26,6 +26,7 @@
   - Extended ERP 
   - Enterprise Integration
     - Service Oriented Architecture
+    - Event Based Architecture
     - Integration Platform as a service(iPaaS)
       - Past Present & Future of iPaaS
       - Types of Integration
@@ -48,7 +49,7 @@
 - [The Hard Sideof Business andIT Alignment](http://kotusev.com/The%20Hard%20Side%20of%20Business%20and%20IT%20Alignment.pdf)
 
 -----------
-![ea-practice-on-a-page](https://www.bcs.org/media/5126/ea-practice-on-a-page.jpg)
+![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
 ---------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
