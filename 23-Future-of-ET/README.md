@@ -47,12 +47,20 @@
 - [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
 - [Enterprise Architecture:Forget Systems Thinking, Improve Communication](http://kotusev.com/Enterprise%20Architecture%20-%20Forget%20Systems%20Thinking,%20Improve%20Communication.pdf)
 - [The Hard Sideof Business andIT Alignment](http://kotusev.com/The%20Hard%20Side%20of%20Business%20and%20IT%20Alignment.pdf)
+- [Enterprise Architecture Modeling (EA) Tools](https://www.gartner.com/reviews/market/enterprise-architecture-tools)
+- [Enterprise Architecture – Building a Robust Business IT Landscape](https://dzone.com/articles/enterprise-architecture-building-a-robust-business)
+- [Microservices and Enterprise Architecture: When Two Worlds Meet](https://dzone.com/articles/microservices-amp-enterprise-architecturenbspwhen)
+- [Role of Enterprise Architecture in DevOps Adoption](https://dzone.com/articles/role-of-enterprise-architecture-in-devops-adoption)
 
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
 ---------------
+![5MZ2CT6YI9okWw_Ov_Uv7g](https://miro.medium.com/max/3114/1*5MZ2CT6YI9okWw_Ov_Uv7g.png)
+-----------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
+#### 21.2nd Century Landscape
+
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
 ------------
 ------------------------------------
