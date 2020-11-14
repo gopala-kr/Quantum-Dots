@@ -51,6 +51,7 @@
 - [The Zero Marginal Cost Society | Jeremy Rifkin | Talks at Google](https://www.youtube.com/watch?v=5-iDUcETjvo)
 - [Jeremy Rifkin - A history of the future – the world in 2025 - 31 January 2017](https://www.youtube.com/watch?v=TUVeg-x9Za4)
 - [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
+- [21 Lessons for the 21st Century | Yuval Noah Harari | Talks at Google](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&pbjreload=101)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
