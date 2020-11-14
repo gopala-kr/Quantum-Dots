@@ -34,8 +34,15 @@
       - iPaaS Leading Vendors
 ----------------------
 -------------------
+#### Earth Industrial Evolution
+
+- [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
+
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
+
 ---------
+---------------
+
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
