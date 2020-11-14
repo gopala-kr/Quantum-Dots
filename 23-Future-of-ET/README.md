@@ -37,6 +37,7 @@
 #### Earth Industrial Evolution
 
 - [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
+- [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
