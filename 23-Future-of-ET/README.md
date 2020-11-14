@@ -39,6 +39,7 @@
 - [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
 - [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
 - [modelling innovation and the evolution of industries](http://www.globelicsacademy.org/2011_pdf/Malerba%20-%20Modelling%20Innovation.pdf)
+- [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
