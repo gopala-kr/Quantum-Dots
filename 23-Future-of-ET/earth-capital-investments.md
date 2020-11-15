@@ -96,7 +96,12 @@
 
 -------
 ![Venture_capital_by_state](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Venture_capital_by_state.png/1920px-Venture_capital_by_state.png)
-
+----------
+![tech-ipos-worth-the-hype](https://www.visualcapitalist.com/wp-content/uploads/2020/08/tech-ipos-worth-the-hype.jpg)
+-------------
+![tech-IPOs-Supplemental](https://www.visualcapitalist.com/wp-content/uploads/2020/08/tech-IPOs-Supplemental.jpg)
+--------------
+![investing-fintech-infographic-full](https://www.visualcapitalist.com/wp-content/uploads/2019/10/investing-fintech-infographic-full.jpg)
 --------------------
 ----------------
 
@@ -142,15 +147,5 @@
 ![us-exports-imports-trade-balance-im-3ddc](https://cdn.howmuch.net/articles/us-exports-imports-trade-balance-im-3ddc.jpg)
 -------------------------
 ![us-exports-imports-trade-balance-bal-4221](https://cdn.howmuch.net/articles/us-exports-imports-trade-balance-bal-4221.jpg)
----------
-![tech-ipos-worth-the-hype](https://www.visualcapitalist.com/wp-content/uploads/2020/08/tech-ipos-worth-the-hype.jpg)
--------------
-![tech-IPOs-Supplemental](https://www.visualcapitalist.com/wp-content/uploads/2020/08/tech-IPOs-Supplemental.jpg)
--------------
-![megatrends-tech-breakthroughs](https://www.visualcapitalist.com/wp-content/uploads/2019/12/megatrends-tech-breakthroughs.png)
---------
-![Slide1-World-map-with-a-node-map-of-the-financial-markets](https://www.dittotrade.academy/wp-content/uploads/2019/04/Slide1-World-map-with-a-node-map-of-the-financial-markets.png)
------------
-![investing-fintech-infographic-full](https://www.visualcapitalist.com/wp-content/uploads/2019/10/investing-fintech-infographic-full.jpg)
 -----------
 ---------------
