@@ -7,7 +7,8 @@
 - [Q3 2020 Global Venture Report: Funding Holds Up And The Exit Markets Open](https://news.crunchbase.com/news/q3-2020-global-venture-report/)
 - [Venture Capitalists Around the World](https://www.cbinsights.com/research/top-venture-capital-partners/)
 - [Startup Accelerators Around the World](https://about.crunchbase.com/blog/100-startup-accelerators-around-the-world)
-- [http://seedrankings.com/](http://seedrankings.com/)
+- [seedrankings.com/](http://seedrankings.com/)
+- [seed-db.com/accelerators](https://www.seed-db.com/accelerators)
 
 -------------
          
@@ -18,6 +19,14 @@
          - In 2008, global annual VC investment sat at $53 billion, which means that there has been a 17% CAGR in financing over the past decade.
          - A typical VC firm manages about $207 million in venture capital per year for its investors.
 ------------
+![56c767d36e97c61e048b85b0](https://i.insider.com/56c767d36e97c61e048b85b0?width=1000&format=jpeg&auto=webp)
+
+---------------
+![startup-accelerators-11-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-11-1024.jpg?cb=1495614545)
+-----------
+![startup-accelerators-12-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-12-1024.jpg?cb=1495614545)
+
+------------------
 
 ![image-1603542550660-4334efe645f5f05f177e68636089331e](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/426537/image-1603542550660-4334efe645f5f05f177e68636089331e.png)
 
