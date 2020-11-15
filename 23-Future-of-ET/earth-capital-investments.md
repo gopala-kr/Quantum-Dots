@@ -1,3 +1,9 @@
+
+- [Venture Capital’s Role in Financing Innovation: What We Know and How Much We Still Need to Learn, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
+
+![vc-funding](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-funding.PNG)
+
+--------------------
 ----------------
 ![bitcoin-money-economy-in-perspective-7dd6](https://cdn.howmuch.net/articles/bitcoin-money-economy-in-perspective-7dd6.jpg)
 ---------
