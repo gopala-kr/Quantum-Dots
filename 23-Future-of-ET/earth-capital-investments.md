@@ -6,6 +6,7 @@
 - [A Look At Global Venture Funding In 2020](http://about.crunchbase.com/wp-content/uploads/2020/08/Crunchbase_State_of_Funding_Covid_FINAL.pdf)
 - [Q3 2020 Global Venture Report: Funding Holds Up And The Exit Markets Open](https://news.crunchbase.com/news/q3-2020-global-venture-report/)
 - [Venture Capitalists -2019](https://www.cbinsights.com/research/top-venture-capital-partners/)
+
 -------------
          
          - Global venture funding is down 6 percent from the first half of 2019. Excluding $15.2 billion of funding for India’s Reliance Jio, 1H-2020 is down 17 percent from 1H-2019. In 1H-2020, late-stage and technology growth rounds accounted for 66 percent of funding, up from 59 percent in 1H-2019
@@ -104,6 +105,8 @@
 ![broad-money-world-a4f5](https://cdn.howmuch.net/articles/broad-money-world-a4f5.jpg)
 -----------
 ![Capitalization-d09f](https://cdn.howmuch.net/articles/Capitalization-d09f.png)
+---------
+![Top-10-Exchanges_CD-01](https://staticshare.america.gov/uploads/2018/07/Top-10-Exchanges_CD-01.jpg)
 -----------------
 -------------
 ### [The $88 Trillion Earth Economy(GDP) 2020](https://www.visualcapitalist.com/the-88-trillion-world-economy-in-one-chart/)
@@ -114,6 +117,8 @@
 
 ![world-economy-ppp-gdp-1200](https://www.visualcapitalist.com/wp-content/uploads/2019/09/world-economy-ppp-gdp-1200.jpg)
 ----------------
+![040218rs3](https://www.nasdaq.com/uploadedimages/author/bbrooks/040218rs3.png)
+----------
 ![TimelineEconomicHistory-5c3b-c601](https://cdn.howmuch.net/articles/TimelineEconomicHistory-5c3b-c601.jpg)
 --------------
 ![new_computer-devices-exports-by-country-copy-50e2](https://cdn.howmuch.net/articles/new_computer-devices-exports-by-country-copy-50e2.jpg)
@@ -143,7 +148,8 @@
 ![tech-IPOs-Supplemental](https://www.visualcapitalist.com/wp-content/uploads/2020/08/tech-IPOs-Supplemental.jpg)
 -------------
 ![megatrends-tech-breakthroughs](https://www.visualcapitalist.com/wp-content/uploads/2019/12/megatrends-tech-breakthroughs.png)
-
+--------
+![Slide1-World-map-with-a-node-map-of-the-financial-markets](https://www.dittotrade.academy/wp-content/uploads/2019/04/Slide1-World-map-with-a-node-map-of-the-financial-markets.png)
 -----------
 ![investing-fintech-infographic-full](https://www.visualcapitalist.com/wp-content/uploads/2019/10/investing-fintech-infographic-full.jpg)
 -----------
