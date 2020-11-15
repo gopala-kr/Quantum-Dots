@@ -1,8 +1,18 @@
 -------------
 
 - [Venture Capital’s Role in Financing Innovation: What We Know and How Much We Still Need to Learn, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
+- [State of the Venture Capital Industry in 2019](https://www.toptal.com/finance/venture-capital-consultants/state-of-venture-capital-industry-2019)
+- [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
 
+-------------
+
+         - The year of 2018 saw a total of $254 billion invested globally into ~18,000 startups via venture capital financing—a 46% leap from 2017’s figures—with 52% ($131 billion) landing in the US alone.
+         - In 2008, global annual VC investment sat at $53 billion, which means that there has been a 17% CAGR in financing over the past decade.
 ------------
+
+![image-1603542550660-4334efe645f5f05f177e68636089331e](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/426537/image-1603542550660-4334efe645f5f05f177e68636089331e.png)
+
+----------------------
 
 ![vc-funding](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-funding.PNG)
 
