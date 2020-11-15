@@ -45,5 +45,7 @@
 ![Major_Evolutionary_Transitions_digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Major_Evolutionary_Transitions_digital.jpg/1024px-Major_Evolutionary_Transitions_digital.jpg)
 ----------------
 ![writings-6-epochs-of-evolution-A1](https://www.kurzweilai.net/images/writings-6-epochs-of-evolution-A1.png)
+--------
+![megatrends-tech-breakthroughs](https://www.visualcapitalist.com/wp-content/uploads/2019/12/megatrends-tech-breakthroughs.png)
 ---------
 -------------
