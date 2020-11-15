@@ -11,6 +11,44 @@
 - [seed-db.com/accelerators](https://www.seed-db.com/accelerators)
 
 -------------
+<ul style="font-size: 14px;">
+<li><a href="http://wefunder.com" rel="noopener" target="_blank"><span style="font-size: 16px;"> WeFunder</span></a></li>
+<li><a href="http://seedinvest.com" rel="noopener" target="_blank"><span style="font-size: 16px;">SeedInvest</span></a></li>
+<li><a href="http://startengine.com" rel="noopener" target="_blank"><span style="font-size: 16px;">StartEngine</span></a></li>
+<li><a href="http://nextseed.com" rel="noopener" target="_blank"><span style="font-size: 16px;">NextSeed&nbsp;</span></a></li>
+<li><a href="https://republic.co/" rel="noopener" target="_blank"><span style="font-size: 16px;">Republic</span></a></li>
+<li><a href="http://microseed.com" rel="noopener" target="_blank"><span style="font-size: 16px;">Microseed</span></a></li>
+<li><a href="https://www.nextseed.com/" rel="noopener" target="_blank"><span style="font-size: 16px;">Nextseed</span></a></li>
+</ul>
+
+<ul style="font-size: 16px;">
+<li><a href="https://news.mit.edu/topic/startups" rel="noopener" target="_blank">MIT Startup News</a></li>
+<li><a href="https://techcrunch.com/" rel="noopener" target="_blank">TechCrunch </a></li>
+<li><a href="https://www.entrepreneur.com/topic/startups" rel="noopener" target="_blank">Entrepreneur</a></li>
+<li><a href="https://www.cnbc.com/startups/" rel="noopener" target="_blank">CNBC</a></li>
+<li><a href="https://mashable.com/category/startups/" rel="noopener" target="_blank">Mashable</a></li>
+<li><a href="https://www.geekwire.com/startups/" rel="noopener" target="_blank">GeekWire</a></li>
+<li><a href="https://www.bizjournals.com/bizjournals/topic/startups" rel="noopener" target="_blank">The Business Journals Startup News</a></li>
+</ul>
+
+<ul>
+<li style="text-align: left;"><span style="font-size: 16px;"><span><a href="https://www.ycombinator.com/companies/" rel=" noopener">Y-Combinator companies</a></span></span></li>
+<li style="text-align: left;"><a href="https://500.co/accelerators/san-francisco/apply" rel="noopener" target="_blank"><span style="font-size: 16px;"><span>The 500 Startups Portfolio (500 Startups Application)</span></span></a></li>
+<li style="text-align: left;"><a href="https://www.techstars.com/portfolio" rel=" noopener"><span style="font-size: 16px;"><span>Techstars Current Portfolio</span></span></a></li>
+<li style="text-align: left;"><a href="https://angelpad.com/portfolio/" rel=" noopener"><span style="font-size: 16px;"><span>AngelPad Alumni Portfolio</span></span></a></li>
+<li style="text-align: left;"><a href="https://www.dreamit.com/portfolio" rel=" noopener"><span style="font-size: 16px;"><span>DreamIT Portfolio</span></span></a></li>
+<li style="text-align: left;"><a href="http://launchpad.la/companies/" rel=" noopener"><span style="font-size: 16px;"><span>Launchpad LA companies</span></span></a></li>
+</ul>
+
+<ul style="font-size: 16px;">
+<li><a href="https://angel.co/" rel="noopener" target="_blank">AngelList</a></li>
+<li><a href="https://www.equitynet.com/" rel="noopener" target="_blank"><span>EquityNet</span></a></li>
+<li><a href="https://www.crowdfunder.com/" rel="noopener" target="_blank"><span>Crowdfunder</span></a></li>
+<li><span><a href="https://www.fundable.com/" rel="noopener" target="_blank">Fundable</a></span></li>
+<li><a href="https://www.onevest.com/" rel="noopener" target="_blank"><span>OneVest</span></a></li>
+</ul>
+
+-------------
          
          - Global venture funding is down 6 percent from the first half of 2019. Excluding $15.2 billion of funding for India’s Reliance Jio, 1H-2020 is down 17 percent from 1H-2019. In 1H-2020, late-stage and technology growth rounds accounted for 66 percent of funding, up from 59 percent in 1H-2019
          - The year of 2018 saw a total of $254 billion invested globally into ~18,000 startups via venture capital financing—a 46% leap from 2017’s figures—with 52% ($131 billion) landing in the US alone.
@@ -19,6 +57,8 @@
          - In 2008, global annual VC investment sat at $53 billion, which means that there has been a 17% CAGR in financing over the past decade.
          - A typical VC firm manages about $207 million in venture capital per year for its investors.
 ------------
+
+----------------
 ![56c767d36e97c61e048b85b0](https://i.insider.com/56c767d36e97c61e048b85b0?width=1000&format=jpeg&auto=webp)
 
 -----------------
@@ -59,6 +99,10 @@
 --------------
 ![is-vc-still-a-thing-final-38-1024](https://image.slidesharecdn.com/isvcstillathing-final-190204194013/95/is-vc-still-a-thing-final-38-1024.jpg?cb=1580173326)
 
+----------------
+![1*Hm_AS5sEnzhx-HzuHZn-Ew](https://miro.medium.com/max/1050/1*Hm_AS5sEnzhx-HzuHZn-Ew.png)
+------------------
+![equity-dilution](https://arkenea.com/blog/wp-content/uploads/2015/08/equity-dilution.png)
 -------------
 ![upfront-state-of-the-vc-tech-industry-2017-52-1024](https://image.slidesharecdn.com/stateofthevcindustry1-30-2017-170205022829/95/upfront-state-of-the-vc-tech-industry-2017-52-1024.jpg?cb=1486393091)
 
@@ -93,6 +137,10 @@
 ---------------
 ![building-startup-ecosystems-the-rise-of-microvcs-26-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-26-1024.jpg?cb=1414530988)
 
+-------------
+![the-network-effects-bible-7-1024](https://image.slidesharecdn.com/thenfxbible-finalslideshare1-180501010522/95/the-network-effects-bible-7-1024.jpg?cb=1585885440)
+
+----------------
 ---------------
 ![dinosaurs-vs-unicorns-aka-bubble-my-ass-all-dinosaurs-gonna-die-london-june-2016-5-1024](https://image.slidesharecdn.com/dinouni-160613133803/95/dinosaurs-vs-unicorns-aka-bubble-my-ass-all-dinosaurs-gonna-die-london-june-2016-5-1024.jpg?cb=1465825244)
 
