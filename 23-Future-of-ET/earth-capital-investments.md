@@ -3,16 +3,52 @@
 - [Venture Capital’s Role in Financing Innovation: What We Know and How Much We Still Need to Learn, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
 - [State of the Venture Capital Industry in 2019](https://www.toptal.com/finance/venture-capital-consultants/state-of-venture-capital-industry-2019)
 - [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
-
+- [A Look At Global Venture Funding In 2020](http://about.crunchbase.com/wp-content/uploads/2020/08/Crunchbase_State_of_Funding_Covid_FINAL.pdf)
+- [Q3 2020 Global Venture Report: Funding Holds Up And The Exit Markets Open](https://news.crunchbase.com/news/q3-2020-global-venture-report/)
+- [Venture Capitalists -2019](https://www.cbinsights.com/research/top-venture-capital-partners/)
 -------------
-
+         
+         - Global venture funding is down 6 percent from the first half of 2019. Excluding $15.2 billion of funding for India’s Reliance Jio, 1H-2020 is down 17 percent from 1H-2019. In 1H-2020, late-stage and technology growth rounds accounted for 66 percent of funding, up from 59 percent in 1H-2019
          - The year of 2018 saw a total of $254 billion invested globally into ~18,000 startups via venture capital financing—a 46% leap from 2017’s figures—with 52% ($131 billion) landing in the US alone.
          - In 2008, global annual VC investment sat at $53 billion, which means that there has been a 17% CAGR in financing over the past decade.
 ------------
 
 ![image-1603542550660-4334efe645f5f05f177e68636089331e](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/426537/image-1603542550660-4334efe645f5f05f177e68636089331e.png)
 
+---------
+![Global_Funding_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_Funding_Q32020-1024x891.jpg)
 ----------------------
+![GlobalFundingGraph_1](https://about.crunchbase.com/wp-content/uploads/2020/08/GlobalFundingGraph_1-2048x981.jpg)
+
+---------
+![GlobalFundingGraph_2](https://about.crunchbase.com/wp-content/uploads/2020/08/GlobalFundingGraph_2-2048x971.jpg)
+
+----------
+![Global_Seed_Q32020-1024x741](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_Seed_Q32020-1024x741.jpg)
+
+---------
+![Global_Early_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_Early_Q32020-1024x736.jpg)
+
+-------
+![Global_Late_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_Late_Q32020-1024x731.jpg)
+
+--------
+![Global_TG_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_TG_Q32020-1024x730.jpg)
+
+---------
+![Global_INV_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_INV_Q32020-1024x999.jpg)
+
+---------
+![Global_ACQ_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_ACQ_Q32020-1024x735.jpg)
+
+---------
+
+![Global_MA_Q32020](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_MA_Q32020-1.jpg)
+
+----------
+![Global_IPO_Q32020](http://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/Global_IPO_Q32020-1024x989.jpg)
+
+----------
 
 ![vc-funding](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-funding.PNG)
 
@@ -29,8 +65,40 @@
 -------------
 ![vc-firms](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-firms.PNG)
 
+--------
+![image-1561023232725-4f56e54749a25183735b02f44d3c4172](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22131/image-1561023232725-4f56e54749a25183735b02f44d3c4172.png)
+
+--------
+![image-1560985152659-cef77b1d4700fda2fcfc8088d047bfa9](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22105/image-1560985152659-cef77b1d4700fda2fcfc8088d047bfa9.png)
+
+-------
+![image-1560985374967-5ea4cb3c39cb7246d629b0246e7a6ebf](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22107/image-1560985374967-5ea4cb3c39cb7246d629b0246e7a6ebf.png)
+
+--------
+![image-1560985666450-9f46036b07f05a0ee73efa884001945b](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22113/image-1560985666450-9f46036b07f05a0ee73efa884001945b.png)
+
+--------
+![image-1561023706928-38741a021c8125ebb408708724fe5a9f](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22138/image-1561023706928-38741a021c8125ebb408708724fe5a9f.png)
+
+---------
+![image-1561023762260-8e4aadab55780be997e076cab1dae742](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/22139/image-1561023762260-8e4aadab55780be997e076cab1dae742.png)
+
+-------
+![8H66p9D73H1AS7RXRVji3w](https://miro.medium.com/max/481/1*8H66p9D73H1AS7RXRVji3w.png)
+
+-----------
+---------------
+![US_VC_funding](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_VC_funding.png/1920px-US_VC_funding.png)
+
+--------
+![Venture_capital_by_area_history](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Venture_capital_by_area_history.png/1920px-Venture_capital_by_area_history.png)
+
+-------
+![Venture_capital_by_state](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Venture_capital_by_state.png/1920px-Venture_capital_by_state.png)
+
 --------------------
 ----------------
+
 ![bitcoin-money-economy-in-perspective-7dd6](https://cdn.howmuch.net/articles/bitcoin-money-economy-in-perspective-7dd6.jpg)
 ---------
 ![broad-money-world-a4f5](https://cdn.howmuch.net/articles/broad-money-world-a4f5.jpg)
