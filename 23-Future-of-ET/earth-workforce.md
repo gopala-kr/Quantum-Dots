@@ -39,3 +39,7 @@
 -------------------------
 ![large_wIq9EksQOpPozJxL-_2FMQ87bcrneAJQYJ0_zABgelo](https://assets.weforum.org/editor/large_wIq9EksQOpPozJxL-_2FMQ87bcrneAJQYJ0_zABgelo.png)
 --------------
+
+![image-1586261439483-0d8b6bcfce5e15fea1680d26ecfb210b](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/227062/image-1586261439483-0d8b6bcfce5e15fea1680d26ecfb210b.png)
+
+------------
