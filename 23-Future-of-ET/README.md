@@ -42,6 +42,7 @@
 - [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
 - [modelling innovation and the evolution of industries](http://www.globelicsacademy.org/2011_pdf/Malerba%20-%20Modelling%20Innovation.pdf)
 - [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
+- [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
 - [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
