@@ -118,6 +118,7 @@
 - [The Future Tech for Fighting Plastic Pollution](https://www.youtube.com/watch?v=D7vRm1E5rn0)
 - [What Future Humans, Cities and Bodies Will Look Like | space and astronomy](https://www.youtube.com/watch?v=cpbXISebNcQ)
 - [The Race to Build the World's First Hyperloop](https://www.youtube.com/watch?v=luDqbIZGgQM)
+- [The History Of Power Plants | Amazing Documentary TV](https://www.youtube.com/watch?v=XPJz7fAfZT8)
 - [Vehicles Of The Future - Future Transportation System](https://www.youtube.com/watch?v=CUS2w4y2Qj4)
 - [Future Earth - Full Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7Ifk0Ks05gYcoOIVYeTkt8lvc)
 - [How to Save the Planet | DAVOS 2020](https://www.youtube.com/playlist?list=PL7m903CwFUgl8cMeAphYWaHVEgXEbNsae)
