@@ -25,7 +25,27 @@
 ![startup-accelerators-11-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-11-1024.jpg?cb=1495614545)
 -----------
 ![startup-accelerators-12-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-12-1024.jpg?cb=1495614545)
+----------------
+![building-startup-ecosystems-the-rise-of-microvcs-16-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-16-1024.jpg?cb=1414530988)
+-----------
+![building-startup-ecosystems-the-rise-of-microvcs-17-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-17-1024.jpg?cb=1414530988)
+-------------
+![building-startup-ecosystems-the-rise-of-microvcs-18-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-18-1024.jpg?cb=1414530988)
 
+----------------
+![building-startup-ecosystems-the-rise-of-microvcs-19-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-19-1024.jpg?cb=1414530988)
+
+-------------
+![building-startup-ecosystems-the-rise-of-microvcs-21-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-21-1024.jpg?cb=1414530988)
+
+----------------
+![building-startup-ecosystems-the-rise-of-microvcs-22-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-22-1024.jpg?cb=1414530988)
+-----------
+![building-startup-ecosystems-the-rise-of-microvcs-23-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-23-1024.jpg?cb=1414530988)
+---------------
+![building-startup-ecosystems-the-rise-of-microvcs-26-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-26-1024.jpg?cb=1414530988)
+
+--------------------
 ------------------
 
 ![image-1603542550660-4334efe645f5f05f177e68636089331e](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/426537/image-1603542550660-4334efe645f5f05f177e68636089331e.png)
