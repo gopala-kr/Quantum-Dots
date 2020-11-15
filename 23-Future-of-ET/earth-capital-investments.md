@@ -1,7 +1,23 @@
+-------------
 
 - [Venture Capital’s Role in Financing Innovation: What We Know and How Much We Still Need to Learn, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
 
+------------
+
 ![vc-funding](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-funding.PNG)
+
+-----------
+
+![vc-evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-evolution.PNG)
+
+-----------
+![vc-state-us](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-state-us.PNG)
+
+-----------
+![vc-by-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-by-sector.PNG)
+
+-------------
+![vc-firms](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/vc-firms.PNG)
 
 --------------------
 ----------------
