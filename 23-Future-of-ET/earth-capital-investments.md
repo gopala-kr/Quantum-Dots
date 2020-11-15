@@ -5,13 +5,18 @@
 - [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
 - [A Look At Global Venture Funding In 2020](http://about.crunchbase.com/wp-content/uploads/2020/08/Crunchbase_State_of_Funding_Covid_FINAL.pdf)
 - [Q3 2020 Global Venture Report: Funding Holds Up And The Exit Markets Open](https://news.crunchbase.com/news/q3-2020-global-venture-report/)
-- [Venture Capitalists -2019](https://www.cbinsights.com/research/top-venture-capital-partners/)
+- [Venture Capitalists Around the World](https://www.cbinsights.com/research/top-venture-capital-partners/)
+- [Startup Accelerators Around the World](https://about.crunchbase.com/blog/100-startup-accelerators-around-the-world)
+- [http://seedrankings.com/](http://seedrankings.com/)
 
 -------------
          
          - Global venture funding is down 6 percent from the first half of 2019. Excluding $15.2 billion of funding for India’s Reliance Jio, 1H-2020 is down 17 percent from 1H-2019. In 1H-2020, late-stage and technology growth rounds accounted for 66 percent of funding, up from 59 percent in 1H-2019
          - The year of 2018 saw a total of $254 billion invested globally into ~18,000 startups via venture capital financing—a 46% leap from 2017’s figures—with 52% ($131 billion) landing in the US alone.
+         - In 2015, US-based VCs raised about $28.2 billion in total, and deployed nearly $60 billion to 4,561 startups, according to the National Venture Capital Association.
+         - In 2015, all US-based angel investors (individual investors who directly invest their own money in startups), raised and deployed over $24 billion in 2015, spread throughout more than 71,000 companies.
          - In 2008, global annual VC investment sat at $53 billion, which means that there has been a 17% CAGR in financing over the past decade.
+         - A typical VC firm manages about $207 million in venture capital per year for its investors.
 ------------
 
 ![image-1603542550660-4334efe645f5f05f177e68636089331e](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/426537/image-1603542550660-4334efe645f5f05f177e68636089331e.png)
