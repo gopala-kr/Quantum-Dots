@@ -130,6 +130,9 @@
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
+------------
+
+![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 ---------
 ---------------
 
