@@ -35,3 +35,5 @@
 ------
 ![US-Unemployment-Rally-v4a---2500px---72dpi-b56e](https://cdn.howmuch.net/articles/US-Unemployment-Rally-v4a---2500px---72dpi-b56e.jpg)
 -------------------------
+![large_wIq9EksQOpPozJxL-_2FMQ87bcrneAJQYJ0_zABgelo](https://assets.weforum.org/editor/large_wIq9EksQOpPozJxL-_2FMQ87bcrneAJQYJ0_zABgelo.png)
+--------------
