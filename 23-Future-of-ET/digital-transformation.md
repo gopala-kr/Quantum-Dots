@@ -1,4 +1,6 @@
 
+![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
+---------------------
 ![startup-accelerators-2-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-2-1024.jpg?cb=1495614545)
 ------------
 ![startup-accelerators-3-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-3-1024.jpg?cb=1495614545)
@@ -7,6 +9,8 @@
 ------------
 ![startup-accelerators-5-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-5-1024.jpg?cb=1495614545)
 --------------------
+![building-startup-ecosystems-the-rise-of-microvcs-10-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-10-1024.jpg?cb=1414530988)
+---------------
 ![dow-jones-industrial-average-companies](https://www.visualcapitalist.com/wp-content/uploads/2020/10/dow-jones-industrial-average-companies.jpg)
 ----------------
 
