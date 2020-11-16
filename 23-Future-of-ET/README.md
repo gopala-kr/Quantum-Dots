@@ -132,6 +132,13 @@
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
 ------------
+- [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
+- [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
+- [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
+- [Structural transformation: how did today’s rich countries become ‘deindustrialized’?](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
+---------
+![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
+------------
 
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 ---------
