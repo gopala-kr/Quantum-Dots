@@ -132,15 +132,33 @@
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
 ------------
+#### Industries & Economic Sectors
 - [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
 - [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
 - [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
 - [Structural transformation: how did today’s rich countries become ‘deindustrialized’?](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
----------
+- [Share of economic sectors in the global gross domestic product (GDP) from 2008 to 2018](https://www.statista.com/statistics/256563/share-of-economic-sectors-in-the-global-gross-domestic-product/)
+- [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
+- [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
+
+-----------------
+
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
+
+---------
+#### Technologies
+
+- [Technological Progress](https://ourworldindata.org/technological-progress)
+- [Technology Adoption](https://ourworldindata.org/technology-adoption)
+
 ------------
 
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
+------------
+#### Information Technology(Digital)) Value Chain
+
+![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
+
 ---------
 ---------------
 
@@ -148,6 +166,7 @@
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
+-------------------------------
 
 #### Enterprise Architecture
 
@@ -167,6 +186,8 @@
 -----------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 --------
+--------------------
+
 #### 21.2nd Century Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
