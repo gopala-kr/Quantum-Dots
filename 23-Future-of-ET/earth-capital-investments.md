@@ -1,6 +1,6 @@
 -------------
 
-- [Venture Capital’s Role in Financing Innovation: What We Know and How Much We Still Need to Learn, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
+- [Venture Capital’s Role in Financing Innovation, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
 - [State of the Venture Capital Industry in 2019](https://www.toptal.com/finance/venture-capital-consultants/state-of-venture-capital-industry-2019)
 - [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
 - [A Look At Global Venture Funding In 2020](http://about.crunchbase.com/wp-content/uploads/2020/08/Crunchbase_State_of_Funding_Covid_FINAL.pdf)
@@ -11,10 +11,14 @@
 - [seedrankings.com/](http://seedrankings.com/)
 - [seed-db.com/accelerators](https://www.seed-db.com/accelerators)
 - [VC: An American History, 2019](http://www.ianhathaway.org/blog/2019/7/31/vc-an-american-history)
-- [Titans of Tech 2020 - Pandemic Proof?](https://www.youtube.com/watch?v=aeVGOq0EKgw&feature=emb_logo)
-- [Unicorn Hunters: These Investors Have Backed The Most Billion-Dollar Companies](https://www.cbinsights.com/research/best-venture-capital-unicorn-spotters-2/)
-- [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
+- [Titans of Tech 2020](https://www.youtube.com/watch?v=aeVGOq0EKgw&feature=emb_logo)
+- [Unicorn Hunters](https://www.cbinsights.com/research/best-venture-capital-unicorn-spotters-2/)
+- [unicorns](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
 - [crunchbase.com/](https://www.crunchbase.com/)
+-------------
+- [Best Practices](https://www.eloquens.com/)
+- [score.org](https://www.score.org/resource/business-planning-financial-statements-template-gallery)
+- [slidebean.com](https://slidebean.com/)
 -------------
 <ul style="font-size: 14px;">
 <li><a href="http://wefunder.com" rel="noopener" target="_blank"><span style="font-size: 16px;"> WeFunder</span></a></li>
