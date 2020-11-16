@@ -377,6 +377,10 @@
 ![top-unicorn-valuation](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/05/07164244/top-unicorn-valuation.png)
 --------
 ![early-stage-unicorns-1024x621](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/05/07164311/early-stage-unicorns-1024x621.png)
+-----------
+![28244ae48a689c6](http://wamda-prod.s3.amazonaws.com/content/28244ae48a689c6.jpg)
+--------------
+![DJLiSLXUQAAigXj](https://pbs.twimg.com/media/DJLiSLXUQAAigXj.jpg)
 ----------
 ![Unicorn_startups_by_country](https://massmediagroup.pro/storage/blog/posts/54/Unicorn_startups_by_country-min.jpg)
 
