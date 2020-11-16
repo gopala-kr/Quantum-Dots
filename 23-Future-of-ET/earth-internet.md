@@ -12,6 +12,11 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [(DOE) Unveils Blueprint for a U.S. Quantum Internet, 2020](https://quantumcomputingreport.com/department-of-energy-doe-unveils-blueprint-for-a-u-s-quantum-internet/) | [Workshop](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202004/Quantum_Internet_Blueprint_Update.pdf?la=en&hash=8C076C1BEB7CA49A3920B1A3C15AA531B48BDD72)
 - [China’s 2,000-km Quantum Link](https://spectrum.ieee.org/telecom/security/chinas-2000km-quantum-link-is-almost-complete)
 - [China Quantum communication takes a major leap with satellite-based experiment](https://www.intelligentliving.co/china-quantum-communication-satellites/)
+--------
+- [Internet value chain economics](https://www.de.kearney.com/communications-media-technology/article?/a/internet-value-chain-economics)
+- [What Happens Every Minute on the Internet in 2020](https://www.visualcapitalist.com/every-minute-internet-2020/)
+- [Telecom Industry in India: Evolution, Current Challenges & Future Road Map](http://indiraisbs.ac.in/IMR/wp-content/uploads/2017/11/10__July_2017.pdf)
+- [The Internet Value Chain - A study on the economics of the internet May 2016](https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_TheInternetValueChain.pdf)
 -----------------
 
       - From 2016-2020, over 100 new cables were laid with an estimated value of $14 billion. Now, even the most remote Polynesian islands have access to high-speed internet.
@@ -91,3 +96,9 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 -----------
 ![Share-of-internet-users](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Share-of-internet-users.png)
 ---------------
+![internet-of-things-value-chain](https://recap-project.eu/wp-content/uploads/2017/07/internet-of-things-value-chain.png)
+---------
+![1fc7857f-d343-fcff-a091-f89cd37b10d0](https://www.de.kearney.com/documents/20152/434237/FG-Internet-Value-Chain-Economics-4.png/1fc7857f-d343-fcff-a091-f89cd37b10d0?t=1579294161572)
+--------
+![2_3183](https://artes.esa.int/sites/default/files/projectimage/2_3183.jpg)
+----------
