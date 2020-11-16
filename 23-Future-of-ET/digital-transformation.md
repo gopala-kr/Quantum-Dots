@@ -101,6 +101,7 @@
 ------------
 ![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
 ----------
-
+![28244ae48a689c6](http://wamda-prod.s3.amazonaws.com/content/28244ae48a689c6.jpg)
+------------------
 ![Em1ovKlWEAA8pKU?format=jpg&name=medium](https://pbs.twimg.com/media/Em1ovKlWEAA8pKU?format=jpg&name=medium)
 -------------
