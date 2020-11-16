@@ -11,7 +11,9 @@
 - [seedrankings.com/](http://seedrankings.com/)
 - [seed-db.com/accelerators](https://www.seed-db.com/accelerators)
 - [VC: An American History, 2019](http://www.ianhathaway.org/blog/2019/7/31/vc-an-american-history)
-
+- [Titans of Tech 2020 - Pandemic Proof?](https://www.youtube.com/watch?v=aeVGOq0EKgw&feature=emb_logo)
+- [Unicorn Hunters: These Investors Have Backed The Most Billion-Dollar Companies](https://www.cbinsights.com/research/best-venture-capital-unicorn-spotters-2/)
+- [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
 -------------
 <ul style="font-size: 14px;">
 <li><a href="http://wefunder.com" rel="noopener" target="_blank"><span style="font-size: 16px;"> WeFunder</span></a></li>
@@ -123,7 +125,19 @@
 -------------
 ![upfront-state-of-the-vc-tech-industry-2017-52-1024](https://image.slidesharecdn.com/stateofthevcindustry1-30-2017-170205022829/95/upfront-state-of-the-vc-tech-industry-2017-52-1024.jpg?cb=1486393091)
 ---------
+![Startup_Financing_Cycle](https://upload.wikimedia.org/wikipedia/commons/e/e3/Startup_Financing_Cycle.png)
+-------
+![YxPchuWgOJRp3pYExSJfQw](https://miro.medium.com/max/2262/1*YxPchuWgOJRp3pYExSJfQw.png)
 
+---------
+![funding-stages](https://tms-outsource.com/blog/wp-content/uploads/2019/11/funding-stages.jpg)
+
+--------
+![1519787443607](https://images.squarespace-cdn.com/content/59c54275f7e0ab2f78fd5984/1519787443607-O1UQAPSJ0H67OF55T3WV/startup+valuation+curve.PNG?format=1500w&content-type=image%2Fpng)
+---------
+![startup-company-valuation-map1](https://blog.gust.com/wp-content/uploads/2016/01/startup-company-valuation-map1.png)
+---------
+![GEWR_LffaIaA226w](https://miro.medium.com/max/894/0*GEWR_LffaIaA226w.png)
 -------------------
 ---------------
 ![startup-accelerators-11-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-11-1024.jpg?cb=1495614545)
@@ -330,5 +344,34 @@
 ![Screen-Shot-2019-09-20-at-8.26.35-AM](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-20-at-8.26.35-AM.png)
 --------
 ![Screen-Shot-2019-09-20-at-8.28.50-AM](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-20-at-8.28.50-AM.png)
+--------
+![unicorn-world-map](https://www.visualcapitalist.com/wp-content/uploads/2017/09/unicorn-world-map.jpg)
+---------
+![The-United-States-Of-Unicorns](https://cbi-research-portal-uploads.s3.amazonaws.com/2017/07/26093557/The-United-States-Of-Unicorns-7.26.17-1.png)
+----------
+![Intl.-unicorns-map-3-image](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/09/20104759/Intl.-unicorns-map-3-image.png)
+----------
+![unicorns-2019-infographic](https://www.visualcapitalist.com/wp-content/uploads/2019/05/unicorns-2019-infographic.jpg)
+----------
+![global-unicorn-club-min](https://massmediagroup.pro/storage/blog/posts/54/global-unicorn-club-min.png)
+--------
+![overcrowded-unicorns-v2-cover](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2015/10/overcrowded-unicorns-v2-cover.png)
+----------
+![crowded-club-draft-2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/crowded-club-draft-2.png)
+-------
+![unicorn-market-map-08](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/08/27180737/unicorn-market-map-08.27.2019.png)
+-------
+![global-unicorns](https://techcrunch.com/wp-content/uploads/2018/11/global-unicorns.png)
+------
+![BigFundingRounds_2007](https://techcrunch.com/wp-content/uploads/2018/11/BigFundingRounds_2007-Chart.png)
+-------
+![top-unicorn-hunters-1024x599](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/05/07164216/top-unicorn-hunters-1024x599.png)
+--------
+![top-unicorn-valuation](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/05/07164244/top-unicorn-valuation.png)
+--------
+![early-stage-unicorns-1024x621](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/05/07164311/early-stage-unicorns-1024x621.png)
+----------
+![Unicorn_startups_by_country](https://massmediagroup.pro/storage/blog/posts/54/Unicorn_startups_by_country-min.jpg)
+
 -----------
 ---------------
