@@ -89,3 +89,5 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 ---------
 ![the-price-of-mobile-internet-worldwide-2019-South-America-fb5b](https://cdn.howmuch.net/articles/the-price-of-mobile-internet-worldwide-2019-South-America-fb5b.jpg)
 -----------
+![Share-of-internet-users](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Share-of-internet-users.png)
+---------------
