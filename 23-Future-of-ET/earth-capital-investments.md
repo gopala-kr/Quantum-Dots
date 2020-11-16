@@ -14,6 +14,7 @@
 - [Titans of Tech 2020 - Pandemic Proof?](https://www.youtube.com/watch?v=aeVGOq0EKgw&feature=emb_logo)
 - [Unicorn Hunters: These Investors Have Backed The Most Billion-Dollar Companies](https://www.cbinsights.com/research/best-venture-capital-unicorn-spotters-2/)
 - [List of unicorn startup companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies)
+- [crunchbase.com/](https://www.crunchbase.com/)
 -------------
 <ul style="font-size: 14px;">
 <li><a href="http://wefunder.com" rel="noopener" target="_blank"><span style="font-size: 16px;"> WeFunder</span></a></li>
@@ -192,6 +193,8 @@
 ![managing-your-startup-board-30-1024](https://image.slidesharecdn.com/finalstartupboards-khoslaventuresceosummitmay2019-compressed-190521221729/95/managing-your-startup-board-30-1024.jpg?cb=1558477483)
 -------------
 ![managing-your-startup-board-31-1024](https://image.slidesharecdn.com/finalstartupboards-khoslaventuresceosummitmay2019-compressed-190521221729/95/managing-your-startup-board-31-1024.jpg?cb=1558477483)
+---------
+![image-10](https://i1.wp.com/borntobeglobal.com/wp-content/uploads/2020/07/image-10.png?w=549&ssl=1)
 --------------------
 ------------------
 
