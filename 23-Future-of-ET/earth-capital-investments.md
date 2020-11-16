@@ -5,10 +5,12 @@
 - [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
 - [A Look At Global Venture Funding In 2020](http://about.crunchbase.com/wp-content/uploads/2020/08/Crunchbase_State_of_Funding_Covid_FINAL.pdf)
 - [Q3 2020 Global Venture Report: Funding Holds Up And The Exit Markets Open](https://news.crunchbase.com/news/q3-2020-global-venture-report/)
+- [India Venture Capital Report 2020](https://www.bain.com/insights/india-venture-capital-report-2020/)
 - [Venture Capitalists Around the World](https://www.cbinsights.com/research/top-venture-capital-partners/)
 - [Startup Accelerators Around the World](https://about.crunchbase.com/blog/100-startup-accelerators-around-the-world)
 - [seedrankings.com/](http://seedrankings.com/)
 - [seed-db.com/accelerators](https://www.seed-db.com/accelerators)
+- [VC: An American History, 2019](http://www.ianhathaway.org/blog/2019/7/31/vc-an-american-history)
 
 -------------
 <ul style="font-size: 14px;">
@@ -59,6 +61,14 @@
 ------------
 
 ----------------
+![2580343-1-eng-GB/chart-lead-pic](https://www.fdiintelligence.com/var/storage/images/media/images/chart-lead-pic/2580343-1-eng-GB/chart-lead-pic.jpg)
+----------------
+![venture-capital.jpg?width=768&scale=both&mode=crop](https://www.phocuswire.com/uploadedimages/uploads/2013/09/venture-capital.jpg?width=768&scale=both&mode=crop)
+--------
+![DUdERiKUMAAvddy](https://pbs.twimg.com/media/DUdERiKUMAAvddy.jpg)
+-------
+![EBWUPucUcAMsnf3](https://pbs.twimg.com/media/EBWUPucUcAMsnf3.jpg)
+---------
 ![56c767d36e97c61e048b85b0](https://i.insider.com/56c767d36e97c61e048b85b0?width=1000&format=jpeg&auto=webp)
 
 -----------------
@@ -103,8 +113,16 @@
 ![1*Hm_AS5sEnzhx-HzuHZn-Ew](https://miro.medium.com/max/1050/1*Hm_AS5sEnzhx-HzuHZn-Ew.png)
 ------------------
 ![equity-dilution](https://arkenea.com/blog/wp-content/uploads/2015/08/equity-dilution.png)
+
+-------
+![venture-capital-chart-expectations](https://d3o1wlpkmt4nt9.cloudfront.net/wp-content/uploads/2017/06/16103228/venture-capital-chart.png)
+--------
+![Private-Equity-Return-Expectations](https://www.wallstreetmojo.com/wp-content/uploads/2017/04/Private-Equity-Return-Expectations.png)
+---------
+![Screen+Shot+2019-07-29+at+10.18.38+AM.png](https://images.squarespace-cdn.com/content/v1/568398f1a2bab87f93f6958b/1564392709263-XX1S1AEUBMOZ0W7DUE32/ke17ZwdGBToddI8pDm48kBmsu3nd1r3AGG13priBvV4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8GRo6ASst2s6pLvNAu_PZdKgqGGX7Wy0uGw3ctoUpu165LlsxtvU-mUyeopcYk8hx0PG4Vz2CPTRioA7VSmu0C0/Screen+Shot+2019-07-29+at+10.18.38+AM.png?format=1000w)
 -------------
 ![upfront-state-of-the-vc-tech-industry-2017-52-1024](https://image.slidesharecdn.com/stateofthevcindustry1-30-2017-170205022829/95/upfront-state-of-the-vc-tech-industry-2017-52-1024.jpg?cb=1486393091)
+---------
 
 -------------------
 ---------------
@@ -124,7 +142,8 @@
 -------------
 ![building-startup-ecosystems-the-rise-of-microvcs-21-1024](https://image.slidesharecdn.com/startupvc-141028211534-conversion-gate02/95/building-startup-ecosystems-the-rise-of-microvcs-21-1024.jpg?cb=1414530988)
 
-----------------
+-----------
+
 ![farming-unicorns-building-startup-investor-ecosystems](https://image.slidesharecdn.com/fu-160502133201/95/farming-unicorns-building-startup-investor-ecosystems-in-emerging-markets-thailand-april-2016-9-1024.jpg?cb=1462196038)
 ------------
 ![arming-unicorns-building-startup-investor-ecosystems-in-emerging-markets-thailand-april](https://image.slidesharecdn.com/fu-160502133201/95/farming-unicorns-building-startup-investor-ecosystems-in-emerging-markets-thailand-april-2016-12-1024.jpg?cb=1462196038)
@@ -295,5 +314,21 @@
 ![us-exports-imports-trade-balance-im-3ddc](https://cdn.howmuch.net/articles/us-exports-imports-trade-balance-im-3ddc.jpg)
 -------------------------
 ![us-exports-imports-trade-balance-bal-4221](https://cdn.howmuch.net/articles/us-exports-imports-trade-balance-bal-4221.jpg)
+---------
+![US-Of-Venture-Capital-Map-10062020-2](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/10/06164135/US-Of-Venture-Capital-Map-10062020-2.png)
+------
+![unicorns-by-valuation](https://cbi-research-portal-uploads.s3.amazonaws.com/2017/11/07110852/unicorns-by-valuation-11.7.17.png)
+------
+![Future-Unicorns-Charts-Industries-V1](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/06/09155100/Future-Unicorns-Charts-Industries-V1.png)
+-------
+![Future-Unicorns-Charts-Geographic-V1](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/06/09155040/Future-Unicorns-Charts-Geographic-V1-1024x815.png)
+---------
+![Game_Changers_12](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/12/10161029/Game_Changers_12-6-36-2-1024x658.png)
+--------
+![0*v0IhSEbb_XUal0cK](https://hackernoon.com/hn-images/0*v0IhSEbb_XUal0cK.png)
+----------
+![Screen-Shot-2019-09-20-at-8.26.35-AM](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-20-at-8.26.35-AM.png)
+--------
+![Screen-Shot-2019-09-20-at-8.28.50-AM](https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-20-at-8.28.50-AM.png)
 -----------
 ---------------
