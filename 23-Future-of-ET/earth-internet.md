@@ -43,6 +43,8 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 ![submarine-cable-network-prev](https://www.visualcapitalist.com/wp-content/uploads/2019/12/submarine-cable-network-prev.png)
 
 ------------
+![2020-CTG-Infrastructure-Map-1-1-scaled](https://www.ctamericas.com/wp-content/uploads/2020/04/2020-CTG-Infrastructure-Map-1-1-scaled.jpg)
+------------
 ![tech-company-submarine-cables](https://www.visualcapitalist.com/wp-content/uploads/2019/12/tech-company-submarine-cables.png)
 -------------
 ![number-of-internet-users-2020](https://www.futuretimeline.net/21stcentury/images/number-of-internet-users-2020.gif)
