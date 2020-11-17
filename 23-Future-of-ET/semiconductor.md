@@ -11,18 +11,19 @@
 ---------
 ![Artifact_Smart-City-Value-Chain-options](https://harborresearch.com/wp-content/uploads/sites/8/2016/12/Artifact_Smart-City-Value-Chain-options.jpg)
 ----------
-![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
-------------
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
 ----------
 ![Fig1-GlobalFootprints-WEB](https://images.carnegieendowment.org/images/article_images/Fig1-GlobalFootprints-WEB.jpg)
 ------------
+![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
+------------
 ![cloud-market-growth-2019-1](https://kinsta.com/wp-content/uploads/2019/10/cloud-market-growth-2019-1.png)
 ------------
 ![jefferies-gcp-projections-2020](https://zdnet4.cbsistatic.com/hub/i/2020/01/28/64ff41b2-20c7-4e29-958a-40b633b5c232/jefferies-gcp-projections-2020.png)
+-----------
+- [As Salesforce Blows By SAP and Oracle, Cloud Wars Top 10 Market Cap Hits $5.66 Trillion](https://cloudwars.co/salesforce/salesforce-sap-oracle-cloud-top-10-market-cap/)
+![Screen-Shot-2020-08-28-at-8.44.03-AM-1024x726](https://cloudwars.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-28-at-8.44.03-AM-1024x726.jpg)
 ------------
-----------
-![DhWdrrvW4AI_qPK](https://pbs.twimg.com/media/DhWdrrvW4AI_qPK.jpg)
 ----------
 ![Cv6SGhcVUAAjUko](https://pbs.twimg.com/media/Cv6SGhcVUAAjUko.jpg)
 ----------
