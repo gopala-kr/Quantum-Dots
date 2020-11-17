@@ -146,13 +146,28 @@
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
 
 ---------
+![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
+------
+![sectors-of-the-economy](https://www.economicshelp.org/wp-content/uploads/2020/05/sectors-of-the-economy.png)
+---------
+![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
+
+----------------
+---------
 #### Emerging Technologies
 
 - [Technological Progress](https://ourworldindata.org/technological-progress)
 - [Technology Adoption](https://ourworldindata.org/technology-adoption)
-
+- [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
+- [Emerging Technologies (2018–2028)](http://winwinweb.co.in/2019/06/28/emerging-technologies/)
+- [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 ------------
-
+![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
+---------
+![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
+----------
+![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
+----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 
 -----------
@@ -182,18 +197,19 @@
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
 --------------------------
-#### Business Process (Example)
+#### 1960's Business Process (Manufacturing Example)
 
-![media%2F61e%2F61e9f57a-cab3-4ddf-9d31-22c8528cc9bb%2FphpCih2WQ](https://d2vlcm61l7u1fs.cloudfront.net/media%2F61e%2F61e9f57a-cab3-4ddf-9d31-22c8528cc9bb%2FphpCih2WQ.png)
+![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
 
 -------------
-#### Business + Information Technology
+#### Business Process + Information Technology
 
 ![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
 
 ------------------
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+
 -----------------------------
 -------------------------------
 
@@ -214,6 +230,7 @@
 ![5MZ2CT6YI9okWw_Ov_Uv7g](https://miro.medium.com/max/3114/1*5MZ2CT6YI9okWw_Ov_Uv7g.png)
 -----------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
+
 --------
 --------------------
 
