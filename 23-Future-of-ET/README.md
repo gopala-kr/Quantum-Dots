@@ -146,7 +146,7 @@
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
 
 ---------
-#### Technologies
+#### Emerging Technologies
 
 - [Technological Progress](https://ourworldindata.org/technological-progress)
 - [Technology Adoption](https://ourworldindata.org/technology-adoption)
@@ -176,8 +176,23 @@
 ![Internet_Value_Chain_MP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MP.PNG)
 ---------
 ---------------
+
+#### Evolution of Information Technologies
+
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
+--------------------------
+#### Business Process (Example)
+
+![media%2F61e%2F61e9f57a-cab3-4ddf-9d31-22c8528cc9bb%2FphpCih2WQ](https://d2vlcm61l7u1fs.cloudfront.net/media%2F61e%2F61e9f57a-cab3-4ddf-9d31-22c8528cc9bb%2FphpCih2WQ.png)
+
+-------------
+#### Business + Information Technology
+
+![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
+
+------------------
+
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 -----------------------------
 -------------------------------
