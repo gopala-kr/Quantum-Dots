@@ -1,6 +1,8 @@
 
 ![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
 ---------------------
+![6135-WEF-Figure2_stg2_FP-1](http://reports.weforum.org/digital-transformation/files/2016/01/6135-WEF-Figure2_stg2_FP-1.png)
+-------------
 ![startup-accelerators-2-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-2-1024.jpg?cb=1495614545)
 ------------
 ![startup-accelerators-3-1024](https://image.slidesharecdn.com/start-upacceleratorsforconfluencev2-170524082847/95/startup-accelerators-3-1024.jpg?cb=1495614545)
