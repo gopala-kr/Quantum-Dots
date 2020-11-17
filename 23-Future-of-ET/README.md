@@ -176,6 +176,9 @@
 
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------
+
+![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+------------------
 ------------------
 #### Information Technology(Digital)) Value Chain
 
@@ -197,23 +200,20 @@
 
 ------------------------
 -------------
-#### Business Process + Information Technology
 
-![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
-
---------------------------
-#### Dititalization of Enterprise Business Processes (Manufacturing Example)
+#### Enterprise Business Processes (Manufacturing Example)
 
 ![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
 
-------------------
+----------------
+#### Business Process(Enterprise/Any Industries) + Information Technology = Digital Transformation
 
-![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
 
 -----------------------------
 -------------------------------
 
-#### Enterprise Architecture
+#### Enterprise Architecture Modeling
 
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
 - [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
@@ -234,7 +234,7 @@
 --------
 --------------------
 
-#### 21.2nd Century Enterpise Tech Landscape
+#### 21.2nd Century Enterprise Tech Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
 ------------
