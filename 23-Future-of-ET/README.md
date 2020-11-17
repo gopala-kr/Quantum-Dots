@@ -34,6 +34,7 @@
       - Types of Integration
       - Integration Protocols
       - iPaaS Leading Vendors
+     - Micro Service Architecture
 ----------------------
 -------------------
 #### Earth Industrial Evolution
