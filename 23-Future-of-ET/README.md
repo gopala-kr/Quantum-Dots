@@ -136,6 +136,7 @@
 - [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
 - [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
 - [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
+- [Sectors of Indian Economy](https://www.drishtiias.com/to-the-points/paper3/sectors-of-indian-economy)
 - [Structural transformation: how did today’s rich countries become ‘deindustrialized’?](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
 - [Share of economic sectors in the global gross domestic product (GDP) from 2008 to 2018](https://www.statista.com/statistics/256563/share-of-economic-sectors-in-the-global-gross-domestic-product/)
 - [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
@@ -148,7 +149,8 @@
 ---------
 ![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
 ------
-
+![27s_sector_model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clark%27s_sector_model.svg/1920px-Clark%27s_sector_model.svg.png)
+----------
 ![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
 
 ----------------
