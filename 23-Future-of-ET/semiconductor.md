@@ -1,29 +1,20 @@
 
 -------------
+![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
+------------
 ![820926](https://apicms.thestar.com.my/uploads/images/2020/08/15/820926.jpg)
 ----------
 ![20181201_FBC833](https://www.economist.com/sites/default/files/images/print-edition/20181201_FBC833.png)
 ----------
 ![Table1_TEM1176_59_theedgemarkets](https://edgemarkets.s3-ap-southeast-1.amazonaws.com/pictures/Table1_TEM1176_59_theedgemarkets.png)
-
 -----------
 ![/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2](https://images.ctfassets.net/y4nxuejkhx03/5AGxje7APvUvq5VMbtlSsE/e71c21deccc0f7859022d4181b1dad45/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2.png?fl=progressive)
 ---------
-![Artifact_Smart-City-Value-Chain-options](https://harborresearch.com/wp-content/uploads/sites/8/2016/12/Artifact_Smart-City-Value-Chain-options.jpg)
-----------
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
 ----------
-![Fig1-GlobalFootprints-WEB](https://images.carnegieendowment.org/images/article_images/Fig1-GlobalFootprints-WEB.jpg)
-------------
-![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
-------------
 ![cloud-market-growth-2019-1](https://kinsta.com/wp-content/uploads/2019/10/cloud-market-growth-2019-1.png)
 ------------
 ![jefferies-gcp-projections-2020](https://zdnet4.cbsistatic.com/hub/i/2020/01/28/64ff41b2-20c7-4e29-958a-40b633b5c232/jefferies-gcp-projections-2020.png)
------------
-- [As Salesforce Blows By SAP and Oracle, Cloud Wars Top 10 Market Cap Hits $5.66 Trillion](https://cloudwars.co/salesforce/salesforce-sap-oracle-cloud-top-10-market-cap/)
-![Screen-Shot-2020-08-28-at-8.44.03-AM-1024x726](https://cloudwars.co/wp-content/uploads/2020/08/Screen-Shot-2020-08-28-at-8.44.03-AM-1024x726.jpg)
-------------
 ----------
 ![Cv6SGhcVUAAjUko](https://pbs.twimg.com/media/Cv6SGhcVUAAjUko.jpg)
 ----------
