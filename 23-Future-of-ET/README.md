@@ -148,8 +148,7 @@
 ---------
 ![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
 ------
-![sectors-of-the-economy](https://www.economicshelp.org/wp-content/uploads/2020/05/sectors-of-the-economy.png)
----------
+
 ![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
 
 ----------------
@@ -172,6 +171,12 @@
 
 -----------
 ------------
+
+#### Evolution of Information Technologies
+
+![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+------------------
+------------------
 #### Information Technology(Digital)) Value Chain
 
 ![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
@@ -189,22 +194,17 @@
 ![Internet_Value_Chain_Rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Rev.PNG)
 -------
 ![Internet_Value_Chain_MP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MP.PNG)
----------
----------------
 
-#### Evolution of Information Technologies
-
-![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
---------------------------
-#### 1960's Business Process (Manufacturing Example)
-
-![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
-
 -------------
 #### Business Process + Information Technology
 
 ![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
+
+--------------------------
+#### Dititalization of Enterprise Business Processes (Manufacturing Example)
+
+![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
 
 ------------------
 
@@ -234,7 +234,7 @@
 --------
 --------------------
 
-#### 21.2nd Century Landscape
+#### 21.2nd Century Enterpise Tech Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
 ------------
