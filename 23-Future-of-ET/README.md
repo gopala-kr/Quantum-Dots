@@ -154,14 +154,28 @@
 ------------
 
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
+
+-----------
 ------------
 #### Information Technology(Digital)) Value Chain
 
 ![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
-
+---------
+![Internet_Value_Chain_MC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MC.PNG)
+--------
+![Internet_Value_Chain_Growth](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Growth.PNG)
+------------
+![Internet_Value_Chain_MCap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MCap.PNG)
+---------
+![Internet_Value_Chain_MS20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MS20.PNG)
+-------
+![Internet_Value_Chain_OO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_OO.PNG)
+-------
+![Internet_Value_Chain_Rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Rev.PNG)
+-------
+![Internet_Value_Chain_MP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MP.PNG)
 ---------
 ---------------
-
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------------
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
