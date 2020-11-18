@@ -165,7 +165,7 @@
 
 ----------------
 ---------
-#### Emerging Technologies
+#### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
 
 - [Technological Progress](https://ourworldindata.org/technological-progress)
 - [Technology Adoption](https://ourworldindata.org/technology-adoption)
@@ -193,7 +193,7 @@
 
 ----------
 
-#### [Semiconductor & Electronics Evolution]()
+#### [Semiconductor & Electronics Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semiconductor.md)
 
 ----------------
 
