@@ -31,6 +31,9 @@
 #### Business Process(Enterprise/Any Industries) + Information Technology = Digital Transformation
 
 ![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
+---------
+
+![ERP_Modules](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ERP_Modules.png/1280px-ERP_Modules.png)
 
 ----------------------
 -------------
@@ -45,6 +48,7 @@
 ----------------
 --------------
 - [The Cloud Value Chain Exposed](https://www.cisco.com/c/dam/en_us/about/ac79/docs/sp/Cloud-Value-Chain-Exposed_030512FINAL.pdf)
+- [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
 
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
 ----------
@@ -137,8 +141,6 @@
 
 <img src="https://www.visualcapitalist.com/wp-content/uploads/2020/07/mCloud-ConnectedWorkers-Infographic-v7-3.jpg" usemap="#image-map" alt="digital transformation graphic" width="600" height="12000">
 
-----------
-![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
 ------------
 ![Digital-Payments_VC-Version_v3](https://www.visualcapitalist.com/wp-content/uploads/2020/06/Digital-Payments_VC-Version_v3.jpg)
 ------------
@@ -189,7 +191,8 @@
 ------------
 ![online-gaming-market-infographic-1](https://www.visualcapitalist.com/wp-content/uploads/2020/07/online-gaming-market-infographic-1.jpg)
 ----------
-![28244ae48a689c6](http://wamda-prod.s3.amazonaws.com/content/28244ae48a689c6.jpg)
+![28244ae48a689c6](![internet-of-things-value-chain](https://recap-project.eu/wp-content/uploads/2017/07/internet-of-things-value-chain.png)
+---------)
 ------------------
 
 ![Em1ovKlWEAA8pKU?format=jpg&name=medium](https://pbs.twimg.com/media/Em1ovKlWEAA8pKU?format=jpg&name=medium)
