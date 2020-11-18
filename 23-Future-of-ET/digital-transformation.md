@@ -1,7 +1,28 @@
-
+------------
 ![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
-
 ----------------
+![Electronics-Supply-Chain-lr](https://www.ventureoutsource.com/wp-content/uploads/2009/12/Electronics-Supply-Chain-lr.gif)
+-------------
+![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
+![/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2](https://images.ctfassets.net/y4nxuejkhx03/5AGxje7APvUvq5VMbtlSsE/e71c21deccc0f7859022d4181b1dad45/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2.png?fl=progressive)
+---------
+------------
+![820926](https://apicms.thestar.com.my/uploads/images/2020/08/15/820926.jpg)
+----------
+![20181201_FBC833](https://www.economist.com/sites/default/files/images/print-edition/20181201_FBC833.png)
+----------
+![Table1_TEM1176_59_theedgemarkets](https://edgemarkets.s3-ap-southeast-1.amazonaws.com/pictures/Table1_TEM1176_59_theedgemarkets.png)
+-----------
+![Cv6SGhcVUAAjUko](https://pbs.twimg.com/media/Cv6SGhcVUAAjUko.jpg)
+![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
+
+--------
+![AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs](https://www.researchgate.net/profile/Ghada_Ahmed4/publication/298786773/figure/fig2/AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs.png)
+--------
+![Industrial-Organization-in-the-Offshore-Services-Industry](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/fig1/AS:669490492743693@1536630380710/Industrial-Organization-in-the-Offshore-Services-Industry.png)
+---------
+![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
+--------------
 - [The Cloud Value Chain Exposed](https://www.cisco.com/c/dam/en_us/about/ac79/docs/sp/Cloud-Value-Chain-Exposed_030512FINAL.pdf)
 
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
