@@ -383,6 +383,8 @@
 ![DJLiSLXUQAAigXj](https://pbs.twimg.com/media/DJLiSLXUQAAigXj.jpg)
 ----------
 ![Unicorn_startups_by_country](https://massmediagroup.pro/storage/blog/posts/54/Unicorn_startups_by_country-min.jpg)
+----------
+![158049037502020200131_trillion_dollar_companies_area](https://image.cnbcfm.com/api/v1/image/106367277-158049037502020200131_trillion_dollar_companies_area.png?v=1580490428&w=1600&h=900)
 
 -----------
 ---------------
