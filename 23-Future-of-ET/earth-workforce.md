@@ -1,4 +1,5 @@
 - [World Bank: Employment in agriculture (% of total employment) (modeled ILO estimate)](https://data.worldbank.org/indicator/SL.AGR.EMPL.ZS?view=map)
+- [Global Skills Index](https://www.coursera.org/gsi)
 
 --------------------
 ![world_population](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/world_population.PNG)
