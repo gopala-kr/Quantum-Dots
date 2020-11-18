@@ -151,22 +151,8 @@
 ------------------
 ![Em1ovKlWEAA8pKU?format=jpg&name=medium](https://pbs.twimg.com/media/Em1ovKlWEAA8pKU?format=jpg&name=medium)
 -------------
-![Electronics-Supply-Chain-lr](https://www.ventureoutsource.com/wp-content/uploads/2009/12/Electronics-Supply-Chain-lr.gif)
--------------
-![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
-![/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2](https://images.ctfassets.net/y4nxuejkhx03/5AGxje7APvUvq5VMbtlSsE/e71c21deccc0f7859022d4181b1dad45/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2.png?fl=progressive)
----------
-------------
-![820926](https://apicms.thestar.com.my/uploads/images/2020/08/15/820926.jpg)
-----------
-![20181201_FBC833](https://www.economist.com/sites/default/files/images/print-edition/20181201_FBC833.png)
-----------
-![Table1_TEM1176_59_theedgemarkets](https://edgemarkets.s3-ap-southeast-1.amazonaws.com/pictures/Table1_TEM1176_59_theedgemarkets.png)
------------
-![Cv6SGhcVUAAjUko](https://pbs.twimg.com/media/Cv6SGhcVUAAjUko.jpg)
 ------------------------------------
 ![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
-
 --------
 ![AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs](https://www.researchgate.net/profile/Ghada_Ahmed4/publication/298786773/figure/fig2/AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs.png)
 --------
@@ -175,3 +161,4 @@
 ![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
 
 ------------------
+-------------------------
