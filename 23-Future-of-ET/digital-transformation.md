@@ -1,3 +1,52 @@
+
+#### Evolution of Information Technologies
+
+![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+------------------
+
+![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+------------------
+------------------
+#### Information Technology(Digital)) Value Chain
+
+![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
+---------
+![Internet_Value_Chain_MC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MC.PNG)
+--------
+![Internet_Value_Chain_Growth](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Growth.PNG)
+------------
+![Internet_Value_Chain_MCap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MCap.PNG)
+---------
+![Internet_Value_Chain_MS20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MS20.PNG)
+-------
+![Internet_Value_Chain_OO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_OO.PNG)
+-------
+![Internet_Value_Chain_Rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Rev.PNG)
+-------
+![Internet_Value_Chain_MP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MP.PNG)
+
+------------------------
+-------------
+
+#### Enterprise Business Processes (Manufacturing Example)
+
+![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
+
+----------------
+#### Business Process(Enterprise/Any Industries) + Information Technology = Digital Transformation
+
+![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
+
+----------------------
+-------------
+![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
+--------
+![AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs](https://www.researchgate.net/profile/Ghada_Ahmed4/publication/298786773/figure/fig2/AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs.png)
+--------
+![Industrial-Organization-in-the-Offshore-Services-Industry](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/fig1/AS:669490492743693@1536630380710/Industrial-Organization-in-the-Offshore-Services-Industry.png)
+---------
+![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
+-------------------
 ------------
 ![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
 ----------------
@@ -149,16 +198,9 @@
 ----------
 ![28244ae48a689c6](http://wamda-prod.s3.amazonaws.com/content/28244ae48a689c6.jpg)
 ------------------
+
 ![Em1ovKlWEAA8pKU?format=jpg&name=medium](https://pbs.twimg.com/media/Em1ovKlWEAA8pKU?format=jpg&name=medium)
--------------
-------------------------------------
-![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
---------
-![AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs](https://www.researchgate.net/profile/Ghada_Ahmed4/publication/298786773/figure/fig2/AS:340753730555932@1458253428931/Global-value-chain-of-PrEAs.png)
---------
-![Industrial-Organization-in-the-Offshore-Services-Industry](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/fig1/AS:669490492743693@1536630380710/Industrial-Organization-in-the-Offshore-Services-Industry.png)
----------
-![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
+
 
 ------------------
 -------------------------
