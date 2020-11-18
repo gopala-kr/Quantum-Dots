@@ -1,13 +1,8 @@
 
-#### Evolution of Information Technologies
-
-![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+-------------------
+![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
 ------------------
-
-![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
-------------------
-------------------
-#### Information Technology(Digital)) Value Chain
+#### Internet Value Chain
 
 ![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
 ---------
@@ -46,9 +41,7 @@
 ![Industrial-Organization-in-the-Offshore-Services-Industry](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/fig1/AS:669490492743693@1536630380710/Industrial-Organization-in-the-Offshore-Services-Industry.png)
 ---------
 ![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
--------------------
-------------
-![funding-in-the-time-of-corona-virus-23-1024](https://image.slidesharecdn.com/finalsaastrfundingincoronavirus-200306035319/95/funding-in-the-time-of-corona-virus-23-1024.jpg?cb=1583466868)
+
 ----------------
 --------------
 - [The Cloud Value Chain Exposed](https://www.cisco.com/c/dam/en_us/about/ac79/docs/sp/Cloud-Value-Chain-Exposed_030512FINAL.pdf)
