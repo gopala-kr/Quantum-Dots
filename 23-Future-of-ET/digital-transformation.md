@@ -75,6 +75,8 @@
 ![5-year-cloud-growth](https://blogs.bmc.com/wp-content/uploads/2020/08/5-year-cloud-growth.jpg)
 ------
 ![atlas-soc-8-cloud-eating](https://d33wubrfki0l68.cloudfront.net/c8df921e3c9659bb6775adc2099ff7f7def3b8d3/a78c8/assets/media/atlas-soc-8-cloud-eating.jpg)
+--------------
+![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 -----
 ![bessemers-state-of-the-cloud-2020-46-1024](https://image.slidesharecdn.com/bessemer-state-of-the-cloud-2020-slideshare-200422155517/95/bessemers-state-of-the-cloud-2020-46-1024.jpg?cb=1587571049)
 --------
