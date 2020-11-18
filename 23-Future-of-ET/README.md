@@ -186,37 +186,10 @@
 ------------------
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
-------------------
-------------------
-#### Information Technology(Digital)) Value Chain
 
-![Internet_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain.PNG)
----------
-![Internet_Value_Chain_MC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MC.PNG)
---------
-![Internet_Value_Chain_Growth](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Growth.PNG)
-------------
-![Internet_Value_Chain_MCap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MCap.PNG)
----------
-![Internet_Value_Chain_MS20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MS20.PNG)
--------
-![Internet_Value_Chain_OO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_OO.PNG)
--------
-![Internet_Value_Chain_Rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_Rev.PNG)
--------
-![Internet_Value_Chain_MP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Internet_Value_Chain_MP.PNG)
+----------
 
-------------------------
--------------
-
-#### Enterprise Business Processes (Manufacturing Example)
-
-![business_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/business_process.PNG)
-
-----------------
-#### Business Process(Enterprise/Any Industries) + Information Technology = Digital Transformation
-
-![evolution_logistics](https://transportgeography.org/wp-content/uploads/evolution_logistics.png)
+#### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
 
 -----------------------------
 -------------------------------
