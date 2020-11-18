@@ -20,6 +20,9 @@
       - Public
       - Multicloud
     - Hybrid
+  - Database Technology
+    - Types
+    - Vendors
   - Enterprise Technology(ET)
   - Enterprise Resource Planning(ERP)
     - Implementation
@@ -35,6 +38,7 @@
       - Integration Protocols
       - iPaaS Leading Vendors
      - Micro Service Architecture
+     - Serverless Architecture
 ----------------------
 -------------------
 #### Earth Industrial Evolution
@@ -189,7 +193,23 @@
 
 ----------
 
+#### [Semiconductor & Electronics Evolution]()
+
+----------------
+
+#### [Internet Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)
+
+------------
+
 #### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
+----------
+
+-----------
+#### [Financing Technology Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-capital-investments.md)
+
+-------------
+
+#### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
 -----------------------------
 -------------------------------
