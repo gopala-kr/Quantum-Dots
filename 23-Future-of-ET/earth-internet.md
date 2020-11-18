@@ -100,9 +100,5 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 -----------
 ![Share-of-internet-users](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Share-of-internet-users.png)
 ---------------
-![internet-of-things-value-chain](https://recap-project.eu/wp-content/uploads/2017/07/internet-of-things-value-chain.png)
----------
-![1fc7857f-d343-fcff-a091-f89cd37b10d0](https://www.de.kearney.com/documents/20152/434237/FG-Internet-Value-Chain-Economics-4.png/1fc7857f-d343-fcff-a091-f89cd37b10d0?t=1579294161572)
---------
-![2_3183](https://artes.esa.int/sites/default/files/projectimage/2_3183.jpg)
-----------
+-------------------
+
