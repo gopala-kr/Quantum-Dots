@@ -46,6 +46,7 @@
 - [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
+- [Impact of the Fourth Industrial Revolution on Supply Chains](http://www3.weforum.org/docs/WEF_Impact_of_the_Fourth_Industrial_Revolution_on_Supply_Chains_.pdf)
 - [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 - [History of technology](https://www.britannica.com/technology/history-of-technology/The-Urban-Revolution-c-3000-500-bce)
 - [20 Industries Threatened by Tech Disruption](https://www.investopedia.com/articles/investing/020615/20-industries-threatened-tech-disruption.asp)
@@ -135,6 +136,10 @@
 ------------
 #### Industries & Economic Sectors
 - [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
+- [Sector / Industry index](https://www.unclestock.com/documentation/industries.html)
+- [Global Industry Classification Standard](https://www.msci.com/gics)
+- [S&P Global Industry Classification Standard](https://www.spglobal.com/marketintelligence/en/documents/112727-gics-mapbook_2018_v3_letter_digitalspreads.pdf)
+- [Industries at a Glance](https://www.bls.gov/iag/tgs/iag_index_alpha.htm)
 - [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
 - [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
 - [Sectors of Indian Economy](https://www.drishtiias.com/to-the-points/paper3/sectors-of-indian-economy)
@@ -144,15 +149,15 @@
 - [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
 
 -----------------
-
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
-
 ---------
 ![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
 ------
 ![27s_sector_model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clark%27s_sector_model.svg/1920px-Clark%27s_sector_model.svg.png)
 ----------
 ![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
+--------
+![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
 
 ----------------
 ---------
