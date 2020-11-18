@@ -17,6 +17,8 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [What Happens Every Minute on the Internet in 2020](https://www.visualcapitalist.com/every-minute-internet-2020/)
 - [Telecom Industry in India: Evolution, Current Challenges & Future Road Map](http://indiraisbs.ac.in/IMR/wp-content/uploads/2017/11/10__July_2017.pdf)
 - [The Internet Value Chain - A study on the economics of the internet May 2016](https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_TheInternetValueChain.pdf)
+- [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
+
 -----------------
 
       - From 2016-2020, over 100 new cables were laid with an estimated value of $14 billion. Now, even the most remote Polynesian islands have access to high-speed internet.
