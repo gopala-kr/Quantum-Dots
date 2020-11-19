@@ -44,3 +44,46 @@
 ![image-1586261439483-0d8b6bcfce5e15fea1680d26ecfb210b](https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/227062/image-1586261439483-0d8b6bcfce5e15fea1680d26ecfb210b.png)
 
 ------------
+-------------------
+
+- [The Pathway to New Collar Jobs](https://blog.udacity.com/2020/06/the-pathway-to-new-collar-jobs.html)
+- [The rise of the planetary labour market – and what it means for the future of work](https://tech.newstatesman.com/guest-opinion/planetary-labour-market)
+- [The invisible workers of the AI era](https://towardsdatascience.com/the-invisible-workers-of-the-ai-era-c83735481ba)
+- [Is 'data labeling' the new blue-collar job of the AI era?](https://www.techrepublic.com/article/is-data-labeling-the-new-blue-collar-job-of-the-ai-era/)
+- [Data Scientists: Why are they so expensive to hire?](https://medium.com/mindsdb/data-scientists-why-are-they-so-expensive-to-hire-7c173bbc1f1a)
+- [AI Will Transform 500 Million White-Collar Jobs In 5 Years; Silicon Valley Must Help](https://www.forbes.com/sites/johnkoetsier/2019/06/04/ai-will-transform-500-million-white-collar-jobs-in-5-years-silicon-valley-must-help/?sh=406208d47e11)
+
+![Screen-Shot-2020-02-19-at-1.35.11-PM-736x1024](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.35.11-PM-736x1024.png)
+-------------
+![Screen-Shot-2020-02-19-at-1.36.07-PM-592x1024](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.36.07-PM-592x1024.png)
+
+-----------
+![Screen-Shot-2020-02-19-at-1.37.59-PM-633x1024](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.37.59-PM-633x1024.png)
+-----------
+![Screen-Shot-2020-02-19-at-1.42.49-PM-665x1024](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.42.49-PM-665x1024.png)
+-----------
+![Screen-Shot-2020-02-19-at-1.43.49-PM-543x1024](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.43.49-PM-543x1024.png)
+-----------
+![Screen-Shot-2020-02-19-at-1.46.16-PM-1024x1016](https://analyticsindiamag.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-19-at-1.46.16-PM-1024x1016.png)
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+
+-------------
