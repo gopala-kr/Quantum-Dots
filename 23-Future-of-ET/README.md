@@ -286,6 +286,7 @@ High-Performing Windows Workloads
 in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-on-aws-it-infrastructure-idc-mini-report_Sep-2019.pdf)
 - [OpEx vs. CapEx: The Real Cloud Computing Cost Advantage](https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/)
 - [Counting the costs of IaaS and SaaS](https://www.computerweekly.com/feature/Counting-the-costs-of-IaaS-and-SaaS)
+- [Digital Transformation Journey: a CTO’s Guide to Modernizing Legacy Systems](https://www.infopulse.com/blog/digital-transformation-journey-a-ctos-guide-to-modernizing-legacy-systems/)
 
 ---------------
 --------------------
