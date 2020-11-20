@@ -235,9 +235,6 @@
 -----------
 ![process-view-of-enterprise-architecture-practice](https://www.bcs.org/media/4534/process-view-of-enterprise-architecture-practice.jpg)
 
----------
-![six-general-types-of-ea-artifacts-lrg](https://www.bcs.org/media/3584/six-general-types-of-ea-artifacts-lrg.jpg)
-
 ---------------
 ![5MZ2CT6YI9okWw_Ov_Uv7g](https://interact.bcs.org/images/articles/eight-essential-enterprise-architecture-artifacts-diagram.jpg)
 
@@ -268,6 +265,7 @@
 
 IT Infratsructure Modeling
 
+- [IT budgeting: A cheat sheet](https://www.techrepublic.com/article/it-budgeting-the-smart-persons-guide/)
 - [The TCO of Keeping IT Infrastructure On-premise](https://somerville.com.au/news/private-cloud/the-tco-of-keeping-it-infrastructure-on-premise/)
 - [Demystifying total
 costs of cloud and
