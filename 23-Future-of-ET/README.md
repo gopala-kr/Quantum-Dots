@@ -268,6 +268,7 @@
 
 IT Infratsructure Modeling
 
+- [The TCO of Keeping IT Infrastructure On-premise](https://somerville.com.au/news/private-cloud/the-tco-of-keeping-it-infrastructure-on-premise/)
 - [Demystifying total
 costs of cloud and
 IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hitachi_DXC_Modern_Platform_TCO_Tool_White_Paper.pdf)
@@ -285,6 +286,8 @@ IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hita
 Productivity Benefits of Running
 High-Performing Windows Workloads
 in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-on-aws-it-infrastructure-idc-mini-report_Sep-2019.pdf)
+- [OpEx vs. CapEx: The Real Cloud Computing Cost Advantage](https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/)
+- [Counting the costs of IaaS and SaaS](https://www.computerweekly.com/feature/Counting-the-costs-of-IaaS-and-SaaS)
 
 ---------------
 --------------------
