@@ -279,6 +279,12 @@ IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hita
 - [HBR-CIOs-Guide-Cloud-Computing](https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc25/HBR-CIOs-Guide-Cloud-Computing.pdf)
 - [A CIO’s Guide to Hybrid Cloud Infrastructure: Understanding the Potential Benefits & Path Forward](https://healthsystemcio.com/2020/03/04/a-cios-guide-to-hybrid-cloud-infrastructure-understanding-the-potential-benefits-path-forward/)
 - [CIO's Guide to Application Migration](https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf)
+- [A CIO’s Guide to Hybrid Cloud Infrastructure](https://tv.netapp.com/detail/video/6138977576001/a-cio%E2%80%99s-guide-to-hybrid-cloud-infrastructure)
+- [CIO’s Guide for Big Data and Analytics Strategy](https://community.nasscom.in/communities/data-science-ai/cios-guide-for-big-data-and-analytics-strategy.html)
+- [The Infrastructure Cost and Staff
+Productivity Benefits of Running
+High-Performing Windows Workloads
+in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-on-aws-it-infrastructure-idc-mini-report_Sep-2019.pdf)
 
 ---------------
 --------------------
