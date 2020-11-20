@@ -290,6 +290,9 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [Attention CFO’s: Your CTO’s IT Infrastructure Issues are Bleeding the Enterprise Millions](https://www.archtechus.com/blog/it-infrastructure-issues-cost-enterprise-millions)
 - [CIO role 2020: Everything you need to know about today’s Chief Information Officers](https://enterprisersproject.com/article/2019/9/cio-chief-information-officer-role-explained)
 - [Optimizing IT Cost: The CIO’s Handbook](https://www.tcs.com/content/dam/tcs/pdf/perspectives/editions/optimizing-it-cost-the-cio-handbook-vol-2.pdf)
+- [The Startup CTO’s Guide to Ops (1 of 3): Guiding Principles
+](https://medium.com/@cgroom/the-startup-ctos-guide-to-ops-1-of-3-guiding-principles-2607e21d9f89)
+- [Keeping Your Infrastructure Costs Low](https://www.youtube.com/watch?v=YNytzOWZjQQ)
 
 ---------------
 --------------------
