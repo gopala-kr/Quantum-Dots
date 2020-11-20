@@ -277,6 +277,8 @@ IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hita
 - [CIO Guide to Application Modernization](https://inthecloud.withgoogle.com/cio-guide-app-mod/cio_guide_app_modernization.pdf)
 - [CIO Guide: Process and Data Integration in Hybrid Landscapes](https://www.sap.com/documents/2018/06/de3238a0-077d-0010-87a3-c30de2ffd8ff.html)
 - [HBR-CIOs-Guide-Cloud-Computing](https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc25/HBR-CIOs-Guide-Cloud-Computing.pdf)
+- [A CIO’s Guide to Hybrid Cloud Infrastructure: Understanding the Potential Benefits & Path Forward](https://healthsystemcio.com/2020/03/04/a-cios-guide-to-hybrid-cloud-infrastructure-understanding-the-potential-benefits-path-forward/)
+- [CIO's Guide to Application Migration](https://services.google.com/fh/files/misc/cio_guide_to_application_migraton.pdf)
 
 ---------------
 --------------------
