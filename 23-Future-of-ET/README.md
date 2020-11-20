@@ -276,6 +276,7 @@ IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hita
 - [The Cost of Aging IT Infrastructure](https://www.quartetservice.com/the-cost-of-aging-it-infrastructure/)
 - [CIO Guide to Application Modernization](https://inthecloud.withgoogle.com/cio-guide-app-mod/cio_guide_app_modernization.pdf)
 - [CIO Guide: Process and Data Integration in Hybrid Landscapes](https://www.sap.com/documents/2018/06/de3238a0-077d-0010-87a3-c30de2ffd8ff.html)
+- [HBR-CIOs-Guide-Cloud-Computing](https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc25/HBR-CIOs-Guide-Cloud-Computing.pdf)
 
 ---------------
 --------------------
