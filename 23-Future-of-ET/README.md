@@ -298,7 +298,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [ctouniverse.com/infrastructure](https://www.ctouniverse.com/infrastructure/)
 - [IT@Intel: Intel IT's Data Center Strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/data-center-strategy-paper.pdf)
 - [Ultimate guide to the Chief Technology Officer (CTO)](https://www.harbott.com/ultimate-guide-to-the-chief-technology-officer-cto/)
-
+- [Cost Guidelines ](https://www.ffg.at/sites/default/files/dok/cost_guideline_v_1_3.pdf)
 ---------------
 --------------------
 
