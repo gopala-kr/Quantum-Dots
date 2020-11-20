@@ -258,7 +258,21 @@
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 ------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
+
+-----------
 --------
+#### Organizational Modeling
+
+--------------
+-------------
+
+IT Infratsructure Modeling
+
+- [Demystifying total
+costs of cloud and
+IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hitachi_DXC_Modern_Platform_TCO_Tool_White_Paper.pdf)
+
+---------------
 --------------------
 
 #### 21.2nd Century Enterprise Tech Landscape
