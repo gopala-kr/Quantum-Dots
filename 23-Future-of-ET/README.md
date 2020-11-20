@@ -273,6 +273,9 @@ costs of cloud and
 IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hitachi_DXC_Modern_Platform_TCO_Tool_White_Paper.pdf)
 - [Understand your IT infrastructure cost structure so you can make changes](https://www.ibmbigdatahub.com/blog/understand-your-it-infrastructure-cost-structure-so-you-can-make-changes)
 - [Reducing infrastructure and operations “run” costs is IT's best option to free up funds for growth and business transformation.](https://www.gartner.com/smarterwithgartner/free-up-it-infrastructure-costs-to-fund-transformation/)
+- [The Cost of Aging IT Infrastructure](https://www.quartetservice.com/the-cost-of-aging-it-infrastructure/)
+- [CIO Guide to Application Modernization](https://inthecloud.withgoogle.com/cio-guide-app-mod/cio_guide_app_modernization.pdf)
+- [CIO Guide: Process and Data Integration in Hybrid Landscapes](https://www.sap.com/documents/2018/06/de3238a0-077d-0010-87a3-c30de2ffd8ff.html)
 
 ---------------
 --------------------
