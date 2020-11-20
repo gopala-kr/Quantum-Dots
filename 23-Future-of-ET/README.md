@@ -295,7 +295,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [Keeping Your Infrastructure Costs Low](https://www.youtube.com/watch?v=YNytzOWZjQQ)
 - [Azure: Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-in/pricing/tco/calculator/)
 - [AWS Pricing Calculator](https://calculator.aws/#/)
-
+- [IT@Intel: Intel IT's Data Center Strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/data-center-strategy-paper.pdf)
 ---------------
 --------------------
 
