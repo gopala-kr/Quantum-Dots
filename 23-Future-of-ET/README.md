@@ -224,14 +224,40 @@
 - [Enterprise Architecture – Building a Robust Business IT Landscape](https://dzone.com/articles/enterprise-architecture-building-a-robust-business)
 - [Microservices and Enterprise Architecture: When Two Worlds Meet](https://dzone.com/articles/microservices-amp-enterprise-architecturenbspwhen)
 - [Role of Enterprise Architecture in DevOps Adoption](https://dzone.com/articles/role-of-enterprise-architecture-in-devops-adoption)
+- [The Place of Business Architecture within Enterprise Architecture](https://biz-architect.com/the-place-of-business-architecture-within-enterprise-architecture/)
+- [Is Enterprise Architecture Completely Broken?](https://www.forbes.com/sites/jasonbloomberg/2014/07/11/is-enterprise-architecture-completely-broken/?sh=6270dc033710)
+- [Make Your CIO More Relevant Using Business Architecture](https://community.biz-architect.com/about-ba/make-your-cio-more-relevant-using-business-architecture/)
+- [CIOs Losing Influence in the Face of Shadow IT](https://www.eweek.com/small-business/cios-losing-influence-in-the-face-of-shadow-it)
+- [Are CIOs losing power?](https://www.computerworld.com/article/2487776/are-cios-losing-power-.html)
 
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
----------------
-![5MZ2CT6YI9okWw_Ov_Uv7g](https://miro.medium.com/max/3114/1*5MZ2CT6YI9okWw_Ov_Uv7g.png)
 -----------
-![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
+![process-view-of-enterprise-architecture-practice](https://www.bcs.org/media/4534/process-view-of-enterprise-architecture-practice.jpg)
 
+---------
+![six-general-types-of-ea-artifacts-lrg](https://www.bcs.org/media/3584/six-general-types-of-ea-artifacts-lrg.jpg)
+
+---------------
+![5MZ2CT6YI9okWw_Ov_Uv7g](https://interact.bcs.org/images/articles/eight-essential-enterprise-architecture-artifacts-diagram.jpg)
+
+--------
+![enterprise-architecture-on-a-page](https://interact.bcs.org/images/articles/enterprise-architecture-on-a-page.jpg)
+
+-----------
+- [Enterprise Architecture (EA) - why is it important?](https://www.youtube.com/watch?v=9TVc32M_gIY)
+- [Enterprise architecture framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+- [Enterprise Architecture Frameworks: The Fad of the Century](https://www.bcs.org/content-hub/enterprise-architecture-frameworks-the-fad-of-the-century/)
+- [list of architecture patterns, and corresponding software design patterns and solution patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
+- [TOGAF® Business Architecture: Business Capability Guide](https://www.youtube.com/watch?v=epQ09u9hUCw&feature=youtu.be)
+- [Business Architecture:The Foundation for Business Process Management and Business Analysis](https://www.youtube.com/watch?v=sHhTxeLMyPI)
+
+![Diagram-1-2017-05-27](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-1-2017-05-27.png)
+--------------
+![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
+------
+![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
 --------
 --------------------
 
