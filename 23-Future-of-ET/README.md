@@ -271,6 +271,8 @@ IT Infratsructure Modeling
 - [Demystifying total
 costs of cloud and
 IT infrastructure](https://assets1.dxc.technology/hitachi_vantara/downloads/Hitachi_DXC_Modern_Platform_TCO_Tool_White_Paper.pdf)
+- [Understand your IT infrastructure cost structure so you can make changes](https://www.ibmbigdatahub.com/blog/understand-your-it-infrastructure-cost-structure-so-you-can-make-changes)
+- [Reducing infrastructure and operations “run” costs is IT's best option to free up funds for growth and business transformation.](https://www.gartner.com/smarterwithgartner/free-up-it-infrastructure-costs-to-fund-transformation/)
 
 ---------------
 --------------------
