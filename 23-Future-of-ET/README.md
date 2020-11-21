@@ -13,6 +13,7 @@
 - Digitalization of Earth Organization
   - Enterprise Architecture(EA)
   - Organization Structures
+  - Enterprise Technology(ET)
   - IT Infrastructure
     - On-Premise(Data Centers)
     - Cloud 
@@ -23,7 +24,6 @@
   - Database Technology
     - Types
     - Vendors
-  - Enterprise Technology(ET)
   - Enterprise Resource Planning(ERP)
     - Implementation
     - Maintenance
