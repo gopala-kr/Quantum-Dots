@@ -335,6 +335,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 
 -----------
 - [A Comparison of Public Cloud Cost Optimization Tools is Now Available](https://blogs.gartner.com/marco-meinardi/2019/12/12/comparison-public-cloud-cost-optimization-tools-now-available/)
+- [Cloud and Software Benchmarks](https://tbri.com/research/infrastructure-management-software-vendor-benchmark/#vendors)
 
 -----------
 
