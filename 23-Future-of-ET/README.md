@@ -319,6 +319,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [OpEx vs. CapEx: The Real Cloud Computing Cost Advantage](https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/)
 - [Counting the costs of IaaS and SaaS](https://www.computerweekly.com/feature/Counting-the-costs-of-IaaS-and-SaaS)
 - [Digital Transformation Journey: a CTO’s Guide to Modernizing Legacy Systems](https://www.infopulse.com/blog/digital-transformation-journey-a-ctos-guide-to-modernizing-legacy-systems/)
+- [Cost Guidelines ](https://www.ffg.at/sites/default/files/dok/cost_guideline_v_1_3.pdf)
 - [Attention CFO’s: Your CTO’s IT Infrastructure Issues are Bleeding the Enterprise Millions](https://www.archtechus.com/blog/it-infrastructure-issues-cost-enterprise-millions)
 - [CIO role 2020: Everything you need to know about today’s Chief Information Officers](https://enterprisersproject.com/article/2019/9/cio-chief-information-officer-role-explained)
 - [Optimizing IT Cost: The CIO’s Handbook](https://www.tcs.com/content/dam/tcs/pdf/perspectives/editions/optimizing-it-cost-the-cio-handbook-vol-2.pdf)
@@ -330,7 +331,10 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [ctouniverse.com/infrastructure](https://www.ctouniverse.com/infrastructure/)
 - [IT@Intel: Intel IT's Data Center Strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/data-center-strategy-paper.pdf)
 - [Ultimate guide to the Chief Technology Officer (CTO)](https://www.harbott.com/ultimate-guide-to-the-chief-technology-officer-cto/)
-- [Cost Guidelines ](https://www.ffg.at/sites/default/files/dok/cost_guideline_v_1_3.pdf)
+
+
+-----------
+- [A Comparison of Public Cloud Cost Optimization Tools is Now Available](https://blogs.gartner.com/marco-meinardi/2019/12/12/comparison-public-cloud-cost-optimization-tools-now-available/)
 
 -----------
 
