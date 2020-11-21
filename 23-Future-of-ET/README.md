@@ -40,6 +40,7 @@
       - iPaaS Leading Vendors
      - Micro Service Architecture
      - Serverless Architecture
+     
 ----------------------
 -------------------
 #### Earth Industrial Evolution
