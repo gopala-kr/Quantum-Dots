@@ -21,6 +21,7 @@
       - Public
       - Multicloud
     - Hybrid
+    - Leading Vendors
   - Database Technology
     - Types
     - Vendors
