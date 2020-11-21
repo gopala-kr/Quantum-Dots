@@ -12,12 +12,17 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [(DOE) Unveils Blueprint for a U.S. Quantum Internet, 2020](https://quantumcomputingreport.com/department-of-energy-doe-unveils-blueprint-for-a-u-s-quantum-internet/) | [Workshop](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202004/Quantum_Internet_Blueprint_Update.pdf?la=en&hash=8C076C1BEB7CA49A3920B1A3C15AA531B48BDD72)
 - [China’s 2,000-km Quantum Link](https://spectrum.ieee.org/telecom/security/chinas-2000km-quantum-link-is-almost-complete)
 - [China Quantum communication takes a major leap with satellite-based experiment](https://www.intelligentliving.co/china-quantum-communication-satellites/)
+- [OneWeb satellite internet company is officially reborn](https://www.bbc.com/news/science-environment-55016402)
+- [Bharti Enterprises asks ISRO for help developing OneWeb user terminals](https://spacenews.com/bharti-enterprises-asks-isro-for-help-developing-oneweb-user-terminals/)
+- [oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal](https://economictimes.indiatimes.com/industry/telecom/telecom-news/oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal/articleshow/79329402.cms)
+
 --------
 - [Internet value chain economics](https://www.de.kearney.com/communications-media-technology/article?/a/internet-value-chain-economics)
 - [What Happens Every Minute on the Internet in 2020](https://www.visualcapitalist.com/every-minute-internet-2020/)
 - [Telecom Industry in India: Evolution, Current Challenges & Future Road Map](http://indiraisbs.ac.in/IMR/wp-content/uploads/2017/11/10__July_2017.pdf)
 - [The Internet Value Chain - A study on the economics of the internet May 2016](https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_TheInternetValueChain.pdf)
 - [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
+-
 
 -----------------
 
