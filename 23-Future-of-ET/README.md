@@ -337,6 +337,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [A Comparison of Public Cloud Cost Optimization Tools is Now Available](https://blogs.gartner.com/marco-meinardi/2019/12/12/comparison-public-cloud-cost-optimization-tools-now-available/)
 - [Cloud and Software Benchmarks](https://tbri.com/research/infrastructure-management-software-vendor-benchmark/#vendors)
 - [Benchmarking cloud servers: A Cloud Computing Insider’s Guide](https://www.cloudsigma.com/benchmarking-cloud-servers-a-cloud-computing-insiders-guide/)
+- [Cloud Computing Benchmark](https://www.burstorm.com/price-performance-benchmark/1st-Continuous-Cloud-Price-Performance-Benchmarking.pdf)
 -----------
 
 - [Outsourcing Technology Vendor Evaluation](https://www.slideshare.net/cbedard/outsourcing-technology-vendor-evaluation-selection-best-practices)
