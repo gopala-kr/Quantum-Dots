@@ -238,6 +238,7 @@
 
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
+
 -----------
 ![process-view-of-enterprise-architecture-practice](https://www.bcs.org/media/4534/process-view-of-enterprise-architecture-practice.jpg)
 
