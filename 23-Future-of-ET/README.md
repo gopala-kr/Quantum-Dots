@@ -338,6 +338,7 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [Cloud and Software Benchmarks](https://tbri.com/research/infrastructure-management-software-vendor-benchmark/#vendors)
 - [Benchmarking cloud servers: A Cloud Computing Insider’s Guide](https://www.cloudsigma.com/benchmarking-cloud-servers-a-cloud-computing-insiders-guide/)
 - [Cloud Computing Benchmark](https://www.burstorm.com/price-performance-benchmark/1st-Continuous-Cloud-Price-Performance-Benchmarking.pdf)
+- [Cloud_Performance_Benchmark_Report](http://presse.hbi.de/pub/ThousandEyes/Cloud_Performance_Benchmark_Report/ThousandEyes%20Cloud%20Performance%20Benchmark%20Report.pdf)
 -----------
 
 - [Outsourcing Technology Vendor Evaluation](https://www.slideshare.net/cbedard/outsourcing-technology-vendor-evaluation-selection-best-practices)
