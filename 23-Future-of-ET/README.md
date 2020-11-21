@@ -204,7 +204,6 @@
 #### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
 ----------
 
------------
 #### [Financing Technology Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-capital-investments.md)
 
 -------------
@@ -249,6 +248,7 @@
 
 -----------
 - [Enterprise Architecture (EA) - why is it important?](https://www.youtube.com/watch?v=9TVc32M_gIY)
+- [TOGAF EA Model](https://www.youtube.com/watch?v=jMmyYpKSqD8)
 - [Enterprise architecture framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
 - [Enterprise Architecture Frameworks: The Fad of the Century](https://www.bcs.org/content-hub/enterprise-architecture-frameworks-the-fad-of-the-century/)
 - [list of architecture patterns, and corresponding software design patterns and solution patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
@@ -267,7 +267,13 @@
 - [Public Cloud: The Next Frontier for Enterprise Architecture](https://www.oracle.com/technical-resources/articles/enterprise-architecture/oeea-public-cloud-next-frontier.html)
 - [Enterprise Architecture and the Cloud](https://www.snia.org/sites/default/education/tutorials/2011/fall/CloudTechnologies/MartyStogsdill_Enterprise_Architecture_Cloud-v1-8.pdf)
 - [Cloud Architecture Modelling using Enterprise Architect](https://www.youtube.com/watch?v=wP_RaZzRe98)
-- [ Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
+- [Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
+- [It's Time to Re-Think Enterprise Architecture](https://www.youtube.com/watch?v=XL0mYNliEK4)
+- [The Future of Enterprise Architecture](https://www.youtube.com/watch?v=YuWW6-qq1Tc)
+- [Enterprise Architecture Research at MIT](https://www.youtube.com/watch?v=9IGQm4-HheA)
+- [Enterprise Network Architectures on AWS](https://www.youtube.com/watch?v=eTMwx9nO5Nk)
+- [Enterprise Architecture & Digital Transformation](https://www.youtube.com/watch?v=nQVLzvExziE)
+- [Enterprise architecture in the age of cloud services](https://www.ibm.com/developerworks/rational/library/enterprise-architecture-cloud/index.html)
 
 ----------------------
 
@@ -286,6 +292,11 @@
 
 IT Infratsructure Modeling
 
+- [Executive Overview - IT Infrastructure](https://www.youtube.com/watch?v=V6zJi8CU7Tk&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=1)
+- [Executive Overview - Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
+- [Executive Overview - Cloud Service and Deployment Models](https://www.youtube.com/watch?v=Dfkbd6VZSnE)
+- [Executive Overview - IT Security Plan](https://www.youtube.com/watch?v=wWai6wM3xQU&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=3)
+-------------
 - [IT budgeting: A cheat sheet](https://www.techrepublic.com/article/it-budgeting-the-smart-persons-guide/)
 - [The TCO of Keeping IT Infrastructure On-premise](https://somerville.com.au/news/private-cloud/the-tco-of-keeping-it-infrastructure-on-premise/)
 - [Demystifying total
@@ -320,6 +331,13 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [IT@Intel: Intel IT's Data Center Strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/data-center-strategy-paper.pdf)
 - [Ultimate guide to the Chief Technology Officer (CTO)](https://www.harbott.com/ultimate-guide-to-the-chief-technology-officer-cto/)
 - [Cost Guidelines ](https://www.ffg.at/sites/default/files/dok/cost_guideline_v_1_3.pdf)
+
+-----------
+
+- [Outsourcing Technology Vendor Evaluation](https://www.slideshare.net/cbedard/outsourcing-technology-vendor-evaluation-selection-best-practices)
+- [itupdate.com.au/vendors](https://itupdate.com.au/vendors)
+- [Vendor Evaluations](https://www.infotech.com/browse/vendor_evaluations)
+
 ---------------
 --------------------
 
