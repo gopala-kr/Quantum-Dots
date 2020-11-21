@@ -229,6 +229,12 @@
 - [Make Your CIO More Relevant Using Business Architecture](https://community.biz-architect.com/about-ba/make-your-cio-more-relevant-using-business-architecture/)
 - [CIOs Losing Influence in the Face of Shadow IT](https://www.eweek.com/small-business/cios-losing-influence-in-the-face-of-shadow-it)
 - [Are CIOs losing power?](https://www.computerworld.com/article/2487776/are-cios-losing-power-.html)
+- [Enterprise Architect - White Papers](https://sparxsystems.com/resources/whitepapers/)
+- [Enterprise Architect on Cloud](https://prolaborate.sparxsystems.com/resources/articles)
+- [Enterprise Architecture and Services in Cloud Computing: A Survey](https://www.researchgate.net/publication/328403874_Enterprise_Architecture_and_Services_in_Cloud_Computing_A_Survey)
+- [A Design Of Government Enterprise Architecture Framework Based On G-Cloud Services](http://www.ijstr.org/final-print/sep2019/A-Design-Of-Government-Enterprise-Architecture-Framework-Based-On-G-cloud-Services.pdf)
+- [Tailoring Enterprise Architecture for CloudEcosystems](https://essay.utwente.nl/64258/1/MSc%20Thesis-Final%20-Tritsiniotis-.pdf)
+
 
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
@@ -249,6 +255,21 @@
 - [List of software architecture styles and patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 - [TOGAF® Business Architecture: Business Capability Guide](https://www.youtube.com/watch?v=epQ09u9hUCw&feature=youtu.be)
 - [Business Architecture:The Foundation for Business Process Management and Business Analysis](https://www.youtube.com/watch?v=sHhTxeLMyPI)
+
+----------
+- [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide)
+- [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf)
+- [Enterprise architecture for AWS: Why it’s essential and how to get started](https://blog.shi.com/cloud/enterprise-architecture-for-aws/)
+- [Developing Enterprise Architectures on Amazon Web Services](https://www.content.shi.com/SHIcom/ContentAttachmentImages/SharedResources/PDFs/Cloud/Developing-Enterprise-Architectures-on-Amazon-Web-Services-White-Paper.pdf?_ga=2.56666794.1667346458.1605973680-1162105708.1605826566)
+- [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
+- [Architectural Strategies for Cloud Computing](http://www.oracle.com/us/ciocentral/architecrl-strategies-for-cc-396213.pdf)
+- [Using the Cloud Ecosystem Reference Model with the TOGAF Standard (Informative)](http://www.opengroup.org/cloud/cloud_ecosystem_rm/p5.htm)
+- [Public Cloud: The Next Frontier for Enterprise Architecture](https://www.oracle.com/technical-resources/articles/enterprise-architecture/oeea-public-cloud-next-frontier.html)
+- [Enterprise Architecture and the Cloud](https://www.snia.org/sites/default/education/tutorials/2011/fall/CloudTechnologies/MartyStogsdill_Enterprise_Architecture_Cloud-v1-8.pdf)
+- [Cloud Architecture Modelling using Enterprise Architect](https://www.youtube.com/watch?v=wP_RaZzRe98)
+- [ Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
+
+----------------------
 
 ![Diagram-1-2017-05-27](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-1-2017-05-27.png)
 --------------
