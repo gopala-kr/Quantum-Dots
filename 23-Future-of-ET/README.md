@@ -387,6 +387,9 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [IT Conferences of 2020](https://www.acronis.com/en-in/articles/50-it-conferences-2020/)
 
 -----------
+![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
+
+-----------------
 ![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
 ---------
 ![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
@@ -470,36 +473,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Pricing Models for Cloud Computing Services, a Survey](https://ijcat.com/archives/volume5/issue3/ijcatr05031002.pdf)
 - [Mastering Cloud Cost Optimization: Cloud Cost Models & Discounts Overview](https://blog.turbonomic.com/mastering-cloud-cost-optimization-cost-models-discounts-overview)
 
----------
-![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
-
------------
-![iaas2020_hourlyprice_disk](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_disk.png)
-
-------------
-![iaas2020_hourlyprice_memory](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_memory.png)
--------
-![iaas2020_hourlyprice_compute](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_compute.png)
-
-
 
 ---------------
+--------
+![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
 -------------
-![tracxn-data-center-infrastructure-startup-landscape](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-6-1024.jpg?cb=1531289300)
---------
 ![tracxn-data-center-infrastructure-startup-landscape-7-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-7-1024.jpg?cb=1531289300)
---------
-![tracxn-data-center-infrastructure-startup-landscape-8](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-8-1024.jpg?cb=1531289300)
-
------------
-![tracxn-data-center-infrastructure-startup-landscape-9-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-9-1024.jpg?cb=1531289300)
---------
-![tracxn-data-center-infrastructure-startup-landscape-10-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-10-1024.jpg?cb=1531289300)
--------
-![tracxn-data-center-infrastructure-startup-landscape-34-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-34-1024.jpg?cb=1531289300)
---------
-![tracxn-data-center-infrastructure-startup-landscape-35-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-35-1024.jpg?cb=1531289300)
-
 -----------
 ![fl_progressive:steep/https%3A%2F%2Fbucketeer](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67e91f42-3c28-4502-b48d-80a44e2c2f32_1360x722.png)
 --------
@@ -520,16 +499,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![public%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x72](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x727.png)
 
-
+------------
+![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
 
 ---------------
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
 
-------------
-![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
+
 
 ----------
-![landscape](https://landscape.cncf.io/images/landscape.png)
+
+- [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 
 ------------------
 ----------
@@ -601,8 +581,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 ---------------
 
-![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
-------------
 
 ![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
