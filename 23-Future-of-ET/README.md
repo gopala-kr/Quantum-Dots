@@ -153,6 +153,7 @@
 - [Share of economic sectors in the global gross domestic product (GDP) from 2008 to 2018](https://www.statista.com/statistics/256563/share-of-economic-sectors-in-the-global-gross-domestic-product/)
 - [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
 - [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
+- [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
 -----------------
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
@@ -217,6 +218,7 @@
 
 #### Enterprise Architecture Modeling
 
+
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
 - [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
 - [Enterprise Architecture:Forget Systems Thinking, Improve Communication](http://kotusev.com/Enterprise%20Architecture%20-%20Forget%20Systems%20Thinking,%20Improve%20Communication.pdf)
@@ -260,6 +262,9 @@
 - [Business Architecture:The Foundation for Business Process Management and Business Analysis](https://www.youtube.com/watch?v=sHhTxeLMyPI)
 
 ----------
+- [TOGAF® Standard](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
+- [LEAF Stanard](http://www.hosiaisluoma.fi/LEAF/index.htm?goto=1:4:1:3:3:281)
+- [THE DEFINITIVE GUIDE TO Enterprise Architecture](https://www.leanix.net/en/enterprise-architecture)
 - [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide)
 - [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf)
 - [Enterprise architecture for AWS: Why it’s essential and how to get started](https://blog.shi.com/cloud/enterprise-architecture-for-aws/)
@@ -284,22 +289,62 @@
 --------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 ------
+![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
+----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
 
 -----------
 --------
-#### Organizational Modeling
+#### Organizational Structure Modeling
+
+- [Organizational  Structures Templates](https://docs.google.com/presentation/d/1xsoSH_kHuyykdFsr2I3KMB0dtr15N_pzq8iF2zME8dI/edit#slide=id.g85f1fc876f_0_95)
+- [org-chart-examples](https://www.orgcharting.com/category/org-chart-examples/)
+- [Types of Organizational Structures](https://online.pointpark.edu/business/types-of-organizational-structures/)
+- [HBR Organizational structure](https://hbr.org/topic/organizational-structure)
+- [organizational-design](https://www.stratechi.com/organizational-design/)
+- [DoD Organizational Structure](https://fas.org/irp/agency/dod/org-man.pdf)
+- [National Security Agency Org Structure](https://cryptome.org/nsa-reorg-et.htm)
+- [Amazon Organizational Structure: a brief overview](https://research-methodology.net/amazon-organizational-structure-2-2/)
+- [Apple Organizational Structure: a brief overview](https://research-methodology.net/apple-organizational-structure-a-hierarchical-structure-that-may-change-in-near-future/)
+- [Facebook Inc. Organizational Structure: Hybrid of Hierarchical and Divisional Organizational Structures](https://research-methodology.net/facebook-organizational-structure-hybrid-of-hierarchical-and-divisional-organizational-structures/)
+- [Airbnb Organizational Structure](https://research-methodology.net/air-organizational-structure-brief-overview/)
+- [British Airways Organizational Structure](https://research-methodology.net/british-airways-organizational-structure/)
+- [Starbucks Organizational Structure: A tall and divisional](https://research-methodology.net/starbucks-organizational-structure-a-tall-and-divisional/)
+- [Tesla Organizational Structure: divisional and flexible](https://research-methodology.net/tesla-organizational-structure-divisional-and-flexible/)
+- [Uber Organizational Structure](https://research-methodology.net/uber-organizational-structure-3/)
+- [Microsoft Organizational Structure: Divisional Structure with Focus on Innovation](https://research-methodology.net/microsoft-organizational-structure-divisional-structure-with-focus-on-innovation/)
+- [Samsung Organizational Structure: Divisional according to Product Types](https://research-methodology.net/samsung-organizational-structure-divisional-according-product-types/)
+- [Amazon Organizational Analysis 2017](https://medium.com/@michaelangelo_q/amazon-organizational-analysis-2e8e23578d9e)
+- [McKinsey on Organization](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/McKinsey%20on%20Organization/McKinsey%20on%20Organization%20Agility%20and%20organization%20design.ashx)
+- [NASA Organizational Structure](https://www.nasa.gov/offices/nesc/home/Org_Structure.html)
+- [ISRO Organisational Structure](https://www.isro.gov.in/about-isro/organisation-structure)
+- [Fit - The Key to Organizational Design](https://www.researchgate.net/publication/273191545_Fit_-_The_Key_to_Organizational_Design)
+- [Netflix Inc.’s Organizational Structure & Its Strategic Implications](https://www.rancord.org/netflix-organizational-structure-design-organizational-chart-characteristics)
+- [Organizational Structure and Design](http://www.pearsoncanada.ca/media/highered-showcase/multi-product-showcase/robbins-ch05.pdf)
+- [Organizational Design and Operational Planning of Big Data Teams](https://www.ripublication.com/ijaer17/ijaerv12n20_80.pdf)
+- [A16Z - Making Sense of Dell + EMC + VMware](https://a16z.com/2015/10/26/dell-emc-vmware/)
+- [Accenture’s Org Structure](https://www.accenture.com/gb-en/blogs/blogs-know-about-accenture-structure)
+- [Will Alphabet’s new structure make Google’s business more transparent, or less?](https://www.fastcompany.com/40462340/alphabet-google-xxvi-holdings-restructuring-reorganization-transparency)
+- [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 
 --------------
 -------------
 
-IT Infratsructure Modeling
+#### IT Infratsructure Modeling
 
 - [Executive Overview - IT Infrastructure](https://www.youtube.com/watch?v=V6zJi8CU7Tk&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=1)
 - [Executive Overview - Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
 - [Executive Overview - Cloud Service and Deployment Models](https://www.youtube.com/watch?v=Dfkbd6VZSnE)
 - [Executive Overview - IT Security Plan](https://www.youtube.com/watch?v=wWai6wM3xQU&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=3)
+- [IT Infrastructure](https://www.slideshare.net/rashedkamrul/it-infrastructure-41471551)
+- [Infrastructure Management 101](https://www.smartsheet.com/it-infrastructure-management-services-guide)
+- [IT Infrastructure and Emerging
+Technologies](http://wiki.stoa.usp.br/images/2/2d/MIS-cap5.pdf)
+- [The Shifting Sands of Computing: 5 Trends Transforming the IT Landscape](https://www.nl.kearney.com/communications-media-technology/article?/a/the-shifting-sands-of-computing-5-trends-transforming-the-it-landscape)
+- [ITILV3_Glossary](https://itil.it.utah.edu/downloads/ITILV3_Glossary.pdf)
+
 -------------
+- [Cloud Hosting Comparison](https://www.cloudorado.com/cloud_hosting_comparison.jsp)
 - [IT budgeting: A cheat sheet](https://www.techrepublic.com/article/it-budgeting-the-smart-persons-guide/)
 - [The TCO of Keeping IT Infrastructure On-premise](https://somerville.com.au/news/private-cloud/the-tco-of-keeping-it-infrastructure-on-premise/)
 - [Demystifying total
@@ -334,19 +379,244 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [ctouniverse.com/infrastructure](https://www.ctouniverse.com/infrastructure/)
 - [IT@Intel: Intel IT's Data Center Strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/data-center-strategy-paper.pdf)
 - [Ultimate guide to the Chief Technology Officer (CTO)](https://www.harbott.com/ultimate-guide-to-the-chief-technology-officer-cto/)
-
+- [How CIOs can lead their company’s information business](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/how-cios-can-lead-their-companys-information-business)
+- [Optimizing Your IT Spend as You Move to the Cloud](https://www.flexera.com/blog/cloud/optimizing-your-it-spend-as-you-move-to-the-cloud/)
+- [2020 CIO Trends – CIOs Reveal Their Top Priorities](https://www.flexera.com/blog/industry-trends/2020-cio-trends-cios-reveal-their-top-priorities/)
+- [IT jobs in 2020: Preparing for the next industrial revolution](https://www.zdnet.com/article/it-jobs-in-2020-preparing-for-the-next-industrial-revolution/)
+- [The Role Of IT In 2020 Will Be About Business, Not Technology](https://which-50.com/the-role-of-it-in-2020-will-be-about-business-not-technology/)
+- [IT Conferences of 2020](https://www.acronis.com/en-in/articles/50-it-conferences-2020/)
 
 -----------
+
+- [Research Challenges and Prospective Business Impacts of Cloud Computing: A Survey](https://arxiv.org/ftp/arxiv/papers/2005/2005.01475.pdf)
+- [Next Generation Cloud Computing:
+New Trends and Research Directions](https://arxiv.org/pdf/1707.07452.pdf)
+- [Evolution of as-a-Service Era in Cloud](https://arxiv.org/ftp/arxiv/papers/1507/1507.00939.pdf)
+- [ACM - Cloud Computing: Survey on Energy Efficiency
+Share on](https://dl.acm.org/doi/10.1145/2656204)
+- [Foundations and Technological Landscape of Cloud Computing](https://www.hindawi.com/journals/isrn/2013/782174/)
+- [From FPGA to Support Cloud to Cloud of FPGA: State of the Art](https://www.hindawi.com/journals/ijrc/2019/8085461/)
+- [Security of Cloud FPGAs: A Survey](https://arxiv.org/pdf/2005.04867.pdf)
+- [2018
+Cloud
+Computing
+Survey](https://cdn2.hubspot.net/hubfs/1624046/2018%20Cloud%20Computing%20Executive%20Summary.pdf)
+- [The 2020 IDG Cloud Computing Survey](https://www.infoworld.com/article/3561269/the-2020-idg-cloud-computing-survey.html)
+- [IDG Cloud
+Computing
+Survey](https://cdn2.hubspot.net/hubfs/1624046/2020%20Cloud%20Computing%20executive%20summary_v2.pdf)
+- [2020 State of Tech Spend: IT Spending Benchmarks and Trends](https://www.flexera.com/blog/elo/2020-state-of-tech-spend-it-spending-benchmarks-and-trends/)
+- [Cloud Computing Trends: 2020 State of the Cloud Report](https://www.flexera.com/blog/industry-trends/trend-of-cloud-computing-2020/)
 - [A Comparison of Public Cloud Cost Optimization Tools is Now Available](https://blogs.gartner.com/marco-meinardi/2019/12/12/comparison-public-cloud-cost-optimization-tools-now-available/)
 - [Cloud and Software Benchmarks](https://tbri.com/research/infrastructure-management-software-vendor-benchmark/#vendors)
 - [Benchmarking cloud servers: A Cloud Computing Insider’s Guide](https://www.cloudsigma.com/benchmarking-cloud-servers-a-cloud-computing-insiders-guide/)
 - [Cloud Computing Benchmark](https://www.burstorm.com/price-performance-benchmark/1st-Continuous-Cloud-Price-Performance-Benchmarking.pdf)
 - [Cloud_Performance_Benchmark_Report](http://presse.hbi.de/pub/ThousandEyes/Cloud_Performance_Benchmark_Report/ThousandEyes%20Cloud%20Performance%20Benchmark%20Report.pdf)
+- [IT as a service: Cornerstone of the digital enterprise](https://www.hpe.com/us/en/insights/articles/it-as-a-service-cornerstone-of-the-digital-enterprise-1706.html)
+- [IT as a service: From build to consume](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/it-as-a-service-from-build-to-consume)
+- [Putting ITaaS in place](https://www.bmc.com/blogs/itaas-it-as-a-service/)
+- [Modernizing IT for a digital era](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/modernizing-it-for-a-digital-era)
+- [Two ways to modernize IT systems for the digital era](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/two-ways-to-modernize-it-systems-for-the-digital-era)
+- [Cloud 2.0: Serverless architecture and the next wave of enterprise offerings](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward/cloud-20-serverless-architecture-and-the-next-wave-of-enterprise-offerings)
+- [Everything as a service (Xaas): Service landscape redefined](https://www.servicefutures.com/everything-service-xaas-service-landscape-redefined)
+- [Discover IT as a Service, the next
+generation of IT service delivery
+and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
+- [When to Move to an Enterprise IT as a Service Model](https://fedtechmagazine.com/article/2019/06/when-move-enterprise-it-service-model)
+- [Delivering IT as A Utility- A Systematic Review](https://arxiv.org/ftp/arxiv/papers/1306/1306.1639.pdf)
+- [Cloud Computing Statistics in 2020](https://hostingtribunal.com/blog/cloud-computing-statistics/#gref)
+- [Cloud Service Providers In 2020](https://www.c-sharpcorner.com/article/top-10-cloud-service-providers/)
+- [Predictions for Cloud Computing in 2020](https://www.informationweek.com/cloud/predictions-for-cloud-computing-in-2020/a/d-id/1336738?)
+- [Multi-Cloud Architecture Designs for an Effective Cloud Strategy](https://www.simform.com/multi-cloud-architecture/)
+
 -----------
 
+- [IT Industry Outlook 2020](https://www.comptia.org/content/research/it-industry-trends-analysis)
 - [Outsourcing Technology Vendor Evaluation](https://www.slideshare.net/cbedard/outsourcing-technology-vendor-evaluation-selection-best-practices)
 - [itupdate.com.au/vendors](https://itupdate.com.au/vendors)
 - [Vendor Evaluations](https://www.infotech.com/browse/vendor_evaluations)
+- [mckinsey ; Digital blog](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/digital-blog)
+- [Tech: Forward](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/tech-forward)
+- [Enterprise Cloud: Clear blue skies ahead?](https://www.deltapartnersgroup.com/our-insights/enterprise-cloud-clear-blue-skies-ahead)
+- [Tracxn - Data Center Infrastructure Startup Landscape](https://www.slideshare.net/Tracxn/tracxn-data-center-infrastructure-startup-landscape)
+- [Public Cloud Market Landscape : India](https://www.slideshare.net/zinnov/zinnov-india-cloud-market)
+- [Cloud providers in 2020](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
+- [techrepublic.com/topic/cloud](https://www.techrepublic.com/topic/cloud/)
+- [zdnet.com/topic/cloud/](https://www.zdnet.com/topic/cloud/)
+- [amazon-google-microsoft-multi-cloud-strategies](https://www.cbinsights.com/research/amazon-google-microsoft-multi-cloud-strategies/)
+- [IT Compliance & Security Automation Landscape](https://medium.com/work-bench/it-compliance-security-automation-landscape-24bd49c39b)
+- [Developer-Led Landscape: Cloud Native Application Development](https://tylerjewell.substack.com/p/developer-led-landscape-cloud-native)
+- [The Developer-Led Landscape](https://tylerjewell.substack.com/p/the-developer-led-landscape-20-08-28)
+- [Cloud-Native Landscape and Best Practices](https://dzone.com/articles/cloud-native-standpoint-landscape-and-best-practic)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [Public Cloud (Wars) Hyperscalers Comparison](https://virtualizationandstorage.wordpress.com/2019/02/20/public-cloud-vendor-comparison/)
+- [Cloud Comparer — a Public Cloud Comparison (@ Ilyes)](https://medium.com/@kyleake/cloud-comparer-a-public-cloud-comparison-ilyes-68d1d9772a7a)
+- [github.com/ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer)
+
+-----------------
+
+- [IaaS Pricing Patterns and Trends 2020](https://redmonk.com/rstephens/2020/07/10/iaas-pricing-patterns-and-trends-2020/)
+- [AWS vs Azure vs Google Cloud Price comparison](http://crmanalytics.net/cloud/aws-vs-azure-vs-google-cloud-price-comparison/)
+- [Cloud Price Comparison: AWS vs. Azure vs. Google](https://www.datamation.com/cloud-computing/cloud-price-comparison-aws-vs.-azure-vs.-google.html)
+- [Comparing Cloud Instance Pricing: AWS vs Azure vs Google vs IBM](https://www.flexera.com/blog/cloud/comparing-cloud-instance-pricing-aws-vs-azure-vs-google-vs-ibm/)
+- [Cloud Storage Cost Comparison: AWS vs. Azure vs. Google](https://www.business2community.com/cloud-computing/cloud-storage-cost-comparison-aws-vs-azure-vs-google-02191119)
+- [Cloud Management - An Overview of Cloud Pricing Models](https://www.jamcracker.com/blogs/cloud-management-overview-of-cloud-pricing-models)
+- [Pricing Schemes in Cloud Computing: An Overview](https://thesai.org/Downloads/Volume7No2/Paper_11-Pricing_Schemes_in_Cloud_Computing_An_Overview.pdf)
+- [Pricing Models for Cloud Computing Services, a Survey](https://ijcat.com/archives/volume5/issue3/ijcatr05031002.pdf)
+- [Mastering Cloud Cost Optimization: Cloud Cost Models & Discounts Overview](https://blog.turbonomic.com/mastering-cloud-cost-optimization-cost-models-discounts-overview)
+
+---------
+![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
+
+-----------
+![iaas2020_hourlyprice_disk](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_disk.png)
+
+------------
+![iaas2020_hourlyprice_memory](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_memory.png)
+-------
+![iaas2020_hourlyprice_compute](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_compute.png)
+
+
+
+---------------
+-------------
+![tracxn-data-center-infrastructure-startup-landscape](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-6-1024.jpg?cb=1531289300)
+--------
+![tracxn-data-center-infrastructure-startup-landscape-7-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-7-1024.jpg?cb=1531289300)
+--------
+![tracxn-data-center-infrastructure-startup-landscape-8](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-8-1024.jpg?cb=1531289300)
+
+-----------
+![tracxn-data-center-infrastructure-startup-landscape-9-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-9-1024.jpg?cb=1531289300)
+--------
+![tracxn-data-center-infrastructure-startup-landscape-10-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-10-1024.jpg?cb=1531289300)
+-------
+![tracxn-data-center-infrastructure-startup-landscape-34-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-34-1024.jpg?cb=1531289300)
+--------
+![tracxn-data-center-infrastructure-startup-landscape-35-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-35-1024.jpg?cb=1531289300)
+
+-----------
+![fl_progressive:steep/https%3A%2F%2Fbucketeer](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67e91f42-3c28-4502-b48d-80a44e2c2f32_1360x722.png)
+--------
+![fl_progressive](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c49645d-799c-46e0-aba1-502907938067_1393x769.png)
+
+------------
+![F%2Fbucketeer-e05bbc84-baa3-437e-9518](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1b3352-88ef-43fe-9110-ca9901a6c2f1_1193x669.png)
+
+---------
+![amazonaws.com%2Fpublic%2Fimages%2Fe51c5835-3974-4f82-bafe-431c9a59754f_1379x721](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe51c5835-3974-4f82-bafe-431c9a59754f_1379x721.png)
+
+-------------
+![Fimages%2Fd759c438-165e-4669-b419-5f8b70b82110_1379x775](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd759c438-165e-4669-b419-5f8b70b82110_1379x775.png)
+
+------------
+![Fpublic%2Fimages%2F314ba3dd-66c7-4fa4-a8d2-250762821d5b_1194x669](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F314ba3dd-66c7-4fa4-a8d2-250762821d5b_1194x669.png)
+
+-----------
+![public%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x72](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x727.png)
+
+------------
+![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
+
+--------------
+![rSO8Ea_k2zyHgu_qvmtvZw](https://miro.medium.com/max/1410/1*rSO8Ea_k2zyHgu_qvmtvZw.png)
+
+---------------
+![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
+
+----------
+![CNCF_TrailMap_latest](https://github.com/cncf/trailmap/blob/master/CNCF_TrailMap_latest.png)
+
+------------------
+----------
+       
+       - The 2020 global Information Technology industry will reach $5.2 trillion, of which $624B is software, implying developer-led products are 7% of global software spend.
+
+       - At the time this blog was authored, the median SaaS / Cloud public markets EV / Next 12 Month Revenue ratio is a whopping 15x, and if developer-led businesses are treated similarly they would carry a $0.6 trillion EV.
+
+
+![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
+-------
+![it-industry-outlook-2021/key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
+---------
+![critical-areas-within-infrastructure](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-infrastructure710124673.png?sfvrsn=ed66e067_2)
+----------
+![critical-areas-within-software-development](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-software-development-1485180701.png?sfvrsn=13c7ffd4_2)
+-----------
+![critical-areas-within-cybersecurity458145124](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-cybersecurity458145124.png?sfvrsn=56381653_2)
+---------
+![critical-areas-within-data](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-data.png?sfvrsn=903b596c_4)
+
+
+----------
+![budget-allocations-to-functional-areas](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/budget-allocations-to-functional-areas.png?sfvrsn=6fb57fe6_2)
+
+-------------------
+------------
+
+#### Digital Workplace
+
+- [2020 Predictions for the Future of Work](https://www.constellationr.com/blog-news/2020-predictions-future-work)
+- [The future of work in technology](https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html)
+- [Next Generation Digital Enterprise (Workplace) Technology](https://www.slideshare.net/dhinchcliffe/next-generation-digital-enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe)
+- [So long, app silos: And welcome to the digital workplace hub](https://www.zdnet.com/article/the-shift-from-app-silos-to-digital-workplace-as-platform/)
+- [EmpEx 200 Charts Most Important Digital Workplace Technologies](https://www.realstorygroup.com/Blog/empex-200-charts-most-important-digital-workplace-technologies)
+- [The State of Emerging Technology in the Enterprise](https://etr.plus/marketplace/the-state-of-emerging-technology-in-the-enterprise-ets/view)
+- [Enterprise Social-Collaboration - A Changing Landscape](https://www.realstorygroup.com/Blog/enterprise-social-collaboration-changing-landscape)
+- [Graph Technology Landscape 2019](https://graphaware.com/graphaware/2019/02/01/graph-technology-landscape.html)
+- [desktop as a service (DaaS) providers](https://www.techrepublic.com/article/top-desktop-as-a-service-daas-providers-amazon-citrix-microsoft-vmware-and-more/)
+
+--------------
+![Infrastructure_landscape_service_overiew](https://www.infra-repository.org/oiar/images/6/65/Infrastructure_landscape_service_overiew.png)
+--------
+![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
+---------
+![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
+---------
+![exhibit%204%20%282%29](https://www.deltapartnersgroup.com/sites/default/files/exhibit%204%20%282%29.JPG)
+--------
+![exhibit%2012_0](https://www.deltapartnersgroup.com/sites/default/files/exhibit%2012_0.JPG)
+------------
+![digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community](https://www.constellationr.com/system/files/uploads/u16818/digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community.png)
+----------
+![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
+-----------
+![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
+--------
+![enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024](https://image.slidesharecdn.com/nextgenerationdigitalenterprisetechnologyenterprisedigitalarena2017keynotebydionhinchcliffe-170321140519/95/next-generation-digital-enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024.jpg?cb=1490105149)
+
+---------
+![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
+--------
+![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
+
+--------
+![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
+---------------------
+-----------
+- [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
+- [The Internet of Things (IoT) – essential IoT business guide](https://www.i-scoop.eu/internet-of-things-guide/)
+- [DevOps Landscape 2015: The Race to the Management Layer](https://thenewstack.io/devops-landscape-2015-the-race-to-the-management-layer/)
+- [Everything a Data Scientist Should Know About Data Management](https://www.topbots.com/data-management-infrastructure/)
+- [More tools for managing and reproducing complex data projects](https://www.oreilly.com/content/more-tools-for-managing-and-reproducing-complex-data-projects/)
+- [AI startups & companies in the landscape of Machine Intelligence](http://airesearch.com/ai-blog/ai-startups-companies-in-the-landscape-of-machine-intelligence/)
+- [Describing the Organisation Data Landscape](https://www.researchgate.net/publication/336530200_Describing_the_Organisation_Data_Landscape)
+- [Machine Learning and Cloud Computing: Survey of Distributed and SaaS Solutions](https://arxiv.org/pdf/1603.08767.pdf)
+- [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
+- [New (and existing) Trending Data Infrastructure Vendors to Watch (2018)](https://medium.com/@gregpschulz/new-and-existing-trending-data-infrastructure-vendors-to-watch-2018-a6a86fa18a47)
+- [Comparison Analysis of SAP Solutions on Public Infrastructure Clouds](https://blogs.sap.com/2017/03/24/comparison-analysis-of-sap-solutions-on-public-infrastructure-clouds/)
+
+-------------
+----------------
+- [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+
+---------------
+---------------
+
+![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
+------------
+
+![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
 ---------------
 --------------------
