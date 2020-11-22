@@ -297,10 +297,16 @@
 --------
 #### Organizational Structure Modeling
 
+- [The Evolution of the Org Chart](https://pingboard.com/org-charts/evolution-org-charts)
+- [Org Chart Templates by Industry](https://pingboard.com/org-chart-templates)
+- [Ways to Use Organizational Charts](https://pingboard.com/org-charts/use-organizational-charts)
+- [Why it’s Time to Re-design Company Structures](https://medium.com/thingsflux/why-its-time-to-re-design-company-structures-f6a17c82f2b4)
+- [Org Chart Resources](https://pingboard.com/org-charts/org-chart-resources)
+- [Getting organizational redesign right](https://www.mckinsey.com/business-functions/organization/our-insights/getting-organizational-redesign-right)
 - [Organizational  Structures Templates](https://docs.google.com/presentation/d/1xsoSH_kHuyykdFsr2I3KMB0dtr15N_pzq8iF2zME8dI/edit#slide=id.g85f1fc876f_0_95)
 - [org-chart-examples](https://www.orgcharting.com/category/org-chart-examples/)
 - [Types of Organizational Structures](https://online.pointpark.edu/business/types-of-organizational-structures/)
-- [HBR Organizational structure](https://hbr.org/topic/organizational-structure)
+- [HBR - Organizational structure](https://hbr.org/topic/organizational-structure)
 - [organizational-design](https://www.stratechi.com/organizational-design/)
 - [DoD Organizational Structure](https://fas.org/irp/agency/dod/org-man.pdf)
 - [National Security Agency Org Structure](https://cryptome.org/nsa-reorg-et.htm)
@@ -326,6 +332,7 @@
 - [Accenture’s Org Structure](https://www.accenture.com/gb-en/blogs/blogs-know-about-accenture-structure)
 - [Will Alphabet’s new structure make Google’s business more transparent, or less?](https://www.fastcompany.com/40462340/alphabet-google-xxvi-holdings-restructuring-reorganization-transparency)
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
+- [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
 --------------
 -------------
@@ -551,17 +558,88 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------
 ![enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024](https://image.slidesharecdn.com/nextgenerationdigitalenterprisetechnologyenterprisedigitalarena2017keynotebydionhinchcliffe-170321140519/95/next-generation-digital-enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024.jpg?cb=1490105149)
 
+--------
+![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
 ---------
 
 ![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
 
---------
-![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
+
 -----------
 ![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
 
+----------
+---------------
+
+##### ITIL/ITSM/ITSO Service Desk 
+
+![fr_help-desk_v7](https://software-advice.imgix.net/managed/frontrunner/fr_help-desk_v7.png)
+
+-------------
+![itsm-process-overview](https://www.manageengine.com/products/service-desk/itsm/images/itsm-process-overview.png)
+-------
+![SO060-ITIL-Service-Desk-Activities](https://i1.wp.com/www.certguidance.com/hiresimg/ITLF/SO060-ITIL-Service-Desk-Activities.png?ssl=1)
+-------
+![3-0](https://docplayer.net/docs-images/57/41196591/images/3-0.png)
+
+-----------
+![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
+
+
 ---------------------
 -----------
+
+#### Enterprise Resource Planning (The Enterprise Digital Core)
+
+- Why ERP?
+- Short history, 40+ years in evolution
+- Enterprise Information Architecture
+- Enterprise Database Technology
+  - DB Type Evolution
+  - Enterprise Data Types
+    - Configuration Data
+    - Custum Data
+    - Master Data
+    - Transaction Data
+    - Unstructured Data
+    - Spatial Data
+  - Master Data Management & Governance
+    - Master Data based on LoB
+  - Refrence Data Management
+  - Data Quality Management
+  - Leading Vendors of Enterprise DB Softwares(OLAP & OLTP)
+- Enterprise Core Lines of Business
+  - Finance Accounting, Planning, Controling and Reporting
+  - Human Resources Management( Capital, Time, payroll & Talent)
+  - Sourcing and Procurement ( Supplier, Procurements & Expense)
+  - Manufacturing (Materials, Production Planning, Quality Management)
+  - Supply Chain Management ( Integrated Business, Inventory, Warehouse, Transport, Traceability)
+  - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
+  - Digital Asset Management
+  - R & D Product Life Cycle Management
+  - Professional Services - Project Management ( Coomercial,Customer), Demand Management, Resource Planning, Forecasting & Reporting 
+- ERP Implementation ( Planning, Forecasting & Development)
+  - For Small businesses & Startups
+  - For Medium Businesses
+  - For Large Businesses
+- ERP Software Leading Vendors Portfolios
+- Industry Specific ERP Softwares
+
+
+
+
+-------------
+--------------
+
+#### Enterprise Data Integration 
+
+
+
+---------------
+---------------
+
+#### IoT Platforms Integration with ERP
+
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
 - [The Internet of Things (IoT) – essential IoT business guide](https://www.i-scoop.eu/internet-of-things-guide/)
 - [DevOps Landscape 2015: The Race to the Management Layer](https://thenewstack.io/devops-landscape-2015-the-race-to-the-management-layer/)
@@ -574,12 +652,41 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [New (and existing) Trending Data Infrastructure Vendors to Watch (2018)](https://medium.com/@gregpschulz/new-and-existing-trending-data-infrastructure-vendors-to-watch-2018-a6a86fa18a47)
 - [Comparison Analysis of SAP Solutions on Public Infrastructure Clouds](https://blogs.sap.com/2017/03/24/comparison-analysis-of-sap-solutions-on-public-infrastructure-clouds/)
 
--------------
-----------------
+
+---------------------------
+-----------------------------
+
+#### Enterprise Data Warehouse/Store (EDW/EDS)
+
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
----------------
----------------
+--------------
+----------------
+
+#### AI in Enterprise Processes
+
+- Process Automation using RPA
+- Designing Data Pipelines
+- BI and Reporting (Data Visualization)
+- Analytics (Descriptive, Diagnostic, Predictive, Prescritive)
+- Datascience
+- Machine Learning
+- Leading Enterprise RPA/DS/ML Sofware Vendors
+
+
+-----------
+----------------
+
+#### Experience Design For Enterprise Processes
+
+- User Interface
+  - Conversational
+- Mobile
+- VR/AR/WebVR
+
+
+-------------
+----------------
 
 
 ![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
@@ -590,5 +697,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 #### 21.2nd Century Enterprise Tech Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
+
 ------------
 ------------------------------------
+
+#### Enterprise Sofware Development Tools & Process
+
+
+----------
+----------------
