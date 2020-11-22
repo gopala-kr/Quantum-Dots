@@ -555,8 +555,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
 --------
 ![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
---------
-![enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024](https://image.slidesharecdn.com/nextgenerationdigitalenterprisetechnologyenterprisedigitalarena2017keynotebydionhinchcliffe-170321140519/95/next-generation-digital-enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024.jpg?cb=1490105149)
 
 --------
 ![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
@@ -571,11 +569,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ----------
 ---------------
 
-##### ITIL/ITSM/ITSO Service Desk 
+#### ITIL/ITSM/ITSO Service Desk 
 
 ![fr_help-desk_v7](https://software-advice.imgix.net/managed/frontrunner/fr_help-desk_v7.png)
 
 -------------
+![043b3cf3804ae72f7f8dd8d9f680ae7b](https://i.pinimg.com/originals/04/3b/3c/043b3cf3804ae72f7f8dd8d9f680ae7b.jpg)
+-----------
 ![itsm-process-overview](https://www.manageengine.com/products/service-desk/itsm/images/itsm-process-overview.png)
 -------
 ![SO060-ITIL-Service-Desk-Activities](https://i1.wp.com/www.certguidance.com/hiresimg/ITLF/SO060-ITIL-Service-Desk-Activities.png?ssl=1)
@@ -584,7 +584,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -----------
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
-
 
 ---------------------
 -----------
@@ -605,19 +604,19 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
     - Spatial Data
   - Master Data Management & Governance
     - Master Data based on LoB
-  - Refrence Data Management
+  - Reference Data Management
   - Data Quality Management
   - Leading Vendors of Enterprise DB Softwares(OLAP & OLTP)
 - Enterprise Core Lines of Business
   - Finance Accounting, Planning, Controling and Reporting
-  - Human Resources Management( Capital, Time, payroll & Talent)
+  - Human Resources Management( Capital, Time, Payroll & Talent)
   - Sourcing and Procurement ( Supplier, Procurements & Expense)
   - Manufacturing (Materials, Production Planning, Quality Management)
   - Supply Chain Management ( Integrated Business, Inventory, Warehouse, Transport, Traceability)
   - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
   - Digital Asset Management
   - R & D Product Life Cycle Management
-  - Professional Services - Project Management ( Coomercial,Customer), Demand Management, Resource Planning, Forecasting & Reporting 
+  - Professional Services - Project Management ( Coomercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
 - ERP Implementation ( Planning, Forecasting & Development)
   - For Small businesses & Startups
   - For Medium Businesses
