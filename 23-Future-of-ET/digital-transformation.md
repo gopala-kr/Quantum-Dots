@@ -114,6 +114,17 @@
 
 ----------
 ![budget-allocations-to-functional-areas](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/budget-allocations-to-functional-areas.png?sfvrsn=6fb57fe6_2)
+-------------
+---------
+![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
+
+-----------
+![iaas2020_hourlyprice_disk](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_disk.png)
+
+------------
+![iaas2020_hourlyprice_memory](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_memory.png)
+-------
+![iaas2020_hourlyprice_compute](https://redmonk.com/rstephens/files/2020/07/iaas2020_hourlyprice_compute.png)
 
 --------------
 ------------------------------
