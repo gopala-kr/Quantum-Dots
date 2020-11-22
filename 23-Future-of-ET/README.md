@@ -263,7 +263,7 @@
 
 ----------
 - [TOGAF® Standard](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
-- [LEAF Stanard](http://www.hosiaisluoma.fi/LEAF/index.htm?goto=1:4:1:3:3:281)
+- [LEAF Standard](http://www.hosiaisluoma.fi/LEAF/index.htm?goto=1:4:1:3:3:281)
 - [THE DEFINITIVE GUIDE TO Enterprise Architecture](https://www.leanix.net/en/enterprise-architecture)
 - [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide)
 - [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf)
@@ -387,13 +387,18 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [IT Conferences of 2020](https://www.acronis.com/en-in/articles/50-it-conferences-2020/)
 
 -----------
+![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
+---------
+![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
+
+--------------------
 
 - [Research Challenges and Prospective Business Impacts of Cloud Computing: A Survey](https://arxiv.org/ftp/arxiv/papers/2005/2005.01475.pdf)
 - [Next Generation Cloud Computing:
 New Trends and Research Directions](https://arxiv.org/pdf/1707.07452.pdf)
 - [Evolution of as-a-Service Era in Cloud](https://arxiv.org/ftp/arxiv/papers/1507/1507.00939.pdf)
 - [ACM - Cloud Computing: Survey on Energy Efficiency
-Share on](https://dl.acm.org/doi/10.1145/2656204)
+Share](https://dl.acm.org/doi/10.1145/2656204)
 - [Foundations and Technological Landscape of Cloud Computing](https://www.hindawi.com/journals/isrn/2013/782174/)
 - [From FPGA to Support Cloud to Cloud of FPGA: State of the Art](https://www.hindawi.com/journals/ijrc/2019/8085461/)
 - [Security of Cloud FPGAs: A Survey](https://arxiv.org/pdf/2005.04867.pdf)
@@ -515,17 +520,16 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![public%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x72](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x727.png)
 
-------------
-![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
 
---------------
-![rSO8Ea_k2zyHgu_qvmtvZw](https://miro.medium.com/max/1410/1*rSO8Ea_k2zyHgu_qvmtvZw.png)
 
 ---------------
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
 
+------------
+![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
+
 ----------
-![CNCF_TrailMap_latest](https://github.com/cncf/trailmap/blob/master/CNCF_TrailMap_latest.png)
+![landscape](https://landscape.cncf.io/images/landscape.png)
 
 ------------------
 ----------
@@ -538,18 +542,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
 -------
 ![it-industry-outlook-2021/key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
----------
-![critical-areas-within-infrastructure](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-infrastructure710124673.png?sfvrsn=ed66e067_2)
-----------
-![critical-areas-within-software-development](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-software-development-1485180701.png?sfvrsn=13c7ffd4_2)
------------
-![critical-areas-within-cybersecurity458145124](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-cybersecurity458145124.png?sfvrsn=56381653_2)
----------
-![critical-areas-within-data](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-data.png?sfvrsn=903b596c_4)
-
-
-----------
-![budget-allocations-to-functional-areas](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/budget-allocations-to-functional-areas.png?sfvrsn=6fb57fe6_2)
 
 -------------------
 ------------
@@ -568,30 +560,26 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 --------------
 ![Infrastructure_landscape_service_overiew](https://www.infra-repository.org/oiar/images/6/65/Infrastructure_landscape_service_overiew.png)
---------
-![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
----------
-![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
----------
-![exhibit%204%20%282%29](https://www.deltapartnersgroup.com/sites/default/files/exhibit%204%20%282%29.JPG)
---------
-![exhibit%2012_0](https://www.deltapartnersgroup.com/sites/default/files/exhibit%2012_0.JPG)
+
 ------------
 ![digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community](https://www.constellationr.com/system/files/uploads/u16818/digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community.png)
 ----------
-![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
------------
+
 ![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
+--------
+![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
 --------
 ![enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024](https://image.slidesharecdn.com/nextgenerationdigitalenterprisetechnologyenterprisedigitalarena2017keynotebydionhinchcliffe-170321140519/95/next-generation-digital-enterprise-workplace-technology-enterprise-digital-arena-2017-keynote-by-dion-hinchcliffe-27-1024.jpg?cb=1490105149)
 
 ---------
-![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
---------
+
 ![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
 
 --------
+![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
+-----------
 ![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
+
 ---------------------
 -----------
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
