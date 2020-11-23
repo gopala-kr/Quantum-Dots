@@ -774,9 +774,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ------------
 
-##### [Beyond the digital frontier: Mapping your future](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
+##### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
-![5039_fig1](https://www2.deloitte.com/content/dam/insights/us/articles/5039_Tech-Trends2019-Beyond-the-digital-frontier/figures/5039_fig1.jpg)
+![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
 
 
 ------------
