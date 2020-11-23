@@ -596,7 +596,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------
 -------------
 
-#### Employee Experience
+#### Employee Experience Design
 
 ![digital_transformation_of_workplace_for_end_to_end_employee_experience](https://dionhinchcliffe.files.wordpress.com/2018/05/digital_transformation_of_workplace_for_end_to_end_employee_experience.png)
 
@@ -686,7 +686,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------
 --------------
 
-#### Enterprise Data Integration 
+#### Enterprise Data & Application  Integration 
 
 
 
@@ -771,6 +771,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ------------
 
 ![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
+
+------------
+
+##### [Beyond the digital frontier: Mapping your future](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
+
+![5039_fig1](https://www2.deloitte.com/content/dam/insights/us/articles/5039_Tech-Trends2019-Beyond-the-digital-frontier/figures/5039_fig1.jpg)
+
 
 ------------
 ------------------------------------
