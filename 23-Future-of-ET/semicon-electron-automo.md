@@ -1,4 +1,10 @@
 
+- [Semiconductors – the Next Wave  Opportunities and winning strategies for semiconductor companies](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-semiconductors-the-next-wave-en-190422.pdf)
+- [The Electronics Value-Chain](https://ec.europa.eu/information_society/newsroom/cf/dae/document.cfm?action=display&doc_id=4466)
+- [Challenges And Opportunities For China In The Semiconductor Industry](https://semiengineering.com/challenges-and-opportunities-for-china-in-the-semiconductor-industry/)
+
+---------------
+![roland_berger_248_electronics_assembley_gt_1_large_image](https://www.rolandberger.com/content_assets/content_images/captions/roland_berger_248_electronics_assembley_gt_1_large_image.jpg)
 -------------
 ![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
 ![/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2](https://images.ctfassets.net/y4nxuejkhx03/5AGxje7APvUvq5VMbtlSsE/e71c21deccc0f7859022d4181b1dad45/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2.png?fl=progressive)
@@ -12,9 +18,9 @@
 -----------
 ![Cv6SGhcVUAAjUko](https://pbs.twimg.com/media/Cv6SGhcVUAAjUko.jpg)
 ----------
-![]()
+![largestICCategories](https://epsnews.com/wp-content/uploads/2018/08/ICInsights-largestICCategories.png)
 ----------
-![]()
+![SemiLeaders](https://epsnews.com/wp-content/uploads/2018/08/ICInsights-SemiLeaders.png)
 ----------
 ![]()
 ----------
