@@ -494,6 +494,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Cloud Comparer — a Public Cloud Comparison (@ Ilyes)](https://medium.com/@kyleake/cloud-comparer-a-public-cloud-comparison-ilyes-68d1d9772a7a)
 - [github.com/ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer)
 - [Design and Implementation of a Cloud Computing Adoption Decision Tool: Generating a Cloud Road](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134563)
+- [The Cloud Value Chain Exposed](https://www.cisco.com/c/dam/en_us/about/ac79/docs/sp/Cloud-Value-Chain-Exposed_030512FINAL.pdf)
+- [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
 
 -----------------
 
@@ -680,6 +682,14 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Industry Specific ERP Softwares
 
 --------------------------------------
+
+#### Database Technology
+
+- [A Brief History of Databases](https://peterjamesthomas.com/2018/02/06/a-brief-history-of-databases/)
+
+![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
+
+-------------------------
 
 - [https://learning.sap-press.com/what-is-sap](https://learning.sap-press.com/what-is-sap)
 
