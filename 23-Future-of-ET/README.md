@@ -200,11 +200,11 @@
 
 ----------
 
-#### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md.md)
+#### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
 
 ----------------
 
-#### [Internet - Telecom Infrastructure Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet-telecom.md)
+#### [Internet - Telecom Infrastructure Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)
 
 ------------
 
@@ -622,7 +622,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![fr_help-desk_v7](https://software-advice.imgix.net/managed/frontrunner/fr_help-desk_v7.png)
 
 -------------
-![043b3cf3804ae72f7f8dd8d9f680ae7b](https://i.pinimg.com/originals/04/3b/3c/043b3cf3804ae72f7f8dd8d9f680ae7b.jpg)
+![IT_Service_Desk](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/IT_Service_Desk.png)
 
 -----------
 ![itsm-process-overview](https://www.manageengine.com/products/service-desk/itsm/images/itsm-process-overview.png)
