@@ -175,6 +175,8 @@
 - [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
 - [Emerging Technologies (2018–2028)](http://winwinweb.co.in/2019/06/28/emerging-technologies/)
 - [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
+
 ------------
 ![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
 ---------
@@ -183,7 +185,10 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
-
+------
+![sensors-for-robotic-mobility-2020-10-1024](https://image.slidesharecdn.com/ydr20070sensorsforroboticmobility2020sample-200331092455/95/sensors-for-robotic-mobility-2020-10-1024.jpg?cb=1585646780)
+--------
+![artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024](https://image.slidesharecdn.com/yoley1-191018101947/95/artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024.jpg?cb=1571394048)
 -----------
 ------------
 
@@ -293,9 +298,12 @@
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
 
+----------
+![the-role-of-the-new-cio-3-1024](https://image.slidesharecdn.com/theroleofthenewcio-181102214923/95/the-role-of-the-new-cio-3-1024.jpg?cb=1541195953)
+
 -----------
 --------
-#### Organizational Structure Modeling
+#### Organizational Structure Design
 
 - [The Evolution of the Org Chart](https://pingboard.com/org-charts/evolution-org-charts)
 - [Org Chart Templates by Industry](https://pingboard.com/org-chart-templates)
@@ -334,10 +342,32 @@
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
+------------
+
+![old_it_versus_new_it_networks_of_change_agents_enablement](https://dionhinchcliffe.files.wordpress.com/2015/05/old_it_versus_new_it_networks_of_change_agents_enablement.png)
+
+-----------
+![hierarchy_versus_community](https://dionhinchcliffe.files.wordpress.com/2014/04/hierarchy_versus_community.png)
+
+-----------
+![consolidating_c_suite_digital_transformation_leadership](https://dionhinchcliffe.files.wordpress.com/2016/04/consolidating_c_suite_digital_transformation_leadership.png)
+
+----------
+![suite_digital_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/01/c-suite_digital_social_business_transformation.png)
+
+--------
+![the_digital_network_of_excellence](https://dionhinchcliffe.files.wordpress.com/2015/01/the_digital_network_of_excellence.png)
+
+--------
+![enterprise_digital_business_transformation](https://dionhinchcliffe.files.wordpress.com/2014/05/enterprise_digital_business_transformation.png)
+
+---------
+![business_architecture_change_and_designing_the_future_enterprise](https://dionhinchcliffe.files.wordpress.com/2014/04/business_architecture_change_and_designing_the_future_enterprise.png)
+
 --------------
 -------------
 
-#### IT Infratsructure Modeling
+#### IT Infrastructure Modeling
 
 - [Executive Overview - IT Infrastructure](https://www.youtube.com/watch?v=V6zJi8CU7Tk&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=1)
 - [Executive Overview - Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
@@ -394,10 +424,34 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [IT Conferences of 2020](https://www.acronis.com/en-in/articles/50-it-conferences-2020/)
 
 -----------
+![technology_change_proliferation_and_enterprise_it1](https://dionhinchcliffe.files.wordpress.com/2013/11/technology_change_proliferation_and_enterprise_it1.png)
+
+-------
+![disruptive_megatrends_in_technology](https://dionhinchcliffe.files.wordpress.com/2012/02/disruptive_megatrends_in_technology.png)
+
+----------
+![defrag-keynote-on-coit-november-10th-2011-8-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-8-1024.jpg?cb=1321284111)
+
+------------
+![defrag-keynote-on-coit-november-10th-2011-9-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-9-1024.jpg?cb=1321284111)
+
+--------------
+
+![defrag-keynote-on-coit-november-10th-2011-19-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-19-1024.jpg?cb=1321284111)
+
+----------
+![defrag-keynote-on-coit-november-10th-2011-28-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-28-1024.jpg?cb=1321284111)
+
+---------------
 ![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
 
+----------
+![how_digital_enablement_is_changing](https://dionhinchcliffe.files.wordpress.com/2015/04/how_digital_enablement_is_changing.png)
+
 -----------------
+
 ![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
+
 ---------
 ![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
 
@@ -484,10 +538,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 --------
 ![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
+
 -------------
 ![tracxn-data-center-infrastructure-startup-landscape-7-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-7-1024.jpg?cb=1531289300)
+
 -----------
 ![fl_progressive:steep/https%3A%2F%2Fbucketeer](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67e91f42-3c28-4502-b48d-80a44e2c2f32_1360x722.png)
+
 --------
 ![fl_progressive](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c49645d-799c-46e0-aba1-502907938067_1393x769.png)
 
@@ -512,18 +569,26 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
 
-
+---------
+![platform-as-a-service_detail](https://dionhinchcliffe.files.wordpress.com/2011/10/platform-as-a-service_detail.png)
 
 ----------
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
+
+-------------
+
+![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
 
 ------------------
 ----------
        
        - The 2020 global Information Technology industry will reach $5.2 trillion, of which $624B is software, implying developer-led products are 7% of global software spend.
 
-       - At the time this blog was authored, the median SaaS / Cloud public markets EV / Next 12 Month Revenue ratio is a whopping 15x, and if developer-led businesses are treated similarly they would carry a $0.6 trillion EV.
+       - The median SaaS / Cloud public markets EV / Next 12 Month Revenue ratio is a whopping 15x, and if developer-led businesses are treated similarly they would carry a $0.6 trillion EV.
+       
+       - "Technology", in this context, has come to mean primarily electronics-based technology. 
+       -  computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services. 
 
 
 ![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
@@ -533,7 +598,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------------
 ------------
 
-#### Digital Workplace
+#### Digital Workplace Design
 
 - [2020 Predictions for the Future of Work](https://www.constellationr.com/blog-news/2020-predictions-future-work)
 - [The future of work in technology](https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html)
@@ -553,37 +618,61 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ----------
 
 ![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
---------
-![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
 
+----------
+![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
 --------
 ![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
+
+
 ---------
+-------------
+
+#### Employee Experience
+
+![digital_transformation_of_workplace_for_end_to_end_employee_experience](https://dionhinchcliffe.files.wordpress.com/2018/05/digital_transformation_of_workplace_for_end_to_end_employee_experience.png)
+
+--------
+![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
+----------------
 
 ![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
 
-
 -----------
 ![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
+----------
+![the-post-2020-digital-employee-experience](https://dionhinchcliffe.files.wordpress.com/2020/06/the-post-2020-digital-employee-experience.jpeg)
 
 ----------
 ---------------
 
 #### ITIL/ITSM/ITSO Service Desk 
 
+- [IT Services analyst-speak](https://www.wipro.com/analyst-speak/#NewReports)
+- [Chatbot Companies of 2020: In-depth Guide](https://research.aimultiple.com/chatbot-companies/)
+
+------------
+
 ![fr_help-desk_v7](https://software-advice.imgix.net/managed/frontrunner/fr_help-desk_v7.png)
 
 -------------
 ![043b3cf3804ae72f7f8dd8d9f680ae7b](https://i.pinimg.com/originals/04/3b/3c/043b3cf3804ae72f7f8dd8d9f680ae7b.jpg)
+
 -----------
 ![itsm-process-overview](https://www.manageengine.com/products/service-desk/itsm/images/itsm-process-overview.png)
+
 -------
 ![SO060-ITIL-Service-Desk-Activities](https://i1.wp.com/www.certguidance.com/hiresimg/ITLF/SO060-ITIL-Service-Desk-Activities.png?ssl=1)
+
 -------
 ![3-0](https://docplayer.net/docs-images/57/41196591/images/3-0.png)
 
 -----------
+
+#### IT4IT/DevOps Landscape
+
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
+
 
 ---------------------
 -----------
@@ -616,7 +705,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
   - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
   - Digital Asset Management
   - R & D Product Life Cycle Management
-  - Professional Services - Project Management ( Coomercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
+  - Professional Services - Project Management ( Commercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
 - ERP Implementation ( Planning, Forecasting & Development)
   - For Small businesses & Startups
   - For Medium Businesses
@@ -624,8 +713,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - ERP Software Leading Vendors Portfolios
 - Industry Specific ERP Softwares
 
+--------------------------------------
 
-
+- [https://learning.sap-press.com/what-is-sap](https://learning.sap-press.com/what-is-sap)
 
 -------------
 --------------
@@ -638,6 +728,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 
 #### IoT Platforms Integration with ERP
+
+-------------
+![protocols-and-their-impacts-on-the-electronics-industry-7-102](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-7-1024.jpg?cb=1540457007)
+
+-----------
+![internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024.jpg?cb=1540457007)
+---------------
+
+![the_internet_of_things_value_chain](https://dionhinchcliffe.files.wordpress.com/2017/09/the_internet_of_things_value_chain.jpeg)
+
+---------------
 
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
 - [The Internet of Things (IoT) – essential IoT business guide](https://www.i-scoop.eu/internet-of-things-guide/)
@@ -678,6 +779,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### Experience Design For Enterprise Processes
 
+---------------
+![contemporary_enterprise_systems_of_records_systems_of_engagement](https://dionhinchcliffe.files.wordpress.com/2017/01/contemporary_enterprise_systems_of_records_systems_of_engagement.jpeg)
+
+----------
+![institutional_practices_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/02/institutional_practices_social_business_transformation.png)
+
+---------
+![EnVxFlNXcAEfOCs](https://pbs.twimg.com/media/EnVxFlNXcAEfOCs?format=jpg&name=900x900)
+
+----------------
+
 - User Interface
   - Conversational
 - Mobile
@@ -690,6 +802,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
+-----------
+![the_digital_enterprise_2018_customer_worker_supplier_partner_experience](https://dionhinchcliffe.files.wordpress.com/2018/10/the_digital_enterprise_2018_customer_worker_supplier_partner_experience.png)
 ---------------
 --------------------
 
