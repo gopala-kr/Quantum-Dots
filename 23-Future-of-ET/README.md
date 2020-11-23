@@ -187,8 +187,7 @@
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 ------
 ![sensors-for-robotic-mobility-2020-10-1024](https://image.slidesharecdn.com/ydr20070sensorsforroboticmobility2020sample-200331092455/95/sensors-for-robotic-mobility-2020-10-1024.jpg?cb=1585646780)
---------
-![artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024](https://image.slidesharecdn.com/yoley1-191018101947/95/artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024.jpg?cb=1571394048)
+
 -----------
 ------------
 
@@ -269,6 +268,7 @@
 ----------
 - [TOGAF® Standard](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
 - [LEAF Standard](http://www.hosiaisluoma.fi/LEAF/index.htm?goto=1:4:1:3:3:281)
+- [Zachman Standard](https://www.zachman.com/about-the-zachman-framework)
 - [THE DEFINITIVE GUIDE TO Enterprise Architecture](https://www.leanix.net/en/enterprise-architecture)
 - [Microsoft cloud for enterprise architects illustrations](https://docs.microsoft.com/en-us/microsoft-365/solutions/cloud-architecture-models?view=o365-worldwide)
 - [Establishing Enterprise Architecture on AWS](https://d1.awsstatic.com/whitepapers/establishing-enterprise-architecture.pdf)
@@ -297,9 +297,6 @@
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
-
-----------
-![the-role-of-the-new-cio-3-1024](https://image.slidesharecdn.com/theroleofthenewcio-181102214923/95/the-role-of-the-new-cio-3-1024.jpg?cb=1541195953)
 
 -----------
 --------
@@ -343,26 +340,18 @@
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
 ------------
+![hierarchy_versus_community](https://dionhinchcliffe.files.wordpress.com/2014/04/hierarchy_versus_community.png)
+
+-----------
 
 ![old_it_versus_new_it_networks_of_change_agents_enablement](https://dionhinchcliffe.files.wordpress.com/2015/05/old_it_versus_new_it_networks_of_change_agents_enablement.png)
 
 -----------
-![hierarchy_versus_community](https://dionhinchcliffe.files.wordpress.com/2014/04/hierarchy_versus_community.png)
 
------------
 ![consolidating_c_suite_digital_transformation_leadership](https://dionhinchcliffe.files.wordpress.com/2016/04/consolidating_c_suite_digital_transformation_leadership.png)
 
 ----------
 ![suite_digital_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/01/c-suite_digital_social_business_transformation.png)
-
---------
-![the_digital_network_of_excellence](https://dionhinchcliffe.files.wordpress.com/2015/01/the_digital_network_of_excellence.png)
-
---------
-![enterprise_digital_business_transformation](https://dionhinchcliffe.files.wordpress.com/2014/05/enterprise_digital_business_transformation.png)
-
----------
-![business_architecture_change_and_designing_the_future_enterprise](https://dionhinchcliffe.files.wordpress.com/2014/04/business_architecture_change_and_designing_the_future_enterprise.png)
 
 --------------
 -------------
@@ -426,29 +415,11 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 -----------
 ![technology_change_proliferation_and_enterprise_it1](https://dionhinchcliffe.files.wordpress.com/2013/11/technology_change_proliferation_and_enterprise_it1.png)
 
--------
-![disruptive_megatrends_in_technology](https://dionhinchcliffe.files.wordpress.com/2012/02/disruptive_megatrends_in_technology.png)
-
-----------
-![defrag-keynote-on-coit-november-10th-2011-8-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-8-1024.jpg?cb=1321284111)
-
-------------
-![defrag-keynote-on-coit-november-10th-2011-9-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-9-1024.jpg?cb=1321284111)
-
---------------
-
-![defrag-keynote-on-coit-november-10th-2011-19-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-19-1024.jpg?cb=1321284111)
-
-----------
-![defrag-keynote-on-coit-november-10th-2011-28-1024](https://image.slidesharecdn.com/defragkeynoteoncoit2011bydionhinchcliffeat9-45am-111114084902-phpapp01/95/defrag-keynote-on-coit-november-10th-2011-28-1024.jpg?cb=1321284111)
 
 ---------------
 ![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
 
 ----------
-![how_digital_enablement_is_changing](https://dionhinchcliffe.files.wordpress.com/2015/04/how_digital_enablement_is_changing.png)
-
------------------
 
 ![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
 
@@ -569,8 +540,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
 
----------
-![platform-as-a-service_detail](https://dionhinchcliffe.files.wordpress.com/2011/10/platform-as-a-service_detail.png)
 
 ----------
 
@@ -640,8 +609,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -----------
 ![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
-----------
-![the-post-2020-digital-employee-experience](https://dionhinchcliffe.files.wordpress.com/2020/06/the-post-2020-digital-employee-experience.jpeg)
 
 ----------
 ---------------
@@ -779,16 +746,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### Experience Design For Enterprise Processes
 
----------------
-![contemporary_enterprise_systems_of_records_systems_of_engagement](https://dionhinchcliffe.files.wordpress.com/2017/01/contemporary_enterprise_systems_of_records_systems_of_engagement.jpeg)
-
-----------
-![institutional_practices_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/02/institutional_practices_social_business_transformation.png)
-
----------
-![EnVxFlNXcAEfOCs](https://pbs.twimg.com/media/EnVxFlNXcAEfOCs?format=jpg&name=900x900)
-
-----------------
 
 - User Interface
   - Conversational
