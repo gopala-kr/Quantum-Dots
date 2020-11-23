@@ -200,15 +200,16 @@
 
 ----------
 
-#### [Semiconductor & Electronics Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semiconductor.md)
+#### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md.md)
 
 ----------------
 
-#### [Internet Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)
+#### [Internet - Telecom Infrastructure Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet-telecom.md)
 
 ------------
 
 #### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
+
 ----------
 
 #### [Financing Technology Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-capital-investments.md)
@@ -492,6 +493,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Public Cloud (Wars) Hyperscalers Comparison](https://virtualizationandstorage.wordpress.com/2019/02/20/public-cloud-vendor-comparison/)
 - [Cloud Comparer — a Public Cloud Comparison (@ Ilyes)](https://medium.com/@kyleake/cloud-comparer-a-public-cloud-comparison-ilyes-68d1d9772a7a)
 - [github.com/ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer)
+- [Design and Implementation of a Cloud Computing Adoption Decision Tool: Generating a Cloud Road](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134563)
 
 -----------------
 
@@ -547,9 +549,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -------------
 
-![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
-
-------------------
 ----------
        
        - The 2020 global Information Technology industry will reach $5.2 trillion, of which $624B is software, implying developer-led products are 7% of global software spend.
@@ -767,6 +766,11 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 #### 21.2nd Century Enterprise Tech Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
+
+
+------------
+
+![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
 
 ------------
 ------------------------------------
