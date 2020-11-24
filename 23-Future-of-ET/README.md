@@ -137,10 +137,29 @@
 - [Humans, Gods and Technology | VPRO documentary](https://www.youtube.com/watch?v=tQd_5as_cMY)
 - [Becoming a Kardashev Type I Civilization](https://www.youtube.com/watch?v=HEpNiOM6lto)
 
+-------------------
+![next_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev.PNG)
+
+--------------------
+![next_rev2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev2.PNG)
+
+---------------
+
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
+------
+![sensors-for-robotic-mobility-2020-10-1024](https://image.slidesharecdn.com/ydr20070sensorsforroboticmobility2020sample-200331092455/95/sensors-for-robotic-mobility-2020-10-1024.jpg?cb=1585646780)
+
+-----------
+![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
+
+
+
+----------------
 ------------
+
 #### Industries & Economic Sectors
+
 - [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
 - [Sector / Industry index](https://www.unclestock.com/documentation/industries.html)
 - [Global Industry Classification Standard](https://www.msci.com/gics)
@@ -163,11 +182,22 @@
 ![27s_sector_model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clark%27s_sector_model.svg/1920px-Clark%27s_sector_model.svg.png)
 ----------
 ![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
+
 --------
+![product_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/product_services.PNG)
+
+--------------
 ![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
+
+---------
+![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
+
+----------
+![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
 
 ----------------
 ---------
+
 #### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
 
 - [Technological Progress](https://ourworldindata.org/technological-progress)
@@ -185,8 +215,7 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
-------
-![sensors-for-robotic-mobility-2020-10-1024](https://image.slidesharecdn.com/ydr20070sensorsforroboticmobility2020sample-200331092455/95/sensors-for-robotic-mobility-2020-10-1024.jpg?cb=1585646780)
+
 
 -----------
 ------------
@@ -197,6 +226,7 @@
 ------------------
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+
 
 ----------
 
@@ -256,7 +286,21 @@
 --------
 ![enterprise-architecture-on-a-page](https://interact.bcs.org/images/articles/enterprise-architecture-on-a-page.jpg)
 
+------------
+
+##### Enterprise Architecture Example :
+
+![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
+
 -----------
+
+![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
+
+----------
+![innovation_cicd2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/innovation_cicd2.PNG)
+
+-----------
+
 - [Enterprise Architecture (EA) - why is it important?](https://www.youtube.com/watch?v=9TVc32M_gIY)
 - [TOGAF EA Model](https://www.youtube.com/watch?v=jMmyYpKSqD8)
 - [Enterprise architecture framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
@@ -301,6 +345,7 @@
 
 -----------
 --------
+
 #### Organizational Structure Design
 
 - [The Evolution of the Org Chart](https://pingboard.com/org-charts/evolution-org-charts)
@@ -511,6 +556,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 
 ---------------
+![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
+
 --------
 ![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
 
@@ -562,6 +609,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 
 ![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
+
 -------
 ![it-industry-outlook-2021/key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
@@ -585,12 +633,14 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ------------
 ![digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community](https://www.constellationr.com/system/files/uploads/u16818/digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community.png)
+
 ----------
 
 ![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
 
 ----------
 ![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
+
 --------
 ![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
 
@@ -604,6 +654,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 --------
 ![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
+
 ----------------
 
 ![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
@@ -682,12 +733,49 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Industry Specific ERP Softwares
 
 --------------------------------------
+-----------------------------------
+
+![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
+
+-----------
+
+#### Lead To Cash
+
+![Lead-to-Cash2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Lead-to-Cash2.PNG)
+
+----------------------------------
+
+#### Source To Pay
+
+![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
+
+-----------------------------
+
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
+----------------
+![enterprise_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/enterprise_services.PNG)
+
+----------
+![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
+
+----------------
+![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
+
+---------
+
+![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
+
+---------------------------
 
 #### Database Technology
 
 - [A Brief History of Databases](https://peterjamesthomas.com/2018/02/06/a-brief-history-of-databases/)
 
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
+
+-------------
+![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
 -------------------------
 
@@ -696,23 +784,73 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------
 --------------
 
-#### Enterprise Data & Application  Integration 
+#### Enterprise Data & Application Integration 
 
+-----------------
+![ipaas_usecases](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_usecases.PNG)
 
+---------
+
+![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
+
+---------------
+![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
+
+------------
+![integration_capabilities](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_capabilities.PNG)
+
+-------------
+![integration_implementations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_implementations.PNG)
+
+-----------
+![api_lifecycle2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/api_lifecycle2.PNG)
+
+-------------
+![integration_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_services.PNG)
+
+-------------
+![ipaas_1n](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_1n.PNG)
+
+------------
+![ipaas_connectivity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_connectivity.PNG)
+
+-------------
+![ipaas_interoperability](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_interoperability.PNG)
+
+---------
+![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_non.PNG)
 
 ---------------
 ---------------
 
 #### IoT Platforms Integration with ERP
 
+
+
 -------------
 ![protocols-and-their-impacts-on-the-electronics-industry-7-102](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-7-1024.jpg?cb=1540457007)
 
 -----------
 ![internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024.jpg?cb=1540457007)
+
 ---------------
 
 ![the_internet_of_things_value_chain](https://dionhinchcliffe.files.wordpress.com/2017/09/the_internet_of_things_value_chain.jpeg)
+
+---------
+![sensors_forecast](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sensors_forecast.PNG)
+
+---------------
+![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
+
+-----------
+![iot_business_model](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_business_model.PNG)
+
+--------
+![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
+
+------------
+![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
 ---------------
 
@@ -736,6 +874,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
+----------
+![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
+
 --------------
 ----------------
 
@@ -749,6 +890,36 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Machine Learning
 - Leading Enterprise RPA/DS/ML Sofware Vendors
 
+-----------
+![DS_life_cycle](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/DS_life_cycle.PNG)
+
+-----------
+![ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml.PNG)
+
+----------
+![ml_workflow2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml_workflow2.PNG)
+
+--------
+![ml_scene](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml_scene.PNG)
+
+--------------
+----------
+![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
+
+---------------
+![intelligent_enterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/intelligent_enterprise2.PNG)
+
+-----------
+![intelligent_enterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/intelligent_enterprise3.PNG)
+
+-----------
+![rpa](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/rpa.PNG)
+
+----------
+![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
+
+-------
+![it_excellence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_excellence.PNG)
 
 -----------
 ----------------
@@ -761,6 +932,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Mobile
 - VR/AR/WebVR
 
+-----------
+
+![Paradigm_shift](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Paradigm_shift.PNG)
+
+------------
+
+![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
 
 -------------
 ----------------
@@ -770,7 +948,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -----------
 ![the_digital_enterprise_2018_customer_worker_supplier_partner_experience](https://dionhinchcliffe.files.wordpress.com/2018/10/the_digital_enterprise_2018_customer_worker_supplier_partner_experience.png)
+
+------------
+![digitization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/digitization.PNG)
+
 ---------------
+![ienterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise.PNG)
+
 --------------------
 
 #### 21.2nd Century Enterprise Tech Landscape
