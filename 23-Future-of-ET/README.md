@@ -656,7 +656,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ----------------
 
-![The-human-experience-centric-workplace](https://www.everestgrp.com/wp-content/uploads/2019/08/The-human-experience-centric-workplace.png)
+![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
 
 -----------
 ![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
@@ -681,9 +681,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -------
 ![itservice_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itservice_process.PNG)
-
--------
-![3-0](https://docplayer.net/docs-images/57/41196591/images/3-0.png)
 
 -----------
 
@@ -751,8 +748,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
 
 -----------------
+#### Design to Operate
 
-![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/design-to-operate.PNG)
+![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
 
 -----------------------------
 
@@ -792,7 +790,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 #### Enterprise Data & Application Integration 
 
 -----------------
-![ipaas_usecases](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_usecases.PNG)
+![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
 
 ---------
 
@@ -981,7 +979,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ------------
 ------------------------------------
 
-#### Enterprise Sofware Development Tools & Process
+#### Enterprise Software Development Tools & Process
 
 
 ----------
