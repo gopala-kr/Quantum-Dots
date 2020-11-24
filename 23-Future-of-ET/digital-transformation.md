@@ -111,6 +111,10 @@
 ---------
 ![critical-areas-within-data](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/critical-areas-within-data.png?sfvrsn=903b596c_4)
 
+------------
+
+![EA_Cloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Cloud.PNG)
+
 
 ----------
 ![budget-allocations-to-functional-areas](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/budget-allocations-to-functional-areas.png?sfvrsn=6fb57fe6_2)
@@ -291,14 +295,15 @@
 
 ![Em1ovKlWEAA8pKU?format=jpg&name=medium](https://pbs.twimg.com/media/Em1ovKlWEAA8pKU?format=jpg&name=medium)
 
-
+-----------
+--------
+![artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024](https://image.slidesharecdn.com/yoley1-191018101947/95/artificial-intelligence-computing-for-consumer-2019-report-by-yole-dveloppement-9-1024.jpg?cb=1571394048)
 -------------
 ------------------
 
 - [On Digital Strategy | Dion Hinchcliffe](https://dionhinchcliffe.com/)
 
-![service_desk_contextual_incident_model](https://files.ontario.ca/service_desk_contextual_incident_model.jpg)
-----------
+
 ![most_popular_modes_of_collaboration_team_chat_community_social_network_esn_blog_wiki](https://dionhinchcliffe.files.wordpress.com/2020/09/most_popular_modes_of_collaboration_team_chat_community_social_network_esn_blog_wiki.png)
 ----------
 ![comparing_attributes_of_teams_projects_online_communities_for_collaboration_remote_work](https://dionhinchcliffe.files.wordpress.com/2020/09/comparing_attributes_of_teams_projects_online_communities_for_collaboration_remote_work.png)
@@ -405,21 +410,25 @@
 ----------
 ![platform-as-a-service_detail](https://dionhinchcliffe.files.wordpress.com/2011/10/platform-as-a-service_detail.png)
 ----------
-![]()
+![6556_infographic](https://www2.deloitte.com/content/dam/insights/us/articles/6556_tt2020_human-experience-platforms/figures/6556_infographic.png)
 ----------
-![]()
+![complex_digital_workplace_integrations_into_design_employee_experience](https://dionhinchcliffe.files.wordpress.com/2020/01/complex_digital_workplace_integrations_into_design_employee_experience.png)
 ----------
-![]()
-----------
-![]()
-----------
-![]()
-----------
-![]()
+![will-disrupt-digital-experience-and-drive-growth-cloud-expo-2018-keynote-by-dion-hinchcliffe-19-1024](https://image.slidesharecdn.com/whymulticloudintegrationwilldisruptdigitalexperienceanddrivegrowthkeynotecloudexpodxexpobydionhinchc-181126172337/95/why-multicloud-integration-will-disrupt-digital-experience-and-drive-growth-cloud-expo-2018-keynote-by-dion-hinchcliffe-19-1024.jpg?cb=1543253513)
+
+---------------
+![roland_berger_248_electronics_assembley_gt_1_large_image](https://www.rolandberger.com/content_assets/content_images/captions/roland_berger_248_electronics_assembley_gt_1_large_image.jpg)
+
 ----------
 ![the-post-2020-digital-employee-experience](https://dionhinchcliffe.files.wordpress.com/2020/06/the-post-2020-digital-employee-experience.jpeg)
 ----------
 ![EnVxFlNXcAEfOCs](https://pbs.twimg.com/media/EnVxFlNXcAEfOCs?format=jpg&name=900x900)
+------
+![]()
+----------
+![]()
+----------
+![]()
 ----------
 -----------------
 
