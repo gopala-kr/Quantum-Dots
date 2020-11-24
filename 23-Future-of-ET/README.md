@@ -395,9 +395,16 @@
 ![suite_digital_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/01/c-suite_digital_social_business_transformation.png)
 
 -----------
+![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
+-----------------
 
 ![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
 
+---------------
+
+Typical IT Consulting Process
+
+![cloud-2020-where-were-going-from-here-17-1024](https://image.slidesharecdn.com/c19supersessionfinal040619final-190416152800/95/cloud-2020-where-were-going-from-here-17-1024.jpg?cb=1555428663)
 
 --------------
 -------------
@@ -555,7 +562,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Mastering Cloud Cost Optimization: Cloud Cost Models & Discounts Overview](https://blog.turbonomic.com/mastering-cloud-cost-optimization-cost-models-discounts-overview)
 
 
----------------
+
+
+----------
+
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
 --------
@@ -731,34 +741,67 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 --------------------------------------
 -----------------------------------
+#### ERP History
 
-![Screenshot-2020-06-02-at-18.05.05](https://blogs.sap.com/wp-content/uploads/2020/06/Screenshot-2020-06-02-at-18.05.05.png)
+--------------
+![00938cab1b487e5d38de3e4c57c6bbf5](https://i.pinimg.com/originals/00/93/8c/00938cab1b487e5d38de3e4c57c6bbf5.jpg)
+
+--------
+![tmpF515_thumb11_thumb1](https://lh6.ggpht.com/_NNjxeW9ewEc/TIpgjZC2LtI/AAAAAAAAAxs/z-JZ-2_KdVE/tmpF515_thumb11_thumb1.jpg?imgmax=1000)
+
+------------
+![what-is-an-erp-system-13-1024](https://image.slidesharecdn.com/02-whatisanerpsystem-190118060726/95/what-is-an-erp-system-13-1024.jpg?cb=1547791819)
+
+----------
+![ERP_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_History.PNG)
 
 -------------
 ![hWsn719Sm4kOm1w](https://miro.medium.com/max/953/1*XKgWZF-hWsn719Sm4kOm1w.png)
 
+-------------------
+
+![Screenshot-2020-06-02-at-18.05.05](https://blogs.sap.com/wp-content/uploads/2020/06/Screenshot-2020-06-02-at-18.05.05.png)
+
 -----------
 ![S4HANA](https://blogs.sap.com/wp-content/uploads/2020/05/S4HANA.jpg)
 
+---------------
+-----------------------------
+#### Enterprise Operations
+
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
+----------
+
+![enterprise_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/enterprise_services.PNG)
+
+----------
+![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
+
 ---------------------------------
+------------------------------
 
 #### Typical ERP Process
 
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
 -----------
+----------------
 
 #### Lead To Cash
 
 ![Lead-to-Cash2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Lead-to-Cash2.PNG)
 
 ----------------------------------
+----------------------------------------
 
 #### Source To Pay
 
 ![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
 
 -----------------
+-----------------------
+
 #### Design to Operate
 
 ![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
@@ -766,24 +809,45 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------
 ![1709-4](https://blogs.sap.com/wp-content/uploads/2020/05/1709-4.png)
 
------------------------------
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
-
 ----------------
-![enterprise_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/enterprise_services.PNG)
+-------------------------
+#### Workforce Management
+
+
+![talent-systems](https://joshbersin.com/wp-content/uploads/2019/04/talent-systems.jpg)
+-------------------------
+------------
+
+#### ERP Providers Landscape
+
+---------
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://valueadders.com.au/wp-content/uploads/2020/08/Evolving-Business-Systems-Landscape.gif" alt="The evolving accounting and ERP technology market" class="wp-image-3576" width="583" height="501"/><figcaption>The evolving business systems landscape</figcaption></figure></div>
 
 ----------
+![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
+
+---------------
+![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
+
+---------
+![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
+
+---------------
+----------------
+
+#### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
+
 ![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
 
 ----------------
 ![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
 
 ---------
-
 ![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
 
 ---------------------------
+-----------------------------------
 
 #### Database Technology
 
@@ -792,20 +856,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 
 -------------
+
+##### Master Data Management
+
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
--------------------------
 
-- [https://learning.sap-press.com/what-is-sap](https://learning.sap-press.com/what-is-sap)
-
-------------
-![Evolving-Business-Systems-Landscape](https://valueadders.com.au/wp-content/uploads/2020/08/Evolving-Business-Systems-Landscape.gif)
-
----------------
-![Au_NZ-Accounting-Software-Market-Aug-2020-1536x1036](https://valueadders.com.au/wp-content/uploads/2020/08/Au_NZ-Accounting-Software-Market-Aug-2020-1536x1036.jpg)
-
-----------
-![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
 -------------
 --------------
 
@@ -871,6 +927,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------
 ![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
 
+-------
+![C-2020-3-Looman-05-klein](https://www.compact.nl/wordpress/wp-content/uploads/2020/10/C-2020-3-Looman-05-klein.png)
+
 -----------
 ![iot_business_model](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_business_model.PNG)
 
@@ -895,7 +954,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------------------
 -----------------------------
 
-#### Enterprise Data Warehouse/Store (EDW/EDS)
+#### Enterprise Data Warehouse/Store(EDW/EDS)
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
@@ -940,6 +999,14 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![rpa](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/rpa.PNG)
 
+---------
+
+![C-2018-1-Doesburg-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/03/C-2018-1-Doesburg-01-klein.png)
+
+-----------
+![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
+
+--------------
 ----------
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
 
@@ -967,7 +1034,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -------------
 ----------------
-
 
 ![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
