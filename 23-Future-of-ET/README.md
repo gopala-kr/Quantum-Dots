@@ -148,7 +148,7 @@
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
 ------
-![sensors-for-robotic-mobility-2020-10-1024](https://image.slidesharecdn.com/ydr20070sensorsforroboticmobility2020sample-200331092455/95/sensors-for-robotic-mobility-2020-10-1024.jpg?cb=1585646780)
+![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
 
 -----------
 ![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
@@ -292,12 +292,6 @@
 
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
 
------------
-
-![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
-
-----------
-![innovation_cicd2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/innovation_cicd2.PNG)
 
 -----------
 
@@ -398,6 +392,11 @@
 
 ----------
 ![suite_digital_social_business_transformation](https://dionhinchcliffe.files.wordpress.com/2015/01/c-suite_digital_social_business_transformation.png)
+
+-----------
+
+![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
+
 
 --------------
 -------------
@@ -678,10 +677,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![IT_Service_Desk](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/IT_Service_Desk.png)
 
 -----------
-![itsm-process-overview](https://www.manageengine.com/products/service-desk/itsm/images/itsm-process-overview.png)
+![itsm_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itsm_process.png)
 
 -------
-![SO060-ITIL-Service-Desk-Activities](https://i1.wp.com/www.certguidance.com/hiresimg/ITLF/SO060-ITIL-Service-Desk-Activities.png?ssl=1)
+![itservice_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itservice_process.PNG)
 
 -------
 ![3-0](https://docplayer.net/docs-images/57/41196591/images/3-0.png)
@@ -735,6 +734,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------------------------------
 -----------------------------------
 
+#### ERP Typical Process
+
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
 -----------
@@ -748,6 +749,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 #### Source To Pay
 
 ![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
+
+-----------------
+
+![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/design-to-operate.PNG)
 
 -----------------------------
 
@@ -818,7 +823,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![ipaas_interoperability](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_interoperability.PNG)
 
 ---------
-![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_non.PNG)
+![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Data.png)
 
 ---------------
 ---------------
@@ -843,11 +848,11 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
------------
-![iot_business_model](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_business_model.PNG)
-
 --------
 ![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
+
+-----------
+![iot_business_model](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_business_model.PNG)
 
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
