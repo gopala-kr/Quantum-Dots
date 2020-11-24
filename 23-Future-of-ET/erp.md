@@ -1,4 +1,21 @@
+
 -----------------------------------
+
+#### ERP Providers Landscape
+
+---------
+
+![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
+
+
+---------
+![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
+
+
+
+---------------
+----------------
+
 #### ERP History
 
 --------------
@@ -30,14 +47,8 @@
 
 ---------------
 -----------------------------
-#### Enterprise Operations
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
-
-----------
 
 ![enterprise_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/enterprise_services.PNG)
-
 
 ---------------------------------
 ------------------------------
@@ -80,21 +91,6 @@
 -------------------------
 ------------
 
-#### ERP Providers Landscape
-
----------
-
-![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
-
-
----------
-![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
-
----------------
-![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
-
----------------
-----------------
 
 #### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
 
@@ -116,7 +112,8 @@
 ![15s4](https://blogs.sap.com/wp-content/uploads/2019/02/15s4.png)
 -------
 ![16s4](https://blogs.sap.com/wp-content/uploads/2019/02/16s4.png)
-
+--------------
+![Data-Model-Change](https://www.s4hana.tech/wp-content/uploads/Data-Model-Change.png)
 ----------
 ![02_002](https://learning.sap-press.com/hs-fs/hubfs/02_002.jpg?width=1436&name=02_002.jpg)
 -------
