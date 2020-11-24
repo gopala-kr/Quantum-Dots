@@ -3,8 +3,29 @@
 - [The Electronics Value-Chain](https://ec.europa.eu/information_society/newsroom/cf/dae/document.cfm?action=display&doc_id=4466)
 - [Challenges And Opportunities For China In The Semiconductor Industry](https://semiengineering.com/challenges-and-opportunities-for-china-in-the-semiconductor-industry/)
 
----------------
-![roland_berger_248_electronics_assembley_gt_1_large_image](https://www.rolandberger.com/content_assets/content_images/captions/roland_berger_248_electronics_assembley_gt_1_large_image.jpg)
+
+------------
+----------
+![semiconductor_sales](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_sales.PNG)
+----------
+![semiconductor_electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_electronics.PNG)
+----------
+![semiconductor_automotive_trends](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_trends.PNG)
+----------
+![semiconductor_automotive_role](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_role.PNG)
+----------
+![semiconductor_automotive_growth](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_growth.PNG)
+----------
+![semiconductor_automotive_adas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_adas.PNG)
+----------
+![semiconductor_automotive](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive.PNG)
+----------
+![semiconductor_automotive_ai](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_ai.PNG)
+----------
+![semiconductor_automotive_aichips](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_aichips.PNG)
+----------
+![semiconductor_automotive_startups](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_automotive_startups.PNG)
+--------------
 -------------
 ![Supply-Chain-Map_8-16-2018](https://www.semiconductors.org/wp-content/uploads/2018/05/Supply-Chain-Map_8-16-2018.jpg)
 ![/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2](https://images.ctfassets.net/y4nxuejkhx03/5AGxje7APvUvq5VMbtlSsE/e71c21deccc0f7859022d4181b1dad45/Lets-get-digital-identifying-investment-opportunities-in-semiconductors_Graph-2.png?fl=progressive)
@@ -22,11 +43,15 @@
 ----------
 ![SemiLeaders](https://epsnews.com/wp-content/uploads/2018/08/ICInsights-SemiLeaders.png)
 ----------
-![]()
-----------
-![]()
-----------
-![]()
+--------------
+![automotive_future](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/automotive_future.PNG)
+------
+![mobility_ecosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/mobility_ecosystem.PNG)
+
+---------
+![mobility_implications](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/mobility_implications.PNG)
+-------
+![mobility_ecosystem2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/mobility_ecosystem2.PNG)
 ----------
 -----------
 ![wearables-in-consumer-and-medical-applications-2020-12-1024](https://image.slidesharecdn.com/ydr20118wearablesinconsumerandmedicalapplications2020sample-201023150814/95/wearables-in-consumer-and-medical-applications-2020-12-1024.jpg?cb=1603465785)
