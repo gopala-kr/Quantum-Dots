@@ -798,6 +798,14 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 - [https://learning.sap-press.com/what-is-sap](https://learning.sap-press.com/what-is-sap)
 
+------------
+![Evolving-Business-Systems-Landscape](https://valueadders.com.au/wp-content/uploads/2020/08/Evolving-Business-Systems-Landscape.gif)
+
+---------------
+![Au_NZ-Accounting-Software-Market-Aug-2020-1536x1036](https://valueadders.com.au/wp-content/uploads/2020/08/Au_NZ-Accounting-Software-Market-Aug-2020-1536x1036.jpg)
+
+----------
+![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
 -------------
 --------------
 
