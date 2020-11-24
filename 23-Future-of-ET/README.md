@@ -206,6 +206,7 @@
 - [Emerging Technologies (2018–2028)](http://winwinweb.co.in/2019/06/28/emerging-technologies/)
 - [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 - [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
+- [A Brief View of the Evolution of Technology and Engineering Education](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
 
 ------------
 ![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
@@ -731,7 +732,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------------------------------
 -----------------------------------
 
-#### ERP Typical Process
+![Screenshot-2020-06-02-at-18.05.05](https://blogs.sap.com/wp-content/uploads/2020/06/Screenshot-2020-06-02-at-18.05.05.png)
+
+-------------
+![hWsn719Sm4kOm1w](https://miro.medium.com/max/953/1*XKgWZF-hWsn719Sm4kOm1w.png)
+
+-----------
+![S4HANA](https://blogs.sap.com/wp-content/uploads/2020/05/S4HANA.jpg)
+
+---------------------------------
+
+#### Typical ERP Process
 
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
@@ -751,6 +762,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 #### Design to Operate
 
 ![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
+
+--------------
+![1709-4](https://blogs.sap.com/wp-content/uploads/2020/05/1709-4.png)
 
 -----------------------------
 
