@@ -3,6 +3,8 @@
 
 -----------------------
 
+ ##### [Contents](#contents)
+ 
 - Earth Organizations
   - Transparency
 - Earth Industries
@@ -174,6 +176,8 @@
 - [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
 - [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
+[Back to top](#contents)
+
 -----------------
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
 ---------
@@ -208,6 +212,8 @@
 - [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
 - [A Brief View of the Evolution of Technology and Engineering Education](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
 
+[Back to top](#contents)
+
 ------------
 ![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
 ---------
@@ -217,6 +223,7 @@
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 
+[Back to top](#contents)
 
 -----------
 ------------
@@ -227,6 +234,8 @@
 ------------------
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+
+[Back to top](#contents)
 
 
 ----------
@@ -249,10 +258,15 @@
 
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
+[Back to top](#contents)
+
+
 -----------------------------
 -------------------------------
 
 #### Enterprise Architecture Modeling
+
+[Back to top](#contents)
 
 
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
@@ -296,6 +310,8 @@
 
 -----------
 
+[Back to top](#contents)
+
 - [Enterprise Architecture (EA) - why is it important?](https://www.youtube.com/watch?v=9TVc32M_gIY)
 - [TOGAF EA Model](https://www.youtube.com/watch?v=jMmyYpKSqD8)
 - [Enterprise architecture framework](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
@@ -330,6 +346,8 @@
 
 ----------------------
 
+[Back to top](#contents)
+
 ![Diagram-1-2017-05-27](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-1-2017-05-27.png)
 --------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
@@ -342,6 +360,9 @@
 --------
 
 #### Organizational Structure Design
+
+[Back to top](#contents)
+
 
 - [The Evolution of the Org Chart](https://pingboard.com/org-charts/evolution-org-charts)
 - [Org Chart Templates by Industry](https://pingboard.com/org-chart-templates)
@@ -406,10 +427,15 @@ Typical Team Structure
 
 ![team](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/team.PNG)
 
+[Back to top](#contents)
+
 --------------
 -------------
 
 #### IT Infrastructure Modeling
+
+[Back to top](#contents)
+
 
 - [Executive Overview - IT Infrastructure](https://www.youtube.com/watch?v=V6zJi8CU7Tk&list=PLHQk72KKStzIDvpCuVrWf6gECz_hxHnSP&index=1)
 - [Executive Overview - Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
@@ -465,6 +491,8 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 - [The Role Of IT In 2020 Will Be About Business, Not Technology](https://which-50.com/the-role-of-it-in-2020-will-be-about-business-not-technology/)
 - [IT Conferences of 2020](https://www.acronis.com/en-in/articles/50-it-conferences-2020/)
 
+[Back to top](#contents)
+
 -----------
 ![technology_change_proliferation_and_enterprise_it1](https://dionhinchcliffe.files.wordpress.com/2013/11/technology_change_proliferation_and_enterprise_it1.png)
 
@@ -481,6 +509,8 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 ![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
 
 --------------------
+
+[Back to top](#contents)
 
 - [Research Challenges and Prospective Business Impacts of Cloud Computing: A Survey](https://arxiv.org/ftp/arxiv/papers/2005/2005.01475.pdf)
 - [Next Generation Cloud Computing:
@@ -525,6 +555,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -----------
 
+[Back to top](#contents)
+
 - [IT Industry Outlook 2020](https://www.comptia.org/content/research/it-industry-trends-analysis)
 - [Outsourcing Technology Vendor Evaluation](https://www.slideshare.net/cbedard/outsourcing-technology-vendor-evaluation-selection-best-practices)
 - [itupdate.com.au/vendors](https://itupdate.com.au/vendors)
@@ -551,6 +583,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
 
 -----------------
+
+[Back to top](#contents)
 
 - [IaaS Pricing Patterns and Trends 2020](https://redmonk.com/rstephens/2020/07/10/iaas-pricing-patterns-and-trends-2020/)
 - [AWS vs Azure vs Google Cloud Price comparison](http://crmanalytics.net/cloud/aws-vs-azure-vs-google-cloud-price-comparison/)
@@ -609,6 +643,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 
+[Back to top](#contents)
+
 -------------
 
 ----------
@@ -625,6 +661,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -------
 ![it-industry-outlook-2021/key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
+
+[Back to top](#contents)
 
 -------------------
 ------------
@@ -657,6 +695,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------
 ![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
 
+[Back to top](#contents)
 
 ---------
 -------------
@@ -680,6 +719,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### ITIL/ITSM/ITSO Service Desk 
 
+[Back to top](#contents)
+
+
 - [IT Services analyst-speak](https://www.wipro.com/analyst-speak/#NewReports)
 - [Chatbot Companies of 2020: In-depth Guide](https://research.aimultiple.com/chatbot-companies/)
 
@@ -700,6 +742,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### IT4IT/DevOps Landscape
 
+[Back to top](#contents)
+
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
 ----------------
@@ -711,6 +755,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 
 #### Enterprise Resource Planning (The Enterprise Digital Core)
+
+[Back to top](#contents)
+
 
 - Why ERP?
 - Short history, 40+ years in evolution
@@ -751,12 +798,18 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### Typical ERP Process
 
+[Back to top](#contents)
+
+
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
 
 -------------
 -------------------
 #### ERP History
+
+[Back to top](#contents)
+
 
 
 ![00938cab1b487e5d38de3e4c57c6bbf5](https://i.pinimg.com/originals/00/93/8c/00938cab1b487e5d38de3e4c57c6bbf5.jpg)
@@ -776,6 +829,7 @@ ERP Today
 
 #### ERP Software Providers Landscape
 
+[Back to top](#contents)
 
 
 ![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
@@ -811,6 +865,9 @@ ERP Today
 
 #### [Enterprise Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/erp.md)
 
+[Back to top](#contents)
+
+
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
 
@@ -821,12 +878,17 @@ ERP Today
 
 #### Lead To Cash
 
+[Back to top](#contents)
+
 ![Lead-to-Cash2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Lead-to-Cash2.PNG)
 
 ----------------------------------
 ----------------------------------------
 
 #### Source To Pay
+
+[Back to top](#contents)
+
 
 
 
@@ -838,11 +900,17 @@ ERP Today
 
 #### Design to Operate
 
+[Back to top](#contents)
+
+
 ![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
 
 ----------------
 -------------------------
 #### Hire to Retire
+
+[Back to top](#contents)
+
 
 ![HR-Data-img](https://splashbi.com/wp-content/uploads/2020/03/HR-Data-img.jpg)
 
@@ -854,6 +922,8 @@ ERP Today
 ---------------------
 
 #### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
+
+[Back to top](#contents)
 
 
 ![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
@@ -879,12 +949,18 @@ ERP Today
 ---------------
 -------------------
 
+[Back to top](#contents)
+
+
 ![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
 
 ----------------------
 ----------
 
 #### Database Technology
+
+[Back to top](#contents)
+
 
 - [A Brief History of Databases](https://peterjamesthomas.com/2018/02/06/a-brief-history-of-databases/)
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
@@ -906,6 +982,9 @@ ERP Today
 
 ##### Master Data Management
 
+[Back to top](#contents)
+
+
 - [The MDM Landscape Q2 2020](https://www.informationdifference.com/products/landscape/mdm-landscape/)
 
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
@@ -920,6 +999,9 @@ ERP Today
 --------------
 
 #### Enterprise Data & Application Integration 
+
+[Back to top](#contents)
+
 
 
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
@@ -954,19 +1036,10 @@ ERP Today
 
 ---------
 ![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Data.png)
+
 -------
 ![1-8](https://www.sapspot.com/wp-content/uploads/2019/04/1-8.png)
 
--------
-![integration-suite](https://blogs.sap.com/wp-content/uploads/2020/06/integration-suite.png)
---------
-![application-diagram](https://boomi.com/wp-content/uploads/2016/09/application-diagram.png)
-----------
-![SCP-Integration-Figure-1](https://www.sapinsideronline.com/-/media/Alloy/Images/Assets/QandAs/SCP-Integration-Figure-1.jpg)
----------
-![Informatica-Capture](https://i2.wp.com/blogs.perficient.com/files/2017/04/Informatica-Capture.png?ssl=1)
--------
-![cloudcon-informatica-vibe-and-cloud-integration-for-the-hybrid-enterprise](https://image.slidesharecdn.com/cloudconjune2013slideshare-130708004233-phpapp02/95/cloudcon-informatica-vibe-and-cloud-integration-for-the-hybrid-enterprise-17-1024.jpg?cb=1373244309)
 ----------
 - [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
 - [A Survey of Modern Application Integration Architectures](https://dzone.com/articles/a-survey-of-modern-application-integration-archite)
@@ -975,8 +1048,7 @@ ERP Today
 
 ![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
 --------
-![_hQTXcAAU_x7](https://pbs.twimg.com/media/DM-_hQTXcAAU_x7.jpg)
-----------
+
 ![iPaaS_API-Economy](https://analystpov.com/wp-content/uploads/2015/05/iPaaS_API-Economy.png)
 
 ---------------
@@ -985,29 +1057,18 @@ ERP Today
 #### IoT Platforms Integration with ERP
 
 
+[Back to top](#contents)
 
-![the_internet_of_things_value_chain](https://dionhinchcliffe.files.wordpress.com/2017/09/the_internet_of_things_value_chain.jpeg)
-
-
--------------
-![protocols-and-their-impacts-on-the-electronics-industry-7-102](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-7-1024.jpg?cb=1540457007)
----------
 ![sensors_forecast](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sensors_forecast.PNG)
 
------------
-![internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024.jpg?cb=1540457007)
-
-
 --------
+
 ![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
+
 ---------------
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
--------
-![C-2020-3-Looman-05-klein](https://www.compact.nl/wordpress/wp-content/uploads/2020/10/C-2020-3-Looman-05-klein.png)
 
------------
-![iot_business_model](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_business_model.PNG)
 
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
@@ -1034,6 +1095,8 @@ ERP Today
 
 #### Enterprise Data Warehouse/Store(EDW/EDS)
 
+[Back to top](#contents)
+
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ----------
@@ -1043,6 +1106,8 @@ ERP Today
 ----------------
 
 #### AI in Enterprise Processes
+
+[Back to top](#contents)
 
 - Process Automation using RPA
 - Designing Data Pipelines
@@ -1074,7 +1139,9 @@ ERP Today
 -----------
 ----------------
 
-#### Experience Design For Enterprise Processes
+#### Experience Design
+
+[Back to top](#contents)
 
 
 - User Interface
@@ -1099,6 +1166,9 @@ ERP Today
 
 #### 21.2nd Century Enterprise Tech Landscape
 
+[Back to top](#contents)
+
+
 ![ienterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise.PNG)
 
 --------------------
@@ -1113,6 +1183,9 @@ ERP Today
 
 ##### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
+[Back to top](#contents)
+
+
 ![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
 
 ------------
@@ -1123,6 +1196,8 @@ ERP Today
 ------------------------------------
 
 #### Enterprise Software Development Tools & Process
+
+[Back to top](#contents)
 
 
 ----------
