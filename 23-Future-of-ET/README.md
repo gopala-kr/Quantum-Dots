@@ -703,7 +703,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
 ----------------
-----------------
+
 
 ![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
@@ -758,7 +758,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------------
 #### ERP History
 
---------------
+
 ![00938cab1b487e5d38de3e4c57c6bbf5](https://i.pinimg.com/originals/00/93/8c/00938cab1b487e5d38de3e4c57c6bbf5.jpg)
 
 ----------
@@ -767,7 +767,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![tmpF515_thumb11_thumb1](https://lh6.ggpht.com/_NNjxeW9ewEc/TIpgjZC2LtI/AAAAAAAAAxs/z-JZ-2_KdVE/tmpF515_thumb11_thumb1.jpg?imgmax=1000)
 
 ------------
-Todays ERP
+ERP Today
 
 ![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
 
@@ -776,7 +776,7 @@ Todays ERP
 
 #### ERP Software Providers Landscape
 
----------
+
 
 ![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
 
@@ -813,7 +813,7 @@ Todays ERP
 
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
-----------------
+
 
 ![Accounting_and_Financial_Close_Process](https://blog-sap.com/analytics/files/2017/07/7.14.Accounting_and_Financial_Close_Process.png)
 
@@ -842,11 +842,11 @@ Todays ERP
 
 ----------------
 -------------------------
-#### Workforce Management
+#### Hire to Retire
 
 ![HR-Data-img](https://splashbi.com/wp-content/uploads/2020/03/HR-Data-img.jpg)
 
------------------
+
 
 ![hex](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/hex.PNG)
 
@@ -855,8 +855,15 @@ Todays ERP
 
 #### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
 
+
+![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
+
 -------------------
-![s4_2020_02](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_02.jpg)
+
+![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
+
+--------
+![sap-intelligent-enterprise-techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
 
 ----------------------
 ![05_002](https://learning.sap-press.com/hs-fs/hubfs/05_002.jpg?width=1976&name=05_002.jpg)
@@ -872,12 +879,6 @@ Todays ERP
 ---------------
 -------------------
 
-![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
-
-----------------
-![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
-
---------
 ![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
 
 ----------------------
@@ -886,12 +887,20 @@ Todays ERP
 #### Database Technology
 
 - [A Brief History of Databases](https://peterjamesthomas.com/2018/02/06/a-brief-history-of-databases/)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [All Database management systems](https://db-engines.com/en/systems)
+- [2020 Data Landscape](https://mattturck.com/data2020/)
 
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 
 -------
 
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
+
+---------
+![5d71c5b5ed21579fe7c3535a/5f391dece5ef2bca9903b96e_rdbms-market-share](https://global-uploads.webflow.com/5d71c5b5ed21579fe7c3535a/5f391dece5ef2bca9903b96e_rdbms-market-share.png)
+----------
+![Database_Technology_20e140c4](https://s3.amazonaws.com/tracxn-data-attachments/theme/landscape/image/Database_Technology_20e140c4-31f0-477d-95a1-1e8ae00756b0.jpeg)
 
 -------------
 
@@ -912,7 +921,7 @@ Todays ERP
 
 #### Enterprise Data & Application Integration 
 
------------------
+
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
 
 ---------
@@ -945,13 +954,37 @@ Todays ERP
 
 ---------
 ![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Data.png)
+-------
+![1-8](https://www.sapspot.com/wp-content/uploads/2019/04/1-8.png)
+
+-------
+![integration-suite](https://blogs.sap.com/wp-content/uploads/2020/06/integration-suite.png)
+--------
+![application-diagram](https://boomi.com/wp-content/uploads/2016/09/application-diagram.png)
+----------
+![SCP-Integration-Figure-1](https://www.sapinsideronline.com/-/media/Alloy/Images/Assets/QandAs/SCP-Integration-Figure-1.jpg)
+---------
+![Informatica-Capture](https://i2.wp.com/blogs.perficient.com/files/2017/04/Informatica-Capture.png?ssl=1)
+-------
+![cloudcon-informatica-vibe-and-cloud-integration-for-the-hybrid-enterprise](https://image.slidesharecdn.com/cloudconjune2013slideshare-130708004233-phpapp02/95/cloudcon-informatica-vibe-and-cloud-integration-for-the-hybrid-enterprise-17-1024.jpg?cb=1373244309)
+----------
+- [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
+- [A Survey of Modern Application Integration Architectures](https://dzone.com/articles/a-survey-of-modern-application-integration-archite)
+- [tracxn.com/d/reports-bm/iPaaS-Market-Report](https://tracxn.com/d/reports-bm/iPaaS-Market-Report)
+- [Are Your APIs Intelligent Enough for Digital Transformation?](https://www.programmableweb.com/news/are-your-apis-intelligent-enough-digital-transformation/analysis/2020/03/24)
+
+![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
+--------
+![_hQTXcAAU_x7](https://pbs.twimg.com/media/DM-_hQTXcAAU_x7.jpg)
+----------
+![iPaaS_API-Economy](https://analystpov.com/wp-content/uploads/2015/05/iPaaS_API-Economy.png)
 
 ---------------
 ---------------
 
 #### IoT Platforms Integration with ERP
 
----------------
+
 
 ![the_internet_of_things_value_chain](https://dionhinchcliffe.files.wordpress.com/2017/09/the_internet_of_things_value_chain.jpeg)
 
@@ -978,6 +1011,8 @@ Todays ERP
 
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
+
+
 
 ---------------
 
@@ -1032,7 +1067,7 @@ Todays ERP
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 
 --------------
-----------
+
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
 
 
