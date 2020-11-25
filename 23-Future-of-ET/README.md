@@ -264,7 +264,7 @@
 -----------------------------
 -------------------------------
 
-#### Enterprise Architecture Modeling
+### Enterprise Architecture Modeling
 
 [Back to top](#contents)
 
@@ -308,7 +308,7 @@
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
 
 ----------
-![the-impact-technology-on-business-performance_1.](https://base22.com/wp-content/img-import/body/blogs/the-impact-technology-on-business-performance_1.jpeg)
+![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
 
 -----------
 
@@ -361,7 +361,7 @@
 -----------
 --------
 
-#### Organizational Structure Design
+### Organizational Structure Design
 
 [Back to top](#contents)
 
@@ -420,6 +420,10 @@
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
+----------
+- [Integrated IT Portfolio Analysis Applications](https://www.gartner.com/en/documents/3975178)
+
+![Gartner_MQ_Integrated_IT](https://softwareag.scene7.com/is/image/softwareagprod/Gartner_MQ_Integrated_IT-Port-Analysis-Apps?wid=1050)
 
 -----------------
 
@@ -437,7 +441,7 @@ IT Skills
 --------------
 -------------
 
-#### IT Infrastructure Modeling
+### IT Infrastructure Modeling
 
 [Back to top](#contents)
 
@@ -613,6 +617,18 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 
 ---------
+![gartner-nsg-graph_feb20](https://www.orange-business.com/sites/default/files/gartner-nsg-graph_feb20.jpg)
+
+---------
+![leader-gartner-magic-quadrant-wan-edge-infrastructure-sdwan-](https://sdwan.vmware.com/content/velocloud/en/sd-wan-resources/white-papers/leader-gartner-magic-quadrant-wan-edge-infrastructure-sdwan-2020/_jcr_content/par/columncontainer_2101/par-twocolumn1/par/image.img.png/1601331701842.png)
+
+------------
+
+Data Center and Cloud Networking
+
+![Magic-Quadrant-963x1024](https://blogs.bmc.com/wp-content/uploads/2020/07/Magic-Quadrant-963x1024.jpg.optimal.jpg)
+
+-------------
 
 - [Magic Quadrant for Cloud Infrastructure and Platform Services](https://cloud.google.com/gartner-cloud-infrastructure-as-a-service)
 
@@ -623,13 +639,21 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![magic-quadrant-for-public-cloud-infrastructure-professional](https://www.wipro.com/content/dam/nexus/en/analyst-speak/images/wipro-positioned-as-a-leader-in-2020-magic-quadrant-for-public-cloud-infrastructure-professional-and-managed-services-worldwide.png)
 
+---------
+![quadrant-for-data-center-outsourcing-and-hybrid](https://www.wipro.com/content/dam/nexus/en/analyst-speak/images/wipro-positioned-as-a-leader-in-gartner-2020-magic-quadrant-for-data-center-outsourcing-and-hybrid-infrastructure-managed-services-asia-pacific.png)
+
+------------
+
+
+![Gartner-Magic-Quadrant-for-Cloud-Management-Platforms-Chart-2020](https://resources.flexera.com/web/eloqua/images/charts/Gartner-Magic-Quadrant-for-Cloud-Management-Platforms-Chart-2020.jpg)
+
 [Back to top](#contents)
 
 
 --------------
 ------------
 
-#### Digital Workplace Services
+### Digital Workplace Services
 
 - [2020 Predictions for the Future of Work](https://www.constellationr.com/blog-news/2020-predictions-future-work)
 - [The future of work in technology](https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html)
@@ -657,14 +681,20 @@ Digital Workplace Reimagined:
 ----------
 ![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
 
---------
-![reprintKey](https://www.gartner.com/resources/389500/389577/389577_0001.png?reprintKey=1-1YQ1N2Z8)
 -------
 ![mq-graphic](https://www.teksystems.com/-/media/teksystems/images/generic/mq-graphic.jpg?h=3500&la=en&w=3500&hash=D640C0086A7DF01C1C19F663C454207E)
+
+---------
+![GartnerMQ_MWS](https://www.capgemini.com/gb-en/wp-content/uploads/sites/3/2020/03/GartnerMQ_MWS-1.jpg?w=919)
+--------
+
+Meeting Solutions
+
+![Gartner-UCaaS-MQ-2020-1](https://blog.zoom.us/wp-content/uploads/2020/11/Gartner-UCaaS-MQ-2020-1.png)
+
 ----------
+
 ![Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA](https://images-cdn.newscred.com/Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA==)
-
-
 
 --------
 ![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
@@ -675,7 +705,7 @@ Digital Workplace Reimagined:
 -------------
 
 
-#### ITIL/ITSM/ITSO Service Desk 
+### ITIL/ITSM/ITSO Service Desk 
 
 [Back to top](#contents)
 
@@ -686,9 +716,27 @@ Digital Workplace Reimagined:
 
 ![itservice_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itservice_process.PNG)
 
+---------
+![4006757_Gartner_MQ_for_ITSM](https://mms.businesswire.com/media/20190905005347/en/741858/5/4006757_Gartner_MQ_for_ITSM.jpg)
+
+---------
+![Gartner-Magic-Quadrant-for-ITSM](https://blogs.bmc.com/wp-content/uploads/2020/10/Gartner-Magic-Quadrant-for-ITSM.png)
+
+---------
+![Gartner%20MQ%20ITVRM%2020%20Graphic](https://www.rsa.com/content/dam/blog/2020-09/Gartner%20MQ%20ITVRM%2020%20Graphic.jpg)
+
+-------
+![figure1](https://mms.businesswire.com/media/20190718005162/en/733591/5/figure1.jpg)
+
+----------
+
+Low-Code Application Platforms 
+
+![gartner-lcap-mq-2020-chart](https://www.pega.com/sites/default/files/styles/1366/public/media/images/2020-10/gartner-lcap-mq-2020-chart.png?itok=nHr_4D0U)
+
 -----------
 
-#### IT4IT/DevOps Landscape
+### IT4IT/DevOps Landscape
 
 [Back to top](#contents)
 
@@ -698,7 +746,7 @@ Digital Workplace Reimagined:
 ---------------------
 -----------
 
-#### Enterprise Resource Planning (The Enterprise Digital Core)
+### Enterprise Resource Planning (The Enterprise Digital Core)
 
 [Back to top](#contents)
 
@@ -756,10 +804,63 @@ ERP Today
 ---------------
 -----------------------------------
 
-#### ERP Software Providers Landscape
+### ERP Software Providers Landscape
 
 [Back to top](#contents)
 
+
+----------
+CRM Customer Engagement Center
+
+![gartner-crm-cec-2020-final](https://www.pega.com/sites/default/files/styles/2560/public/media/images/2020-06/gartner-crm-cec-2020-final.jpg?itok=cIxnJhT_)
+
+
+------
+CRM and Customer Experience Implementation Services
+![Gartner-MQ-CRM-CX-2020-Matrix](https://www.capgemini.com/wp-content/uploads/2020/04/Gartner-MQ-CRM-CX-2020-Matrix.jpg)
+
+---------
+![Gartener-Figure1-v2](https://www.ceridian.com/Ceridian/media/WebsiteMedia/Resources/Gartener-Figure1-v2.jpg?ext=.jpg)
+
+---------
+![Gartner%2010242](https://blog.onestreamsoftware.com/hs-fs/hubfs/Gartner%2010242.jpg?width=1000&name=Gartner%2010242.jpg)
+
+---------
+![collagefragmentpicture.2020-04-27.8464592864](https://www.tagetik.com/en/2020-gartner-mq-fpa-ads-lp/index/1/1/collagefragmentpicture.2020-04-27.8464592864/image?v=2020-10-07T15:18:29)
+
+----------
+![gartner-magic-quadrant](https://dynamics365cdn.azureedge.net/cvt-238e5c9f1a326b1946be7cf07185a544fc12ed6df80aa6c807d887a93b3ecbd2/pictures/pages/analyst-awards/gartner-magic-quadrant.png)
+
+---------
+![15628959560056205_origin](https://static.seekingalpha.com/uploads/2019/7/11/318104-15628959560056205_origin.png)
+
+--------
+![quadrant](https://webassets.infor.com/images/screenshots/quadrant.jpg?mtime=20191021184527)
+
+--------
+![gartnerMQ_p2p](https://d3q0x13th15b8d.cloudfront.net/resources/analyst-reports/GartnerMQ/2020/P2P/assets/img/x2020-gartnerMQ_p2p.png.pagespeed.ic.XVegO8nllR.png)
+
+---------
+![gartsfa](https://wp.salesforce.com/news/wp-content/uploads/sites/3/2020/08/gartsfa.jpg)
+
+--------
+
+![googleusercontent](https://lh4.googleusercontent.com/LnN6OHKOSYSO2eCaXcmsShG96HX7Jagc1g8BahrslEIrWYqlky-nGIQtwSqZWg4z3FCnMrWvtt45TCs6xNvOu3vQLU0zZIZc3JbI9KZl8-NmxopcV2xBNTTH41RQFf1EpTKxwcwI)
+
+--------
+
+![Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024](https://www.itassetmanagement.net/wp-content/uploads/2020/07/Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024.jpg)
+
+--------
+![gartner-mq-tms-2020-m1](https://www.oracle.com/a/ocom/img/dc/gartner-mq-tms-2020-m1.png)
+
+----------
+![figure1-16-7](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2020/05/figure1-16-7.jpg?w=919)
+
+--------
+![gx-gartner-oracle-cloud-mq-2020](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/gx-gartner-oracle-cloud-mq-2020.jpg)
+
+------------
 
 ![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
 
@@ -775,7 +876,7 @@ ERP Today
 ----------------------
 ----------
 
-#### Database Technology
+### Database Technology
 
 [Back to top](#contents)
 
@@ -790,11 +891,14 @@ ERP Today
 -------
 
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
+----------
+
+![Gartner_Magic_Quadrant](https://www.intersystems.com/wp-content/uploads/2019/12/Gartner_Magic_Quadrant-2019-700px.png)
 
 ---------
 
 
-##### Master Data Management
+### Master Data Management
 
 [Back to top](#contents)
 
@@ -811,10 +915,13 @@ ERP Today
 
 ![data-quality-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/data-quality-magic-quadrant-2020.jpg)
 
+----------
+![Gartner-Magic-Quadrant-Metadata-Managment-2019](https://www.silwoodtechnology.com/wp-content/uploads/2020/03/Gartner-Magic-Quadrant-Metadata-Managment-2019.jpg)
+
 -------------
 --------------
 
-#### Enterprise Data & Application Integration 
+### Enterprise Data & Application Integration 
 
 [Back to top](#contents)
 
@@ -840,6 +947,8 @@ ERP Today
 --------
 ![blog-200820-gartner-mqdi-2020](https://www.talend.com/wp-content/uploads/2020/08/blog-200820-gartner-mqdi-2020.jpg)
 ----------
+![EeNKERBiw90cqWd10oNkKNQ50](https://lh3.googleusercontent.com/proxy/_9I7ErpnnPfbgLZwsGC5YvzqwauuORUU7j4ZtsMbYofxk632gDYVLNGOZufFIgwIDlJWWSTVGtZG7xQ_UB03pqBDzVdNAOoNgGu7_xPuuI7JBZwF4iRVEXy4zJUPXQuvRROgDURMH1uuhsH_W4_M7jA1knwq0TZLtW0Q4Kh_HIsgvndK5tMa-EeNKERBiw90cqWd10oNkKNQ50-oo7iqB_eRBJ2FqtAk6fQc)
+------------
 
 ![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
 
@@ -854,7 +963,17 @@ ERP Today
 
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
+--------------
+![gartner-magic-quadrant_945xx](https://www.a1.digital/globalassets/media/images/allgemein/gartner-magic-quadrant_945xx.jpg)
 
+-----------
+![gartner_mq_m2m_dec18](https://www.orange-business.com/sites/default/files/gartner_mq_m2m_dec18.png)
+
+----------
+
+IIoT Platform
+
+![0*ulH3-M1yBVjO1di](https://miro.medium.com/max/945/0*ulH3-M1yBVjO1di-)
 
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
@@ -888,10 +1007,13 @@ ERP Today
 ----------
 ![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
 
+---------
+![Gartner-files-and-objects-MQ-Oct-201](https://blocksandfiles.com/wp-content/uploads/2019/10/Gartner-files-and-objects-MQ-Oct-2019.jpg)
+
 --------------
 ----------------
 
-#### AI in Enterprise Processes
+### AI in Enterprise Processes
 
 [Back to top](#contents)
 
@@ -924,8 +1046,12 @@ RPA
 ![robotic-process-automation-gartner-2020-leaders](https://www.uipath.com/hubfs/Gartner-MQ-2020/robotic-process-automation-gartner-2020-leaders.jpg)
 
 ----------------
+![1000,h_563,al_c,usm_0.66_1.00_0.01](https://static.wixstatic.com/media/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png)
+------------
 ![gartner-mq-landing/asset-2x](https://www.qlik.com/us/-/media/images/global-us/site-content/gartner-mq-landing/asset-2x.png)
 
+------
+![high-res-MQ](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/high-res-MQ.jpg)
 ----------
 ![MQ-8](https://www.capgemini.com/wp-content/uploads/2020/02/MQ-8.jpg?w=960)
 
@@ -947,7 +1073,7 @@ RPA
 -----------
 ----------------
 
-#### Experience Design
+### Experience Design
 
 [Back to top](#contents)
 
@@ -974,6 +1100,17 @@ RPA
 
 ---------
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
+----------
+![gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w](https://dri.es/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w.png)
+
+--------
+![gartner-mq-mxdp-2020](https://blogs.sap.com/wp-content/uploads/2020/07/gartner-mq-mxdp-2020.jpg)
+
+--------
+
+Mobile App Development Platforms 
+
+![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
 
 -----------
 
@@ -982,7 +1119,7 @@ RPA
 -------------
 ---------------
 
-#### 21.2nd Century Enterprise Tech Landscape
+### 21.2nd Century Enterprise Tech Landscape
 
 [Back to top](#contents)
 
