@@ -620,7 +620,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![gartner-nsg-graph_feb20](https://www.orange-business.com/sites/default/files/gartner-nsg-graph_feb20.jpg)
 
 ---------
-![leader-gartner-magic-quadrant-wan-edge-infrastructure-sdwan-](https://sdwan.vmware.com/content/velocloud/en/sd-wan-resources/white-papers/leader-gartner-magic-quadrant-wan-edge-infrastructure-sdwan-2020/_jcr_content/par/columncontainer_2101/par-twocolumn1/par/image.img.png/1601331701842.png)
+![Gartner](https://www.channelpartnersonline.com/files/2019/12/Gartner.jpg)
 
 ------------
 
@@ -705,7 +705,7 @@ Meeting Solutions
 -------------
 
 
-### ITIL/ITSM/ITSO Service Desk 
+#### ITIL/ITSM/ITSO Service Desk 
 
 [Back to top](#contents)
 
@@ -719,8 +719,6 @@ Meeting Solutions
 ---------
 ![4006757_Gartner_MQ_for_ITSM](https://mms.businesswire.com/media/20190905005347/en/741858/5/4006757_Gartner_MQ_for_ITSM.jpg)
 
----------
-![Gartner-Magic-Quadrant-for-ITSM](https://blogs.bmc.com/wp-content/uploads/2020/10/Gartner-Magic-Quadrant-for-ITSM.png)
 
 ---------
 ![Gartner%20MQ%20ITVRM%2020%20Graphic](https://www.rsa.com/content/dam/blog/2020-09/Gartner%20MQ%20ITVRM%2020%20Graphic.jpg)
@@ -876,7 +874,7 @@ CRM and Customer Experience Implementation Services
 ----------------------
 ----------
 
-### Database Technology
+#### Database Technology
 
 [Back to top](#contents)
 
@@ -921,7 +919,7 @@ CRM and Customer Experience Implementation Services
 -------------
 --------------
 
-### Enterprise Data & Application Integration 
+#### Enterprise Data & Application Integration 
 
 [Back to top](#contents)
 
@@ -1013,7 +1011,7 @@ IIoT Platform
 --------------
 ----------------
 
-### AI in Enterprise Processes
+#### AI in Enterprise Processes
 
 [Back to top](#contents)
 
@@ -1039,6 +1037,9 @@ IIoT Platform
 ----------
 ![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
 
+--------
+
+![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 -------------
 
 RPA
@@ -1064,16 +1065,10 @@ RPA
 -----------
 ![Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
 
---------
-
-![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
-
-
-
 -----------
 ----------------
 
-### Experience Design
+#### Experience Design
 
 [Back to top](#contents)
 
@@ -1119,7 +1114,7 @@ Mobile App Development Platforms
 -------------
 ---------------
 
-### 21.2nd Century Enterprise Tech Landscape
+#### 21.2nd Century Enterprise Tech Landscape
 
 [Back to top](#contents)
 
@@ -1146,12 +1141,12 @@ Mobile App Development Platforms
 ![Efza1u8WsAAlGCx](https://pbs.twimg.com/media/Efza1u8WsAAlGCx.png:large)
 
 ------
-![how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles](https://medium.com/@deepcode.ai/how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles-f4af091fa4f7)
+![how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles](https://miro.medium.com/max/1050/1*7Pqu10HpglwAle4AU-zkOw.png)
 
 ------------
 ------------------
 
-### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
+#### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
 [Back to top](#contents)
 
