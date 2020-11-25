@@ -419,9 +419,7 @@
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 -----------------
 
-![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
 
----------------
 
 Typical Team Structure
 
@@ -604,40 +602,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
 -------
-![1-10](https://blogs.sap.com/wp-content/uploads/2020/05/1-10.png)
---------
-![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
 
--------------
-![tracxn-data-center-infrastructure-startup-landscape-7-1024](https://image.slidesharecdn.com/finaldata-centerinfrastructurelonglist1531225750807-180711060740/95/tracxn-data-center-infrastructure-startup-landscape-7-1024.jpg?cb=1531289300)
-
------------
-![fl_progressive:steep/https%3A%2F%2Fbucketeer](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67e91f42-3c28-4502-b48d-80a44e2c2f32_1360x722.png)
-
---------
-![fl_progressive](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c49645d-799c-46e0-aba1-502907938067_1393x769.png)
-
-------------
-![F%2Fbucketeer-e05bbc84-baa3-437e-9518](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1b3352-88ef-43fe-9110-ca9901a6c2f1_1193x669.png)
-
----------
-![amazonaws.com%2Fpublic%2Fimages%2Fe51c5835-3974-4f82-bafe-431c9a59754f_1379x721](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe51c5835-3974-4f82-bafe-431c9a59754f_1379x721.png)
-
--------------
-![Fimages%2Fd759c438-165e-4669-b419-5f8b70b82110_1379x775](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd759c438-165e-4669-b419-5f8b70b82110_1379x775.png)
-
-------------
-![Fpublic%2Fimages%2F314ba3dd-66c7-4fa4-a8d2-250762821d5b_1194x669](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F314ba3dd-66c7-4fa4-a8d2-250762821d5b_1194x669.png)
-
------------
-![public%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x72](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4af615c-2991-49c8-8374-4802d23abb27_1384x727.png)
-
-------------
-![Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624ca3cd-8b1f-4438-afa5-d99e0e1e292e_1386x727.png)
-
----------------
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
-
 
 ----------
 
@@ -646,7 +612,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 [Back to top](#contents)
 
 -------------
-
 ----------
        
        - The 2020 global Information Technology industry will reach $5.2 trillion, of which $624B is software, implying developer-led products are 7% of global software spend.
@@ -679,8 +644,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Graph Technology Landscape 2019](https://graphaware.com/graphaware/2019/02/01/graph-technology-landscape.html)
 - [desktop as a service (DaaS) providers](https://www.techrepublic.com/article/top-desktop-as-a-service-daas-providers-amazon-citrix-microsoft-vmware-and-more/)
 
---------------
-![Infrastructure_landscape_service_overiew](https://www.infra-repository.org/oiar/images/6/65/Infrastructure_landscape_service_overiew.png)
 
 ------------
 ![digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community](https://www.constellationr.com/system/files/uploads/u16818/digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community.png)
@@ -700,22 +663,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------
 -------------
 
-#### Employee Experience Design
-
-![digital_transformation_of_workplace_for_end_to_end_employee_experience](https://dionhinchcliffe.files.wordpress.com/2018/05/digital_transformation_of_workplace_for_end_to_end_employee_experience.png)
-
---------
-![key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro](https://www.constellationr.com/system/files/uploads/user-16818/key_aspects_of_modern_digital_employee_experience_future_of_work_digital_workplace_intranet_cio_chro.png)
-
-----------------
-
-![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
-
------------
-![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
-
-----------
----------------
 
 #### ITIL/ITSM/ITSO Service Desk 
 
@@ -725,17 +672,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [IT Services analyst-speak](https://www.wipro.com/analyst-speak/#NewReports)
 - [Chatbot Companies of 2020: In-depth Guide](https://research.aimultiple.com/chatbot-companies/)
 
-------------
 
-![fr_help-desk_v7](https://software-advice.imgix.net/managed/frontrunner/fr_help-desk_v7.png)
-
--------------
-![IT_Service_Desk](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/IT_Service_Desk.png)
-
------------
-![itsm_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itsm_process.png)
-
--------
 ![itservice_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itservice_process.PNG)
 
 -----------
@@ -746,10 +683,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
-----------------
-
-
-![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
 ---------------------
 -----------
@@ -803,22 +736,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
-
 -------------
--------------------
-#### ERP History
-
-[Back to top](#contents)
-
-
-
-![00938cab1b487e5d38de3e4c57c6bbf5](https://i.pinimg.com/originals/00/93/8c/00938cab1b487e5d38de3e4c57c6bbf5.jpg)
-
-----------
-![ERP_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_History.PNG)
---------
-![tmpF515_thumb11_thumb1](https://lh6.ggpht.com/_NNjxeW9ewEc/TIpgjZC2LtI/AAAAAAAAAxs/z-JZ-2_KdVE/tmpF515_thumb11_thumb1.jpg?imgmax=1000)
-
 ------------
 ERP Today
 
@@ -838,121 +756,10 @@ ERP Today
 
 ![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
 
---------
-
-![file_paperfree_144_2020](https://s3.amazonaws.com/pf-free/file_paperfree_144_2020-1-17-37-19-p_facebook-cropper.jpg)
 
 ---------
 
 ![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
-
-
----------------
--------------
-
-![hWsn719Sm4kOm1w](https://miro.medium.com/max/953/1*XKgWZF-hWsn719Sm4kOm1w.png)
-
--------------------
-
-![Screenshot-2020-06-02-at-18.05.05](https://blogs.sap.com/wp-content/uploads/2020/06/Screenshot-2020-06-02-at-18.05.05.png)
-
------------
-![S4HANA](https://blogs.sap.com/wp-content/uploads/2020/05/S4HANA.jpg)
-
----------------------------------
-------------------------------
-
-
-#### [Enterprise Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/erp.md)
-
-[Back to top](#contents)
-
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
-
-
-
-![Accounting_and_Financial_Close_Process](https://blog-sap.com/analytics/files/2017/07/7.14.Accounting_and_Financial_Close_Process.png)
-
---------------------
-
-#### Lead To Cash
-
-[Back to top](#contents)
-
-![Lead-to-Cash2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Lead-to-Cash2.PNG)
-
-----------------------------------
-----------------------------------------
-
-#### Source To Pay
-
-[Back to top](#contents)
-
-
-
-
-![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
-
-
------------------
------------------------
-
-#### Design to Operate
-
-[Back to top](#contents)
-
-
-![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
-
-----------------
--------------------------
-#### Hire to Retire
-
-[Back to top](#contents)
-
-
-![HR-Data-img](https://splashbi.com/wp-content/uploads/2020/03/HR-Data-img.jpg)
-
-
-
-![hex](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/hex.PNG)
-
--------------------
----------------------
-
-#### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
-
-[Back to top](#contents)
-
-
-![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
-
--------------------
-
-![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
-
---------
-![sap-intelligent-enterprise-techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
-
-----------------------
-![05_002](https://learning.sap-press.com/hs-fs/hubfs/05_002.jpg?width=1976&name=05_002.jpg)
--------------
-![08_001](https://learning.sap-press.com/hs-fs/hubfs/08_001.jpg?width=1839&name=08_001.jpg)
------------
-![09_003](https://learning.sap-press.com/hs-fs/hubfs/09_003.jpg?width=1518&name=09_003.jpg)
--------
-![11_001](https://learning.sap-press.com/hs-fs/hubfs/11_001-1.jpg?width=1797&name=11_001-1.jpg)
--------
-![12_001](https://learning.sap-press.com/hs-fs/hubfs/12_001.jpg?width=1675&name=12_001.jpg)
-
----------------
--------------------
-
-[Back to top](#contents)
-
-
-![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
 
 ----------------------
 ----------
@@ -974,11 +781,7 @@ ERP Today
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
 
 ---------
-![5d71c5b5ed21579fe7c3535a/5f391dece5ef2bca9903b96e_rdbms-market-share](https://global-uploads.webflow.com/5d71c5b5ed21579fe7c3535a/5f391dece5ef2bca9903b96e_rdbms-market-share.png)
-----------
-![Database_Technology_20e140c4](https://s3.amazonaws.com/tracxn-data-attachments/theme/landscape/image/Database_Technology_20e140c4-31f0-477d-95a1-1e8ae00756b0.jpeg)
 
--------------
 
 ##### Master Data Management
 
@@ -989,8 +792,6 @@ ERP Today
 
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
-----------
-![MDM-Landscape-Diagram-Q2-2020-v2](https://www.informationdifference.com/wp-content/uploads/MDM-Landscape-Diagram-Q2-2020-v2.png)
 
 -------
 ![gartner-dq-mq-2020](https://liliendahl.files.wordpress.com/2020/07/gartner-dq-mq-2020.png)
@@ -1013,32 +814,6 @@ ERP Today
 ---------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
-------------
-![integration_capabilities](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_capabilities.PNG)
-
--------------
-![integration_implementations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_implementations.PNG)
-
------------
-![api_lifecycle2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/api_lifecycle2.PNG)
-
--------------
-![integration_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration_services.PNG)
-
--------------
-![ipaas_1n](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_1n.PNG)
-
-------------
-![ipaas_connectivity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_connectivity.PNG)
-
--------------
-![ipaas_interoperability](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_interoperability.PNG)
-
----------
-![ipaas_non](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Data.png)
-
--------
-![1-8](https://www.sapspot.com/wp-content/uploads/2019/04/1-8.png)
 
 ----------
 - [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
@@ -1155,11 +930,21 @@ ERP Today
 
 -----------
 
+![digital_transformation_of_workplace_for_end_to_end_employee_experience](https://dionhinchcliffe.files.wordpress.com/2018/05/digital_transformation_of_workplace_for_end_to_end_employee_experience.png)
+
+-----------
+
 ![Paradigm_shift](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Paradigm_shift.PNG)
 
 ------------
 
 ![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
+
+---------
+![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
+
+-----------
+![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
 
 -------------
 ---------------
@@ -1178,6 +963,15 @@ ERP Today
 -------
 ![it_excellence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_excellence.PNG)
 
+
+---------
+
+-----------
+![emerging-tech-roadmap-mse-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-mse-2020-2022-1.jpg)
+
+------------
+![emerging-tech-roadmap-le-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-le-2020-2022-1.jpg)
+
 ------------
 ------------------
 
@@ -1191,6 +985,7 @@ ERP Today
 ------------
 
 ![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
+
 
 ------------
 ------------------------------------
