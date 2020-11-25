@@ -612,12 +612,24 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 
+---------
+
+- [Magic Quadrant for Cloud Infrastructure and Platform Services](https://cloud.google.com/gartner-cloud-infrastructure-as-a-service)
+
+![In1dlVTO_XNm4OhL1TxVol4bk1Vunya2IAfsqpfuQVKpB3pZZaZ4xYGmiLrQilUldxMBvUMbI6bn](https://lh3.googleusercontent.com/In1dlVTO_XNm4OhL1TxVol4bk1Vunya2IAfsqpfuQVKpB3pZZaZ4xYGmiLrQilUldxMBvUMbI6bn=e14-rj-sc0xffffff-w1034)
+
+-----------
+- [Public Cloud Infrastructure Professional and Managed Services, Worldwide](https://www.gartner.com/doc/reprints?id=1-1YYOMIMQ&ct=200505&st=sb)
+
+![magic-quadrant-for-public-cloud-infrastructure-professional](https://www.wipro.com/content/dam/nexus/en/analyst-speak/images/wipro-positioned-as-a-leader-in-2020-magic-quadrant-for-public-cloud-infrastructure-professional-and-managed-services-worldwide.png)
+
 [Back to top](#contents)
+
 
 --------------
 ------------
 
-#### Digital Workplace Design
+#### Digital Workplace Services
 
 - [2020 Predictions for the Future of Work](https://www.constellationr.com/blog-news/2020-predictions-future-work)
 - [The future of work in technology](https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html)
@@ -628,17 +640,31 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Enterprise Social-Collaboration - A Changing Landscape](https://www.realstorygroup.com/Blog/enterprise-social-collaboration-changing-landscape)
 - [Graph Technology Landscape 2019](https://graphaware.com/graphaware/2019/02/01/graph-technology-landscape.html)
 - [desktop as a service (DaaS) providers](https://www.techrepublic.com/article/top-desktop-as-a-service-daas-providers-amazon-citrix-microsoft-vmware-and-more/)
-
+- [Magic Quadrant for Managed Mobility Services, Global](https://www.gartner.com/doc/reprints?id=1-1YQ1N2Z8&ct=200403&st=sb)
 
 ------------
+
+Digital Workplace Today:
+
 ![999_05_wp_t](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_05_wp_t.PNG)
 
 ----------
+
+Digital Workplace Reimagined:
 
 ![999_04_rwpt](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_04_rwpt.PNG)
 
 ----------
 ![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
+
+--------
+![reprintKey](https://www.gartner.com/resources/389500/389577/389577_0001.png?reprintKey=1-1YQ1N2Z8)
+-------
+![mq-graphic](https://www.teksystems.com/-/media/teksystems/images/generic/mq-graphic.jpg?h=3500&la=en&w=3500&hash=D640C0086A7DF01C1C19F663C454207E)
+----------
+![Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA](https://images-cdn.newscred.com/Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA==)
+
+
 
 --------
 ![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
@@ -781,6 +807,10 @@ ERP Today
 -------
 ![gartner-dq-mq-2020](https://liliendahl.files.wordpress.com/2020/07/gartner-dq-mq-2020.png)
 
+------
+
+![data-quality-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/data-quality-magic-quadrant-2020.jpg)
+
 -------------
 --------------
 
@@ -808,6 +838,8 @@ ERP Today
 
 ![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
 --------
+![blog-200820-gartner-mqdi-2020](https://www.talend.com/wp-content/uploads/2020/08/blog-200820-gartner-mqdi-2020.jpg)
+----------
 
 ![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
 
@@ -882,11 +914,32 @@ ERP Today
 ![ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml.PNG)
 
 
---------------
 ----------
 ![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
 
+-------------
+
+RPA
+
+![robotic-process-automation-gartner-2020-leaders](https://www.uipath.com/hubfs/Gartner-MQ-2020/robotic-process-automation-gartner-2020-leaders.jpg)
+
+----------------
+![gartner-mq-landing/asset-2x](https://www.qlik.com/us/-/media/images/global-us/site-content/gartner-mq-landing/asset-2x.png)
+
+----------
+![MQ-8](https://www.capgemini.com/wp-content/uploads/2020/02/MQ-8.jpg?w=960)
+
 -----------
+![2020-Magic-Quadrant-981x1024](https://3gp10c1vpy442j63me73gy3s-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/2020-Magic-Quadrant-981x1024.jpg)
+-------------
+
+![gartner_mq_2020_cloud_ai_dev_1](https://media.amazonwebservices.com/blog/2020/gartner_mq_2020_cloud_ai_dev_1.png)
+
+-----------
+![Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
+
+--------
+
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 
 
@@ -952,10 +1005,16 @@ ERP Today
 ------------
 ![emerging-tech-roadmap-le-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-le-2020-2022-1.jpg)
 
+-------
+![Efza1u8WsAAlGCx](https://pbs.twimg.com/media/Efza1u8WsAAlGCx.png:large)
+
+------
+![how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles](https://medium.com/@deepcode.ai/how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles-f4af091fa4f7)
+
 ------------
 ------------------
 
-##### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
+### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
 [Back to top](#contents)
 
@@ -967,10 +1026,7 @@ ERP Today
 ![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
 
 
-------------
-------------------------------------
 
-#### Enterprise Software Development Tools & Process
 
 [Back to top](#contents)
 
