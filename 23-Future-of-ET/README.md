@@ -307,6 +307,8 @@
 
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
 
+----------
+![the-impact-technology-on-business-performance_1.](https://base22.com/wp-content/img-import/body/blogs/the-impact-technology-on-business-performance_1.jpeg)
 
 -----------
 
@@ -417,15 +419,20 @@
 
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
+
+
 -----------------
-
-
 
 Typical Team Structure
 
 ![team](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/team.PNG)
 
 [Back to top](#contents)
+
+-------
+IT Skills
+
+![Top-IT-Job-Titles-2-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/01085633/Top-IT-Job-Titles-2-Ongig.png)
 
 --------------
 -------------
@@ -864,6 +871,10 @@ ERP Today
 - Machine Learning
 - Leading Enterprise RPA/DS/ML Sofware Vendors
 
+--------------
+
+![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
+
 -----------
 ![DS_life_cycle](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/DS_life_cycle.PNG)
 
@@ -878,9 +889,6 @@ ERP Today
 -----------
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 
---------------
-
-![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
 
 
 -----------
