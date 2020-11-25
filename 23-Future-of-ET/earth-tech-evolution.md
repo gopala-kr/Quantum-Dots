@@ -1,3 +1,11 @@
+-----------
+![emerging-tech-roadmap-mse-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-mse-2020-2022-1.jpg)
+
+------------
+![emerging-tech-roadmap-le-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-le-2020-2022-1.jpg)
+
+
+
 ----------------------
 -------------------------
 ![Faster%20Innovation%20Cycles_White%20Paper%20Part%20Two_0](https://evolutionarytree.com/sites/default/files/Faster%20Innovation%20Cycles_White%20Paper%20Part%20Two_0.png)
