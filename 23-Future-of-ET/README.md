@@ -476,6 +476,10 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 
 ![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
 
+----------------
+
+![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
+
 ---------
 ![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
 
@@ -568,6 +572,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
+-------
+![1-10](https://blogs.sap.com/wp-content/uploads/2020/05/1-10.png)
 --------
 ![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
 
@@ -713,6 +719,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
   - Enterprise Data Types
     - Configuration Data
     - Custum Data
+    - Meta Data
     - Master Data
     - Transaction Data
     - Unstructured Data
@@ -740,22 +747,50 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Industry Specific ERP Softwares
 
 --------------------------------------
------------------------------------
 #### ERP History
 
 --------------
 ![00938cab1b487e5d38de3e4c57c6bbf5](https://i.pinimg.com/originals/00/93/8c/00938cab1b487e5d38de3e4c57c6bbf5.jpg)
 
+----------
+![ERP_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_History.PNG)
 --------
 ![tmpF515_thumb11_thumb1](https://lh6.ggpht.com/_NNjxeW9ewEc/TIpgjZC2LtI/AAAAAAAAAxs/z-JZ-2_KdVE/tmpF515_thumb11_thumb1.jpg?imgmax=1000)
 
 ------------
-![what-is-an-erp-system-13-1024](https://image.slidesharecdn.com/02-whatisanerpsystem-190118060726/95/what-is-an-erp-system-13-1024.jpg?cb=1547791819)
+![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
 
-----------
-![ERP_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_History.PNG)
+---------------------
+-------------------
 
+#### [Enterprise Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/erp.md)
+
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
+---------------
+-----------------------------------
+
+#### ERP Providers Landscape
+
+---------
+![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
+
+---------------------
+
+![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
+
+--------
+
+![file_paperfree_144_2020](https://s3.amazonaws.com/pf-free/file_paperfree_144_2020-1-17-37-19-p_facebook-cropper.jpg)
+
+---------
+
+![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
+
+
+---------------
 -------------
+
 ![hWsn719Sm4kOm1w](https://miro.medium.com/max/953/1*XKgWZF-hWsn719Sm4kOm1w.png)
 
 -------------------
@@ -764,19 +799,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -----------
 ![S4HANA](https://blogs.sap.com/wp-content/uploads/2020/05/S4HANA.jpg)
-
----------------
------------------------------
-#### Enterprise Operations
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
-
-----------
-
-![enterprise_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/enterprise_services.PNG)
-
-----------
-![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
 
 ---------------------------------
 ------------------------------
@@ -806,48 +828,56 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![design-to-operate](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Design_to_Operate.PNG)
 
---------------
-![1709-4](https://blogs.sap.com/wp-content/uploads/2020/05/1709-4.png)
-
 ----------------
 -------------------------
 #### Workforce Management
 
-
-![talent-systems](https://joshbersin.com/wp-content/uploads/2019/04/talent-systems.jpg)
--------------------------
-------------
-
-#### ERP Providers Landscape
-
----------
-
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://valueadders.com.au/wp-content/uploads/2020/08/Evolving-Business-Systems-Landscape.gif" alt="The evolving accounting and ERP technology market" class="wp-image-3576" width="583" height="501"/><figcaption>The evolving business systems landscape</figcaption></figure></div>
-
-----------
-![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
-
----------------
-![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
-
----------
-![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
-
----------------
-----------------
+-------------------
+---------------------
 
 #### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
+-------
+![04_012](https://learning.sap-press.com/hs-fs/hubfs/04_012.jpg?width=1572&name=04_012.jpg)
+----------------------
+![05_002](https://learning.sap-press.com/hs-fs/hubfs/05_002.jpg?width=1976&name=05_002.jpg)
+-------------
+![08_001](https://learning.sap-press.com/hs-fs/hubfs/08_001.jpg?width=1839&name=08_001.jpg)
+-----------
+![09_003](https://learning.sap-press.com/hs-fs/hubfs/09_003.jpg?width=1518&name=09_003.jpg)
+-------
+![11_001](https://learning.sap-press.com/hs-fs/hubfs/11_001-1.jpg?width=1797&name=11_001-1.jpg)
+-------
+![12_001](https://learning.sap-press.com/hs-fs/hubfs/12_001.jpg?width=1675&name=12_001.jpg)
+-------------------
+![s4_2020_02](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_02.jpg)
+-------------------------
+![Data-Model-Change](https://www.s4hana.tech/wp-content/uploads/Data-Model-Change.png)
+----------
+![02_002](https://learning.sap-press.com/hs-fs/hubfs/02_002.jpg?width=1436&name=02_002.jpg)
+-------
+![From-SAP-Netweaver-to-ABAP-Platform-full-stack-3](https://blogs.sap.com/wp-content/uploads/2020/06/From-SAP-Netweaver-to-ABAP-Platform-full-stack-3.jpg)
+
+---------
+![From-SAP-Netweaver-to-ABAP-Platform-1](https://blogs.sap.com/wp-content/uploads/2020/06/From-SAP-Netweaver-to-ABAP-Platform-1.jpg)
+--------
+![SAP-Netweaver-Kernel-lines-1](https://blogs.sap.com/wp-content/uploads/2020/06/SAP-Netweaver-Kernel-lines-1.jpg)
+
+----------
+![s4_2020_03_1](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_03_1.jpg)
+
+---------------
+-------------------
 
 ![ienterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise3.PNG)
 
 ----------------
 ![integrated_business](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integrated_business.PNG)
 
----------
+--------
 ![sap_25_industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sap_25_industries.PNG)
 
----------------------------
------------------------------------
+----------------------
+----------
 
 #### Database Technology
 
@@ -855,12 +885,23 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 
+-------
+
+![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
+
 -------------
 
 ##### Master Data Management
 
+- [The MDM Landscape Q2 2020](https://www.informationdifference.com/products/landscape/mdm-landscape/)
+
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
+----------
+![MDM-Landscape-Diagram-Q2-2020-v2](https://www.informationdifference.com/wp-content/uploads/MDM-Landscape-Diagram-Q2-2020-v2.png)
+
+-------
+![gartner-dq-mq-2020](https://liliendahl.files.wordpress.com/2020/07/gartner-dq-mq-2020.png)
 
 -------------
 --------------
@@ -906,26 +947,24 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### IoT Platforms Integration with ERP
 
-
-
--------------
-![protocols-and-their-impacts-on-the-electronics-industry-7-102](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-7-1024.jpg?cb=1540457007)
-
------------
-![internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024.jpg?cb=1540457007)
-
 ---------------
 
 ![the_internet_of_things_value_chain](https://dionhinchcliffe.files.wordpress.com/2017/09/the_internet_of_things_value_chain.jpeg)
 
+
+-------------
+![protocols-and-their-impacts-on-the-electronics-industry-7-102](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-7-1024.jpg?cb=1540457007)
 ---------
 ![sensors_forecast](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sensors_forecast.PNG)
 
----------------
-![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
+-----------
+![internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024](https://image.slidesharecdn.com/yd18043-slideshare-181025083943/95/internet-of-things-rf-protocols-and-their-impacts-on-the-electronics-industry-8-1024.jpg?cb=1540457007)
+
 
 --------
 ![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
+---------------
+![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
 -------
 ![C-2020-3-Looman-05-klein](https://www.compact.nl/wordpress/wp-content/uploads/2020/10/C-2020-3-Looman-05-klein.png)
@@ -980,28 +1019,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml.PNG)
 
-----------
-![ml_workflow2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml_workflow2.PNG)
-
---------
-![ml_scene](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml_scene.PNG)
 
 --------------
 ----------
 ![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
-
----------------
-![intelligent_enterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/intelligent_enterprise2.PNG)
-
------------
-![intelligent_enterprise3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/intelligent_enterprise3.PNG)
-
------------
-![rpa](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/rpa.PNG)
-
----------
-
-![C-2018-1-Doesburg-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/03/C-2018-1-Doesburg-01-klein.png)
 
 -----------
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
@@ -1024,6 +1045,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Mobile
 - VR/AR/WebVR
 
+
+------------
+![digitization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/digitization.PNG)
+
 -----------
 
 ![Paradigm_shift](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Paradigm_shift.PNG)
@@ -1033,22 +1058,13 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
 
 -------------
-----------------
-
-![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
-
------------
-![the_digital_enterprise_2018_customer_worker_supplier_partner_experience](https://dionhinchcliffe.files.wordpress.com/2018/10/the_digital_enterprise_2018_customer_worker_supplier_partner_experience.png)
-
-------------
-![digitization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/digitization.PNG)
-
 ---------------
+
+#### 21.2nd Century Enterprise Tech Landscape
+
 ![ienterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise.PNG)
 
 --------------------
-
-#### 21.2nd Century Enterprise Tech Landscape
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
 
