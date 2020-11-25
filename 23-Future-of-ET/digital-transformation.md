@@ -621,6 +621,9 @@
 
 --
 ![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
-
+--------
+![wt_web](https://www.happiestminds.com/services/wp-content/uploads/sites/2/2018/01/wt_web.jpg)
+-------
+![ipl-digital-workplace-2019](https://isg-one.com/images/default-source/default-album/ipl-digital-workplace-2019.png?sfvrsn=94cef231_0)
 -----------
 -------------
