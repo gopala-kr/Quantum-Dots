@@ -491,22 +491,18 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 
 [Back to top](#contents)
 
------------
-![technology_change_proliferation_and_enterprise_it1](https://dionhinchcliffe.files.wordpress.com/2013/11/technology_change_proliferation_and_enterprise_it1.png)
 
 
 ---------------
-![digitaltransformationonfoundationalplatforms](https://zdnet4.cbsistatic.com/hub/i/2016/12/19/7cb1eaa2-ef4d-48ed-9b8e-b3705eac6965/digitaltransformationonfoundationalplatforms.jpg)
+![999_06_newit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_06_newit.PNG)
 
 ----------
 
-![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
+Trends Impacting IT
 
+![999_trends_impacting_it](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_trends_impacting_it.PNG)
 
----------
-![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
-
---------------------
+----------------
 
 [Back to top](#contents)
 
@@ -611,25 +607,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 [Back to top](#contents)
 
--------------
-----------
-       
-       - The 2020 global Information Technology industry will reach $5.2 trillion, of which $624B is software, implying developer-led products are 7% of global software spend.
-
-       - The median SaaS / Cloud public markets EV / Next 12 Month Revenue ratio is a whopping 15x, and if developer-led businesses are treated similarly they would carry a $0.6 trillion EV.
-       
-       - "Technology", in this context, has come to mean primarily electronics-based technology. 
-       -  computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services. 
-
-
-![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
-
--------
-![it-industry-outlook-2021/key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
-
-[Back to top](#contents)
-
--------------------
+--------------
 ------------
 
 #### Digital Workplace Design
@@ -646,17 +624,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 
 ------------
-![digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community](https://www.constellationr.com/system/files/uploads/u16818/digital_workplace_in_2016_mobile_cloud_saas_ESN_social_tools_community.png)
+![999_05_wp_t](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_05_wp_t.PNG)
 
 ----------
 
-![24f1dad0ab82c97c314191716ca6a431](https://zdnet3.cbsistatic.com/hub/i/r/2016/10/31/d799828f-dca3-4e71-afa0-8e7eedecec9a/resize/770xauto/9f81a30a1f89c69fb034d5b288d25683/thenewdigitalworkplaceashubplatform.png)
+![999_04_rwpt](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_04_rwpt.PNG)
 
 ----------
 ![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
 
 --------
-![RSG_Digital_Workplace_toolkit](https://www.realstorygroup.com/sites/default/files/up/RSG_Digital_Workplace_toolkit.jpg)
+![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
 
 [Back to top](#contents)
 
@@ -805,15 +783,15 @@ ERP Today
 
 
 
+![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
+
+---------------
+
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
 
 ---------
 
 ![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
-
----------------
-![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
-
 
 ----------
 - [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
@@ -824,7 +802,7 @@ ERP Today
 ![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
 --------
 
-![iPaaS_API-Economy](https://analystpov.com/wp-content/uploads/2015/05/iPaaS_API-Economy.png)
+![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
 
 ---------------
 ---------------
@@ -834,13 +812,7 @@ ERP Today
 
 [Back to top](#contents)
 
-![sensors_forecast](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sensors_forecast.PNG)
 
---------
-
-![iot_example](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_example.PNG)
-
----------------
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
 
@@ -928,9 +900,8 @@ ERP Today
 ------------
 ![digitization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/digitization.PNG)
 
------------
-
-![digital_transformation_of_workplace_for_end_to_end_employee_experience](https://dionhinchcliffe.files.wordpress.com/2018/05/digital_transformation_of_workplace_for_end_to_end_employee_experience.png)
+-------
+![999_01_Exmployee_Experiance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_01_Exmployee_Experiance.PNG)
 
 -----------
 
@@ -944,7 +915,8 @@ ERP Today
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
 
 -----------
-![RSG_EmpEx_FINAL](https://www.realstorygroup.com/sites/default/files/up/RSG_EmpEx_FINAL-hires.jpg)
+
+![999_02_Etech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_02_Etech.PNG)
 
 -------------
 ---------------
