@@ -402,9 +402,9 @@
 
 ---------------
 
-Typical IT Consulting Process
+Typical Team Structure
 
-![cloud-2020-where-were-going-from-here-17-1024](https://image.slidesharecdn.com/c19supersessionfinal040619final-190416152800/95/cloud-2020-where-were-going-from-here-17-1024.jpg?cb=1555428663)
+![team](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/team.PNG)
 
 --------------
 -------------
@@ -476,9 +476,6 @@ in the AWS Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/GEN_windows-o
 
 ![FG-The-Shifting-Sands-of-Computing-01](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-01.png/042788f3-c80f-2501-a202-fbeb5d54d8a5?t=1536093857337)
 
-----------------
-
-![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
 ---------
 ![FG-The-Shifting-Sands-of-Computing-02](https://www.nl.kearney.com/documents/20152/1459554/FG-The-Shifting-Sands-of-Computing-02.png/4cbc72d8-89ce-6e72-7eee-76f06e46f8be?t=1536093857243)
@@ -705,6 +702,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
+----------------
+----------------
+
+![EBpYiLdXsAEdBWB](https://pbs.twimg.com/media/EBpYiLdXsAEdBWB.jpg)
 
 ---------------------
 -----------
@@ -747,6 +748,14 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - Industry Specific ERP Softwares
 
 --------------------------------------
+
+#### Typical ERP Process
+
+![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
+
+
+-------------
+-------------------
 #### ERP History
 
 --------------
@@ -758,21 +767,17 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![tmpF515_thumb11_thumb1](https://lh6.ggpht.com/_NNjxeW9ewEc/TIpgjZC2LtI/AAAAAAAAAxs/z-JZ-2_KdVE/tmpF515_thumb11_thumb1.jpg?imgmax=1000)
 
 ------------
+Todays ERP
+
 ![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
-
----------------------
--------------------
-
-#### [Enterprise Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/erp.md)
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
 ---------------
 -----------------------------------
 
-#### ERP Providers Landscape
+#### ERP Software Providers Landscape
 
 ---------
+
 ![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
 
 ---------------------
@@ -803,12 +808,16 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------------------------
 ------------------------------
 
-#### Typical ERP Process
 
-![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
+#### [Enterprise Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/erp.md)
 
------------
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
 ----------------
+
+![Accounting_and_Financial_Close_Process](https://blog-sap.com/analytics/files/2017/07/7.14.Accounting_and_Financial_Close_Process.png)
+
+--------------------
 
 #### Lead To Cash
 
@@ -819,7 +828,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 #### Source To Pay
 
+
+
 ![source_to_pay](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/source_to_pay.PNG)
+
 
 -----------------
 -----------------------
@@ -832,12 +844,20 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------------------
 #### Workforce Management
 
+![HR-Data-img](https://splashbi.com/wp-content/uploads/2020/03/HR-Data-img.jpg)
+
+-----------------
+
+![hex](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/hex.PNG)
+
 -------------------
 ---------------------
 
 #### [SAP ERP Portfolio](https://learning.sap-press.com/what-is-sap)
--------
-![04_012](https://learning.sap-press.com/hs-fs/hubfs/04_012.jpg?width=1572&name=04_012.jpg)
+
+-------------------
+![s4_2020_02](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_02.jpg)
+
 ----------------------
 ![05_002](https://learning.sap-press.com/hs-fs/hubfs/05_002.jpg?width=1976&name=05_002.jpg)
 -------------
@@ -848,22 +868,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![11_001](https://learning.sap-press.com/hs-fs/hubfs/11_001-1.jpg?width=1797&name=11_001-1.jpg)
 -------
 ![12_001](https://learning.sap-press.com/hs-fs/hubfs/12_001.jpg?width=1675&name=12_001.jpg)
--------------------
-![s4_2020_02](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_02.jpg)
--------------------------
-![Data-Model-Change](https://www.s4hana.tech/wp-content/uploads/Data-Model-Change.png)
-----------
-![02_002](https://learning.sap-press.com/hs-fs/hubfs/02_002.jpg?width=1436&name=02_002.jpg)
--------
-![From-SAP-Netweaver-to-ABAP-Platform-full-stack-3](https://blogs.sap.com/wp-content/uploads/2020/06/From-SAP-Netweaver-to-ABAP-Platform-full-stack-3.jpg)
-
----------
-![From-SAP-Netweaver-to-ABAP-Platform-1](https://blogs.sap.com/wp-content/uploads/2020/06/From-SAP-Netweaver-to-ABAP-Platform-1.jpg)
---------
-![SAP-Netweaver-Kernel-lines-1](https://blogs.sap.com/wp-content/uploads/2020/06/SAP-Netweaver-Kernel-lines-1.jpg)
-
-----------
-![s4_2020_03_1](https://blogs.sap.com/wp-content/uploads/2020/06/s4_2020_03_1.jpg)
 
 ---------------
 -------------------
@@ -1031,8 +1035,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ----------
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
 
--------
-![it_excellence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_excellence.PNG)
 
 -----------
 ----------------
@@ -1068,17 +1070,19 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ![105-ie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/105-ie.PNG)
 
+-------
+![it_excellence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_excellence.PNG)
 
 ------------
+------------------
+
+##### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
 ![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
 
 ------------
 
-##### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
-
 ![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
-
 
 ------------
 ------------------------------------
