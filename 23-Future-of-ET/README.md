@@ -434,10 +434,18 @@ Typical Team Structure
 [Back to top](#contents)
 
 -------
-IT Skills
+Skills
+
+- [Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
+- [Global Trend Report](https://assets.centurylink.com/is/content/centurylink/global-trend-report-4th-industrial-revolution-4IR?Creativeid=d3d10187-3a60-4195-b0bf-d1d0528631c3)
+- [Tech Trends 2020](https://www2.deloitte.com/content/dam/Deloitte/pt/Documents/tech-trends/TechTrends2020.pdf)
+- [The Future of Jobs Report 2020](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)
+- [India  Skills  Report  (2020)](https://wheebox.com/assets/pdf/ISR_Report_2020.pdf)
+- [THE FUTURE OF SKILLSEMPLOYMENT IN 2030](https://futureskills.pearson.com/research/assets/pdfs/technical-report.pdf)
 
 ![Top-IT-Job-Titles-2-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/01085633/Top-IT-Job-Titles-2-Ongig.png)
-
+---------
+![gartner-cio-investment-2020](https://zdnet4.cbsistatic.com/hub/i/2019/10/23/b11dc3c0-243a-42a0-99fa-d1c8f3085969/gartner-cio-investment-2020.png)
 --------------
 -------------
 
@@ -622,6 +630,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------
 ![Gartner](https://www.channelpartnersonline.com/files/2019/12/Gartner.jpg)
 
+----------
+![hype_cycle](https://virtualizationreview.com/articles/2019/10/14/~/media/ECG/VirtualizationReview/Images/2019/10/hype_cycle.asxh)
+
 ------------
 
 Data Center and Cloud Networking
@@ -646,6 +657,9 @@ Data Center and Cloud Networking
 
 
 ![Gartner-Magic-Quadrant-for-Cloud-Management-Platforms-Chart-2020](https://resources.flexera.com/web/eloqua/images/charts/Gartner-Magic-Quadrant-for-Cloud-Management-Platforms-Chart-2020.jpg)
+
+-----------------
+![EgxElZOWsAo0PAk](https://pbs.twimg.com/media/EgxElZOWsAo0PAk.png:large)
 
 [Back to top](#contents)
 
@@ -695,6 +709,9 @@ Meeting Solutions
 ----------
 
 ![Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA](https://images-cdn.newscred.com/Zz1mNGQ1ZTIwZGRkODYxMWVhOWE2ZTBhMTMzNTllZGE5ZA==)
+
+---------
+![5f4c2f86213bda03a2d8eea1](https://specials-images.forbesimg.com/imageserve/5f4c2f86213bda03a2d8eea1/960x0.jpg?fit=scale)
 
 --------
 ![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
@@ -858,6 +875,12 @@ CRM and Customer Experience Implementation Services
 --------
 ![gx-gartner-oracle-cloud-mq-2020](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/gx-gartner-oracle-cloud-mq-2020.jpg)
 
+---------
+![Gartner-sales-hype-cycle](https://www.ledgerinsights.com/wp-content/uploads/2019/10/Gartner-sales-hype-cycle.png)
+
+------------
+![CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814](https://www.l2inc.com/wp-content/uploads/2019/08/CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814.jpg)
+
 ------------
 
 ![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
@@ -973,6 +996,18 @@ IIoT Platform
 
 ![0*ulH3-M1yBVjO1di](https://miro.medium.com/max/945/0*ulH3-M1yBVjO1di-)
 
+----------
+![Infog](https://www.actility.com/wp-content/uploads/2020/09/Infog.png)
+
+---------
+![Gartner-Hype-Cycle-for-the-Internet-of-Things](https://www.researchgate.net/publication/332661892/figure/fig1/AS:751756891938816@1556244218177/Gartner-Hype-Cycle-for-the-Internet-of-Things.jpg)
+
+-----------
+![Screen-Shot-2019-07-23-at-4.06.25-pm-1024x78](https://which-50.com/wp-content/uploads/2019/07/Screen-Shot-2019-07-23-at-4.06.25-pm-1024x786.png)
+
+---------
+![iot-hype-cycle](https://wwwprimekeycom.cdn.triggerfish.cloud/uploads/2020/09/iot-hype-cycle.png?w=1000)
+
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
@@ -1062,8 +1097,27 @@ RPA
 
 ![gartner_mq_2020_cloud_ai_dev_1](https://media.amazonwebservices.com/blog/2020/gartner_mq_2020_cloud_ai_dev_1.png)
 
+------------
+![CTMKT_736691_Hype_Cycle_for_AI_2019](https://27j3751d26uo4lr25484i3t1-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/CTMKT_736691_Hype_Cycle_for_AI_2019.png)
+
 -----------
 ![Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
+
+--------
+![Hype%20Cycle%20for%20Analytics%20and%20Business%20Intelligence%202020](https://www.yseop.com/sites/default/files/inline-images/Hype%20Cycle%20for%20Analytics%20and%20Business%20Intelligence%202020.png)
+--------
+![3988281300](https://st4.ning.com/topology/rest/1.0/file/get/3988281300?profile=original)
+-------------
+![1994751](https://st3.ning.com/topology/rest/1.0/file/get/1994751?profile=RESIZE_1024x1024)
+-----------
+![1*tdr5qwvqUo-LcxTzH1xLtQ](https://miro.medium.com/max/1400/1*tdr5qwvqUo-LcxTzH1xLtQ.png)
+---------
+![DA-BI-HC](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/DA-BI-HC.png)
+-------
+![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019-1](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019-1.jpg)
+
+---------
+![gartnerassettracking](https://www.beaconzone.co.uk/blog/wp-content/uploads/2019/07/gartnerassettracking.jpeg)
 
 -----------
 ----------------
@@ -1078,6 +1132,7 @@ RPA
 - Mobile
 - VR/AR/WebVR
 
+- [The LeadingTrends in Digital Experience – 2020](https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/hub/cio/documents/gartner-cio-conferences-global-leading-trends-in-digital-experience-2020.pdf)
 
 ------------
 ![digitization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/digitization.PNG)
@@ -1138,10 +1193,15 @@ Mobile App Development Platforms
 ![emerging-tech-roadmap-le-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-le-2020-2022-1.jpg)
 
 -------
+![CTMKT_741609_CTMKT_for_Emerging_Tech_Hype_Cycle_LargerText](https://blogs.gartner.com/smarterwithgartner/files/2019/08/CTMKT_741609_CTMKT_for_Emerging_Tech_Hype_Cycle_LargerText-1.png)
+--------------
 ![Efza1u8WsAAlGCx](https://pbs.twimg.com/media/Efza1u8WsAAlGCx.png:large)
 
 ------
 ![how-deepcode-makes-waves-in-2-gartner-2020-hype-cycles](https://miro.medium.com/max/1050/1*7Pqu10HpglwAle4AU-zkOw.png)
+
+-----------
+![Gartner-e1580987955879](https://i0.wp.com/cartesiam.ai/wp-content/uploads/2020/01/Gartner-e1580987955879.png?fit=878%2C688&ssl=1)
 
 ------------
 ------------------
