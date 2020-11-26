@@ -420,10 +420,6 @@
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
-----------
-- [Integrated IT Portfolio Analysis Applications](https://www.gartner.com/en/documents/3975178)
-
-![Gartner_MQ_Integrated_IT](https://softwareag.scene7.com/is/image/softwareagprod/Gartner_MQ_Integrated_IT-Port-Analysis-Apps?wid=1050)
 
 -----------------
 
@@ -660,6 +656,30 @@ Data Center and Cloud Networking
 
 -----------------
 ![EgxElZOWsAo0PAk](https://pbs.twimg.com/media/EgxElZOWsAo0PAk.png:large)
+
+----------
+![hype-cycle-for-cloud-computing](https://lcolumbus.files.wordpress.com/2012/06/hype-cycle-for-cloud-computing.jpg)
+
+--------
+![Hype-Cycle-for-Cloud-Computing-2012](https://cdn.ttgtmedia.com/rms/onlineImages/Hype-Cycle-for-Cloud-Computing-2012.jpg)
+------------
+![I37IBmaqAs16wVWrwwXzkoNrRqpdoWrY5RGnamA1w7xQZY](https://lh3.googleusercontent.com/proxy/I37IBmaqAs16wVWrwwXzkoNrRqpdoWrY5RGnamA1w7xQZYjlT9zPWMbAC0czN9x0S8Zj3qW1or1IaA4jSrJaQpUsVAPDVBkR1Mc0m_8IQybmsQmOWNPNZifPXFI5bXhT_cmIDYvXpaLSDFo94tbMduqKsp6fh3ijPuqNXi7Z)
+
+---------------
+![PUB-35143-Infrastructure-3200x2133](https://www.hpe.com/content/dam/hpe/shared-publishing/storage/resourceLandscape/PUB-35143-Infrastructure-3200x2133.jpg)
+---------------
+![jpg?width=3588&name=Figure1%20(29)](https://info.keyfactor.com/hs-fs/hubfs/Figure1%20(29).jpg?width=3588&name=Figure1%20(29).jpg)
+
+-----------
+![]()
+
+----------
+- [Integrated IT Portfolio Analysis Applications](https://www.gartner.com/en/documents/3975178)
+
+![Gartner_MQ_Integrated_IT](https://softwareag.scene7.com/is/image/softwareagprod/Gartner_MQ_Integrated_IT-Port-Analysis-Apps?wid=1050)
+
+-----------
+![2019-08-28-hc-government-digital-technology](https://whatsthebigdata.files.wordpress.com/2019/09/2019-08-28-hc-government-digital-technology.png)
 
 [Back to top](#contents)
 
@@ -1008,6 +1028,10 @@ IIoT Platform
 ---------
 ![iot-hype-cycle](https://wwwprimekeycom.cdn.triggerfish.cloud/uploads/2020/09/iot-hype-cycle.png?w=1000)
 
+-------
+
+![gartnerassettracking](https://www.beaconzone.co.uk/blog/wp-content/uploads/2019/07/gartnerassettracking.jpeg)
+
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
@@ -1113,11 +1137,7 @@ RPA
 ![1*tdr5qwvqUo-LcxTzH1xLtQ](https://miro.medium.com/max/1400/1*tdr5qwvqUo-LcxTzH1xLtQ.png)
 ---------
 ![DA-BI-HC](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/DA-BI-HC.png)
--------
-![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019-1](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/12/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019-1.jpg)
 
----------
-![gartnerassettracking](https://www.beaconzone.co.uk/blog/wp-content/uploads/2019/07/gartnerassettracking.jpeg)
 
 -----------
 ----------------
