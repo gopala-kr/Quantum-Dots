@@ -1064,6 +1064,12 @@ IIoT Platform
 ----------
 ![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
 
+-------------
+![Critical_Capabilities_1_2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_1_2.jpg)
+
+---------------
+![]()
+
 ---------
 ![Gartner-files-and-objects-MQ-Oct-201](https://blocksandfiles.com/wp-content/uploads/2019/10/Gartner-files-and-objects-MQ-Oct-2019.jpg)
 
