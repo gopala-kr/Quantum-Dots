@@ -4,30 +4,30 @@
 -----------------------
 
 
-- Earth Organizations
-  - Transparency
-- Earth Industries(#industries-and-economic-sectors)
+- [Earth Industrial Evolution](#earth-industrial-evolution)
+- [Earth Industries](#industries-and-economic-sectors)
 - Earth Workforce 
 - Evolution from Medieval
 - Industry 4.0
 - Digitalization of Earth Organization
-  - Enterprise Architecture Modeling(#enterprise-architecture-modeling)
-  - Organization Structure Modeling(#organization-structure-modeling)
-  - IT Infrastructure Modeling(#it-infrastructure-modeling)
-  - Digital Workplace Design(#digital-workplace-design)
-  - Database Technology(#database-technolog)
-  - Enterprise Resource Planning - Digital Core(#enterprise-resource-planning---digital-core)
-  - Enterprise Data and Application Integration(#enterprise-data-and-application-integration)
+  - [Evolution of Information Technologies](#evolution-of-information-technologies)
+  - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
+  - [Organization Structure Modeling](#organization-structure-modeling)
+  - [IT Infrastructure Modeling](#it-infrastructure-modeling)
+  - [Digital Workplace Design](#digital-workplace-design)
+  - [Database Technology](#database-technolog)
+  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning---digital-core)
+  - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
     - Integration Platform as a service(iPaaS)
       - iPaaS Leading Vendors
      - Micro Service Architecture
      - Serverless Architecture
-   - Enterprise Data Warehouse(#enterprise-data-warehouse)
-   - IoT Platform Integration with ERP(#iot-platform-integration-with-erp)
-   - AI in Enterprise Process(#ai-in-enterprise-process)
-   - Experience Design(#experience-design)
+   - [Enterprise Data Warehouse](#enterprise-data-warehouse)
+   - [IoT Platform Integration with ERP](#iot-platform-integration-with-erp)
+   - [AI in Enterprise Process](#ai-in-enterprise-process)
+   - [Experience Design](#experience-design)
  
  ##### [Contents](#contents)
   
@@ -1055,6 +1055,7 @@ IIoT Platform
 [Back to top](#contents)
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- [Cloud Data Warehouse, - Buyers Guide](https://itcs-data.s3.us-west-2.amazonaws.com/pc_docs/2105/docs/Cloud_Data_Warehouse_Report_from_IT_Central_Station_2020-11-07_1bpp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ3WCTZ6BJMFFX6EQ%2F20201127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201127T184848Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=862987e9be72dbe8545364f96709495cec2ee79107b3060ffab77562f537be33)
 
 ----------
 ![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
@@ -1065,6 +1066,115 @@ IIoT Platform
 ---------------
 ![Critical_Capabilities_3_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_3_4.jpg)
 
+-----------------
+ 
+ 
+ <table cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tbody>
+<tr>
+<td style="width: 181.0px; height: 14.0px; background-color: #b0b3b2; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px;"></p>
+</td>
+<td style="width: 113.0px; height: 14.0px; background-color: #b0b3b2; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Features</strong></span></p>
+</td>
+<td style="width: 147.0px; height: 14.0px; background-color: #b0b3b2; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Key Differentiator</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 71.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Amazon Redshift</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">High-performance and massively parallel processing capabilities.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Network isolation security.</span></p>
+</td>
+<td style="width: 147.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Direct integration with S3 cloud storage.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 35.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Google BigQuery</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 35.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Part of Google Cloud.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Full SQL query support.</span></p>
+</td>
+<td style="width: 147.0px; height: 35.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Integration with BigQuery ML for machine learning workloads.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 71.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>IBM Db2 Warehouse</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Includes an in-memory columnar database.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Cloud deployment options include both IBM Cloud as well as AWS.</span></p>
+</td>
+<td style="width: 147.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Integrated support for Apache Spark data analytics.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 59.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Microsoft Azure SQL Data Warehouse</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 59.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Data masking security capabilities.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Integrated with broader Azure cloud services.</span></p>
+</td>
+<td style="width: 147.0px; height: 59.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Inclusion of Microsoft SQL Server support.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 95.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Oracle Autonomous Data Warehouse</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 95.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Based on the latest Oracle Autonomous Database release.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Migration support for other databases and cloud data warehouse services.</span></p>
+</td>
+<td style="width: 147.0px; height: 95.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Delivered by purpose-built Oracle Exadata hardware.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 59.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>SAP Data Warehouse Cloud</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 59.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Pre-built business templates.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Integration with existing SAP apps and services.</span></p>
+</td>
+<td style="width: 147.0px; height: 59.0px; background-color: #ebebeb; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Based on SAP HANA database.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 181.0px; height: 71.0px; background-color: #dcdedd; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;"><strong>Snowflake</strong></span></p>
+</td>
+<td style="width: 113.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">SQL based queries for analytics.</span></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px;"></p>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Support for JSON and XML as well as structured data.</span></p>
+</td>
+<td style="width: 147.0px; height: 71.0px; border-style: solid; border-width: 1.0px; border-color: #000000 #000000 #000000 #000000; padding: 4.0px 4.0px 4.0px 4.0px;" valign="top">
+<p style="margin: 0.0px 0.0px 0.0px 0.0px;"><span style="font-style: normal; font-variant: common-ligatures; font-weight: normal; font-stretch: normal; font-size: small; line-height: normal; font-family: Helvetica Neue; font-size-adjust: none; font-optical-sizing: auto; font-language-override: normal; font-feature-settings: normal; font-variation-settings: normal; font-kerning: none; color: #000000;">Multi-cloud deployment options.</span></p>
+</td>
+</tr>
+</tbody>
+</table>    
 ---------
 ![Gartner-files-and-objects-MQ-Oct-201](https://blocksandfiles.com/wp-content/uploads/2019/10/Gartner-files-and-objects-MQ-Oct-2019.jpg)
 
