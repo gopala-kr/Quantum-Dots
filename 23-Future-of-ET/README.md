@@ -3,49 +3,39 @@
 
 -----------------------
 
- ##### [Contents](#contents)
- 
+
 - Earth Organizations
   - Transparency
-- Earth Industries
+- Earth Industries(#industries-and-economic-sectors)
 - Earth Workforce 
 - Evolution from Medieval
 - Industry 4.0
-- Business + Technology
 - Digitalization of Earth Organization
-  - Enterprise Architecture(EA)
-  - Organization Structures
-  - Enterprise Technology(ET)
-  - IT Infrastructure
-    - On-Premise(Data Centers)
-    - Cloud 
-      - Private
-      - Public
-      - Multicloud
-    - Hybrid
-    - Leading Vendors
-  - Database Technology
-    - Types
-    - Vendors
-  - Enterprise Resource Planning(ERP)
-    - Implementation
-    - Maintenance
-    - ERP as SaaS
-  - Extended ERP 
-  - Enterprise Integration
+  - Enterprise Architecture Modeling(#enterprise-architecture-modeling)
+  - Organization Structure Modeling(#organization-structure-modeling)
+  - IT Infrastructure Modeling(#it-infrastructure-modeling)
+  - Digital Workplace Design(#digital-workplace-design)
+  - Database Technology(#database-technolog)
+  - Enterprise Resource Planning - Digital Core(#enterprise-resource-planning---digital-core)
+  - Enterprise Data and Application Integration(#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
     - Integration Platform as a service(iPaaS)
-      - Past Present & Future of iPaaS
-      - Types of Integration
-      - Integration Protocols
       - iPaaS Leading Vendors
      - Micro Service Architecture
      - Serverless Architecture
-     
+   - Enterprise Data Warehouse(#enterprise-data-warehouse)
+   - IoT Platform Integration with ERP(#iot-platform-integration-with-erp)
+   - AI in Enterprise Process(#ai-in-enterprise-process)
+   - Experience Design(#experience-design)
+ 
+ ##### [Contents](#contents)
+  
 ----------------------
 -------------------
 #### Earth Industrial Evolution
+
+[Back to top](#contents)
 
 - [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
 - [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
@@ -160,7 +150,9 @@
 ----------------
 ------------
 
-#### Industries & Economic Sectors
+#### Industries and Economic Sectors
+
+[Back to top](#contents)
 
 - [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
 - [Sector / Industry index](https://www.unclestock.com/documentation/industries.html)
@@ -176,7 +168,7 @@
 - [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
 - [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
-[Back to top](#contents)
+
 
 -----------------
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
@@ -204,6 +196,8 @@
 
 #### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
 
+[Back to top](#contents)
+
 - [Technological Progress](https://ourworldindata.org/technological-progress)
 - [Technology Adoption](https://ourworldindata.org/technology-adoption)
 - [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
@@ -229,6 +223,8 @@
 ------------
 
 #### Evolution of Information Technologies
+
+[Back to top](#contents)
 
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------
@@ -264,7 +260,7 @@
 -----------------------------
 -------------------------------
 
-### Enterprise Architecture Modeling
+#### Enterprise Architecture Modeling
 
 [Back to top](#contents)
 
@@ -361,7 +357,7 @@
 -----------
 --------
 
-### Organizational Structure Design
+#### Organizational Structure Design
 
 [Back to top](#contents)
 
@@ -445,7 +441,7 @@ Skills
 --------------
 -------------
 
-### IT Infrastructure Modeling
+#### IT Infrastructure Modeling
 
 [Back to top](#contents)
 
@@ -670,9 +666,6 @@ Data Center and Cloud Networking
 ---------------
 ![jpg?width=3588&name=Figure1%20(29)](https://info.keyfactor.com/hs-fs/hubfs/Figure1%20(29).jpg?width=3588&name=Figure1%20(29).jpg)
 
------------
-![]()
-
 ----------
 - [Integrated IT Portfolio Analysis Applications](https://www.gartner.com/en/documents/3975178)
 
@@ -687,7 +680,9 @@ Data Center and Cloud Networking
 --------------
 ------------
 
-### Digital Workplace Services
+#### Digital Workplace Services
+
+[Back to top](#contents)
 
 - [2020 Predictions for the Future of Work](https://www.constellationr.com/blog-news/2020-predictions-future-work)
 - [The future of work in technology](https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html)
@@ -771,7 +766,7 @@ Low-Code Application Platforms
 
 -----------
 
-### IT4IT/DevOps Landscape
+#### IT4IT/DevOps Landscape
 
 [Back to top](#contents)
 
@@ -781,7 +776,7 @@ Low-Code Application Platforms
 ---------------------
 -----------
 
-### Enterprise Resource Planning (The Enterprise Digital Core)
+#### Enterprise Resource Planning (The Enterprise Digital Core)
 
 [Back to top](#contents)
 
@@ -939,7 +934,7 @@ CRM and Customer Experience Implementation Services
 ---------
 
 
-### Master Data Management
+#### Master Data Management
 
 [Back to top](#contents)
 
@@ -1055,7 +1050,7 @@ IIoT Platform
 ---------------------------
 -----------------------------
 
-#### Enterprise Data Warehouse/Store(EDW/EDS)
+#### Enterprise Data Warehouse
 
 [Back to top](#contents)
 
