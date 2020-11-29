@@ -19,7 +19,7 @@
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
   - [Digital Workplace Services](#digital-workplace-services)
   - [Database Technology](#database-technology)
-  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning-digital-core)
+  - [Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
@@ -787,12 +787,12 @@ Low-Code Application Platforms
 ---------------------
 -----------
 
-#### Enterprise Resource Planning (The Enterprise Digital Core)
+#### Enterprise Resource Planning - The Digital Core of an Organization
 
 [Back to top](#contents)
 
 
-- Why ERP?
+- Why ERP? 
 - Short history, 40+ years in evolution
 - Enterprise Information Architecture
 - Enterprise Database Technology
@@ -840,11 +840,21 @@ Typical Business Process
 
 -------------
 
-Enterprise Processes
+Enterprise Functions and Processes
 
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
+----------
+
+Enterprise Softwares
+
+![What_is_an_ES](https://upload.wikimedia.org/wikipedia/commons/2/29/What_is_an_ES.jpg)
+
 ------------
+
+![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
+
+--------------
 ERP Today
 
 ![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
@@ -856,8 +866,13 @@ ERP Today
 
 [Back to top](#contents)
 
+- [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
 
 ----------
+![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
+
+-------------
+
 CRM Customer Engagement Center
 
 ![gartner-crm-cec-2020-final](https://www.pega.com/sites/default/files/styles/2560/public/media/images/2020-06/gartner-crm-cec-2020-final.jpg?itok=cIxnJhT_)
