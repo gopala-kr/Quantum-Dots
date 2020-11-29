@@ -32,6 +32,7 @@
      - Practical DataOps
    - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
    - [AI in Enterprise Processes](#ai-in-enterprise-process)
+     - Practical MLOps - ML pipeline using CI/CD
    - [Experience Design](#experience-design)
    - [Enterprise Tech Landscape](#enterprise-tech-landscape)
    - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
@@ -1337,6 +1338,26 @@ RPA
 ![1*tdr5qwvqUo-LcxTzH1xLtQ](https://miro.medium.com/max/1400/1*tdr5qwvqUo-LcxTzH1xLtQ.png)
 ---------
 ![DA-BI-HC](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/DA-BI-HC.png)
+
+-------------
+
+Practical MLOps
+
+
+
+- [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
+- [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+- [The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/?sh=4e0304184698)
+- [MLOpswith Azure Machine Learning](https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf)
+
+----------
+![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
+---------
+ML pipeline using CI/CD
+
+![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
+--------------
+![I209WBEMsBSEA](https://miro.medium.com/max/1500/1*hlukfeyP-I209WBEMsBSEA.png)
 
 
 -----------
