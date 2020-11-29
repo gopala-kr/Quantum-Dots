@@ -3,20 +3,21 @@
 
 -----------------------
 
+ ##### [Contents](#contents)
 
 - [Earth Industrial Evolution](#earth-industrial-evolution)
 - [Earth Industries](#industries-and-economic-sectors)
-- Earth Workforce 
-- Evolution from Medieval
-- Industry 4.0
+  - Earth Workforce 
+  - Evolution from Medieval
+  - Industry 4.0
 - Digitalization of Earth Organization
   - [Evolution of Information Technologies](#evolution-of-information-technologies)
   - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
   - [Organization Structure Modeling](#organization-structure-modeling)
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
-  - [Digital Workplace Design](#digital-workplace-design)
-  - [Database Technology](#database-technolog)
-  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning---digital-core)
+  - [Digital Workplace Services](#digital-workplace-services)
+  - [Database Technology](#database-technology)
+  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning-digital-core)
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
@@ -24,12 +25,17 @@
       - iPaaS Leading Vendors
      - Micro Service Architecture
      - Serverless Architecture
+     - API Management
    - [Enterprise Data Warehouse](#enterprise-data-warehouse)
+     - Practical DataOps
    - [IoT Platform Integration with ERP](#iot-platform-integration-with-erp)
    - [AI in Enterprise Process](#ai-in-enterprise-process)
    - [Experience Design](#experience-design)
+   - [21.2nd Century Enterprise Tech Landscape](#21.2nd-century-enterprise-tech-landscape)
+   - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
  
- ##### [Contents](#contents)
+
+[Back to top](#contents)
   
 ----------------------
 -------------------
@@ -357,7 +363,7 @@
 -----------
 --------
 
-#### Organizational Structure Design
+#### Organization Structure Modeling
 
 [Back to top](#contents)
 
@@ -1210,6 +1216,7 @@ IIoT Platform
 </tr>
 </tbody>
 </table>    
+
 ---------
 ----------
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
@@ -1218,7 +1225,12 @@ IIoT Platform
 ---------
 ![Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382.jpg?resize=1536%2C829&ssl=1)
 
+------
+![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
+
 ------------
+-----------------
+
 #### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
 
 ![Dw8O5RxYQKCuv8yu6wGVgQ](https://miro.medium.com/max/3256/1*Dw8O5RxYQKCuv8yu6wGVgQ.jpeg)
@@ -1294,8 +1306,7 @@ RPA
 -----------
 ![Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
 
---------
-![Hype%20Cycle%20for%20Analytics%20and%20Business%20Intelligence%202020](https://www.yseop.com/sites/default/files/inline-images/Hype%20Cycle%20for%20Analytics%20and%20Business%20Intelligence%202020.png)
+
 --------
 ![3988281300](https://st4.ning.com/topology/rest/1.0/file/get/3988281300?profile=original)
 -------------
@@ -1318,6 +1329,9 @@ RPA
   - Conversational
 - Mobile
 - VR/AR/WebVR
+
+
+-----------
 
 - [The LeadingTrends in Digital Experience – 2020](https://emtemp.gcom.cloud/ngw/eventassets/en/conferences/hub/cio/documents/gartner-cio-conferences-global-leading-trends-in-digital-experience-2020.pdf)
 
