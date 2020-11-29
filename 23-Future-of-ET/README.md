@@ -1370,7 +1370,12 @@ ML pipeline using CI/CD
 ![I209WBEMsBSEA](https://miro.medium.com/max/1500/1*hlukfeyP-I209WBEMsBSEA.png)
 ---------
 ![ml-ops-python](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png)
-
+--------
+![mlops-process-flow](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/media/mlops-process-flow.png)
+------
+![MEoUfeWtl3VmgU9Dafei_w](https://miro.medium.com/max/3948/1*MEoUfeWtl3VmgU9Dafei_w.jpeg)
+--------
+![mlops_diagram_by_rolf](https://www.hasaltaiar.com.au/wp-content/uploads/2019/07/mlops_diagram_by_rolf.png)
 -----------
 ----------------
 
