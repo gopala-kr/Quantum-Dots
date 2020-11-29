@@ -673,6 +673,8 @@ Data Center and Cloud Networking
 
 -----------
 ![2019-08-28-hc-government-digital-technology](https://whatsthebigdata.files.wordpress.com/2019/09/2019-08-28-hc-government-digital-technology.png)
+--------------------------------------
+![Digital-Enterprise-Evolution_ReneBuest_April-2018](https://analystpov.com/wp-content/uploads/2018/04/Digital-Enterprise-Evolution_ReneBuest_April-2018.png)
 
 [Back to top](#contents)
 
@@ -816,9 +818,11 @@ Low-Code Application Platforms
 - ERP Software Leading Vendors Portfolios
 - Industry Specific ERP Softwares
 
---------------------------------------
 
-#### Typical ERP Process
+
+----------------------
+
+#### Typical Business Process
 
 [Back to top](#contents)
 
@@ -924,13 +928,20 @@ CRM and Customer Experience Implementation Services
 
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 
+--------
+![Dxuh0yBVsAAoiFZ](https://pbs.twimg.com/media/Dxuh0yBVsAAoiFZ.jpg:large)
+---------
+![technologies-and-some-corresponding-database](https://www.researchgate.net/profile/Ali_Davoudian/publication/324640550/figure/fig1/AS:679518423494657@1539021225469/The-continuous-development-of-major-database-technologies-and-some-corresponding-database.ppm)
 -------
-
+![variety-of-existing-database-systems-18](https://www.researchgate.net/profile/Nikos_Korfiatis/publication/303562879/figure/fig2/AS:388081703243778@1469537296695/Landscape-and-categorization-of-the-high-variety-of-existing-database-systems-18.png)
+-----------
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
 ----------
 
 ![Gartner_Magic_Quadrant](https://www.intersystems.com/wp-content/uploads/2019/12/Gartner_Magic_Quadrant-2019-700px.png)
 
+--------
+![Technology-Landscape-1100_778](https://www.data-vault.co.uk/wp-content/uploads/2019/01/Technology-Landscape-1100_778.jpg)
 ---------
 
 
@@ -1054,18 +1065,47 @@ IIoT Platform
 
 [Back to top](#contents)
 
+
+
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Cloud Data Warehouse, - Buyers Guide](https://itcs-data.s3.us-west-2.amazonaws.com/pc_docs/2105/docs/Cloud_Data_Warehouse_Report_from_IT_Central_Station_2020-11-07_1bpp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ3WCTZ6BJMFFX6EQ%2F20201127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201127T184848Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=862987e9be72dbe8545364f96709495cec2ee79107b3060ffab77562f537be33)
+- [etting Ahead of Snowflake's Rumored IPO](https://etr.plus/articles/snowflake-rumored-ipo)
+----------
+![chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem](https://image.slidesharecdn.com/iw16ipa10805242016-160530010733/95/chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem-32-1024.jpg?cb=1464776457)
+-----------
+![the-shitft-in-data-platforms-2-1024x576](https://intermix-media.intermix.io/wp-content/uploads/20190117201834/the-shitft-in-data-platforms-2-1024x576.png)
+-----------
+![CkTiM7CXIAAt](https://pbs.twimg.com/media/CkTiM7CXIAAt-K8.jpg:large)
 
+---------
+![RackMultipart20190211-31663-ifno](https://s3.amazonaws.com/eckerson/assets/files/000/000/321/original/RackMultipart20190211-31663-ifnog5.png?1549868717)
+------------
+![datalakehouse](https://databricks.com/wp-content/uploads/2020/01/datalakehouse.jpg)
+-----------
+![datawarehouse_two](https://hhhypergrowth.com/content/images/2020/09/datawarehouse_two-1.png)
 ----------
 ![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
 
+---------
+![snowflake_datacloud_users](https://hhhypergrowth.com/content/images/2020/09/snowflake_datacloud_users.png)
 -------------
+![Breaking-Analysis_-XX-Questions-About-Snowflakes-IPO-10](https://d2axcg2cspgbkk.cloudfront.net/wp-content/uploads/Breaking-Analysis_-XX-Questions-About-Snowflakes-IPO-10.jpg)
+------------
+![image1](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/image1-2.png)
+-------------
+![loiod2dc6dff023847d595df745ef17a2ede_LowRes](https://blogs.sap.com/wp-content/uploads/2020/01/loiod2dc6dff023847d595df745ef17a2ede_LowRes.png)
+-----------
+![Connections-Diagram-FULL-2020-06-041-Read-Only](https://www.sapanalytics.cloud/wp-content/uploads/2020/06/Connections-Diagram-FULL-2020-06-041-Read-Only.jpg)
+-----------
+![GigaOm2020-Radar-Data-Warehouse-1024x769](https://www.vertica.com/wp-content/uploads/2020/04/GigaOm2020-Radar-Data-Warehouse-1024x769.png)
+-----------
 ![Critical_Capabilities_1_2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_1_2.jpg)
 
 ---------------
 ![Critical_Capabilities_3_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_3_4.jpg)
 
+----------
+![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
 -----------------
  
  
@@ -1176,8 +1216,12 @@ IIoT Platform
 </tbody>
 </table>    
 ---------
-![Gartner-files-and-objects-MQ-Oct-201](https://blocksandfiles.com/wp-content/uploads/2019/10/Gartner-files-and-objects-MQ-Oct-2019.jpg)
+![3Picture1](https://storage.googleapis.com/stateless-gigaom-com/2019/01/3Picture1.png)
+-------------
+![Gartner-files-and-objects-MQ-Oct-201](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/G2Crowd_BI-vendors.png)
 
+----------
+![CiSff9LUYAAAuQq](https://pbs.twimg.com/media/CiSff9LUYAAAuQq.jpg)
 --------------
 ----------------
 
