@@ -1256,6 +1256,8 @@ IIoT Platform
 
 #### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
 
+- [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
+
 ![Dw8O5RxYQKCuv8yu6wGVgQ](https://miro.medium.com/max/3256/1*Dw8O5RxYQKCuv8yu6wGVgQ.jpeg)
 ---------
 ![476438_1_En_9_Fig5_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-5104-1_9/MediaObjects/476438_1_En_9_Fig5_HTML.jpg)
@@ -1344,21 +1346,30 @@ RPA
 Practical MLOps
 
 
-
+- [Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+- [Feature Stores for Machine Learning](https://medium.com/data-for-ai)
+- [Feature Store for ML](https://www.featurestore.org/)
+- [awslabs/amazon-sagemaker-mlops-workshop](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 - [ML Ops: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/?sh=4e0304184698)
 - [MLOpswith Azure Machine Learning](https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf)
 
 ----------
+
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
 ---------
+
 ML pipeline using CI/CD
 
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
 --------------
+![MLOps_Train_Deploy_TestModel](https://github.com/awslabs/amazon-sagemaker-mlops-workshop/blob/master/imgs/MLOps_Train_Deploy_TestModel.jpg)
+--------------
 ![I209WBEMsBSEA](https://miro.medium.com/max/1500/1*hlukfeyP-I209WBEMsBSEA.png)
-
+---------
+![ml-ops-python](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png)
 
 -----------
 ----------------
