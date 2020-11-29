@@ -1355,6 +1355,8 @@ Practical MLOps
 - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/?sh=4e0304184698)
 - [MLOpswith Azure Machine Learning](https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf)
+- [Data Intelligence as an MLOps platform](https://blogs.sap.com/2020/02/28/sap-data-intelligence-as-an-mlops-platform/)
+- [ML-Ops how to bring your data science to production](https://www2.slideshare.net/zobeide/mlops-how-to-bring-your-data-science-to-production)
 
 ----------
 
@@ -1376,6 +1378,9 @@ ML pipeline using CI/CD
 ![MEoUfeWtl3VmgU9Dafei_w](https://miro.medium.com/max/3948/1*MEoUfeWtl3VmgU9Dafei_w.jpeg)
 --------
 ![mlops_diagram_by_rolf](https://www.hasaltaiar.com.au/wp-content/uploads/2019/07/mlops_diagram_by_rolf.png)
+
+---------
+![qXHtEhaFKoB83xtE](https://miro.medium.com/max/2048/0*qXHtEhaFKoB83xtE.png)
 -----------
 ----------------
 
