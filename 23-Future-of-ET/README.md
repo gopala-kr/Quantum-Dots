@@ -17,7 +17,7 @@
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
   - [Digital Workplace Services](#digital-workplace-services)
   - [Database Technology](#database-technology)
-  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning-digital-core)
+  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning--digital-core)
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
@@ -28,10 +28,10 @@
      - API Management
    - [Enterprise Data Warehouse](#enterprise-data-warehouse)
      - Practical DataOps
-   - [IoT Platform Integration with ERP](#iot-platform-integration-with-erp)
-   - [AI in Enterprise Process](#ai-in-enterprise-process)
+   - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
+   - [AI in Enterprise Processes](#ai-in-enterprise-process)
    - [Experience Design](#experience-design)
-   - [21.2nd Century Enterprise Tech Landscape](#21.2nd-century-enterprise-tech-landscape)
+   - [Enterprise Tech Landscape](#enterprise-tech-landscape)
    - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
  
 
@@ -828,7 +828,7 @@ Low-Code Application Platforms
 
 ----------------------
 
-#### Typical Business Process
+Typical Business Process
 
 [Back to top](#contents)
 
@@ -836,6 +836,11 @@ Low-Code Application Platforms
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
 -------------
+
+Enterprise Processes
+
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
 ------------
 ERP Today
 
@@ -844,7 +849,7 @@ ERP Today
 ---------------
 -----------------------------------
 
-### ERP Software Providers Landscape
+#### ERP Software Providers Landscape
 
 [Back to top](#contents)
 
@@ -1001,8 +1006,7 @@ CRM and Customer Experience Implementation Services
 ![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
 --------
 ![blog-200820-gartner-mqdi-2020](https://www.talend.com/wp-content/uploads/2020/08/blog-200820-gartner-mqdi-2020.jpg)
-----------
-![EeNKERBiw90cqWd10oNkKNQ50](https://lh3.googleusercontent.com/proxy/_9I7ErpnnPfbgLZwsGC5YvzqwauuORUU7j4ZtsMbYofxk632gDYVLNGOZufFIgwIDlJWWSTVGtZG7xQ_UB03pqBDzVdNAOoNgGu7_xPuuI7JBZwF4iRVEXy4zJUPXQuvRROgDURMH1uuhsH_W4_M7jA1knwq0TZLtW0Q4Kh_HIsgvndK5tMa-EeNKERBiw90cqWd10oNkKNQ50-oo7iqB_eRBJ2FqtAk6fQc)
+
 ------------
 ![oracle-developer-meetup-march-2018-12-1024](https://image.slidesharecdn.com/meetupmar18-180306112854/95/oracle-developer-meetup-march-2018-12-1024.jpg?cb=1520335870)
 ----------------
@@ -1370,7 +1374,7 @@ Mobile App Development Platforms
 -------------
 ---------------
 
-#### 21.2nd Century Enterprise Tech Landscape
+#### Enterprise Tech Landscape
 
 [Back to top](#contents)
 
