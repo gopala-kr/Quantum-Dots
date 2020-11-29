@@ -968,11 +968,12 @@ CRM and Customer Experience Implementation Services
 -------------
 --------------
 
-#### Enterprise Data & Application Integration 
+#### Enterprise Data and Application Integration 
 
 [Back to top](#contents)
 
-
+- Data Engineering
+- Data Pipelines
 
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
@@ -989,6 +990,7 @@ CRM and Customer Experience Implementation Services
 - [A Survey of Modern Application Integration Architectures](https://dzone.com/articles/a-survey-of-modern-application-integration-archite)
 - [tracxn.com/d/reports-bm/iPaaS-Market-Report](https://tracxn.com/d/reports-bm/iPaaS-Market-Report)
 - [Are Your APIs Intelligent Enough for Digital Transformation?](https://www.programmableweb.com/news/are-your-apis-intelligent-enough-digital-transformation/analysis/2020/03/24)
+- [The 2020 API Industry Landscape](https://www.apiscene.io/api-business-models/the-2020-api-industry-landscape/)
 
 ![ipaas-magic-quadrant-2020](https://www.informatica.com/content/dam/informatica-com/en/image/misc/ipaas-magic-quadrant-2020.jpg)
 --------
@@ -996,6 +998,8 @@ CRM and Customer Experience Implementation Services
 ----------
 ![EeNKERBiw90cqWd10oNkKNQ50](https://lh3.googleusercontent.com/proxy/_9I7ErpnnPfbgLZwsGC5YvzqwauuORUU7j4ZtsMbYofxk632gDYVLNGOZufFIgwIDlJWWSTVGtZG7xQ_UB03pqBDzVdNAOoNgGu7_xPuuI7JBZwF4iRVEXy4zJUPXQuvRROgDURMH1uuhsH_W4_M7jA1knwq0TZLtW0Q4Kh_HIsgvndK5tMa-EeNKERBiw90cqWd10oNkKNQ50-oo7iqB_eRBJ2FqtAk6fQc)
 ------------
+![oracle-developer-meetup-march-2018-12-1024](https://image.slidesharecdn.com/meetupmar18-180306112854/95/oracle-developer-meetup-march-2018-12-1024.jpg?cb=1520335870)
+----------------
 
 ![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
 
@@ -1038,6 +1042,7 @@ IIoT Platform
 
 ![gartnerassettracking](https://www.beaconzone.co.uk/blog/wp-content/uploads/2019/07/gartnerassettracking.jpeg)
 
+
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
@@ -1069,32 +1074,24 @@ IIoT Platform
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Cloud Data Warehouse, - Buyers Guide](https://itcs-data.s3.us-west-2.amazonaws.com/pc_docs/2105/docs/Cloud_Data_Warehouse_Report_from_IT_Central_Station_2020-11-07_1bpp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ3WCTZ6BJMFFX6EQ%2F20201127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201127T184848Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=862987e9be72dbe8545364f96709495cec2ee79107b3060ffab77562f537be33)
-- [etting Ahead of Snowflake's Rumored IPO](https://etr.plus/articles/snowflake-rumored-ipo)
-----------
-![chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem](https://image.slidesharecdn.com/iw16ipa10805242016-160530010733/95/chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem-32-1024.jpg?cb=1464776457)
------------
-![the-shitft-in-data-platforms-2-1024x576](https://intermix-media.intermix.io/wp-content/uploads/20190117201834/the-shitft-in-data-platforms-2-1024x576.png)
------------
-![CkTiM7CXIAAt](https://pbs.twimg.com/media/CkTiM7CXIAAt-K8.jpg:large)
+- [Chief Data Architect or Chief Data Officer: Connecting the Enterprise Data Ecosystem](https://www2.slideshare.net/cmilroy/chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem)
+- [Platform Evolution](https://www.sciencedirect.com/topics/computer-science/platform-evolution)
+- [Disciplined Agile Data Warehousing](http://agiledata.org/essays/disciplinedAgileDW.html)
 
 ---------
 ![RackMultipart20190211-31663-ifno](https://s3.amazonaws.com/eckerson/assets/files/000/000/321/original/RackMultipart20190211-31663-ifnog5.png?1549868717)
-------------
-![datalakehouse](https://databricks.com/wp-content/uploads/2020/01/datalakehouse.jpg)
------------
-![datawarehouse_two](https://hhhypergrowth.com/content/images/2020/09/datawarehouse_two-1.png)
+
+----------
+![chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem](https://image.slidesharecdn.com/iw16ipa10805242016-160530010733/95/chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem-29-1024.jpg?cb=1464776457)
+
 ----------
 ![landscape_complexity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/landscape_complexity.PNG)
-
+-----------
+![datawarehouse_two](https://hhhypergrowth.com/content/images/2020/09/datawarehouse_two-1.png)
 ---------
 ![snowflake_datacloud_users](https://hhhypergrowth.com/content/images/2020/09/snowflake_datacloud_users.png)
--------------
-![Breaking-Analysis_-XX-Questions-About-Snowflakes-IPO-10](https://d2axcg2cspgbkk.cloudfront.net/wp-content/uploads/Breaking-Analysis_-XX-Questions-About-Snowflakes-IPO-10.jpg)
-------------
-![image1](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/image1-2.png)
--------------
-![loiod2dc6dff023847d595df745ef17a2ede_LowRes](https://blogs.sap.com/wp-content/uploads/2020/01/loiod2dc6dff023847d595df745ef17a2ede_LowRes.png)
------------
+
+-------------------
 ![Connections-Diagram-FULL-2020-06-041-Read-Only](https://www.sapanalytics.cloud/wp-content/uploads/2020/06/Connections-Diagram-FULL-2020-06-041-Read-Only.jpg)
 -----------
 ![GigaOm2020-Radar-Data-Warehouse-1024x769](https://www.vertica.com/wp-content/uploads/2020/04/GigaOm2020-Radar-Data-Warehouse-1024x769.png)
@@ -1104,8 +1101,6 @@ IIoT Platform
 ---------------
 ![Critical_Capabilities_3_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_3_4.jpg)
 
-----------
-![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
 -----------------
  
  
@@ -1216,12 +1211,25 @@ IIoT Platform
 </tbody>
 </table>    
 ---------
-![3Picture1](https://storage.googleapis.com/stateless-gigaom-com/2019/01/3Picture1.png)
--------------
-![Gartner-files-and-objects-MQ-Oct-201](https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/G2Crowd_BI-vendors.png)
-
 ----------
-![CiSff9LUYAAAuQq](https://pbs.twimg.com/media/CiSff9LUYAAAuQq.jpg)
+![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
+----------
+![Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409.jpg?resize=1536%2C1193&ssl=1)
+---------
+![Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382.jpg?resize=1536%2C829&ssl=1)
+
+------------
+#### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
+
+![Dw8O5RxYQKCuv8yu6wGVgQ](https://miro.medium.com/max/3256/1*Dw8O5RxYQKCuv8yu6wGVgQ.jpeg)
+---------
+![476438_1_En_9_Fig5_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-5104-1_9/MediaObjects/476438_1_En_9_Fig5_HTML.jpg)
+--------
+![476438_1_En_9_Fig4_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-5104-1_9/MediaObjects/476438_1_En_9_Fig4_HTML.jpg)
+--------
+![ZyWyQkyydAavk1jw_7Yddg](https://miro.medium.com/max/1500/1*ZyWyQkyydAavk1jw_7Yddg.png)
+-------
+![lzAnmo3t3rHHA37VacYEeA](https://miro.medium.com/max/1050/1*lzAnmo3t3rHHA37VacYEeA.png)
 --------------
 ----------------
 
@@ -1230,12 +1238,14 @@ IIoT Platform
 [Back to top](#contents)
 
 - Process Automation using RPA
-- Designing Data Pipelines
 - BI and Reporting (Data Visualization)
 - Analytics (Descriptive, Diagnostic, Predictive, Prescritive)
 - Datascience
 - Machine Learning
 - Leading Enterprise RPA/DS/ML Sofware Vendors
+
+-------------
+- [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
 
 --------------
 
@@ -1254,6 +1264,8 @@ IIoT Platform
 --------
 
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
+-----
+![p2db_ncnO9bN3kCfbJV4pw](https://miro.medium.com/max/1050/1*p2db_ncnO9bN3kCfbJV4pw.png)
 -------------
 
 RPA
