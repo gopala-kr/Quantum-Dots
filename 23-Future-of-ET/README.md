@@ -10,6 +10,8 @@
   - Earth Workforce 
   - Evolution from Medieval
   - Industry 4.0
+- [Technology Progress and Evolution](#technology-progress-and-evolution)
+- [Technology Industry Value Chain](#technology-industry-value-chain)
 - Digitalization of Earth Organization
   - [Evolution of Information Technologies](#evolution-of-information-technologies)
   - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
@@ -17,7 +19,7 @@
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
   - [Digital Workplace Services](#digital-workplace-services)
   - [Database Technology](#database-technology)
-  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning--digital-core)
+  - [Enterprise Resource Planning - Digital Core](#enterprise-resource-planning-digital-core)
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
@@ -241,6 +243,9 @@
 
 
 ----------
+#### Technology Industry Value Chain
+
+[Back to top](#contents)
 
 #### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
 
@@ -259,8 +264,6 @@
 -------------
 
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
-
-[Back to top](#contents)
 
 
 -----------------------------
