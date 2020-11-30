@@ -31,7 +31,7 @@
    - [Enterprise Data Warehouse](#enterprise-data-warehouse)
      - Practical DataOps
    - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
-   - [AI in Enterprise Processes](#ai-in-enterprise-process)
+   - [AI in Enterprise Processes](#ai-in-enterprise-processes)
      - Practical MLOps - ML pipeline using CI/CD
    - [Experience Design](#experience-design)
    - [Enterprise Tech Landscape](#enterprise-tech-landscape)
@@ -1345,7 +1345,8 @@ RPA
 
 Practical MLOps
 
-
+- [End-to-End Machine Learning Workflow](https://ml-ops.org/content/end-to-end-ml-workflow)
+- [Iterative-Incremental Process in MLOps](https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops)
 - [Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - [Feature Stores for Machine Learning](https://medium.com/data-for-ai)
@@ -1357,9 +1358,20 @@ Practical MLOps
 - [MLOpswith Azure Machine Learning](https://azure.microsoft.com/mediahandler/files/resourcefiles/mlops-infographic/MLOps%20Infographic.pdf)
 - [Data Intelligence as an MLOps platform](https://blogs.sap.com/2020/02/28/sap-data-intelligence-as-an-mlops-platform/)
 - [ML-Ops how to bring your data science to production](https://www2.slideshare.net/zobeide/mlops-how-to-bring-your-data-science-to-production)
+- [Delivering on the Vision of MLOps](https://gigaom.com/report/delivering-on-the-vision-of-mlops/)
+- [Mapping the territory for MLOps](https://chapeau.freevariable.com/2020/10/mapping-mlops.html)
+- [MLOps: Machine Learning Operationalization
+](https://www.activestate.com/wp-content/uploads/2018/10/webinar-slides-mlops.pdf)
+- [MLOps, are best practices for businesses](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
 
 ----------
 
+![MLOps_3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/MLOps_3.png)
+------
+![ml-engineering](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/ml-engineering.jpg)
+-------
+![MLOpsFlow](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/MLOpsFlow.jpg)
+-----------
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
 ---------
 
@@ -1381,6 +1393,11 @@ ML pipeline using CI/CD
 
 ---------
 ![qXHtEhaFKoB83xtE](https://miro.medium.com/max/2048/0*qXHtEhaFKoB83xtE.png)
+
+--------
+![mlops-tube](https://chapeau.freevariable.com/static/202010/mlops-tube.png)
+---------
+![annex-e1579283879351-1200x1375](https://storage.googleapis.com/stateless-gigaom-com/2020/01/annex-e1579283879351-1200x1375.jpg)
 -----------
 ----------------
 
