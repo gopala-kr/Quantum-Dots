@@ -10,6 +10,7 @@
   - Earth Workforce 
   - Evolution from Medieval
   - Industry 4.0
+- [Global Organizations](#global-organizations)
 - [Technology Progress and Evolution](#technology-progress-and-evolution)
 - [Technology Industry Value Chain](#technology-industry-value-chain)
 - Digitalization of Earth Organization
@@ -32,13 +33,14 @@
      - Practical DataOps
    - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
    - [AI in Enterprise Processes](#ai-in-enterprise-processes)
-     - Practical MLOps - ML pipeline using CI/CD
+     - Practical MLOps - ML pipelines using CI/CD
    - [Experience Design](#experience-design)
    - [Enterprise Information Architecture Review](#information-architecture-review)
      - EA Artifacts
      - Business Architect View
      - Solution Architect View
-     - Techical Architect View
+     - Technical Architect View
+     - Security Architect View
    - [Enterprise Tech Landscape](#enterprise-tech-landscape)
    - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
  
@@ -47,6 +49,7 @@
   
 ----------------------
 -------------------
+
 #### Earth Industrial Evolution
 
 [Back to top](#contents)
@@ -232,6 +235,14 @@
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 
 [Back to top](#contents)
+
+------------
+-----------------
+#### Global Organizations
+
+[Back to top](#contents)
+
+- [Global Company Dataset with over 7+ Million Company profiles](https://www.peopledatalabs.com/company-dataset)
 
 -----------
 ------------
