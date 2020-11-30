@@ -34,6 +34,11 @@
    - [AI in Enterprise Processes](#ai-in-enterprise-processes)
      - Practical MLOps - ML pipeline using CI/CD
    - [Experience Design](#experience-design)
+   - [Enterprise Information Architecture Review](#information-architecture-review)
+     - EA Artifacts
+     - Business Architect View
+     - Solution Architect View
+     - Techical Architect View
    - [Enterprise Tech Landscape](#enterprise-tech-landscape)
    - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
  
@@ -1448,6 +1453,61 @@ Mobile App Development Platforms
 
 ![999_02_Etech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_02_Etech.PNG)
 
+--------------
+------------------
+
+#### Information Architecture Review
+
+[Back to top](#contents)
+
+- [Solution Architecture vs. Software Architecture](https://dzone.com/articles/solution-architecture-vs-software-architecture)
+- [Architectural Artifacts](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap31.html)
+- [Agile Architecture: Strategies for Scaling Agile Development](http://agilemodeling.com/essays/agileArchitecture.htm)
+- [Disciplined Agile Data Warehousing](http://agiledata.org/essays/disciplinedAgileDW.html)
+
+![110-t](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/110-t.PNG)
+---------
+![dadLifecycleBasic](http://www.ambysoft.com/artwork/dadLifecycleBasic.jpg)
+-----
+![yt6BOKrjDZlxDzFVlUvVJA](https://miro.medium.com/max/1050/1*yt6BOKrjDZlxDzFVlUvVJA.jpeg)
+---------
+![1374c5a00949f2b21cc44c629169843b](https://i.pinimg.com/originals/13/74/c5/1374c5a00949f2b21cc44c629169843b.png)
+---------
+![ea-ba-ia-ta-sa-role](https://henrylee1.gitbooks.io/note/content/gartner/image/ea-ba-ia-ta-sa-role.png)
+--------
+![solutionarchitect](https://1.bp.blogspot.com/-MEeQzaPGllE/USr9RVk-cnI/AAAAAAAAByw/O5A5h6RQ4YE/s1600/solutionarchitect.png)
+---------
+![agileTeamLarge](http://www.ambysoft.com/artwork/agileTeamLarge.jpg)
+--------
+![Agile-Architecture_F01_web-1-1024x497](https://www.scaledagileframework.com/wp-content/uploads/2019/03/Agile-Architecture_F01_web-1-1024x497.png)
+------
+![Architecture-Stack](https://cpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/8/147/files/2014/04/Architecture-Stack.png)
+-------------
+![34_contentfwk3](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk3.png)
+------------------
+![c2800a955b1beab9649330691122c904](https://i.pinimg.com/originals/c2/80/0a/c2800a955b1beab9649330691122c904.jpg)
+------------------
+![dragon1-application-landscape-diagram](https://www.dragon1.com/images/dragon1-application-landscape-diagram.png)
+---------
+![dragon1-enterprise-architecture-framework-diagram-management-report-view.](https://www.dragon1.com/images/dragon1-enterprise-architecture-framework-diagram-management-report-view.png)
+------------------
+![35_tog](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/35_tog.png)
+------------------
+![35_viewpoints](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/35_viewpoints.png)
+------------------
+![cY3DCcCqIZ7wOj14raSk7g](https://miro.medium.com/max/945/1*cY3DCcCqIZ7wOj14raSk7g.png)
+-------
+![twZzY6zGQYx0YVmACY6mAw](https://miro.medium.com/max/2218/1*twZzY6zGQYx0YVmACY6mAw.png)
+--------
+![SABSA_Key_Features_Advantages_Benefits](https://sabsa.org/wp-content/uploads/SABSA_Key_Features_Advantages_Benefits.png)
+-----------
+![SRA](https://www.microsoft.com/security/blog/wp-content/uploads/2018/06/SRA.png)
+------------------
+![posture-cybersecurity-ex3-expanded](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Risk/Our%20Insights/A%20new%20posture%20for%20cybersecurity%20in%20a%20networked%20world/SVGZ-A-new-posture-cybersecurity-ex3-expanded.svgz)
+------------------
+![OSA_Security_Landscape_V010](http://www.opensecurityarchitecture.org/cms/images/OSA_images/OSA_Security_Landscape_V010.png)
+------------------
+![osa_metamodel_v003](https://www.opensecurityarchitecture.org/cms/images/OSA_images/osa_metamodel_v003.png)
 -------------
 ---------------
 
