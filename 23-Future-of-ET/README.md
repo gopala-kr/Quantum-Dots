@@ -1018,8 +1018,6 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
-- Data Engineering
-- Data Pipelines
 
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
@@ -1115,7 +1113,8 @@ IIoT Platform
 
 [Back to top](#contents)
 
-
+- Data Engineering
+- Data Pipelines
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Cloud Data Warehouse, - Buyers Guide](https://itcs-data.s3.us-west-2.amazonaws.com/pc_docs/2105/docs/Cloud_Data_Warehouse_Report_from_IT_Central_Station_2020-11-07_1bpp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ3WCTZ6BJMFFX6EQ%2F20201127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201127T184848Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=862987e9be72dbe8545364f96709495cec2ee79107b3060ffab77562f537be33)
@@ -1295,7 +1294,7 @@ IIoT Platform
 - Analytics (Descriptive, Diagnostic, Predictive, Prescritive)
 - Datascience
 - Machine Learning
-- Leading Enterprise RPA/DS/ML Sofware Vendors
+- Leading Enterprise RPA/DS/ML Software Vendors
 
 -------------
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
