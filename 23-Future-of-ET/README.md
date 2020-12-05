@@ -169,21 +169,13 @@
 
 #### Industry 4.0
 
-----------
-![2020](https://digiworldyearbook.idate.org/content/uploads/2020/06/4.4.2.jpg)
--------------
 ![sustainability](https://www.mdpi.com/sustainability/sustainability-11-06363/article_deploy/html/images/sustainability-11-06363-g001.png)
 --------
 ![c80ad5110d12e54bffd6b5da43749461](https://i.pinimg.com/originals/c8/0a/d5/c80ad5110d12e54bffd6b5da43749461.png)
 -----------
 ![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
----------
-![Industry-4.0-2](https://plutektechnologies.com/wp-content/uploads/2020/03/Industry-4.0-2.png.jpg)
+
 ----------
-![491696_1_En_15_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-40176-4_15/MediaObjects/491696_1_En_15_Fig1_HTML.png)
---------
-![IL327_fig3](https://www2.deloitte.com/content/dam/insights/us/articles/IL327_Toward-the-next-horizon/figures/IL327_fig3.png)
----------
 ![construction-value-chain-based-on-95-p-18](https://www.researchgate.net/profile/Thuy_Oesterreich/publication/308909169/figure/fig5/AS:718900761219072@1548410706826/Impact-of-Industry-40-technologies-on-the-construction-value-chain-based-on-95-p-18.jpg)
 
 ----------------
@@ -222,25 +214,20 @@
 ![sustainability1](https://www.mdpi.com/sustainability/sustainability-11-05779/article_deploy/html/images/sustainability-11-05779-g004.png)
 -----------
 ![product_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/product_services.PNG)
-------
-![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
-
+--------
+![7_15_Part_Fig1](https://media.springernature.com/original/springer-static/image/prt%3A978-3-642-20617-7%2F15/MediaObjects/978-3-642-20617-7_15_Part_Fig1-6464_HTML.png)
 ----
 ![d860cf1d-d86e-44ee-951e-ad554ac2add2](https://online.visual-paradigm.com/repository/images/d860cf1d-d86e-44ee-951e-ad554ac2add2.png)
 
---------
-![7_15_Part_Fig1](https://media.springernature.com/original/springer-static/image/prt%3A978-3-642-20617-7%2F15/MediaObjects/978-3-642-20617-7_15_Part_Fig1-6464_HTML.png)
-
---------
-![PML](https://www.productfocus.com/wp/wp-content/uploads/2017/07/PML.jpg)
 -----
 ![0GC4Lpjy4UGNeFRfnBIhpA](https://miro.medium.com/max/3544/1*0GC4Lpjy4UGNeFRfnBIhpA.png)
---------
-![Maturity](https://www.productfocus.com/wp/wp-content/uploads/2018/08/Maturity-1100-x-759.png)
 --------
 ![ProductManagementFramework](https://www.theproductcrowd.com/wp-content/uploads/2018/10/ProductManagementFramework.png)
 --------
 ![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
+
+------
+![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
 
 --------------
 ![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
