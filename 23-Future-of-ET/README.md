@@ -1,6 +1,7 @@
 
 #### Tech Industry Review
 
+ 
 -----------------------
 
  ##### [Contents](#contents)
@@ -61,6 +62,7 @@
 - [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
+- [ndustry 4.0 Concept: Background and Overview](https://online-journals.org/index.php/i-jim/article/download/7072/4532)
 - [Impact of the Fourth Industrial Revolution on Supply Chains](http://www3.weforum.org/docs/WEF_Impact_of_the_Fourth_Industrial_Revolution_on_Supply_Chains_.pdf)
 - [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 - [History of technology](https://www.britannica.com/technology/history-of-technology/The-Urban-Revolution-c-3000-500-bce)
@@ -162,7 +164,27 @@
 -----------
 ![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
 
+-----------------------
+----------------------------
 
+#### Industry 4.0
+
+----------
+![2020](https://digiworldyearbook.idate.org/content/uploads/2020/06/4.4.2.jpg)
+-------------
+![sustainability](https://www.mdpi.com/sustainability/sustainability-11-06363/article_deploy/html/images/sustainability-11-06363-g001.png)
+--------
+![c80ad5110d12e54bffd6b5da43749461](https://i.pinimg.com/originals/c8/0a/d5/c80ad5110d12e54bffd6b5da43749461.png)
+-----------
+![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
+---------
+![Industry-4.0-2](https://plutektechnologies.com/wp-content/uploads/2020/03/Industry-4.0-2.png.jpg)
+----------
+![491696_1_En_15_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-40176-4_15/MediaObjects/491696_1_En_15_Fig1_HTML.png)
+--------
+![IL327_fig3](https://www2.deloitte.com/content/dam/insights/us/articles/IL327_Toward-the-next-horizon/figures/IL327_fig3.png)
+---------
+![construction-value-chain-based-on-95-p-18](https://www.researchgate.net/profile/Thuy_Oesterreich/publication/308909169/figure/fig5/AS:718900761219072@1548410706826/Impact-of-Industry-40-technologies-on-the-construction-value-chain-based-on-95-p-18.jpg)
 
 ----------------
 ------------
@@ -197,7 +219,28 @@
 ![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
 
 --------
+![sustainability1](https://www.mdpi.com/sustainability/sustainability-11-05779/article_deploy/html/images/sustainability-11-05779-g004.png)
+-----------
 ![product_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/product_services.PNG)
+------
+![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
+
+----
+![d860cf1d-d86e-44ee-951e-ad554ac2add2](https://online.visual-paradigm.com/repository/images/d860cf1d-d86e-44ee-951e-ad554ac2add2.png)
+
+--------
+![7_15_Part_Fig1](https://media.springernature.com/original/springer-static/image/prt%3A978-3-642-20617-7%2F15/MediaObjects/978-3-642-20617-7_15_Part_Fig1-6464_HTML.png)
+
+--------
+![PML](https://www.productfocus.com/wp/wp-content/uploads/2017/07/PML.jpg)
+-----
+![0GC4Lpjy4UGNeFRfnBIhpA](https://miro.medium.com/max/3544/1*0GC4Lpjy4UGNeFRfnBIhpA.png)
+--------
+![Maturity](https://www.productfocus.com/wp/wp-content/uploads/2018/08/Maturity-1100-x-759.png)
+--------
+![ProductManagementFramework](https://www.theproductcrowd.com/wp-content/uploads/2018/10/ProductManagementFramework.png)
+--------
+![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
 
 --------------
 ![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
@@ -215,6 +258,7 @@
 
 [Back to top](#contents)
 
+- [Outline of technology](https://en.wikipedia.org/wiki/Outline_of_technology)
 - [Technological Progress](https://ourworldindata.org/technological-progress)
 - [Technology Adoption](https://ourworldindata.org/technology-adoption)
 - [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
@@ -222,6 +266,8 @@
 - [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 - [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
 - [A Brief View of the Evolution of Technology and Engineering Education](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
+- [Techno-optimism for the 2020s](https://noahpinion.substack.com/p/techno-optimism-for-the-2020s)
+- [2020 technology industry outlook](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-industry-outlook.html)
 
 [Back to top](#contents)
 
@@ -233,8 +279,6 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
-
-[Back to top](#contents)
 
 ------------
 -----------------
@@ -251,6 +295,11 @@
 
 [Back to top](#contents)
 
+"Technology", in this context, has come to mean primarily electronics-based technology. This can include, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services -  [Wiki](https://en.wikipedia.org/wiki/Technology_company)
+
+ computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services
+ 
+
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------
 
@@ -263,6 +312,13 @@
 #### Technology Industry Value Chain
 
 [Back to top](#contents)
+
+
+![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
+---------
+![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
+
+---------------------
 
 #### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
 
@@ -324,6 +380,8 @@
 ![enterprise-architecture-on-a-page](https://interact.bcs.org/images/articles/enterprise-architecture-on-a-page.jpg)
 
 ------------
+![subtractive_mfg_circa_2017](https://www.ame.org/files/subtractive_mfg_circa_2017.png)
+------------------
 
 ##### Enterprise Architecture Example :
 
@@ -1000,6 +1058,8 @@ CRM and Customer Experience Implementation Services
 
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
+-------
+![Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR](https://images.squarespace-cdn.com/content/v1/55cdcc72e4b0ff38cd56a751/1539595621504-8FTJB0E8RCR0G3S9IULR/ke17ZwdGBToddI8pDm48kD6pI3Ghap9e95DedX5JW-EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXhDa6xRIWV4T9b-Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR/Image3.png?format=1500w)
 
 -------
 ![gartner-dq-mq-2020](https://liliendahl.files.wordpress.com/2020/07/gartner-dq-mq-2020.png)
@@ -1054,9 +1114,20 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
+![6f6c0ce22e7532c8fc710e126d0c1415](https://hbr.org/resources/images/article_assets/2015/08/R1411C_A2.png)
+
+---------
+![iot_arch_tech_and_stack](https://www.esystronika.com/esystronika_website/assets/img/services/iot_arch_tech_and_stack.jpg)
+-------------------
+![157f6d_dc393ee1698a49e582f53e1cfc4d69aa](https://static.wixstatic.com/media/157f6d_dc393ee1698a49e582f53e1cfc4d69aa~mv2.png/v1/fill/w_1000,h_470,al_c,usm_0.66_1.00_0.01/157f6d_dc393ee1698a49e582f53e1cfc4d69aa~mv2.png)
+------------
 
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
 
+----------
+![IoT-Ecosystem-2](https://www.cloudtp.com/wp-content/uploads/2016/05/IoT-Ecosystem-2.jpg)
+--------
+![Screenshot%202019-01-13%20at%2007.25.39](https://iot.bendakhlia.org/user/pages/01.home/iot-architecture-layers/Screenshot%202019-01-13%20at%2007.25.39.png)
 --------------
 ![gartner-magic-quadrant_945xx](https://www.a1.digital/globalassets/media/images/allgemein/gartner-magic-quadrant_945xx.jpg)
 
@@ -1115,6 +1186,8 @@ IIoT Platform
 
 - Data Engineering
 - Data Pipelines
+
+----------
 
 - [A16Z : Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Cloud Data Warehouse, - Buyers Guide](https://itcs-data.s3.us-west-2.amazonaws.com/pc_docs/2105/docs/Cloud_Data_Warehouse_Report_from_IT_Central_Station_2020-11-07_1bpp.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ3WCTZ6BJMFFX6EQ%2F20201127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201127T184848Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=862987e9be72dbe8545364f96709495cec2ee79107b3060ffab77562f537be33)
