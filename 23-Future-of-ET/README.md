@@ -175,9 +175,6 @@
 -----------
 ![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
 
-----------
-![construction-value-chain-based-on-95-p-18](https://www.researchgate.net/profile/Thuy_Oesterreich/publication/308909169/figure/fig5/AS:718900761219072@1548410706826/Impact-of-Industry-40-technologies-on-the-construction-value-chain-based-on-95-p-18.jpg)
-
 ----------------
 ------------
 
@@ -282,10 +279,6 @@
 
 [Back to top](#contents)
 
-"Technology", in this context, has come to mean primarily electronics-based technology. This can include, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services -  [Wiki](https://en.wikipedia.org/wiki/Technology_company)
-
- computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services
- 
 
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 ------------------
@@ -299,6 +292,11 @@
 #### Technology Industry Value Chain
 
 [Back to top](#contents)
+
+"Technology", in this context, has come to mean primarily electronics-based technology. This can include, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services -  [Wiki](https://en.wikipedia.org/wiki/Technology_company)
+
+ computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services
+ 
 
 
 ![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
@@ -325,8 +323,6 @@
 
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
-
------------------------------
 -------------------------------
 
 #### Enterprise Architecture Modeling
