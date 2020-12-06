@@ -763,7 +763,16 @@ Data Center and Cloud Networking
 - [Graph Technology Landscape 2019](https://graphaware.com/graphaware/2019/02/01/graph-technology-landscape.html)
 - [desktop as a service (DaaS) providers](https://www.techrepublic.com/article/top-desktop-as-a-service-daas-providers-amazon-citrix-microsoft-vmware-and-more/)
 - [Magic Quadrant for Managed Mobility Services, Global](https://www.gartner.com/doc/reprints?id=1-1YQ1N2Z8&ct=200403&st=sb)
-
+- [Suited avatars and digital offices: traders and bankers embrace VR](https://www.weforum.org/agenda/2020/11/embracing-virtual-reality-meetings/)
+- [Transfr raises $12M Series A to bring virtual reality to manufacturing-plant floors](https://techcrunch.com/2020/11/19/transfr-raises-12m-series-a-to-bring-virtual-reality-to-manufacturing-plant-floors/)
+- [Is virtual reality tourism about to take off?](https://www.bbc.com/news/business-54658147)
+- [Virtual Reality: The Most Disruptive Technology of the Next Decade, IDTechEx Reports](https://www.prnewswire.com/news-releases/virtual-reality-the-most-disruptive-technology-of-the-next-decade-idtechex-reports-301173739.html)
+- [How to Introduce Enterprise Virtual Reality to Your Organization](https://hbr.org/sponsored/2020/11/how-to-introduce-enterprise-virtual-reality-to-your-organization)
+- [7 investors discuss augmented reality and VR startup opportunities in 2020](https://techcrunch.com/2020/10/20/7-investors-discuss-augmented-reality-and-vr-startup-opportunities-in-2020/)
+- [Using VR to Unlock the Power of Remote Collaboration](https://hbr.org/sponsored/2020/10/using-vr-to-unlock-the-power-of-remote-collaboration)
+- [How to utilise BIM & VR Technology to improve client experience](https://www.geospatialworld.net/blogs/how-to-utilise-bim-vr-technology-to-improve-client-experience/)
+- [Groove Science Studios Makes World Debut of VR Concert Technology](https://www.prnewswire.com/news-releases/groove-science-studios-makes-world-debut-of-vr-concert-technology-301155390.html)
+- [DARPA: Ready for a VR-enabled work environment?](https://gcn.com/articles/2020/10/02/darpa-vr-enabled-office.aspx)
 ------------
 
 Digital Workplace Today:
@@ -776,6 +785,8 @@ Digital Workplace Reimagined:
 
 ![999_04_rwpt](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_04_rwpt.PNG)
 
+--------
+![1200&fit=fill&bg=ffffff&border=0&q=50](https://idtxs3.imgix.net/si/40000/76/38.png?w=1200&fit=fill&bg=ffffff&border=0&q=50)
 ----------
 ![foundational_technology_of_the_digital_workplace](https://dionhinchcliffe.files.wordpress.com/2016/09/foundational_technology_of_the_digital_workplace.png)
 
@@ -1518,6 +1529,7 @@ Mobile App Development Platforms
 -----------
 
 ![999_02_Etech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_02_Etech.PNG)
+
 
 --------------
 ------------------
