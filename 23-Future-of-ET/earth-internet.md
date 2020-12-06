@@ -8,6 +8,7 @@
 - [The moon is getting 4G internet before 4 billion earthlings](https://qz.com/1919694/the-moon-is-getting-4g-internet-before-4-billion-earthlings/#:~:text=The%20Finnish%20telco%20won%20a,on%20its%20nearest%20celestial%20neighbor.)
 - [NASA and nokia are bringing the internet to the moon
 technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moon-10-19-2020/)
+- [NASA has granted Nokia $14.1 million to build the first-ever 4G mobile network on the moon](https://www.cnbc.com/2020/10/19/nasa-is-launching-a-4g-mobile-network-on-the-moon.html)
 - [Microsoft, SpaceX Team Up to Bring Cloud Computing to Space](https://www.nextgov.com/it-modernization/2020/10/microsoft-spacex-team-bring-cloud-computing-space/169377/)
 - [(DOE) Unveils Blueprint for a U.S. Quantum Internet, 2020](https://quantumcomputingreport.com/department-of-energy-doe-unveils-blueprint-for-a-u-s-quantum-internet/) | [Workshop](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202004/Quantum_Internet_Blueprint_Update.pdf?la=en&hash=8C076C1BEB7CA49A3920B1A3C15AA531B48BDD72)
 - [China’s 2,000-km Quantum Link](https://spectrum.ieee.org/telecom/security/chinas-2000km-quantum-link-is-almost-complete)
@@ -15,6 +16,7 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [OneWeb satellite internet company is officially reborn](https://www.bbc.com/news/science-environment-55016402)
 - [Bharti Enterprises asks ISRO for help developing OneWeb user terminals](https://spacenews.com/bharti-enterprises-asks-isro-for-help-developing-oneweb-user-terminals/)
 - [oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal](https://economictimes.indiatimes.com/industry/telecom/telecom-news/oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal/articleshow/79329402.cms)
+- [Mobile network traffic grew 50 percent between Q3 2019 and Q3 2020.](https://www.ericsson.com/en/mobility-report/dataforecasts/mobile-traffic-update)
 
 --------
 - [Internet value chain economics](https://www.de.kearney.com/communications-media-technology/article?/a/internet-value-chain-economics)
@@ -22,7 +24,16 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [Telecom Industry in India: Evolution, Current Challenges & Future Road Map](http://indiraisbs.ac.in/IMR/wp-content/uploads/2017/11/10__July_2017.pdf)
 - [The Internet Value Chain - A study on the economics of the internet May 2016](https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_TheInternetValueChain.pdf)
 - [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
--
+-------------
+- [Facebook to build internet cable 'circumference of Earth'](https://www.bbc.com/news/technology-52676253)
+- [The internet is more than 11,500 days old](https://nptelegraph.com/news/50-fascinating-facts-about-the-internet/collection_94ceeb19-dffc-510b-a670-52eae7473ead.html#48)
+- [Next Version of Internet:  The Metaverse is inevitable, many believe, and the Silicon Valley C-suite has been obsessed with the idea](https://www.washingtonpost.com/video-games/2020/04/17/fortnite-metaverse-new-internet/)
+- [Inside China’s controversial mission to reinvent the internet](https://www.ft.com/content/ba94c2bc-6e27-11ea-9bca-bf503995cd6f)
+- [A new AI can pilot balloons in the stratosphere](https://www.axios.com/loon-balloon-ai-pilot-7a28527d-0c80-419a-b463-41eac3f684c2.html)
+- [Microsoft partners with SpaceX to connect Azure cloud to Musk’s Starlink satellite internet](https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html)
+- [Alphabet delivers wireless Internet over light beams from 20km away](https://arstechnica.com/information-technology/2020/11/alphabet-delivers-wireless-internet-over-light-beams-from-20km-away/)
+- [Internet Pioneers, Leaders Convene to Commemorate NSFNET 35th Anniversary](https://www.prnewswire.com/news-releases/internet-pioneers-leaders-convene-to-commemorate-nsfnet-35th-anniversary-301186602.html)
+- [Researchers Use Lasers to Bring the Internet Under the Sea](https://spectrum.ieee.org/tech-talk/telecom/internet/researchers-lasers-bring-internet-underwater)
 
 -----------------
 
