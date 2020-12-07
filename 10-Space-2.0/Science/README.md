@@ -14,6 +14,7 @@
 - [Chinese photonic quantum computer demonstrates quantum supremacy](https://phys.org/news/2020-12-chinese-photonic-quantum-supremacy.html)
 - [Magnetism Does the Twist: Skyrmions 10,000 Times Thinner Than a Human Hair Could Advance High-Density Data Storage](https://scitechdaily.com/magnetism-does-the-twist-skyrmions-10000-times-thinner-than-a-human-hair-could-advance-high-density-data-storage/)
 - [“Where God Divides By Zero” –The Two Most Powerful Black Hole Explosions in the Universe](https://dailygalaxy.com/2020/12/where-god-divides-by-zero-the-two-most-powerful-black-hole-explosions-in-the-observable-universe/)
+- [Next step in simulating the universe](https://phys.org/news/2020-12-simulating-universe.html)
 
 -------------
 ![fXr9SGS5DygwzbopKHhVQg](https://miro.medium.com/max/1500/1*fXr9SGS5DygwzbopKHhVQg.jpeg "The many factors, as outlined in Rare Earth, that have contributed to the formation of Earth’s complex life")
