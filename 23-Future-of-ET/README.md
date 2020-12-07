@@ -1365,6 +1365,7 @@ IIoT Platform
 
 -------------
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
+- [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 
 --------------
 
