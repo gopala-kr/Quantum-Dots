@@ -1643,6 +1643,11 @@ Mobile App Development Platforms
 
 [Back to top](#contents)
 
+--------------
+-------------
+![e_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/e_scale.PNG)
+----------
+![]()
 
 ----------
 ----------------
