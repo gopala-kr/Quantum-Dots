@@ -1606,8 +1606,13 @@ Mobile App Development Platforms
 
 
 ---------
-
 -----------
+
+![sap-database-and-data-management-architecture-diagram](https://www.sap.com/dam/application/shared/graphics/sap-database-and-data-management-architecture-diagram.svg.adapt.svg/1607433805796.svg)
+
+--------
+![IE-deepDive](https://www.sap.com/dmc/exp/2020-03-enabling-consumer-outcomes/_media/figures/IE-deepDive.png)
+-----------------
 ![emerging-tech-roadmap-mse-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-mse-2020-2022-1.jpg)
 
 ------------
