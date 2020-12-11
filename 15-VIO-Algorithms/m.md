@@ -27,6 +27,6 @@
 
 --------------------
 
-![]()
+![5AFpjMrD2xrxR7GCNYSdVw](https://miro.medium.com/max/1350/1*5AFpjMrD2xrxR7GCNYSdVw.jpeg)
 
 -------------------
