@@ -3,8 +3,13 @@
 - [Industry 4.0 in automotive - Deloitte](https://www2.deloitte.com/content/dam/insights/us/articles/automotive-news_industry-4-0-in-automotive/DI_Automotive-News-Supplement.pdf)
 - [What’s driving the global automotive industry?](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/automotive%20and%20assembly/pdfs/mck_the_road_to_2020_and_beyond.ashx)
 - [Decoding the Autonomous Driving Landscape](https://medium.com/@firstmilevc/avlandscape-8a21491f1f54)
+- [The Autonomous Vehicles landscape](https://s3.amazonaws.com/spoke-profiles-prod-assets/uploads/9ba4516ff61c3652e15fdb88d52a23ca9b3c2596/original/Autonomous_Vehicles_Landscape_Feb_2019.pdf)
+- [A Deep Dive into the AV Ecosystem](https://urbanmobilitycompany.com/content/daily/a-deep-dive-into-the-av-ecosystem)
+- [The Future of Mobility as a Service (MaaS) : Which Model Will Win Through?](https://urbanmobilitycompany.com/content/daily/the-future-of-mobility-as-a-service-maas-which-model-will-win-through)
 
-
+---------------
+- [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
+- [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 
 -------------------
 ![m_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/m_map.PNG)
@@ -27,6 +32,8 @@
 ![WriWmoSXNZwxLsNypQjXrg](https://miro.medium.com/max/1350/1*WriWmoSXNZwxLsNypQjXrg.jpeg)
 
 --------------------
+![2020](https://urbanmobilitydaily.com/wp-content/uploads/2020/08/0-4.jpg)
+-----------
 
 ![5AFpjMrD2xrxR7GCNYSdVw](https://miro.medium.com/max/1350/1*5AFpjMrD2xrxR7GCNYSdVw.jpeg)
 
@@ -49,3 +56,5 @@
 ----------------
 ![C1jIgtFkWdT8PIzQcWoi0A](https://miro.medium.com/max/1350/1*C1jIgtFkWdT8PIzQcWoi0A.jpeg)
 ----------------
+![C4iHXZRW8AE0i71](https://pbs.twimg.com/media/C4iHXZRW8AE0i71.jpg:large)
+-----------
