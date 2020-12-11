@@ -13,8 +13,11 @@
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
+- [automotive-iq](https://www.automotive-iq.com/)
 
 -------------------
+![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
+----------
 ![synced-map](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/synced-map.jpg)
 -----------
 ![1*UKAVt5WD-1CRTfHi8lK8vQ](https://cdn-images-1.medium.com/max/2000/1*UKAVt5WD-1CRTfHi8lK8vQ.jpeg)
@@ -23,6 +26,10 @@
 ------------------
 ![FG-Automakers-Can-Take-the-Lead-in-Self-Driving-Vehicles-06](https://www.es.kearney.com/documents/20152/434078/FG-Automakers-Can-Take-the-Lead-in-Self-Driving-Vehicles-06.jpg.png/cbca5d69-7fd2-c2bb-0b34-4a04f52be8a3?t=1586799299210)
 -------------
+![Autonomous-driving-partnerships](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/07/15130558/Autonomous-driving-partnerships.pptx-10-3.png)
+----------------
+![dzrsdPbvWCV78IvV](https://miro.medium.com/max/3212/0*dzrsdPbvWCV78IvV)
+---------------
 ![m_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/m_map.PNG)
 
 -------------
@@ -82,3 +89,25 @@
 ----------
 ![blog_en_autonomous](https://asquared.company/wordpress/wp-content/uploads/2019/03/asquared-blog_en_autonomous-driving_partnerships_daimler_2019-02_v1-1024x762.png)
 -----------
+![Full-AV-partnership-map](https://www.ptolemus.com/wp-content/uploads/2017/05/Full-AV-partnership-map.jpg)
+----------
+![DZW27aiWAAAL1U4](https://pbs.twimg.com/media/DZW27aiWAAAL1U4.png)
+----------
+![71246](https://www.transportxtra.com/files/71246-l.jpg)
+----------
+![big-auto-tech-timeline-august-2016-1](https://energyfuse.org/wp-content/uploads/2017/06/big-auto-tech-timeline-august-2016-1.png)
+-----------
+--------------------
+![JQXyepWP7fCg0IJI](https://miro.medium.com/max/3240/0*JQXyepWP7fCg0IJI)
+---------
+![20180109_01_04_en_s](https://global.toyota/pages/news/images/2018/01/09/0230/20180109_01_04_en_s.png)
+---------
+![mobility-as-a-service-maas-55-1024](https://image.slidesharecdn.com/mobilityasaservice-160911231745/95/mobility-as-a-service-maas-55-1024.jpg?cb=1475756616)
+----------
+![global-mobility-and-megacities-20-1024](https://image.slidesharecdn.com/frostsullivanglobalevreportedta-110422124750-phpapp01/95/global-mobility-and-megacities-20-1024.jpg?cb=1303476569)
+-----------
+![international_projects](https://transportation.bme.hu/wp-content/uploads/2020/01/international_projects-MaaS4EU01.jpg)
+-----------
+![future-of-mobility-5-1024](https://image.slidesharecdn.com/fsmaassummary-151118105753-lva1-app6891/95/future-of-mobility-5-1024.jpg?cb=1447844329)
+-----------------
+-----------------
