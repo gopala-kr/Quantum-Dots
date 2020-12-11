@@ -8,6 +8,7 @@
 - [The Future of Mobility as a Service (MaaS) : Which Model Will Win Through?](https://urbanmobilitycompany.com/content/daily/the-future-of-mobility-as-a-service-maas-which-model-will-win-through)
 - [Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)
 - [Autonomous vehicles: The legal landscape in the US](https://www.nortonrosefulbright.com/en-ca/knowledge/publications/2951f5ce/autonomous-vehicles-the-legal-landscape-in-the-us)
+- [Autonomous Driving is more than self-driving vehicles and may succeed in cooperation only](https://asquared.company/en/blog/autonomous-driving-is-more-than-self-driving-vehicles-and-may-succeed-in-cooperation-only-904/)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
@@ -74,3 +75,10 @@
 -----------
 ![j783d9I4au4Os56ZlVDQjV64JOkdUl_OwCLcBGAs](https://4.bp.blogspot.com/-gfCc8oB-h-4/XP6gTRZNOeI/AAAAAAAAaRU/j783d9I4au4Os56ZlVDQjV64JOkdUl_OwCLcBGAs/s1600/YD19026-Imaging-for-Automotive-device-and-techno-segmentation.png)
 ----------
+![driving_partnerships_volkswagen_2019-02_v1](https://asquared.company/wordpress/wp-content/uploads/2019/03/asquared-blog_en_autonomous-driving_partnerships_volkswagen_2019-02_v1-908x1024.png)
+
+-----------
+![blog_en_autonomous](https://asquared.company/wordpress/wp-content/uploads/2019/03/asquared-blog_en_autonomous-driving_partnerships_bmw_2019-02_v1-1024x1003.png)
+----------
+![blog_en_autonomous](https://asquared.company/wordpress/wp-content/uploads/2019/03/asquared-blog_en_autonomous-driving_partnerships_daimler_2019-02_v1-1024x762.png)
+-----------
