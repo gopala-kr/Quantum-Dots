@@ -19,3 +19,14 @@
 ![Automotive_Supply_chain_Arteris](https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/01/Automotive_Supply_chain_Arteris.png?resize=1868%2C1156&ssl=1)
 
 ----------------
+![AKO88PtkIqrVwuZFNp37Ig](https://miro.medium.com/max/1350/1*AKO88PtkIqrVwuZFNp37Ig.jpeg)
+
+--------------------
+
+![WriWmoSXNZwxLsNypQjXrg](https://miro.medium.com/max/1350/1*WriWmoSXNZwxLsNypQjXrg.jpeg)
+
+--------------------
+
+![]()
+
+-------------------
