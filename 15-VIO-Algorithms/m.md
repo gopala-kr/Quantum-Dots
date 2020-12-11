@@ -6,12 +6,22 @@
 - [The Autonomous Vehicles landscape](https://s3.amazonaws.com/spoke-profiles-prod-assets/uploads/9ba4516ff61c3652e15fdb88d52a23ca9b3c2596/original/Autonomous_Vehicles_Landscape_Feb_2019.pdf)
 - [A Deep Dive into the AV Ecosystem](https://urbanmobilitycompany.com/content/daily/a-deep-dive-into-the-av-ecosystem)
 - [The Future of Mobility as a Service (MaaS) : Which Model Will Win Through?](https://urbanmobilitycompany.com/content/daily/the-future-of-mobility-as-a-service-maas-which-model-will-win-through)
+- [Breakdown of self-driving car industry in China](https://medium.com/@fisher.jianyu.shi/breakdown-of-chinese-self-driving-car-industry-dd20deea7e73)
+- [Autonomous vehicles: The legal landscape in the US](https://www.nortonrosefulbright.com/en-ca/knowledge/publications/2951f5ce/autonomous-vehicles-the-legal-landscape-in-the-us)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 
 -------------------
+![synced-map](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/synced-map.jpg)
+-----------
+![1*UKAVt5WD-1CRTfHi8lK8vQ](https://cdn-images-1.medium.com/max/2000/1*UKAVt5WD-1CRTfHi8lK8vQ.jpeg)
+----------------
+![Autonomous+Vehicle+Technologies+%E2%80%93+Competitive+Landscape](https://slideplayer.com/slide/17061142/98/images/6/Autonomous+Vehicle+Technologies+%E2%80%93+Competitive+Landscape.jpg)
+------------------
+![FG-Automakers-Can-Take-the-Lead-in-Self-Driving-Vehicles-06](https://www.es.kearney.com/documents/20152/434078/FG-Automakers-Can-Take-the-Lead-in-Self-Driving-Vehicles-06.jpg.png/cbca5d69-7fd2-c2bb-0b34-4a04f52be8a3?t=1586799299210)
+-------------
 ![m_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/m_map.PNG)
 
 -------------
@@ -58,3 +68,9 @@
 ----------------
 ![C4iHXZRW8AE0i71](https://pbs.twimg.com/media/C4iHXZRW8AE0i71.jpg:large)
 -----------
+![press_release_distribution_0455833_131539](https://www.24-7pressrelease.com/assets/attachments/045/press_release_distribution_0455833_131539.png)
+------------
+![connected-car-landscape-1](https://venturebeat.com/wp-content/uploads/2017/04/connected-car-landscape-1.png?resize=1192%2C852&strip=all)
+-----------
+![j783d9I4au4Os56ZlVDQjV64JOkdUl_OwCLcBGAs](https://4.bp.blogspot.com/-gfCc8oB-h-4/XP6gTRZNOeI/AAAAAAAAaRU/j783d9I4au4Os56ZlVDQjV64JOkdUl_OwCLcBGAs/s1600/YD19026-Imaging-for-Automotive-device-and-techno-segmentation.png)
+----------
