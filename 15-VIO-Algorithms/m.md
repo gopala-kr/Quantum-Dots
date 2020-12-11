@@ -42,3 +42,7 @@
 --------------
 ![raAjzHz8r2N2s7EJm2Cf5A](https://miro.medium.com/max/1350/1*raAjzHz8r2N2s7EJm2Cf5A.jpeg)
 -----------------
+![nNzHRoEFlUNk5B0J8n8U_Q](https://miro.medium.com/max/1350/1*nNzHRoEFlUNk5B0J8n8U_Q.jpeg)
+----------------
+![Ji9sKxfOL5QVxFit7b_FTg](https://miro.medium.com/max/1350/1*Ji9sKxfOL5QVxFit7b_FTg.jpeg)
+----------------
