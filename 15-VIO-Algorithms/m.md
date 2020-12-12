@@ -20,12 +20,14 @@
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 - [automotive-iq](https://www.automotive-iq.com/)
 - [Automotive & Assembly Insights](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights)
+- [McKinsey Center for Future Mobility®](https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/overview)
 
 --------------
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
 - [Development in the mobility technology ecosystem—how can 5G help?](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/development-in-the-mobility-technology-ecosystem-how-can-5g-help)
 - [Autonomous-driving disruption: Technology, use cases, and opportunities](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-driving-disruption-technology-use-cases-and-opportunities)
+- [How China will help fuel the revolution in autonomous vehicles](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-china-will-help-fuel-the-revolution-in-autonomous-vehicles)
 
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
@@ -49,6 +51,14 @@
 ![LIDAR-for-automotive-IP-dynamics](https://www.knowmade.com/wp-content/uploads/edd/2018/05/LIDAR-for-automotive-IP-dynamics.png)
 ----------
 ![SVGZ-Mobility-techology-ecosystem-Ex4](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex4.svgz)
+----------
+![SVGZ-How-China-fuel-vehicles-ex4-revise](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex4-revised.svgz)
+-------------
+![SVGZ-How-China-fuel-vehicles-ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex5.svgz)
+----------
+![SVGZ-How-China-fuel-vehicles-ex7-Expanded](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex7-Expanded.svgz)
+---------------
+![SVGZ-How-China-fuel-vehicles-ex8](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex8.svgz)
 -------------
 ---------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
