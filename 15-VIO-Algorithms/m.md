@@ -10,6 +10,7 @@
 - [Autonomous vehicles: The legal landscape in the US](https://www.nortonrosefulbright.com/en-ca/knowledge/publications/2951f5ce/autonomous-vehicles-the-legal-landscape-in-the-us)
 - [Autonomous Driving is more than self-driving vehicles and may succeed in cooperation only](https://asquared.company/en/blog/autonomous-driving-is-more-than-self-driving-vehicles-and-may-succeed-in-cooperation-only-904/)
 - [The rise of mobility as a service](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/consumer-business/deloitte-nl-cb-ths-rise-of-mobility-as-a-service.pdf)
+- [Mobility as a Service](https://medium.com/@transitprotocol/what-is-mobility-as-a-service-672259066c87)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
@@ -110,5 +111,7 @@
 ![international_projects](https://transportation.bme.hu/wp-content/uploads/2020/01/international_projects-MaaS4EU01.jpg)
 -----------
 ![future-of-mobility-5-1024](https://image.slidesharecdn.com/fsmaassummary-151118105753-lva1-app6891/95/future-of-mobility-5-1024.jpg?cb=1447844329)
+-------
+![wTyoUcfAU9dXUE](https://miro.medium.com/max/945/1*wTyoUcfAU9dXUE-FVV2QDg.png)
 -----------------
 -----------------
