@@ -11,6 +11,9 @@
 - [Autonomous Driving is more than self-driving vehicles and may succeed in cooperation only](https://asquared.company/en/blog/autonomous-driving-is-more-than-self-driving-vehicles-and-may-succeed-in-cooperation-only-904/)
 - [The rise of mobility as a service](https://www2.deloitte.com/content/dam/Deloitte/nl/Documents/consumer-business/deloitte-nl-cb-ths-rise-of-mobility-as-a-service.pdf)
 - [Mobility as a Service](https://medium.com/@transitprotocol/what-is-mobility-as-a-service-672259066c87)
+- [Urban Mobility System Upgrade](https://www.itf-oecd.org/sites/default/files/docs/15cpb_self-drivingcars.pdf)
+- [Making Mobility-as-a-Service: Towards Governance Principles and Pathways](https://research.chalmers.se/publication/516812)
+- [A Roadmap for a World Without Drivers](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
