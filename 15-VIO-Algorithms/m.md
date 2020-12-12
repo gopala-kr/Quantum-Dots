@@ -25,11 +25,14 @@
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
 - [Development in the mobility technology ecosystem—how can 5G help?](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/development-in-the-mobility-technology-ecosystem-how-can-5g-help)
+- [Autonomous-driving disruption: Technology, use cases, and opportunities](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-driving-disruption-technology-use-cases-and-opportunities)
 
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
 -------------
 ![SVGZ-Mobility-techology-ecosystem-Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex5.svgz)
+----------
+![DltZFoKWsAAA](https://pbs.twimg.com/media/DltZFoKWsAAA-kS.jpg)
 -----------------
 ![SVGZ-Car-Software-Architecture-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex1.svgz)
 ---------
