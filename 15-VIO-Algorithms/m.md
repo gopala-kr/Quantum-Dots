@@ -23,12 +23,19 @@
 
 --------------
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
+- [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
 -------------------
 ![SVGZ-Car-Software-Architecture-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex1.svgz)
 ---------
 ![SVGZ-Car-Software-Architecture-Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex2.svgz)
 ---------
 ![SVGZ-Car-Software-Architecture-Ex3](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex3.svgz)
+------
+![SVGZ-AutomotiveSoftware2-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20case%20for%20an%20end%20to%20end%20automotive%20software%20platform/SVGZ-AutomotiveSoftware2-Ex1.svgz)
+--------------
+![SVGZ-AutomotiveSoftware2-Ex3](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20case%20for%20an%20end%20to%20end%20automotive%20software%20platform/SVGZ-AutomotiveSoftware2-Ex3.svgz)
+-----------------
+![LIDAR-for-automotive-IP-dynamics](https://www.knowmade.com/wp-content/uploads/edd/2018/05/LIDAR-for-automotive-IP-dynamics.png)
 -------------
 ---------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
