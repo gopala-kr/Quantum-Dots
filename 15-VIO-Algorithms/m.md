@@ -19,6 +19,8 @@
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 - [automotive-iq](https://www.automotive-iq.com/)
+- [Automotive & Assembly Insights](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights)
+
 --------------
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 -------------------
