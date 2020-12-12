@@ -61,6 +61,17 @@
 ![SVGZ-How-China-fuel-vehicles-ex8](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex8.svgz)
 -------------
 ---------------------
+![R85BgB2X_FDsm5Hew3pLAA](https://miro.medium.com/max/2490/1*R85BgB2X_FDsm5Hew3pLAA.png)
+----------------
+![1*IBnbXqgkuCxT](https://miro.medium.com/max/3240/1*IBnbXqgkuCxT-AJD3fFlag.jpeg)
+-----------
+![framework](http://kmj.iis.u-tokyo.ac.jp/localization/image/sensorintegration/framework.jpg)
+-------------
+----------------
+![sw_block_diagram](https://developer.qualcomm.com/sites/default/files/attachments/sw_block_diagram.png)
+
+----------------
+-------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
 ----------
 ![synced-map](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/synced-map.jpg)
@@ -156,5 +167,9 @@
 ![future-of-mobility-5-1024](https://image.slidesharecdn.com/fsmaassummary-151118105753-lva1-app6891/95/future-of-mobility-5-1024.jpg?cb=1447844329)
 -------
 ![wTyoUcfAU9dXUE](https://miro.medium.com/max/945/1*wTyoUcfAU9dXUE-FVV2QDg.png)
+--------------
+![180725161829](https://image.slidesharecdn.com/caitcentralizedcomputingforautonomousdrivingwovideo-180725161829/95/centralized-computing-for-autonomous-driving-20-1024.jpg?cb=1532535570)
+-------------
+![c8ebcf26724f087862d34c945d29d325](https://i.pinimg.com/originals/c8/eb/cf/c8ebcf26724f087862d34c945d29d325.png)
 -----------------
 -----------------
