@@ -19,8 +19,16 @@
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 - [automotive-iq](https://www.automotive-iq.com/)
-
+--------------
+- [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 -------------------
+![SVGZ-Car-Software-Architecture-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex1.svgz)
+---------
+![SVGZ-Car-Software-Architecture-Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex2.svgz)
+---------
+![SVGZ-Car-Software-Architecture-Ex3](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Rethinking%20car%20software%20and%20electronics%20architecture/SVGZ-Car-Software-Architecture-Ex3.svgz)
+-------------
+---------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
 ----------
 ![synced-map](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/synced-map.jpg)
