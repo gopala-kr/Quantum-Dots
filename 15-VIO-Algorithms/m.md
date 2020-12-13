@@ -21,7 +21,8 @@
 - [automotive-iq](https://www.automotive-iq.com/)
 - [Automotive & Assembly Insights](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights)
 - [McKinsey Center for Future Mobility®](https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/overview)
-
+- [lidarnews.com](https://lidarnews.com/)
+- [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
 --------------
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
