@@ -23,6 +23,7 @@
 - [McKinsey Center for Future Mobility®](https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/overview)
 - [lidarnews.com](https://lidarnews.com/)
 - [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
+- [eetasia](https://www.eetasia.com/category/automotive/)
 --------------
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
@@ -102,6 +103,18 @@
 ![ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
 ![ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020.jpg)
+------
+![NXP_AWS-connected-vehicle](https://www.eetimes.com/wp-content/uploads/NXP_AWS-connected-vehicle.jpg)
+------
+![NXP_AWS_interaction](https://www.eetimes.com/wp-content/uploads/NXP_AWS_interaction.jpg)
+------
+![ee4e6688-eb47-4d10-8889-c044190797f8](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/ee4e6688-eb47-4d10-8889-c044190797f8.png)
+-------
+![ST_Auto_P2](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/ST_Auto_P2.jpg)
+------
+![ST_Auto_P3](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/ST_Auto_P3.jpg)
+------
+![ILLUS_AUTOMOTIVE_TRACKS_AudiA8_GlobalView_SYSTEMPLUSCONSULTING_April2020](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/ILLUS_AUTOMOTIVE_TRACKS_AudiA8_GlobalView_SYSTEMPLUSCONSULTING_April2020.jpg)
 ----------------
 -------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
