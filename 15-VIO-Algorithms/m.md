@@ -29,6 +29,7 @@
 - [Development in the mobility technology ecosystem—how can 5G help?](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/development-in-the-mobility-technology-ecosystem-how-can-5g-help)
 - [Autonomous-driving disruption: Technology, use cases, and opportunities](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-driving-disruption-technology-use-cases-and-opportunities)
 - [How China will help fuel the revolution in autonomous vehicles](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-china-will-help-fuel-the-revolution-in-autonomous-vehicles)
+- [Autonomous Vehicle Technical Stack](https://www.youtube.com/watch?v=V8LA0_bb9LI)
 
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
@@ -70,7 +71,16 @@
 -------------
 ----------------
 ![sw_block_diagram](https://developer.qualcomm.com/sites/default/files/attachments/sw_block_diagram.png)
-
+--------
+![wevolver](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQzODgwMDQwLUF1dG9ub21vdXMgVmVoaWNsZSBTZW5zb3JzIDAxIDEwMjRweC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19)
+----------
+![jk1MCwiZml0IjoiY292ZXIifX19](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQzOTU2ODY5LUVsZWN0cm9tYWduZXRpYy1TcGVjdHJ1bS1MSURBUi1SQURBUi03OTBweC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19)
+---------
+![Jjb3ZlciJ9fX0=](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQzOTIyMTExLUF1dG9ub21vdXMtVmVoaWNsZS1TZW5zb3JzLTAyLTc5MHB4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTUwLCJmaXQiOiJjb3ZlciJ9fX0=)
+---------
+![sensors-19-00648-g001](https://www.mdpi.com/sensors/sensors-19-00648/article_deploy/html/images/sensors-19-00648-g001.png)
+--------
+![graphic](https://www.gsaglobal.org/wp-content/uploads/2019/10/graphic.png)
 ----------------
 -------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
