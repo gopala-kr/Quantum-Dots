@@ -38,6 +38,10 @@
 --------
 ![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg?w=1000)
 
+<p>
+    <img src="https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg" width="400" height="480" />
+</p>
+
 ------
 ![Connected-Car-Industry_egil-juliussen](https://www.eetimes.com/wp-content/uploads/Connected-Car-Industry_egil-juliussen.jpg?w=800)
 
