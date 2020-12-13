@@ -25,6 +25,7 @@
 - [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
 - [eetasia](https://www.eetasia.com/category/automotive/)
 --------------
+- [2020 Autonomous Vehicle Technology Report](https://www.wevolver.com/article/2020.autonomous.vehicle.technology.report)
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
 - [Development in the mobility technology ecosystem—how can 5G help?](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/development-in-the-mobility-technology-ecosystem-how-can-5g-help)
@@ -34,23 +35,35 @@
 - [Teardown: Tesla’s Hardware Retrofits for Model 3](https://www.eetasia.com/teslas-hardware-retrofits-for-model-3/)
 - [How Software Strategies Will Dominate Auto Industry](https://www.eetasia.com/how-software-strategies-will-dominate-auto-industry/)
 - [Automotive Software: Where Are We Going?](https://www.eetasia.com/automotive-software-where-are-we-going/)
-
 --------
-![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg?w=1000)
-
-<p>
-    <img src="https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg" width="400" height="480" />
-</p>
+- [A Survey of Deep Learning Techniques for Autonomous Driving](https://arxiv.org/pdf/1910.07738.pdf)
+--------
+-----------
+![ZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzNzg3Mzk3ODYyLUh5cGUgQ1ljbGUgQXV0b25vbW91cyBWZWhpY2xlcyAwMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19)
+---------------
+![automotive-electronics_egil](https://www.eetasia.com/wp-content/uploads/sites/2/2020/08/automotive-electronics_egil.jpg)
+------
+![Egil_China](https://www.eetasia.com/wp-content/uploads/sites/2/2020/09/Egil_China.jpg)
+--------------
+![0813-AV-Connected-Car-Figure](https://www.eetasia.com/wp-content/uploads/sites/2/2020/08/0813-AV-Connected-Car-Figure.jpg)
 
 ------
-![Connected-Car-Industry_egil-juliussen](https://www.eetimes.com/wp-content/uploads/Connected-Car-Industry_egil-juliussen.jpg?w=800)
+![Connected-Car-Industry_egil-juliussen](https://www.eetasia.com/wp-content/uploads/sites/2/2020/07/Connected-Car-Industry_egil-juliussen.jpg)
 
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
+------
+![9D.png?w=1200&fit=fill&bg=ffffff&border=0&q=50](https://idtxs3.imgix.net/si/40000/51/9D.png?w=1200&fit=fill&bg=ffffff&border=0&q=50)
 -------
 ![Connected-Car-Value](https://www.eetimes.com/wp-content/uploads/Connected-Car-Value.jpg)
 ---------
-![egil-software-nu-part-3](https://www.eetimes.com/wp-content/uploads/egil-software-nu-part-3.jpg)
+![egil-software-nu-part-3](https://www.eetasia.com/wp-content/uploads/sites/2/2020/09/egil-software-nu-part-3.jpg)
+--------
+![082520-Egils-Eye](https://www.eetasia.com/wp-content/uploads/sites/2/2020/09/082520-Egils-Eye.jpg?w=1000)
+--------
+![072020-Egils-Eye](https://www.eetasia.com/wp-content/uploads/sites/2/2020/07/072020-Egils-Eye.jpg)
+-------
+![Cooperation_egil](https://www.eetasia.com/wp-content/uploads/sites/2/2020/07/AV-Cooperation_egil.jpg)
 -------------
 ![SVGZ-Mobility-techology-ecosystem-Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex5.svgz)
 ----------
@@ -96,41 +109,89 @@
 ---------
 ![Jjb3ZlciJ9fX0=](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQzOTIyMTExLUF1dG9ub21vdXMtVmVoaWNsZS1TZW5zb3JzLTAyLTc5MHB4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTUwLCJmaXQiOiJjb3ZlciJ9fX0=)
 --------
+![NTAsImZpdCI6ImNvdmVyIn19fQ==](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMTU5NzU4MzIwLVRlc2xhIFZvbHZvIFViZXIgV2F5bW8gMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo5NTAsImZpdCI6ImNvdmVyIn19fQ==)
+-----
+![jk1MCwiZml0IjoiY292ZXIifX19](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgyOTk3MDM4NjMwLVRoaW5raW5nLUdyYXBoLTAyLShzbWFsbDAxKS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19)
+-------
+![3aWR0aCI6OTUwLCJmaXQiOiJjb3ZlciJ9fX0=](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQ0MDI2NjMwLUFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIGZvciBhdXRvbm9tb3VzIHZlaGljbGVzIDA0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTUwLCJmaXQiOiJjb3ZlciJ9fX0=)
+--------
+![CJmaXQiOiJjb3ZlciJ9fX0=](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzMjQzOTM1NTg2LVYyWC1jb21tdW5pY2F0aW9uLTgwMHB4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTUwLCJmaXQiOiJjb3ZlciJ9fX0=)
+---------
 ![sensors-19-00648-g002](https://www.mdpi.com/sensors/sensors-19-00648/article_deploy/html/images/sensors-19-00648-g002.png)
 ---------
 ![sensors-19-00648-g001](https://www.mdpi.com/sensors/sensors-19-00648/article_deploy/html/images/sensors-19-00648-g001.png)
 --------
-![ILLUS2_TESLA_MODEL3_Sensors_ADAS_Applications_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS2_TESLA_MODEL3_Sensors_ADAS_Applications_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS1_TESLA_MODEL3_Sensors_Computing_SYSTEMPLUSCONSULTING_June2020](https://www.eetasia.com/wp-content/uploads/sites/2/2020/06/ILLUS1_TESLA_MODEL3_Sensors_Computing_SYSTEMPLUSCONSULTING_June2020.jpg)
+------------
+![ILLUS2_TESLA_MODEL3_Sensors_ADAS_Applications_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS2_TESLA_MODEL3_Sensors_ADAS_Applications_SYSTEMPLUSCONSULTING_June2020.jpg)
 ------
-![ILLUS3_TESLA_MODEL3_ForwardCameras_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS3_TESLA_MODEL3_ForwardCameras_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS3_TESLA_MODEL3_ForwardCameras_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS3_TESLA_MODEL3_ForwardCameras_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![ILLUS4_TESLA_MODEL3_ForwardCameras_Comparison_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS4_TESLA_MODEL3_ForwardCameras_Comparison_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS4_TESLA_MODEL3_ForwardCameras_Comparison_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS4_TESLA_MODEL3_ForwardCameras_Comparison_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![ILLUS5_TESLA_MODEL3_Cameras_CIS_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS5_TESLA_MODEL3_Cameras_CIS_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS5_TESLA_MODEL3_Cameras_CIS_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS5_TESLA_MODEL3_Cameras_CIS_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![Short_Range_Radars_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS6_TESLA_MODEL3_Long-Short_Range_Radars_SYSTEMPLUSCONSULTING_June2020.jpg)
+![Short_Range_Radars_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS6_TESLA_MODEL3_Long-Short_Range_Radars_SYSTEMPLUSCONSULTING_June2020.jpg)
 ------
-![ILLUS7_TESLA_MODEL3_ComputerUnit_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS7_TESLA_MODEL3_ComputerUnit_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS7_TESLA_MODEL3_ComputerUnit_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS7_TESLA_MODEL3_ComputerUnit_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![ILLUS8_TESLA_MODEL3_Autopilot_Hardware_Evolution_ComputerUnit_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS8_TESLA_MODEL3_Autopilot_Hardware_Evolution_ComputerUnit_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS8_TESLA_MODEL3_Autopilot_Hardware_Evolution_ComputerUnit_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS8_TESLA_MODEL3_Autopilot_Hardware_Evolution_ComputerUnit_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![ILLUS9_TESLA_MODEL3_Autopilot_ECU_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS9_TESLA_MODEL3_Autopilot_ECU_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS9_TESLA_MODEL3_Autopilot_ECU_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS9_TESLA_MODEL3_Autopilot_ECU_SYSTEMPLUSCONSULTING_June2020.jpg)
 ----------
-![ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS10_TESLA_MODEL3_Autopilot_Processors_Evolution_SYSTEMPLUSCONSULTING_June2020.jpg)
 -------
-![ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020.jpg)
+![ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020](https://www.eetimes.com/wp-content/uploads/sites/2/2020/06/ILLUS11_TESLA_MODEL3_Autopilot_Processors_Evolution_Analysis_SYSTEMPLUSCONSULTING_June2020.jpg)
 ------
-![NXP_AWS-connected-vehicle](https://www.eetimes.com/wp-content/uploads/NXP_AWS-connected-vehicle.jpg)
+![NXP_AWS-connected-vehicle](https://www.eetasia.com/wp-content/uploads/sites/2/2020/11/NXP_AWS-connected-vehicle.jpg)
 ------
-![NXP_AWS_interaction](https://www.eetimes.com/wp-content/uploads/NXP_AWS_interaction.jpg)
+![NXP_AWS_interaction](https://www.eetasia.com/wp-content/uploads/sites/2/2020/11/NXP_AWS_interaction.jpg)
+-------
+![NXP_sensorfusion](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/NXP_sensorfusion.png)
 ------
 ![ee4e6688-eb47-4d10-8889-c044190797f8](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/ee4e6688-eb47-4d10-8889-c044190797f8.png)
+--------
+![d3c8fc95-1741-4e64-ae9f-f9b5596a3db5](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/d3c8fc95-1741-4e64-ae9f-f9b5596a3db5.png)
+-------
+![e2040b9f-54ca-42df-84c2-fc8076f976f1](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/e2040b9f-54ca-42df-84c2-fc8076f976f1.png)
+--------
+![211d9e7e-4e20-4ab8-a4b8-97528c64d440](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/211d9e7e-4e20-4ab8-a4b8-97528c64d440.png)
 -------
 ![ST_Auto_P2](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/ST_Auto_P2.jpg)
 ------
 ![ST_Auto_P3](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/ST_Auto_P3.jpg)
 ------
-![]()
+![howmanycamerasdoesittake_algolux](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/howmanycamerasdoesittake_algolux.jpg)
+--------
+![AV-Driver-vs-Human-Driver](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/AV-Driver-vs-Human-Driver.jpg)
+-----
+![AV-software-battle](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/AV-software-battle.jpg)
+---------
+![six-key-AV-softare-platforms](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/six-key-AV-softare-platforms.jpg)
+-------
+![Veoneer-role](https://www.eetasia.com/wp-content/uploads/sites/2/2020/09/Veoneer-role.jpg)
+-------
+![42BCA220-A472-477D-A9A7-482A1F919C5E](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/42BCA220-A472-477D-A9A7-482A1F919C5E.jpeg?resize=800%2C560?w=800)
+--------
+![D0BD3A78-DC78-43D0-B03C-581A5F24F663](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/D0BD3A78-DC78-43D0-B03C-581A5F24F663.jpeg?resize=800%2C560?w=800)
+-----------
+![CB4CED12-0CCD-4ED1-982D-77A42303FF0E](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/CB4CED12-0CCD-4ED1-982D-77A42303FF0E.jpeg?resize=800%2C560?w=800)
+--------
+![0DCB27A4-87E9-4BA2-81A9-1468C6462B98](https://www.eetasia.com/wp-content/uploads/sites/2/2020/05/0DCB27A4-87E9-4BA2-81A9-1468C6462B98.jpeg?resize=800%2C517?w=800)
+------
+![Flow-chart-figure-v4](https://i2.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/Flow-chart-figure-v4.png)
+-------
+![201801_SafeDriving_Chan_0](https://deepdrive.berkeley.edu/sites/default/files/styles/full_width/public/projects/201801_SafeDriving_Chan_0.jpg?itok=sdNQWzDz)
+---------
+![sensors-20-04220-g003](https://www.mdpi.com/sensors/sensors-20-04220/article_deploy/html/images/sensors-20-04220-g003.png)
+-------
+![corps-in-autonomous-header](https://cbi-research-portal-uploads.s3.amazonaws.com/2017/06/07221804/corps-in-autonomous-header.png)
+---------
+![sensor-fusion1](https://www.neophotonics.com/wp-content/uploads/2018/09/sensor-fusion1.png)
+---------
+![time-of-flight---3d-sensing-applications](https://www.melexis.com/-/media/images/insights/why-choose-time-of-flight-for-your-automotive-3d-sensing-applications/time-of-flight---3d-sensing-applications.png)
+------
+![Auto2x-ADAS-Supplier-rankings-2020](https://auto2xtech.com/wp-content/uploads/2019/08/Auto2x-ADAS-Supplier-rankings-2020.png)
 ----------------
 -------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
