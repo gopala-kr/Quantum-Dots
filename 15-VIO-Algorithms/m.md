@@ -32,12 +32,15 @@
 - [How China will help fuel the revolution in autonomous vehicles](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-china-will-help-fuel-the-revolution-in-autonomous-vehicles)
 - [Autonomous Vehicle Technical Stack](https://www.youtube.com/watch?v=V8LA0_bb9LI)
 - [Teardown: Tesla’s Hardware Retrofits for Model 3](https://www.eetasia.com/teslas-hardware-retrofits-for-model-3/)
+- [How Software Strategies Will Dominate Auto Industry](https://www.eetasia.com/how-software-strategies-will-dominate-auto-industry/)
 
 
 --------
-![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg)
+![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg?w=1000)
+
 ------
-![Connected-Car-Industry_egil-juliussen](https://www.eetimes.com/wp-content/uploads/Connected-Car-Industry_egil-juliussen.jpg)
+![Connected-Car-Industry_egil-juliussen](https://www.eetimes.com/wp-content/uploads/Connected-Car-Industry_egil-juliussen.jpg?w=800)
+
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
 -------
