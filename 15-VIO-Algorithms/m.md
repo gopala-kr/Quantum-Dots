@@ -33,8 +33,17 @@
 - [Autonomous Vehicle Technical Stack](https://www.youtube.com/watch?v=V8LA0_bb9LI)
 - [Teardown: Tesla’s Hardware Retrofits for Model 3](https://www.eetasia.com/teslas-hardware-retrofits-for-model-3/)
 
+
+--------
+![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg)
+------
+![Connected-Car-Industry_egil-juliussen](https://www.eetimes.com/wp-content/uploads/Connected-Car-Industry_egil-juliussen.jpg)
 -------------------
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
+-------
+![Connected-Car-Value](https://www.eetimes.com/wp-content/uploads/Connected-Car-Value.jpg)
+---------
+![egil-software-nu-part-3](https://www.eetimes.com/wp-content/uploads/egil-software-nu-part-3.jpg)
 -------------
 ![SVGZ-Mobility-techology-ecosystem-Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex5.svgz)
 ----------
@@ -114,7 +123,7 @@
 ------
 ![ST_Auto_P3](https://www.eetasia.com/wp-content/uploads/sites/2/2020/10/ST_Auto_P3.jpg)
 ------
-![ILLUS_AUTOMOTIVE_TRACKS_AudiA8_GlobalView_SYSTEMPLUSCONSULTING_April2020](https://www.eetasia.com/wp-content/uploads/sites/2/2020/04/ILLUS_AUTOMOTIVE_TRACKS_AudiA8_GlobalView_SYSTEMPLUSCONSULTING_April2020.jpg)
+![]()
 ----------------
 -------------------
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
