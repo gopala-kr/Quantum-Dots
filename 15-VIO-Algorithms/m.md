@@ -33,7 +33,7 @@
 - [Autonomous Vehicle Technical Stack](https://www.youtube.com/watch?v=V8LA0_bb9LI)
 - [Teardown: Tesla’s Hardware Retrofits for Model 3](https://www.eetasia.com/teslas-hardware-retrofits-for-model-3/)
 - [How Software Strategies Will Dominate Auto Industry](https://www.eetasia.com/how-software-strategies-will-dominate-auto-industry/)
-
+- [Automotive Software: Where Are We Going?](https://www.eetasia.com/automotive-software-where-are-we-going/)
 
 --------
 ![0813-AV-Connected-Car-Figure](https://www.eetimes.com/wp-content/uploads/0813-AV-Connected-Car-Figure.jpg?w=1000)
