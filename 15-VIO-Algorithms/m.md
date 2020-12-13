@@ -14,6 +14,7 @@
 - [Urban Mobility System Upgrade](https://www.itf-oecd.org/sites/default/files/docs/15cpb_self-drivingcars.pdf)
 - [Making Mobility-as-a-Service: Towards Governance Principles and Pathways](https://research.chalmers.se/publication/516812)
 - [A Roadmap for a World Without Drivers](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
+- [Autonomous Driving](https://www2.deloitte.com/content/dam/Deloitte/be/Documents/Deloitte_Autonomous-Driving.pdf)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
@@ -24,6 +25,7 @@
 - [lidarnews.com](https://lidarnews.com/)
 - [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
 - [eetasia](https://www.eetasia.com/category/automotive/)
+- [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
 --------------
 - [2020 Autonomous Vehicle Technology Report](https://www.wevolver.com/article/2020.autonomous.vehicle.technology.report)
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
@@ -35,11 +37,36 @@
 - [Teardown: Tesla’s Hardware Retrofits for Model 3](https://www.eetasia.com/teslas-hardware-retrofits-for-model-3/)
 - [How Software Strategies Will Dominate Auto Industry](https://www.eetasia.com/how-software-strategies-will-dominate-auto-industry/)
 - [Automotive Software: Where Are We Going?](https://www.eetasia.com/automotive-software-where-are-we-going/)
+- [On the Road to Fully Self-Driving](https://storage.googleapis.com/sdc-prod/v1/safety-report/Safety%20Report%202018.pdf)
+- [GPS Accuracy](https://www.gps.gov/systems/gps/performance/accuracy/)
+- [GNSS](https://www.oxts.com/what-is-gnss/)
+- [Corporations Working On Autonomous Vehicles, 2020](https://www.cbinsights.com/research/autonomous-driverless-vehicles-corporations-list/)
+- [Decomposing the Autonomous Mobility Stack](https://www.apex.ai/post/decomposing-the-autonomous-mobility-stack)
+
 --------
-- [A Survey of Deep Learning Techniques for Autonomous Driving](https://arxiv.org/pdf/1910.07738.pdf)
+- [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
+- [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
+- [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
 --------
+![mv2_d_1920_1200_s_2](https://static.wixstatic.com/media/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.png/v1/fill/w_1110,h_694,al_c,q_90,usm_0.66_1.00_0.01/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.webp)
+-----------
+![patent-filing-avs](https://www.greyb.com/wp-content/uploads/2019/03/patent-filing-avs.png)
+------------
+![top-companies-with-most-av-patents-1024x546](https://www.greyb.com/wp-content/uploads/2019/03/top-companies-with-most-av-patents-1024x546.png)
+-------
+![top-av-companies](https://www.greyb.com/wp-content/uploads/2019/03/top-av-companies.jpg)
+------
+![JASE-1-1-20-g005](https://www.atlantis-press.com/assets/articles/JASE-1-1-20/JASE-1-1-20-g005.png)
+-------
+![hwD8xs591OtxE3EUEQutaQ](https://miro.medium.com/max/1600/1*hwD8xs591OtxE3EUEQutaQ.png)
+-------
+![15903191092392619_origin](https://static.seekingalpha.com/uploads/2020/5/24/49636850-15903191092392619_origin.jpg)
+------
+![2WzMD0S_CGMcjN7oBcA6EObPWOHubuctACLcB](https://2.bp.blogspot.com/-xiv18TgpOGI/V-38mZNmSVI/AAAAAAAAQHs/2WzMD0S_CGMcjN7oBcA6EObPWOHubuctACLcB/s1600/WCP%2BADAS-4.JPG)
 -----------
 ![ZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19](https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6ImZyb2FsYS8xNTgzNzg3Mzk3ODYyLUh5cGUgQ1ljbGUgQXV0b25vbW91cyBWZWhpY2xlcyAwMi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjk1MCwiZml0IjoiY292ZXIifX19)
+---------
+![2020-gartner-hype-cycle_insert](https://www.sae.org/binaries/content/gallery/cm/articles/news/2020/09/2020-gartner-hype-cycle_insert.jpg)
 ---------------
 ![automotive-electronics_egil](https://www.eetasia.com/wp-content/uploads/sites/2/2020/08/automotive-electronics_egil.jpg)
 ------
@@ -54,6 +81,8 @@
 ![SVGZ-Mobility-techology-ecosystem-Ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex1.svgz)
 ------
 ![9D.png?w=1200&fit=fill&bg=ffffff&border=0&q=50](https://idtxs3.imgix.net/si/40000/51/9D.png?w=1200&fit=fill&bg=ffffff&border=0&q=50)
+---------
+![Analysis-on-the-mobility-start-up-and-investment-landscape](https://www.consultancy.eu/illustrations/news/detail/2019-06-10-162122575-Analysis-on-the-mobility-start-up-and-investment-landscape.jpg)
 -------
 ![Connected-Car-Value](https://www.eetimes.com/wp-content/uploads/Connected-Car-Value.jpg)
 ---------
@@ -92,8 +121,21 @@
 ![SVGZ-How-China-fuel-vehicles-ex7-Expanded](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex7-Expanded.svgz)
 ---------------
 ![SVGZ-How-China-fuel-vehicles-ex8](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20China%20will%20help%20fuel%20the%20revolution%20in%20autonomous%20vehicles/SVGZ-How-China-fuel-vehicles-ex8.svgz)
+-------
+![Car-Automation-Sensor-Data-1](https://www.tuxera.com/wp-content/uploads/2017/11/Car-Automation-Sensor-Data-1.png)
+--------
+![article_featured_retina](https://www.designnews.com/sites/designnews.com/files/styles/article_featured_retina/public/Design%20News/01-autonomous_ADI_0.JPG?itok=OlkZapIB)
+----------
+![FIG_1](https://qtxasset.com/styles/breakpoint_xl_880px_w/s3fs/sensorsmag/1534873911/FIG_1.png/FIG_1.png?itok=TFfNlkaf)
+-------
+![tesla-second-gen-autopilot-sensors-suite](https://electrek.co/wp-content/uploads/sites/3/2016/10/tesla-second-gen-autopilot-sensors-suite.png)
+--------
+![wbHxdCwijmKxKud7M8TQCLcBGAs](https://1.bp.blogspot.com/-i7pB5yBYfbo/XAGVne7rUmI/AAAAAAAAXjU/wF5MJnmWFXE--wbHxdCwijmKxKud7M8TQCLcBGAs/s1600/WCP-3.JPG)
+------
+![/had-path2ad](https://www.renesas.com/in/en/img/solutions/automotive/adas/had-path2ad.png)
 -------------
 ---------------------
+
 ![R85BgB2X_FDsm5Hew3pLAA](https://miro.medium.com/max/2490/1*R85BgB2X_FDsm5Hew3pLAA.png)
 ----------------
 ![1*IBnbXqgkuCxT](https://miro.medium.com/max/3240/1*IBnbXqgkuCxT-AJD3fFlag.jpeg)
@@ -192,8 +234,12 @@
 ![time-of-flight---3d-sensing-applications](https://www.melexis.com/-/media/images/insights/why-choose-time-of-flight-for-your-automotive-3d-sensing-applications/time-of-flight---3d-sensing-applications.png)
 ------
 ![Auto2x-ADAS-Supplier-rankings-2020](https://auto2xtech.com/wp-content/uploads/2019/08/Auto2x-ADAS-Supplier-rankings-2020.png)
+-----
+![concararch](https://cloud.google.com/solutions/images/concararch.svg)
+
 ----------------
 -------------------
+
 ![demand_mobility_](https://www.adlittle.com/sites/default/files/rethinking_on-demand_mobility_-_figure_1_0.png)
 ----------
 ![synced-map](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/synced-map.jpg)
