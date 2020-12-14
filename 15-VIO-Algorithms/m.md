@@ -27,6 +27,8 @@
 - [eetasia](https://www.eetasia.com/category/automotive/)
 - [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
 --------------
+
+- [Current state of the art in hardware & software for self-driving vehicles, 2020](https://wevolver-project-images.s3-us-west-1.amazonaws.com/Wevolver+2020+Autonomous+Vehicle+Technology+Report.pdf)
 - [2020 Autonomous Vehicle Technology Report](https://www.wevolver.com/article/2020.autonomous.vehicle.technology.report)
 - [Rethinking car software and electronics architecture](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rethinking-car-software-and-electronics-architecture)
 - [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
@@ -46,6 +48,7 @@
 -------
 - [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=-b041NXGPZ8)
 - [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
+- [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
