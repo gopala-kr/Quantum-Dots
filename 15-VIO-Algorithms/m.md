@@ -70,6 +70,8 @@
 - [Oliver Cameron (CEO, Voyage) - MIT Self-Driving Cars](https://www.youtube.com/watch?v=-j0tc0Y1CIE)
 - [NVIDIA Self Driving Car presentation](https://www.youtube.com/watch?v=_rC2KsROMMU)
 - [NVIDIA DRIVE Labs](https://www.youtube.com/playlist?list=PLZHnYvH1qtOYkElUMqYiHDMrGTPnqRhSr)
+- [Zoox: ~1-Hour Fully Autonomous Drive in San Francisco](https://www.youtube.com/watch?v=6r7vDhPXmiM)
+- [Waymo 360° Experience: A Fully Self-Driving Journey](https://www.youtube.com/watch?v=B8R148hFxPw)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
