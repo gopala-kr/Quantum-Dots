@@ -43,6 +43,10 @@
 - [Corporations Working On Autonomous Vehicles, 2020](https://www.cbinsights.com/research/autonomous-driverless-vehicles-corporations-list/)
 - [Decomposing the Autonomous Mobility Stack](https://www.apex.ai/post/decomposing-the-autonomous-mobility-stack)
 
+-------
+- [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=-b041NXGPZ8)
+- [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
+
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
