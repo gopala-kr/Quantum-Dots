@@ -46,6 +46,8 @@
 - [Decomposing the Autonomous Mobility Stack](https://www.apex.ai/post/decomposing-the-autonomous-mobility-stack)
 
 -------
+- [Deep Learning and Self-Driving Cars(2017)](https://www.youtube.com/watch?v=1L0TKZQcUtA)
+- [MIT Self-Driving Cars (2018)](https://www.youtube.com/watch?v=_OCjqIgxwHw)
 - [Self-Driving Cars: State of the Art (2019)](https://www.youtube.com/watch?v=sRxaMDDMWQQ)
 - [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
 - [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
@@ -72,6 +74,7 @@
 - [NVIDIA DRIVE Labs](https://www.youtube.com/playlist?list=PLZHnYvH1qtOYkElUMqYiHDMrGTPnqRhSr)
 - [Zoox: ~1-Hour Fully Autonomous Drive in San Francisco](https://www.youtube.com/watch?v=6r7vDhPXmiM)
 - [Waymo 360° Experience: A Fully Self-Driving Journey](https://www.youtube.com/watch?v=B8R148hFxPw)
+- [Karl Iagnemma & Oscar Beijbom (Aptiv Autonomous Mobility)](https://www.youtube.com/watch?v=p5AtrKqQ3Fw)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
