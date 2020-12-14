@@ -75,6 +75,9 @@
 - [Zoox: ~1-Hour Fully Autonomous Drive in San Francisco](https://www.youtube.com/watch?v=6r7vDhPXmiM)
 - [Waymo 360° Experience: A Fully Self-Driving Journey](https://www.youtube.com/watch?v=B8R148hFxPw)
 - [Karl Iagnemma & Oscar Beijbom (Aptiv Autonomous Mobility)](https://www.youtube.com/watch?v=p5AtrKqQ3Fw)
+- [Machine Learning for Autonomous Vehicle Perception at Cruise](https://www.youtube.com/watch?v=-UPfyvDJz9I)
+- [John Leonard - Mapping, Localization and Self Driving Vehicles](https://www.youtube.com/watch?v=1kel8U86EVE)
+- [Building Autonomous Vehicles with NVIDIA’s DRIVE Platform](https://www.youtube.com/watch?v=4zrat3Mn410)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
