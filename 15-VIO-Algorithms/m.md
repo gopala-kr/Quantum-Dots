@@ -67,6 +67,9 @@
 - [David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering](https://www.youtube.com/watch?v=aB8zcAttP1E)
 - [Chris Gerdes (Stanford) on Technology, Policy and Vehicle Safety](https://www.youtube.com/watch?v=LDprUza7yT4)
 - [RI Seminar: Jeff Schneider : Self Driving Cars and AI](https://www.youtube.com/watch?v=jTio_MPQRYc)
+- [Oliver Cameron (CEO, Voyage) - MIT Self-Driving Cars](https://www.youtube.com/watch?v=-j0tc0Y1CIE)
+- [NVIDIA Self Driving Car presentation](https://www.youtube.com/watch?v=_rC2KsROMMU)
+- [NVIDIA DRIVE Labs](https://www.youtube.com/playlist?list=PLZHnYvH1qtOYkElUMqYiHDMrGTPnqRhSr)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
