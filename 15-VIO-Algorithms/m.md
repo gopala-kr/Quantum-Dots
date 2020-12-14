@@ -60,6 +60,10 @@
 - [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://www.youtube.com/watch?v=dWSbItd0HEA)
 - [Kyle Vogt: Cruise Automation](https://www.youtube.com/watch?v=YUYagvESisE)
 - [Sterling Anderson, Co-Founder, Aurora - MIT Self-Driving Cars](https://www.youtube.com/watch?v=HKBhP9JISF0)
+- [Sertac Karaman (MIT) on Motion Planning in a Complex World](https://www.youtube.com/watch?v=0fLSf3NO0-s)
+- [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
+- [George Hotz: I Can Make Your Car Drive Itself for Under $1,000](https://www.youtube.com/watch?v=aqdYbwY9vPU)
+- [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://www.youtube.com/watch?v=iwcYp-XT7UI)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
