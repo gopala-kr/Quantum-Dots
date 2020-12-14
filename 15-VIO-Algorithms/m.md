@@ -47,7 +47,7 @@
 
 -------
 - [Self-Driving Cars: State of the Art (2019)](https://www.youtube.com/watch?v=sRxaMDDMWQQ)
-- [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=-b041NXGPZ8)
+- [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=Ucp0TTmvqOE)
 - [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
 - [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE)
 - [Andrej Karpathy: Tesla Autopilot and Multi-Task Learning for Perception and Prediction](https://www.youtube.com/watch?v=IHH47nZ7FZU)
@@ -55,6 +55,8 @@
 - [Drago Anguelov (Waymo) - MIT Self-Driving Cars](https://www.youtube.com/watch?v=Q0nGo2-y0xY)
 - [Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education](https://www.youtube.com/watch?v=ZPPAOakITeQ)
 - [Chris Urmson: Self-Driving Cars at Aurora, Google, CMU, and DARPA ](https://www.youtube.com/watch?v=Tj6NOfdfa4o)
+- [Sacha Arnoud, Director of Engineering, Waymo - MIT Self-Driving Cars](https://www.youtube.com/watch?v=LSX3qdy0dFg)
+- [Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars](https://www.youtube.com/watch?v=dWSbItd0HEA)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
