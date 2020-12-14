@@ -26,6 +26,7 @@
 - [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
 - [eetasia](https://www.eetasia.com/category/automotive/)
 - [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
+- [hotchips](https://www.youtube.com/channel/UCjtg-76lhmVr0K86zMxbFGw)
 
 --------------
 
