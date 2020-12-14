@@ -49,6 +49,8 @@
 - [Tesla Autonomy Day 2019 - Full Self-Driving Autopilot - Complete Investor Conference Event](https://www.youtube.com/watch?v=-b041NXGPZ8)
 - [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
 - [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE)
+- [Andrej Karpathy: Tesla Autopilot and Multi-Task Learning for Perception and Prediction](https://www.youtube.com/watch?v=IHH47nZ7FZU)
+- [Tesla Autopilot | Lex Fridman Podcast #18](https://www.youtube.com/watch?v=dEv99vxKjVI)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
