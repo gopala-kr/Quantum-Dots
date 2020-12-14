@@ -26,6 +26,7 @@
 - [AutoPilot Review](https://www.youtube.com/channel/UClIRjQqh0D8bGN0p4CZOVIw)
 - [eetasia](https://www.eetasia.com/category/automotive/)
 - [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
+
 --------------
 
 - [Current state of the art in hardware & software for self-driving vehicles, 2020](https://wevolver-project-images.s3-us-west-1.amazonaws.com/Wevolver+2020+Autonomous+Vehicle+Technology+Report.pdf)
@@ -46,6 +47,7 @@
 - [Decomposing the Autonomous Mobility Stack](https://www.apex.ai/post/decomposing-the-autonomous-mobility-stack)
 
 -------
+
 - [Deep Learning and Self-Driving Cars(2017)](https://www.youtube.com/watch?v=1L0TKZQcUtA)
 - [MIT Self-Driving Cars (2018)](https://www.youtube.com/watch?v=_OCjqIgxwHw)
 - [Self-Driving Cars: State of the Art (2019)](https://www.youtube.com/watch?v=sRxaMDDMWQQ)
