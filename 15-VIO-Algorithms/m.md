@@ -64,6 +64,9 @@
 - [Autonomous Driving by Cruise Lead](https://www.youtube.com/watch?v=s-8cYj_eh8E)
 - [George Hotz: I Can Make Your Car Drive Itself for Under $1,000](https://www.youtube.com/watch?v=aqdYbwY9vPU)
 - [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://www.youtube.com/watch?v=iwcYp-XT7UI)
+- [David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering](https://www.youtube.com/watch?v=aB8zcAttP1E)
+- [Chris Gerdes (Stanford) on Technology, Policy and Vehicle Safety](https://www.youtube.com/watch?v=LDprUza7yT4)
+- [RI Seminar: Jeff Schneider : Self Driving Cars and AI](https://www.youtube.com/watch?v=jTio_MPQRYc)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
