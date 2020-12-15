@@ -87,6 +87,7 @@
 - [ChalmersX's Emerging Automotive Technologies](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
 - [University of Toronto: Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
 - [The School of Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems)
+- [UMGC and USMx's Drones and Autonomous Systems](https://www.edx.org/professional-certificate/umgc-usmx-drones-and-autonomous-systems)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
