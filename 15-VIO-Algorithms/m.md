@@ -83,7 +83,8 @@
 - [Building Autonomous Vehicles with NVIDIA’s DRIVE Platform](https://www.youtube.com/watch?v=4zrat3Mn410)
 - [Graphics & AR](https://www.youtube.com/watch?v=IjxpMZUqu6c)
 - [Self-Driving Cars: An Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=EBFlmHqgezM)
-
+--------
+- [University of Toronto: Self-Driving Cars Specialization]()
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
