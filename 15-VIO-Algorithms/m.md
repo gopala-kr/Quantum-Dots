@@ -27,6 +27,7 @@
 - [eetasia](https://www.eetasia.com/category/automotive/)
 - [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
 - [hotchips](https://www.youtube.com/channel/UCjtg-76lhmVr0K86zMxbFGw)
+- [AutoSens](https://www.youtube.com/c/AutoSensTV/playlists)
 
 --------------
 
@@ -83,11 +84,33 @@
 - [Building Autonomous Vehicles with NVIDIA’s DRIVE Platform](https://www.youtube.com/watch?v=4zrat3Mn410)
 - [Graphics & AR](https://www.youtube.com/watch?v=IjxpMZUqu6c)
 - [Self-Driving Cars: An Introduction (Cyrill Stachniss, 2020)](https://www.youtube.com/watch?v=EBFlmHqgezM)
+- [Simulate a Self-Driving Car](https://www.youtube.com/watch?v=EaY5QiZwSP4)
+- [Kraw Lecture Series: Unintended Consequences of Autonomous Vehicles](https://www.youtube.com/watch?v=epL_K9lBhcw)
+- [Autonomous Vehicle Webinar](https://www.youtube.com/watch?v=CruCp6vqPQs)
+- [Lex Fridman - The Future Landscape of Autonomous Vehicles](https://www.youtube.com/watch?v=YgRD30iE4o0)
+- [Run Millions of Self-Driving Car Simulations on GCP (Cloud Next '19)](https://www.youtube.com/watch?v=NGXZ-mYqyUo)
+- [Stanford Seminar-Solid State LiDar for Autonomous Vehicles,Security, Industrial Automation, 3D Maps](https://www.youtube.com/watch?v=uPqzo29Q9Wc)
+- [Low Cost LiDAR System Design Considerations](https://www.youtube.com/watch?v=N7gnoxVrjR8)
+- [The latest developments in radar technology for automotive](https://www.youtube.com/watch?v=MiVCee1UfJs)
+- [Challenges in ADAS & Autonomous Driving Solutions](https://www.youtube.com/watch?v=u2WpGLeToKY)
+- [Sensing technology for autonomous vehicles](https://www.youtube.com/watch?v=rkCFewFSXZ0)
+- [State of the art algorithms for computer vision and machine learning for the automotive industry](https://www.youtube.com/watch?v=aACR2QD5RPs)
+- [Multi-Camera On-The-Fly Calibration for Surround-View Systems](https://www.youtube.com/watch?v=Ub318sKg9SI)
+- [From Viewing to Doing: Evolution of camera systems from scene viewing to automated parking"](https://www.youtube.com/watch?v=m08p13JW6Jo)
+- [ADAS Front Camera: Demystifying Resolution and Frame-Rate](https://www.youtube.com/watch?v=rR68JwkMfuQ)
+- [Automotive Camera Trends Driving Changes in Optical Designs](https://www.youtube.com/watch?v=bEViXmcXRuc)
+- [What’s going on in the ADAS ecosystem?](https://www.youtube.com/watch?v=O2hyos3WiDA)
+- [Challenges with validation for sensor fusion systems](https://www.youtube.com/watch?v=gzsh88alBlA)
+- [Raw data fusion for safer autonomous driving](https://www.youtube.com/watch?v=sNaENlLZYSo)
+- [A Deep Learning-based Radar and Camera Sensor Fusion Architecture for Object Detection](https://www.youtube.com/watch?v=JhF90n0fOnU)
+- [Early and cooperative sensor fusion – benefits and practical experience](https://www.youtube.com/watch?v=OrH8ArcqBVE)
+
 --------
 - [ChalmersX's Emerging Automotive Technologies](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
 - [University of Toronto: Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
 - [The School of Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems)
 - [UMGC and USMx's Drones and Autonomous Systems](https://www.edx.org/professional-certificate/umgc-usmx-drones-and-autonomous-systems)
+- [MIT Autonomous Vehicle](https://deeplearning.mit.edu/)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
