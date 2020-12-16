@@ -94,6 +94,29 @@
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
 - [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
 --------
+![sd_dl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dl.png)
+------------
+![sd_block1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_block1.PNG)
+------------
+![sd_block2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_block2.png)
+------------
+![sd_block](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_block.PNG)
+------------
+![sd](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd.PNG)
+------------
+![sd_al](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_al.PNG)
+------------
+![sd_sen](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_sen.PNG)
+------------
+![sd_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_map.PNG)
+------------
+![sd_dataset](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dataset.PNG)
+------------
+![sd_dataset2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dataset2.PNG)
+
+------------
+-------------------
+
 ![mv2_d_1920_1200_s_2](https://static.wixstatic.com/media/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.png/v1/fill/w_1110,h_694,al_c,q_90,usm_0.66_1.00_0.01/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.webp)
 -----------
 ![patent-filing-avs](https://www.greyb.com/wp-content/uploads/2019/03/patent-filing-avs.png)
