@@ -116,7 +116,7 @@
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
 - [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
-- [AutonomousDriving with Deep Learning: A Survey of State-of-Art Technologies](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)
+- [AutonomousDriving with Deep Learning: A Survey of State-of-Art Technologies, 2020](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)
 --------
 ![sd_dl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dl.png)
 ------------
@@ -160,6 +160,30 @@
 ![sd_tab10](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab11.PNG)
 ------------
 ![sd_tab11](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab12.PNG)
+-------
+![sd_tab21](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab21.PNG)
+-------
+![sd_tab22](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab22.PNG)
+-------
+![sd_tab23](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab23.PNG)
+-------
+![sd_tab24](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab24.PNG)
+-------
+![sd_tab25](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab25.PNG)
+-------
+![sd_tab26](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab26.PNG)
+-------
+![sd_tab27](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab27.PNG)
+-------
+![sd_tab28](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab28.PNG)
+-------
+![sd_tab29](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab29.PNG)
+-------
+![sd_tab30](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab30.PNG)
+-------
+![sd_tab31](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab31.PNG)
+-------
+![sd_tab32](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab32.PNG)
 ------------
 -------------------
 
