@@ -760,6 +760,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
 -------
+![365833_0010](https://blogs.gartner.com/marco-meinardi/files/2018/11/365833_0010.png)
+--------------
 
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
 
