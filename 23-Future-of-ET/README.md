@@ -435,9 +435,9 @@
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
 ----------
 ![c2800a955b1beab9649330691122c904](https://i.pinimg.com/originals/c2/80/0a/c2800a955b1beab9649330691122c904.jpg)
----------
+-----------
+![34_contentfwk8](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk8.png)
 
-![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
 -----------
 ![conceptualdatamodel](https://techieprincesa.files.wordpress.com/2013/04/ea-conceptualdatamodel.png)
 ------
@@ -454,8 +454,9 @@
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
------------
-![34_contentfwk8](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk8.png)
+---------
+
+![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
 ---------------
 
 ![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
