@@ -122,15 +122,23 @@
 - [A Survey of Deep Learning Applications toAutonomous Vehicle Control](https://arxiv.org/pdf/1912.10773.pdf)
 - [MIT Advanced Vehicle Technology Study:Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction with Automation](https://arxiv.org/pdf/1711.06976.pdf)
 - [A Survey of End-to-End Driving:Architectures and Training Methods](https://arxiv.org/pdf/2003.06404.pdf)
+- [Control Strategies for Autonomous Vehicles](https://arxiv.org/pdf/2011.08729.pdf)
+- [Deep Learning-based Vehicle Behaviour Predictionfor Autonomous Driving Applications: a Review](https://arxiv.org/pdf/1912.11676.pdf)
 
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
+--------
+![sd_pipeline5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline5.PNG)
 ------
 ![sd_pipeline2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
 ------
-![sd_pipeline3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
+![sd_pipeline3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline3.PNG)
 ------
-![sd_pipeline4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
+![sd_pipeline4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline4.PNG)
+---------
+![sd_pipeline6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline6.PNG)
+--------
+![sd_bh](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_bh.PNG)
 --------
 ![sd_dl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dl.png)
 ------------
@@ -205,6 +213,8 @@
 ![sd_cn2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn2.PNG)
 -----------
 ![sd_cn3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn3.PNG)
+--------
+![sd_cn4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn4.PNG)
 ------------
 -------------------
 
