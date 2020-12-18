@@ -117,6 +117,20 @@
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
 - [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
 - [AutonomousDriving with Deep Learning: A Survey of State-of-Art Technologies, 2020](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)
+- [A Survey on Autonomous Vehicle Control in the Era of Mixed-Autonomy: From Physics-Based to AI-Guided Driving Policy Learning](https://arxiv.org/pdf/2007.05156.pdf)
+- [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
+- [A Survey of Deep Learning Applications toAutonomous Vehicle Control](https://arxiv.org/pdf/1912.10773.pdf)
+- [MIT Advanced Vehicle Technology Study:Large-Scale Naturalistic Driving Study of Driver Behavior and Interaction with Automation](https://arxiv.org/pdf/1711.06976.pdf)
+- [A Survey of End-to-End Driving:Architectures and Training Methods](https://arxiv.org/pdf/2003.06404.pdf)
+
+---------
+![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
+------
+![sd_pipeline2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
+------
+![sd_pipeline3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
+------
+![sd_pipeline4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
 --------
 ![sd_dl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dl.png)
 ------------
@@ -184,6 +198,13 @@
 ![sd_tab31](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab31.PNG)
 -------
 ![sd_tab32](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab32.PNG)
+---------
+-----------
+![sd_cn1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn1.PNG)
+-----------
+![sd_cn2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn2.PNG)
+-----------
+![sd_cn3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn3.PNG)
 ------------
 -------------------
 
@@ -211,9 +232,16 @@
 - NGSIM data: https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
 - HighD dataset: https://www.highd-dataset.com/
 - INTERACTION dataset: https://interaction-dataset.com/
+-----------
+![sd_eed](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_eed.PNG)
+---------
+![sd_r](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_r.PNG)
+-----------
+-----------
+![cars_1080](https://lexfridman.com/wordpress/wp-content/uploads/2019/08/cars_1080.png)
 
------------
------------
+----------
+-------------
 
 
 ![mv2_d_1920_1200_s_2](https://static.wixstatic.com/media/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.png/v1/fill/w_1110,h_694,al_c,q_90,usm_0.66_1.00_0.01/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.webp)
