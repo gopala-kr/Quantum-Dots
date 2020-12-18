@@ -124,6 +124,8 @@
 - [A Survey of End-to-End Driving:Architectures and Training Methods](https://arxiv.org/pdf/2003.06404.pdf)
 - [Control Strategies for Autonomous Vehicles](https://arxiv.org/pdf/2011.08729.pdf)
 - [Deep Learning-based Vehicle Behaviour Predictionfor Autonomous Driving Applications: a Review](https://arxiv.org/pdf/1912.11676.pdf)
+- [Real-to-Virtual Domain Unification for End-to-EndAutonomous Driving](https://arxiv.org/pdf/1801.03458.pdf)
+- [Autonomous Driving: Framework for Pedestrian Intention  Estimationin a Real WorldScenario](https://arxiv.org/pdf/2006.02711.pdf)
 
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
@@ -203,7 +205,7 @@
 -------
 ![sd_tab30](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab30.PNG)
 -------
-![sd_tab31](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab31.PNG)
+![sd_tab31](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab31.png)
 -------
 ![sd_tab32](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab32.PNG)
 ---------
