@@ -374,6 +374,11 @@
 ![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
 
 -----------
+![Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/EN-Finance-BCMap-Poster_Landing_Page_Preview.png?)
+
+-----------
+![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
+-----------
 
 [Back to top](#contents)
 
@@ -413,6 +418,10 @@
 
 [Back to top](#contents)
 
+![strategy-map-template](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q4/strategy-map-template/strategy-map-template.png)
+----------
+![7201018_preview](https://i.dlpng.com/static/png/7201018_preview.png)
+----------------
 ![Diagram-1-2017-05-27](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-1-2017-05-27.png)
 --------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
@@ -467,6 +476,8 @@
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
 ------------
+![1decac25e3efa3914a192511c1a61b28](https://i.pinimg.com/originals/1d/ec/ac/1decac25e3efa3914a192511c1a61b28.jpg)
+------------
 ![hierarchy_versus_community](https://dionhinchcliffe.files.wordpress.com/2014/04/hierarchy_versus_community.png)
 
 -----------
@@ -483,7 +494,8 @@
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
-
+---------
+![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
 -----------------
 
 Typical Team Structure
@@ -491,6 +503,8 @@ Typical Team Structure
 ![team](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/team.PNG)
 
 [Back to top](#contents)
+
+
 
 -------
 Skills
@@ -505,6 +519,17 @@ Skills
 ![Top-IT-Job-Titles-2-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/01085633/Top-IT-Job-Titles-2-Ongig.png)
 ---------
 ![gartner-cio-investment-2020](https://zdnet4.cbsistatic.com/hub/i/2019/10/23/b11dc3c0-243a-42a0-99fa-d1c8f3085969/gartner-cio-investment-2020.png)
+
+---------
+![impact-digitization-on-it_i13741920x1080_13_42](https://www.4cgroup.com/media/CxO/CIO-Office/Digitalisierung-in-der-IT/impact-digitization-on-it_i13741920x1080_13_42.jpg)
+-------
+![ciopredictionsissuestrendsdigitaltransformationnewcsuite2019](https://www.constellationr.com/sites/default/files/uploads/ciopredictionsissuestrendsdigitaltransformationnewcsuite2019.png)
+----------
+![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
+--------
+![eacb7d1b0ee77d9c2f59a7ad159b7ab3](https://i.pinimg.com/originals/ea/cb/7d/eacb7d1b0ee77d9c2f59a7ad159b7ab3.png)
+---------
+![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
 --------------
 -------------
 
@@ -669,10 +694,15 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Mastering Cloud Cost Optimization: Cloud Cost Models & Discounts Overview](https://blog.turbonomic.com/mastering-cloud-cost-optimization-cost-models-discounts-overview)
 
 
-
-
+--------------
+![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
+-----------
+![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
+-----------
+![google-cloud-anthos-aws-azure-edge-multicloud](https://zdnet3.cbsistatic.com/hub/i/2020/08/19/6e370863-96e5-4dd0-a8aa-50c9f7acffbc/google-cloud-anthos-aws-azure-edge-multicloud.png)
 ----------
-
+![Enterprise-Cloud-Strategy](https://www.cuelogic.com/wp-content/uploads/2019/05/Enterprise-Cloud-Strategy.jpg)
+---------------
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
 -------
@@ -1211,8 +1241,13 @@ IIoT Platform
 
 ---------------
 ![Critical_Capabilities_3_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Critical_Capabilities_3_4.jpg)
-
+------------
+![EDS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/EDS.PNG)
 -----------------
+![eds2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/eds2.PNG)
+--------------
+![eds3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/eds3.PNG)
+-----------
  
  
  <table cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
