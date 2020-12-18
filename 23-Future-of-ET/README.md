@@ -741,8 +741,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
 -----------
-![hybrid-cloud-adoption-rightscale](https://blog.shi.com/wp-content/uploads/2018/06/hybrid-cloud-adoption-rightscale.png)
+![IBM_Infographic_CloudTeam_TWITTER2](https://www.ibm.com/blogs/think/wp-content/uploads/2019/11/IBM_Infographic_CloudTeam_TWITTER2-1000.jpg)
 ----------
+![Enterprise-Cloud-Strategy](https://blog.equinix.com/wp-content/uploads/2020/06/Enterprise-Cloud-Strategy.png)
+-------------
 ![Service-Mesh-Blog-5](https://blogs.vmware.com/networkvirtualization/files/2018/12/Service-Mesh-Blog-5.png)
 ------------
 ![largescale-aws-migrations-with-csc-18-1024](https://image.slidesharecdn.com/csc-large-scaleawsmigrationswithcsc032117-170327190117/95/largescale-aws-migrations-with-csc-18-1024.jpg?cb=1490641341)
