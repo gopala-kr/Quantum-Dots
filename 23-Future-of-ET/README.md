@@ -369,15 +369,26 @@
 ##### Enterprise Architecture Example :
 
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
-
-----------
-![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
-
------------
-![Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/EN-Finance-BCMap-Poster_Landing_Page_Preview.png?)
-
 -----------
 ![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
+----------
+![03_001.jpg?width=2927&name=03_001](https://blog.sap-press.com/hs-fs/hubfs/03_001.jpg?width=2927&name=03_001.jpg)
+--------------
+![Screen-Shot-2015-03-23-at-16_40_32-1024x505](https://blog.aptitudesoftware.com/hubfs/Imported_Blog_Media/Screen-Shot-2015-03-23-at-16_40_32-1024x505.png)
+---------
+![slide3-l](https://image4.slideserve.com/7290592/slide3-l.jpg)
+-----------
+![ifrs-15-revenue-from-contracts-with-customers-63-1024](https://image.slidesharecdn.com/ifrs15revenuefromcontractswithcustomers-170511194042/95/ifrs-15-revenue-from-contracts-with-customers-63-1024.jpg?cb=1494533118)
+------------
+![Slide5](https://live.theasianbanker.com/uploads/Slide5.PNG)
+---------
+![Screen-Shot-2020-01-22-at-9-03-11-AM](https://www.teradata.com/getattachment/Blogs/Analytics-in-the-Hybrid-Cloud-An-Architect%E2%80%99s-Perspective/Screen-Shot-2020-01-22-at-9-03-11-AM.png)
+-----------
+![os-img-13](https://bryteflow.com/wp-content/uploads/2020/01/os-img-13.png)
+----------
+------------------
+![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
+
 -----------
 
 [Back to top](#contents)
@@ -429,7 +440,16 @@
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
+-----------
+![34_contentfwk8](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk8.png)
+---------------
 
+![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
+-----------------
+![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
+
+----------
+![]()
 -----------
 --------
 
@@ -495,8 +515,7 @@
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
 ---------
-![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
------------------
+
 
 Typical Team Structure
 
@@ -504,8 +523,11 @@ Typical Team Structure
 
 [Back to top](#contents)
 
+-----------
+![IT-landscape](https://www.emagiz.com/wp-content/uploads/2020/01/IT-landscape.png)
 
-
+-----------
+![Snowflake-migration](https://www.jadeglobal.com/themes/custom/jade_subtheme/images/ABM/snowflake/Snowflake-migration.jpg)
 -------
 Skills
 
@@ -524,8 +546,7 @@ Skills
 ![impact-digitization-on-it_i13741920x1080_13_42](https://www.4cgroup.com/media/CxO/CIO-Office/Digitalisierung-in-der-IT/impact-digitization-on-it_i13741920x1080_13_42.jpg)
 -------
 ![ciopredictionsissuestrendsdigitaltransformationnewcsuite2019](https://www.constellationr.com/sites/default/files/uploads/ciopredictionsissuestrendsdigitaltransformationnewcsuite2019.png)
-----------
-![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
+
 --------
 ![eacb7d1b0ee77d9c2f59a7ad159b7ab3](https://i.pinimg.com/originals/ea/cb/7d/eacb7d1b0ee77d9c2f59a7ad159b7ab3.png)
 ---------
@@ -700,8 +721,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
 -----------
 ![google-cloud-anthos-aws-azure-edge-multicloud](https://zdnet3.cbsistatic.com/hub/i/2020/08/19/6e370863-96e5-4dd0-a8aa-50c9f7acffbc/google-cloud-anthos-aws-azure-edge-multicloud.png)
-----------
-![Enterprise-Cloud-Strategy](https://www.cuelogic.com/wp-content/uploads/2019/05/Enterprise-Cloud-Strategy.jpg)
 ---------------
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
@@ -1063,6 +1082,8 @@ CRM and Customer Experience Implementation Services
 -------
 ![variety-of-existing-database-systems-18](https://www.researchgate.net/profile/Nikos_Korfiatis/publication/303562879/figure/fig2/AS:388081703243778@1469537296695/Landscape-and-categorization-of-the-high-variety-of-existing-database-systems-18.png)
 -----------
+![SAP%2BRoadmap](https://3.bp.blogspot.com/-SUSHPshdS1k/VYnhZgc-J5I/AAAAAAAACGE/Fy7pvnjNPlo/s1600/SAP%2BRoadmap.jpg)
+-----------
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
 ----------
 
@@ -1102,7 +1123,26 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
-
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024.jpg?cb=1492757773)
+--------------
+![gartner-why-you-need-a-hybrid-integratio](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-5-1024.jpg?cb=1492757773)
+------------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-6-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-6-1024.jpg?cb=1492757773)
+------------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-9-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-9-1024.jpg?cb=1492757773)
+------------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-10-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-10-1024.jpg?cb=1492757773)
+-----------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-11-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-11-1024.jpg?cb=1492757773)
+-----------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-12-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-12-1024.jpg?cb=1492757773)
+-----------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-17-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-17-1024.jpg?cb=1492757773)
+-----------
+![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024.jpg?cb=1492757773)
+-------------
+![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
+-------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
 ---------------
@@ -1112,6 +1152,8 @@ CRM and Customer Experience Implementation Services
 ---------
 
 ![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
+-----------
+![SCP-Integration-Figure-1](https://www.sapinsideronline.com/-/media/Alloy/Images/Assets/QandAs/SCP-Integration-Figure-1.jpg)
 
 ----------
 - [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
@@ -1129,7 +1171,12 @@ CRM and Customer Experience Implementation Services
 ----------------
 
 ![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
-
+----------
+![Lionsgatesoft_API_Management_Vendors_Landscape](https://www.lionsgatesoft.com/wp-content/uploads/2019/08/Lionsgatesoft_API_Management_Vendors_Landscape-1024x701.png)
+--------
+![api-governance-in-the-enterprise-10-1024](https://image.slidesharecdn.com/api-governance-in-the-enterprise-161020171821/95/api-governance-in-the-enterprise-10-1024.jpg?cb=1476994390)
+-----------
+![sp3tbeYrbBhtg9ae42dDCQ](https://miro.medium.com/max/1200/1*sp3tbeYrbBhtg9ae42dDCQ.png)
 ---------------
 ---------------
 
