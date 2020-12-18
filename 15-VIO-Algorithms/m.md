@@ -252,6 +252,8 @@
 ![sd_eed](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_eed.PNG)
 ---------
 ![sd_r](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_r.PNG)
+--------
+![sd_3dpoint](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_3dpoint.PNG)
 -----------
 -----------
 ![cars_1080](https://lexfridman.com/wordpress/wp-content/uploads/2019/08/cars_1080.png)
