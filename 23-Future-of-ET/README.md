@@ -232,6 +232,8 @@
 ---------
 ![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
 
+-------------
+![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
 ----------
 ![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
 
@@ -372,6 +374,8 @@
 -----------
 ![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
 ----------
+![ibm-reference-soa-for-banking](https://www.dragon1.com/images/ibm-reference-soa-for-banking.png)
+-----------------
 ![03_001.jpg?width=2927&name=03_001](https://blog.sap-press.com/hs-fs/hubfs/03_001.jpg?width=2927&name=03_001.jpg)
 --------------
 ![Screen-Shot-2015-03-23-at-16_40_32-1024x505](https://blog.aptitudesoftware.com/hubfs/Imported_Blog_Media/Screen-Shot-2015-03-23-at-16_40_32-1024x505.png)
@@ -429,6 +433,8 @@
 
 [Back to top](#contents)
 
+![11ace4562605b17ff2b06f277729588c](https://i.pinimg.com/originals/11/ac/e4/11ace4562605b17ff2b06f277729588c.png)
+------------
 ![strategy-map-template](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q4/strategy-map-template/strategy-map-template.png)
 ----------
 ![7201018_preview](https://i.dlpng.com/static/png/7201018_preview.png)
@@ -436,7 +442,15 @@
 ![Diagram-1-2017-05-27](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-1-2017-05-27.png)
 --------------
 ![107-eal](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/107-eal.PNG)
+----------
+![c2800a955b1beab9649330691122c904](https://i.pinimg.com/originals/c2/80/0a/c2800a955b1beab9649330691122c904.jpg)
+---------
+![Stat%20Canada%20Enterprise%20Information%20Architecture](https://statswiki.unece.org/download/attachments/154042613/Stat%20Canada%20Enterprise%20Information%20Architecture.png?version=1&modificationDate=1508184215771&api=v2)
+-----------
+![conceptualdatamodel](https://techieprincesa.files.wordpress.com/2013/04/ea-conceptualdatamodel.png)
 ------
+![End2EndServices2](https://89d384dc-a-887a417c-s-sites.googlegroups.com/a/enterprisearchitectservices.com/eas/application/End2EndServices2.JPG?attachauth=ANoY7crxg3M9RRa9nVVd3q14wFiMGKEpYPtpmYCfN7H67rpWNJjVAyLEJz82O9ocJuY204uIIPvODzspEkj5FUiGdqkNQ0EwnirIJ-8O0C67Yc4pWJsLgTZnl_aKw0-huw9tz4K566GmEVcxplvsi9LL7W2FN1ClxG6vK8-H_Q-yImajxayzus-gKfdWPV1TKE0x_f4hEiTq5631grx1SafTFM-bMjTOkP1VPS0uqTDjchkAeuuEfi9qTzZbkn8Fk8RN0yo7vLQ9&attredirects=0)
+-----------
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
@@ -447,9 +461,8 @@
 ![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
 -----------------
 ![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
-
-----------
-![]()
+---------
+![prioritiesbetweenbusinessexecutivesandtechnologyleadershipcompared](https://zdnet2.cbsistatic.com/hub/i/r/2015/04/30/873773e5-97c7-4c96-a00c-a9499e4fdb4e/resize/770xauto/b0fa22c9caab4274828283d247fac387/prioritiesbetweenbusinessexecutivesandtechnologyleadershipcompared.png)
 -----------
 --------
 
@@ -514,6 +527,10 @@
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
+----------
+![shared-customer-experience](https://zdnet4.cbsistatic.com/hub/i/r/2020/01/22/4b5c8ac1-4166-41a7-b200-c2cb0bdfdca0/thumbnail/770x578/cd29eb6c98c3ba386606281a77069359/shared-customer-experience-landscape-of-the-cio-and-cmo.png)
+----------
+![f7bb81cd4a31f57c7d2f1ad9c70ece88](https://i.pinimg.com/originals/f7/bb/81/f7bb81cd4a31f57c7d2f1ad9c70ece88.jpg)
 ---------
 
 
@@ -528,6 +545,9 @@ Typical Team Structure
 
 -----------
 ![Snowflake-migration](https://www.jadeglobal.com/themes/custom/jade_subtheme/images/ABM/snowflake/Snowflake-migration.jpg)
+
+---------
+![tbr_webscale_ict_ml_1q20_infog](https://tbri.com/wp-content/uploads/2020/06/tbr_webscale_ict_ml_1q20_infog.png)
 -------
 Skills
 
@@ -721,6 +741,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
 -----------
 ![google-cloud-anthos-aws-azure-edge-multicloud](https://zdnet3.cbsistatic.com/hub/i/2020/08/19/6e370863-96e5-4dd0-a8aa-50c9f7acffbc/google-cloud-anthos-aws-azure-edge-multicloud.png)
+-----------
+![Multi_Cloud_Engine2](https://lcom.static.linuxfound.org/images/stories/41373/Multi_Cloud_Engine2.png)
 ---------------
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
@@ -732,6 +754,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 
+-------------
+![669448247717908](https://www.researchgate.net/profile/Gerardo_Flintsch/publication/265975447/figure/fig15/AS:669448247717908@1536620308928/2-NTCIP-Framework-36.jpg)
 ---------
 ![gartner-nsg-graph_feb20](https://www.orange-business.com/sites/default/files/gartner-nsg-graph_feb20.jpg)
 
@@ -1123,6 +1147,16 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
+![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
+
+---------------
+
+![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
+
+----------
+![integration-and-orchestration-services-in-SAP-Cloud-Platform](https://blogs.sap.com/wp-content/uploads/2018/09/integration-and-orchestration-services-in-SAP-Cloud-Platform.jpg)
+---------
+
 ![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024.jpg?cb=1492757773)
 --------------
 ![gartner-why-you-need-a-hybrid-integratio](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-5-1024.jpg?cb=1492757773)
@@ -1143,18 +1177,19 @@ CRM and Customer Experience Implementation Services
 -------------
 ![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
 -------------
-![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
----------------
-
-![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
-
----------
 
 ![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
 -----------
 ![SCP-Integration-Figure-1](https://www.sapinsideronline.com/-/media/Alloy/Images/Assets/QandAs/SCP-Integration-Figure-1.jpg)
-
+--------
+![Integration-Suite-big-picture](https://blogs.sap.com/wp-content/uploads/2019/09/Integration-Suite-big-picture.png)
+------------
+![sap1](https://www.sothis.tech/wp-content/uploads/2020/02/sap1.png)
+----------
+![figure01](https://developer.ibm.com/developer/default/articles/cl-ipaas-next-generation-of-esb1/images/figure01.png)
+----------
+![KevinFleet_Q2_Blog2_IMAGE](https://blogs.informatica.com/wp-content/uploads/2017/06/KevinFleet_Q2_Blog2_IMAGE.jpg)
 ----------
 - [Enterprise Integration Platform as a Service Providers](https://www.gartner.com/en/documents/3990698)
 - [A Survey of Modern Application Integration Architectures](https://dzone.com/articles/a-survey-of-modern-application-integration-archite)
@@ -1694,6 +1729,8 @@ Mobile App Development Platforms
 
 --------
 ![IE-deepDive](https://www.sap.com/dmc/exp/2020-03-enabling-consumer-outcomes/_media/figures/IE-deepDive.png)
+-------------
+![C1UYIFlWQAA6HsY](https://pbs.twimg.com/media/C1UYIFlWQAA6HsY.jpg)
 -----------------
 ![emerging-tech-roadmap-mse-2020-2022-1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/emerging-tech-roadmap-mse-2020-2022-1.jpg)
 
