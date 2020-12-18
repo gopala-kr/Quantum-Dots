@@ -376,16 +376,7 @@
 ----------
 ![ibm-reference-soa-for-banking](https://www.dragon1.com/images/ibm-reference-soa-for-banking.png)
 -----------------
-![03_001.jpg?width=2927&name=03_001](https://blog.sap-press.com/hs-fs/hubfs/03_001.jpg?width=2927&name=03_001.jpg)
---------------
-![Screen-Shot-2015-03-23-at-16_40_32-1024x505](https://blog.aptitudesoftware.com/hubfs/Imported_Blog_Media/Screen-Shot-2015-03-23-at-16_40_32-1024x505.png)
----------
-![slide3-l](https://image4.slideserve.com/7290592/slide3-l.jpg)
------------
-![ifrs-15-revenue-from-contracts-with-customers-63-1024](https://image.slidesharecdn.com/ifrs15revenuefromcontractswithcustomers-170511194042/95/ifrs-15-revenue-from-contracts-with-customers-63-1024.jpg?cb=1494533118)
-------------
-![Slide5](https://live.theasianbanker.com/uploads/Slide5.PNG)
----------
+
 ![Screen-Shot-2020-01-22-at-9-03-11-AM](https://www.teradata.com/getattachment/Blogs/Analytics-in-the-Hybrid-Cloud-An-Architect%E2%80%99s-Perspective/Screen-Shot-2020-01-22-at-9-03-11-AM.png)
 -----------
 ![os-img-13](https://bryteflow.com/wp-content/uploads/2020/01/os-img-13.png)
@@ -445,11 +436,20 @@
 ----------
 ![c2800a955b1beab9649330691122c904](https://i.pinimg.com/originals/c2/80/0a/c2800a955b1beab9649330691122c904.jpg)
 ---------
-![Stat%20Canada%20Enterprise%20Information%20Architecture](https://statswiki.unece.org/download/attachments/154042613/Stat%20Canada%20Enterprise%20Information%20Architecture.png?version=1&modificationDate=1508184215771&api=v2)
+
+![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
 -----------
 ![conceptualdatamodel](https://techieprincesa.files.wordpress.com/2013/04/ea-conceptualdatamodel.png)
 ------
 ![End2EndServices2](https://89d384dc-a-887a417c-s-sites.googlegroups.com/a/enterprisearchitectservices.com/eas/application/End2EndServices2.JPG?attachauth=ANoY7crxg3M9RRa9nVVd3q14wFiMGKEpYPtpmYCfN7H67rpWNJjVAyLEJz82O9ocJuY204uIIPvODzspEkj5FUiGdqkNQ0EwnirIJ-8O0C67Yc4pWJsLgTZnl_aKw0-huw9tz4K566GmEVcxplvsi9LL7W2FN1ClxG6vK8-H_Q-yImajxayzus-gKfdWPV1TKE0x_f4hEiTq5631grx1SafTFM-bMjTOkP1VPS0uqTDjchkAeuuEfi9qTzZbkn8Fk8RN0yo7vLQ9&attredirects=0)
+---------
+![Figure-2-Detailed-view-of-the-strategic-planning-lifecycle](https://erwin.com/wp-content/uploads/2019/05/Figure-2-Detailed-view-of-the-strategic-planning-lifecycle.png)
+------------
+![Success-Patterns-for-Enterprise-DevOps-and-SAFe-fig1](https://infocus.delltechnologies.com/wp-content/uploads/2020/03/Success-Patterns-for-Enterprise-DevOps-and-SAFe-fig1-e1583256909406.jpg)
+--------
+![agile-ea-common-platforms](https://www.kollabio.com/app/uploads/2018/07/agile-ea-common-platforms.png)
+------------
+![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
 -----------
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
@@ -459,10 +459,13 @@
 ---------------
 
 ![modern_digital_leadership_unleashed_by_network_effect_digital_transformation](https://dionhinchcliffe.files.wordpress.com/2017/07/modern_digital_leadership_unleashed_by_network_effect_digital_transformation.png)
------------------
-![08fc54edd6999d1f64c684fc8c06d070](https://i.pinimg.com/originals/08/fc/54/08fc54edd6999d1f64c684fc8c06d070.png)
+
 ---------
 ![prioritiesbetweenbusinessexecutivesandtechnologyleadershipcompared](https://zdnet2.cbsistatic.com/hub/i/r/2015/04/30/873773e5-97c7-4c96-a00c-a9499e4fdb4e/resize/770xauto/b0fa22c9caab4274828283d247fac387/prioritiesbetweenbusinessexecutivesandtechnologyleadershipcompared.png)
+
+----------
+![shared-customer-experience](https://zdnet4.cbsistatic.com/hub/i/r/2020/01/22/4b5c8ac1-4166-41a7-b200-c2cb0bdfdca0/thumbnail/770x578/cd29eb6c98c3ba386606281a77069359/shared-customer-experience-landscape-of-the-cio-and-cmo.png)
+
 -----------
 --------
 
@@ -528,10 +531,7 @@
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
 ----------
-![shared-customer-experience](https://zdnet4.cbsistatic.com/hub/i/r/2020/01/22/4b5c8ac1-4166-41a7-b200-c2cb0bdfdca0/thumbnail/770x578/cd29eb6c98c3ba386606281a77069359/shared-customer-experience-landscape-of-the-cio-and-cmo.png)
-----------
-![f7bb81cd4a31f57c7d2f1ad9c70ece88](https://i.pinimg.com/originals/f7/bb/81/f7bb81cd4a31f57c7d2f1ad9c70ece88.jpg)
----------
+
 
 
 Typical Team Structure
@@ -740,10 +740,20 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
 -----------
-![google-cloud-anthos-aws-azure-edge-multicloud](https://zdnet3.cbsistatic.com/hub/i/2020/08/19/6e370863-96e5-4dd0-a8aa-50c9f7acffbc/google-cloud-anthos-aws-azure-edge-multicloud.png)
------------
-![Multi_Cloud_Engine2](https://lcom.static.linuxfound.org/images/stories/41373/Multi_Cloud_Engine2.png)
----------------
+![hybrid-cloud-adoption-rightscale](https://blog.shi.com/wp-content/uploads/2018/06/hybrid-cloud-adoption-rightscale.png)
+----------
+![Service-Mesh-Blog-5](https://blogs.vmware.com/networkvirtualization/files/2018/12/Service-Mesh-Blog-5.png)
+------------
+![largescale-aws-migrations-with-csc-18-1024](https://image.slidesharecdn.com/csc-large-scaleawsmigrationswithcsc032117-170327190117/95/largescale-aws-migrations-with-csc-18-1024.jpg?cb=1490641341)
+---------
+![ns-arch-inline](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/ns-arch-inline.png)
+--------
+![kube-clusters-diagram-v2-f3](https://programmaticponderings.files.wordpress.com/2018/04/kube-clusters-diagram-v2-f3.png)
+------------
+![final_dockeree_21](https://programmaticponderings.files.wordpress.com/2017/08/final_dockeree_21-1.png)
+----------
+![DOTC-vendors](https://blogs.gartner.com/christopher-little/files/2019/01/DOTC-vendors.jpg)
+--------------
 ![cloud_tco](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud_tco.PNG)
 
 -------
@@ -1001,6 +1011,9 @@ ERP Today
 
 ![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
 
+---------
+![cloud-evolution](https://jmharkonen.files.wordpress.com/2011/01/cloud-evolution.jpg)
+
 ---------------
 -----------------------------------
 
@@ -1154,7 +1167,8 @@ CRM and Customer Experience Implementation Services
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
 
 ----------
-![integration-and-orchestration-services-in-SAP-Cloud-Platform](https://blogs.sap.com/wp-content/uploads/2018/09/integration-and-orchestration-services-in-SAP-Cloud-Platform.jpg)
+![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
+-----------
 ---------
 
 ![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-2-1024.jpg?cb=1492757773)
@@ -1178,13 +1192,6 @@ CRM and Customer Experience Implementation Services
 ![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
 -------------
 
-
-![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
------------
-![SCP-Integration-Figure-1](https://www.sapinsideronline.com/-/media/Alloy/Images/Assets/QandAs/SCP-Integration-Figure-1.jpg)
---------
-![Integration-Suite-big-picture](https://blogs.sap.com/wp-content/uploads/2019/09/Integration-Suite-big-picture.png)
-------------
 ![sap1](https://www.sothis.tech/wp-content/uploads/2020/02/sap1.png)
 ----------
 ![figure01](https://developer.ibm.com/developer/default/articles/cl-ipaas-next-generation-of-esb1/images/figure01.png)
@@ -1208,8 +1215,7 @@ CRM and Customer Experience Implementation Services
 ![iPaaS_API-Economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_ipaas.PNG)
 ----------
 ![Lionsgatesoft_API_Management_Vendors_Landscape](https://www.lionsgatesoft.com/wp-content/uploads/2019/08/Lionsgatesoft_API_Management_Vendors_Landscape-1024x701.png)
---------
-![api-governance-in-the-enterprise-10-1024](https://image.slidesharecdn.com/api-governance-in-the-enterprise-161020171821/95/api-governance-in-the-enterprise-10-1024.jpg?cb=1476994390)
+
 -----------
 ![sp3tbeYrbBhtg9ae42dDCQ](https://miro.medium.com/max/1200/1*sp3tbeYrbBhtg9ae42dDCQ.png)
 ---------------
@@ -1698,6 +1704,12 @@ Mobile App Development Platforms
 ![SABSA_Key_Features_Advantages_Benefits](https://sabsa.org/wp-content/uploads/SABSA_Key_Features_Advantages_Benefits.png)
 -----------
 ![SRA](https://www.microsoft.com/security/blog/wp-content/uploads/2018/06/SRA.png)
+----------
+![enterprise-security-team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/_images/security/enterprise-security-team.png)
+-------------
+![EPc7BUcU8AMm8Vk](https://pbs.twimg.com/media/EPc7BUcU8AMm8Vk.jpg)
+-----------
+![299904049139713](https://www.researchgate.net/profile/Monark_Bag/publication/236009814/figure/fig2/AS:299904049139713@1448514105120/Proposed-Cloud-Security-Framework-for-end-to-end-security.png)
 ------------------
 ![posture-cybersecurity-ex3-expanded](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Risk/Our%20Insights/A%20new%20posture%20for%20cybersecurity%20in%20a%20networked%20world/SVGZ-A-new-posture-cybersecurity-ex3-expanded.svgz)
 ------------------
@@ -1767,11 +1779,6 @@ Mobile App Development Platforms
 
 [Back to top](#contents)
 
---------------
--------------
-![e_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/e_scale.PNG)
-----------
-![k_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale.PNG)
 
 ----------
 ----------------
