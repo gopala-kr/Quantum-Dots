@@ -116,6 +116,7 @@
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
 - [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
+- [AutonomousDriving with Deep Learning: A Survey of State-of-Art Technologies](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)
 --------
 ![sd_dl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dl.png)
 ------------
@@ -161,6 +162,35 @@
 ![sd_tab11](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab12.PNG)
 ------------
 -------------------
+
+- Baidu Apollo：https://github.com/ApolloAuto/apollo
+- Autoware：https://www.autoware.org/
+- OpenPilot：https://github.com/commaai/research
+- Udacity：https://github.com/udacity/self-driving-car
+- Microsoft AirSim: https://github.com/Microsoft/AirSim
+- Intel Carla: https://carla.org/
+- LG LGSVL: https://www.lgsvlsimulator.com/
+- SUMO: http://sumo.sourceforge.net/
+- FLOW: https://flow-project.github.io/
+- GM cruise.ai Visualization: https://webviz.io/
+- Uber visualization: https://avs.auto/#/
+- KITTI data: http://www.cvlibs.net/datasets/kitti/raw_data.php
+- BDD: http://bdd-data.berkeley.edu/. 
+- Baidu ApolloScope: http://apolloscape.auto/
+- NuScenes: https://www.nuscenes.org/
+- Udacity: https://github.com/udacity/self-driving-car/tree/master/datasets
+- Ford ArgoVerse: https://www.argoverse.org/data.html
+- Google WayMo: https://waymo.com/open
+- Lyft Level 5: https://level5.lyft.com/dataset/
+- HONDA dataset: https://usa.honda-ri.com/H3D
+- Scale and Hesai’s PandaSet: https://scale.com/open-datasets/pandaset
+- NGSIM data: https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
+- HighD dataset: https://www.highd-dataset.com/
+- INTERACTION dataset: https://interaction-dataset.com/
+
+-----------
+-----------
+
 
 ![mv2_d_1920_1200_s_2](https://static.wixstatic.com/media/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.png/v1/fill/w_1110,h_694,al_c,q_90,usm_0.66_1.00_0.01/af56c2_1cd373fadc8c4cc0b830cde4b9980286~mv2_d_1920_1200_s_2.webp)
 -----------
