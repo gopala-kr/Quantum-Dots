@@ -126,6 +126,10 @@
 - [Deep Learning-based Vehicle Behaviour Predictionfor Autonomous Driving Applications: a Review](https://arxiv.org/pdf/1912.11676.pdf)
 - [Real-to-Virtual Domain Unification for End-to-EndAutonomous Driving](https://arxiv.org/pdf/1801.03458.pdf)
 - [Autonomous Driving: Framework for Pedestrian Intention  Estimationin a Real WorldScenario](https://arxiv.org/pdf/2006.02711.pdf)
+- [Beyond Grand Theft Auto V for Training, Testing andEnhancing Deep Learning in Self Driving Cars](https://arxiv.org/pdf/1712.01397v1.pdf)
+- [A Review and Comparative Study on Probabilistic Object Detection in Autonomous Driving](https://arxiv.org/pdf/2011.10671v1.pdf)
+- [Deep Learning for 3D Point Cloud Understanding: A Survey](/https://arxiv.org/pdf/2009.08920v1.pdf)
+- [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
 
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
