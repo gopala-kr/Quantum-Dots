@@ -984,7 +984,51 @@ Low-Code Application Platforms
 - ERP Software Leading Vendors Portfolios
 - Industry Specific ERP Softwares
 
+------------------
 
+               
+              - ERP is an integrated system that incorporates organization tasks in an uniform way. The role of information technology in ERP is immense. 
+                According to the report by Statista more than 94% of the companies claim that their data security centers have improved using ERP technologies. 
+
+              - Whenever an organization or individual approaches a developer with the need for ERP development, he or she is given choices on how to acquire the system. 
+                There are two prominent ways of implementing:
+              - Off-the-shelf solutions – this is the opposite of ERP development from scratch, instead of boxed solutions such as SAP are purchased and are ready for use.
+              - Custom ERP system development – it is a process in which the system is built from the ground and in accordance with the needs of the client and the set requirements.
+              - ERP system development is an iterative process that always goes on as enterprises constantly need new modules and features.
+              - The most commonly implemented modules: Supply Chain Management, Resource Planning, HR Module, Financial Management, and CRM.
+              - All boxed ERP systems have a cloud version. On-premise solutions have become less popular over the past five years. In-house ERP running on the cloud can give you some benefits.
+              - Testing of the bespoke in-house ERP is a mission-critical stage of the implementation. The system is designed to make the organization’s operations easier 
+                and efficient. On this stage, the development team checks if the application is robust and comfortable to work with.
+              
+              - An enterprise ERP development is a never stopping process. After the first release, developers continue to gradually add new features, improvements, 
+                and fix issues. Time, needed for ERP application development from scratch, totally relies on the size of the company, needed functionality, number of 
+                users, etc. It is almost impossible to guess how much time will be needed without performing the analysis of each specific case. However, taking 
+                into consideration our rich experience in building these systems we can try to define approximated timeframes.
+              
+              - Same as the timeline, the cost of the in-house ERP system development is impossible to be defined without proper investigation of business cases 
+                and requirements. Still, from our previous experience, we can estimate the following numbers for custom ERP development for businesses of different sizes.
+              
+
+-------------
+
+- [How to Build An ERP System From Scratch](https://clockwise.software/blog/how-to-build-erp-system/)
+- [build-your-own-erp-system](https://lucsoninfotech.com/build-your-own-erp-system/)
+- [ERP Development: Technologies, Flow, Cost, and Timeline](https://existek.com/blog/erp-development-technologies-flow-cost-and-timeline/)
+- [How Much Does an ERP System Cost](https://existek.com/blog/how-much-does-an-erp-system-cost/)
+- [ERP Technologies List: What is Right for Your Project?](https://existek.com/blog/erp-technologies-list-and-choose-erp-technology/)
+- [ERP Modules: Main Features, Functionality, and Workflows](https://existek.com/blog/erp-modules-main-features-functionality-and-workflows/)
+- [Custom ERP Development: Is It Worth It?](https://existek.com/blog/custom-erp-development/)
+
+-------------
+
+- [digitalistmag.com/](https://www.digitalistmag.com/)
+- [Cloud Next OnAir Highlights](https://www.youtube.com/playlist?list=PLIivdWyY5sqIr8lcWjiz53jZgMMKHtteZ)
+- [Microsoft Ignite 2020](https://www.youtube.com/playlist?list=PLLasX02E8BPBmSOdP76oJPvLND9995ftv)
+- [AWS re:Invent 2020](https://www.youtube.com/playlist?list=PLhr1KZpdzukenb7A9aDtk3qHqMwy2Baxq)
+- [open.sap.com/](https://open.sap.com/)
+- [TechEd2020](https://www.youtube.com/c/SAPTechEdChannel/playlists?view=50&sort=dd&shelf_id=1)
+- [Oracle Cloud Summit](https://www.youtube.com/c/Oracle/playlists)
+- [Salesforce Demos](https://www.youtube.com/c/Salesforce/playlists?view=50&sort=dd&shelf_id=9)
 
 ----------------------
 
@@ -995,11 +1039,109 @@ Typical Business Process
 
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
+--------
+![Slide3](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/Slide3.png)
+--------
+![Slide2](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/Slide2.png)
+----------
+![4](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/4.png)
+--------
+![5](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/5.png)
+-------
+
+ERP Development from Scratch (Technologies)
+
+Databases
+ - PostgreSQL
+ - MSSQL
+ - Oracle SQL
+Programming Technologies
+ - .NET and ASP.NET
+ - Java
+ - Ruby
+ - Python
+ - PHP
+Front-end Technologies
+ - JavaScript
+ - AngularJS
+ - React
+ - Vue.js
+
+Example: Tesla doesnt' use any vendor provided Off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
+
+Below is the tech stack
+
+      Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
+      Frontend development, using tools such as: JavaScript, Angular, React, etc.
+      Backend development, using tools such as: C#, Java, Go, Ruby, etc.
+      Relational databases, SQL, NoSQL
+      Agile Development
+      Distributed Source Control, using tools such as: Git
+
+---------
+![22](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/22.png)
+------
+![33](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/33.png)
+--------
+ERP Development from Scratch (Timelines)
+
+![55](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/55.png)
+
+![Custom-ERP-development-timeline-scheme](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_929/https://existek.com/wp-content/uploads/2018/06/Custom-ERP-development-timeline-scheme-.jpg)
+
 -------------
+ERP Development from Scratch (Cost Breakdown)
+
+![34](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/34.png)
+
+-------
+ERP Development from Scratch (Cost Breakdown)
+
+![ERP-Project-development-stakeholders-scheme](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-Project-development-stakeholders-scheme-.jpg)
+
+-------
+![ERP-development-cost-brakedown](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-development-cost-brakedown-.jpg)
+
+--------
+
+     Estimating the ERP price include developing HR management module that could cost:
+
+     - 2 back-end developers working full time for 3 months charging $35/h = $36 690 
+     - 1 front-end developer working full-time during 3 months charging $35/hr = $18 480
+     - 2 QA engineers working full-time during 2 months charging $25/h = $16 000
+     - 1 project manager who manages the project from design to project closure during 3 months charging $30/h = $14 400
+     - 1 system administrator working full-time during one week charging $25/h = $1 000
+     
+     - The HR management module will be approximately $86 000. 
+     
+     -------------------------
+     - Since all five modules have the same level of complexity, the five ERP system modules will cost approximately $430 000.
+     
+     ---------------
+     - To develop 5 API for the 5 modules, 3 API developers will work full-time for 2.5 months charging, on average, $35/h = $46 200. This is the testing stage cost of ERP systems.
+     -----------------------------
+     - 1 DBA working full time for 2 months charging $30/h = $9 600
+     - 2 ETL experts working full time for 2 months charging $40/h = $25 600
+     - Data migration costs approximately $32 200
+     --------------------
+     - To thoroughly test software of this level of complexity, it will require: 2 testers working full-time for 2 months charging $25/h = $16 000.
+     --------------
+     - An expert in training trainers for ERP working full-time for 1 month and charging $70/hr = $11 200
+
+---------------
+
+<table id="tablepress-33" class="tablepress tablepress-id-33"><thead><tr class="row-1 odd"><th class="column-1">Phase</th><th class="column-2">Project Manager and experts</th><th class="column-3">Front-end developer</th><th class="column-4">Back-end developer</th><th class="column-5">QA</th><th class="column-6">Sys Admin</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Conception/design</td><td class="column-2">10%</td><td class="column-3">4%</td><td class="column-4">6%</td><td class="column-5">2%</td><td class="column-6"></td></tr><tr class="row-3 odd"><td class="column-1">Development</td><td class="column-2">6%</td><td class="column-3">12%</td><td class="column-4">20%</td><td class="column-5">14%</td><td class="column-6"></td></tr><tr class="row-4 even"><td class="column-1">UAT</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">5%</td><td class="column-5">4%</td><td class="column-6"></td></tr><tr class="row-5 odd"><td class="column-1">Support</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">4%</td><td class="column-5">5%</td><td class="column-6"></td></tr></tbody><tfoot><tr class="row-6 even"><th class="column-1">Total</th><th class="column-2">20%</th><th class="column-3">20%</th><th class="column-4">35%</th><th class="column-5">25%</th><th class="column-6">up to 5 working days</th></tr></tfoot></table>
+
+-------
+
+<table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
+
+----------
+------------
 
 Enterprise Functions and Processes
 
-- [End to end proces interactive demo](https://www.commitwater.com/)
+- [End to End Enterprise Processes Interactive Demo](https://www.commitwater.com/)
 
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
