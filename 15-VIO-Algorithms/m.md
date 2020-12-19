@@ -130,7 +130,16 @@
 - [A Review and Comparative Study on Probabilistic Object Detection in Autonomous Driving](https://arxiv.org/pdf/2011.10671v1.pdf)
 - [Deep Learning for 3D Point Cloud Understanding: A Survey](/https://arxiv.org/pdf/2009.08920v1.pdf)
 - [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
-- [Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review]()
+- [Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review](https://arxiv.org/pdf/2005.09830.pdf)
+- [Deep Reinforcement Learning for IntelligentTransportation Systems: A Survey](https://arxiv.org/pdf/2005.00935v1.pdf)
+- [Overview of Tools Supporting Planning for Automated Driving](https://arxiv.org/pdf/2003.04081v1.pdf)
+- [A Survey of Deep Learning Applications to Autonomous Vehicle Control](https://arxiv.org/pdf/1912.10773v1.pdf)
+- [Driving Datasets Literature Review](https://arxiv.org/pdf/1910.11968v1.pdf)
+- [Deep Semantic Segmentation for Automated Driving: Taxonomy, Roadmap and Challenges](https://arxiv.org/pdf/1707.02432.pdf)
+- [Generalized Object Detection on Fisheye Cameras for Autonomous Driving: Dataset, Representations and Baseline](https://arxiv.org/pdf/2012.02124v1.pdf)
+- [Hierarchical Multi-task Deep Neural Network Architecture for End-to-End Driving](https://arxiv.org/pdf/1902.03466v2.pdf)
+- [SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving](https://arxiv.org/pdf/2010.09776v2.pdf)
+- [AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)
 
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
@@ -222,6 +231,12 @@
 ![sd_cn3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn3.PNG)
 --------
 ![sd_cn4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn4.PNG)
+-------
+![sd_rl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_rl.PNG)
+----
+![sd_deeprl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_deeprl.PNG)
+-----
+![sd_deeprl1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_deeprl1.PNG)
 ------------
 -------------------
 
@@ -249,6 +264,11 @@
 - NGSIM data: https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
 - HighD dataset: https://www.highd-dataset.com/
 - INTERACTION dataset: https://interaction-dataset.com/
+
+-------
+![sd_tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tools.PNG)
+-------
+![sd_tools2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tools2.PNG)
 -----------
 ![sd_eed](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_eed.PNG)
 ---------
@@ -271,11 +291,36 @@
 ------
 ![sd_lidl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidl.PNG)
 ----
+![sd_pointcloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pointcloud.PNG)
+----------
 ![sd_lidl2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidl2.PNG)
 -------
 ![sd_lidlseg](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidlseg.PNG)
 ------
 ![sd_limetric](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_limetric.PNG)
+
+-----
+---------
+![Edge_intelligence](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence.PNG)
+---------
+![Edge_intelligence1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence1.PNG)
+---------
+![Edge_intelligence2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence2.PNG)
+---------
+![Edge_intelligence3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence3.PNG)
+---------
+![Edge_intelligence3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence4.PNG)
+---------
+![Edge_intelligence3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence5.PNG)
+---------
+![Edge_intelligence3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/Edge_intelligence6.PNG)
+---------
+--------
+![sd_aads](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_aads.PNG)
+---------
+![sd_aads](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_aads1.PNG)
+---------
+![sd_aads](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_aads2.PNG)
 -----------
 -----------
 ![cars_1080](https://lexfridman.com/wordpress/wp-content/uploads/2019/08/cars_1080.png)
