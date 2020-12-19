@@ -140,11 +140,23 @@
 - [Hierarchical Multi-task Deep Neural Network Architecture for End-to-End Driving](https://arxiv.org/pdf/1902.03466v2.pdf)
 - [SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving](https://arxiv.org/pdf/2010.09776v2.pdf)
 - [AADS: Augmented Autonomous Driving Simulation using Data-driven Algorithms](https://arxiv.org/ftp/arxiv/papers/1901/1901.07849.pdf)
+- [A Software Architecture for Autonomous Vehicles: Team LRM-B Entry in the First CARLA Autonomous Driving Challenge](https://arxiv.org/pdf/2010.12598v1.pdf)
+- [Driving Tasks Transfer in Deep Reinforcement Learning for Decision-making of Autonomous Vehicles](https://arxiv.org/ftp/arxiv/papers/2009/2009.03268.pdf)
+- [MADRaS : Multi Agent Driving Simulator](https://arxiv.org/pdf/2010.00993v1.pdf)
+- [A Review of Visual Odometry Methods and Its Applications for Autonomous Driving](https://arxiv.org/pdf/2009.09193v1.pdf)
+- [Multi-modal Experts Network for Autonomous Driving](https://arxiv.org/pdf/2009.08876v1.pdf)
+- [Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review](https://arxiv.org/pdf/2004.05224v2.pdf)
 
+-------
+![sd_simblock](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_simblock.PNG)
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
 --------
 ![sd_pipeline5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline5.PNG)
+-------
+![sd_sim](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_sim.PNG)
+------
+![sd_sim1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_sim1.PNG)
 ------
 ![sd_pipeline2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline2.PNG)
 ------
@@ -153,6 +165,40 @@
 ![sd_pipeline4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline4.PNG)
 ---------
 ![sd_pipeline6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline6.PNG)
+
+-----------
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z1.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z2.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z3.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z4.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z5.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z6.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z7.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z8.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z9.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z10.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z11.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z12.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z13.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z14.PNG)
+-------------
+![sd_z1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_z15.PNG)
+
+-----------
 --------
 ![sd_bh](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_bh.PNG)
 --------
@@ -222,6 +268,13 @@
 ![sd_tab31](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab31.png)
 -------
 ![sd_tab32](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tab32.PNG)
+-------
+-----------
+![vo_mvo](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/vo_mvo.PNG)
+-------
+![vo_vio](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/vo_vio.PNG)
+-------
+![vo_vo](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/vo_vo.PNG)
 ---------
 -----------
 ![sd_cn1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_cn1.PNG)
@@ -266,6 +319,7 @@
 - INTERACTION dataset: https://interaction-dataset.com/
 
 -------
+
 ![sd_tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tools.PNG)
 -------
 ![sd_tools2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_tools2.PNG)
