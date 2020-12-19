@@ -130,6 +130,7 @@
 - [A Review and Comparative Study on Probabilistic Object Detection in Autonomous Driving](https://arxiv.org/pdf/2011.10671v1.pdf)
 - [Deep Learning for 3D Point Cloud Understanding: A Survey](/https://arxiv.org/pdf/2009.08920v1.pdf)
 - [Deep Learning for Vision-based Prediction: A Survey](https://arxiv.org/pdf/2007.00095v2.pdf)
+- [Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review]()
 
 ---------
 ![sd_pipeline](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline.PNG)
@@ -260,6 +261,21 @@
 ![sd_dataset3](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dataset3.PNG)
 --------
 ![sd_dataset4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_dataset4.PNG)
+-------
+---------
+![sd_lidar](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidar.PNG)
+------
+![sd_li3d](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_li3d.PNG)
+-------
+![sd_liarc](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_liarc.PNG)
+------
+![sd_lidl](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidl.PNG)
+----
+![sd_lidl2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidl2.PNG)
+-------
+![sd_lidlseg](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_lidlseg.PNG)
+------
+![sd_limetric](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_limetric.PNG)
 -----------
 -----------
 ![cars_1080](https://lexfridman.com/wordpress/wp-content/uploads/2019/08/cars_1080.png)
