@@ -199,6 +199,13 @@
 ---------
 ![sd_pipeline6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline6.PNG)
 
+----------
+---------
+![NyYeA4c8_Bmix](https://miro.medium.com/max/945/0*NyYeA4c8_Bmix-6C.png)
+------
+![oMwG4AG5GnxjQCKald4WiA](https://miro.medium.com/max/945/1*oMwG4AG5GnxjQCKald4WiA.png)
+-------
+![FmtYHK3CzuaYKe4PiBRpuQ](https://miro.medium.com/max/945/1*FmtYHK3CzuaYKe4PiBRpuQ.png)
 ---------
 ------------
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g1.PNG)
