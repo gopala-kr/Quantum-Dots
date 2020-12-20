@@ -987,26 +987,28 @@ Low-Code Application Platforms
 ------------------
 
                
-              - ERP is an integrated system that incorporates organization tasks in an uniform way. The role of information technology in ERP is immense. 
-                According to the report by Statista more than 94% of the companies claim that their data security centers have improved using ERP technologies. 
+     - ERP is an integrated system that incorporates organization tasks in an uniform way. The role of information technology in ERP is immense. 
+       According to the report by Statista more than 94% of the companies claim that their data security centers have improved using ERP technologies. 
 
-              - Whenever an organization or individual approaches a developer with the need for ERP development, he or she is given choices on how to acquire the system. 
-                There are two prominent ways of implementing:
-              - Off-the-shelf solutions – this is the opposite of ERP development from scratch, instead of boxed solutions such as SAP are purchased and are ready for use.
-              - Custom ERP system development – it is a process in which the system is built from the ground and in accordance with the needs of the client and the set requirements.
-              - ERP system development is an iterative process that always goes on as enterprises constantly need new modules and features.
-              - The most commonly implemented modules: Supply Chain Management, Resource Planning, HR Module, Financial Management, and CRM.
-              - All boxed ERP systems have a cloud version. On-premise solutions have become less popular over the past five years. In-house ERP running on the cloud can give you some benefits.
-              - Testing of the bespoke in-house ERP is a mission-critical stage of the implementation. The system is designed to make the organization’s operations easier 
-                and efficient. On this stage, the development team checks if the application is robust and comfortable to work with.
+     - Whenever an organization or individual approaches a developer with the need for ERP development, he or she is given choices on how to acquire the system. 
+       There are two prominent ways of implementing:
+     - Off-the-shelf solutions – this is the opposite of ERP development from scratch, instead of boxed solutions such as SAP are purchased and are ready for use.
+     - Custom ERP system development – it is a process in which the system is built from the ground and in accordance with the needs of the client and the set requirements.
+     
+     - ERP system development is an iterative process that always goes on as enterprises constantly need new modules and features.
+     - The most commonly implemented modules: Supply Chain Management, Resource Planning, HR Module, Financial Management, and CRM.
+     - All boxed ERP systems have a cloud version. On-premise solutions have become less popular over the past five years. In-house ERP running on the cloud can give 
+       you some benefits.
+     - Testing of the bespoke in-house ERP is a mission-critical stage of the implementation. The system is designed to make the organization’s operations easier 
+       and efficient. On this stage, the development team checks if the application is robust and comfortable to work with.
               
-              - An enterprise ERP development is a never stopping process. After the first release, developers continue to gradually add new features, improvements, 
-                and fix issues. Time, needed for ERP application development from scratch, totally relies on the size of the company, needed functionality, number of 
-                users, etc. It is almost impossible to guess how much time will be needed without performing the analysis of each specific case. However, taking 
-                into consideration our rich experience in building these systems we can try to define approximated timeframes.
+      - An enterprise ERP development is a never stopping process. After the first release, developers continue to gradually add new features, improvements, 
+        and fix issues. Time, needed for ERP application development from scratch, totally relies on the size of the company, needed functionality, number of 
+        users, etc. It is almost impossible to guess how much time will be needed without performing the analysis of each specific case. However, taking 
+        into consideration our rich experience in building these systems we can try to define approximated timeframes.
               
-              - Same as the timeline, the cost of the in-house ERP system development is impossible to be defined without proper investigation of business cases 
-                and requirements. Still, from our previous experience, we can estimate the following numbers for custom ERP development for businesses of different sizes.
+     - Same as the timeline, the cost of the in-house ERP system development is impossible to be defined without proper investigation of business cases 
+       and requirements. Still, from our previous experience, we can estimate the following numbers for custom ERP development for businesses of different sizes.
               
 
 -------------
@@ -1040,36 +1042,28 @@ Typical Business Process
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
 --------
-![Slide3](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/Slide3.png)
---------
-![Slide2](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/Slide2.png)
-----------
-![4](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/4.png)
---------
-![5](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/5.png)
--------
 
 ERP Development from Scratch (Technologies)
 
-Databases
- - PostgreSQL
- - MSSQL
- - Oracle SQL
-Programming Technologies
- - .NET and ASP.NET
- - Java
- - Ruby
- - Python
- - PHP
-Front-end Technologies
- - JavaScript
- - AngularJS
- - React
- - Vue.js
+- Databases
+  - PostgreSQL
+  - MSSQL
+  - Oracle SQL
+- Programming Technologies
+  - .NET and ASP.NET
+  - Java
+  - Ruby
+  - Python
+  - PHP
+- Front-end Technologies
+  - JavaScript
+  - AngularJS
+  - React
+  - Vue.js
 
 Example: Tesla doesnt' use any vendor provided Off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
 
-Below is the tech stack
+Tesla tech stack
 
       Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
       Frontend development, using tools such as: JavaScript, Angular, React, etc.
@@ -1094,10 +1088,6 @@ ERP Development from Scratch (Cost Breakdown)
 
 ![34](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/34.png)
 
--------
-ERP Development from Scratch (Cost Breakdown)
-
-![ERP-Project-development-stakeholders-scheme](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-Project-development-stakeholders-scheme-.jpg)
 
 -------
 ![ERP-development-cost-brakedown](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-development-cost-brakedown-.jpg)
@@ -1268,7 +1258,7 @@ CRM and Customer Experience Implementation Services
 -------
 ![variety-of-existing-database-systems-18](https://www.researchgate.net/profile/Nikos_Korfiatis/publication/303562879/figure/fig2/AS:388081703243778@1469537296695/Landscape-and-categorization-of-the-high-variety-of-existing-database-systems-18.png)
 -----------
-![SAP%2BRoadmap](https://3.bp.blogspot.com/-SUSHPshdS1k/VYnhZgc-J5I/AAAAAAAACGE/Fy7pvnjNPlo/s1600/SAP%2BRoadmap.jpg)
+![SAP-HANA-Platform](https://www.zarantech.com/blog/wp-content/uploads/2017/04/SAP-HANA-Platform.png)
 -----------
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
 ----------
@@ -1291,6 +1281,8 @@ CRM and Customer Experience Implementation Services
 
 -------
 ![Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR](https://images.squarespace-cdn.com/content/v1/55cdcc72e4b0ff38cd56a751/1539595621504-8FTJB0E8RCR0G3S9IULR/ke17ZwdGBToddI8pDm48kD6pI3Ghap9e95DedX5JW-EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXhDa6xRIWV4T9b-Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR/Image3.png?format=1500w)
+--------
+![eim](https://mckinsol.com/wp-content/uploads/2020/01/eim.png)
 
 -------
 ![gartner-dq-mq-2020](https://liliendahl.files.wordpress.com/2020/07/gartner-dq-mq-2020.png)
@@ -1654,7 +1646,10 @@ IIoT Platform
 ![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
 
 --------
-
+![analytics_maturity2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/analytics_maturity2.PNG)
+------------
+![descriptive-prescriptive](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/descriptive-prescriptive.PNG)
+----------
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 -----
 ![p2db_ncnO9bN3kCfbJV4pw](https://miro.medium.com/max/1050/1*p2db_ncnO9bN3kCfbJV4pw.png)
