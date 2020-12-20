@@ -193,7 +193,7 @@
 ----------------
 - [Openpilot is DIY Autopilot by Comma.ai](https://www.autopilotreview.com/comma-ai-openpilot-diy-autopilot-kit/)
 - [$7,000 Tesla Autopilot vs $1,000 Openpilot: Self-Driving Test!](https://www.youtube.com/watch?v=3Y67XKPmtY8&feature=emb_rel_end)
-- [commaai/openpilot](https://github.com/commaai/openpilot)
+- [commaai/openpilot](https://github.com/commaai/openpilot) | [commaai](https://github.com/commaai)
 
 ------------------
 
@@ -263,8 +263,7 @@
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g4.PNG)
 ----------
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g5.PNG)
-----------
-![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g6.PNG)
+
 ----------
 ------------
 
@@ -279,8 +278,7 @@
 ![sd_h5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h9.PNG)
 ----
 ![sd_h5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h10.PNG)
-----
-![sd_h5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h11.PNG)
+
 ----
 ![sd_h5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h12.PNG)
 ----
