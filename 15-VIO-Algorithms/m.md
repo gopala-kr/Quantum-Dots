@@ -171,6 +171,9 @@
 - [See, Attend and Brake: An Attention-based Saliency Map Prediction Model for End-to-End Driving](https://arxiv.org/pdf/2002.11020v1.pdf)
 - [Cybersecurity for Industrial Control Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/2002/2002.04124.pdf)
 
+---------
+- [Computer Vision at Tesla](https://heartbeat.fritz.ai/computer-vision-at-tesla-cd5e88074376)
+
 -----------
 -------
 ![sd_h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h4.PNG)
@@ -206,6 +209,8 @@
 ![oMwG4AG5GnxjQCKald4WiA](https://miro.medium.com/max/945/1*oMwG4AG5GnxjQCKald4WiA.png)
 -------
 ![FmtYHK3CzuaYKe4PiBRpuQ](https://miro.medium.com/max/945/1*FmtYHK3CzuaYKe4PiBRpuQ.png)
+-----
+![NGKduNysKG3KBsmU](https://miro.medium.com/max/1050/0*NGKduNysKG3KBsmU.png)
 ---------
 ------------
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g1.PNG)
