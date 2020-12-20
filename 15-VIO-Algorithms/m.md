@@ -32,6 +32,7 @@
 - [hotchips](https://www.youtube.com/channel/UCjtg-76lhmVr0K86zMxbFGw)
 - [AutoSens](https://www.youtube.com/c/AutoSensTV/playlists)
 - [autopilotreview](https://www.autopilotreview.com/)
+- [NVIDIA AUTOMOTIVE](https://www.nvidia.com/en-us/self-driving-cars/news/)
 
 --------------
 
@@ -115,6 +116,8 @@
 - [The School of Autonomous Systems](https://www.udacity.com/school-of-autonomous-systems)
 - [UMGC and USMx's Drones and Autonomous Systems](https://www.edx.org/professional-certificate/umgc-usmx-drones-and-autonomous-systems)
 - [MIT Autonomous Vehicle](https://deeplearning.mit.edu/)
+- [thinkautonomous.ai](https://courses.thinkautonomous.ai/)
+- [self-driving-car-engineer-nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
@@ -194,6 +197,11 @@
 - [Openpilot is DIY Autopilot by Comma.ai](https://www.autopilotreview.com/comma-ai-openpilot-diy-autopilot-kit/)
 - [$7,000 Tesla Autopilot vs $1,000 Openpilot: Self-Driving Test!](https://www.youtube.com/watch?v=3Y67XKPmtY8&feature=emb_rel_end)
 - [commaai/openpilot](https://github.com/commaai/openpilot) | [commaai](https://github.com/commaai)
+- [Behavioral Cloning](https://mailchi.mp/ee0ddc9ba774/why-end-to-end-deep-learning-is-a-fake-dream)
+- [End-to-End Deep Learning for Self-Driving Cars](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
+- [NVIDIA DRIVE - Autonomous Vehicle Development Platforms](https://developer.nvidia.com/drive)
+- [NVIDIA DRIVE Hyperion Developer Kit](https://developer.nvidia.com/drive/drive-hyperion)
+- [NVIDIA DRIVE Partners](https://www.nvidia.com/en-us/self-driving-cars/partners/)
 
 ------------------
 
@@ -242,6 +250,9 @@
 ---------
 ![sd_pipeline6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_pipeline6.PNG)
 
+
+-------------
+![DRIVE%20SOFTWARE%20STACK-2%20Architecture_07,21,2020](https://developer.nvidia.com/sites/default/files/akamai/drive/images/software/DRIVE%20SOFTWARE%20STACK-2%20Architecture_07,21,2020.png)
 ----------
 ---------
 ![NyYeA4c8_Bmix](https://miro.medium.com/max/945/0*NyYeA4c8_Bmix-6C.png)
