@@ -801,10 +801,16 @@
 ![proaxia-VSS-intelligent-enterprise-automotive-1](https://d2908q01vomqb2.cloudfront.net/f6e1126cedebf23e1463aee73f9df08783640400/2018/01/02/connected_vehicle_layer.png)
 ------
 ![Digital_Twin_Implementation](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/02/Digital_Twin_Implementation.jpg)
+-----
+![CUTAWAY01_160229896_AR_](https://s3-prod-europe.autonews.com/s3fs-public/CUTAWAY01_160229896_AR_-1_ZRCODEYXPAQE.jpg)
+-----
+![edi-automotive-grafik-englisch](https://softzoll.com/wp-content/uploads/sites/2/2019/03/edi-automotive-grafik-englisch.jpg)
+--------
+![illustration_automotive-supply-chain-processes_en](https://www.automotive-edi.com/wp_contents/uploads/2018/09/illustration_automotive-supply-chain-processes_en.jpg)
 -----------------
 -----------------
 
-##### Automotive ERP, CRM, DMS & SRM
+#### Automotive ERP, CRM, DMS & SRM
 
 
 -----------
@@ -835,7 +841,10 @@
 ![AX-img-bottom-en](https://global.nssol.nipponsteel.com/th/images/AX-img-bottom-en.jpg)
 -------
 ![automotive_EDI_EN_0908225777](https://www.cosmoconsult.com/fileadmin/_processed_/f/1/csm_overview_cc-automotive_EDI_EN_0908225777.png)
-
+------
+![Discrete-Manufacturing-Dynamics-NAV](https://naviona.com/wp-content/uploads/2016/08/Discrete-Manufacturing-Dynamics-NAV.png)
+-----
+![project](https://www.cosmoconsult.com/fileadmin/user_upload/project.JPG)
 ------
 ![portfolio_37](https://www.datakonect.com.au/wp-content/uploads/2018/07/portfolio_37.jpg)
 ----
@@ -850,12 +859,38 @@
 --------
 ![rolls_royce_transition_roadmap_download](https://www.supplychain247.com/images/article/rolls_royce_transition_roadmap_download.jpg)
 
+--------
+![3-s2.0-B9780128003879000177-f17-07-9780128003879](https://ars.els-cdn.com/content/image/3-s2.0-B9780128003879000177-f17-07-9780128003879.jpg)
+--------
+![668970776555527](https://www.researchgate.net/profile/Yong_Lin3/publication/235270849/figure/fig2/AS:668970776555527@1536506470225/Process-mapping-of-the-SPV-supply-chain.png)
+------
+![667707494133773](https://www.researchgate.net/profile/Mickey_Howard/publication/220375198/figure/fig2/AS:667707494133773@1536205280484/Generic-IT-Map-of-the-Automotive-Supply-Chain-Howard-2000.png)
+-------
+![Current-State-VSM](https://www.ribcon.com/wp-content/uploads/2017/06/Current-State-VSM.png)
+-----
+![sustainability](https://www.mdpi.com/sustainability/sustainability-12-01814/article_deploy/html/images/sustainability-12-01814-g006.png)
 ---------
 ----------------
 
 #### Automotive Plants
 
 ![284154_vwitsoftwarecenters_689922](https://d3n5uof8vony13.cloudfront.net/Pictures/1024x536/1/5/4/284154_vwitsoftwarecenters_689922.png)
+-------
+![25144912](https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2017/10/25144912/evs2.jpg)
 
+-------
+![Automotive-Innovation-Map-StartUs-Insights-900-506-noresize](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Automotive-Innovation-Map-StartUs-Insights-900-506-noresize-900x506.jpg)
+-------
+![Mobility_innovation](https://www.startus-insights.com/wp-content/uploads/2018/05/Mobility_innovation-map-1.png)
+-------
+![AR-Disrupts-Automotive-Innovation-Map-StartUs-Insights-1280-720](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/AR-Disrupts-Automotive-Innovation-Map-StartUs-Insights-1280-720-noresize.png)
+------
+![Manufacturing-Innovation-Map-StartUs-Insights-900-506-noresize](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Manufacturing-Innovation-Map-StartUs-Insights-900-506-noresize-900x506.png)
+------
+![Innovation](https://3vmbig1fuckj48k8rq1n7zug-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Energy-Innovation-Map_900x506-noresize-900x506.png)
+-------
+![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
+-----
+![png-clipart-horizontal-integration-industry-4-architecture-vertical-integration](https://e7.pngegg.com/pngimages/200/1019/png-clipart-horizontal-integration-industry-4-architecture-vertical-integration-strategic-planning-independence-and-unity-day-angle-triangle.png)
 ------------
 --------------
