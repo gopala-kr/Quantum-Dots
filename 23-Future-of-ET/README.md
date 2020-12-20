@@ -380,8 +380,14 @@
 ![Screen-Shot-2020-01-22-at-9-03-11-AM](https://www.teradata.com/getattachment/Blogs/Analytics-in-the-Hybrid-Cloud-An-Architect%E2%80%99s-Perspective/Screen-Shot-2020-01-22-at-9-03-11-AM.png)
 -----------
 ![os-img-13](https://bryteflow.com/wp-content/uploads/2020/01/os-img-13.png)
+------
+![enterprise-architecture-blueprint-hospital](https://www.dragon1.com/images/enterprise-architecture-blueprint-hospital.png)
+--------
+![dragon1-enterprise-architecture-blueprint-template-medium](https://www.dragon1.com/images/dragon1-enterprise-architecture-blueprint-template-medium.png)
+
 ----------
 ------------------
+
 ![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
 
 -----------
@@ -897,6 +903,8 @@ Meeting Solutions
 ![5f4c2f86213bda03a2d8eea1](https://specials-images.forbesimg.com/imageserve/5f4c2f86213bda03a2d8eea1/960x0.jpg?fit=scale)
 
 --------
+![ragon1-artist-impression-social-media-enterprise-architecture](https://www.dragon1.com/images/dragon1-artist-impression-social-media-enterprise-architecture.png)
+--------
 ![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
 
 [Back to top](#contents)
@@ -1128,6 +1136,29 @@ ERP Development from Scratch (Cost Breakdown)
 
 -------
 ![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
+-----
+![ase-sspe-rpss-fg1](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg1.jpg)
+-------
+![ase-sspe-rpss-fg2.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg2.jpg)
+--------
+![ase-sspe-rpss-fg3.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg3.jpg)
+-------
+![rfp-process-graphic-blue](https://dondennison.files.wordpress.com/2013/05/rfp-process-graphic-blue.jpg?w=1000)
+---------
+![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
+------
+![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
+-------
+![screen-shot-2019-01-07-at-6.30.36-am](https://www.abvt.com.au/wp-content/uploads/2019/01/screen-shot-2019-01-07-at-6.30.36-am.png)
+-----
+![Infographic_Cloud_or_OnPremise](https://cdn.business2community.com/wp-content/uploads/2013/12/Infographic_Cloud_or_OnPremise.png)
+---------
+![benefits-implementing-erp-infographic](https://1jbjcg2jewynwrke83xqsp9k-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/benefits-implementing-erp-infographic.jpg)
+-----
+![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3qRhm)
+--------
+![final-project-picture](https://lims0195.files.wordpress.com/2014/04/final-project-picture.png)
+
 ----------
 ------------
 
