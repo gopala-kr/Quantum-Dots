@@ -15,6 +15,9 @@
 - [Making Mobility-as-a-Service: Towards Governance Principles and Pathways](https://research.chalmers.se/publication/516812)
 - [A Roadmap for a World Without Drivers](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
 - [Autonomous Driving](https://www2.deloitte.com/content/dam/Deloitte/be/Documents/Deloitte_Autonomous-Driving.pdf)
+- [Autonomous Vehicle Technology: A Guide for Policymakers](https://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR443-2/RAND_RR443-2.pdf)
+- [On the future of transportation in an era of automated and autonomous vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6475395/)
+- [Driving Into the Future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7531173/)
 
 ---------------
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
