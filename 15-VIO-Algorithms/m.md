@@ -31,6 +31,7 @@
 - [tesla.com/autopilotAI](https://www.https://www.tesla.com/autopilotAI)
 - [hotchips](https://www.youtube.com/channel/UCjtg-76lhmVr0K86zMxbFGw)
 - [AutoSens](https://www.youtube.com/c/AutoSensTV/playlists)
+- [autopilotreview](https://www.autopilotreview.com/)
 
 --------------
 
@@ -172,8 +173,37 @@
 - [Cybersecurity for Industrial Control Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/2002/2002.04124.pdf)
 
 ---------
+[Cars with AutoPilot features for 2020 and 2021](https://www.autopilotreview.com/cars-with-autopilot-self-driving/)
+
+- Tesla (Model 3, Y, S and X)
+- Cadillac (CT6, Escalade)
+- Audi (A6, A8)
+- BMW (X5, 3 Series )
+- Ford / Lincoln (Mustang Mach-E)
+- Kia / Hyundai (Telluride, Palisade, Sonata)
+- Mercedes Benz (E-Class, S-Class)
+- Volvo (XC90, XC60, XC40)
+- Nissan (Rogue, Leaf, etc.)
+- Infiniti (QX50)
+
+------------------
+
+- [Andrej Karpathy Details Autopilot in 10 Minutes](https://www.autopilotreview.com/teslas-andrej-karpathy-details-autopilot-inner-workings/)
 - [Computer Vision at Tesla](https://heartbeat.fritz.ai/computer-vision-at-tesla-cd5e88074376)
 
+
+      - Data — Tesla collects data from the vehicles and a team labels it.
+      - GPU Cluster — Tesla uses multiple GPUs (called a cluster) to train their neural networks and run them.
+      - DOJO — Tesla uses something they call dojo to train only a part of the whole architecture for a specific task. It’s very similar to what they do in inferences.
+      - PyTorch Distributed Training — Tesla uses PyTorch for training.
+      - Evaluation — Tesla evaluates network training using loss functions.
+      - Cloud Inference— Cloud processing allows Tesla to improve its fleet of vehicles at the same time.
+      - Inference @FSD — Tesla built its own computer that has its own Neural Processing Unit (NPU) and GPUs for inference.
+      - Shadow Mode — Tesla collects results and data from the vehicles and compares them with the predictions to help improve annotations: it’s a closed-loop!
+-----------
+![andrej-karpathy-pytorch-conference-image-2](https://www.autopilotreview.com/wp-content/uploads/2019/11/andrej-karpathy-pytorch-conference-image-2.jpg)
+------
+![andrej-karpathy-pytorch-conference-image-7](https://www.autopilotreview.com/wp-content/uploads/2019/11/andrej-karpathy-pytorch-conference-image-7.jpg)
 -----------
 -------
 ![sd_h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h4.PNG)
@@ -211,6 +241,12 @@
 ![FmtYHK3CzuaYKe4PiBRpuQ](https://miro.medium.com/max/945/1*FmtYHK3CzuaYKe4PiBRpuQ.png)
 -----
 ![NGKduNysKG3KBsmU](https://miro.medium.com/max/1050/0*NGKduNysKG3KBsmU.png)
+------------
+![applsci](https://www.mdpi.com/applsci/applsci-09-05126/article_deploy/html/images/applsci-09-05126-g002.png)
+---------
+![MediaObjects](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-14628-3_15/MediaObjects/464637_1_En_15_Fig2_HTML.png)
+---------
+![Only-the-orange-section-may-vary-fo](https://www.researchgate.net/profile/Scott_Pendleton/publication/290304568/figure/fig3/AS:667841451794433@1536237218165/System-architecture-for-our-autonomous-vehicles-Only-the-orange-section-may-vary-for.ppm)
 ---------
 ------------
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g1.PNG)
