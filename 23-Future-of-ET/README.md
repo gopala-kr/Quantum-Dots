@@ -578,6 +578,18 @@ Skills
 ![eacb7d1b0ee77d9c2f59a7ad159b7ab3](https://i.pinimg.com/originals/ea/cb/7d/eacb7d1b0ee77d9c2f59a7ad159b7ab3.png)
 ---------
 ![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
+-------
+![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
+-----
+![ase-sspe-rpss-fg1](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg1.jpg)
+-------
+![ase-sspe-rpss-fg2.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg2.jpg)
+--------
+![ase-sspe-rpss-fg3.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg3.jpg)
+-------
+![rfp-process-graphic-blue](https://dondennison.files.wordpress.com/2013/05/rfp-process-graphic-blue.jpg?w=1000)
+---------
+![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
 --------------
 -------------
 
@@ -1081,8 +1093,14 @@ Tesla tech stack
       Distributed Source Control, using tools such as: Git
 
 ---------
+
+ERP Development from Scratch (Technologies)
+
 ![22](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/22.png)
 ------
+
+ERP Development from Scratch (Technologies)
+
 ![33](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/33.png)
 --------
 ERP Development from Scratch (Timelines)
@@ -1098,6 +1116,8 @@ ERP Development from Scratch (Cost Breakdown)
 
 
 -------
+ERP Development from Scratch (Cost Breakdown)
+
 ![ERP-development-cost-brakedown](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-development-cost-brakedown-.jpg)
 
 --------
@@ -1134,18 +1154,7 @@ ERP Development from Scratch (Cost Breakdown)
 
 <table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
 
--------
-![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
------
-![ase-sspe-rpss-fg1](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg1.jpg)
--------
-![ase-sspe-rpss-fg2.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg2.jpg)
---------
-![ase-sspe-rpss-fg3.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg3.jpg)
--------
-![rfp-process-graphic-blue](https://dondennison.files.wordpress.com/2013/05/rfp-process-graphic-blue.jpg?w=1000)
----------
-![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
+
 ------
 ![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
 -------
