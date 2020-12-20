@@ -1020,7 +1020,7 @@ Low-Code Application Platforms
 - [ERP Technologies List: What is Right for Your Project?](https://existek.com/blog/erp-technologies-list-and-choose-erp-technology/)
 - [ERP Modules: Main Features, Functionality, and Workflows](https://existek.com/blog/erp-modules-main-features-functionality-and-workflows/)
 - [Custom ERP Development: Is It Worth It?](https://existek.com/blog/custom-erp-development/)
-
+- [Open Source ERP Solutions](https://solutionsreview.com/enterprise-resource-planning/top-15-free-and-open-source-erp-solutions/)
 -------------
 
 - [digitalistmag.com/](https://www.digitalistmag.com/)
@@ -1126,6 +1126,8 @@ ERP Development from Scratch (Cost Breakdown)
 
 <table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
 
+-------
+![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
 ----------
 ------------
 
@@ -1413,8 +1415,16 @@ IIoT Platform
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
-
-
+---------
+![IoT_Gartner_Landscape](https://iot.bendakhlia.org/user/pages/01.home/iot-landscape/IoT_Gartner_Landscape.png)
+--------
+![landscape](https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/12/IOT-landscape.png?ssl=1)
+-------
+![IoT_Forrester](https://blogs-images.forbes.com/gilpress/files/2016/01/IoT_Forrester.gif?)
+-------
+![IoT-Architecture](https://blogs.forbes.com/louiscolumbus/files/2019/06/IoT-Architecture-.png)
+------
+![0956d87471a48efc3b7e8f504f1ce871](https://i.pinimg.com/originals/09/56/d8/0956d87471a48efc3b7e8f504f1ce871.png)
 ---------------
 
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
@@ -1613,6 +1623,7 @@ IIoT Platform
 ![ZyWyQkyydAavk1jw_7Yddg](https://miro.medium.com/max/1500/1*ZyWyQkyydAavk1jw_7Yddg.png)
 -------
 ![lzAnmo3t3rHHA37VacYEeA](https://miro.medium.com/max/1050/1*lzAnmo3t3rHHA37VacYEeA.png)
+
 --------------
 ----------------
 
@@ -1637,6 +1648,9 @@ IIoT Platform
 
 -----------
 ![DS_life_cycle](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/DS_life_cycle.PNG)
+--------
+
+![POC_F](https://news.sap.com/wp-content/blogs.dir/1/files/POC_F.jpg)
 
 -----------
 ![ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml.PNG)
