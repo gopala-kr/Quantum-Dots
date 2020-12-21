@@ -202,6 +202,8 @@
 - [NVIDIA DRIVE - Autonomous Vehicle Development Platforms](https://developer.nvidia.com/drive)
 - [NVIDIA DRIVE Hyperion Developer Kit](https://developer.nvidia.com/drive/drive-hyperion)
 - [NVIDIA DRIVE Partners](https://www.nvidia.com/en-us/self-driving-cars/partners/)
+- [Google’s Self-Driving Cars Working](https://heartbeat.fritz.ai/how-googles-self-driving-cars-work-c77e4126f6e7)
+- [LiDAR and Camera Fusion](https://heartbeat.fritz.ai/lidar-camera-fusion-in-self-driving-cars-18d080874c71)
 
 ------------------
 
