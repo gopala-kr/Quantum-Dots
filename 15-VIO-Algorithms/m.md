@@ -204,6 +204,14 @@
 - [NVIDIA DRIVE Partners](https://www.nvidia.com/en-us/self-driving-cars/partners/)
 - [Google’s Self-Driving Cars Working](https://heartbeat.fritz.ai/how-googles-self-driving-cars-work-c77e4126f6e7)
 - [LiDAR and Camera Fusion](https://heartbeat.fritz.ai/lidar-camera-fusion-in-self-driving-cars-18d080874c71)
+- [Vision Processing Units (VPUs)](https://heartbeat.fritz.ai/vision-processing-units-vpus-6a33f282322e)
+- [LiDAR Detection Working](https://heartbeat.fritz.ai/how-lidar-detection-works-8db24556a8d9)
+- [Computer Vision applications in Self-Driving Cars](https://becominghuman.ai/computer-vision-applications-in-self-driving-cars-610561e14118)
+- [Self-driving cars — The Guide](https://towardsdatascience.com/self-driving-cars-the-guide-f1f427b9656b)
+- [Sensor Fusion](https://towardsdatascience.com/sensor-fusion-90135614fde6)
+- [Introducing the 5th-generation Waymo Driver: Informed by experience, designed for scale, engineered to tackle more environments](https://blog.waymo.com/2020/03/introducing-5th-generation-waymo-driver.html)
+- [The Architectural Implications of AutonomousDriving: Constraints and Acceleration](https://web.eecs.umich.edu/~shihclin/papers/AutonomousCar-ASPLOS18.pdf)
+- [Inside Waymo's Secret World for Training Self-Driving Cars](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)
 
 ------------------
 
@@ -264,7 +272,12 @@
 ![FmtYHK3CzuaYKe4PiBRpuQ](https://miro.medium.com/max/945/1*FmtYHK3CzuaYKe4PiBRpuQ.png)
 -----
 ![NGKduNysKG3KBsmU](https://miro.medium.com/max/1050/0*NGKduNysKG3KBsmU.png)
-
+------
+![Z8pG3LTQxVsolRACkMlYFg](https://miro.medium.com/max/1050/1*Z8pG3LTQxVsolRACkMlYFg.png)
+-------
+![i4mHEcLvBNEA6yW_RJqf_qieKHgCNcBGAsYHQ](https://1.bp.blogspot.com/-HdpgCJgGiLI/XmBWjma3YfI/AAAAAAAADK0/cpG9o-i4mHEcLvBNEA6yW_RJqf_qieKHgCNcBGAsYHQ/s1600/iPace-lineart-sensor_calloutv2_03022020-01.png)
+-------
+![top-av-companies](https://www.greyb.com/wp-content/uploads/2019/03/top-av-companies.jpg)
 ---------
 ------------
 ![sd_g1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_g1.PNG)
