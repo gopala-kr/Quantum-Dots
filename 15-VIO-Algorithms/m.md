@@ -118,6 +118,7 @@
 - [MIT Autonomous Vehicle](https://deeplearning.mit.edu/)
 - [thinkautonomous.ai](https://courses.thinkautonomous.ai/)
 - [self-driving-car-engineer-nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+- [Self-Driving Car Engineer Nanodegree projects](https://github.com/ndrplz/self-driving-car)
 
 --------
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
@@ -202,6 +203,7 @@
 - [NVIDIA DRIVE - Autonomous Vehicle Development Platforms](https://developer.nvidia.com/drive)
 - [NVIDIA DRIVE Hyperion Developer Kit](https://developer.nvidia.com/drive/drive-hyperion)
 - [NVIDIA DRIVE Partners](https://www.nvidia.com/en-us/self-driving-cars/partners/)
+- [NVIDIA DRIVE Labs](https://www.youtube.com/playlist?list=PLZHnYvH1qtOYkElUMqYiHDMrGTPnqRhSr)
 - [Google’s Self-Driving Cars Working](https://heartbeat.fritz.ai/how-googles-self-driving-cars-work-c77e4126f6e7)
 - [LiDAR and Camera Fusion](https://heartbeat.fritz.ai/lidar-camera-fusion-in-self-driving-cars-18d080874c71)
 - [Vision Processing Units (VPUs)](https://heartbeat.fritz.ai/vision-processing-units-vpus-6a33f282322e)
