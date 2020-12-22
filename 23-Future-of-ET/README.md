@@ -454,8 +454,7 @@
 ![Success-Patterns-for-Enterprise-DevOps-and-SAFe-fig1](https://infocus.delltechnologies.com/wp-content/uploads/2020/03/Success-Patterns-for-Enterprise-DevOps-and-SAFe-fig1-e1583256909406.jpg)
 --------
 ![agile-ea-common-platforms](https://www.kollabio.com/app/uploads/2018/07/agile-ea-common-platforms.png)
-------------
-![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
+
 -----------
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 ----------
@@ -581,15 +580,19 @@ Skills
 -------
 ![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
 -----
-![ase-sspe-rpss-fg1](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg1.jpg)
--------
-![ase-sspe-rpss-fg2.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg2.jpg)
 --------
-![ase-sspe-rpss-fg3.](https://www.mitre.org/sites/default/files/images/ase-sspe-rpss-fg3.jpg)
--------
-![rfp-process-graphic-blue](https://dondennison.files.wordpress.com/2013/05/rfp-process-graphic-blue.jpg?w=1000)
+![RFP_Process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process.PNG)
+---------
+![Sol_Arch_SDLC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Sol_Arch_SDLC.PNG)
+--------
+![Stakeholders](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Stakeholders.png)
+--------
+![RFP_Process2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process2.PNG)
+
 ---------
 ![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
+--------
+![]()
 --------------
 -------------
 
