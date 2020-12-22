@@ -223,6 +223,8 @@
 --------
 ![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
 
+-------
+![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
 ------
 ![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
 
