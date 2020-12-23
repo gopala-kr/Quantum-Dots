@@ -772,6 +772,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
 ![direct-branch-multi-cloud-connectivity-img1](https://www.silver-peak.com/sites/default/files/images/solution-briefs/direct-branch-multi-cloud-connectivity-img1.png)
+
 -------------
 ![use-case-enterprise-direct-branch-multi-cloud-connectivity-img2](https://www.silver-peak.com/sites/default/files/images/use-case/use-case-enterprise-direct-branch-multi-cloud-connectivity-img2.png)
 ------------
