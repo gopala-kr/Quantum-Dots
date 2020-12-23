@@ -772,6 +772,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
 ![use-case-enterprise-direct-branch-multi-cloud-connectivity-img2](https://www.silver-peak.com/sites/default/files/images/use-case/use-case-enterprise-direct-branch-multi-cloud-connectivity-img2.png)
+----------
+![cloud_rfp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_rfp.png)
 --------
 ![multi-cloud-deploy](https://www.mendix.com/evaluation-guide/app-capabilities/attachments/multi-cloud-deploy.png)
 ----
