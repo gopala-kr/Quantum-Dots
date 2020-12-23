@@ -762,6 +762,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 --------------
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
+--------
+![use-case-enterprise-direct-branch-multi-cloud-connectivity-img2](https://www.silver-peak.com/sites/default/files/images/use-case/use-case-enterprise-direct-branch-multi-cloud-connectivity-img2.png)
+--------
+![multi-cloud-deploy](https://www.mendix.com/evaluation-guide/app-capabilities/attachments/multi-cloud-deploy.png)
+----
+![Computing_Cloud](https://analystpov.com/wp-content/uploads/2015/03/Multi-Cloud-Computing_Cloud-Supply-Chain.png)
 -----------
 ![Screenshot-2019-12-03-at-14.45.17-e1575385204561](https://blog.netapp.com/wp-content/uploads/2019/12/Screenshot-2019-12-03-at-14.45.17-e1575385204561.png)
 -----------
@@ -772,6 +778,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![Service-Mesh-Blog-5](https://blogs.vmware.com/networkvirtualization/files/2018/12/Service-Mesh-Blog-5.png)
 ------------
 ![largescale-aws-migrations-with-csc-18-1024](https://image.slidesharecdn.com/csc-large-scaleawsmigrationswithcsc032117-170327190117/95/largescale-aws-migrations-with-csc-18-1024.jpg?cb=1490641341)
+--------
+![migration-disaster-recovery-and-business-continuity-in-the-cloud](https://image.slidesharecdn.com/2-191222231417/95/2-migration-disaster-recovery-and-business-continuity-in-the-cloud-5-1024.jpg?cb=1577056550)
 ---------
 ![ns-arch-inline](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/media/ns-arch-inline.png)
 --------
