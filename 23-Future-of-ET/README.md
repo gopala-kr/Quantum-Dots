@@ -776,6 +776,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![use-case-enterprise-direct-branch-multi-cloud-connectivity-img2](https://www.silver-peak.com/sites/default/files/images/use-case/use-case-enterprise-direct-branch-multi-cloud-connectivity-img2.png)
 ------------
 ![EdgeConnectTM-enables-OTT-and-private-multi-cloud-connectivity](https://i0.wp.com/blog.silver-peak.com/wp-content/uploads/2019/03/EdgeConnectTM-enables-OTT-and-private-multi-cloud-connectivity.png?ssl=1)
+
+-------------
+![Enterprise_Cloud_Conn_8_20](https://unitasglobal.com/wp-content/uploads/2019/08/Enterprise_Cloud_Conn_8_20.png)
 ----------
 ![cloud_rfp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_rfp.png)
 --------
