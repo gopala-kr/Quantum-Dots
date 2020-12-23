@@ -951,6 +951,14 @@
 ![Current-State-VSM](https://www.ribcon.com/wp-content/uploads/2017/06/Current-State-VSM.png)
 -----
 ![sustainability](https://www.mdpi.com/sustainability/sustainability-12-01814/article_deploy/html/images/sustainability-12-01814-g006.png)
+
+---------
+-----------
+![etr-2018-11-fig-1-new-version-2019-112213](https://www.ericsson.com/4aafdc/assets/global/qbank/2019/11/06/etr-2018-11-fig-1-new-version-2019-112213.jpg)
+--------
+![concararch](https://cloud.google.com/solutions/images/concararch.svg)
+
+
 ---------
 ----------------
 
