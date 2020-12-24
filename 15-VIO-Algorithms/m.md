@@ -851,6 +851,8 @@
 ![big-auto-tech-timeline-august-2016-1](https://energyfuse.org/wp-content/uploads/2017/06/big-auto-tech-timeline-august-2016-1.png)
 -----------
 --------------------
+![S709331654_g](https://cdn.openpr.com/S/7/S709331654_g.jpg)
+------------
 ![JQXyepWP7fCg0IJI](https://miro.medium.com/max/3240/0*JQXyepWP7fCg0IJI)
 ---------
 ![20180109_01_04_en_s](https://global.toyota/pages/news/images/2018/01/09/0230/20180109_01_04_en_s.png)
@@ -898,7 +900,8 @@
 
 
 -----------
-
+![prize_receiving](https://www.toyota-global.com/company/history_of_toyota/75years/data/automotive_business/production/production_engineering/prize_receiving/images/img02.jpg)
+------------
 ![233b497cdce5902fd6436067c5b57887](https://i.pinimg.com/originals/23/3b/49/233b497cdce5902fd6436067c5b57887.png)
 ------
 ![savic-automotive-industry-solutions](https://www.savictech.com/assets/images/industry/savic-automotive-industry-solutions.png)
