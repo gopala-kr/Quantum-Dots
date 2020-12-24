@@ -599,10 +599,7 @@ Skills
 ![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
 --------
 ![Process_Priority](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Process_Priority.PNG)
--------
-![itsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsm.PNG)
------------
-![itsml3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsml3.PNG)
+
 
 --------------
 -------------
@@ -1032,6 +1029,11 @@ Low-Code Application Platforms
 #### IT4IT/DevOps Landscape
 
 [Back to top](#contents)
+
+![itsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsm.PNG)
+-----------
+![itsml3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsml3.PNG)
+----------
 
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
