@@ -771,8 +771,24 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
-![direct-branch-multi-cloud-connectivity-img1](https://www.silver-peak.com/sites/default/files/images/solution-briefs/direct-branch-multi-cloud-connectivity-img1.png)
+![regional_global](https://www.aryaka.com/wp-content/uploads/2019/11/regional_global.jpg)
+-------
+![compocloudjpg](https://www.sdwan-solutions.co.uk/storage/2019/07/compocloudjpg.jpg)
+--------
+![sdwan-diagram](https://www.californiatelecom.com/wp-content/uploads/2018/08/sdwan-diagram.jpg)
+------
+![Versa-SD-WAN](https://www.sprintnetworks.com.au/wp-content/uploads/2020/05/Versa-SD-WAN.png)
+---------
+![SD-WAN-diagram-1296](https://www.digitalconnectmag.com/wp-content/uploads/2019/06/SD-WAN-diagram-1296.png)
 
+--------
+![distributed-network](https://www.sonicguard.com.au/images/SD-Branch/distributed-network.png)
+---------
+![direct-branch-multi-cloud-connectivity-img1](https://www.silver-peak.com/sites/default/files/images/solution-briefs/direct-branch-multi-cloud-connectivity-img1.png)
+--------
+![WAN_Hybrid_Branch](https://blog.tmcnet.com/blog/rich-tehrani/uploads/SD-WAN_Hybrid_Branch.jpg)
+--------
+![Picture1](https://blog.equinix.com/wp-content/uploads/2020/03/Picture1-1.png)
 -------------
 ![use-case-enterprise-direct-branch-multi-cloud-connectivity-img2](https://www.silver-peak.com/sites/default/files/images/use-case/use-case-enterprise-direct-branch-multi-cloud-connectivity-img2.png)
 ------------
@@ -780,6 +796,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 -------------
 ![Enterprise_Cloud_Conn_8_20](https://unitasglobal.com/wp-content/uploads/2019/08/Enterprise_Cloud_Conn_8_20.png)
+--------
+![SD-WAN-Architecture-b](https://alln-extcloud-storage.cisco.com/blogs/blogs.cisco.com/2019/11/SD-WAN-Architecture-b.png)
+--------
+![5435bc65-sdwan-delloro-gartner2](https://storage.googleapis.com/blogs-images/ciscoblogs/1/2020/04/5435bc65-sdwan-delloro-gartner2.jpg)
+--------
+![Screen-Shot-2020-01-27-at-10.17.59-AM](https://blogs.vmware.com/velocloud/files/2020/01/Screen-Shot-2020-01-27-at-10.17.59-AM.png)
 ----------
 ![cloud_rfp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_rfp.png)
 --------
