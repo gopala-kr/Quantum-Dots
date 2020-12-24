@@ -20,6 +20,7 @@
 - [Driving Into the Future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7531173/)
 
 ---------------
+
 - [urbanmobilitycompany](https://urbanmobilitycompany.com/content/daily?tags=30)
 - [The Urban Mobility Weekly](https://urbanmobilitycompany.com/content/weekly)
 - [automotive-iq](https://www.automotive-iq.com/)
@@ -983,5 +984,7 @@
 ![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
 -----
 ![png-clipart-horizontal-integration-industry-4-architecture-vertical-integration](https://e7.pngegg.com/pngimages/200/1019/png-clipart-horizontal-integration-industry-4-architecture-vertical-integration-strategic-planning-independence-and-unity-day-angle-triangle.png)
+-------
+![2014_Cars_Countries_Export_Treemap](https://upload.wikimedia.org/wikipedia/commons/b/b4/2014_Cars_Countries_Export_Treemap.png)
 ------------
 --------------
