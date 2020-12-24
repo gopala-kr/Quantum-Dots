@@ -18,6 +18,7 @@
 - [Autonomous Vehicle Technology: A Guide for Policymakers](https://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR443-2/RAND_RR443-2.pdf)
 - [On the future of transportation in an era of automated and autonomous vehicles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6475395/)
 - [Driving Into the Future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7531173/)
+- [A review of the current automotive manufacturing practice from an energy perspective](https://www.sciencedirect.com/science/article/pii/S0306261919317611)
 
 ---------------
 
