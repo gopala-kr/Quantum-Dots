@@ -1024,11 +1024,15 @@ Low-Code Application Platforms
 
 ![gartner-lcap-mq-2020-chart](https://www.pega.com/sites/default/files/styles/1366/public/media/images/2020-10/gartner-lcap-mq-2020-chart.png?itok=nHr_4D0U)
 
+----------
+![frame](https://voximplant.com/assets/images/2020/01/21/frame-6.jpg)
+
 -----------
 
 #### IT4IT/DevOps Landscape
 
 [Back to top](#contents)
+
 
 ![itsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsm.PNG)
 -----------
