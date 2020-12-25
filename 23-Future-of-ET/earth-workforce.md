@@ -77,7 +77,7 @@
 -----------
 ![evolution](https://joshbersin.com/wp-content/uploads/2018/05/evolution.jpg)
 -----------
-![]()
+![maxresdefault](https://i.ytimg.com/vi/oFkjK2BGH5U/maxresdefault.jpg)
 -----------
 ![]()
 -----------
