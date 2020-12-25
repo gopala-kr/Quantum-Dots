@@ -1783,8 +1783,11 @@ IIoT Platform
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 
 --------------
+![/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide](https://zinnov.com/wp-content/uploads/2020/08/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide-2-v3.jpeg)
+-----------
 
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
+
 
 -----------
 ![DS_life_cycle](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/DS_life_cycle.PNG)
@@ -1811,13 +1814,33 @@ IIoT Platform
 
 RPA
 
+
+
 ![robotic-process-automation-gartner-2020-leaders](https://www.uipath.com/hubfs/Gartner-MQ-2020/robotic-process-automation-gartner-2020-leaders.jpg)
+-------
+![scheme](https://www.dataart.com/media/2815/scheme-2.jpg)
+-------------
+![vrsUOmeInPi9iDjx9w8K4ZfjXt2ducKJ9bKq9kN9SjdlnllKYc4ycuzTB095x6zQQg4X8_ACjLISwBs8eEdxAxTptZAUg](https://images.squarespace-cdn.com/content/v1/5ad4b6cca2772c224f9077c2/1542983460595-TDA4ZC3VQIZH5N9ZLJ94/ke17ZwdGBToddI8pDm48kO0K-S3eapwOGbuyEqLJ4o4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2ducKJ9bKq9kN9SjdlnllKYc4ycuzTB095x6zQQg4X8_ACjLISwBs8eEdxAxTptZAUg/2019-q1-map.PNG)
+---------
+![cover-Enterprise-AI-landscape-2020-updated](https://www.topbots.com/wp-content/uploads/2020/09/cover-Enterprise-AI-landscape-2020-updated.jpg)
+---------
+![IABP%20Solutions%20PEAK](https://www2.everestgrp.com/Files/IABP%20Solutions%20PEAK.jpg)
+-----------
+Vertical Segments Automation
+
+![slide2%20IA-1](https://info.avasant.com/hubfs/slide2%20IA-1.png)
 
 ----------------
 ![1000,h_563,al_c,usm_0.66_1.00_0.01](https://static.wixstatic.com/media/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png)
 ------------
 ![gartner-mq-landing/asset-2x](https://www.qlik.com/us/-/media/images/global-us/site-content/gartner-mq-landing/asset-2x.png)
 
+--------
+![21_25_43](https://i2.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_25_43-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1224&ssl=1)
+-------
+![Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020](https://i0.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_26_09-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1199&ssl=1)
+--------
+![Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020](https://i0.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_23_26-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1245&ssl=1)
 ------
 ![high-res-MQ](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/high-res-MQ.jpg)
 ----------
@@ -2065,7 +2088,8 @@ Mobile App Development Platforms
 
 [Back to top](#contents)
 
-
+![bubbles-1024x894](https://infocus.delltechnologies.com/wp-content/uploads/2017/08/bubbles-1024x894.png)
+--------------
 ![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
 
 ------------
