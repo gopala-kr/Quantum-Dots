@@ -1578,31 +1578,18 @@ CRM and Customer Experience Implementation Services
 ------
 ![the_impact_of_connectivity_technologies_on_the_power_consumption](https://www.saftbatteries.com/sites/saftbatteries.com/files/public/the_impact_of_connectivity_technologies_on_the_power_consumption.png)
 ------
-![watson-internet-of-things-platform](https://iot5.net/wp-content/uploads/2019/09/watson-internet-of-things-platform.jpg)
-------
+
 ![IBM-InterConnect-Blockchain-Hyperledger-Fabric-Watson-IoT-Platform-sample-scenario](https://www.altoros.com/blog/wp-content/uploads/2017/05/IBM-InterConnect-Blockchain-Hyperledger-Fabric-Watson-IoT-Platform-sample-scenario.png)
 -----
-![ibm-watson-blockchain-nodered-architecture-1024x623](https://www.altoros.com/blog/wp-content/uploads/2017/05/ibm-watson-blockchain-nodered-architecture-1024x623.png)
-------
+
 ![intel_iot_apimgmt](https://linuxgizmos.com/files/intel_iot_apimgmt.jpg)
-------
-![674668105175041](https://www.researchgate.net/profile/Gemini_George2/publication/326961617/figure/fig9/AS:674668105175041@1537864819099/An-example-industrial-IoT-network.png)
+
 ------
 ![5e42cdde4d83c80da54a2589_Screen](https://assets.website-files.com/5d4893bd1ebeba009abc7df7/5e42cdde4d83c80da54a2589_Screen%20Shot%202019-10-01%20at%203.54.59%20PM.png)
 ------
 ![solutions_IoT_overview_05](https://www.mastec.co.nz/Winmate/solutions_IoT_overview_05.jpg)
-------
-![wide-area-networks-18-1024](https://image.slidesharecdn.com/wide-areanetworks-150514065120-lva1-app6892/95/wide-area-networks-18-1024.jpg?cb=1431588050)
-------
-![wide-area-networks-19-1024](https://image.slidesharecdn.com/wide-areanetworks-150514065120-lva1-app6892/95/wide-area-networks-19-1024.jpg?cb=1431588050)
--------
-![wide-area-networks-21-1024](https://image.slidesharecdn.com/wide-areanetworks-150514065120-lva1-app6892/95/wide-area-networks-21-1024.jpg?cb=1431588050)
--------
-![Evolution_of_Networking](https://upload.wikimedia.org/wikipedia/commons/2/2d/Evolution_of_Networking.png)
-----------
 
-IoRT
-
+---------------
 ![9324035](https://static-01.hindawi.com/articles/jece/volume-2017/9324035/figures/9324035.fig.003.svgz)
 -----------
 ![frobt-07-00104-g001](https://www.frontiersin.org/files/Articles/509753/frobt-07-00104-HTML/image_m/frobt-07-00104-g001.jpg)
@@ -1627,16 +1614,11 @@ IIoT Platform
 ---------
 ![iot-hype-cycle](https://wwwprimekeycom.cdn.triggerfish.cloud/uploads/2020/09/iot-hype-cycle.png?w=1000)
 
--------
-
-![gartnerassettracking](https://www.beaconzone.co.uk/blog/wp-content/uploads/2019/07/gartnerassettracking.jpeg)
 
 
 ------------
 ![iot_players](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_players.PNG)
 
----------
-![IoT_Gartner_Landscape](https://iot.bendakhlia.org/user/pages/01.home/iot-landscape/IoT_Gartner_Landscape.png)
 --------
 ![landscape](https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/12/IOT-landscape.png?ssl=1)
 -------
@@ -1863,8 +1845,6 @@ IIoT Platform
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 - [How to build an AI Platform](https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8)
 
---------------
-![/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide](https://zinnov.com/wp-content/uploads/2020/08/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide-2-v3.jpeg)
 -----------
 
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
@@ -1911,24 +1891,13 @@ RPA
 ![cover-Enterprise-AI-landscape-2020-updated](https://www.topbots.com/wp-content/uploads/2020/09/cover-Enterprise-AI-landscape-2020-updated.jpg)
 ---------
 ![IABP%20Solutions%20PEAK](https://www2.everestgrp.com/Files/IABP%20Solutions%20PEAK.jpg)
------------
-Vertical Segments Automation
 
-![fig_04](https://www.hitachi.com/rev/archive/2017/r2017_06/r6-06/image/fig_04.png)
--------
-![slide2%20IA-1](https://info.avasant.com/hubfs/slide2%20IA-1.png)
 
 ----------------
 ![1000,h_563,al_c,usm_0.66_1.00_0.01](https://static.wixstatic.com/media/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png/v1/fill/w_1000,h_563,al_c,usm_0.66_1.00_0.01/15fb3f_41762e8513de4c11bebbee619259cc42~mv2.png)
 ------------
 ![gartner-mq-landing/asset-2x](https://www.qlik.com/us/-/media/images/global-us/site-content/gartner-mq-landing/asset-2x.png)
 
---------
-![21_25_43](https://i2.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_25_43-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1224&ssl=1)
--------
-![Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020](https://i0.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_26_09-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1199&ssl=1)
---------
-![Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020](https://i0.wp.com/botnirvana.org/wp-content/uploads/2020/08/2020-08-04-21_23_26-Zinnov_Hyper-Intelligent-Automation-Landscape-Report-AUG-2020.pdf-Vivaldi.png?w=1245&ssl=1)
 ------
 ![high-res-MQ](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/high-res-MQ.jpg)
 ----------
