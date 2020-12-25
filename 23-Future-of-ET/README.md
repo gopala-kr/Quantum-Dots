@@ -1801,9 +1801,14 @@ IIoT Platform
 
 ----------
 ![EA_Task_History](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/EA_Task_History.PNG)
-
+------
+![Evolution-of-Automation-1](https://aimonks.com/untangle/wp-content/uploads/2019/08/Evolution-of-Automation-1.png)
 --------
 ![analytics_maturity2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/analytics_maturity2.PNG)
+--------
+![Intellegent-Automation](https://boxleygroup.com/wp-content/uploads/2019/07/Intellegent-Automation.png)
+--------
+![RLCatalyst-Intelligent-Automation-Maturity-Model](https://relevancelab.com/wp-content/uploads/2020/06/RLCatalyst-Intelligent-Automation-Maturity-Model.png)
 ------------
 ![descriptive-prescriptive](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/descriptive-prescriptive.PNG)
 ----------
