@@ -1516,6 +1516,8 @@ CRM and Customer Experience Implementation Services
 
 -----------
 ![sp3tbeYrbBhtg9ae42dDCQ](https://miro.medium.com/max/1200/1*sp3tbeYrbBhtg9ae42dDCQ.png)
+
+
 ---------------
 ---------------
 
@@ -1550,8 +1552,12 @@ CRM and Customer Experience Implementation Services
 
 -----------
 ![gartner_mq_m2m_dec18](https://www.orange-business.com/sites/default/files/gartner_mq_m2m_dec18.png)
-
-
+--------
+![OSI-Seven-Layer-Model](https://micrium.com/wp-content/uploads/2014/03/OSI-Seven-Layer-Model.png)
+-----
+![article-inline_image-shrink_1000_1488](https://media-exp1.licdn.com/dms/image/C5612AQGJeInAsIsLQQ/article-inline_image-shrink_1000_1488/0?e=1611792000&v=beta&t=7Ap4lZn8y--GWmJYZUoMMq2Bu5x6MIe2svk5jRW2GJs)
+-------
+![Simon_ford_arm_and_the_open_internet_of_things12](https://www.postscapes.com/wp-content/uploads/2018/03/Simon_ford_arm_and_the_open_internet_of_things12.png)
 ----------
 
 IoRT
