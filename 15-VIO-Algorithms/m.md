@@ -906,6 +906,8 @@
 -----------------
 -----------------
 ![I-006](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-006.jpg)
+-----------------
+![I-006](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-007.jpg)
 
 
 
