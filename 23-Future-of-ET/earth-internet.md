@@ -220,10 +220,10 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 ---------
 ![]()
 ---------
-![]()
+![Nattakarn_The-evolution-of-communication-in-digital-platform](http://sds.parsons.edu/designmanagement/files/2017/11/Nattakarn_The-evolution-of-communication-in-digital-platform.jpg)
 ---------
 
-- [5g-ecosystem-landscape](https://tecknexus.com/5g-ecosystem-landscape/) - Sept - 2020
+- [5G Ecosystem Landscape](https://tecknexus.com/5g-ecosystem-landscape/) - Sept - 2020
 
 ![EgiUs90WsAEvoGX](https://pbs.twimg.com/media/EgiUs90WsAEvoGX?format=jpg&name=large)
 ---------------
