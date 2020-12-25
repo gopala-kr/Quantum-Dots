@@ -905,8 +905,16 @@
 ![illustration_automotive-supply-chain-processes_en](https://www.automotive-edi.com/wp_contents/uploads/2018/09/illustration_automotive-supply-chain-processes_en.jpg)
 -----------------
 -----------------
+![I-006](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-006.jpg)
+
+
+
+---------------
+----------------
 
 #### Automotive ERP, CRM, DMS & SRM
+
+
 
 
 -----------
