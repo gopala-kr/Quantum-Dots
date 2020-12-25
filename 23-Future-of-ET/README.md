@@ -1045,7 +1045,10 @@ Low-Code Application Platforms
 
 ----------
 ![frame](https://voximplant.com/assets/images/2020/01/21/frame-6.jpg)
-
+-------
+![aiops-blog-image](https://blogs.bmc.com/wp-content/uploads/2019/12/aiops-blog-image.jpg)
+-------
+![evolve-your-aiops-stage](https://blogs.bmc.com/wp-content/uploads/2019/12/evolve-your-aiops-stage.jpg)
 -----------
 
 #### IT4IT/DevOps Landscape
@@ -1192,6 +1195,10 @@ Tesla tech stack
       Agile Development
       Distributed Source Control, using tools such as: Git
 
+----------
+![a73772394a33e7cd957e7b3c29257751](https://i.pinimg.com/originals/a7/37/72/a73772394a33e7cd957e7b3c29257751.png)
+-----
+![full-stack-javascript-tools](https://www.altexsoft.com/media/2016/11/full-stack-javascript-tools.png)
 ---------
 
 ERP Development from Scratch (Technologies)
@@ -1479,6 +1486,8 @@ CRM and Customer Experience Implementation Services
 ![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024.jpg?cb=1492757773)
 -------------
 ![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
+-------
+![KevinFleet_Q2_Blog2_IMAGE](https://blogs.informatica.com/wp-content/uploads/2017/06/KevinFleet_Q2_Blog2_IMAGE.jpg)
 -------------
 
 ![sap1](https://www.sothis.tech/wp-content/uploads/2020/02/sap1.png)
@@ -1524,8 +1533,15 @@ CRM and Customer Experience Implementation Services
 ------------
 
 ![iot_building_blocks](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/iot_building_blocks.PNG)
-
+------
+![image002](https://sofia2about.files.wordpress.com/2017/07/image002.png?w=1200)
+--------------
+![i283163839605536995](https://cdn.simplesite.com/i/73/aa/283163831558318707/i283163839605536995._szw1280h1280_.jpg)
+---------
+![oWsAUy3FR](https://pbs.twimg.com/media/EL5ke-oWsAUy3FR.jpg)
 ----------
+![DK5cmdLVYAAHqfa](https://pbs.twimg.com/media/DK5cmdLVYAAHqfa.png)
+-----------
 ![IoT-Ecosystem-2](https://www.cloudtp.com/wp-content/uploads/2016/05/IoT-Ecosystem-2.jpg)
 --------
 ![Screenshot%202019-01-13%20at%2007.25.39](https://iot.bendakhlia.org/user/pages/01.home/iot-architecture-layers/Screenshot%202019-01-13%20at%2007.25.39.png)
@@ -1796,6 +1812,7 @@ IIoT Platform
 -------------
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
+- [How to build an AI Platform](https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8)
 
 --------------
 ![/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide](https://zinnov.com/wp-content/uploads/2020/08/hyper-intelligent-automation-accelerating-business-resiliency-during-covid-19-slide-2-v3.jpeg)
@@ -1990,6 +2007,14 @@ ML pipeline using CI/CD
 --------
 
 Mobile App Development Platforms 
+
+- [ecommerce-mobile-app-developmen](https://www.emizentech.com/blog/ecommerce-mobile-app-development.html)
+-----
+![Technologies_we_excel_in_v1](https://www.vtnetzwelt.com/wp-content/uploads/2018/05/Technologies_we_excel_in_v1.jpg)
+----------
+
+![RKIu3Wxkif0hJwAlZG53Vul0La_o1U0X](https://onix-systems.com/storage/RKIu3Wxkif0hJwAlZG53Vul0La_o1U0X.jpg)
+--------
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
 
