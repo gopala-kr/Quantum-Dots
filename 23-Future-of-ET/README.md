@@ -1998,6 +1998,8 @@ ML pipeline using CI/CD
 
 ---------
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
+-------
+![785319763_1280x720](https://i.vimeocdn.com/video/785319763_1280x720.jpg)
 ----------
 ![gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w](https://dri.es/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w.png)
 
@@ -2008,12 +2010,8 @@ ML pipeline using CI/CD
 
 Mobile App Development Platforms 
 
-- [ecommerce-mobile-app-developmen](https://www.emizentech.com/blog/ecommerce-mobile-app-development.html)
------
-![Technologies_we_excel_in_v1](https://www.vtnetzwelt.com/wp-content/uploads/2018/05/Technologies_we_excel_in_v1.jpg)
-----------
 
-![RKIu3Wxkif0hJwAlZG53Vul0La_o1U0X](https://onix-systems.com/storage/RKIu3Wxkif0hJwAlZG53Vul0La_o1U0X.jpg)
+
 --------
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
