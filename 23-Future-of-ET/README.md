@@ -1275,6 +1275,10 @@ Enterprise Functions and Processes
 
 - [End to End Enterprise Processes Interactive Demo](https://www.commitwater.com/)
 
+------------
+![Digital-Enterprise-Evolution_ReneBuest_April](https://analystpov.com/wp-content/uploads/2018/04/Digital-Enterprise-Evolution_ReneBuest_April-2018.png)
+----------
+
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
 ----------
@@ -1294,6 +1298,8 @@ ERP Today
 
 ---------
 ![cloud-evolution](https://jmharkonen.files.wordpress.com/2011/01/cloud-evolution.jpg)
+-----
+![1520206914286](https://media-exp1.licdn.com/dms/image/C5612AQHzO4hur4SPRg/article-inline_image-shrink_1500_2232/0/1520206914286?e=1612396800&v=beta&t=tGsB60C8I_zDjvknz506RRTdxleXKOJRXZd-2TVWW3Y)
 
 ---------------
 -----------------------------------
@@ -1529,9 +1535,18 @@ CRM and Customer Experience Implementation Services
 -----------
 ![gartner_mq_m2m_dec18](https://www.orange-business.com/sites/default/files/gartner_mq_m2m_dec18.png)
 
+
 ----------
 
+IoRT
+
+![frobt-07-00104-g001](https://www.frontiersin.org/files/Articles/509753/frobt-07-00104-HTML/image_m/frobt-07-00104-g001.jpg)
+--------
+![robt-07-00104-g010](https://www.frontiersin.org/files/Articles/509753/frobt-07-00104-HTML/image_m/frobt-07-00104-g010.jpg)
+------------
+
 IIoT Platform
+
 
 ![0*ulH3-M1yBVjO1di](https://miro.medium.com/max/945/0*ulH3-M1yBVjO1di-)
 
@@ -1833,6 +1848,8 @@ RPA
 -----------
 Vertical Segments Automation
 
+![fig_04](https://www.hitachi.com/rev/archive/2017/r2017_06/r6-06/image/fig_04.png)
+-------
 ![slide2%20IA-1](https://info.avasant.com/hubfs/slide2%20IA-1.png)
 
 ----------------
