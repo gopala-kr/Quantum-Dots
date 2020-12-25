@@ -240,7 +240,13 @@
 ![andrej-karpathy-pytorch-conference-image-7](https://www.autopilotreview.com/wp-content/uploads/2019/11/andrej-karpathy-pytorch-conference-image-7.jpg)
 -----------
 -------
+![Automotive](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Ready%20for%20inspection%20The%20automotive%20aftermarket%20in%202030/SVGZ-Ready-for-inspection-Automotive-2030-Ex1-expanded.svgz)
+-------
+![expanded](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Ready%20for%20inspection%20The%20automotive%20aftermarket%20in%202030/SVGZ-Ready-for-inspection-Automotive-2030-Ex2-expanded.svgz)
+--------
 ![McKinsey](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20case%20for%20an%20end%20to%20end%20automotive%20software%20platform/SVGZ-AutomotiveSoftware2-Ex1.svgz)
+--------
+![SVGZ-Mobility-techology-ecosystem-Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Development%20in%20the%20mobility%20technology%20ecosystem%20how%20can%205G%20help/SVGZ-Mobility-techology-ecosystem-Ex2.svgz)
 --------
 ![sd_h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h4.PNG)
 ---------
