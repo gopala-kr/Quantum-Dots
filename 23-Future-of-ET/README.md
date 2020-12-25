@@ -794,14 +794,29 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------
 ![Enterprise_Cloud_Conn_8_20](https://unitasglobal.com/wp-content/uploads/2019/08/Enterprise_Cloud_Conn_8_20.png)
 --------
+
 ![SD-WAN-Architecture-b](https://alln-extcloud-storage.cisco.com/blogs/blogs.cisco.com/2019/11/SD-WAN-Architecture-b.png)
 --------
 ![5435bc65-sdwan-delloro-gartner2](https://storage.googleapis.com/blogs-images/ciscoblogs/1/2020/04/5435bc65-sdwan-delloro-gartner2.jpg)
 --------
 ![Screen-Shot-2020-01-27-at-10.17.59-AM](https://blogs.vmware.com/velocloud/files/2020/01/Screen-Shot-2020-01-27-at-10.17.59-AM.png)
 ----------
+![160714185933](https://image.slidesharecdn.com/insandoutsofmulti-cloudiam-howrightscalehelpsbyrightscale-160714185933/95/ins-and-outs-of-multicloud-iam-how-rightscale-helps-12-1024.jpg?cbhowrightscalehelpsbyrightscale=1469649138)
+-----
+![160714185933](https://image.slidesharecdn.com/insandoutsofmulti-cloudiam-howrightscalehelpsbyrightscale-160714185933/95/ins-and-outs-of-multicloud-iam-how-rightscale-helps-15-1024.jpg?cb=1469649138)
+--------
+![howrightscalehelpsbyrightscale](https://image.slidesharecdn.com/insandoutsofmulti-cloudiam-howrightscalehelpsbyrightscale-160714185933/95/ins-and-outs-of-multicloud-iam-how-rightscale-helps-18-1024.jpg?cb=1469649138)
+------
+![iam-in-the-cloud](https://cdn.auth0.com/blog/the-difference-between-wam-and-idm/iam-in-the-cloud.png)
+------------
 ![cloud_rfp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_rfp.png)
 --------
+![160714185933](https://image.slidesharecdn.com/insandoutsofmulti-cloudiam-howrightscalehelpsbyrightscale-160714185933/95/ins-and-outs-of-multicloud-iam-how-rightscale-helps-7-1024.jpg?cb=1469649138)
+------
+![160714185933](https://image.slidesharecdn.com/insandoutsofmulti-cloudiam-howrightscalehelpsbyrightscale-160714185933/95/ins-and-outs-of-multicloud-iam-how-rightscale-helps-8-1024.jpg?cb=1469649138)
+--------
+![Challenges+of+the+Multicloud](https://slideplayer.com/slide/14237715/89/images/8/Challenges+of+the+Multicloud.jpg)
+---------
 ![multi-cloud-deploy](https://www.mendix.com/evaluation-guide/app-capabilities/attachments/multi-cloud-deploy.png)
 ----
 ![Computing_Cloud](https://analystpov.com/wp-content/uploads/2015/03/Multi-Cloud-Computing_Cloud-Supply-Chain.png)
@@ -833,6 +848,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------
 
 ![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
+-------
+![-Platform-Embotics-vCommander-02](https://www.embotics.com/hs-fs/hubfs/Multi-Cloud-Management-Platform-Embotics-vCommander-02.png?width=5001&name=Multi-Cloud-Management-Platform-Embotics-vCommander-02.png)
+-------
+![The-Multi-Cloud-Ecosystem-Final2](https://cbi-research-portal-uploads.s3.amazonaws.com/2018/06/24144212/The-Multi-Cloud-Ecosystem-Final2.png)
 
 ----------
 
