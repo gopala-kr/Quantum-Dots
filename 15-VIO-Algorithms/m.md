@@ -55,6 +55,7 @@
 - [GNSS](https://www.oxts.com/what-is-gnss/)
 - [Corporations Working On Autonomous Vehicles, 2020](https://www.cbinsights.com/research/autonomous-driverless-vehicles-corporations-list/)
 - [Decomposing the Autonomous Mobility Stack](https://www.apex.ai/post/decomposing-the-autonomous-mobility-stack)
+- [The case for an end-to-end automotive-software platform](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-case-for-an-end-to-end-automotive-software-platform)
 
 -------
 
@@ -239,6 +240,8 @@
 ![andrej-karpathy-pytorch-conference-image-7](https://www.autopilotreview.com/wp-content/uploads/2019/11/andrej-karpathy-pytorch-conference-image-7.jpg)
 -----------
 -------
+![McKinsey](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20case%20for%20an%20end%20to%20end%20automotive%20software%20platform/SVGZ-AutomotiveSoftware2-Ex1.svgz)
+--------
 ![sd_h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h4.PNG)
 ---------
 ![sd_h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/sd_h1.PNG)
