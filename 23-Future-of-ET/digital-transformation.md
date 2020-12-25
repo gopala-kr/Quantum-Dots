@@ -619,6 +619,10 @@
 --------
 ![iaas2020_historic_labels](https://redmonk.com/rstephens/files/2020/07/iaas2020_historic_labels.png)
 
+------
+![graph-III-1](https://www.bis.org/publ/arpdf/ar2019e/images/graph-III-1.jpg)
+------
+![shrink_600_2000](https://media-exp1.licdn.com/dms/image/C4D12AQGYHSALV728Rw/article-cover_image-shrink_600_2000/0?e=1611792000&v=beta&t=h6XT7KBQl4caxY1CJbPd4lUUsZS8pQ7Bdpctdup5nKM)
 --
 ![BTP_MVP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/BTP_MVP2.PNG)
 --------
