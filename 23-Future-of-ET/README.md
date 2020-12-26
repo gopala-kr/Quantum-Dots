@@ -602,7 +602,8 @@ Skills
 --------
 ![Process_Priority](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Process_Priority.PNG)
 
-
+-------------
+![RFP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/RFP.PNG)
 --------------
 -------------
 
