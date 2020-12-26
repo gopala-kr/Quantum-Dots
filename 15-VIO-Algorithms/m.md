@@ -918,6 +918,28 @@
 ![I-011](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-011.jpg)
 -----------------
 ![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-012.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-013.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-014.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-015.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-016.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-017.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-018.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-019.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-020.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-021.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-022.jpg)
+-----------------
+![I-012](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-026.jpg)
 
 
 ---------------
