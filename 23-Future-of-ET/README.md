@@ -2023,11 +2023,7 @@ ML pipeline using CI/CD
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
 -------
 ![785319763_1280x720](https://i.vimeocdn.com/video/785319763_1280x720.jpg)
-----------
-![gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w](https://dri.es/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w.png)
 
---------
-![gartner-mq-mxdp-2020](https://blogs.sap.com/wp-content/uploads/2020/07/gartner-mq-mxdp-2020.jpg)
 
 --------------
 -------------
@@ -2051,6 +2047,11 @@ ML pipeline using CI/CD
 ----------
 ![di_digExpImg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_digExpImg.png)
 --------
+----------
+![gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w](https://dri.es/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w.png)
+
+--------
+![gartner-mq-mxdp-2020](https://blogs.sap.com/wp-content/uploads/2020/07/gartner-mq-mxdp-2020.jpg)
 -----------------
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
