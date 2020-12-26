@@ -2024,7 +2024,8 @@ ML pipeline using CI/CD
 -------
 ![785319763_1280x720](https://i.vimeocdn.com/video/785319763_1280x720.jpg)
 
-
+---------------
+![di_scm](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm.png)
 --------------
 -------------
 ![di_cust8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust8.PNG)
