@@ -2035,9 +2035,10 @@ ML pipeline using CI/CD
 -------------
 ![di_cust1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust1.PNG)
 
+-------------
+![di_cust3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust3.PNG)
 
 --------
-
 -----------------
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
