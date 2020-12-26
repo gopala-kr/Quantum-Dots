@@ -2048,6 +2048,8 @@ ML pipeline using CI/CD
 ![di_cust5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust5.PNG)
 -------------
 ![di_cust6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust6.PNG)
+----------
+![di_digExpImg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_digExpImg.png)
 --------
 -----------------
 
