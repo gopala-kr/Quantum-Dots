@@ -1052,5 +1052,7 @@
 ![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm1.png)
 ----------------
 ![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm3.png)
+----------------
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm4.png)
 ------------
 --------------
