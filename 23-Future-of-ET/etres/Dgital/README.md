@@ -20,5 +20,9 @@
 ![capability_eaas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/capability_eaas.svg)
 ----------
 ![eaas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/eaas.PNG)
+----------
+![eaas1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/eaas1.PNG)
+-------
+![saas_sap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/saas_sap.PNG)
 ---------------
 -------------------
