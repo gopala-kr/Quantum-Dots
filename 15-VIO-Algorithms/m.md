@@ -905,6 +905,9 @@
 ![illustration_automotive-supply-chain-processes_en](https://www.automotive-edi.com/wp_contents/uploads/2018/09/illustration_automotive-supply-chain-processes_en.jpg)
 -----------------
 -----------------
+
+- [Automotive Industry Solution Portfolio](https://solutionportfolio.net.sap/industry/AUTO)
+
 ![I-006](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-006.jpg)
 -----------------
 ![I-007](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/IC/I-007.jpg)
