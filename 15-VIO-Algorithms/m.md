@@ -1044,5 +1044,9 @@
 ![png-clipart-horizontal-integration-industry-4-architecture-vertical-integration](https://e7.pngegg.com/pngimages/200/1019/png-clipart-horizontal-integration-industry-4-architecture-vertical-integration-strategic-planning-independence-and-unity-day-angle-triangle.png)
 -------
 ![2014_Cars_Countries_Export_Treemap](https://upload.wikimedia.org/wikipedia/commons/b/b4/2014_Cars_Countries_Export_Treemap.png)
+
+--------------
+----------------
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm2.png)
 ------------
 --------------
