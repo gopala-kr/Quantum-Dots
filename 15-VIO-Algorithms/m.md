@@ -1047,14 +1047,18 @@
 
 --------------
 ----------------
-![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm2.png)
-----------------
-![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm1.png)
-----------------
-![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm3.png)
+![di_scm10](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm10.PNG)
+-----------
+![di_SCMjourneyOverview](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_SCMjourneyOverview.svg)
+-------------
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm5.png)
 ----------------
 ![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm4.png)
 ----------------
-![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm5.png)
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm3.png)
+----------------
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm1.png)
+----------------
+![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm2.png)
 ------------
 --------------
