@@ -2029,13 +2029,15 @@ ML pipeline using CI/CD
 --------
 ![gartner-mq-mxdp-2020](https://blogs.sap.com/wp-content/uploads/2020/07/gartner-mq-mxdp-2020.jpg)
 
+--------------
+-------------
+![di_cust](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust.PNG)
+
+
+
 --------
 
-Mobile App Development Platforms 
-
-
-
---------
+-----------------
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
 
