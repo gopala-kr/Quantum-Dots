@@ -1177,6 +1177,8 @@ Typical Business Process
 
 ![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
 
+----
+![ts_img1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ts_img1.svg)
 --------
 
 ERP Development from Scratch (Technologies)
