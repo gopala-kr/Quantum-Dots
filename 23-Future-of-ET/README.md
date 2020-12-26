@@ -583,6 +583,8 @@ Skills
 ![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
 -----
 --------
+![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
+----------
 ![RFP_Process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process.PNG)
 ----------
 ![Sol_Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Sol_Arch.PNG)
@@ -749,6 +751,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Design and Implementation of a Cloud Computing Adoption Decision Tool: Generating a Cloud Road](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134563)
 - [The Cloud Value Chain Exposed](https://www.cisco.com/c/dam/en_us/about/ac79/docs/sp/Cloud-Value-Chain-Exposed_030512FINAL.pdf)
 - [State of the Cloud 2020](https://www.bvp.com/atlas/state-of-the-cloud-2020/)
+
+----------------
+![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
 
 -----------------
 
@@ -2160,7 +2165,8 @@ Mobile App Development Platforms
 ![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
 
 
-
+-------------
+![Game_Changers_12](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/12/10161029/Game_Changers_12-6-36-2.png)
 
 [Back to top](#contents)
 
