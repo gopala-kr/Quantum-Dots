@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="899" height="561" viewBox="0 0 899 561">
+    <g fill="none" fill-rule="evenodd" transform="translate(0 2)">
+        <path fill="#18004E" d="M1 187.064v-6.031c117.02-7.99 210.852 19.573 281.5 82.69 70.646 63.115 118.11 159.896 142.392 290.34H1v3H0v-370h1z" opacity=".052"/>
+        <path fill="#0037AF" d="M0 183.38V25.447c253.788-4.4 412.249 23.616 475.383 84.05 49.433 47.32 110.788 135.122 150.39 235.465C642.757 387.99 659.166 457.67 675 554H424.645c-10.374-46.495-18.984-79.439-25.83-98.832-21.037-59.592-46.356-102.71-62.509-127.837-45.644-71.002-112.904-108.463-154.463-122.466C107.453 179.798 46.838 172.637 0 183.379z" opacity=".054"/>
+        <path fill="#0B9AEC" d="M675.69 559H899V31.23H3c236.564-7.222 391.36 17.348 464.39 73.71 44.638 34.449 118.905 141.736 159.681 246.641C644.363 396.067 660.57 465.206 675.69 559z" opacity=".052"/>
+        <path fill="#7B65FF" d="M85 391.13L718.497 173l5.21 15.128-633.498 218.13z" opacity=".073"/>
+        <path stroke="#979797" stroke-dasharray="2" d="M27 422l781-275M825 147C679.92 276.183 559.587 355.85 464 386c-121.454 38.31-267.6 33.618-417 34M826 147C672.144 475.532 411.144 566.674 43 420.427M26 425C179.856 96.468 440.856 5.326 809 151.573"/>
+        <path fill="#E9EEFE" d="M745.823 169.438l-20.126 27.553L713 160.116z"/>
+        <path fill="#44318D" d="M16.969 417.5c0-27.293 22.125-49.42 49.419-49.42h2.224c27.294 0 49.42 22.127 49.42 49.42 0 27.293-22.126 49.42-49.42 49.42h-2.224c-27.294 0-49.42-22.127-49.42-49.42z"/>
+        <text fill="#FFF" font-family="Graphik-Medium, Graphik" font-size="20" font-weight="400" letter-spacing=".009" transform="translate(16 368)">
+            <tspan x="14.837" y="47.563">Current</tspan> <tspan x="26.667" y="71.563">State</tspan>
+        </text>
+        <rect width="122" height="125" x="746.5" y="84.5" fill="#3298DF" rx="61" transform="rotate(-90 807.5 147)"/>
+        <text fill="#FFF" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023">
+            <tspan x="775.372" y="140">Future</tspan> <tspan x="781.343" y="162">State</tspan>
+        </text>
+        <circle cx="90" cy="312" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="128" cy="260" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="185" cy="200" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="245" cy="154" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="309" cy="122" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="229" cy="476" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="410" cy="485" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="738" cy="223" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="615" cy="411" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="713" cy="322" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="748" cy="283" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="497" cy="466" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="590" cy="91" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="330" cy="314" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="428" cy="281" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="469" cy="266" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="511" cy="252" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="684" cy="193" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="730" cy="175" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="298" cy="326" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="260" cy="340" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="353" cy="411" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="517" cy="366" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <circle cx="132" cy="384" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="167" cy="373" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="213" cy="357" r="4" fill="#F5A623" stroke="#FFA300" stroke-width="1.5"/>
+        <circle cx="721" cy="119" r="4" fill="#0178D7" stroke="#0178D7" stroke-width="1.5"/>
+        <rect width="149" height="22" x="366.5" y="77.5" fill="#17BEBB" stroke="#FFF" rx="3"/>
+        <text fill="#333" font-family="Graphik-Medium, Graphik" font-size="12" font-weight="400" letter-spacing=".007">
+            <tspan x="382.452" y="94">DEMAND PLANNING</tspan>
+        </text>
+        <rect width="159" height="39" x="502.5" y="203.5" fill="#17BEBB" stroke="#FFF" rx="3"/>
+        <text fill="#333" font-family="Graphik-Medium, Graphik" font-size="12" font-weight="400" letter-spacing=".007">
+            <tspan x="521.445" y="222">SUPPLY PLANNING &amp; </tspan> <tspan x="509" y="235">PRODUCTION PLANNING</tspan>
+        </text>
+        <rect width="99" height="39" x="612.5" y="259.5" fill="#17BEBB" stroke="#FFF" rx="3"/>
+        <text fill="#333" font-family="Graphik-Medium, Graphik" font-size="12" font-weight="400" letter-spacing=".007">
+            <tspan x="622.715" y="277">SC CONTROL </tspan> <tspan x="640.647" y="291">TOWER</tspan>
+        </text>
+        <rect width="159" height="39" x="657.5" y="341.5" fill="#17BEBB" stroke="#FFF" rx="3"/>
+        <text fill="#333" font-family="Graphik-Medium, Graphik" font-size="12" font-weight="400" letter-spacing=".007">
+            <tspan x="673.584" y="358">SALES &amp; OPERATIONS </tspan> <tspan x="706.671" y="372">PLANNING</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="37.576" y="307">Standard </tspan> <tspan x="6.563" y="318">Forecast Models</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="105" y="372">MRP Live</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="160" y="362">ATP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="301" y="337">Demand </tspan> <tspan x="301" y="348">Planning</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="427" y="295">Global Supply </tspan> <tspan x="427" y="306">Planning</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="411" y="255">Advanced ATP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="491" y="263">Inventory Planning</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="612" y="175">Supplier</tspan> <tspan x="612" y="186">Collaboration</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="679.334" y="152">Extended SC </tspan> <tspan x="681.03" y="163">optimization</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="217.529" y="301">Production </tspan> <tspan x="218.942" y="312">Planning &amp; </tspan> <tspan x="177.866" y="323">Detailed Scheduling</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="187" y="374">Limited distribution in </tspan> <tspan x="187" y="385">each Supply Chain node</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="325" y="284">PLM </tspan> <tspan x="325" y="295">Integration</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="137.588" y="136">Statistical &amp; consensus </tspan> <tspan x="161.1" y="147">Demand Planning</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="263" y="93">Insights led </tspan> <tspan x="263" y="104">Demand Shaping</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="532" y="68">Collaborative planning </tspan> <tspan x="532" y="79">&amp; Forecasting</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="686" y="89">Demand Sensing </tspan> <tspan x="686" y="100">&amp; ML Intelligence </tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="57.715" y="250">History Based </tspan> <tspan x="28.214" y="261">Baseline Forecasting</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="56.325" y="198">Lifecycle Demand Planning</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="321.448" y="390">Basic SC </tspan> <tspan x="298.41" y="401">Control Tower</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="190.137" y="489">S&amp;OP Data </tspan> <tspan x="145.117" y="500">Structure Finalization</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="368.045" y="498">Basic S&amp;OP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="493.402" y="480">Advanced S&amp;OP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="566.896" y="391">Integrated </tspan> <tspan x="587.203" y="402">S&amp;OP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="728" y="319">Cross - organizational </tspan> <tspan x="728" y="330">real time S&amp;OP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="757" y="284">Cognitive S&amp;OP</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="446" y="353">Advanced SC </tspan> <tspan x="446" y="364">Control Tower</tspan>
+        </text>
+        <text fill="#000" font-family="Graphik-Regular, Graphik" font-size="9.5" letter-spacing=".005">
+            <tspan x="730" y="236">Intelligent SC </tspan> <tspan x="730" y="247">Control Tower</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="18" font-weight="bold" letter-spacing=".01">
+            <tspan x="21" y="522">ORACLE CLOUD </tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="12" font-weight="bold" letter-spacing=".007">
+            <tspan x="22" y="537">SUPPLY CHAIN MANAGEMENT</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="12" font-weight="bold" letter-spacing=".007">
+            <tspan x="547" y="534">ADVANCED SUPPLY </tspan> <tspan x="547" y="548">CHAIN MANAGEMENT</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="12" font-weight="bold" letter-spacing=".007">
+            <tspan x="739" y="534">INTELLIGENT SUPPLY </tspan> <tspan x="739" y="548">CHAIN ECOSYSTEM</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="18" font-weight="bold" letter-spacing=".01">
+            <tspan x="546" y="520">ORACLE CLOUD</tspan>
+        </text>
+        <text fill="#4A4A4A" font-family="Graphik-Bold, Graphik" font-size="18" font-weight="bold" letter-spacing=".01">
+            <tspan x="739" y="520">ORACLE CLOUD</tspan>
+        </text>
+        
+        
+        
+        
+        <text fill="#353535" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023" opacity=".695">
+            
+        </text>
+        <text fill="#353535" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023" opacity=".695">
+            
+        </text>
+        <text fill="#353535" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023" opacity=".695">
+            
+        </text>
+        <text fill="#353535" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023" opacity=".695">
+            
+        </text>
+        <text fill="#353535" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023" opacity=".695">
+            
+        </text>
+        
+        <text fill="#FFF" font-family="Graphik-Semibold, Graphik" font-size="20" font-weight="500" letter-spacing=".023">
+            
+        </text>
+    </g>
+</svg>
