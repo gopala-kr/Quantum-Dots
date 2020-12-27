@@ -1320,6 +1320,8 @@ Enterprise Softwares
 
 ![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
 -------
+- [Industries](https://www.youtube.com/c/SAPIndustries/playlists)
+
 ![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
 --------------
 ERP Today
