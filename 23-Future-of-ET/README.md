@@ -1290,7 +1290,12 @@ ERP Development from Scratch (Cost Breakdown)
 --------
 ![final-project-picture](https://lims0195.files.wordpress.com/2014/04/final-project-picture.png)
 -------
+
+Client Demo/Transformation Journey Tools/:
+
+- [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM)
 - [SAP Transformation Navigator](https://open.sap.com/courses/tn1)
+
 
 ----------
 ------------
@@ -1314,7 +1319,8 @@ Enterprise Softwares
 ------------
 
 ![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
-
+-------
+![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
 --------------
 ERP Today
 
