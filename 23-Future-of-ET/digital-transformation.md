@@ -46,6 +46,8 @@
 ![Industrial-Organization-in-the-Offshore-Services-Industry](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/fig1/AS:669490492743693@1536630380710/Industrial-Organization-in-the-Offshore-Services-Industry.png)
 ---------
 ![Job-Profiles-in-the-Offshore-Services-Global-Value-Chain](https://www.researchgate.net/profile/Gary_Gereffi/publication/260059570/figure/tbl1/AS:669490492755981@1536630380870/Job-Profiles-in-the-Offshore-Services-Global-Value-Chain.png)
+------
+![T617835052_g](https://cdn.openpr.com/T/6/T617835052_g.jpg)
 
 ----------------
 --------------
