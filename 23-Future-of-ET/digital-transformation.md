@@ -631,5 +631,7 @@
 ![wt_web](https://www.happiestminds.com/services/wp-content/uploads/sites/2/2018/01/wt_web.jpg)
 -------
 ![ipl-digital-workplace-2019](https://isg-one.com/images/default-source/default-album/ipl-digital-workplace-2019.png?sfvrsn=94cef231_0)
+------
+![GIC-AR-2016-GIC-startup-collab](https://www.everestgrp.com/wp-content/uploads/2016/06/GIC-AR-2016-GIC-startup-collab.png)
 -----------
 -------------
