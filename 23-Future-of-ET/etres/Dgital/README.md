@@ -1,4 +1,7 @@
+-------
+![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
 
+----------
 ![di_ad1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_ad1.PNG)
 -----------------
 
