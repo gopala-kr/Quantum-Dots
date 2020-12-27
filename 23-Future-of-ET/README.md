@@ -1384,6 +1384,18 @@ ERP Today
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24.jpeg)
 -----
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25.jpeg)
+----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36.jpeg)
+--------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38.jpeg)
 -----------
 ![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
 
@@ -1905,6 +1917,9 @@ IIoT Platform
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 - [How to build an AI Platform](https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8)
 
+
+--------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide39](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide39.jpeg)
 -----------
 
 ![it_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_roles.PNG)
