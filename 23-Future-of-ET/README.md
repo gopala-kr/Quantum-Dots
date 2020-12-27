@@ -1396,6 +1396,16 @@ ERP Today
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37.jpeg)
 -------
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.jpeg)
+----------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44.jpeg)
 -----------
 ![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
 
