@@ -1324,6 +1324,8 @@ Enterprise Softwares
 
 ![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
 -------
+The Vertical Segment
+
 - [Industries](https://www.youtube.com/c/SAPIndustries/playlists)
 
 ![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
@@ -1363,7 +1365,25 @@ ERP Today
 -----
 ![saas](https://whatech.b-cdn.net/images/featured/5273/saas.jpg)
 -------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6.jpeg)
+-------
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25.jpeg)
 -----------
 ![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
 
