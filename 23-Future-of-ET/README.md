@@ -174,7 +174,8 @@
 ![c80ad5110d12e54bffd6b5da43749461](https://i.pinimg.com/originals/c8/0a/d5/c80ad5110d12e54bffd6b5da43749461.png)
 -----------
 ![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
-
+------
+![lsMXa_CDqxGzdP1YD2RXGA](https://miro.medium.com/max/3576/1*lsMXa_CDqxGzdP1YD2RXGA.png)
 ----------------
 ------------
 
@@ -195,7 +196,6 @@
 - [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
 - [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
 - [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
-
 
 
 -----------------
@@ -1890,7 +1890,26 @@ IIoT Platform
 
 ------
 ![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
-
+----------
+![80-Predictive-Maintenance-Companies-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/180-Predictive-Maintenance-Companies-min.png)
+------
+![9-Types-of-Predictive-Maintenance-Companies-focusing-on-Analytics-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/9-Types-of-Predictive-Maintenance-Companies-focusing-on-Analytics-min.png)
+--------
+![highleveldistribution_02](https://pragmaticarchitect.files.wordpress.com/2016/01/highleveldistribution_02.png)
+-----
+![Global-Predictive-Maintenance-Market-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/Global-Predictive-Maintenance-Market-min.png)
+-------
+![marketingdashboardlandscape](https://blogs.gartner.com/lizzy-foo-kune/files/2019/06/marketingdashboardlandscape.png)
+-------
+![conversionrate_example_01](https://pragmaticarchitect.files.wordpress.com/2016/01/conversionrate_example_01.png)
+--------
+![CHtSf55VEAEyfPU](https://pbs.twimg.com/media/CHtSf55VEAEyfPU.jpg)
+-------
+![powered-by-maths-for-humans](https://i0.wp.com/timoelliott.com/blog/wp-content/uploads/2018/03/powered-by-maths-for-humans.jpg?ssl=1)
+------
+![Screen-Shot-2013-04-25-at-2.48.29-PM](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-25-at-2.48.29-PM.png)
+--------
+![big-data-landscape-2019-v7](https://zdnet1.cbsistatic.com/hub/i/2019/07/17/b17497a0-844e-42b7-9dde-9020902c0b46/big-data-landscape-2019-v7.png)
 ------------
 -----------------
 
