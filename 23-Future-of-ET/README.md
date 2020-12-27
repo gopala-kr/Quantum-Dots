@@ -233,6 +233,8 @@
 
 ---------
 ![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
+------
+![Government_Business_Reference_Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Government_Business_Reference_Model.svg/1920px-Government_Business_Reference_Model.svg.png)
 
 -------------
 ![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
@@ -332,7 +334,6 @@
 #### Enterprise Architecture Modeling
 
 [Back to top](#contents)
-
 
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
 - [The History of Enterprise Architecture:An Evidence-Based Review](http://kotusev.com/The%20History%20of%20Enterprise%20Architecture%20-%20An%20Evidence-Based%20Review.pdf)
