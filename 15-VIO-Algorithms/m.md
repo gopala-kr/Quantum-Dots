@@ -1068,5 +1068,7 @@
 ![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm1.png)
 ----------------
 ![di_scm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm2.png)
+---------
+![Counterpoint-Research-CORE-Analysis-Location-Platforms-Customers-Partners-Relationships-Mar-2020](https://www.counterpointresearch.com/wp-content/uploads/2020/04/Counterpoint-Research-CORE-Analysis-Location-Platforms-Customers-Partners-Relationships-Mar-2020.png)
 ------------
 --------------
