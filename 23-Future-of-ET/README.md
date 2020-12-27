@@ -1295,7 +1295,7 @@ ERP Development from Scratch (Cost Breakdown)
 Client Demo/Transformation Journey Tools/:
 
 - [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
-- [SAP Transformation Navigator](https://open.sap.com/courses/tn1)
+- [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
 
 -----
 
