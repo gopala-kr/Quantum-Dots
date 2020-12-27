@@ -1293,7 +1293,7 @@ ERP Development from Scratch (Cost Breakdown)
 
 Client Demo/Transformation Journey Tools/:
 
-- [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)***
+- [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
 - [SAP Transformation Navigator](https://open.sap.com/courses/tn1)
 
 -----
@@ -1316,6 +1316,7 @@ Enterprise Functions and Processes
 ----------
 
 Enterprise Softwares
+
 
 ![What_is_an_ES](https://upload.wikimedia.org/wikipedia/commons/2/29/What_is_an_ES.jpg)
 
@@ -1345,7 +1346,25 @@ ERP Today
 
 - [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
 
+-------
+![market_1596540038219_ERP_geo](https://s3.mordorintelligence.com/enterprise-resource-planning-market/enterprise-resource-planning-market_1596540038219_ERP_geo.png)
+----
+![eb37106ddcaee2e71c64bc858bc3f3bb](https://tr4.cbsistatic.com/hub/i/r/2015/10/16/b5280710-0a3d-4837-ad49-181168ef6435/resize/1200x/eb37106ddcaee2e71c64bc858bc3f3bb/veeva-gartner-vertical-share.jpg)
+------
+![marketsize](https://practicalanalytics.files.wordpress.com/2013/10/marketsize.png)
+--------
+![40602700ea58e2c0dad676ce9281bae0](https://i.pinimg.com/originals/40/60/27/40602700ea58e2c0dad676ce9281bae0.jpg)
+-------
+![1560748754](https://www.alliedmarketresearch.com/assets/sampleimages/enterprise-application-market-by-vertical-1560748754.jpeg)
 ----------
+![atlas-soc-6-saas-crosses](https://d33wubrfki0l68.cloudfront.net/517a5927eb8307fbefe81286234b3732046e25e5/9abde/assets/media/atlas-soc-6-saas-crosses.jpg)
+-------
+![saas-statistics-1024x1024](https://financesonline.com/uploads/2019/10/saas-statistics-1024x1024.png)
+-----
+![saas](https://whatech.b-cdn.net/images/featured/5273/saas.jpg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7.jpeg)
+-----------
 ![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
 
 -------------
