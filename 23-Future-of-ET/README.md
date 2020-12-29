@@ -2157,7 +2157,10 @@ ML pipeline using CI/CD
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
 -------
 ![785319763_1280x720](https://i.vimeocdn.com/video/785319763_1280x720.jpg)
-
+--------
+![salesforce-combined](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/salesforce-combined.png)
+------
+![leveraging-vlocity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/leveraging-vlocity.png)
 ---------------
 ![di_scm](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm.png)
 --------------
@@ -2279,7 +2282,10 @@ ML pipeline using CI/CD
 -------
 ![it_excellence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/it_excellence.PNG)
 
-
+-------
+![plantDiagram](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/plantDiagram%202.png)
+---
+![inno](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/inno.PNG)
 ---------
 -----------
 
