@@ -2233,6 +2233,8 @@ ML pipeline using CI/CD
 [Back to top](#contents)
 
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
+------------
+![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 -----------------
 ![ienterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise.PNG)
 
