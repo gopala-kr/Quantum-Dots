@@ -870,6 +870,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------
 ![zcloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/zcloud.PNG)
 ----------
+![ztre](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ztre.PNG)
+----------
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
 - [Gartner IT Symposium/Xpo](https://www.youtube.com/watch?v=-dS-NZkJYcU)
