@@ -1642,6 +1642,8 @@ CRM and Customer Experience Implementation Services
 [Back to top](#contents)
 
 ![tenth_img](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/tenth_img.png)
+----------
+![14thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/14thslide_struc.svg)
 -------------
 ![6f6c0ce22e7532c8fc710e126d0c1415](https://hbr.org/resources/images/article_assets/2015/08/R1411C_A2.png)
 
