@@ -605,6 +605,9 @@ Skills
 
 -------------
 ![RFP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/RFP.PNG)
+
+---------
+![methodology2pic](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/methodology2pic.png)
 --------------
 -------------
 
