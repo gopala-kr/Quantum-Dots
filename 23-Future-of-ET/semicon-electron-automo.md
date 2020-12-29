@@ -7,6 +7,8 @@
 ------------
 ----------
 ![semicon](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/semicon.PNG)
+-------------
+![semicon1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/semicon1.PNG)
 --------------
 ![semiconductor_sales](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_sales.PNG)
 ----------
