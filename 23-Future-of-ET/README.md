@@ -1365,6 +1365,8 @@ ERP Today
 ![c4511](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c4511.png)
 ----------
 ![Group%209132](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Group%209132.png)
+---------
+![13thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/13thslide_struc.svg)
 ---------------
 -----------------------------------
 
