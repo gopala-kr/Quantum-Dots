@@ -608,6 +608,8 @@ Skills
 
 ---------
 ![methodology2pic](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/methodology2pic.png)
+-------
+![journeyComponents](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/journeyComponents.svg)
 --------------
 -------------
 
@@ -2133,6 +2135,8 @@ ML pipeline using CI/CD
 ------------
 
 ![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
+---------
+![ct1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ct1.PNG)
 
 ---------
 ![Human_Centric_Design](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Human_Centric_Design.PNG)
