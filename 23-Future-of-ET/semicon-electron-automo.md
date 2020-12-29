@@ -6,6 +6,8 @@
 
 ------------
 ----------
+![semicon](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/semicon.PNG)
+--------------
 ![semiconductor_sales](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_sales.PNG)
 ----------
 ![semiconductor_electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/semiconductor_electronics.PNG)
