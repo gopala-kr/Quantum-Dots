@@ -1347,6 +1347,8 @@ ERP Today
 -----
 ![1520206914286](https://media-exp1.licdn.com/dms/image/C5612AQHzO4hur4SPRg/article-inline_image-shrink_1500_2232/0/1520206914286?e=1612396800&v=beta&t=tGsB60C8I_zDjvknz506RRTdxleXKOJRXZd-2TVWW3Y)
 --------------
+![legacyCloudFullimg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/legacyCloudFullimg.svg)
+------------
 ![postModernERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP.svg)
 -----------
 ![postModernERP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP2.svg)
