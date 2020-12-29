@@ -867,6 +867,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------
 ![The-Multi-Cloud-Ecosystem-Final2](https://cbi-research-portal-uploads.s3.amazonaws.com/2018/06/24144212/The-Multi-Cloud-Ecosystem-Final2.png)
 
+--------
+![zcloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/zcloud.PNG)
 ----------
 
 - [Cloud Native Landscape](https://landscape.cncf.io/images/landscape.png)
