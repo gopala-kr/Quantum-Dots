@@ -1355,6 +1355,9 @@ ERP Today
 -----------
 ![postModernERP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP2.svg)
 
+-----------
+![c838](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c838.jpg)
+
 ---------------
 -----------------------------------
 
