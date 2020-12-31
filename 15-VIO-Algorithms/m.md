@@ -125,6 +125,8 @@
 - [Self-Driving Car Engineer Nanodegree projects](https://github.com/ndrplz/self-driving-car)
 
 --------
+
+- [Deep Learning for Human Mobility: a Survey on Data and Models](https://arxiv.org/pdf/2012.02825v1.pdf)
 - [Self-Driving Cars: A Survey. 2019](https://arxiv.org/pdf/1901.04407.pdf)
 - [A Survey of Autonomous Driving:Common Practices and Emerging Technologies, 2020](https://arxiv.org/pdf/1906.05113.pdf)
 - [A Survey of Deep Learning Techniques for Autonomous Driving, 2020](https://arxiv.org/pdf/1910.07738.pdf)
