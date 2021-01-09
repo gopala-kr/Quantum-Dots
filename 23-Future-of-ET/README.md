@@ -2330,6 +2330,10 @@ ML pipeline using CI/CD
 ![Gartner-e1580987955879](https://i0.wp.com/cartesiam.ai/wp-content/uploads/2020/01/Gartner-e1580987955879.png?fit=878%2C688&ssl=1)
 
 ------------
+![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
+------------
+![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
+---------------
 ![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
 
 ------------------
