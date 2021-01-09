@@ -524,6 +524,8 @@
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
+-------------
+![figure-1-1](https://djcs-prod.s3.amazonaws.com/public/blogs/deloitte/blogs.dir/4/files/2020/07/figure-1-1.png)
 ------------
 ![1decac25e3efa3914a192511c1a61b28](https://i.pinimg.com/originals/1d/ec/ac/1decac25e3efa3914a192511c1a61b28.jpg)
 ------------
