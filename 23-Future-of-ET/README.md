@@ -590,6 +590,8 @@ Skills
 ![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
 -----
 --------
+![6b7e2e9d2bfaad16ca711f6b7bbcffd6f76f2b841b07de43f0f08318ee1da3cd](https://cdn0.infotech.com/assets/management_governance/governance-framework-6b7e2e9d2bfaad16ca711f6b7bbcffd6f76f2b841b07de43f0f08318ee1da3cd.png)
+--------------
 ![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
 ----------
 ![RFP_Process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process.PNG)
