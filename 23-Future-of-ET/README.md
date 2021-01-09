@@ -3,6 +3,10 @@
 
  
 -----------------------
+         
+          You Can only connect the dots looking backwards - Steve Jobs
+
+-----------------------
 
  ##### [Contents](#contents)
 
@@ -2327,9 +2331,11 @@ ML pipeline using CI/CD
 
 ![Digital_Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Digital_Transformation.PNG)
 
-
 -------------
 ![Game_Changers_12](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/12/10161029/Game_Changers_12-6-36-2.png)
+
+---------
+![12_Years_Techtrends](https://github.com/gopala-kr/trending-repos/blob/master/photons/12_Years_Techtrends.PNG)
 
 [Back to top](#contents)
 
