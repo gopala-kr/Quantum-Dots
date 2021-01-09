@@ -2330,6 +2330,9 @@ ML pipeline using CI/CD
 ![Gartner-e1580987955879](https://i0.wp.com/cartesiam.ai/wp-content/uploads/2020/01/Gartner-e1580987955879.png?fit=878%2C688&ssl=1)
 
 ------------
+![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
+
+------------------
 ------------------
 
 #### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
