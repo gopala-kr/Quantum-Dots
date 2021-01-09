@@ -576,7 +576,8 @@ Skills
 ![Top-IT-Job-Titles-2-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/01085633/Top-IT-Job-Titles-2-Ongig.png)
 ---------
 ![gartner-cio-investment-2020](https://zdnet4.cbsistatic.com/hub/i/2019/10/23/b11dc3c0-243a-42a0-99fa-d1c8f3085969/gartner-cio-investment-2020.png)
-
+-----
+![IT-Spend](https://myvistage.com/hub/wp-content/uploads/sites/4/2020/11/IT-Spend.jpg)
 ---------
 ![impact-digitization-on-it_i13741920x1080_13_42](https://www.4cgroup.com/media/CxO/CIO-Office/Digitalisierung-in-der-IT/impact-digitization-on-it_i13741920x1080_13_42.jpg)
 -------
@@ -790,6 +791,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 --------------
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
+![fit_lim](https://i.pcmag.com/imagery/articles/05rP2YEjmx4FDycny1ale42-6.fit_lim.size_1838x.jpg)
+---------
 ![regional_global](https://www.aryaka.com/wp-content/uploads/2019/11/regional_global.jpg)
 -------
 ![compocloudjpg](https://www.sdwan-solutions.co.uk/storage/2019/07/compocloudjpg.jpg)
@@ -1651,6 +1654,10 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
+![01gXB9zbj6RrYH1Mawsvkfz](https://i.pcmag.com/imagery/articles/01gXB9zbj6RrYH1Mawsvkfz-6..1571879883.jpg)
+
+-------
+
 ![tenth_img](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/tenth_img.png)
 ----------
 ![14thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/14thslide_struc.svg)
@@ -2154,6 +2161,8 @@ ML pipeline using CI/CD
 
 ![Paradigm_shift](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Paradigm_shift.PNG)
 
+------
+![01gXB9zbj6RrYH1Mawsvkfz](https://i.pcmag.com/imagery/articles/01gXB9zbj6RrYH1Mawsvkfz-2..1571879883.jpg)
 ------------
 
 ![timeline](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/timeline-mobile_low.jpg)
