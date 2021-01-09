@@ -4,7 +4,7 @@
  
 -----------------------
          
-          You Can only connect the dots looking backwards - Steve Jobs
+          You can only connect the dots looking backwards - Steve Jobs
 
 -----------------------
 
@@ -2335,6 +2335,8 @@ ML pipeline using CI/CD
 ![Game_Changers_12](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/12/10161029/Game_Changers_12-6-36-2.png)
 
 ---------
+![photons](https://github.com/gopala-kr/trending-repos/tree/master/photons)
+----------
 ![12_Years_Techtrends](https://github.com/gopala-kr/trending-repos/blob/master/photons/12_Years_Techtrends.PNG)
 
 [Back to top](#contents)
