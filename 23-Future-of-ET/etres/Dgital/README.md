@@ -29,3 +29,7 @@
 ![saas_sap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/saas_sap.PNG)
 ---------------
 -------------------
+![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
+
+---------------
+-------------------
