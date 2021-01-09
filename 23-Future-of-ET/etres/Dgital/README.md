@@ -32,5 +32,7 @@
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
 ---------------
 ![financialFocus](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/financialFocus.png)
+-------
+![financeO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/financeO.PNG)
 ---------------
 -------------------
