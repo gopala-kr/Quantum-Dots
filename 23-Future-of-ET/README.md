@@ -808,6 +808,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![network1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/network5.PNG)
 --------
 ![network1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/network6.PNG)
+--------
+![network1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/network7.PNG)
 --------------------
 ![sdwan-diagram](https://www.californiatelecom.com/wp-content/uploads/2018/08/sdwan-diagram.jpg)
 ------
