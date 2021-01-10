@@ -20,6 +20,8 @@
 - [Driving Into the Future](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7531173/)
 - [A review of the current automotive manufacturing practice from an energy perspective](https://www.sciencedirect.com/science/article/pii/S0306261919317611)
 - [A Platform for Computing at the Mobile Edge:  Joint Solution with HPE, Saguna, and AWS](https://d1.awsstatic.com/whitepapers/platform-for-computing-at-the-mobile-edge-hpe-saguna-aws.pdf)
+- [Unlock the value
+of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlock-Value-Mobility-Services.pdf#zoom=50)
 
 ---------------
 
