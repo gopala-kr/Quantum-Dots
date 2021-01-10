@@ -216,9 +216,9 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 ---------
 ![]()
 ---------
-![]()
+![5g](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/5g.png)
 ---------
-![]()
+![5g](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/5g2.png)
 ---------
 ![Nattakarn_The-evolution-of-communication-in-digital-platform](http://sds.parsons.edu/designmanagement/files/2017/11/Nattakarn_The-evolution-of-communication-in-digital-platform.jpg)
 ---------
