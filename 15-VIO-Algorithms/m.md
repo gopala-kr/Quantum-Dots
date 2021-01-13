@@ -1093,5 +1093,11 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 ![mobility_t](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/mobility_7.PNG)
 ----------------
 ![mobility_t](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/mobility_8.PNG)
+------
+![automotive_scn](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn.PNG)
+---------
+![automotive_scn_4w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_4w.PNG)
+---------
+![automotive_scn_2w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_2w.PNG)
 ------------
 --------------
