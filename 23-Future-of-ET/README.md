@@ -346,7 +346,14 @@
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
-
+-------
+![nrQKZgITBk](https://www.tribalmind.co/S3/tribalmind-live/Discoveries/nrQKZgITBk-09jSR6mQGRA.png?h=3200&w=3200&mode=max&autorotate=true)
+---------
+![A-vision-of-different-infrastructure-systems](https://www.researchgate.net/profile/Wangda_Zuo/publication/332289655/figure/fig1/AS:745615575232512@1554780014744/A-vision-of-different-infrastructure-systems-in-future-connected-communities.png)
+-------
+![Screen-Shot-2020-04-16-at-11.56.14-AM](https://www.volitioncapital.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-11.56.14-AM.png)
+-----
+![for-zoo-gardening-facilities-based-on-4](https://www.researchgate.net/profile/Johannes_Wichmann2/publication/335977115/figure/fig1/AS:806204322369539@1569225497955/Reference-Enterprise-Architecture-Approach-for-zoo-gardening-facilities-based-on-4.png)
 -----------
 ------------
 
@@ -385,9 +392,12 @@
 
 --------
 ![enterprise-architecture-on-a-page](https://interact.bcs.org/images/articles/enterprise-architecture-on-a-page.jpg)
-
+----
+![gdpr_stack](https://dalbanger.files.wordpress.com/2017/03/gdpr_stack.jpg)
 ------------
 ![subtractive_mfg_circa_2017](https://www.ame.org/files/subtractive_mfg_circa_2017.png)
+---------
+![audit_drb](https://dalbanger.files.wordpress.com/2017/05/audit_drb.png)
 ------------------
 
 ##### Enterprise Architecture Example :
@@ -539,6 +549,8 @@
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
+---------
+![Governance_Poster_Resource_Page_Thumbnail](https://www.leanix.net/hs-fs/hubfs/Imported%20images/EA-Governance_Poster_Resource_Page_Thumbnail-1.png?width=1560&height=1092&name=EA-Governance_Poster_Resource_Page_Thumbnail-1.png)
 -------------
 ![figure-1-1](https://djcs-prod.s3.amazonaws.com/public/blogs/deloitte/blogs.dir/4/files/2020/07/figure-1-1.png)
 ------------
@@ -610,6 +622,8 @@ Skills
 --------------
 ![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
 ----------
+![solutionarchitectlifecycle](https://dalbanger.files.wordpress.com/2017/05/solutionarchitectlifecycle.jpg)
+--------
 ![RFP_Process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process.PNG)
 ----------
 ![Sol_Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Sol_Arch.PNG)
@@ -787,7 +801,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ----------------
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
-
+------
+![digital-business-model-example](https://528484-1683244-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/digital-business-model-example.png.webp)
 -----------------
 
 [Back to top](#contents)
@@ -943,6 +958,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Q2B 2020](https://www.youtube.com/c/QCWare/videos)
 - [SaaS Monster](https://www.youtube.com/playlist?list=PLxptNs2MLOjmOeyrvAqdgO_X2lv1UB-Jl)
 
+------
+![technology-trends](https://528484-1683244-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/technology-trends.png.webp)
 -------------
 ![669448247717908](https://www.researchgate.net/profile/Gerardo_Flintsch/publication/265975447/figure/fig15/AS:669448247717908@1536620308928/2-NTCIP-Framework-36.jpg)
 ---------
@@ -1075,6 +1092,9 @@ Meeting Solutions
 --------
 ![RSG_Digital_Workplace_toolkit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_03_wpt.PNG)
 
+----
+![iwamt5pxtbjbu6giwlvw](https://www.arbelatech.com/userfiles/filemanager/iwamt5pxtbjbu6giwlvw/)
+
 [Back to top](#contents)
 
 ---------
@@ -1125,7 +1145,8 @@ Low-Code Application Platforms
 -----------
 ![itsml3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/itsml3.PNG)
 ----------
-
+![it4it](https://opengroupblog.files.wordpress.com/2019/07/it4it.png?w=1000&h=487)
+----------
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
 
@@ -1209,6 +1230,9 @@ Low-Code Application Platforms
 - [ERP Modules: Main Features, Functionality, and Workflows](https://existek.com/blog/erp-modules-main-features-functionality-and-workflows/)
 - [Custom ERP Development: Is It Worth It?](https://existek.com/blog/custom-erp-development/)
 - [Open Source ERP Solutions](https://solutionsreview.com/enterprise-resource-planning/top-15-free-and-open-source-erp-solutions/)
+------
+![entsysarchpic](https://dalbanger.files.wordpress.com/2015/05/entsysarchpic.jpg)
+
 -------------
 
 - [digitalistmag.com/](https://www.digitalistmag.com/)
@@ -1616,6 +1640,8 @@ CRM and Customer Experience Implementation Services
 
 [Back to top](#contents)
 
+![connectors_MI](https://www.1eq.com/html/version7.1/resources/images/connectors_MI.png)
+------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
 ---------------
@@ -1647,8 +1673,6 @@ CRM and Customer Experience Implementation Services
 -------------
 ![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
 -------
-![KevinFleet_Q2_Blog2_IMAGE](https://blogs.informatica.com/wp-content/uploads/2017/06/KevinFleet_Q2_Blog2_IMAGE.jpg)
--------------
 
 ![sap1](https://www.sothis.tech/wp-content/uploads/2020/02/sap1.png)
 ----------
@@ -1689,7 +1713,6 @@ CRM and Customer Experience Implementation Services
 ![01gXB9zbj6RrYH1Mawsvkfz](https://i.pcmag.com/imagery/articles/01gXB9zbj6RrYH1Mawsvkfz-6..1571879883.jpg)
 
 -------
-
 ![tenth_img](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/tenth_img.png)
 ----------
 ![14thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/14thslide_struc.svg)
@@ -1760,7 +1783,16 @@ CRM and Customer Experience Implementation Services
 
 IIoT Platform
 
-
+![Industrial%20Edge](https://www.arcweb.com/sites/default/files/Images/blog-images/Industrial%20Edge.png)
+-----
+![capabilities-security-threats-and](https://www.researchgate.net/profile/Fahad_Siddiqui5/publication/337057417/figure/fig1/AS:822220481912837@1573044047643/An-illustration-of-Cloud-to-Edge-infrastructure-capabilities-security-threats-and.ppm)
+-----
+![stages_iot_infrastructure](https://iiot-world.com/wp-content/uploads/2018/11/stages_iot_infrastructure.jpg)
+---------
+![infrastructure-diag-arch-avail-37325-iot-v8-01](https://www.f5.com/content/dam/f5-com/page-assets-en/home-en/resources/white-papers/the-internet-of-things-ready-infrastructure-diag-arch-avail-37325-iot-v8-01.png)
+------
+![SDN-NETWORK-IT-INFRASTRUCTURE-Let-us](https://www.researchgate.net/profile/Nathalie_Omnes/publication/295260064/figure/fig5/AS:507710107467776@1498058930105/nfrastructure-services-NFV-SDN-architecture-V-NFV-SDN-NETWORK-IT-INFRASTRUCTURE-Let-us.png)
+-----------
 ![0*ulH3-M1yBVjO1di](https://miro.medium.com/max/945/0*ulH3-M1yBVjO1di-)
 
 ----------
