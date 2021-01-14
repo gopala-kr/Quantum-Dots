@@ -6,8 +6,6 @@
          
      You can only connect the dots looking backwards - Steve Jobs
 
-
-----------------
 ----------------
 
  ##### [Contents](#contents)
@@ -1565,7 +1563,8 @@ CRM and Customer Experience Implementation Services
 - [2020 Data Landscape](https://mattturck.com/data2020/)
 
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
-
+-------
+![datalakehouse](https://databricks.com/de/wp-content/uploads/2020/01/datalakehouse.jpg)
 --------
 ![Dxuh0yBVsAAoiFZ](https://pbs.twimg.com/media/Dxuh0yBVsAAoiFZ.jpg:large)
 ---------
@@ -1579,7 +1578,8 @@ CRM and Customer Experience Implementation Services
 ----------
 
 ![Gartner_Magic_Quadrant](https://www.intersystems.com/wp-content/uploads/2019/12/Gartner_Magic_Quadrant-2019-700px.png)
-
+------
+![20Image](https://www.smartdatacollective.com/wp-content/uploads/2016/08/SDC%203%20Image.jpg)
 --------
 ![Technology-Landscape-1100_778](https://www.data-vault.co.uk/wp-content/uploads/2019/01/Technology-Landscape-1100_778.jpg)
 ---------
@@ -1823,7 +1823,18 @@ IIoT Platform
 
 ---------
 ![RackMultipart20190211-31663-ifno](https://s3.amazonaws.com/eckerson/assets/files/000/000/321/original/RackMultipart20190211-31663-ifnog5.png?1549868717)
-
+------
+![word-image-23](https://content.altexsoft.com/media/2019/10/word-image-23.png)
+----
+![Data-Lake-vs.-Data-Warehouse-vs.-Data-Hub-Comparison-Table](https://miktysh.com.au/wp-content/uploads/2019/04/Data-Lake-vs.-Data-Warehouse-vs.-Data-Hub-Comparison-Table.png)
+-----
+![power-bi-data-lake-data-warehouse](https://www.skylinetechnologies.com/SkylineTechnologies/media/Content/power-bi-data-lake-data-warehouse.PNG)
+---------
+![word-image-21](https://content.altexsoft.com/media/2019/10/word-image-21.png)
+------
+![data-lake-vs-data-warehouse-vs-data-mart](https://www.holistics.io/blog/content/images/2018/02/data-lake-vs-data-warehouse-vs-data-mart.png)
+-----
+![databricksbs](https://goodstrat.files.wordpress.com/2020/05/databricksbs.jpg?w=1024)
 ----------
 ![chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem](https://image.slidesharecdn.com/iw16ipa10805242016-160530010733/95/chief-data-architect-or-chief-data-officer-connecting-the-enterprise-data-ecosystem-29-1024.jpg?cb=1464776457)
 
@@ -2035,9 +2046,6 @@ IIoT Platform
 
 -----------
 ![DS_life_cycle](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/DS_life_cycle.PNG)
---------
-
-![POC_F](https://news.sap.com/wp-content/blogs.dir/1/files/POC_F.jpg)
 
 -----------
 ![ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ml.PNG)
@@ -2405,8 +2413,9 @@ ML pipeline using CI/CD
 ![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
 
 -----------
-![k_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale.PNG)
------
+
 ![k_scale1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale1.PNG)
 ----------
+![k_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale.PNG)
+-----
 ----------------
