@@ -8,7 +8,10 @@
 
 -----------------------
 ----------------
-![glb_000_globe_loop1__2](https://cdn.dribbble.com/users/1655585/screenshots/3433088/glb_000_globe_loop1__2.gif)
+
+<img src="https://cdn.dribbble.com/users/1655585/screenshots/3433088/glb_000_globe_loop1__2.gif" alt="ET" width="400"/>
+
+
 
 ----------------
 ----------------
@@ -2393,10 +2396,7 @@ ML pipeline using CI/CD
 
 -------
 ![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
---------
-![20061109000016341996](https://media.apnarm.net.au/media/images/2016/03/30/9-3215545-20061109000016341996-original_t1880.jpg)
------
-![01_feed_story_facebook](https://www.gstatic.com/earth/social/01_feed_story_facebook-001.jpg)
+
 -----------
 ![k_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale.PNG)
 -----
