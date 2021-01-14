@@ -9,7 +9,9 @@
 -----------------------
 ----------------
 
-![ET](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/glb_000_globe_loop1__2.gif)
+
+
+<img src="https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/glb_000_globe_loop1__2.gif" width="600px">
 
 
 
