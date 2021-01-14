@@ -4,9 +4,25 @@
  
 -----------------------
          
-          You can only connect the dots looking backwards - Steve Jobs
+     You can only connect the dots looking backwards - Steve Jobs
 
 -----------------------
+----------------
+![earth-gif](https://worldclassmanager.com/wp-content/uploads/2018/01/earth-gif.gif)
+-----------
+2193
+
+![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
+
+-------
+![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
+--------
+![20061109000016341996](https://media.apnarm.net.au/media/images/2016/03/30/9-3215545-20061109000016341996-original_t1880.jpg)
+-----
+![01_feed_story_facebook](https://www.gstatic.com/earth/social/01_feed_story_facebook-001.jpg)
+
+----------------
+----------------
 
  ##### [Contents](#contents)
 
@@ -244,6 +260,11 @@
 ![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
 ----------
 ![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
+--------------------
+------------
+![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
+------------
+![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
 
 ----------------
 ---------
@@ -1334,6 +1355,7 @@ Client Demo/Transformation Journey Tools/:
 
 - [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
 - [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
+- [Developer Insights 2020 Survey Results](https://developers.sap.com/insights-survey-results.html)
 
 -----
 
@@ -2343,10 +2365,6 @@ ML pipeline using CI/CD
 -----------
 ![Gartner-e1580987955879](https://i0.wp.com/cartesiam.ai/wp-content/uploads/2020/01/Gartner-e1580987955879.png?fit=878%2C688&ssl=1)
 
-------------
-![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
-------------
-![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
 ---------------
 ![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
 
