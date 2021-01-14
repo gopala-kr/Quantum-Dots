@@ -1,5 +1,6 @@
 -------------
 - [The Global Innovation Index (GII) 2020: Who Will Finance Innovation?](https://www.globalinnovationindex.org/home)
+- [2020_Annual_US_PE_Breakdown](https://files.pitchbook.com/website/files/pdf/2020_Annual_US_PE_Breakdown.pdf) | [PitchBook_2020_Annual_US_PE_Breakdown_Summary](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/PitchBook_2020_Annual_US_PE_Breakdown_Summary_XLS.xlsx)
 - [Venture Capital’s Role in Financing Innovation, 2020](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.34.3.237)
 - [State of the Venture Capital Industry in 2019](https://www.toptal.com/finance/venture-capital-consultants/state-of-venture-capital-industry-2019)
 - [The State of Private Equity in 2020](https://www.toptal.com/finance/private-equity-consultants/state-of-private-equity)
