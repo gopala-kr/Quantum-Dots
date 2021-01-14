@@ -7,6 +7,10 @@
      You can only connect the dots looking backwards - Steve Jobs
 
 ----------------
+![a841320b97bddfde2e3728ec7ce378aa](https://i.pinimg.com/originals/a8/41/32/a841320b97bddfde2e3728ec7ce378aa.jpg)
+
+-------------
+------------
 
  ##### [Contents](#contents)
 
@@ -280,7 +284,8 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
-
+-------
+![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
 ------------
 -----------------
 #### Global Organizations
@@ -347,14 +352,32 @@
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 -------
+
+![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
+------
+![9ee6397e-cfc4-468b-b947-6dac8bdc3895](https://uploads-us-west-2.insided.com/nutanix-us/attachment/9ee6397e-cfc4-468b-b947-6dac8bdc3895.png)
+-------
+![Cloud-Services](https://www.rapidvaluesolutions.com/wp-content/uploads/2018/06/Cloud-Services.png)
+-----
 ![nrQKZgITBk](https://www.tribalmind.co/S3/tribalmind-live/Discoveries/nrQKZgITBk-09jSR6mQGRA.png?h=3200&w=3200&mode=max&autorotate=true)
 ---------
+![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
+--------
 ![A-vision-of-different-infrastructure-systems](https://www.researchgate.net/profile/Wangda_Zuo/publication/332289655/figure/fig1/AS:745615575232512@1554780014744/A-vision-of-different-infrastructure-systems-in-future-connected-communities.png)
 -------
-![Screen-Shot-2020-04-16-at-11.56.14-AM](https://www.volitioncapital.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-11.56.14-AM.png)
------
+![Digital_Transformation_framework_version_2](https://blog.lnsresearch.com/hubfs/Digital_Transformation_framework_version_2.jpg)
+--------
+
 ![for-zoo-gardening-facilities-based-on-4](https://www.researchgate.net/profile/Johannes_Wichmann2/publication/335977115/figure/fig1/AS:806204322369539@1569225497955/Reference-Enterprise-Architecture-Approach-for-zoo-gardening-facilities-based-on-4.png)
+------
+- [Digital Transformation And Enterprise Architecture](https://www.slideshare.net/alanmcsweeney/digital-transformation-and-enterprise-architecture)
+
+![digitaltransformationandenterprisearchitecture](https://image.slidesharecdn.com/digitaltransformationandenterprisearchitecture-160907182301/95/digital-transformation-and-enterprise-architecture-27-1024.jpg?cb=1473272609)
+
 -----------
+![Screen-Shot-2020-04-16-at-11.56.14-AM](https://www.volitioncapital.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-16-at-11.56.14-AM.png)
+
+-----
 ------------
 
 #### Enterprise Architecture Modeling
