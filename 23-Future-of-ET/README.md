@@ -13,6 +13,10 @@
 ![3196102_earth](https://www.teahub.io/photos/full/319-3196102_earth-4k.jpg)
 ------
 ![a841320b97bddfde2e3728ec7ce378aa](https://thumbs-prod.si-cdn.com/6THtw5xr-QETsNdJUj1cyrTcyP8=/fit-in/1600x0/https://public-media.si-cdn.com/filer/ca/a9/caa9d702-956d-42ec-9199-62da849446dd/42-46202173.jpg)
+------
+[paths](https://globe4r.john-coene.com/paths)
+
+![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
 -----
 ![wp7540627](https://wallpapercave.com/wp/wp7540627.jpg)
 --------
