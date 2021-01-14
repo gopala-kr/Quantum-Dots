@@ -9,7 +9,7 @@
 -----------------------
 ----------------
 
-<img src="https://cdn.dribbble.com/users/1655585/screenshots/3433088/glb_000_globe_loop1__2.gif" alt="ET" width="400"/>
+<img src="https://cdn.dribbble.com/users/1655585/screenshots/3433088/glb_000_globe_loop1__2.gif" alt="ET" width="1000"/>
 
 
 
@@ -257,6 +257,8 @@
 ![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
 ------------
 ![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
+---------------
+![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
 
 ----------------
 ---------
@@ -347,6 +349,14 @@
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
 -------------------------------
+-----------
+
+![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
+------------
+![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
+
+-----------
+------------
 
 #### Enterprise Architecture Modeling
 
@@ -2314,10 +2324,7 @@ ML pipeline using CI/CD
 
 [Back to top](#contents)
 
-![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
-------------
-![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
------------------
+
 ![ienterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise.PNG)
 
 --------------------
@@ -2357,8 +2364,7 @@ ML pipeline using CI/CD
 -----------
 ![Gartner-e1580987955879](https://i0.wp.com/cartesiam.ai/wp-content/uploads/2020/01/Gartner-e1580987955879.png?fit=878%2C688&ssl=1)
 
----------------
-![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
+
 
 ------------------
 ------------------
