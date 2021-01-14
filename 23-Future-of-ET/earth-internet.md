@@ -17,7 +17,7 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [Bharti Enterprises asks ISRO for help developing OneWeb user terminals](https://spacenews.com/bharti-enterprises-asks-isro-for-help-developing-oneweb-user-terminals/)
 - [oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal](https://economictimes.indiatimes.com/industry/telecom/telecom-news/oneweb-plans-to-offer-broadband-services-in-india-by-june-2022-sunil-mittal/articleshow/79329402.cms)
 - [Mobile network traffic grew 50 percent between Q3 2019 and Q3 2020.](https://www.ericsson.com/en/mobility-report/dataforecasts/mobile-traffic-update)
-
+- [5G Technologies?](http://www.ictconference.kr/ICTconference/2019ICT/QR/day2/01_N001.pdf)
 --------
 - [Internet value chain economics](https://www.de.kearney.com/communications-media-technology/article?/a/internet-value-chain-economics)
 - [What Happens Every Minute on the Internet in 2020](https://www.visualcapitalist.com/every-minute-internet-2020/)
