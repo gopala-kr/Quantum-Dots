@@ -6,14 +6,6 @@
          
      You can only connect the dots looking backwards - Steve Jobs
 
------------------------
-----------------
-
-
-
-<img src="https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/glb_000_globe_loop1__2.gif" width="600px">
-
-
 
 ----------------
 ----------------
@@ -2395,6 +2387,13 @@ ML pipeline using CI/CD
 
 ----------
 ----------
+
+
+
+<img src="https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/glb_000_globe_loop1__2.gif" width="1000px">
+
+-----------------------
+
 
 ![earth-gif](https://worldclassmanager.com/wp-content/uploads/2018/01/earth-gif.gif)
 -----------
