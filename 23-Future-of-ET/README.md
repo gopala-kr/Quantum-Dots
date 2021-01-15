@@ -2023,6 +2023,9 @@ IIoT Platform
 </tbody>
 </table>    
 
+-------------
+![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
+
 ---------
 ----------
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
