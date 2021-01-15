@@ -51,7 +51,7 @@
      - Micro Service Architecture
      - Serverless Architecture
      - API Management
-   - [Enterprise Data Warehouse](#enterprise-data-warehouse)
+   - [Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)
      - Practical DataOps
    - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
    - [AI in Enterprise Processes](#ai-in-enterprise-processes)
@@ -2025,7 +2025,10 @@ IIoT Platform
 
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
-
+-------
+![pasted-image-0-40](https://www.singlegrain.com/wp-content/uploads/2019/12/pasted-image-0-40.jpg)
+--------
+![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
 ---------
 ----------
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
