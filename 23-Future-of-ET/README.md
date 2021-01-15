@@ -7,7 +7,7 @@
      You can only connect the dots looking backwards - Steve Jobs
 
 ----------------
------------
+
 ![ios-11-earth-night-4k-pe](https://images.hdqwalls.com/wallpapers/ios-11-earth-night-4k-pe.jpg)
 -----
 ![3196102_earth](https://www.teahub.io/photos/full/319-3196102_earth-4k.jpg)
