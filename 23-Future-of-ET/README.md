@@ -2116,7 +2116,38 @@ IIoT Platform
 ![Enterprise_RPA_AIML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_RPA_AIML.PNG)
 -----
 ![p2db_ncnO9bN3kCfbJV4pw](https://miro.medium.com/max/1050/1*p2db_ncnO9bN3kCfbJV4pw.png)
+
 -------------
+AIOps
+
+- [Five Ways AIOps Can Transform Your Enterprise | Guide to AIOps | AIOps Tools](https://www.youtube.com/watch?v=SMvX-o6Cxjs)
+- [Machine Learning & AIOps: Why IT Operations & Monitoring Teams Should Care](https://www.youtube.com/watch?v=UYNygjTY4xw)
+- [Beyond ITOM and AIOps](https://www.youtube.com/watch?v=43wUhCfT0ws)
+- [AIOps: Steps Towards Autonomous Operations (DEV301-R1)](https://www.youtube.com/watch?v=kmKuEQrO-l4)
+- [SAP, AIOps and Splunk - 3M is Transforming ERP Operations](https://www.youtube.com/watch?v=1-HAMzMOglc)
+- [Leveraging AIOps to improve service availability](https://www.youtube.com/watch?v=s-Wbb-ao4IA)
+- [The Roadmap to AIOps | Next Steps](https://www.youtube.com/watch?v=AMi5B9y-l-M)
+- [The AIOps Market: Past, Present, and Future with Will Cappelli](https://www.youtube.com/watch?v=391WhCa326o)
+- [Splunk for AIOps: Reduce IT outages through prediction with machine learning](https://www.slideshare.net/IPEXPOEventSeries/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-95666040)
+
+![AIOps-Platform](https://www.orb-data.com/wp-content/uploads/2020/06/AIOps-Platform.png)
+--------
+![PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic.png)
+-----
+![AI-in-CX-webpage-diagram](https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/12/AI-in-CX-webpage-diagram.jpg?w=960)
+--------
+![splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning](https://image.slidesharecdn.com/11100splunk-180502070424/95/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-12-1024.jpg?cb=1525258974)
+----
+![splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-39-1024](https://image.slidesharecdn.com/11100splunk-180502070424/95/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-39-1024.jpg?cb=1525258974)
+---
+![FF-AIOps%20Problems-Oppoertunities](https://blog.asug.com/hubfs/FF-AIOps%20Problems-Oppoertunities.png)
+-----
+![FF-AIOps%20Solution%20Landscape](https://blog.asug.com/hubfs/FF-AIOps%20Solution%20Landscape.png)
+----
+![aiops-pics-03](https://blog.cloudticity.com/hubfs/aiops-pics-03.png)
+------
+![AIOps%20Vendor%20Landscape@2x-100.jpg?width=3840&name=AIOps%20Vendor%20Landscape@2x-100](https://blog.opsramp.com/hs-fs/hubfs/Blog_images/AIOps%20Vendor%20Landscape@2x-100.jpg?width=3840&name=AIOps%20Vendor%20Landscape@2x-100.jpg)
+------------
 
 RPA
 
