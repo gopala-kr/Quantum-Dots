@@ -1859,7 +1859,7 @@ IIoT Platform
 ---------------------------
 -----------------------------
 
-#### Enterprise Data Warehouse
+#### Enterprise Data Warehouse and Data Lake
 
 [Back to top](#contents)
 
@@ -2337,6 +2337,8 @@ ML pipeline using CI/CD
 
 ![MAD-Platform-Leader](https://info.datalynx.com/wp-content/uploads/MAD-Platform-Leader.png)
 
+------------
+![climber_blog_gartner_magicquadrant18](https://www.climber.se/wp-content/uploads/2019/04/climber_blog_gartner_magicquadrant18-19.jpg)
 -----------
 
 ![999_02_Etech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_02_Etech.PNG)
