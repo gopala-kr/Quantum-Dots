@@ -1607,6 +1607,8 @@ SAP Portfolio
 --------------
 ![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
 -----------------
+- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
+
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
 -------------
 ![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
@@ -1620,6 +1622,10 @@ SAP Portfolio
 ![btp6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp6.PNG)
 -------------
 ![btp7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp7.PNG)
+----------
+![btp14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp14.PNG)
+---------
+![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
 ------
 ![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
 
@@ -2060,6 +2066,25 @@ IIoT Platform
 ![pasted-image-0-40](https://www.singlegrain.com/wp-content/uploads/2019/12/pasted-image-0-40.jpg)
 --------
 ![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
+----------------
+![btp8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp8.PNG)
+------------
+![btp9](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp9.PNG)
+---------
+![btp11](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp11.PNG)
+------------
+![btp10](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp10.PNG)
+-------------
+![btp12](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp12.PNG)
+-------------
+![btp13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp13.PNG)
+-----------
+
+![composite-bi-bw-sap-hana-edw-architecture](https://cdn.visualbi.com/wp-content/uploads/composite-bi-bw-sap-hana-edw-architecture.jpg)
+---------------
+![modificationDate](https://wiki.scn.sap.com/wiki/download/attachments/484941719/SAC%20Overview.jpg?version=1&modificationDate=1554808239000&api=v2)
+----------------
+![LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU](https://media-exp1.licdn.com/dms/image/C5612AQEdHaDNbtuMUg/article-inline_image-shrink_1000_1488/0/1539148820380?e=1616025600&v=beta&t=LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU)
 ---------
 ----------
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
