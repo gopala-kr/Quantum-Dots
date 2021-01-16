@@ -1413,6 +1413,7 @@ Enterprise Functions and Processes
 
 ![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
 
+
 ----------
 
 Enterprise Softwares
@@ -1593,6 +1594,34 @@ CRM and Customer Experience Implementation Services
 ---------
 
 ![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
+---------------
+------------
+
+SAP Portfolio
+
+![btp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.PNG)
+--------
+![btp1.1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.1.PNG)
+----------------
+![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
+--------------
+![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
+-----------------
+![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
+-------------
+![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
+------------
+![btp3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp3.PNG)
+---------------
+![btp4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp4.PNG)
+----------
+![btp5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp5.PNG)
+---------------
+![btp6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp6.PNG)
+-------------
+![btp7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp7.PNG)
+------
+![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
 
 ----------------------
 ----------
@@ -1665,6 +1694,8 @@ CRM and Customer Experience Implementation Services
 ------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
+-------------
+![iflow](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow.PNG)
 ---------------
 
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
