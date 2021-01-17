@@ -29,6 +29,11 @@
 ![saas_sap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/saas_sap.PNG)
 ---------------
 -------------------
+![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
+
+--------------
+![fpA-org-chart-960x370](https://wsp-blog-images.s3.amazonaws.com/uploads/2018/04/24150936/fpA-org-chart-960x370.jpg)
+---------------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
 ---------------
 ![financialFocus](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/financialFocus.png)
