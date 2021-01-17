@@ -35,6 +35,8 @@
 ![fpA-org-chart-960x370](https://wsp-blog-images.s3.amazonaws.com/uploads/2018/04/24150936/fpA-org-chart-960x370.jpg)
 ---------------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
+-----------
+![2011copy2](https://image.slidesharecdn.com/fpaoperatingmodel-final-october-2011copy2-121024105024-phpapp01/95/fpa-operating-model-3-1024.jpg?cb=1351162701)
 ---------------
 ![financialFocus](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/financialFocus.png)
 -------
