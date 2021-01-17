@@ -2066,6 +2066,31 @@ IIoT Platform
 ![pasted-image-0-40](https://www.singlegrain.com/wp-content/uploads/2019/12/pasted-image-0-40.jpg)
 --------
 ![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
+-------------
+![RackMultipart20150131](http://s3.amazonaws.com/eckerson/assets/files/000/000/021/original/RackMultipart20150131-28750-zidvue.jpg?1422738655)
+---------
+![RackMultipart20150131](http://s3.amazonaws.com/eckerson/assets/files/000/000/022/original/RackMultipart20150131-28750-132uydv.jpg?1422738806)
+-----------
+![value_pyramid](https://blogs.gartner.com/andrew_white/files/2019/05/value_pyramid.png)
+-----------
+![671810156773382](https://www.researchgate.net/profile/Basmah_El_Haddad/publication/323174816/figure/fig2/AS:671810156773382@1537183431593/1-Evolution-of-Business-Intelligence-BI.jpg)
+------------
+![data-platform1](https://bizexc.files.wordpress.com/2018/09/data-platform1.png)
+------------
+![auto-scenarios-by-microsoft](https://bizexc.files.wordpress.com/2015/11/auto-scenarios-by-microsoft.png)
+--------
+![bi-v1-073](https://bizexc.files.wordpress.com/2017/05/bi-v1-073.png)
+----------
+![eim-v2-02](https://bizexc.files.wordpress.com/2017/04/eim-v2-02.png)
+--------------
+![52d1b75de4b0ed895b7e7de9](https://images.squarespace-cdn.com/content/52d1b75de4b0ed895b7e7de9/1443731148818-C5ZYKFGTTOXF7O9AWH19/PowerBIV2Architecture.jpg?format=1000w&content-type=image%2Fjpeg)
+-----------
+![263IJT3OUFY9GML69MU2](https://images.squarespace-cdn.com/content/52d1b75de4b0ed895b7e7de9/1459951199404-263IJT3OUFY9GML69MU2/?format=1000w&content-type=image%2Fjpeg)
+--------
+![DkgNAIedloK](https://miro.medium.com/max/1200/1*DkgNAIedloK-GUZL4U_xNQ.png)
+-------------
+![Evolution-Pyramid2](https://www.silvon.com/blog/wp-content/uploads/2014/04/Evolution-Pyramid2.png)
+----------------
 ----------------
 ![btp8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp8.PNG)
 ------------
@@ -2079,6 +2104,8 @@ IIoT Platform
 -------------
 ![btp13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp13.PNG)
 -----------
+![Defence+Enterprise+Processes+%28EP%29+Lexicon+Hierarchy](https://slideplayer.com/slide/15209959/92/images/1/Defence+Enterprise+Processes+%28EP%29+Lexicon+Hierarchy.jpg)
+--------------
 
 ![composite-bi-bw-sap-hana-edw-architecture](https://cdn.visualbi.com/wp-content/uploads/composite-bi-bw-sap-hana-edw-architecture.jpg)
 ---------------
@@ -2201,10 +2228,7 @@ AIOps
 ![PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic.png)
 -----
 ![AI-in-CX-webpage-diagram](https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/12/AI-in-CX-webpage-diagram.jpg?w=960)
---------
-![splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning](https://image.slidesharecdn.com/11100splunk-180502070424/95/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-12-1024.jpg?cb=1525258974)
-----
-![splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-39-1024](https://image.slidesharecdn.com/11100splunk-180502070424/95/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-39-1024.jpg?cb=1525258974)
+
 ---
 ![FF-AIOps%20Problems-Oppoertunities](https://blog.asug.com/hubfs/FF-AIOps%20Problems-Oppoertunities.png)
 -----
@@ -2262,6 +2286,11 @@ RPA
 ---------
 ![DA-BI-HC](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/DA-BI-HC.png)
 
+-----------------
+---------------------
+![ai-dt-v2.02](https://bizexc.files.wordpress.com/2019/02/ai-dt-v2.02.png)
+-------------
+![OJpvGWneX](https://miro.medium.com/max/1469/0*pY8S1N-OJpvGWneX)
 -------------
 
 Practical MLOps
