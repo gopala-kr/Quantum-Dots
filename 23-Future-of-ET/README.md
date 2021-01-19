@@ -1640,11 +1640,15 @@ SAP Portfolio
 ![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
 ----------
 ![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
+------
+![btp23](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp23.PNG)
 ------------
 ![btp3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp3.PNG)
 ---------------
 ![btp4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp4.PNG)
 ----------
+![btp24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp24.PNG)
+----
 ![btp5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp5.PNG)
 ---------------
 ![btp6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp6.PNG)
