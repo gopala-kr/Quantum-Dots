@@ -2148,6 +2148,10 @@ IIoT Platform
 ------------
 ![btp10](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp10.PNG)
 -------------
+![rs1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rs1.PNG)
+--------
+![pln](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pln.PNG)
+----------
 ![btp12](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp12.PNG)
 -------------
 ![btp13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp13.PNG)
