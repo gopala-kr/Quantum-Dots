@@ -1186,7 +1186,7 @@ Low-Code Application Platforms
   - DB Type Evolution
   - Enterprise Data Types
     - Configuration Data
-    - Custum Data
+    - Custom Data
     - Meta Data
     - Master Data
     - Transaction Data
@@ -1253,7 +1253,10 @@ Low-Code Application Platforms
 - [Open Source ERP Solutions](https://solutionsreview.com/enterprise-resource-planning/top-15-free-and-open-source-erp-solutions/)
 ------
 ![entsysarchpic](https://dalbanger.files.wordpress.com/2015/05/entsysarchpic.jpg)
-
+----
+![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
+------
+![Tech1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech1.png)
 -------------
 
 - [digitalistmag.com/](https://www.digitalistmag.com/)
