@@ -1261,12 +1261,11 @@ Low-Code Application Platforms
 -------------- 
 ---------------
 
-Tech Skills List:
+Enterprise Tech Product List:
 
 		-	.NET Architecture
 		-	.Net Full Stack Development
 		-	AbInitio
-		-	Accenture Life Insurance Platform (ALIP)
 		-	Account Management
 		-	ACPS - EPDS
 		-	Adobe AEM/CQ
