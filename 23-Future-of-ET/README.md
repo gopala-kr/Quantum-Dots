@@ -1255,6 +1255,10 @@ Low-Code Application Platforms
 ![entsysarchpic](https://dalbanger.files.wordpress.com/2015/05/entsysarchpic.jpg)
 ----
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
+-----
+![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
+-------
+![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
 ------
 ![Tech1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech1.png)
 
