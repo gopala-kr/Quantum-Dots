@@ -1667,6 +1667,10 @@ SAP Portfolio
 ----------
 ![btp14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp14.PNG)
 ---------
+![ap2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap2.jpg)
+------
+![ap1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap1.jpg)
+---------
 ![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
 ------
 ![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
