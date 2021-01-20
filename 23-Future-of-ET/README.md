@@ -1691,7 +1691,8 @@ SAP Portfolio
 ![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
 ---------
 ![Tech_SalesM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SalesM.png)
-
+-------
+![Tech_SCM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SCM.jpg)
 
 -------------- 
 ---------------
