@@ -1253,14 +1253,441 @@ Low-Code Application Platforms
 - [Open Source ERP Solutions](https://solutionsreview.com/enterprise-resource-planning/top-15-free-and-open-source-erp-solutions/)
 ------
 ![entsysarchpic](https://dalbanger.files.wordpress.com/2015/05/entsysarchpic.jpg)
+
+-------------
+--------------
+
+- [digitalistmag.com/](https://www.digitalistmag.com/)
+- [Cloud Next OnAir Highlights](https://www.youtube.com/playlist?list=PLIivdWyY5sqIr8lcWjiz53jZgMMKHtteZ)
+- [Microsoft Ignite 2020](https://www.youtube.com/playlist?list=PLLasX02E8BPBmSOdP76oJPvLND9995ftv)
+- [AWS re:Invent 2020](https://www.youtube.com/playlist?list=PLhr1KZpdzukenb7A9aDtk3qHqMwy2Baxq)
+- [open.sap.com/](https://open.sap.com/)
+- [TechEd2020](https://www.youtube.com/c/SAPTechEdChannel/playlists?view=50&sort=dd&shelf_id=1)
+- [Oracle Cloud Summit](https://www.youtube.com/c/Oracle/playlists)
+- [Salesforce Demos](https://www.youtube.com/c/Salesforce/playlists?view=50&sort=dd&shelf_id=9)
+
+----------------------
+
+Typical Business Process
+
+[Back to top](#contents)
+
+
+![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
+
 ----
+![ts_img1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ts_img1.svg)
+--------
+
+ERP Development from Scratch (Technologies)
+
+- Databases
+  - PostgreSQL
+  - MSSQL
+  - Oracle SQL
+- Programming Technologies
+  - .NET and ASP.NET
+  - Java
+  - Ruby
+  - Python
+  - PHP
+- Front-end Technologies
+  - JavaScript
+  - AngularJS
+  - React
+  - Vue.js
+
+Example: Tesla doesnt' use any vendor provided Off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
+
+Tesla tech stack
+
+      Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
+      Frontend development, using tools such as: JavaScript, Angular, React, etc.
+      Backend development, using tools such as: C#, Java, Go, Ruby, etc.
+      Relational databases, SQL, NoSQL
+      Agile Development
+      Distributed Source Control, using tools such as: Git
+
+----------
+![a73772394a33e7cd957e7b3c29257751](https://i.pinimg.com/originals/a7/37/72/a73772394a33e7cd957e7b3c29257751.png)
+-----
+![full-stack-javascript-tools](https://www.altexsoft.com/media/2016/11/full-stack-javascript-tools.png)
+---------
+
+ERP Development from Scratch (Technologies)
+
+![22](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/22.png)
+------
+
+ERP Development from Scratch (Technologies)
+
+![33](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/33.png)
+--------
+ERP Development from Scratch (Timelines)
+
+![55](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/55.png)
+
+![Custom-ERP-development-timeline-scheme](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_929/https://existek.com/wp-content/uploads/2018/06/Custom-ERP-development-timeline-scheme-.jpg)
+
+-------------
+ERP Development from Scratch (Cost Breakdown)
+
+![34](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/34.png)
+
+
+-------
+ERP Development from Scratch (Cost Breakdown)
+
+![ERP-development-cost-brakedown](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-development-cost-brakedown-.jpg)
+
+--------
+
+     Estimating the ERP price include developing HR management module that could cost:
+
+     - 2 back-end developers working full time for 3 months charging $35/h = $36 690 
+     - 1 front-end developer working full-time during 3 months charging $35/hr = $18 480
+     - 2 QA engineers working full-time during 2 months charging $25/h = $16 000
+     - 1 project manager who manages the project from design to project closure during 3 months charging $30/h = $14 400
+     - 1 system administrator working full-time during one week charging $25/h = $1 000
+     
+     - The HR management module will be approximately $86 000. 
+     
+     -------------------------
+     - Since all five modules have the same level of complexity, the five ERP system modules will cost approximately $430 000.
+     
+     ---------------
+     - To develop 5 API for the 5 modules, 3 API developers will work full-time for 2.5 months charging, on average, $35/h = $46 200. This is the testing stage cost of ERP systems.
+     -----------------------------
+     - 1 DBA working full time for 2 months charging $30/h = $9 600
+     - 2 ETL experts working full time for 2 months charging $40/h = $25 600
+     - Data migration costs approximately $32 200
+     --------------------
+     - To thoroughly test software of this level of complexity, it will require: 2 testers working full-time for 2 months charging $25/h = $16 000.
+     --------------
+     - An expert in training trainers for ERP working full-time for 1 month and charging $70/hr = $11 200
+
+---------------
+
+<table id="tablepress-33" class="tablepress tablepress-id-33"><thead><tr class="row-1 odd"><th class="column-1">Phase</th><th class="column-2">Project Manager and experts</th><th class="column-3">Front-end developer</th><th class="column-4">Back-end developer</th><th class="column-5">QA</th><th class="column-6">Sys Admin</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Conception/design</td><td class="column-2">10%</td><td class="column-3">4%</td><td class="column-4">6%</td><td class="column-5">2%</td><td class="column-6"></td></tr><tr class="row-3 odd"><td class="column-1">Development</td><td class="column-2">6%</td><td class="column-3">12%</td><td class="column-4">20%</td><td class="column-5">14%</td><td class="column-6"></td></tr><tr class="row-4 even"><td class="column-1">UAT</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">5%</td><td class="column-5">4%</td><td class="column-6"></td></tr><tr class="row-5 odd"><td class="column-1">Support</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">4%</td><td class="column-5">5%</td><td class="column-6"></td></tr></tbody><tfoot><tr class="row-6 even"><th class="column-1">Total</th><th class="column-2">20%</th><th class="column-3">20%</th><th class="column-4">35%</th><th class="column-5">25%</th><th class="column-6">up to 5 working days</th></tr></tfoot></table>
+
+-------
+
+<table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
+
+
+------
+![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
+-------
+![screen-shot-2019-01-07-at-6.30.36-am](https://www.abvt.com.au/wp-content/uploads/2019/01/screen-shot-2019-01-07-at-6.30.36-am.png)
+-----
+![Infographic_Cloud_or_OnPremise](https://cdn.business2community.com/wp-content/uploads/2013/12/Infographic_Cloud_or_OnPremise.png)
+---------
+![benefits-implementing-erp-infographic](https://1jbjcg2jewynwrke83xqsp9k-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/benefits-implementing-erp-infographic.jpg)
+-----
+![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3qRhm)
+--------
+![RE2SpxZ](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2SpxZ)
+------
+![RE2Ssa3](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2Ssa3)
+------
+![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3r9uD)
+--------
+- [Reinventing SAP on AWS: Scale & Simplify SAP Operations on AWS](https://www.slideshare.net/AmazonWebServices/reinventing-sap-on-aws-scale-simplify-sap-operations-on-aws)
+
+![innovationblogpost](https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2020/12/11/innovationblogpost-1024x535.png)
+--------
+![675215952](https://image.slidesharecdn.com/sap-solutions-on-aws-overvie-545b0c90-abc8-4316-aadf-56f62d88f78e-675215952-171002141601/95/sap-solutions-on-aws-overview-2-1024.jpg?cb=1507112528)
+-------
+![74936i569C29830EA2AED6](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/74936i569C29830EA2AED6?v=1.0)
+----------
+![SAP-2-image-2](https://www.microsoft.com/en-us/us-partner-blog/wp-content/uploads/sites/11/2020/03/SAP-2-image-2.png)
+----------
+![SAP_roadmap](https://bluesoft.com/wp-content/uploads/2020/04/SAP_roadmap-1.png)
+------------
+![sapjourney](https://azurecitadel.com/specialised/sapjourney/images/sapjourney.jpg)
+-------
+![sap-eco-apps-on-azure-1](https://scheer-nederland.com/wp-content/upload_folders/scheer-nederland.com/sap-eco-apps-on-azure-1.png)
+---------
+![slide_4](https://images.slideplayer.com/41/11146190/slides/slide_4.jpg)
+---------
+![final-project-picture](https://lims0195.files.wordpress.com/2014/04/final-project-picture.png)
+-----------
+![ERPplatform](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ERPplatform.png)
+-------
+
+Client Demo/Transformation Journey Tools/:
+
+- [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
+- [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
+- [Developer Insights 2020 Survey Results](https://developers.sap.com/insights-survey-results.html)
+
+-----
+
+![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
+
+----------
+-----------
+
+Enterprise Functions and Processes
+
+- [End to End Enterprise Processes Interactive Demo](https://www.commitwater.com/)
+
+------------
+![Digital-Enterprise-Evolution_ReneBuest_April](https://analystpov.com/wp-content/uploads/2018/04/Digital-Enterprise-Evolution_ReneBuest_April-2018.png)
+----------
+
+![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
+
+
+----------
+
+Enterprise Softwares
+
+
+![What_is_an_ES](https://upload.wikimedia.org/wikipedia/commons/2/29/What_is_an_ES.jpg)
+
+------------
+
+![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
+-------
+The Vertical Segment
+
+- [Industries](https://www.youtube.com/c/SAPIndustries/playlists)
+
+![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
+--------------
+ERP Today
+
+![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
+
+---------
+![cloud-evolution](https://jmharkonen.files.wordpress.com/2011/01/cloud-evolution.jpg)
+-----
+![1520206914286](https://media-exp1.licdn.com/dms/image/C5612AQHzO4hur4SPRg/article-inline_image-shrink_1500_2232/0/1520206914286?e=1612396800&v=beta&t=tGsB60C8I_zDjvknz506RRTdxleXKOJRXZd-2TVWW3Y)
+--------------
+![legacyCloudFullimg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/legacyCloudFullimg.svg)
+------------
+![postModernERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP.svg)
+-----------
+![postModernERP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP2.svg)
+
+-----------
+![c838](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c838.jpg)
+----------
+![c4511](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c4511.png)
+----------
+![Group%209132](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Group%209132.png)
+---------
+![13thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/13thslide_struc.svg)
+---------------
+-----------------------------------
+
+#### ERP Software Providers Landscape
+
+[Back to top](#contents)
+
+- [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
+
+-------
+![market_1596540038219_ERP_geo](https://s3.mordorintelligence.com/enterprise-resource-planning-market/enterprise-resource-planning-market_1596540038219_ERP_geo.png)
+----
+![eb37106ddcaee2e71c64bc858bc3f3bb](https://tr4.cbsistatic.com/hub/i/r/2015/10/16/b5280710-0a3d-4837-ad49-181168ef6435/resize/1200x/eb37106ddcaee2e71c64bc858bc3f3bb/veeva-gartner-vertical-share.jpg)
+------
+![marketsize](https://practicalanalytics.files.wordpress.com/2013/10/marketsize.png)
+--------
+![40602700ea58e2c0dad676ce9281bae0](https://i.pinimg.com/originals/40/60/27/40602700ea58e2c0dad676ce9281bae0.jpg)
+-------
+![1560748754](https://www.alliedmarketresearch.com/assets/sampleimages/enterprise-application-market-by-vertical-1560748754.jpeg)
+----------
+![atlas-soc-6-saas-crosses](https://d33wubrfki0l68.cloudfront.net/517a5927eb8307fbefe81286234b3732046e25e5/9abde/assets/media/atlas-soc-6-saas-crosses.jpg)
+-------
+![saas-statistics-1024x1024](https://financesonline.com/uploads/2019/10/saas-statistics-1024x1024.png)
+-----
+![saas](https://whatech.b-cdn.net/images/featured/5273/saas.jpg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25.jpeg)
+----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36.jpeg)
+--------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38.jpeg)
+-----
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41.jpeg)
+-------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42.jpeg)
+------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.jpeg)
+----------
+![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44.jpeg)
+-----------
+![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
+
+-------------
+
+CRM Customer Engagement Center
+
+![gartner-crm-cec-2020-final](https://www.pega.com/sites/default/files/styles/2560/public/media/images/2020-06/gartner-crm-cec-2020-final.jpg?itok=cIxnJhT_)
+
+
+------
+CRM and Customer Experience Implementation Services
+![Gartner-MQ-CRM-CX-2020-Matrix](https://www.capgemini.com/wp-content/uploads/2020/04/Gartner-MQ-CRM-CX-2020-Matrix.jpg)
+
+---------
+![Gartener-Figure1-v2](https://www.ceridian.com/Ceridian/media/WebsiteMedia/Resources/Gartener-Figure1-v2.jpg?ext=.jpg)
+
+---------
+![Gartner%2010242](https://blog.onestreamsoftware.com/hs-fs/hubfs/Gartner%2010242.jpg?width=1000&name=Gartner%2010242.jpg)
+
+---------
+![collagefragmentpicture.2020-04-27.8464592864](https://www.tagetik.com/en/2020-gartner-mq-fpa-ads-lp/index/1/1/collagefragmentpicture.2020-04-27.8464592864/image?v=2020-10-07T15:18:29)
+
+----------
+![gartner-magic-quadrant](https://dynamics365cdn.azureedge.net/cvt-238e5c9f1a326b1946be7cf07185a544fc12ed6df80aa6c807d887a93b3ecbd2/pictures/pages/analyst-awards/gartner-magic-quadrant.png)
+
+---------
+![15628959560056205_origin](https://static.seekingalpha.com/uploads/2019/7/11/318104-15628959560056205_origin.png)
+
+--------
+![quadrant](https://webassets.infor.com/images/screenshots/quadrant.jpg?mtime=20191021184527)
+
+--------
+![gartnerMQ_p2p](https://d3q0x13th15b8d.cloudfront.net/resources/analyst-reports/GartnerMQ/2020/P2P/assets/img/x2020-gartnerMQ_p2p.png.pagespeed.ic.XVegO8nllR.png)
+
+---------
+![gartsfa](https://wp.salesforce.com/news/wp-content/uploads/sites/3/2020/08/gartsfa.jpg)
+
+--------
+
+![googleusercontent](https://lh4.googleusercontent.com/LnN6OHKOSYSO2eCaXcmsShG96HX7Jagc1g8BahrslEIrWYqlky-nGIQtwSqZWg4z3FCnMrWvtt45TCs6xNvOu3vQLU0zZIZc3JbI9KZl8-NmxopcV2xBNTTH41RQFf1EpTKxwcwI)
+
+--------
+
+![Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024](https://www.itassetmanagement.net/wp-content/uploads/2020/07/Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024.jpg)
+
+--------
+![gartner-mq-tms-2020-m1](https://www.oracle.com/a/ocom/img/dc/gartner-mq-tms-2020-m1.png)
+
+----------
+![figure1-16-7](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2020/05/figure1-16-7.jpg?w=919)
+
+--------
+![gx-gartner-oracle-cloud-mq-2020](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/gx-gartner-oracle-cloud-mq-2020.jpg)
+
+---------
+![Gartner-sales-hype-cycle](https://www.ledgerinsights.com/wp-content/uploads/2019/10/Gartner-sales-hype-cycle.png)
+
+------------
+![CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814](https://www.l2inc.com/wp-content/uploads/2019/08/CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814.jpg)
+
+------------
+
+![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
+
+---------------------
+
+![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
+
+
+---------
+
+![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
+---------------
+------------
+
+SAP Portfolio
+
+![btp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.PNG)
+--------
+![btp1.1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.1.PNG)
+----------------
+![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
+--------------
+![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
+-----------------
+- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
+
+![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
+-------------
+![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
+-------
+![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
+----------
+![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
+------
+![btp23](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp23.PNG)
+------------
+![btp3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp3.PNG)
+---------------
+![btp25](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp25.PNG)
+--------
+![btp26](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp26.PNG)
+---------
+![btp4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp4.PNG)
+----------
+![btp24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp24.PNG)
+----
+![btp5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp5.PNG)
+---------------
+![prj](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj.PNG)
+------
+![prj2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj2.PNG)
+-----
+![prj3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj3.PNG)
+---------
+![btp6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp6.PNG)
+-------------
+![btp7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp7.PNG)
+----------
+![btp14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp14.PNG)
+---------
+![ap2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap2.jpg)
+------
+![ap1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap1.jpg)
+---------
+![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
+------
+![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
+
+-------------
+-------------
+
+![Tech1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech1.png)
+
+------
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
 -----
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
 -------
 ![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
-------
-![Tech1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech1.png)
+
 
 -------------- 
 ---------------
@@ -2113,428 +2540,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 		-	TOGAF 9
 		-	Virtualization Council Master Infrastructure Architect certification
 		-	VMware Certified Professional 6 – Data Center Virtualization (VCP6-DCV)
-
--------------
---------------
-
-- [digitalistmag.com/](https://www.digitalistmag.com/)
-- [Cloud Next OnAir Highlights](https://www.youtube.com/playlist?list=PLIivdWyY5sqIr8lcWjiz53jZgMMKHtteZ)
-- [Microsoft Ignite 2020](https://www.youtube.com/playlist?list=PLLasX02E8BPBmSOdP76oJPvLND9995ftv)
-- [AWS re:Invent 2020](https://www.youtube.com/playlist?list=PLhr1KZpdzukenb7A9aDtk3qHqMwy2Baxq)
-- [open.sap.com/](https://open.sap.com/)
-- [TechEd2020](https://www.youtube.com/c/SAPTechEdChannel/playlists?view=50&sort=dd&shelf_id=1)
-- [Oracle Cloud Summit](https://www.youtube.com/c/Oracle/playlists)
-- [Salesforce Demos](https://www.youtube.com/c/Salesforce/playlists?view=50&sort=dd&shelf_id=9)
-
-----------------------
-
-Typical Business Process
-
-[Back to top](#contents)
-
-
-![simple_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/simple_erp.PNG)
-
-----
-![ts_img1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ts_img1.svg)
---------
-
-ERP Development from Scratch (Technologies)
-
-- Databases
-  - PostgreSQL
-  - MSSQL
-  - Oracle SQL
-- Programming Technologies
-  - .NET and ASP.NET
-  - Java
-  - Ruby
-  - Python
-  - PHP
-- Front-end Technologies
-  - JavaScript
-  - AngularJS
-  - React
-  - Vue.js
-
-Example: Tesla doesnt' use any vendor provided Off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
-
-Tesla tech stack
-
-      Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
-      Frontend development, using tools such as: JavaScript, Angular, React, etc.
-      Backend development, using tools such as: C#, Java, Go, Ruby, etc.
-      Relational databases, SQL, NoSQL
-      Agile Development
-      Distributed Source Control, using tools such as: Git
-
-----------
-![a73772394a33e7cd957e7b3c29257751](https://i.pinimg.com/originals/a7/37/72/a73772394a33e7cd957e7b3c29257751.png)
------
-![full-stack-javascript-tools](https://www.altexsoft.com/media/2016/11/full-stack-javascript-tools.png)
----------
-
-ERP Development from Scratch (Technologies)
-
-![22](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/22.png)
-------
-
-ERP Development from Scratch (Technologies)
-
-![33](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/33.png)
---------
-ERP Development from Scratch (Timelines)
-
-![55](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/55.png)
-
-![Custom-ERP-development-timeline-scheme](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_929/https://existek.com/wp-content/uploads/2018/06/Custom-ERP-development-timeline-scheme-.jpg)
-
--------------
-ERP Development from Scratch (Cost Breakdown)
-
-![34](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/34.png)
-
-
--------
-ERP Development from Scratch (Cost Breakdown)
-
-![ERP-development-cost-brakedown](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1024/https://existek.com/wp-content/uploads/2018/06/ERP-development-cost-brakedown-.jpg)
-
---------
-
-     Estimating the ERP price include developing HR management module that could cost:
-
-     - 2 back-end developers working full time for 3 months charging $35/h = $36 690 
-     - 1 front-end developer working full-time during 3 months charging $35/hr = $18 480
-     - 2 QA engineers working full-time during 2 months charging $25/h = $16 000
-     - 1 project manager who manages the project from design to project closure during 3 months charging $30/h = $14 400
-     - 1 system administrator working full-time during one week charging $25/h = $1 000
-     
-     - The HR management module will be approximately $86 000. 
-     
-     -------------------------
-     - Since all five modules have the same level of complexity, the five ERP system modules will cost approximately $430 000.
-     
-     ---------------
-     - To develop 5 API for the 5 modules, 3 API developers will work full-time for 2.5 months charging, on average, $35/h = $46 200. This is the testing stage cost of ERP systems.
-     -----------------------------
-     - 1 DBA working full time for 2 months charging $30/h = $9 600
-     - 2 ETL experts working full time for 2 months charging $40/h = $25 600
-     - Data migration costs approximately $32 200
-     --------------------
-     - To thoroughly test software of this level of complexity, it will require: 2 testers working full-time for 2 months charging $25/h = $16 000.
-     --------------
-     - An expert in training trainers for ERP working full-time for 1 month and charging $70/hr = $11 200
-
----------------
-
-<table id="tablepress-33" class="tablepress tablepress-id-33"><thead><tr class="row-1 odd"><th class="column-1">Phase</th><th class="column-2">Project Manager and experts</th><th class="column-3">Front-end developer</th><th class="column-4">Back-end developer</th><th class="column-5">QA</th><th class="column-6">Sys Admin</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Conception/design</td><td class="column-2">10%</td><td class="column-3">4%</td><td class="column-4">6%</td><td class="column-5">2%</td><td class="column-6"></td></tr><tr class="row-3 odd"><td class="column-1">Development</td><td class="column-2">6%</td><td class="column-3">12%</td><td class="column-4">20%</td><td class="column-5">14%</td><td class="column-6"></td></tr><tr class="row-4 even"><td class="column-1">UAT</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">5%</td><td class="column-5">4%</td><td class="column-6"></td></tr><tr class="row-5 odd"><td class="column-1">Support</td><td class="column-2">2%</td><td class="column-3">2%</td><td class="column-4">4%</td><td class="column-5">5%</td><td class="column-6"></td></tr></tbody><tfoot><tr class="row-6 even"><th class="column-1">Total</th><th class="column-2">20%</th><th class="column-3">20%</th><th class="column-4">35%</th><th class="column-5">25%</th><th class="column-6">up to 5 working days</th></tr></tfoot></table>
-
--------
-
-<table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
-
-
-------
-![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
--------
-![screen-shot-2019-01-07-at-6.30.36-am](https://www.abvt.com.au/wp-content/uploads/2019/01/screen-shot-2019-01-07-at-6.30.36-am.png)
------
-![Infographic_Cloud_or_OnPremise](https://cdn.business2community.com/wp-content/uploads/2013/12/Infographic_Cloud_or_OnPremise.png)
----------
-![benefits-implementing-erp-infographic](https://1jbjcg2jewynwrke83xqsp9k-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/benefits-implementing-erp-infographic.jpg)
------
-![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3qRhm)
---------
-![RE2SpxZ](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2SpxZ)
-------
-![RE2Ssa3](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2Ssa3)
-------
-![imageFileData](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3r9uD)
---------
-- [Reinventing SAP on AWS: Scale & Simplify SAP Operations on AWS](https://www.slideshare.net/AmazonWebServices/reinventing-sap-on-aws-scale-simplify-sap-operations-on-aws)
-
-![innovationblogpost](https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2020/12/11/innovationblogpost-1024x535.png)
---------
-![675215952](https://image.slidesharecdn.com/sap-solutions-on-aws-overvie-545b0c90-abc8-4316-aadf-56f62d88f78e-675215952-171002141601/95/sap-solutions-on-aws-overview-2-1024.jpg?cb=1507112528)
--------
-![74936i569C29830EA2AED6](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/74936i569C29830EA2AED6?v=1.0)
-----------
-![SAP-2-image-2](https://www.microsoft.com/en-us/us-partner-blog/wp-content/uploads/sites/11/2020/03/SAP-2-image-2.png)
-----------
-![SAP_roadmap](https://bluesoft.com/wp-content/uploads/2020/04/SAP_roadmap-1.png)
-------------
-![sapjourney](https://azurecitadel.com/specialised/sapjourney/images/sapjourney.jpg)
--------
-![sap-eco-apps-on-azure-1](https://scheer-nederland.com/wp-content/upload_folders/scheer-nederland.com/sap-eco-apps-on-azure-1.png)
----------
-![slide_4](https://images.slideplayer.com/41/11146190/slides/slide_4.jpg)
----------
-![final-project-picture](https://lims0195.files.wordpress.com/2014/04/final-project-picture.png)
------------
-![ERPplatform](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ERPplatform.png)
--------
-
-Client Demo/Transformation Journey Tools/:
-
-- [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
-- [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
-- [Developer Insights 2020 Survey Results](https://developers.sap.com/insights-survey-results.html)
-
------
-
-![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
-
-----------
------------
-
-Enterprise Functions and Processes
-
-- [End to End Enterprise Processes Interactive Demo](https://www.commitwater.com/)
-
-------------
-![Digital-Enterprise-Evolution_ReneBuest_April](https://analystpov.com/wp-content/uploads/2018/04/Digital-Enterprise-Evolution_ReneBuest_April-2018.png)
-----------
-
-![ienterprise2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ienterprise2.PNG)
-
-
-----------
-
-Enterprise Softwares
-
-
-![What_is_an_ES](https://upload.wikimedia.org/wikipedia/commons/2/29/What_is_an_ES.jpg)
-
-------------
-
-![ERP-BANNER-2](https://rejag.com/wp-content/uploads/2019/01/ERP-BANNER-2.png)
--------
-The Vertical Segment
-
-- [Industries](https://www.youtube.com/c/SAPIndustries/playlists)
-
-![Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries.PNG)
---------------
-ERP Today
-
-![full-epicor-wheel-diagram](https://www.encompass-inc.com/wp-content/uploads/2019/10/full-epicor-wheel-diagram.jpg)
-
----------
-![cloud-evolution](https://jmharkonen.files.wordpress.com/2011/01/cloud-evolution.jpg)
------
-![1520206914286](https://media-exp1.licdn.com/dms/image/C5612AQHzO4hur4SPRg/article-inline_image-shrink_1500_2232/0/1520206914286?e=1612396800&v=beta&t=tGsB60C8I_zDjvknz506RRTdxleXKOJRXZd-2TVWW3Y)
---------------
-![legacyCloudFullimg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/legacyCloudFullimg.svg)
-------------
-![postModernERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP.svg)
------------
-![postModernERP2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/postModernERP2.svg)
-
------------
-![c838](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c838.jpg)
-----------
-![c4511](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/c4511.png)
-----------
-![Group%209132](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Group%209132.png)
----------
-![13thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/13thslide_struc.svg)
----------------
------------------------------------
-
-#### ERP Software Providers Landscape
-
-[Back to top](#contents)
-
-- [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
-
--------
-![market_1596540038219_ERP_geo](https://s3.mordorintelligence.com/enterprise-resource-planning-market/enterprise-resource-planning-market_1596540038219_ERP_geo.png)
-----
-![eb37106ddcaee2e71c64bc858bc3f3bb](https://tr4.cbsistatic.com/hub/i/r/2015/10/16/b5280710-0a3d-4837-ad49-181168ef6435/resize/1200x/eb37106ddcaee2e71c64bc858bc3f3bb/veeva-gartner-vertical-share.jpg)
-------
-![marketsize](https://practicalanalytics.files.wordpress.com/2013/10/marketsize.png)
---------
-![40602700ea58e2c0dad676ce9281bae0](https://i.pinimg.com/originals/40/60/27/40602700ea58e2c0dad676ce9281bae0.jpg)
--------
-![1560748754](https://www.alliedmarketresearch.com/assets/sampleimages/enterprise-application-market-by-vertical-1560748754.jpeg)
-----------
-![atlas-soc-6-saas-crosses](https://d33wubrfki0l68.cloudfront.net/517a5927eb8307fbefe81286234b3732046e25e5/9abde/assets/media/atlas-soc-6-saas-crosses.jpg)
--------
-![saas-statistics-1024x1024](https://financesonline.com/uploads/2019/10/saas-statistics-1024x1024.png)
------
-![saas](https://whatech.b-cdn.net/images/featured/5273/saas.jpg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide6.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide7.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide8.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide9.jpeg)
------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide15.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide18.jpeg)
-------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide21.jpeg)
------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide23.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide24.jpeg)
------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide25.jpeg)
-----
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide26.jpeg)
------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide34.jpeg)
-------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide35.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide36.jpeg)
---------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide37.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide38.jpeg)
------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide40.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide41.jpeg)
--------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide42.jpeg)
-------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide43.jpeg)
-----------
-![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide44.jpeg)
------------
-![picture3_9](https://software-advice.imgix.net/managed/frontrunner/picture3_9.png)
-
--------------
-
-CRM Customer Engagement Center
-
-![gartner-crm-cec-2020-final](https://www.pega.com/sites/default/files/styles/2560/public/media/images/2020-06/gartner-crm-cec-2020-final.jpg?itok=cIxnJhT_)
-
-
-------
-CRM and Customer Experience Implementation Services
-![Gartner-MQ-CRM-CX-2020-Matrix](https://www.capgemini.com/wp-content/uploads/2020/04/Gartner-MQ-CRM-CX-2020-Matrix.jpg)
-
----------
-![Gartener-Figure1-v2](https://www.ceridian.com/Ceridian/media/WebsiteMedia/Resources/Gartener-Figure1-v2.jpg?ext=.jpg)
-
----------
-![Gartner%2010242](https://blog.onestreamsoftware.com/hs-fs/hubfs/Gartner%2010242.jpg?width=1000&name=Gartner%2010242.jpg)
-
----------
-![collagefragmentpicture.2020-04-27.8464592864](https://www.tagetik.com/en/2020-gartner-mq-fpa-ads-lp/index/1/1/collagefragmentpicture.2020-04-27.8464592864/image?v=2020-10-07T15:18:29)
-
-----------
-![gartner-magic-quadrant](https://dynamics365cdn.azureedge.net/cvt-238e5c9f1a326b1946be7cf07185a544fc12ed6df80aa6c807d887a93b3ecbd2/pictures/pages/analyst-awards/gartner-magic-quadrant.png)
-
----------
-![15628959560056205_origin](https://static.seekingalpha.com/uploads/2019/7/11/318104-15628959560056205_origin.png)
-
---------
-![quadrant](https://webassets.infor.com/images/screenshots/quadrant.jpg?mtime=20191021184527)
-
---------
-![gartnerMQ_p2p](https://d3q0x13th15b8d.cloudfront.net/resources/analyst-reports/GartnerMQ/2020/P2P/assets/img/x2020-gartnerMQ_p2p.png.pagespeed.ic.XVegO8nllR.png)
-
----------
-![gartsfa](https://wp.salesforce.com/news/wp-content/uploads/sites/3/2020/08/gartsfa.jpg)
-
---------
-
-![googleusercontent](https://lh4.googleusercontent.com/LnN6OHKOSYSO2eCaXcmsShG96HX7Jagc1g8BahrslEIrWYqlky-nGIQtwSqZWg4z3FCnMrWvtt45TCs6xNvOu3vQLU0zZIZc3JbI9KZl8-NmxopcV2xBNTTH41RQFf1EpTKxwcwI)
-
---------
-
-![Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024](https://www.itassetmanagement.net/wp-content/uploads/2020/07/Gartner-Magic-Quadrant-for-SAM-Tools-Chart-2020-981x1024.jpg)
-
---------
-![gartner-mq-tms-2020-m1](https://www.oracle.com/a/ocom/img/dc/gartner-mq-tms-2020-m1.png)
-
-----------
-![figure1-16-7](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2020/05/figure1-16-7.jpg?w=919)
-
---------
-![gx-gartner-oracle-cloud-mq-2020](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/gx-gartner-oracle-cloud-mq-2020.jpg)
-
----------
-![Gartner-sales-hype-cycle](https://www.ledgerinsights.com/wp-content/uploads/2019/10/Gartner-sales-hype-cycle.png)
-
-------------
-![CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814](https://www.l2inc.com/wp-content/uploads/2019/08/CM_I_751285_CM_I_Marketing_Hype_Cycle_Graphic_with_Heading_V2B_1000x814.jpg)
-
-------------
-
-![DcHF3U3UQAA6tNF?format=jpg&name=larg](https://pbs.twimg.com/media/DcHF3U3UQAA6tNF?format=jpg&name=large)
-
----------------------
-
-![ERP_Landscape](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ERP_Landscape.png)
-
-
----------
-
-![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
----------------
-------------
-
-SAP Portfolio
-
-![btp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.PNG)
---------
-![btp1.1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.1.PNG)
-----------------
-![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
---------------
-![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
------------------
-- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
-
-![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
--------------
-![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
--------
-![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
-----------
-![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
-------
-![btp23](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp23.PNG)
-------------
-![btp3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp3.PNG)
----------------
-![btp25](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp25.PNG)
---------
-![btp26](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp26.PNG)
----------
-![btp4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp4.PNG)
-----------
-![btp24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp24.PNG)
-----
-![btp5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp5.PNG)
----------------
-![prj](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj.PNG)
-------
-![prj2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj2.PNG)
------
-![prj3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/prj3.PNG)
----------
-![btp6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp6.PNG)
--------------
-![btp7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp7.PNG)
-----------
-![btp14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp14.PNG)
----------
-![ap2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap2.jpg)
-------
-![ap1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap1.jpg)
----------
-![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
-------
-![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
 
 ----------------------
 ----------
