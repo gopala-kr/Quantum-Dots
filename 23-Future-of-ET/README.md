@@ -1700,6 +1700,11 @@ SAP Portfolio
 ![Tech_Marketing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Marketing.png)
 -----------
 ![Tech_Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Strategy.png)
+-------
+----------
+![Tech_Google](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Google.png)
+-----------
+![Tech_Microsoft](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Microsoft.png)
 -------------- 
 ---------------
 
