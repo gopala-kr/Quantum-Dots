@@ -83,7 +83,7 @@
 - [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
 - [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
-- [ndustry 4.0 Concept: Background and Overview](https://online-journals.org/index.php/i-jim/article/download/7072/4532)
+- [Industry 4.0 Concept: Background and Overview](https://online-journals.org/index.php/i-jim/article/download/7072/4532)
 - [Impact of the Fourth Industrial Revolution on Supply Chains](http://www3.weforum.org/docs/WEF_Impact_of_the_Fourth_Industrial_Revolution_on_Supply_Chains_.pdf)
 - [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
 - [History of technology](https://www.britannica.com/technology/history-of-technology/The-Urban-Revolution-c-3000-500-bce)
@@ -1637,10 +1637,11 @@ SAP Portfolio
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
 -------------
 ![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
--------
-![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
+
 ----------
 ![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
+-------
+![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
 ------
 ![btp23](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp23.PNG)
 ------------
