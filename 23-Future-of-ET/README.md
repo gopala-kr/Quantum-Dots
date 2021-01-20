@@ -1693,7 +1693,10 @@ SAP Portfolio
 ![Tech_SalesM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SalesM.png)
 -------
 ![Tech_SCM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SCM.jpg)
-
+------
+![Tech_HR](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_HR.png)
+-----
+![Tech_Marketing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Marketing.png)
 -------------- 
 ---------------
 
