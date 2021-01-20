@@ -1265,711 +1265,855 @@ Low-Code Application Platforms
 -------------- 
 ---------------
 
-Enterprise Tech Product List:
+Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
-		-	.NET Architecture
-		-	.Net Full Stack Development
-		-	AbInitio
-		-	Account Management
-		-	ACPS - EPDS
-		-	Adobe AEM/CQ
-		-	Adobe Audience Manager
-		-	Adobe Campaign (Neolane)
-		-	Adobe LiveCycle Designer
-		-	Adobe Marketo Engage
-		-	Adobe Target
-		-	Advance Front End Development AngularJS
-		-	Advance Front End Development NodeJs
-		-	Advance Front End Development ReactJS
-		-	Advanced Data Visualization Techniques
-		-	Advanced Embedded System Engineering
-		-	Agile Process Coaching
-		-	Agile Program Management
-		-	Agile Project Management
-		-	Agile Requirement Management
-		-	Agile Technical Coaching
-		-	AIX System Administration
-		-	ALIP Product Configuration
-		-	Alteryx
-		-	Amazon Web Services
-		-	Analytics Solution Architecture
-		-	Anaplan Planning Budgeting and Forecasting
-		-	Android Application Development
-		-	Angular
-		-	Ansible on Microsoft Azure
-		-	Apache Kafka
-		-	Apache Spark
-		-	Apache Tomcat Administration
-		-	API Management
-		-	Apigee
-		-	Appdynamics APM
-		-	Appian Process Automation
-		-	Apple iOS Application Development
-		-	Application Architectures
-		-	Application Compatibility Testing
-		-	Application Packaging
-		-	Application Remediation
-		-	Application Security Architecture and Design
-		-	ASP.NET
-		-	ASP.NET MVC
-		-	Asset Management
-		-	Automated Testing
-		-	Automation in Application Development
-		-	Automation in Systems Integration
-		-	Autosys Administration
-		-	Avanade Scrum Development
-		-	Avanade Scrum Project Management
-		-	AWS Administration
-		-	AWS Architecture
-		-	AWS Athena
-		-	AWS BigData
-		-	AWS DynamoDB
-		-	AWS Glue
-		-	AWS Kinesis
-		-	AWS Redshift
-		-	AWS Relational Database Service (RDS)
-		-	AXWAY
-		-	Axway API Management
-		-	Backup and Recovery Management
-		-	Big Data Analysis Tool and Techniques
-		-	Business Process Design
-		-	Business Process Modelling Notation (BPMN)
-		-	Business Requirement Analysis
-		-	Business Technology
-		-	C++ Programming Language
-		-	Callidus TrueComp
-		-	Calypso
-		-	Capital Markets Audit
-		-	Celonis Process Mining Platform
-		-	Cerner
-		-	Change Management
-		-	Checkpoint Next Generation Firewall
-		-	Cisco Firewall
-		-	Citrix Virtual Apps and Desktop Administration
-		-	Citrix Virtual Apps and Desktop Architecture
-		-	Cloud Automation DevOps
-		-	Cloud Backup Architecture and Design
-		-	Cloud Data Architecture
-		-	Cloud Data Migration
-		-	Cloud Design and Build
-		-	Cloud Infrastructure
-		-	Cloud Migration Planning and Execution
-		-	Cloud Network Operations
-		-	Cloud Platform Architecture
-		-	Cloud Strategy and Assessment
-		-	Cloud Technology Architecture
-		-	CloudCraze Commerce
-		-	Cloudera Data Platform
-		-	CloudSense
-		-	COBOL Programming Language
-		-	ColdFusion
-		-	Commercial Insurance
-		-	Commvault Backup Administration
-		-	Computer Vision
-		-	Concur
-		-	Contact Center Technology Operations
-		-	ControlM Administration
-		-	Core Banking Fundamentals
-		-	Coupa
-		-	Critical Incident Management
-		-	CSV (Computer System Validations)
-		-	Cucumber
-		-	CyberArk Privileged Identity Access Management
-		-	Cybersecurity Strategy Development
-		-	Dassault Systemes - 3DEXPERIENCE Platform DELMIA
-		-	Dassault Systemes - 3DEXPERIENCE Platform DELMIA Quintiq
-		-	Dassault Systemes - 3DEXPERIENCE Platform ENOVIA
-		-	Dassault Systemes - 3DX DELMIA Customization
-		-	Dassault Systemes - 3DX ENOVIA Customization
-		-	Dassault Systemes ENOVIA V5
-		-	Data Analytics and Interpretation
-		-	Data Architecture Principles
-		-	Data Audit and Profiling
-		-	Data Center Networking Technologies Operations
-		-	Data Engineering
-		-	Data Governance
-		-	Data Modeling Techniques and Methodologies
-		-	Data Science
-		-	Data Strategy
-		-	Data Visualization
-		-	Data Warehouse ETL Testing
-		-	Database System Architecture
-		-	DB2 Database Administration
-		-	Dell Boomi
-		-	Demandware
-		-	Denodo BI Solutions
-		-	Deployment management
-		-	DevOps
-		-	DevOps Architecture
-		-	Digital Banking
-		-	Direct Store Delivery
-		-	Docker Kubernetes Administrations
-		-	Docker Kubernetes Architecture and Design
-		-	Downstream Manufacturing
-		-	Drupal
-		-	Duck Creek Policy
-		-	eCommerce Retail
-		-	Elastic Path Solutions
-		-	Embedded Applications Testing
-		-	EMC Storage Area Network (SAN) Administration
-		-	End User & Data center IT Asset Mgmt
-		-	Enterprise Network Operations
-		-	Enterprise Performance Management Strategy & Planning
-		-	Enterprise Systems Monitoring Tools
-		-	EPIC
-		-	ESRI ArcGIS (Geographic Information System)
-		-	Exadata Administration
-		-	Exalogic Administration
-		-	Extended Reality XR Application Development
-		-	FEA Mechanical Static
-		-	Finastra Fusion Global PAYplus (GPP)
-		-	Finastra Fusion Loan IQ
-		-	ForgeRock OpenAM
-		-	ForgeRock OpenIDM
-		-	Functional Sizing and Analysis
-		-	Functional Test Planning
-		-	GCP - Cloud Data Transfer
-		-	GCP - Cloud Dataflow
-		-	GCP - Cloud Functions
-		-	General Ledger
-		-	Google BigQuery
-		-	Google Cloud Data Services
-		-	Google Cloud Development Services
-		-	Google Cloud Platform Administration
-		-	Google Cloud Platform Architecture
-		-	Governance Risk & Compliance (GRC)
-		-	Governance Risk & Compliance (GRC) Platform Operations
-		-	Governance Risk & Compliance (GRC) Tools
-		-	GuideWire BillingCenter
-		-	GuideWire ClaimCenter
-		-	Guidewire DataHub
-		-	Guidewire Digital Portals
-		-	GuideWire Integration
-		-	GuideWire PolicyCenter
-		-	Hadoop
-		-	Hadoop Administration
-		-	HCL Commerce
-		-	HCL Notes
-		-	Health Level-7 Data Protocol (HL-7) Knowledge
-		-	HealthCare Payer Operations
-		-	HPE ALM Software
-		-	HPUX System Administration
-		-	IBM AS /400 Administration
-		-	IBM Business Process Manager
-		-	IBM CICS (Customer Information Control System)
-		-	IBM Cognos
-		-	IBM Cognos TM1
-		-	IBM DB2
-		-	IBM Informix & Red Brick
-		-	IBM InfoSphere DataStage
-		-	IBM Integration Bus
-		-	IBM Master Data Management
-		-	IBM Operational Decision Manager
-		-	IBM Sterling Commerce
-		-	IBM Sterling Integrator
-		-	IBM Tivoli Access Manager
-		-	IBM Tivoli Netcool
-		-	IBM Websphere Administration
-		-	IBM WebSphere DataPower
-		-	IBM WebSphere MQ
-		-	IBM z/OS
-		-	Identity and Access Management
-		-	IFS Solutions
-		-	IFS Solutions Functional Management
-		-	Infor
-		-	Infor Enterprise Asset Management
-		-	Informatica Administration
-		-	Informatica Axon
-		-	Informatica Big Data Edition
-		-	Informatica Cloud
-		-	Informatica Data Quality
-		-	Informatica ILM TDM and TDG
-		-	Informatica Intelligent Cloud Services
-		-	Informatica MDM
-		-	Informatica PowerCenter
-		-	Informatica Product 360 (PIM)
-		-	Infrastructure Security Vulnerability Management Operations
-		-	Infrastructure Service Management
-		-	Internet Information Server (IIS) Administration
-		-	Investment Banking
-		-	IOT Platforms
-		-	IT Performance Optimization
-		-	IXO IOT Applications
-		-	Java Enterprise Edition
-		-	Java Full Stack Development
-		-	Java Servlet
-		-	Java Standard Edition
-		-	JavaScript
-		-	JavaServer Faces (JSF)
-		-	JBOSS Administration
-		-	JBoss Fuse Service Works
-		-	JBoss jBPM
-		-	JDA Demand
-		-	JDA Enterprise Planning
-		-	JDA Floor & Space Planning
-		-	JDA Intelligent Fulfillment
-		-	JDA Inventory Policy Optimization
-		-	JDA Warehouse Management
-		-	JDA Workforce Management
-		-	Kentico
-		-	Kinaxis
-		-	Kronos Workforce Management Solutions
-		-	Kubernetes
-		-	Laboratory Information and Execution Systems
-		-	Learning Delivery Operations
-		-	Life Sciences R&D
-		-	Liferay Digital Experience Platform
-		-	Linux Architecture and Design
-		-	Linux Operating System
-		-	Linux Operations
-		-	Machine Learning
-		-	Magento Solutions
-		-	Mainframe Application Performance Optimization
-		-	Managed Cloud Security Services
-		-	Manufacturing Engineering MES
-		-	Marketing Campaign Analytics & Reporting
-		-	Marklogic
-		-	Master Data Management
-		-	Maximo
-		-	Mendix App Platform
-		-	Micro Focus LoadRunner
-		-	Micro Focus Operations Manager i
-		-	Micro Focus Operations Orchestration
-		-	Micro Focus Unified Functional Testing (UFT)
-		-	Micro Focus Vertica
-		-	Microservices and Light Weight Architecture
-		-	Microsoft 365
-		-	Microsoft 365 SharePoint Online
-		-	Microsoft Active Directory
-		-	Microsoft Active Directory Federation Services (ADFS)
-		-	Microsoft Advanced Analytics
-		-	Microsoft Azure Active Directory
-		-	Microsoft Azure Architecture
-		-	Microsoft Azure Data Integration Services
-		-	Microsoft Azure Data Transformation Services
-		-	Microsoft Azure DevOps
-		-	Microsoft Azure DevOps IaC
-		-	Microsoft Azure IaaS
-		-	Microsoft Azure IoT Services
-		-	Microsoft Azure Logic Apps
-		-	Microsoft Azure Security
-		-	Microsoft BOT Framework
-		-	Microsoft Coded UI Test
-		-	Microsoft Dynamics 365 Commerce Functional
-		-	Microsoft Dynamics 365 Commerce Technical
-		-	Microsoft Dynamics 365 ERP Technical
-		-	Microsoft Dynamics 365 Finance Functional
-		-	Microsoft Dynamics 365 Operations Functional
-		-	Microsoft Dynamics AX - Financial Core Functionality
-		-	Microsoft Dynamics AX Operations Functional
-		-	Microsoft Dynamics AX Technical
-		-	Microsoft Dynamics CRM Functional
-		-	Microsoft Dynamics CRM Technical
-		-	Microsoft Exchange
-		-	Microsoft FED Angular
-		-	Microsoft FED ReactJS
-		-	Microsoft Front End Development
-		-	Microsoft Functional Testing
-		-	Microsoft Identity Manager (MIM)
-		-	Microsoft Load Test
-		-	Microsoft Lync Server
-		-	Microsoft Modern Data Platform
-		-	Microsoft Power BI
-		-	Microsoft PowerApps
-		-	Microsoft Project Server
-		-	Microsoft Robotic Process Automation
-		-	Microsoft Robotics Process Automation Advanced
-		-	Microsoft Sharepoint Administration
-		-	Microsoft Sharepoint Server
-		-	Microsoft SharePoint Server 2013
-		-	Microsoft SharePoint Testing
-		-	Microsoft SQL Server
-		-	Microsoft SQL Server Analysis Services (SSAS)
-		-	Microsoft SQL Server Database Administration
-		-	Microsoft SQL Server Integration Services (SSIS)
-		-	Microsoft SQL Server Reporting Services (SSRS)
-		-	Microsoft System Center Configuration Manager
-		-	Microsoft System Center Operations Manager (SCOM)
-		-	Microsoft Teams Development
-		-	Microsoft User Interface Design
-		-	Microsoft User Research & Analysis
-		-	Microsoft Windows Azure PaaS
-		-	Microsoft Windows Communication Foundation (WCF)
-		-	Microsoft Windows Desktop Management
-		-	Microsoft Windows Intune
-		-	Microsoft Windows Mobile
-		-	Microsoft Windows Presentation Foundation (WPF)
-		-	Microsoft Windows Server Administration
-		-	Microsoft Xamarin
-		-	MicroStrategy Business Intelligence(BI)
-		-	Mobile and Tablet Applications Testing
-		-	Mobile Architecture
-		-	Mobile Device/App Automation Testing
-		-	MongoDB
-		-	MuleSoft Anypoint Platform
-		-	Murex Back Office
-		-	Murex Datamart Reporting
-		-	Murex MX.3 Platform
-		-	Murex Workflows
-		-	MySQL Database Administration
-		-	NAS Architecture and Design
-		-	Natural
-		-	Natural Language Processing (NLP)
-		-	nCino
-		-	Netapp NAS Administration
-		-	NetBackup Backup Administration
-		-	Network Engineering Planning and Deployment Solution
-		-	Network Infrastructure
-		-	Network Security Implementation
-		-	Network Security Operations
-		-	Networker Backup Administration
-		-	NNM Tools Administration
-		-	Node.js
-		-	NoSQL Architecture and Design
-		-	OpenLink Endur
-		-	OpenText ECM Tools
-		-	Oracle Account Reconciliation (ARCS)
-		-	Oracle ADF
-		-	Oracle Analytics Cloud
-		-	Oracle Application Express
-		-	Oracle Applications DBA
-		-	Oracle Applications Development
-		-	Oracle ATG Commerce
-		-	Oracle BI Publisher
-		-	Oracle BRM Functional Configuration
-		-	Oracle Business Intelligence Enterprise Edition (OBIEE) Plus
-		-	Oracle Cloud Application Development
-		-	Oracle Cloud Inventory and Cost Management
-		-	Oracle Cloud Order Management
-		-	Oracle Cloud Supply Chain Planning
-		-	Oracle Communications Unified Inventory Management
-		-	Oracle CPQ Cloud (Big Machines)
-		-	Oracle CRM Service
-		-	Oracle Customer Data Hub (CDM)
-		-	Oracle Data Integrator
-		-	Oracle Database Administration
-		-	Oracle EBS Financials
-		-	Oracle EBS Receivables
-		-	Oracle EBS Supply Chain Management
-		-	Oracle Exadata
-		-	Oracle Financials
-		-	Oracle Financials Cloud
-		-	Oracle Fusion Middleware Administration
-		-	Oracle Fusion Middleware WebLogic Server Admin (WLS)
-		-	Oracle Golden Gate Middleware
-		-	Oracle HCM Cloud Absence/Leave Management
-		-	Oracle HCM Cloud Benefits
-		-	Oracle HCM Cloud Core HR
-		-	Oracle HCM Cloud Payroll
-		-	Oracle HCM Cloud Talent Management
-		-	Oracle HCM Recruiting Cloud
-		-	Oracle Hyperion Analytic Applications
-		-	Oracle Hyperion Data Relationship Management (DRM)
-		-	Oracle Hyperion Financial Management (HFM)
-		-	Oracle Hyperion Planning
-		-	Oracle Hyperion Technical Architecture
-		-	Oracle Integration Cloud Service (ICS)
-		-	Oracle Marketing Cloud (Eloqua)
-		-	Oracle Meter Data Management
-		-	Oracle OA Framework
-		-	Oracle Order and Service Management
-		-	Oracle Planning and Budgeting (EPBCS)
-		-	Oracle PPM Cloud Project Financials
-		-	Oracle Procedural Language Extensions to SQL
-		-	Oracle Procurement
-		-	Oracle Procurement Cloud
-		-	Oracle Product Hub (OPH)
-		-	Oracle Purchasing
-		-	Oracle Retail Merchandising System
-		-	Oracle Retail Point of Service
-		-	Oracle Retail Predictive Application Server
-		-	Oracle Retail XStore POS
-		-	Oracle Sales Cloud Incentive Compensation
-		-	Oracle SCM Advanced Supply Chain Planning (ASCP)
-		-	Oracle SCM Manufacturing
-		-	Oracle SCM Supply Chain Execution
-		-	Oracle SCM Transportation Management
-		-	Oracle Security Access Manager
-		-	Oracle Siebel Configuration
-		-	Oracle Siebel Development
-		-	Oracle Siebel Enterprise Application Integration (eAI)
-		-	Oracle Siebel Enterprise Integration Management (EIM)
-		-	Oracle Siebel Environment Management
-		-	Oracle Siebel Product Configurator
-		-	Oracle Siebel Upgrade
-		-	Oracle SOA BPEL Process Manager
-		-	Oracle SOA OSB
-		-	Oracle Supply Chain Management (SCM)
-		-	Oracle Warehouse Management
-		-	Oracle WebCenter Content
-		-	Oracle Weblogic Application Server Administration
-		-	Outage Management Systems
-		-	Palo Alto Networks Firewall
-		-	Payments Vision Plus
-		-	Pegasystems Architecture
-		-	Pegasystems Pega Marketing
-		-	Pegasystems Platform
-		-	PeopleSoft Administration
-		-	PeopleSoft PeopleTools
-		-	Performance Testing Strategy
-		-	PERL Scripting
-		-	PHP Programming Language
-		-	Ping Identity Solutions
-		-	Planisware
-		-	Platform as a Service Providers (PaaS)
-		-	PostgreSQL
-		-	PostgreSQL Administration
-		-	Process Engineering
-		-	Program and Project Management
-		-	Program Control Services
-		-	PROGRESS 4GL
-		-	Project Portfolio Management Tools
-		-	PTC FlexPLM
-		-	PTC Windchill
-		-	Python Programming Language
-		-	QlikView
-		-	R Programming
-		-	React.js
-		-	Red Hat OpenShift
-		-	Red Hat OS Administration
-		-	Reltio
-		-	Requirements Analysis
-		-	Residential Mortgage Lending
-		-	Rockwell
-		-	RSA Archer Platform Administration
-		-	Ruby on Rails
-		-	S/4 HANA Enterprise Management
-		-	SailPoint IdentityIQ
-		-	Sales Enablement
-		-	Salesforce Apttus CLM
-		-	Salesforce Apttus CPQ
-		-	Salesforce Community Cloud
-		-	Salesforce CPQ
-		-	Salesforce Development
-		-	Salesforce Einstein Analytics
-		-	Salesforce Field Service Lightning
-		-	Salesforce Financial Services Cloud
-		-	Salesforce Lightning Aura Components
-		-	Salesforce Marketing Cloud
-		-	Salesforce Sales Cloud
-		-	Salesforce Service Cloud
-		-	Salesforce Technical Architecture
-		-	Salesforce Testing
-		-	SAP ABAP CRM
-		-	SAP ABAP Development
-		-	SAP ABAP Development for HANA
-		-	SAP ABAP Object Oriented Development
-		-	SAP ABAP Web Dynpro Development
-		-	SAP Advanced Track and Trace for Pharmaceuticals
-		-	SAP Analytics Cloud Development
-		-	SAP Ariba
-		-	SAP Bank Analyzer
-		-	SAP BASIS Administration
-		-	SAP Business Planning and Consolidation
-		-	SAP Business Workflow Management Design & Development
-		-	SAP BusinessObjects Business Intelligence
-		-	SAP BusinessObjects Data Services
-		-	SAP BW (Business Warehouse)
-		-	SAP BW on HANA Data Modeling & Development
-		-	SAP BW/4HANA Data Modeling & Development
-		-	SAP ByDesign HR
-		-	SAP C/4 HANA Cloud Customer Data (Gigya)
-		-	SAP Callidus Configuration and Development
-		-	SAP CO Internal Orders
-		-	SAP CO Management Accounting
-		-	SAP CO Product Cost Controlling
-		-	SAP CRM Service
-		-	SAP Data & Development
-		-	SAP Data Quality Management
-		-	SAP Data Services Development
-		-	SAP EAM Real Estate Management
-		-	SAP ECC LE Warehouse Management
-		-	SAP ECC PM Plant Maintenance
-		-	SAP EHS Regulatory Compliance
-		-	SAP EWM Extended Warehouse Management
-		-	SAP FI Accounts Payable
-		-	SAP FI Accounts Receivable
-		-	SAP FI Asset Accounting
-		-	SAP FI CO Finance
-		-	SAP FI General Ledger
-		-	SAP FI Joint Venture Accounting
-		-	SAP FI S/4 HANA Accounting
-		-	SAP FI S/4HANA Central Finance
-		-	SAP FI Tax Accounting
-		-	SAP Fiori/UI5 & Responsive Design Architecture
-		-	SAP for Governance, Risk & Compliance (GRC)
-		-	SAP for Oil & Gas Production and Revenue Accounting
-		-	SAP for Retail
-		-	SAP for Utilities Billing
-		-	SAP for Utilities CRM
-		-	SAP for Utilities Energy Data Management Device Management
-		-	SAP for Utilities InterCompany Data Exchange
-		-	SAP FSCM Collection Management
-		-	SAP FSCM Credit Management
-		-	SAP FSCM Treasury & Risk Management
-		-	SAP Global Trade Services
-		-	SAP HANA
-		-	SAP HANA Administration & Performance Engineering
-		-	SAP HANA Cloud Integration
-		-	SAP HANA Cloud Platform Application Integration
-		-	SAP HANA SQL Scripts Development
-		-	SAP HANA Technical Architecture
-		-	SAP HANA Upgrades & Migrations
-		-	SAP HCM On Premise ABAP
-		-	SAP HCM Payroll
-		-	SAP HCM Personnel Administration
-		-	SAP HCM Time Management
-		-	SAP Hybris Billing Convergent Invoicing
-		-	SAP Hybris C4C SDKand PDI
-		-	SAP Hybris Cloud for Sales
-		-	SAP Hybris Commerce
-		-	SAP Information Lifecycle Management Architecture Design
-		-	SAP Infrastructure Security
-		-	SAP LE Logistics Execution
-		-	SAP Manufacturing Execution System
-		-	SAP Manufacturing Integration & Intelligence
-		-	SAP Master Data Governance
-		-	SAP Master Data Governance Development Tool (MDG Tool)
-		-	SAP Master Data Migration
-		-	SAP MM Inventory Management
-		-	SAP Monitoring & Tools
-		-	SAP Native HANA SQL Modeling & Development
-		-	SAP PO/PI & APIs Development
-		-	SAP Portal Architecture
-		-	SAP PP Production Planning & Control Discrete Industries
-		-	SAP PP Production Planning & Control Process Industries
-		-	SAP Project System
-		-	SAP Purchasing (MM PO)
-		-	SAP QM Quality Management
-		-	SAP S/4HANA Advanced Planning
-		-	SAP S/4HANA EM Environment, Health and Safety
-		-	SAP S/4HANA Integrated Business Planning
-		-	SAP S/4HANA Materials Management
-		-	SAP S/4HANA PLM Product Lifecycle Management
-		-	SAP S/4HANA Portfolio and Project Management
-		-	SAP S/4HANA Project System
-		-	SAP S/4HANA SAP Cash Management
-		-	SAP SCM APO Advanced Planning & Optimization
-		-	SAP SD Billing
-		-	SAP SD Sales & Distribution
-		-	SAP SD Sales Order Management
-		-	SAP SRM
-		-	SAP SuccessFactors Compensation
-		-	SAP SuccessFactors Employee Central
-		-	SAP Successfactors Integrations Technical
-		-	SAP SuccessFactors Learning
-		-	SAP SuccessFactors Recruiting
-		-	SAP SuccessFactors Succession & Development
-		-	SAP SuccessFactors Workforce Analytics
-		-	SAP TM Transportation Management
-		-	SAP Trade Promotion Management
-		-	SAP UI5 Fiori Development (HTML5 & Java)
-		-	SAP Utilities Customer Financial Management (FI CA)
-		-	SAP Vendor Invoice Management
-		-	SAS Analytics
-		-	SAS Base & Macros
-		-	SAS BI Tools
-		-	SAS Campaign Management
-		-	SAS Data Integration
-		-	Scala Programming Language
-		-	Security Architectures
-		-	Security Information and Event Management (SIEM)
-		-	Security Information and Event Management (SIEM) Operations
-		-	Security Penetration Testing
-		-	Security Risk Assessment
-		-	Selenium
-		-	Semiconductor Equipment Provider
-		-	Server Virtualization Tools
-		-	Service Desk Management
-		-	Service Integration & Management
-		-	Service Operations
-		-	Service Reliability Engineering
-		-	ServiceNow IT Operations Management
-		-	ServiceNow IT Service Management
-		-	Servicenow Tools Administration
-		-	Shell Scripting
-		-	Siebel Open UI
-		-	Siemens eMeter
-		-	Siemens Teamcenter
-		-	Sitecore
-		-	SmartStream TLM
-		-	Snowflake Data Warehouse
-		-	SOA Architecture and Design
-		-	Software AG ARIS Express
-		-	Software Defined Network Implementation
-		-	Software License & Upgrade Management
-		-	Solaris System Administration
-		-	Solution Architecting
-		-	Splunk
-		-	Splunk Administration
-		-	Splunk Security Information and Event Management (SIEM)
-		-	Spring Boot
-		-	Spring MVC (Model View Controller)
-		-	Static Application Security Testing (SAST)
-		-	Statistical Analysis
-		-	Storage Area Networks (SAN) Architecture and Design
-		-	Supply Chain Planning Outsourcing Solution Design
-		-	SUSE Linux Administration
-		-	SUSE Linux Architecture
-		-	SYBASE Database Administration
-		-	Symantec Endpoint Protection (SEP)
-		-	System Monitoring Tools & Techniques
-		-	Tableau
-		-	Talend Big Data
-		-	Talend ETL
-		-	Tech Solution Architecture
-		-	Technical Documentation Writing
-		-	Temenos T24
-		-	Teradata BI
-		-	Test Automation Strategy
-		-	Test Data Management Implementation
-		-	Test Management
-		-	TIBCO ActiveMatrix Business Works
-		-	TIBCO Administration
-		-	TIBCO BusinessWorks
-		-	TIBCO Enterprise Message Service
-		-	TIBCO MDM
-		-	TOSCA Testsuite
-		-	Transformation Strategy Planning
-		-	TSM Backup Administration
-		-	T-SQL
-		-	Uniface Programming Language
-		-	Unified Communication and Collaboration Operations
-		-	Unix Architecture and Design
-		-	UNIX Shell Scripting
-		-	User Interface Design and Development
-		-	User Interface Development Solutions
-		-	Veeva CRM
-		-	Veeva Vault
-		-	Vendor Management
-		-	Virtual Agents
-		-	Visual Basic for Applications (VBA) Programming Language
-		-	Visual Design
-		-	Visual Design and Development
-		-	Vlocity Platform
-		-	VMware Architecture and Design
-		-	VMWare Cloud Administration
-		-	VMware Horizon
-		-	VMware Pivotal Cloud Foundry
-		-	Vmware Virtualization Administration
-		-	Wealth Management Advisory Solutions
-		-	Web Analytics
-		-	Web API Services
-		-	Web Application Development
-		-	Web Services Security
-		-	WebMethods Fabric
-		-	Windows PowerShell
-		-	Windows Scripting
-		-	Workday Core Compensation
-		-	Workday Core HCM
-		-	Workday Core Integrations
-		-	Workday Financial Accounting Core
-		-	Workday Studio
-		-	Workplace Technology Solutions
-		-	Worksoft Certify
-		-	WSO2 API Management
+		-	.NET Architecture	
+		-	.Net Full Stack Development	
+		-	AbInitio	
+		-	Account Management	
+		-	ACPS - EPDS	
+		-	Adobe AEM/CQ	
+		-	Adobe Audience Manager	
+		-	Adobe Campaign (Neolane)	
+		-	Adobe LiveCycle Designer	
+		-	Adobe Marketo Engage	
+		-	Adobe Target	
+		-	Advance Front End Development AngularJS	
+		-	Advance Front End Development NodeJs	
+		-	Advance Front End Development ReactJS	
+		-	Advanced Data Visualization Techniques	
+		-	Advanced Embedded System Engineering	
+		-	Agile Process Coaching	
+		-	Agile Program Management	
+		-	Agile Project Management	
+		-	Agile Requirement Management	
+		-	Agile Technical Coaching	
+		-	AIX System Administration	
+		-	ALIP Product Configuration	
+		-	Alteryx	
+		-	Amazon Web Services	
+		-	Analytics Solution Architecture	
+		-	Anaplan Planning Budgeting and Forecasting	
+		-	Android Application Development	
+		-	Angular	
+		-	Ansible on Microsoft Azure	
+		-	Apache Kafka	
+		-	Apache Spark	
+		-	Apache Tomcat Administration	
+		-	API Management	
+		-	Apigee	
+		-	Appdynamics APM	
+		-	Appian Process Automation	
+		-	Apple iOS Application Development	
+		-	Application Architectures	
+		-	Application Compatibility Testing	
+		-	Application Packaging	
+		-	Application Remediation	
+		-	Application Security Architecture and Design	
+		-	ASP.NET	
+		-	ASP.NET MVC	
+		-	Asset Management	
+		-	Automated Testing	
+		-	Automation in Application Development	
+		-	Automation in Systems Integration	
+		-	Autosys Administration	
+		-	Avanade Scrum Development	
+		-	Avanade Scrum Project Management	
+		-	AWS Administration	
+		-	AWS Architecture	
+		-	AWS Athena	
+		-	AWS BigData	
+		-	AWS DynamoDB	
+		-	AWS Glue	
+		-	AWS Kinesis	
+		-	AWS Redshift	
+		-	AWS Relational Database Service (RDS)	
+		-	AXWAY	
+		-	Axway API Management	
+		-	Backup and Recovery Management	
+		-	Big Data Analysis Tool and Techniques	
+		-	Business Process Design	
+		-	Business Process Modelling Notation (BPMN)	
+		-	Business Requirement Analysis	
+		-	Business Technology	
+		-	C++ Programming Language	
+		-	Callidus TrueComp	
+		-	Calypso	
+		-	Capital Markets Audit	
+		-	Celonis Process Mining Platform	
+		-	Cerner	
+		-	Change Management	
+		-	Checkpoint Next Generation Firewall	
+		-	Cisco Firewall	
+		-	Citrix Virtual Apps and Desktop Administration	
+		-	Citrix Virtual Apps and Desktop Architecture	
+		-	Cloud Automation DevOps	
+		-	Cloud Backup Architecture and Design	
+		-	Cloud Data Architecture	
+		-	Cloud Data Migration	
+		-	Cloud Design and Build	
+		-	Cloud Infrastructure	
+		-	Cloud Migration Planning and Execution	
+		-	Cloud Network Operations	
+		-	Cloud Platform Architecture	
+		-	Cloud Strategy and Assessment	
+		-	Cloud Technology Architecture	
+		-	CloudCraze Commerce	
+		-	Cloudera Data Platform	
+		-	CloudSense	
+		-	COBOL Programming Language	
+		-	ColdFusion	
+		-	Commercial Insurance	
+		-	Commvault Backup Administration	
+		-	Computer Vision	
+		-	Concur	
+		-	Contact Center Technology Operations	
+		-	ControlM Administration	
+		-	Core Banking Fundamentals	
+		-	Coupa	
+		-	Critical Incident Management	
+		-	CSV (Computer System Validations)	
+		-	Cucumber	
+		-	CyberArk Privileged Identity Access Management	
+		-	Cybersecurity Strategy Development	
+		-	Dassault Systemes - 3DEXPERIENCE Platform DELMIA	
+		-	Dassault Systemes - 3DEXPERIENCE Platform DELMIA Quintiq	
+		-	Dassault Systemes - 3DEXPERIENCE Platform ENOVIA	
+		-	Dassault Systemes - 3DX DELMIA Customization	
+		-	Dassault Systemes - 3DX ENOVIA Customization	
+		-	Dassault Systemes ENOVIA V5	
+		-	Data Analytics and Interpretation	
+		-	Data Architecture Principles	
+		-	Data Audit and Profiling	
+		-	Data Center Networking Technologies Operations	
+		-	Data Engineering	
+		-	Data Governance	
+		-	Data Modeling Techniques and Methodologies	
+		-	Data Science	
+		-	Data Strategy	
+		-	Data Visualization	
+		-	Data Warehouse ETL Testing	
+		-	Database System Architecture	
+		-	DB2 Database Administration	
+		-	Dell Boomi	
+		-	Demandware	
+		-	Denodo BI Solutions	
+		-	Deployment management	
+		-	DevOps	
+		-	DevOps Architecture	
+		-	Digital Banking	
+		-	Direct Store Delivery	
+		-	Docker Kubernetes Administrations	
+		-	Docker Kubernetes Architecture and Design	
+		-	Downstream Manufacturing	
+		-	Drupal	
+		-	Duck Creek Policy	
+		-	eCommerce Retail	
+		-	Elastic Path Solutions	
+		-	Embedded Applications Testing	
+		-	EMC Storage Area Network (SAN) Administration	
+		-	End User & Data center IT Asset Mgmt	
+		-	Enterprise Network Operations	
+		-	Enterprise Performance Management Strategy & Planning	
+		-	Enterprise Systems Monitoring Tools	
+		-	EPIC	
+		-	ESRI ArcGIS (Geographic Information System)	
+		-	Exadata Administration	
+		-	Exalogic Administration	
+		-	Extended Reality XR Application Development	
+		-	FEA Mechanical Static	
+		-	Finastra Fusion Global PAYplus (GPP)	
+		-	Finastra Fusion Loan IQ	
+		-	ForgeRock OpenAM	
+		-	ForgeRock OpenIDM	
+		-	Functional Sizing and Analysis	
+		-	Functional Test Planning	
+		-	GCP - Cloud Data Transfer	
+		-	GCP - Cloud Dataflow	
+		-	GCP - Cloud Functions	
+		-	General Ledger	
+		-	Google BigQuery	
+		-	Google Cloud Data Services	
+		-	Google Cloud Development Services	
+		-	Google Cloud Platform Administration	
+		-	Google Cloud Platform Architecture	
+		-	Governance Risk & Compliance (GRC)	
+		-	Governance Risk & Compliance (GRC) Platform Operations	
+		-	Governance Risk & Compliance (GRC) Tools	
+		-	GuideWire BillingCenter	
+		-	GuideWire ClaimCenter	
+		-	Guidewire DataHub	
+		-	Guidewire Digital Portals	
+		-	GuideWire Integration	
+		-	GuideWire PolicyCenter	
+		-	Hadoop	
+		-	Hadoop Administration	
+		-	HCL Commerce	
+		-	HCL Notes	
+		-	Health Level-7 Data Protocol (HL-7) Knowledge	
+		-	HealthCare Payer Operations	
+		-	HPE ALM Software	
+		-	HPUX System Administration	
+		-	IBM AS /400 Administration	
+		-	IBM Business Process Manager	
+		-	IBM CICS (Customer Information Control System)	
+		-	IBM Cognos	
+		-	IBM Cognos TM1	
+		-	IBM DB2	
+		-	IBM Informix & Red Brick	
+		-	IBM InfoSphere DataStage	
+		-	IBM Integration Bus	
+		-	IBM Master Data Management	
+		-	IBM Operational Decision Manager	
+		-	IBM Sterling Commerce	
+		-	IBM Sterling Integrator	
+		-	IBM Tivoli Access Manager	
+		-	IBM Tivoli Netcool	
+		-	IBM Websphere Administration	
+		-	IBM WebSphere DataPower	
+		-	IBM WebSphere MQ	
+		-	IBM z/OS	
+		-	Identity and Access Management	
+		-	IFS Solutions	
+		-	IFS Solutions Functional Management	
+		-	Infor	
+		-	Infor Enterprise Asset Management	
+		-	Informatica Administration	
+		-	Informatica Axon	
+		-	Informatica Big Data Edition	
+		-	Informatica Cloud	
+		-	Informatica Data Quality	
+		-	Informatica ILM TDM and TDG	
+		-	Informatica Intelligent Cloud Services	
+		-	Informatica MDM	
+		-	Informatica PowerCenter	
+		-	Informatica Product 360 (PIM)	
+		-	Infrastructure Security Vulnerability Management Operations	
+		-	Infrastructure Service Management	
+		-	Internet Information Server (IIS) Administration	
+		-	Investment Banking	
+		-	IOT Platforms	
+		-	IT Performance Optimization	
+		-	IXO IOT Applications	
+		-	Java Enterprise Edition	
+		-	Java Full Stack Development	
+		-	Java Servlet	
+		-	Java Standard Edition	
+		-	JavaScript	
+		-	JavaServer Faces (JSF)	
+		-	JBOSS Administration	
+		-	JBoss Fuse Service Works	
+		-	JBoss jBPM	
+		-	JDA Demand	
+		-	JDA Enterprise Planning	
+		-	JDA Floor & Space Planning	
+		-	JDA Intelligent Fulfillment	
+		-	JDA Inventory Policy Optimization	
+		-	JDA Warehouse Management	
+		-	JDA Workforce Management	
+		-	Kentico	
+		-	Kinaxis	
+		-	Kronos Workforce Management Solutions	
+		-	Kubernetes	
+		-	Laboratory Information and Execution Systems	
+		-	Learning Delivery Operations	
+		-	Life Sciences R&D	
+		-	Liferay Digital Experience Platform	
+		-	Linux Architecture and Design	
+		-	Linux Operating System	
+		-	Linux Operations	
+		-	Machine Learning	
+		-	Magento Solutions	
+		-	Mainframe Application Performance Optimization	
+		-	Managed Cloud Security Services	
+		-	Manufacturing Engineering MES	
+		-	Marketing Campaign Analytics & Reporting	
+		-	Marklogic	
+		-	Master Data Management	
+		-	Maximo	
+		-	Mendix App Platform	
+		-	Micro Focus LoadRunner	
+		-	Micro Focus Operations Manager i	
+		-	Micro Focus Operations Orchestration	
+		-	Micro Focus Unified Functional Testing (UFT)	
+		-	Micro Focus Vertica	
+		-	Microservices and Light Weight Architecture	
+		-	Microsoft 365	
+		-	Microsoft 365 SharePoint Online	
+		-	Microsoft Active Directory	
+		-	Microsoft Active Directory Federation Services (ADFS)	
+		-	Microsoft Advanced Analytics	
+		-	Microsoft Azure Active Directory	
+		-	Microsoft Azure Architecture	
+		-	Microsoft Azure Data Integration Services	
+		-	Microsoft Azure Data Transformation Services	
+		-	Microsoft Azure DevOps	
+		-	Microsoft Azure DevOps IaC	
+		-	Microsoft Azure IaaS	
+		-	Microsoft Azure IoT Services	
+		-	Microsoft Azure Logic Apps	
+		-	Microsoft Azure Security	
+		-	Microsoft BOT Framework	
+		-	Microsoft Coded UI Test	
+		-	Microsoft Dynamics 365 Commerce Functional	
+		-	Microsoft Dynamics 365 Commerce Technical	
+		-	Microsoft Dynamics 365 ERP Technical	
+		-	Microsoft Dynamics 365 Finance Functional	
+		-	Microsoft Dynamics 365 Operations Functional	
+		-	Microsoft Dynamics AX - Financial Core Functionality	
+		-	Microsoft Dynamics AX Operations Functional	
+		-	Microsoft Dynamics AX Technical	
+		-	Microsoft Dynamics CRM Functional	
+		-	Microsoft Dynamics CRM Technical	
+		-	Microsoft Exchange	
+		-	Microsoft FED Angular	
+		-	Microsoft FED ReactJS	
+		-	Microsoft Front End Development	
+		-	Microsoft Functional Testing	
+		-	Microsoft Identity Manager (MIM)	
+		-	Microsoft Load Test	
+		-	Microsoft Lync Server	
+		-	Microsoft Modern Data Platform	
+		-	Microsoft Power BI	
+		-	Microsoft PowerApps	
+		-	Microsoft Project Server	
+		-	Microsoft Robotic Process Automation	
+		-	Microsoft Robotics Process Automation Advanced	
+		-	Microsoft Sharepoint Administration	
+		-	Microsoft Sharepoint Server	
+		-	Microsoft SharePoint Server 2013	
+		-	Microsoft SharePoint Testing	
+		-	Microsoft SQL Server	
+		-	Microsoft SQL Server Analysis Services (SSAS)	
+		-	Microsoft SQL Server Database Administration	
+		-	Microsoft SQL Server Integration Services (SSIS)	
+		-	Microsoft SQL Server Reporting Services (SSRS)	
+		-	Microsoft System Center Configuration Manager	
+		-	Microsoft System Center Operations Manager (SCOM)	
+		-	Microsoft Teams Development	
+		-	Microsoft User Interface Design	
+		-	Microsoft User Research & Analysis	
+		-	Microsoft Windows Azure PaaS	
+		-	Microsoft Windows Communication Foundation (WCF)	
+		-	Microsoft Windows Desktop Management	
+		-	Microsoft Windows Intune	
+		-	Microsoft Windows Mobile	
+		-	Microsoft Windows Presentation Foundation (WPF)	
+		-	Microsoft Windows Server Administration	
+		-	Microsoft Xamarin	
+		-	MicroStrategy Business Intelligence(BI)	
+		-	Mobile and Tablet Applications Testing	
+		-	Mobile Architecture	
+		-	Mobile Device/App Automation Testing	
+		-	MongoDB	
+		-	MuleSoft Anypoint Platform	
+		-	Murex Back Office	
+		-	Murex Datamart Reporting	
+		-	Murex MX.3 Platform	
+		-	Murex Workflows	
+		-	MySQL Database Administration	
+		-	NAS Architecture and Design	
+		-	Natural	
+		-	Natural Language Processing (NLP)	
+		-	nCino	
+		-	Netapp NAS Administration	
+		-	NetBackup Backup Administration	
+		-	Network Engineering Planning and Deployment Solution	
+		-	Network Infrastructure	
+		-	Network Security Implementation	
+		-	Network Security Operations	
+		-	Networker Backup Administration	
+		-	NNM Tools Administration	
+		-	Node.js	
+		-	NoSQL Architecture and Design	
+		-	OpenLink Endur	
+		-	OpenText ECM Tools	
+		-	Oracle Account Reconciliation (ARCS)	
+		-	Oracle ADF	
+		-	Oracle Analytics Cloud	
+		-	Oracle Application Express	
+		-	Oracle Applications DBA	
+		-	Oracle Applications Development	
+		-	Oracle ATG Commerce	
+		-	Oracle BI Publisher	
+		-	Oracle BRM Functional Configuration	
+		-	Oracle Business Intelligence Enterprise Edition (OBIEE) Plus	
+		-	Oracle Cloud Application Development	
+		-	Oracle Cloud Inventory and Cost Management	
+		-	Oracle Cloud Order Management	
+		-	Oracle Cloud Supply Chain Planning	
+		-	Oracle Communications Unified Inventory Management	
+		-	Oracle CPQ Cloud (Big Machines)	
+		-	Oracle CRM Service	
+		-	Oracle Customer Data Hub (CDM)	
+		-	Oracle Data Integrator	
+		-	Oracle Database Administration	
+		-	Oracle EBS Financials	
+		-	Oracle EBS Receivables	
+		-	Oracle EBS Supply Chain Management	
+		-	Oracle Exadata	
+		-	Oracle Financials	
+		-	Oracle Financials Cloud	
+		-	Oracle Fusion Middleware Administration	
+		-	Oracle Fusion Middleware WebLogic Server Admin (WLS)	
+		-	Oracle Golden Gate Middleware	
+		-	Oracle HCM Cloud Absence/Leave Management	
+		-	Oracle HCM Cloud Benefits	
+		-	Oracle HCM Cloud Core HR	
+		-	Oracle HCM Cloud Payroll	
+		-	Oracle HCM Cloud Talent Management	
+		-	Oracle HCM Recruiting Cloud	
+		-	Oracle Hyperion Analytic Applications	
+		-	Oracle Hyperion Data Relationship Management (DRM)	
+		-	Oracle Hyperion Financial Management (HFM)	
+		-	Oracle Hyperion Planning	
+		-	Oracle Hyperion Technical Architecture	
+		-	Oracle Integration Cloud Service (ICS)	
+		-	Oracle Marketing Cloud (Eloqua)	
+		-	Oracle Meter Data Management	
+		-	Oracle OA Framework	
+		-	Oracle Order and Service Management	
+		-	Oracle Planning and Budgeting (EPBCS)	
+		-	Oracle PPM Cloud Project Financials	
+		-	Oracle Procedural Language Extensions to SQL	
+		-	Oracle Procurement	
+		-	Oracle Procurement Cloud	
+		-	Oracle Product Hub (OPH)	
+		-	Oracle Purchasing	
+		-	Oracle Retail Merchandising System	
+		-	Oracle Retail Point of Service	
+		-	Oracle Retail Predictive Application Server	
+		-	Oracle Retail XStore POS	
+		-	Oracle Sales Cloud Incentive Compensation	
+		-	Oracle SCM Advanced Supply Chain Planning (ASCP)	
+		-	Oracle SCM Manufacturing	
+		-	Oracle SCM Supply Chain Execution	
+		-	Oracle SCM Transportation Management	
+		-	Oracle Security Access Manager	
+		-	Oracle Siebel Configuration	
+		-	Oracle Siebel Development	
+		-	Oracle Siebel Enterprise Application Integration (eAI)	
+		-	Oracle Siebel Enterprise Integration Management (EIM)	
+		-	Oracle Siebel Environment Management	
+		-	Oracle Siebel Product Configurator	
+		-	Oracle Siebel Upgrade	
+		-	Oracle SOA BPEL Process Manager	
+		-	Oracle SOA OSB	
+		-	Oracle Supply Chain Management (SCM)	
+		-	Oracle Warehouse Management	
+		-	Oracle WebCenter Content	
+		-	Oracle Weblogic Application Server Administration	
+		-	Outage Management Systems	
+		-	Palo Alto Networks Firewall	
+		-	Payments Vision Plus	
+		-	Pegasystems Architecture	
+		-	Pegasystems Pega Marketing	
+		-	Pegasystems Platform	
+		-	PeopleSoft Administration	
+		-	PeopleSoft PeopleTools	
+		-	Performance Testing Strategy	
+		-	PERL Scripting	
+		-	PHP Programming Language	
+		-	Ping Identity Solutions	
+		-	Planisware	
+		-	Platform as a Service Providers (PaaS)	
+		-	PostgreSQL	
+		-	PostgreSQL Administration	
+		-	Process Engineering	
+		-	Program and Project Management	
+		-	Program Control Services	
+		-	PROGRESS 4GL	
+		-	Project Portfolio Management Tools	
+		-	PTC FlexPLM	
+		-	PTC Windchill	
+		-	Python Programming Language	
+		-	QlikView	
+		-	R Programming	
+		-	React.js	
+		-	Red Hat OpenShift	
+		-	Red Hat OS Administration	
+		-	Reltio	
+		-	Requirements Analysis	
+		-	Residential Mortgage Lending	
+		-	Rockwell	
+		-	RSA Archer Platform Administration	
+		-	Ruby on Rails	
+		-	S/4 HANA Enterprise Management	
+		-	SailPoint IdentityIQ	
+		-	Sales Enablement	
+		-	Salesforce Apttus CLM	
+		-	Salesforce Apttus CPQ	
+		-	Salesforce Community Cloud	
+		-	Salesforce CPQ	
+		-	Salesforce Development	
+		-	Salesforce Einstein Analytics	
+		-	Salesforce Field Service Lightning	
+		-	Salesforce Financial Services Cloud	
+		-	Salesforce Lightning Aura Components	
+		-	Salesforce Marketing Cloud	
+		-	Salesforce Sales Cloud	
+		-	Salesforce Service Cloud	
+		-	Salesforce Technical Architecture	
+		-	Salesforce Testing	
+		-	SAP ABAP CRM	
+		-	SAP ABAP Development	
+		-	SAP ABAP Development for HANA	
+		-	SAP ABAP Object Oriented Development	
+		-	SAP ABAP Web Dynpro Development	
+		-	SAP Advanced Track and Trace for Pharmaceuticals	
+		-	SAP Analytics Cloud Development	
+		-	SAP Ariba	
+		-	SAP Bank Analyzer	
+		-	SAP BASIS Administration	
+		-	SAP Business Planning and Consolidation	
+		-	SAP Business Workflow Management Design & Development	
+		-	SAP BusinessObjects Business Intelligence	
+		-	SAP BusinessObjects Data Services	
+		-	SAP BW (Business Warehouse)	
+		-	SAP BW on HANA Data Modeling & Development	
+		-	SAP BW/4HANA Data Modeling & Development	
+		-	SAP ByDesign HR	
+		-	SAP C/4 HANA Cloud Customer Data (Gigya)	
+		-	SAP Callidus Configuration and Development	
+		-	SAP CO Internal Orders	
+		-	SAP CO Management Accounting	
+		-	SAP CO Product Cost Controlling	
+		-	SAP CRM Service	
+		-	SAP Data & Development	
+		-	SAP Data Quality Management	
+		-	SAP Data Services Development	
+		-	SAP EAM Real Estate Management	
+		-	SAP ECC LE Warehouse Management	
+		-	SAP ECC PM Plant Maintenance	
+		-	SAP EHS Regulatory Compliance	
+		-	SAP EWM Extended Warehouse Management	
+		-	SAP FI Accounts Payable	
+		-	SAP FI Accounts Receivable	
+		-	SAP FI Asset Accounting	
+		-	SAP FI CO Finance	
+		-	SAP FI General Ledger	
+		-	SAP FI Joint Venture Accounting	
+		-	SAP FI S/4 HANA Accounting	
+		-	SAP FI S/4HANA Central Finance	
+		-	SAP FI Tax Accounting	
+		-	SAP Fiori/UI5 & Responsive Design Architecture	
+		-	SAP for Governance, Risk & Compliance (GRC)	
+		-	SAP for Oil & Gas Production and Revenue Accounting	
+		-	SAP for Retail	
+		-	SAP for Utilities Billing	
+		-	SAP for Utilities CRM	
+		-	SAP for Utilities Energy Data Management Device Management	
+		-	SAP for Utilities InterCompany Data Exchange	
+		-	SAP FSCM Collection Management	
+		-	SAP FSCM Credit Management	
+		-	SAP FSCM Treasury & Risk Management	
+		-	SAP Global Trade Services	
+		-	SAP HANA	
+		-	SAP HANA Administration & Performance Engineering	
+		-	SAP HANA Cloud Integration	
+		-	SAP HANA Cloud Platform Application Integration	
+		-	SAP HANA SQL Scripts Development	
+		-	SAP HANA Technical Architecture	
+		-	SAP HANA Upgrades & Migrations	
+		-	SAP HCM On Premise ABAP	
+		-	SAP HCM Payroll	
+		-	SAP HCM Personnel Administration	
+		-	SAP HCM Time Management	
+		-	SAP Hybris Billing Convergent Invoicing	
+		-	SAP Hybris C4C SDKand PDI	
+		-	SAP Hybris Cloud for Sales	
+		-	SAP Hybris Commerce	
+		-	SAP Information Lifecycle Management Architecture Design	
+		-	SAP Infrastructure Security	
+		-	SAP LE Logistics Execution	
+		-	SAP Manufacturing Execution System	
+		-	SAP Manufacturing Integration & Intelligence	
+		-	SAP Master Data Governance	
+		-	SAP Master Data Governance Development Tool (MDG Tool)	
+		-	SAP Master Data Migration	
+		-	SAP MM Inventory Management	
+		-	SAP Monitoring & Tools	
+		-	SAP Native HANA SQL Modeling & Development	
+		-	SAP PO/PI & APIs Development	
+		-	SAP Portal Architecture	
+		-	SAP PP Production Planning & Control Discrete Industries	
+		-	SAP PP Production Planning & Control Process Industries	
+		-	SAP Project System	
+		-	SAP Purchasing (MM PO)	
+		-	SAP QM Quality Management	
+		-	SAP S/4HANA Advanced Planning	
+		-	SAP S/4HANA EM Environment, Health and Safety	
+		-	SAP S/4HANA Integrated Business Planning	
+		-	SAP S/4HANA Materials Management	
+		-	SAP S/4HANA PLM Product Lifecycle Management	
+		-	SAP S/4HANA Portfolio and Project Management	
+		-	SAP S/4HANA Project System	
+		-	SAP S/4HANA SAP Cash Management	
+		-	SAP SCM APO Advanced Planning & Optimization	
+		-	SAP SD Billing	
+		-	SAP SD Sales & Distribution	
+		-	SAP SD Sales Order Management	
+		-	SAP SRM	
+		-	SAP SuccessFactors Compensation	
+		-	SAP SuccessFactors Employee Central	
+		-	SAP Successfactors Integrations Technical	
+		-	SAP SuccessFactors Learning	
+		-	SAP SuccessFactors Recruiting	
+		-	SAP SuccessFactors Succession & Development	
+		-	SAP SuccessFactors Workforce Analytics	
+		-	SAP TM Transportation Management	
+		-	SAP Trade Promotion Management	
+		-	SAP UI5 Fiori Development (HTML5 & Java)	
+		-	SAP Utilities Customer Financial Management (FI CA)	
+		-	SAP Vendor Invoice Management	
+		-	SAS Analytics	
+		-	SAS Base & Macros	
+		-	SAS BI Tools	
+		-	SAS Campaign Management	
+		-	SAS Data Integration	
+		-	Scala Programming Language	
+		-	Security Architectures	
+		-	Security Information and Event Management (SIEM)	
+		-	Security Information and Event Management (SIEM) Operations	
+		-	Security Penetration Testing	
+		-	Security Risk Assessment	
+		-	Selenium	
+		-	Semiconductor Equipment Provider	
+		-	Server Virtualization Tools	
+		-	Service Desk Management	
+		-	Service Integration & Management	
+		-	Service Operations	
+		-	Service Reliability Engineering	
+		-	ServiceNow IT Operations Management	
+		-	ServiceNow IT Service Management	
+		-	Servicenow Tools Administration	
+		-	Shell Scripting	
+		-	Siebel Open UI	
+		-	Siemens eMeter	
+		-	Siemens Teamcenter	
+		-	Sitecore	
+		-	SmartStream TLM	
+		-	Snowflake Data Warehouse	
+		-	SOA Architecture and Design	
+		-	Software AG ARIS Express	
+		-	Software Defined Network Implementation	
+		-	Software License & Upgrade Management	
+		-	Solaris System Administration	
+		-	Solution Architecting	
+		-	Splunk	
+		-	Splunk Administration	
+		-	Splunk Security Information and Event Management (SIEM)	
+		-	Spring Boot	
+		-	Spring MVC (Model View Controller)	
+		-	Static Application Security Testing (SAST)	
+		-	Statistical Analysis	
+		-	Storage Area Networks (SAN) Architecture and Design	
+		-	Supply Chain Planning Outsourcing Solution Design	
+		-	SUSE Linux Administration	
+		-	SUSE Linux Architecture	
+		-	SYBASE Database Administration	
+		-	Symantec Endpoint Protection (SEP)	
+		-	System Monitoring Tools & Techniques	
+		-	Tableau	
+		-	Talend Big Data	
+		-	Talend ETL	
+		-	Tech Solution Architecture	
+		-	Technical Documentation Writing	
+		-	Temenos T24	
+		-	Teradata BI	
+		-	Test Automation Strategy	
+		-	Test Data Management Implementation	
+		-	Test Management	
+		-	TIBCO ActiveMatrix Business Works	
+		-	TIBCO Administration	
+		-	TIBCO BusinessWorks	
+		-	TIBCO Enterprise Message Service	
+		-	TIBCO MDM	
+		-	TOSCA Testsuite	
+		-	Transformation Strategy Planning	
+		-	TSM Backup Administration	
+		-	T-SQL	
+		-	Uniface Programming Language	
+		-	Unified Communication and Collaboration Operations	
+		-	Unix Architecture and Design	
+		-	UNIX Shell Scripting	
+		-	User Interface Design and Development	
+		-	User Interface Development Solutions	
+		-	Veeva CRM	
+		-	Veeva Vault	
+		-	Vendor Management	
+		-	Virtual Agents	
+		-	Visual Basic for Applications (VBA) Programming Language	
+		-	Visual Design	
+		-	Visual Design and Development	
+		-	Vlocity Platform	
+		-	VMware Architecture and Design	
+		-	VMWare Cloud Administration	
+		-	VMware Horizon	
+		-	VMware Pivotal Cloud Foundry	
+		-	Vmware Virtualization Administration	
+		-	Wealth Management Advisory Solutions	
+		-	Web Analytics	
+		-	Web API Services	
+		-	Web Application Development	
+		-	Web Services Security	
+		-	WebMethods Fabric	
+		-	Windows PowerShell	
+		-	Windows Scripting	
+		-	Workday Core Compensation	
+		-	Workday Core HCM	
+		-	Workday Core Integrations	
+		-	Workday Financial Accounting Core	
+		-	Workday Studio	
+		-	Workplace Technology Solutions	
+		-	Worksoft Certify	
+		-	WSO2 API Management	
 
-    
+
+                Certificates
+
+		-	Agile Certification Institute
+		-	AI-100: Microsoft Certified Azure AI Engineer Associate
+		-	AI-900: Microsoft Azure AI Fundamentals
+		-	AIM Change Management Certification
+		-	AMA Certified Professional in Management
+		-	APGM Organizational Change Management Foundation
+		-	APICS Certified in Production and Inventory Management (CPIM)
+		-	APICS Certified Supply Chain Professional certification (CSCP)
+		-	APICS Supply Chain Operations Reference (SCOR-P) Endorsement
+		-	APMG International
+		-	Associate Certified Analytics Professional (aCAP)
+		-	Associate in Project Management
+		-	AWS Certified Advanced Networking
+		-	AWS Certified Cloud Practitioner
+		-	AWS Certified Data Analytics
+		-	AWS Certified Database
+		-	AWS Certified Developer
+		-	AWS Certified Developer – Associate
+		-	AWS Certified DevOps Engineer
+		-	AWS Certified Machine Learning
+		-	AWS Certified Security Specialty
+		-	AWS Certified Solution Architect
+		-	AWS Certified Solutions Architect – Associate
+		-	AWS Certified SysOps Administrator
+		-	Axelos ITIL Master certification
+		-	AZ-104: Microsoft Azure Administrator (replaces AZ-103)
+		-	AZ-204: Microsoft Certified Azure Developer (replaces AZ-203)
+		-	AZ-303: Microsoft Azure Solutions Architect – Technologies (replaces AZ-300)
+		-	AZ-304: Microsoft Azure Solutions Architect – Design (replaces AZ-301)
+		-	AZ-400: Microsoft Azure DevOps Solutions
+		-	AZ-500: Microsoft Certified Azure Security Engineer Associate
+		-	AZ-900: Microsoft Azure Fundamentals
+		-	BVOP Certified Project Manager
+		-	CCNP Enterprise Certification (formerly CCNP Routing and Switching)
+		-	Certification of Professional Achievement in Data Sciences
+		-	Certified Agile Project Manager (IAPM)
+		-	Certified Analytics Professional (CAP)
+		-	Certified Associate in Project Management (CAPM)
+		-	Certified Change Management Professional (CCMP)
+		-	Certified Cloud Security Professional (CCSP)
+		-	Certified Financial Planner (CFP) designation
+		-	Certified in Risk and Information Systems Control (CRISC)
+		-	Certified in the Governance of Enterprise IT (CGEIT)
+		-	Certified Information Security Manager (CISM)
+		-	Certified Information Systems Auditor (CISA)
+		-	Certified Information Systems Security Professional (CISSP)
+		-	Certified Problem and Change Manager (CPCM)
+		-	Certified Project Director
+		-	Certified Project Management Practitioner (CPMP)
+		-	Certified Project Manager (CPM)
+		-	Certified Public Accountant (CPA) certification
+		-	Certified ScrumMaster (CSM)
+		-	Change Management Certificate Program from the Association for Talent Development
+		-	Change Management Specialist (CMS)
+		-	Chartered Alternative Investment Analyst (CAIA) designation
+		-	Chartered Financial Analyst (CFA) certification
+		-	Cisco CCNA Cyber Ops
+		-	CISSP Information Systems Security Architecture Professional (CISSIP-ISSAP)
+		-	Citrix Certified Associate – Networking (CCA-N)
+		-	Citrix Certified Professional – Virtualization (CCP-V)
+		-	Cloudera Certified Associate (CCA) Data Analyst
+		-	Cloudera Certified Professional (CCP) Data Engineer
+		-	COBIT 5 Foundation
+		-	CompTIA Cloud+
+		-	CompTIA Cybersecurity Analyst (CSA+)
+		-	CompTIA Network+
+		-	CompTIA Project+
+		-	Data Science Council of America (DASCA) Principle Data Scientist (PDS)
+		-	Data Science Council of America (DASCA) Senior Data Scientist (SDS)
+		-	Dell EMC Data Science Track (EMCDS)
+		-	Dell EMC Proven Professional Cloud architect training and certification
+		-	DP-100: Designing and Implementing a Data Science Solution on Azure
+		-	DP-200: Microsoft Certified Azure Data Engineer Associate
+		-	DP-201: Microsoft Certified Azure Data Engineer Associate
+		-	DP-300: Administering Relational Databases on Microsoft Azure
+		-	DP-900: Microsoft Azure Data Fundamentals
+		-	EC Council Certified Network Defense Architect (CNDA)
+		-	EC-Council Certified Network Defender (CND)
+		-	EMC Proven Professional Data Scientist Associate (EMCDSA)
+		-	Financial Modeling & Valuation Analyst (FMVA) certification
+		-	Financial Risk Manager (FRM) certification
+		-	Google Certified Associate Cloud Engineer
+		-	Google Certified Professional Cloud Architect
+		-	Google Certified Professional Cloud Developer
+		-	Google Certified Professional Cloud Network Engineer
+		-	Google Certified Professional Cloud Security Engineer
+		-	Google Certified Professional Data Engineer
+		-	IBM Certified Designer – IBM Cognos Analytics Author Reports V11
+		-	IBM Certified Solutions Architect – SoftLayer v1
+		-	IBM Data Science Professional Certificate
+		-	IBM Solutions Advisor – SoftLayer v1
+		-	IIBA Agile Analysis Certification (AAC)
+		-	IIBA Certification in Business Data Analytics (CBDA)
+		-	IIBA Certification of Competency in Business Analysis (CCBA)
+		-	IIBA Certified Business Analysis Professional (CBAP)
+		-	IIBA Entry Certificate in Business Analysis (ECBA)
+		-	Information Technology Infrastructure Library (ITIL)
+		-	International Consortium for Agile (ICAgile)
+		-	IQBBA Certified Foundation Level Business Analyst (CFLBA)
+		-	IREB Certified Professional for Requirements Engineering (CPRE)
+		-	ISM Certified Professional in Supplier Diversity (CPSD)
+		-	ISM Certified Professional in Supply Management (CPSM)
+		-	ITIL Foundation
+		-	Master Project Manager (MPM)
+		-	MCSD: App Builder
+		-	MCSE: Cloud Platform and Infrastructure
+		-	MCSE: Data Management and Analytics
+		-	MCSE: Mobility
+		-	MCSE: Productivity Solutions Expert
+		-	NCMA Certified Professional Contract Manager (CPCM)
+		-	Open Certified Data Scientist
+		-	Open Certified Data Scientist (Open CDS)
+		-	PMI Agile Certified Practitioner (PMI-ACP)
+		-	PMI Professional in Business Analysis (PBA)
+		-	PMI-ACP
+		-	PRINCE2 Foundation/PRINCE2 Practitioner
+		-	Professional Cloud Solutions Architect Certification
+		-	Professional in Project Management (PPM)
+		-	Project Management in IT Security (PMITS)
+		-	Project Management Professional (PMP)
+		-	Prosci Change Management Certification
+		-	Red Hat Certified Architect
+		-	Salesforce Certified Technical Architect (CTA)
+		-	SAS Certified Advanced Analytics Professional Using SAS 9
+		-	SAS Certified AI & Machine Learning Professional
+		-	SAS Certified Big Data Professional
+		-	SAS Certified Big Data Professional Using SAS 9
+		-	SAS Certified Data Scientist
+		-	Scaled Agile Academy
+		-	SCPro Council of Supply Chain Management Professionals (CSCMP)
+		-	Scrum Alliance
+		-	SimpliLearn Business Analyst Masters Program
+		-	Six Sigma
+		-	SOLE Certified Professional Logistician (CPL)
+		-	Strategyex Certificate (Associate or Master’s) in Agile
+		-	Tensorflow Developer Certificate
+		-	The Open Group Certified Architect (Open CA)
+		-	The Open Group TOGAF 9 Certification
+		-	TOGAF 9
+		-	Virtualization Council Master Infrastructure Architect certification
+		-	VMware Certified Professional 6 – Data Center Virtualization (VCP6-DCV)
+
 -------------
 --------------
 
