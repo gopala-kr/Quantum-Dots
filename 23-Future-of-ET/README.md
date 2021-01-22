@@ -1253,7 +1253,16 @@ Low-Code Application Platforms
 - [Open Source ERP Solutions](https://solutionsreview.com/enterprise-resource-planning/top-15-free-and-open-source-erp-solutions/)
 ------
 ![entsysarchpic](https://dalbanger.files.wordpress.com/2015/05/entsysarchpic.jpg)
-
+------
+![Tech_Custom_Dev](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Custom_Dev.png)
+------
+![Tech_Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Arch.png)
+-----
+![Tech_VMware](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_VMware.png)
+-----
+![Tech_Cloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Cloud.png)
+--------
+![Tech_Agile](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Agile.png)
 -------------
 --------------
 
@@ -1707,6 +1716,10 @@ SAP Portfolio
 ![Tech_Google](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Google.png)
 -----------
 ![Tech_Microsoft](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Microsoft.png)
+-------
+![Tech_IBM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_IBM.png)
+--------
+![]()
 -------------- 
 ---------------
 
@@ -2415,7 +2428,7 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 		-	WSO2 API Management	
 
 
-                Certificates
+                Certifications
 
 		-	Agile Certification Institute
 		-	AI-100: Microsoft Certified Azure AI Engineer Associate
@@ -2604,8 +2617,12 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 ![master_data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/master_data.PNG)
 
+
 -------
 ![Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR](https://images.squarespace-cdn.com/content/v1/55cdcc72e4b0ff38cd56a751/1539595621504-8FTJB0E8RCR0G3S9IULR/ke17ZwdGBToddI8pDm48kD6pI3Ghap9e95DedX5JW-EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXhDa6xRIWV4T9b-Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR/Image3.png?format=1500w)
+--------
+![btp_mbg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_mbg.PNG)
+
 --------
 ![eim](https://mckinsol.com/wp-content/uploads/2020/01/eim.png)
 
@@ -2990,6 +3007,10 @@ IIoT Platform
 </tbody>
 </table>    
 
+-----------
+![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
+-------
+![]()
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
 -------
