@@ -2838,7 +2838,8 @@ IIoT Platform
 - [A Survey of Big Data Machine Learning Applications Optimization in Cloud Data Centers and Networks](https://arxiv.org/ftp/arxiv/papers/1910/1910.00731.pdf)
 - [New (and existing) Trending Data Infrastructure Vendors to Watch (2018)](https://medium.com/@gregpschulz/new-and-existing-trending-data-infrastructure-vendors-to-watch-2018-a6a86fa18a47)
 - [Comparison Analysis of SAP Solutions on Public Infrastructure Clouds](https://blogs.sap.com/2017/03/24/comparison-analysis-of-sap-solutions-on-public-infrastructure-clouds/)
-
+--------
+![Tech_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_4.0.png)
 
 ---------------------------
 -----------------------------
@@ -3010,7 +3011,7 @@ IIoT Platform
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
 -------
-![]()
+![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
 -------
@@ -3139,7 +3140,10 @@ IIoT Platform
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 - [How to build an AI Platform](https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8)
 
-
+-------
+![Tech_DS](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_DS.png)
+--------
+![Tech_AI](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_AI.png)
 --------
 ![Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide39](https://zinnov.com/wp-content/uploads/2020/04/Enterprise-software-PE-report-summary-DRS-18Mar2020-Slide39.jpeg)
 -----------
