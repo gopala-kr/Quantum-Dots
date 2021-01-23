@@ -184,6 +184,8 @@
 
 -----------
 ![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
+---------------
+![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
 
 -----------------------
 ----------------------------
@@ -197,6 +199,7 @@
 ![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
 ------
 ![lsMXa_CDqxGzdP1YD2RXGA](https://miro.medium.com/max/3576/1*lsMXa_CDqxGzdP1YD2RXGA.png)
+
 ----------------
 ------------
 
