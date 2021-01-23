@@ -2,6 +2,8 @@
 -------------------
 ![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
 --------------
+![Finance-IndustrySector-Pay-Ranking-300Hours](https://300hours.com/wp-content/uploads/2021/01/Finance-IndustrySector-Pay-Ranking-300Hours.png)
+---------------
 ![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
 -------------
 ![finance-as-a-career-8-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-8-1024.jpg?cb=1405484279)
@@ -151,6 +153,7 @@
 ---------
 ![planning-process-830x650-12jun15-en](https://www.icann.org/sites/default/files/assets/planning-process-830x650-12jun15-en.png)
 ---------
+------------------------
 ![]()
 ---------
 ![]()
@@ -181,13 +184,15 @@
 ---------
 ![]()
 ---------
-![]()
+![cfa-careers-breakdown](https://ipassfinanceexams.com/wp-content/uploads/2014/03/cfa-careers-breakdown.jpg)
 ---------
-![]()
+![/cfa-level-1](https://ipassfinanceexams.com/wp-content/uploads/2016/03/cfa-level-1.jpg)
 ---------
-![]()
+-----------------
+![CFA%20L1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L1.jpg)
 ---------
-![]()
+![CFA%20L2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L2.jpg)
 ---------
-![]()
+![CFA%20L3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L3.jpg)
 ---------
+--------------------
