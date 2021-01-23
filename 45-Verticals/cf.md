@@ -3,7 +3,6 @@
 ![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
 --------------
 ![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
-
 -------------
 ![finance-as-a-career-8-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-8-1024.jpg?cb=1405484279)
 -------------
@@ -15,7 +14,10 @@
 --------------------
 ![primary_market](https://s3.amazonaws.com/thinkific/file_uploads/4670/images/9e7/96c/dd8/primary_market.png)
 -------------------
-
+![Comprehensive+support+for+the+finance+leader](https://slideplayer.com/slide/17050798/98/images/6/Comprehensive+support+for+the+finance+leader.jpg)
+-----------------
+![Comprehensive+support+for+the+finance+leader](https://slideplayer.com/slide/17050798/98/images/8/Comprehensive+support+for+the+finance+leader.jpg)
+-----------------
 ![finance-as-a-career-10-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-10-1024.jpg?cb=1405484279)
 ---------------------
 ![fpA-org-chart-960x370](https://wsp-blog-images.s3.amazonaws.com/uploads/2018/04/24150936/fpA-org-chart-960x370.jpg)
@@ -62,10 +64,24 @@
 ![orgchart](https://www.mvwa.us/OrgChart/orgchart.jpg)
 ----------
 ![Organization-Structure-Budgetary-Contro](https://www.bbamantra.com/wp-content/uploads/2017/12/Organization-Structure-Budgetary-Control.jpg)
---------------
-![organisation_chart2020](https://www.bom.mu/sites/default/files/organisation_chart2020.jpg)
--------
 
+-----------------
+-------
+![four-budgeting-methods-1024x399](https://cdn.corporatefinanceinstitute.com/assets/four-budgeting-methods-1024x399.png)
+--------------
+![Capital+Budgeting+Methods](https://slideplayer.com/slide/3556176/12/images/6/Capital+Budgeting+Methods.jpg)
+---------------
+![npv-4-1024](https://image.slidesharecdn.com/npv-150704135551-lva1-app6891/95/npv-4-1024.jpg?cb=1436018203)
+-----------------
+![671525585825813](https://www.researchgate.net/profile/Tomasz_Wnuk-Pel/publication/275544653/figure/tbl1/AS:671525585825813@1537115584624/Proportion-of-companies-that-use-each-capital-budgeting-method.png)
+---------
+![wacc](https://cdn.corporatefinanceinstitute.com/assets/wacc.png)
+--------------
+![Factors-affecting-Cost-of-Capital.](https://efinancemanagement.com/wp-content/uploads/2018/04/Factors-affecting-Cost-of-Capital.png)
+----------
+![139f8d2718e7681b47bbefd393ab336e](https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/139f8d2718e7681b47bbefd393ab336e/thumb_1200_927.png)
+---------------------
+------------
 ![Budget](https://www.businessballs.com/pluginfile.php/25132/mod_accelerate/attachments/792/Budget%20Heirarchy.png)
 -------
 ![12083724](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12083724/finance-job-titles-hierarchy-Ongig.png)
