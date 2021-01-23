@@ -1,8 +1,7 @@
 ---------------
 -------------------
 ![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
---------------
-![Finance-IndustrySector-Pay-Ranking-300Hours](https://300hours.com/wp-content/uploads/2021/01/Finance-IndustrySector-Pay-Ranking-300Hours.png)
+
 ---------------
 ![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
 -------------
