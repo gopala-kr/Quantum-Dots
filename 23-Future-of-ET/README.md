@@ -605,6 +605,8 @@
 - [Enterprise Network Architectures on AWS](https://www.youtube.com/watch?v=eTMwx9nO5Nk)
 - [Enterprise Architecture & Digital Transformation](https://www.youtube.com/watch?v=nQVLzvExziE)
 - [Enterprise architecture in the age of cloud services](https://www.ibm.com/developerworks/rational/library/enterprise-architecture-cloud/index.html)
+- [Business Architecture: Putting
+“Business” into Enterprise Architecture](https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/docs/putting_business_into_busine.pdf)
 
 ----------------------
 
