@@ -394,6 +394,9 @@
 ![Tech_SalesM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SalesM.png)
 -------
 ![Tech_SCM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SCM.jpg)
+
+-------
+![20130306supply_chain_strategies_ex3](https://www.supplychainquarterly.com/ext/resources/images/issues/2013/01/figures/20130306supply_chain_strategies_ex3.jpg)
 ------
 ![Tech_HR](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_HR.png)
 -----
