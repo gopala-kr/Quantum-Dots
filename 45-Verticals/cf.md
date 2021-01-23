@@ -4,8 +4,20 @@
 --------------
 ![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
 
+-------------
+![finance-as-a-career-8-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-8-1024.jpg?cb=1405484279)
+-------------
+![finance-as-a-career-3-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-3-1024.jpg?cb=1405484279)
+-----------
+![finance-as-a-career-9-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-9-1024.jpg?cb=1405484279)
+-----------
+![finance-as-a-career-30-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-30-1024.jpg?cb=1405484279)
 --------------------
+![primary_market](https://s3.amazonaws.com/thinkific/file_uploads/4670/images/9e7/96c/dd8/primary_market.png)
+-------------------
 
+![finance-as-a-career-10-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-10-1024.jpg?cb=1405484279)
+---------------------
 ![fpA-org-chart-960x370](https://wsp-blog-images.s3.amazonaws.com/uploads/2018/04/24150936/fpA-org-chart-960x370.jpg)
 ---------------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
@@ -121,7 +133,7 @@
 ---------
 ![budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03](https://www.slideteam.net/media/catalog/product/cache/960x720/b/u/budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03.jpg)
 ---------
-![]()
+![planning-process-830x650-12jun15-en](https://www.icann.org/sites/default/files/assets/planning-process-830x650-12jun15-en.png)
 ---------
 ![]()
 ---------
