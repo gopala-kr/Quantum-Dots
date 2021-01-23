@@ -457,6 +457,10 @@
 - [Enterprise Architecture and Services in Cloud Computing: A Survey](https://www.researchgate.net/publication/328403874_Enterprise_Architecture_and_Services_in_Cloud_Computing_A_Survey)
 - [A Design Of Government Enterprise Architecture Framework Based On G-Cloud Services](http://www.ijstr.org/final-print/sep2019/A-Design-Of-Government-Enterprise-Architecture-Framework-Based-On-G-cloud-Services.pdf)
 - [Tailoring Enterprise Architecture for CloudEcosystems](https://essay.utwente.nl/64258/1/MSc%20Thesis-Final%20-Tritsiniotis-.pdf)
+- [Enterprise Architect Certifications](https://www.businessnewsdaily.com/10758-best-enterprise-architect-certifications.html)
+- [Certified Architect (Open CA)](https://www.opengroup.org/certifications/certified-architect-open-ca)
+- [Professional Certifications - Experience based](https://www.opengroup.org/professional-certifications-experience-based)
+- [Directory of Open Professions Certified People](https://www.opengroup.org/openprofessions/candidate/certifiedIndividuals.html)
 
 
 -----------
@@ -476,6 +480,12 @@
 ![subtractive_mfg_circa_2017](https://www.ame.org/files/subtractive_mfg_circa_2017.png)
 ---------
 ![audit_drb](https://dalbanger.files.wordpress.com/2017/05/audit_drb.png)
+--------
+![enterprise-architects-domain-architects](https://www.visual-paradigm.com/servlet/editor-content/guide/enterprise-architecture/enterprise-architects-vs-solution-architects-vs-domain-architects/sites/7/2020/01/enterprise-architects-domain-architects.png)
+------
+![20technical](https://www.leanix.net/hs-fs/hubfs/Blog/enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png?width=750&name=enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png)
+---------
+![solutionarchitect](https://1.bp.blogspot.com/-MEeQzaPGllE/USr9RVk-cnI/AAAAAAAAByw/O5A5h6RQ4YE/s1600/solutionarchitect.png)
 ------------------
 
 ##### Enterprise Architecture Example :
