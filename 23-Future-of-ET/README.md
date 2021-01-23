@@ -371,6 +371,34 @@
 -------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 
+-------------
+-------------
+
+![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
+-----
+![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
+----------
+![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
+-------
+![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
+-----
+![Tech_Banking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Banking.png)
+------
+![Tech_capitalM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_capitalM.png)
+--------
+![Tech_Insurance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Insurance.png)
+---------
+![Tech_SalesM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SalesM.png)
+-------
+![Tech_SCM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SCM.jpg)
+------
+![Tech_HR](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_HR.png)
+-----
+![Tech_Marketing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Marketing.png)
+-----------
+![Tech_Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Strategy.png)
+-------
+![Tech_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_4.0.png)
 -----
 ------------
 
@@ -1648,10 +1676,12 @@ SAP Portfolio
 --------------
 ![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
 -----------------
-- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
 
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
 -------------
+
+- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
+
 ![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
 
 ----------
@@ -1693,32 +1723,6 @@ SAP Portfolio
 ------
 ![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
 
--------------
--------------
-
-![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
------
-![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
-----------
-![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
--------
-![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
------
-![Tech_Banking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Banking.png)
-------
-![Tech_capitalM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_capitalM.png)
---------
-![Tech_Insurance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Insurance.png)
----------
-![Tech_SalesM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SalesM.png)
--------
-![Tech_SCM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_SCM.jpg)
-------
-![Tech_HR](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_HR.png)
------
-![Tech_Marketing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Marketing.png)
------------
-![Tech_Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Strategy.png)
 -------
 ----------
 ![Tech_Google](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Google.png)
