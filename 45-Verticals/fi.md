@@ -1,5 +1,11 @@
 ---------------
+-------------------
+![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
 --------------
+![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
+
+--------------------
+
 ![fpA-org-chart-960x370](https://wsp-blog-images.s3.amazonaws.com/uploads/2018/04/24150936/fpA-org-chart-960x370.jpg)
 ---------------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
@@ -30,11 +36,6 @@
 --------
 ![image001](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image015.jpg)
 ---------------
--------------------
-![ca2a2727a06e707b70e2d052f246c7d5](https://i.pinimg.com/originals/ca/2a/27/ca2a2727a06e707b70e2d052f246c7d5.png)
-
---------------------
-![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
 ------
 ![finance](https://solvanni.com/wp-content/uploads/2020/09/finance-1024x535.png)
 -------
