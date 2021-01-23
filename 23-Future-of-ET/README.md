@@ -951,8 +951,6 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![Cloud_Computing_Value_Chain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Cloud_Computing_Value_Chain.PNG)
 ------
 ![Edge-Computing-Graphic-1024x576](https://cbi-research-portal-uploads.s3.amazonaws.com/2019/01/08144511/Edge-Computing-Graphic-1024x576.png)
---------
-![digital-business-model-example](https://528484-1683244-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/02/digital-business-model-example.png.webp)
 -----
 ![riNmHYG0FHQlJhvTsaDxRA](https://miro.medium.com/max/1024/1*riNmHYG0FHQlJhvTsaDxRA.png)
 -----------------
