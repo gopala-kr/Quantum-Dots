@@ -515,6 +515,8 @@
 
 ----------
 - [TOGAF® Standard](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
+- [TOGAF 9 Certified Tools](https://certification.opengroup.org/register/togaf-tool?_ga=2.47068711.1074919703.1611413289-1163557877.1611413167)
+- [TOGAF White Papers](https://publications.opengroup.org/white-papers)
 - [LEAF Standard](http://www.hosiaisluoma.fi/LEAF/index.htm?goto=1:4:1:3:3:281)
 - [Zachman Standard](https://www.zachman.com/about-the-zachman-framework)
 - [THE DEFINITIVE GUIDE TO Enterprise Architecture](https://www.leanix.net/en/enterprise-architecture)
