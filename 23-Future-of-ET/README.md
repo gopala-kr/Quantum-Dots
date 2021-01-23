@@ -480,8 +480,7 @@
 ![subtractive_mfg_circa_2017](https://www.ame.org/files/subtractive_mfg_circa_2017.png)
 ---------
 ![audit_drb](https://dalbanger.files.wordpress.com/2017/05/audit_drb.png)
---------
-![enterprise-architects-domain-architects](https://www.visual-paradigm.com/servlet/editor-content/guide/enterprise-architecture/enterprise-architects-vs-solution-architects-vs-domain-architects/sites/7/2020/01/enterprise-architects-domain-architects.png)
+
 ------
 ![20technical](https://www.leanix.net/hs-fs/hubfs/Blog/enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png?width=750&name=enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png)
 ---------
@@ -489,6 +488,8 @@
 
 ------
 -----------
+- [TOGAF® Standard, Version 9.2](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
+
 ![34_contentfwk3](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk3.png)
 -------
 ![35_viewpoints](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/35_viewpoints.png)
@@ -498,14 +499,17 @@
 ![01_structure](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/01_structure.png)
 -------
 ![50_concepts](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/50_concepts.png)
------
-![02_concepts4](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png)
+
 -----------
 ![50_org](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/50_org.png)
 -----
 ![34_contentfwk2](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk2.png)
 -----
 ![34_contentfwk6](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk6.png)
+-----
+![02_concepts4](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png)
+-----
+![20_engagement](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/20_engagement.png)
 -----
 ![52_skills1_generic](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/52_skills1_generic.png)
 -------
