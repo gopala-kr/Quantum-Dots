@@ -190,11 +190,11 @@
 
 ![CFA-Level-2-exam-tips-focus-area](https://www.wallstreetmojo.com/wp-content/uploads/2016/09/CFA-Level-2-exam-tips-focus-area.png)
 -----------------
-![CFA%20L1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L1.jpg)
+![CFA%20L1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/L1_CFA.jpg)
 ---------
-![CFA%20L2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L2.jpg)
+![CFA%20L2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/L2_CFA.jpg)
 ---------
-![CFA%20L3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/CFA%20L3.jpg)
+![CFA%20L3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/L3_CFA.jpg)
 ---------
 ![compare-financial-qualifications-difficulty-cfa-frm-caia-esg-imc-investment-foundations_orig](https://www.300hours.com/wp-content/uploads/2020/12/compare-financial-qualifications-difficulty-cfa-frm-caia-esg-imc-investment-foundations_orig.png)
 ---------
