@@ -388,5 +388,7 @@
 ![158049037502020200131_trillion_dollar_companies_area](https://image.cnbcfm.com/api/v1/image/106367277-158049037502020200131_trillion_dollar_companies_area.png?v=1580490428&w=1600&h=900)
 -------
 ![tech-giant-billion-dollar-acquisitions](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/04/05101536/tech-giant-billion-dollar-acquisitions-05.05.20205.png)
+------
+![Unicorn-Market-Map-4-122220](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/12/22133635/Unicorn-Market-Map-4-122220.png)
 -----------
 ---------------
