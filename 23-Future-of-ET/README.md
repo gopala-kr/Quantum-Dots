@@ -3230,6 +3230,11 @@ IIoT Platform
 ![modificationDate](https://wiki.scn.sap.com/wiki/download/attachments/484941719/SAC%20Overview.jpg?version=1&modificationDate=1554808239000&api=v2)
 ----------------
 ![LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU](https://media-exp1.licdn.com/dms/image/C5612AQEdHaDNbtuMUg/article-inline_image-shrink_1000_1488/0/1539148820380?e=1616025600&v=beta&t=LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU)
+-------------
+![Snag_2f541c9c](https://saphanajourney.com/wp-content/uploads/2021/01/Snag_2f541c9c-2048x1044.png)
+---------
+![Snag_2f580d56](https://saphanajourney.com/wp-content/uploads/2021/01/Snag_2f580d56-2048x895.png)
+
 ---------
 ----------
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
