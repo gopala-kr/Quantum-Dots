@@ -37,5 +37,9 @@
 - [technologyreview](https://www.technologyreview.com/)
 - [biztechmagazine](https://biztechmagazine.com/)
 - [thenextweb](https://thenextweb.com/)
+- [cio.economictimes](https://cio.economictimes.indiatimes.com/)
+- [IDG-cio](https://www.idg.com/our-brands/cio/)
+- [ciostory](https://ciostory.com/)
+- [enterprisersproject](https://enterprisersproject.com/)
 
 ------------------
