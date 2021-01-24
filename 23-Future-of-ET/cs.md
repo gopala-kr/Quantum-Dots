@@ -2,8 +2,11 @@
 
 -----
 
-
-- [Gartner CIO](https://www.gartner.com/en/information-technology/insights/trending-topics)
+- [highscalability](http://highscalability.com/)
+- [digitalistmag](https://www.digitalistmag.com/)
+- [techcrunch](https://techcrunch.com/)
+- [Gartner cio](https://www.gartner.com/en/information-technology/insights/trending-topics)
+- [joelonsoftware](https://www.joelonsoftware.com/)
 - [ctovision](https://ctovision.com/)
 - [cioinsight](https://www.cioinsight.com/)
 - [CIO Reddit](https://old.reddit.com/r/CIO/)
@@ -20,6 +23,19 @@
 - [thectoadvisor](https://thectoadvisor.com/blog/)
 - [ctothink](https://www.ctothink.com/episodes)
 - [searchcio](https://searchcio.techtarget.com/)
-
+- [dynamiccio](https://www.dynamiccio.com/)
+- [theceo](https://theceo.in/)
+- [chiefexecutive](https://chiefexecutive.net/)
+- [entrepreneur-ceos](https://www.entrepreneur.com/topic/ceos)
+- [forbes](https://www.forbes.com/worlds-billionaires/?sh=812fae158649)
+- [Technology Industry](https://www.cio.com/category/technology-business/)
+- [zdnet](https://www.zdnet.com/topic/enterprise-software/)
+- [gigaom](https://gigaom.com/)
+- [diginomica](https://diginomica.com/)
+- [computerworld](https://www.computerworld.com/in/)
+- [hbr.org](https://hbr.org/)
+- [technologyreview](https://www.technologyreview.com/)
+- [biztechmagazine](https://biztechmagazine.com/)
+- [thenextweb](https://thenextweb.com/)
 
 ------------------
