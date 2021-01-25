@@ -1111,5 +1111,11 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 -------
 ![pumping-system](https://www.gilkes.com/media/1913/pumping-system.png?width=1453&height=738&mode=max)
 
+------
+![automotive-maas-wheel](https://www.ibm.com/cloud/architecture/images/architecture/automotive-maas-wheel.png)
+
+-----------
+![Ww59hphyGke9LkMU](https://miro.medium.com/max/1050/0*Ww59hphyGke9LkMU)
+
 ------------
 --------------
