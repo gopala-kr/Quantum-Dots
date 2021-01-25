@@ -195,17 +195,7 @@
 ![budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03](https://www.slideteam.net/media/catalog/product/cache/960x720/b/u/budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03.jpg)
 ---------
 ------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin0.jpg)
-------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.1.jpg)
-------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.2.jpg)
-------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.3.jpg)
-------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.4.jpg)
-------------------------
-![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.5.jpg)
+![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.jpg)
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin2.jpg)
 ------------------------
@@ -249,6 +239,8 @@
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin22.jpg)
 ------------------------
+![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin23.jpg)
+------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin24.jpg)
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin25.jpg)
@@ -279,6 +271,10 @@
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin38.jpg)
 ------------------------
+![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin39.jpg)
+------------------------
+![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin40.jpg)
+------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin41.jpg)
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin42.jpg)
@@ -294,6 +290,8 @@
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin47.jpg)
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin48.jpg)
+------------------------
+![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin49.jpg)
 ---------
 ![]()
 ---------
