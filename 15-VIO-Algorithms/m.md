@@ -679,6 +679,8 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 ![/had-path2ad](https://www.renesas.com/in/en/img/solutions/automotive/adas/had-path2ad.png)
 -------------
 ---------------------
+![09F97364D69B](https://www.eetindia.co.in/wp-content/uploads/sites/4/2020/05/E487655F-A4F6-4B0D-AF00-09F97364D69B.jpeg?resize=800%2C560)
+--------------
 
 ![R85BgB2X_FDsm5Hew3pLAA](https://miro.medium.com/max/2490/1*R85BgB2X_FDsm5Hew3pLAA.png)
 ----------------
@@ -1099,5 +1101,15 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 ![automotive_scn_4w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_4w.PNG)
 ---------
 ![automotive_scn_2w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_2w.PNG)
+
+----------
+------------
+![automotive-business-models-18-1024](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-18-1024.jpg?cb=1445406367)
+
+---------
+![nokia_future_x_art_final_campaign_page](https://www.nokia.com/sites/default/files/inline-images/nokia_future_x_art_final_campaign_page%20%282%29.jpg)
+-------
+![pumping-system](https://www.gilkes.com/media/1913/pumping-system.png?width=1453&height=738&mode=max)
+
 ------------
 --------------
