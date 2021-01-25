@@ -1574,6 +1574,7 @@ Client Demo/Transformation Journey Tools/:
 - [SAP (HANA) Cheat Sheet](https://blogs.sap.com/2020/05/09/sap-hana-cheat-sheet/)
 - [openSAP: Free SAP Training](https://open.sap.com/)
 - [developers.sap.com](https://developers.sap.com/tutorial-navigator.html)
+- [Certifications](https://training.sap.com/certification/validity)
 
 -----
 
