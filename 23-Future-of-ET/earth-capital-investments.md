@@ -390,5 +390,7 @@
 ![tech-giant-billion-dollar-acquisitions](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/04/05101536/tech-giant-billion-dollar-acquisitions-05.05.20205.png)
 ------
 ![Unicorn-Market-Map-4-122220](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/12/22133635/Unicorn-Market-Map-4-122220.png)
+-----
+![kaplan-alternative-lending](https://www.kaplancollectionagency.com/wp-content/uploads/2015/10/kaplan-alternative-lending.png)
 -----------
 ---------------
