@@ -21,10 +21,11 @@
 ---------
 ![31094638](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/31094638/top-25-c-level-job-titles-pie-chart-Ongig.png)
 
-------
-![CorporateGovernanceFramework](https://www.azbil.com/csr/basic/image/CorporateGovernanceFramework.jpg)
 ---------------
 ![top-25-c-level-job-titles-pie-chart-with-government-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/01/31100520/top-25-c-level-job-titles-pie-chart-with-government-Ongig.png)
+
+------
+![CorporateGovernanceFramework](https://www.azbil.com/csr/basic/image/CorporateGovernanceFramework.jpg)
 
 ----------
 ![slide_1](https://slideplayer.com/14768997/90/images/slide_1.jpg)
@@ -76,9 +77,4 @@
 -----------------
 ![images](https://investors.tatamotors.com/financials/72-ar-html/images/174.jpg)
 -----------------
-![rcg1_6](https://investors.tatamotors.com/financials/74-ar-html/images/rcg1_6.jpg)
---------------
-![1435869569965857](https://static.seekingalpha.com/uploads/2015/7/2/2626451-1435869569965857-Joseph-Harry_origin.jpg)
----------------
-![img_governance_01_en_0805](https://www.jamco.co.jp/en/ir/governance/governance/main/01/teaserItems1/0/binaryNodeName/img_governance_01_en_0805.jpg)
-------------
+------------------------
