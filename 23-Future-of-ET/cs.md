@@ -42,4 +42,20 @@
 - [ciostory](https://ciostory.com/)
 - [enterprisersproject](https://enterprisersproject.com/)
 
+------
+
+- [supercfo](https://supercfo.com/)
+- [mycfo](https://mycfo.in/)
+- [cfo](https://www.cfo.com/)
+- [cfo-magazine](https://www.cfo.com/cfo-magazine/)
+- [cfodailynews](https://www.cfodailynews.com/)
+- [cfodive](https://www.cfodive.com/)
+- [cfocentre](https://www.cfocentre.co.in/our-approach/)
+- [globalcfo](https://globalcfo.in/blog/)
+- [starterscfo](https://www.starterscfo.com/)
+- [fingurus](https://fingurus.com/)
+- [smecfo](http://www.smecfo.asia/what-we-do/)
+- [nowcfo](https://www.nowcfo.com/services/)
+- [financialdirector](https://www.financialdirector.co.uk/)
+
 ------------------
