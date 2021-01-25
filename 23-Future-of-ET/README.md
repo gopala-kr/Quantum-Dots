@@ -445,6 +445,8 @@
 
 #### Enterprise Architecture Modeling
 
+
+
 [Back to top](#contents)
 
 - [The Practice of Enterprise Architecture](http://kotusev.com/)
@@ -470,6 +472,8 @@
 - [Professional Certifications - Experience based](https://www.opengroup.org/professional-certifications-experience-based)
 - [Directory of Open Professions Certified People](https://www.opengroup.org/openprofessions/candidate/certifiedIndividuals.html)
 
+-------
+![EA-1920x883](https://itpeernetwork.intel.com/wp-content/uploads/sites/38/2019/03/EA-1920x883.png)
 
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
@@ -540,6 +544,9 @@
 ![52_skills6_tech](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/52_skills6_tech.png)
 -------
 ![52_skills7_legal](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/52_skills7_legal.png)
+
+-----
+![Screenshot%202019-02-27%20at%2010.42.35](https://cdn2.hubspot.net/hubfs/2570476/Blog/Screenshot%202019-02-27%20at%2010.42.35.png)
 
 ------
 --------------
@@ -636,6 +643,9 @@
 ----------------------
 
 [Back to top](#contents)
+
+![SoS_ETC_Ovrvw](https://eaasos.info/Content/Resources/Images/SoS_ETC_Ovrvw.jpg)
+----------
 
 ![11ace4562605b17ff2b06f277729588c](https://i.pinimg.com/originals/11/ac/e4/11ace4562605b17ff2b06f277729588c.png)
 ------------
