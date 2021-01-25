@@ -1,14 +1,5 @@
------------
---------------
-![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
------
-![Tech_Banking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Banking.png)
-------
-![Tech_capitalM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_capitalM.png)
---------
-![Tech_Insurance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Insurance.png)
------------
----------------
+---------------------------
+
 ![introduction](https://image.slidesharecdn.com/introductiontothecorporategovernance-161109181749/95/introduction-to-the-corporate-governance-15-1024.jpg?cb=1478715578)
 ------------
 ![Corporate-Governance-structure](https://www.nordea.com/Images/33-342040/Corporate-Governance-structure.jpeg)
@@ -88,6 +79,15 @@
 ![images](https://investors.tatamotors.com/financials/72-ar-html/images/174.jpg)
 
 
+-----------
+--------------
+![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
+-----
+![Tech_Banking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Banking.png)
+------
+![Tech_capitalM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_capitalM.png)
+--------
+![Tech_Insurance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Insurance.png)
 
 ---------------
 -------------------
