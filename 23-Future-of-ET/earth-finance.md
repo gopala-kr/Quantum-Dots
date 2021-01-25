@@ -402,6 +402,10 @@
 ![it-in-banking-v0-2-40-1024](https://image.slidesharecdn.com/04392cc8-5c49-4214-9b4d-5fd7e5d5d116-150805030430-lva1-app6892/95/it-in-banking-v0-2-40-1024.jpg?cb=1438744070)
 --------
 ![it-in-banking-v0-2-45-1024](https://image.slidesharecdn.com/04392cc8-5c49-4214-9b4d-5fd7e5d5d116-150805030430-lva1-app6892/95/it-in-banking-v0-2-45-1024.jpg?cb=1438744070)
+-------------
+![insurance-level-100-diagram](https://www.ibm.com/cloud/architecture/images/architecture/insurance-level-100-diagram.png)
+---------
+![parsys_1568955809](https://www.agcs.allianz.com/about-us/digital-transformation-and-insurance/_jcr_content/root/parsys_1568955809/teaser_group_695902967/component-bottom/row-parsys/teaser/image.img.png/1563461170927/trendcompass.png)
 
 ---------
 ------------------------
