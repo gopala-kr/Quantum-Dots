@@ -573,7 +573,7 @@
 ---------
 ![top-10-us-financial-companies](https://disfold.com/wp-content/uploads/2020/02/top-10-us-financial-companies.jpg)
 ---------
-![]()
+![fin_inv20](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_inv20.png)
 ---------
 ![]()
 ---------
