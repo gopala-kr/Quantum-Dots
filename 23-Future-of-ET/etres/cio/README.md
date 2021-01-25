@@ -13,3 +13,10 @@
 -----------------
 ![tech_cio_ppsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_ppsm.png)
 ---------------
+![tech_cio_se](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_se.png)
+----------------
+![tech_cio_sec](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_sec.png)
+---------------
+
+![tech_cio_ta](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_ta.png)
+-----------
