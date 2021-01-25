@@ -287,6 +287,15 @@
 
 ----------
 ------------
+![State-of-Fintech-Updated-Pinwheel](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/07/29121858/2020.07.13-State-of-Fintech-Updated-Pinwheel.png)
+
+-----
+![containerId=prAP46239420&attachmentId=47378027](https://www.idc.com/getfile.dyn?containerId=prAP46239420&attachmentId=47378027)
+
+--------
+![0fe694f9b855c2d734b7eadbb6bd1cbc](https://i.pinimg.com/originals/0f/e6/94/0fe694f9b855c2d734b7eadbb6bd1cbc.jpg)
+
+--------------------
 ![Au_NZ-Accounting-Software-Market-Aug-2020](https://valueadders.com.au/wp-content/uploads/2020/08/Au_NZ-Accounting-Software-Market-Aug-2020.jpg)
 
 -----------
@@ -511,12 +520,13 @@
 
 ---------
 ---------------
+
+
 - [2020 banking and capital markets outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook-2020.html)
 
 ![6305_fig1](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig1.jpg)
 
 ----------
-
 ![6826_CFS-banking-capital-markets-outlook](https://www2.deloitte.com/content/dam/insights/us/articles/6826_CFS-banking-capital-markets-outlook/figures/6826_Figure11_1.jpg)
 -------------
 ![6305_fig2](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig2.jpg)
@@ -540,6 +550,12 @@
 --------
 ![6825_Figure6](https://www2.deloitte.com/content/dam/insights/us/articles/6825_CFS-investment-management-outlook/figures/6825_Figure6.jpg)
 
+----
+![screen-shot-2020-10-29-at-1-58-23-pm_orig](middlegamevc.com/uploads/8/6/0/0/86007516/screen-shot-2020-10-29-at-1-58-23-pm_orig.png)
+
+-----
+![aw9VExEg9i546wQB5U](https://miro.medium.com/max/7000/1*aw9VExEg9i546wQB5U-rmw.jpeg)
+
 -------------
 ----------
 ![403541212](https://www.snl.com/articles/403541212.png)
@@ -553,9 +569,9 @@
 --------
 ![389121160826914](https://www.researchgate.net/profile/David_Tuesta/publication/291357307/figure/tbl2/AS:389121160826914@1469785122642/Catalog-of-the-main-products-and-services-offered-by-banks.png)
 ---------
-![]()
+![easset_upload_file45618_1798118_e](https://www.spglobal.com/marketintelligence/en/news-insights/research/easset_upload_file45618_1798118_e.png)
 ---------
-![]()
+![top-10-us-financial-companies](https://disfold.com/wp-content/uploads/2020/02/top-10-us-financial-companies.jpg)
 ---------
 ![]()
 ---------
