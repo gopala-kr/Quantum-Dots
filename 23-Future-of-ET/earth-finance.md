@@ -406,6 +406,8 @@
 ![insurance-level-100-diagram](https://www.ibm.com/cloud/architecture/images/architecture/insurance-level-100-diagram.png)
 ---------
 ![parsys_1568955809](https://www.agcs.allianz.com/about-us/digital-transformation-and-insurance/_jcr_content/root/parsys_1568955809/teaser_group_695902967/component-bottom/row-parsys/teaser/image.img.png/1563461170927/trendcompass.png)
+-------
+![5d4c4e8cd0c436094c698ed7](https://i.insider.com/5d4c4e8cd0c436094c698ed7?width=1100&format=jpeg&auto=webp)
 
 ---------
 ------------------------
@@ -509,7 +511,37 @@
 
 ---------
 ---------------
+- [2020 banking and capital markets outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook-2020.html)
 
+![6305_fig1](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig1.jpg)
+
+----------
+
+![6826_CFS-banking-capital-markets-outlook](https://www2.deloitte.com/content/dam/insights/us/articles/6826_CFS-banking-capital-markets-outlook/figures/6826_Figure11_1.jpg)
+-------------
+![6305_fig2](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig2.jpg)
+
+-------------
+![6305_fig3](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig3.jpg)
+------------
+![6305_fig4](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig4.jpg)
+
+----------
+![6305_fig5](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig5.jpg)
+
+--------
+![6305_fig6](https://www2.deloitte.com/content/dam/insights/us/articles/6305_Banking-outlook/figures/6305_fig6.jpg)
+---------
+![6826_Figure3](https://www2.deloitte.com/content/dam/insights/us/articles/6826_CFS-banking-capital-markets-outlook/figures/6826_Figure3.jpg)
+
+---------
+![6827_Figure8](https://www2.deloitte.com/content/dam/insights/us/articles/6827_CFS_insurance-industry-outlook/figures/6827_Figure8.jpg)
+
+--------
+![6825_Figure6](https://www2.deloitte.com/content/dam/insights/us/articles/6825_CFS-investment-management-outlook/figures/6825_Figure6.jpg)
+
+-------------
+----------
 ![403541212](https://www.snl.com/articles/403541212.png)
 
 ---------
@@ -517,7 +549,9 @@
 ---------
 ![403531553](https://www.snl.com/articles/403531553.png)
 ---------
-![]()
+![maxresdefault](https://i.ytimg.com/vi/5ld2x94RuH0/maxresdefault.jpg)
+--------
+![389121160826914](https://www.researchgate.net/profile/David_Tuesta/publication/291357307/figure/tbl2/AS:389121160826914@1469785122642/Catalog-of-the-main-products-and-services-offered-by-banks.png)
 ---------
 ![]()
 ---------
@@ -538,7 +572,10 @@
 ![]()
 ---------
 ![]()
+
 ---------
+--------------
+
 ![cfa-careers-breakdown](https://ipassfinanceexams.com/wp-content/uploads/2014/03/cfa-careers-breakdown.jpg)
 ---------
 ![/cfa-level-1](https://ipassfinanceexams.com/wp-content/uploads/2016/03/cfa-level-1.jpg)
