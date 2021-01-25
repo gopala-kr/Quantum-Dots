@@ -567,6 +567,13 @@
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
 -----------
 ![impact-automotive-business-models-19-1024](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-19-1024.jpg?cb=1445406367)
+
+-----
+![etom_business_architecture_ntt_data](https://www.eenewsautomotive.com/images/01-edit-photo-uploads/2014/2014-10-october/ntt-data/etom_business_architecture_ntt_data.jpg)
+
+----
+![150805030430](https://image.slidesharecdn.com/04392cc8-5c49-4214-9b4d-5fd7e5d5d116-150805030430-lva1-app6892/95/it-in-banking-v0-2-8-1024.jpg?cb=1438744070)
+
 ----------
 ![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
 ----------
