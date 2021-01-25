@@ -373,6 +373,8 @@
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
 -------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
+--------
+![1445406367](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-13-1024.jpg?cb=1445406367)
 
 -------------
 -------------
@@ -492,6 +494,14 @@
 ---------
 ![solutionarchitect](https://1.bp.blogspot.com/-MEeQzaPGllE/USr9RVk-cnI/AAAAAAAAByw/O5A5h6RQ4YE/s1600/solutionarchitect.png)
 
+--------
+
+- [Five enterprise-architecture practices that add value to digital transformations](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/five-enterprise-architecture-practices-that-add-value-to-digital-transformations)
+
+![SVGZ-Five-enterprise-architecture-practices-Ex1](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Five%20enterprise%20architecture%20practices%20that%20add%20value%20to%20digital%20transformations/SVGZ-Five-enterprise-architecture-practices-Ex1.svgz)
+----
+![SVGZ-Five-enterprise-architecture-practices-Ex2](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Five%20enterprise%20architecture%20practices%20that%20add%20value%20to%20digital%20transformations/SVGZ-Five-enterprise-architecture-practices-Ex2.svgz)
+
 ------
 -----------
 - [TOGAF® Standard, Version 9.2](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
@@ -556,6 +566,8 @@
 
 ![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
 -----------
+![impact-automotive-business-models-19-1024](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-19-1024.jpg?cb=1445406367)
+----------
 ![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
 ----------
 ![ibm-reference-soa-for-banking](https://www.dragon1.com/images/ibm-reference-soa-for-banking.png)
@@ -645,6 +657,10 @@
 
 -----------
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
+
+--------
+![1512134615206](https://ppeaem.cebglobal.com/content/cebglobal/us/en/information-technology/architecture/ea-in-a-box/_jcr_content/content-left/columncontainer/columns_par2/cebimagebox/image.img.jpg/1512134615206.jpg)
+
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
 ---------
@@ -3166,6 +3182,9 @@ IIoT Platform
 </tbody>
 </table>    
 
+
+--------
+![archpatterns1](https://developer.ibm.com/developer/default/articles/bd-archpatterns1/images/fig1.png)
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
 -------
