@@ -6,6 +6,9 @@ changing world of
 financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/banks%20in%20the%20changing%20world%20of%20financial%20intermediation/global-banking-annual-review-2018.pdf)
 
 -----------
+![DIoYCwdWAAEw8hq](https://pbs.twimg.com/media/DIoYCwdWAAEw8hq.jpg)
+
+-----------
  
 ![Global-Banking-Review-ex4-Expanded-final](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Banks%20in%20the%20changing%20world%20of%20financial%20intermediation/SVGZ-Global-Banking-Review-ex4-Expanded-final.svgz)
 
