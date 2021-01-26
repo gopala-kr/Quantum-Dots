@@ -44,6 +44,8 @@
 
 ------
 
+- [knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu/topic/finance/)
+- [studyfinance](https://studyfinance.com/finance/)
 - [supercfo](https://supercfo.com/)
 - [mycfo](https://mycfo.in/)
 - [cfo](https://www.cfo.com/)
