@@ -645,9 +645,12 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin49.png)
 --------
 ![fin_iec](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_iec.jpg)
--------
-![](https://s3.studylib.net/store/data/008848942_1-8e06347eef5c3a4b8f4fbf642dfb4097.png)
-![](https://s3.studylib.net/store/data/008848942_1-8e06347eef5c3a4b8f4fbf642dfb4097.png)
+
+------------
+![b342ba4d44a10d18a5da33d0325eb70d](https://i.pinimg.com/originals/b3/42/ba/b342ba4d44a10d18a5da33d0325eb70d.png)
+-----------
+![8e06347eef5c3a4b8f4fbf642dfb4097](https://s3.studylib.net/store/data/008848942_1-8e06347eef5c3a4b8f4fbf642dfb4097.png)
+
 -------------
 ![bafeaa19db9afa9c58ea056a8dbfff48](https://s3.studylib.net/store/data/008868749_1-bafeaa19db9afa9c58ea056a8dbfff48.png)
 -----
@@ -660,7 +663,6 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![0bdd52dbdc3ecb5713bc9f3d11c0cfa1](https://i.pinimg.com/originals/0b/dd/52/0bdd52dbdc3ecb5713bc9f3d11c0cfa1.jpg)
 
 ---------------------
-
 --------------
 
 ![cfa-careers-breakdown](https://ipassfinanceexams.com/wp-content/uploads/2014/03/cfa-careers-breakdown.jpg)
