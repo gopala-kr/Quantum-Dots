@@ -59,5 +59,6 @@
 - [smecfo](http://www.smecfo.asia/what-we-do/)
 - [nowcfo](https://www.nowcfo.com/services/)
 - [financialdirector](https://www.financialdirector.co.uk/)
+- [adamodar](http://pages.stern.nyu.edu/~adamodar/) | [AswathDamodaranon](https://www.youtube.com/c/AswathDamodaranonValuation/playlists)
 
 ------------------
