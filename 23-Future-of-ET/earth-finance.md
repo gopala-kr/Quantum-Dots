@@ -1,9 +1,18 @@
 ---------------------------
+
+ - [Financial Services: Sizing the Sector in the Global Economy](https://www.investopedia.com/ask/answers/030515/what-percentage-global-economy-comprised-financial-services-sector.asp)
  - [WEF_The_future__of_financial_services](http://www3.weforum.org/docs/WEF_The_future__of_financial_services.pdf)
  - [New rules for an old
 game: Banks in the
 changing world of
 financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/financial%20services/our%20insights/banks%20in%20the%20changing%20world%20of%20financial%20intermediation/global-banking-annual-review-2018.pdf)
+- [2021 Financial Services Industry Outlook](https://www2.deloitte.com/us/en/insights/multimedia/podcasts/financial-services-industry-outlooks-2021.html/)
+- [2021 banking and capital markets outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook.html/)
+- [2021 commercial real estate outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/commercial-real-estate-outlook.html)
+- [2021 insurance outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/insurance-industry-outlook.html)
+- [2021 investment management outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/investment-management-industry-outlook.html)
+- [Annual Report on the Insurance Industry](https://www.treasury.gov/initiatives/fio/reports-and-notices/Documents/2019_FIO_Annual_Report.pdf)
+- [Insurance Industry at a Glance](https://www.iii.org/publications/insurance-handbook/introduction/insurance-industry-at-a-glance)
 
 -----------
 ![DIoYCwdWAAEw8hq](https://pbs.twimg.com/media/DIoYCwdWAAEw8hq.jpg)
@@ -528,6 +537,11 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![gov_cop](https://investors.tatamotors.com/financials/74-ar-html/images/gov_cop.jpg)
 -----------------
 ![images](https://investors.tatamotors.com/financials/72-ar-html/images/174.jpg)
+
+------
+- [Diversifying the path to CEO in financial services](https://www2.deloitte.com/us/en/insights/industry/financial-services/diversity-and-inclusion-in-financial-services-leadership.html)
+
+![6577_Fig1](https://www2.deloitte.com/content/dam/insights/us/articles/6577_FSI-Path-to-CEO-Report-Layout/figures/6577_Fig1.jpg)
 
 ---------
 ------------------------
