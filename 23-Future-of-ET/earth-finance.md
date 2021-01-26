@@ -643,6 +643,23 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin48.png)
 ------------------------
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin49.png)
+--------
+![fin_iec](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_iec.jpg)
+-------
+![](https://s3.studylib.net/store/data/008848942_1-8e06347eef5c3a4b8f4fbf642dfb4097.png)
+![](https://s3.studylib.net/store/data/008848942_1-8e06347eef5c3a4b8f4fbf642dfb4097.png)
+-------------
+![bafeaa19db9afa9c58ea056a8dbfff48](https://s3.studylib.net/store/data/008868749_1-bafeaa19db9afa9c58ea056a8dbfff48.png)
+-----
+![ultimate-accounting-cheat-sheet-1-1024](https://image.slidesharecdn.com/guidesheet13-140517160537-phpapp02/95/ultimate-accounting-cheat-sheet-1-1024.jpg?cb=1475292722)
+
+----------
+![width=960&crop=smart&auto=webp&s=2f4856c9cef8f4b4a8ac9162c90ee0c5dba69276](https://preview.redd.it/l3o6sqk4pf101.png?width=960&crop=smart&auto=webp&s=2f4856c9cef8f4b4a8ac9162c90ee0c5dba69276)
+
+---------------
+![0bdd52dbdc3ecb5713bc9f3d11c0cfa1](https://i.pinimg.com/originals/0b/dd/52/0bdd52dbdc3ecb5713bc9f3d11c0cfa1.jpg)
+
+---------------------
 
 --------------
 
