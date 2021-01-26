@@ -648,6 +648,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ------------
 ----------
+![Fundamentals-of-Accounting](https://efinancemanagement.com/wp-content/uploads/2020/06/Fundamentals-of-Accounting.png)
+-------------
 ![1-intro-to-financial-accounting-mba-14-1024](https://image.slidesharecdn.com/1-140903093035-phpapp02/95/1-intro-to-financial-accounting-mba-14-1024.jpg?cb=1409737203)
 ----------
 ![1-intro-to-financial-accounting-mba-21-1024](https://image.slidesharecdn.com/1-140903093035-phpapp02/95/1-intro-to-financial-accounting-mba-21-1024.jpg?cb=1409737203)
@@ -684,6 +686,22 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![products-business-financial-ratios-analysis-powerpoint-template](https://www.24point0.com/wp-content/uploads/2015/04/products-business-financial-ratios-analysis-powerpoint-template.jpg)
 ----------
 ![products-business-financial-notes-statement-powerpoint-template](https://www.24point0.com/wp-content/uploads/2015/04/products-business-financial-notes-statement-powerpoint-template.jpg)
+
+------------
+
+![8c08c55155](https://html2-f.scribdassets.com/80olbd6wqo22eoa/images/1-8c08c55155.jpg)
+----------------
+![balance-sheet](https://boardsource.org/wp-content/uploads/2017/03/balance-sheet.png)
+-------
+![income-statement](https://boardsource.org/wp-content/uploads/2017/03/income-statement.png)
+
+----------
+![7b88f6ce266805eda3576c30bd7eebd0](https://i.pinimg.com/564x/7b/88/f6/7b88f6ce266805eda3576c30bd7eebd0.jpg)
+
+-------------
+![chart-of-accounts-1-1290x2048](https://www.businessaccountingbasics.co.uk/wp-content/uploads/chart-of-accounts-1-1290x2048.jpg)
+----------
+![Bookkeeping_Example_Chart_of_Accounts](https://www.beginner-bookkeeping.com/images/Bookkeeping_Example_Chart_of_Accounts.jpg)
 
 ------------
 ![b342ba4d44a10d18a5da33d0325eb70d](https://i.pinimg.com/originals/b3/42/ba/b342ba4d44a10d18a5da33d0325eb70d.png)
