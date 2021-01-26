@@ -3,6 +3,7 @@
 -----
 
 - [highscalability](http://highscalability.com/)
+- [scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [digitalistmag](https://www.digitalistmag.com/)
 - [techcrunch](https://techcrunch.com/)
 - [Gartner cio](https://www.gartner.com/en/information-technology/insights/trending-topics)
