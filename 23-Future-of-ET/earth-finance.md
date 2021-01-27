@@ -778,6 +778,16 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![2f8dc914cf6d0386cb46db404d871e0c](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/2f8dc914cf6d0386cb46db404d871e0c.jpg)
 --------
 ![2816835d16be18fea067c629a398956b](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/2816835d16be18fea067c629a398956b.jpg)
+------
+![b79724a34cc8594448ee85cc804e492b](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/b79724a34cc8594448ee85cc804e492b.jpg)
+------
+![50af47fb92f68dbd6aa7caf714ba8c24](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_17/50af47fb92f68dbd6aa7caf714ba8c24.jpg)
+-----
+![8b761dde1b0af77aabd2704afcc78ebc](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_17/8b761dde1b0af77aabd2704afcc78ebc.jpg)
+-----
+![20d83e9cea099d89d7df1c0bd251e27b](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_17/20d83e9cea099d89d7df1c0bd251e27b.jpg)
+------
+![074284c73ded31e9ed8ec4fab704b59e](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_18/074284c73ded31e9ed8ec4fab704b59e.jpg)
 
 ---------------------
 --------------
