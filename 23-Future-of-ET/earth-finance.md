@@ -649,6 +649,13 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------------
 ----------
 ![Fundamentals-of-Accounting](https://efinancemanagement.com/wp-content/uploads/2020/06/Fundamentals-of-Accounting.png)
+
+----------
+
+- [double-entry-bookkeeping.com/](https://www.double-entry-bookkeeping.com/)
+
+![posting-in-accounting](https://www.double-entry-bookkeeping.com/wp-content/uploads/posting-in-accounting.webp)
+
 -------------
 ![1-intro-to-financial-accounting-mba-14-1024](https://image.slidesharecdn.com/1-140903093035-phpapp02/95/1-intro-to-financial-accounting-mba-14-1024.jpg?cb=1409737203)
 ----------
@@ -699,6 +706,15 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![7b88f6ce266805eda3576c30bd7eebd0](https://i.pinimg.com/564x/7b/88/f6/7b88f6ce266805eda3576c30bd7eebd0.jpg)
 
 -------------
+![Relationship-Between-Financial-Statements](https://www.double-entry-bookkeeping.com/wp-content/uploads/Relationship-Between-Financial-Statements.webp)
+--------
+![74eb25e2901cd82a1f5443c618a76166](https://i.pinimg.com/564x/74/eb/25/74eb25e2901cd82a1f5443c618a76166.jpg)
+
+-------------
+
+![picture%20ac%2026](https://conspecte.com/images/en/picture%20ac%2026.jpeg)
+
+-------------
 ![chart-of-accounts-1-1290x2048](https://www.businessaccountingbasics.co.uk/wp-content/uploads/chart-of-accounts-1-1290x2048.jpg)
 ----------
 ![Bookkeeping_Example_Chart_of_Accounts](https://www.beginner-bookkeeping.com/images/Bookkeeping_Example_Chart_of_Accounts.jpg)
@@ -718,6 +734,50 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ---------------
 ![0bdd52dbdc3ecb5713bc9f3d11c0cfa1](https://i.pinimg.com/originals/0b/dd/52/0bdd52dbdc3ecb5713bc9f3d11c0cfa1.jpg)
+------------
+---------------
+
+- [Small Business Management in the 21st Century](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/index.html)
+
+---------
+![05faa455dcff25a86201d75b8f15f778](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_13/05faa455dcff25a86201d75b8f15f778.jpg)
+-----------
+
+![section_13](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_13/ae89b3e96abe54d5aac6903a302ff5b7.jpg)
+---------
+![bee944b87a5ec0f6ee04760498fbcc41](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_13/bee944b87a5ec0f6ee04760498fbcc41.jpg)
+----------
+![b9da141465c7dde396751e2596a5acb4](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_13/b9da141465c7dde396751e2596a5acb4.jpg)
+-----------
+![300bcae4a508c0766a35e520229bb620](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_13/300bcae4a508c0766a35e520229bb620.jpg)
+---------
+![14544f693386097299a4062e02bc7eb3](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_14/14544f693386097299a4062e02bc7eb3.jpg)
+--------
+![c0f4b3dfce253bbc874a1f36ae6442ab](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_15/c0f4b3dfce253bbc874a1f36ae6442ab.jpg)
+-------
+![4a02a6888e22c8bb1ca18a0a094b3a2e](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_15/4a02a6888e22c8bb1ca18a0a094b3a2e.jpg)
+---------
+![d4b18896c006dd3245fc018da7524122](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_15/d4b18896c006dd3245fc018da7524122.jpg)
+-----------
+![469caae9e54375db8c306524bd45c32b](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/469caae9e54375db8c306524bd45c32b.jpg)
+--------
+![06ccd45d733391b6f0bf782e703362b1](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/06ccd45d733391b6f0bf782e703362b1.jpg)
+------------
+![2effbe2527994c25c4e6eb9d360ba42e](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/2effbe2527994c25c4e6eb9d360ba42e.jpg)
+---------
+![fb9db38de538ccf2e6c3be6aac837745](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/fb9db38de538ccf2e6c3be6aac837745.jpg)
+----------
+![548ea771f545da0001a984e13ac68a15](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/548ea771f545da0001a984e13ac68a15.jpg)
+--------
+![d2b48eb99b586db2b65c63ebec41d8f5](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/d2b48eb99b586db2b65c63ebec41d8f5.jpg)
+------------
+![771d7be23c85bde9388b7c7f66d78405](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/771d7be23c85bde9388b7c7f66d78405.jpg)
+----------
+![0f203c277f3e018f4430d6b4fc370a45](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/0f203c277f3e018f4430d6b4fc370a45.jpg)
+--------
+![2f8dc914cf6d0386cb46db404d871e0c](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/2f8dc914cf6d0386cb46db404d871e0c.jpg)
+--------
+![2816835d16be18fea067c629a398956b](https://saylordotorg.github.io/text_small-business-management-in-the-21st-century/section_16/2816835d16be18fea067c629a398956b.jpg)
 
 ---------------------
 --------------
