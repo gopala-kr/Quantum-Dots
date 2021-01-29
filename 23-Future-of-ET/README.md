@@ -3204,12 +3204,11 @@ IIoT Platform
 ![archpatterns1](https://developer.ibm.com/developer/default/articles/bd-archpatterns1/images/fig1.png)
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
--------
-![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
+
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
 -------
-![pasted-image-0-40](https://www.singlegrain.com/wp-content/uploads/2019/12/pasted-image-0-40.jpg)
+![pasted-image-0-40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/analyticc.png)
 --------
 ![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
 -------------
