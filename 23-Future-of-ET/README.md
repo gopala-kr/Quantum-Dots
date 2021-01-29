@@ -374,7 +374,7 @@
 -------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 --------
-![1445406367](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-13-1024.jpg?cb=1445406367)
+![b2b2c](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/b2b2c.PNG)
 
 -------------
 -------------
