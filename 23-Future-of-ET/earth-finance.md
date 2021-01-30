@@ -761,7 +761,7 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
  <div class="col-12 share-map__outline-wrapper">
 <div class="d-block d-md-none mt-4 mb-2">
    <h5 class="share-map__topic">
-      An Introduction to Financial Accounting
+      Financial Accounting
    </h5>
 </div>
 <div class="d-block d-md-none share-map__outline-border"></div>
