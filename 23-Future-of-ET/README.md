@@ -849,6 +849,8 @@ Skills
 ![PblockDiagram](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/PblockDiagram.png)
 ----------
 ![digital_transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/digital_transformation.png)
+------------
+![btp_it](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_it.PNG)
 
 --------------
 -------------
@@ -1826,6 +1828,8 @@ CRM and Customer Experience Implementation Services
 SAP Portfolio
 
 ![btp_suite](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_suite.PNG)
+------------
+![btp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp.PNG)
 ---------
 ![btp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.PNG)
 --------
@@ -1842,6 +1846,8 @@ SAP Portfolio
 -----------
 ![btp_transition](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_transition.PNG)
 ----------
+![btp_green](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_green.png)
+------------
 ![btp_lob](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_lob.PNG)
 
 -------------
@@ -3034,9 +3040,9 @@ IIoT Platform
 -------
 ![IoT_Forrester](https://blogs-images.forbes.com/gilpress/files/2016/01/IoT_Forrester.gif?)
 -------
-![IoT-Architecture](https://blogs.forbes.com/louiscolumbus/files/2019/06/IoT-Architecture-.png)
+![IoT-Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iot2.png)
 ------
-![0956d87471a48efc3b7e8f504f1ce871](https://i.pinimg.com/originals/09/56/d8/0956d87471a48efc3b7e8f504f1ce871.png)
+![0956d87471a48efc3b7e8f504f1ce871](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iot1.png)
 ---------------
 
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
@@ -3296,6 +3302,8 @@ IIoT Platform
 ![btp_t1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_t1.PNG)
 -------
 ![btp_t2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_t2.PNG)
+------------
+![btp_an](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_an.PNG)
 
 ---------
 ----------
@@ -3750,6 +3758,8 @@ ML pipeline using CI/CD
 ![bubbles-1024x894](https://infocus.delltechnologies.com/wp-content/uploads/2017/08/bubbles-1024x894.png)
 --------------
 ![the_rise_of_the_4th_platform_community_devices_data_intelligence](https://dionhinchcliffe.files.wordpress.com/2015/05/the_rise_of_the_4th_platform_community_devices_data_intelligence.png?w=1024&h=490)
+----------
+![btp_25](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_25.PNG)
 
 ------------
 
