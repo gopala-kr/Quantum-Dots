@@ -1814,8 +1814,12 @@ CRM and Customer Experience Implementation Services
 
 SAP Portfolio
 
+![btp_suite](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_suite.PNG)
+---------
 ![btp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.PNG)
 --------
+- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968) 
+
 ![btp1.1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.1.PNG)
 ----------------
 ![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
@@ -1825,8 +1829,6 @@ SAP Portfolio
 
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
 -------------
-
-- [BTP Portfolio](https://www.sap.com/india/products/business-technology-platform/products.html?btp=f198b16e-877c-4110-9f8f-563110976968)
 
 ![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
 
