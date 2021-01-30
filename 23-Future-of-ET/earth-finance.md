@@ -303,6 +303,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![btp_fi4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi4.PNG)
 ----
 ![btp_fi6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi6.PNG)
+-----
+![btp_fi7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi7.PNG)
 
 -------
 ----------
