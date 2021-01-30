@@ -843,6 +843,9 @@ Skills
 ![journeyComponents](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/journeyComponents.svg)
 ------------
 ![PblockDiagram](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/PblockDiagram.png)
+----------
+![digital_transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/digital_transformation.png)
+
 --------------
 -------------
 
@@ -1559,6 +1562,8 @@ ERP Development from Scratch (Cost Breakdown)
 
 <table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
 
+---------
+![digital_transformation1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/digital_transformation1.png)
 
 ------
 ![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
