@@ -3454,6 +3454,9 @@ RPA
 ![ai-dt-v2.02](https://bizexc.files.wordpress.com/2019/02/ai-dt-v2.02.png)
 -------------
 ![OJpvGWneX](https://miro.medium.com/max/1469/0*pY8S1N-OJpvGWneX)
+------
+![btp_ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_ml.png)
+
 -------------
 
 Practical MLOps
