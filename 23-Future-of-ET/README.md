@@ -199,6 +199,8 @@
 ![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
 ------
 ![lsMXa_CDqxGzdP1YD2RXGA](https://miro.medium.com/max/3576/1*lsMXa_CDqxGzdP1YD2RXGA.png)
+-----
+![btp_sustain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_sustain.PNG)
 
 ----------------
 ------------
