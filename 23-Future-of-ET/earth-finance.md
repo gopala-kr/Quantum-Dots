@@ -292,6 +292,10 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ![Reg-Tech-2017-VF4](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/02/Reg-Tech-2017-VF4.png)
 
+---------------
+---------------
+![btp_fi](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi.PNG)
+
 
 -------
 ----------
