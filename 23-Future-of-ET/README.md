@@ -3558,6 +3558,9 @@ ML pipeline using CI/CD
 ![leveraging-vlocity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/leveraging-vlocity.png)
 ---------------
 ![di_scm](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/di_scm.png)
+------
+![btp_fio](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fio.PNG)
+
 --------------
 -------------
 ![Tech_Reality](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Reality.png)
