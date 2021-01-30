@@ -378,6 +378,8 @@
 
 -------------
 -------------
+![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles1.png)
+----------
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
 -----
