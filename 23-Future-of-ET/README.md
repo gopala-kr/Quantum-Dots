@@ -1830,6 +1830,10 @@ SAP Portfolio
 -----------------
 
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
+-----------
+![btp_transition](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_transition.PNG)
+
+-------------
 -------------
 
 ![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
