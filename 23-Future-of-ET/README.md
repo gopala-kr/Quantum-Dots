@@ -3277,6 +3277,8 @@ IIoT Platform
 ![Snag_2f541c9c](https://saphanajourney.com/wp-content/uploads/2021/01/Snag_2f541c9c-2048x1044.png)
 ---------
 ![Snag_2f580d56](https://saphanajourney.com/wp-content/uploads/2021/01/Snag_2f580d56-2048x895.png)
+----
+![btp_t1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_t1.PNG)
 
 ---------
 ----------
