@@ -278,6 +278,8 @@
 ![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
 ---------
 ![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
+----------
+![biz](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/biz.png)
 
 ----------------
 ---------
