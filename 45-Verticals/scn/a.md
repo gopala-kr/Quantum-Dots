@@ -2,7 +2,7 @@
 ------------
 ![m_aut](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/m_aut.png)
 -----
-![]()
+![p_rnv](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/p_rnv.png)
 ---------
 ![]()
 -----
