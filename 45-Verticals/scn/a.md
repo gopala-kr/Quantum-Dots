@@ -1,6 +1,6 @@
 ![n_m](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/n_m.png)
 ------------
-![]()
+![m_aut](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/m_aut.png)
 -----
 ![]()
 ---------
