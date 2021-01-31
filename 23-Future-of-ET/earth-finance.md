@@ -874,7 +874,26 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![Cash-Flow-Statement](https://daniel-lambert.de/wp-content/uploads/2019/04/Cash-Flow-Statement.jpg)
 -------
 ![DVDL-pxueGmk-61091](https://s3.amazonaws.com/xmindshare/preview/DVDL-pxueGmk-61091.png)
-
+---------
+![fin_acc1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc1.png)
+-----------
+![fin_acc](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc.png)
+---------
+![fin_acc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc2.png)
+------------
+![fin_acc3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc3.png)
+----------
+![fin_acc4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc4.png)
+---------
+![fin_acc5](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc5.png)
+-----
+![fin_acc6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc6.png)
+------
+![fin_acc7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_acc7.png)
+---------
+![fin_inv](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_inv.png)
+--------
+![fin_rt](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_rt.png)
 
 -----
 - [investment_notes](http://sanjaymeena.io/investment_notes/)
@@ -949,6 +968,7 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ----------
 ![53b531059b93a4ed93b14f117ba246f2](https://i.pinimg.com/originals/53/b5/31/53b531059b93a4ed93b14f117ba246f2.jpg)
+
  
  -----------
  ------------
