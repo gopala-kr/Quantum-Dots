@@ -26,14 +26,15 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------
 ![Expanded_Exhibit](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Banks%20in%20the%20changing%20world%20of%20financial%20intermediation/SVGZ-Web-Global-Banking-Review-ex5-Expanded_Exhibit%20only.svgz)
 
------
-![world_Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Remaking%20the%20bank%20for%20an%20ecosystem%20world/SVGZ_Remaking-the-bank-for-an-ecosystem-world_Ex5.svgz)
 
 ------
 ![20Month_December](https://www.mckinsey.com/~/media/McKinsey/McKinsey%20Solutions/Panorama/Chart%20of%20the%20Month_December%202017_740px_expanded_1.svgz)
 
 
 -----------
+--------------
+![industry](https://s3.amazonaws.com/xmindshare/preview/bbnq-tyNMdrz-81686.png)
+
 --------------
 ![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
 -----
@@ -328,8 +329,7 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![btp_tr](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_tr.png)
 ----------
 ![fin_bus](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_bus.png)
--------
-![tech_biz1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/tech_biz1.png)
+
 -------------
 ----------------
 
@@ -501,6 +501,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 -------
 ![5d4c4e8cd0c436094c698ed7](https://i.insider.com/5d4c4e8cd0c436094c698ed7?width=1100&format=jpeg&auto=webp)
 
+--------
+![XPwP-zKKQCpB-99887](https://s3.amazonaws.com/xmindshare/preview/XPwP-zKKQCpB-99887.png)
+
 ---------
 ---------------
 
@@ -533,8 +536,6 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 --------
 ![6825_Figure6](https://www2.deloitte.com/content/dam/insights/us/articles/6825_CFS-investment-management-outlook/figures/6825_Figure6.jpg)
 
-----
-![screen-shot-2020-10-29-at-1-58-23-pm_orig](middlegamevc.com/uploads/8/6/0/0/86007516/screen-shot-2020-10-29-at-1-58-23-pm_orig.png)
 
 -----
 ![aw9VExEg9i546wQB5U](https://miro.medium.com/max/7000/1*aw9VExEg9i546wQB5U-rmw.jpeg)
@@ -863,7 +864,20 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ---------------
 ![0bdd52dbdc3ecb5713bc9f3d11c0cfa1](https://i.pinimg.com/originals/0b/dd/52/0bdd52dbdc3ecb5713bc9f3d11c0cfa1.jpg)
+------------
+![financial_ratios](http://sanjaymeena.io/images/posts/investment_notes/financial_ratios/Financial%20Ratios.png)
+------
+![Statistical-Concepts-and-Market-Returns](https://daniel-lambert.de/wp-content/uploads/2019/04/Statistical-Concepts-and-Market-Returns.jpg)
+--------
+![Long-Lived-Assets](https://daniel-lambert.de/wp-content/uploads/2019/03/Long-Lived-Assets.jpg)
+----------
+![Cash-Flow-Statement](https://daniel-lambert.de/wp-content/uploads/2019/04/Cash-Flow-Statement.jpg)
+-------
+![DVDL-pxueGmk-61091](https://s3.amazonaws.com/xmindshare/preview/DVDL-pxueGmk-61091.png)
 
+
+-----
+- [investment_notes](http://sanjaymeena.io/investment_notes/)
 
 ---------------------
 --------------
@@ -885,7 +899,59 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 -------
 ---------
+![jDbc-cnjskrJ](https://s3.amazonaws.com/xmindshare/preview/jDbc-cnjskrJ-64688.png)
+--------
+![money](https://s3.amazonaws.com/xmindshare/preview/money-zzaam-1314744572344.jpg)
+-----------
+![an-introduction-to-auditing-kwqup-1337498932429](https://s3.amazonaws.com/xmindshare/preview/an-introduction-to-auditing-kwqup-1337498932429.jpg)
+-------
+![2-accounting-and-finance](https://s3.amazonaws.com/xmindshare/preview/02-accounting-and-finance-kpdmm-1234915801349.jpg)
+---------
+![finance](https://s3.amazonaws.com/xmindshare/preview/mUcB-itpcXhC-51108.png)
+-------
+![capital-budgeting](https://s3.amazonaws.com/xmindshare/preview/capital-budgeting-1-seecw-1271742530899.jpg)
+------
+![merges-aquisitions](https://s3.amazonaws.com/xmindshare/preview/merges-aquisitions-fuffw-1272121460919.jpg)
+-------
+![working-ca](https://s3.amazonaws.com/xmindshare/preview/fgh9-WaTqEGG-25985.png)
+------
+![government-finance-definitions](https://s3.amazonaws.com/xmindshare/preview/government-finance-definitions-ddddw-1258573523687.jpg)
+------
+![national-treasury-management-agency-functions](https://s3.amazonaws.com/xmindshare/preview/national-treasury-management-agency-functions-bjrvb-1258573510435.jpg)
+----
+![co](https://s3.amazonaws.com/xmindshare/preview/cUTs-nCRhskt-03635.png)
+-------
+![corporate-banking](https://s3.amazonaws.com/xmindshare/preview/corporate-banking-srsss-1303360116357.jpg)
+--------------
+![financial-system-pkppp](https://s3.amazonaws.com/xmindshare/preview/financial-system-pkppp-1314462342581.jpg)
+--------
+![financial-system-entities](https://s3.amazonaws.com/xmindshare/preview/financial-system-entities-pegei-1332440542085.jpg)
+-------
+![B2ud](https://s3.amazonaws.com/xmindshare/preview/B2ud-NpkLhLi-40927.jpg)
+--------
+![payments](https://s3.amazonaws.com/xmindshare/preview/xmind-883703-xkkod-1335289423883.jpg)
+----------
+![federal-reserve-cccaf](https://s3.amazonaws.com/xmindshare/preview/federal-reserve-cccaf-1316666635353.jpg)
+-------
+![banks-credit-unions](https://s3.amazonaws.com/xmindshare/preview/banks-credit-unions-1-jzsvr-1308261121075.jpg)
+---------
+![finace1](https://s3.amazonaws.com/xmindshare/preview/403be8c3d83f46688a5960242f25f2adszFCMKyP-VxFSv-292.jpg)
+--------
+![finance2](https://s3.amazonaws.com/xmindshare/preview/febb25e5971b4c5aae3c024e50cd1236vXhdRhdb-KyiEB-251.jpg)
+------
+![economics](https://s3.amazonaws.com/xmindshare/preview/economics-byvyv-1288888863277.jpg)
+---------
+![H4PS](https://s3.amazonaws.com/xmindshare/preview/H4PS-xQHqvjN-62594.png)
+---------
+![1118752880064_1951442803_3670](https://cmapspublic.ihmc.us/rid=1118752880064_1951442803_3670/ECP%206705%20-%20Up%20to%20Quiz%201%20Managerial%20Economics?rid=1118752880064_1951442803_3670&partName=htmljpeg)
+-------
+![corporate-risk-management-nooyr](https://s3.amazonaws.com/xmindshare/preview/corporate-risk-management-nooyr-1254092267656.jpg)
+
+----------
+![53b531059b93a4ed93b14f117ba246f2](https://i.pinimg.com/originals/53/b5/31/53b531059b93a4ed93b14f117ba246f2.jpg)
  
+ -----------
+ ------------
  
  <div class="col-12 share-map__outline-wrapper">
 <div class="d-block d-md-none mt-4 mb-2">
