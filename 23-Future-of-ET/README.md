@@ -274,6 +274,13 @@
 ---------------
 ![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
 
+---------
+![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
+---------
+![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
+------
+![1221074653515_193860700_887](https://cmapspublic3.ihmc.us/rid=1221074653515_193860700_887/Jberry1.cmap?rid=1221074653515_193860700_887&partName=htmljpeg)
+
 ----------------
 ---------
 
