@@ -278,8 +278,6 @@
 ![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
 ---------
 ![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
-------
-![1221074653515_193860700_887](https://cmapspublic3.ihmc.us/rid=1221074653515_193860700_887/Jberry1.cmap?rid=1221074653515_193860700_887&partName=htmljpeg)
 
 ----------------
 ---------
@@ -387,7 +385,7 @@
 
 -------------
 -------------
-![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles1.png)
+![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
 ----------
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
@@ -395,12 +393,8 @@
 ![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
 ----------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
-------
-![fin_fp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fin_fp.png)
 -------
 ![image014](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
---------
-![fin_bus](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fin_bus.png)
 -----
 ![Tech_Banking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Banking.png)
 ------
@@ -1845,8 +1839,7 @@ SAP Portfolio
 ![btp1.1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.1.PNG)
 ----------------
 ![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
---------------
-![Figure-1-1024x572](https://www.sapinsideronline.com/wp-content/uploads/2020/11/Figure-1-1024x572.jpg)
+
 -----------------
 
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
@@ -3494,8 +3487,7 @@ RPA
 ![ai-dt-v2.02](https://bizexc.files.wordpress.com/2019/02/ai-dt-v2.02.png)
 -------------
 ![OJpvGWneX](https://miro.medium.com/max/1469/0*pY8S1N-OJpvGWneX)
-------
-![btp_ml](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_ml.png)
+
 
 -------------
 
