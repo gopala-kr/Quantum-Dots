@@ -22,8 +22,8 @@
 --------
 ![a841320b97bddfde2e3728ec7ce378aa](https://i.pinimg.com/originals/a8/41/32/a841320b97bddfde2e3728ec7ce378aa.jpg)
 
--------------
-------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
  ##### [Contents](#contents)
 
@@ -69,8 +69,8 @@
 
 [Back to top](#contents)
   
-----------------------
--------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Earth Industrial Evolution
 
@@ -184,11 +184,12 @@
 
 -----------
 ![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
+
 ---------------
 ![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
 
------------------------
-----------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Industry 4.0
 
@@ -202,8 +203,8 @@
 -----
 ![btp_sustain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_sustain.PNG)
 
-----------------
-------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Industries and Economic Sectors
 
@@ -281,8 +282,8 @@
 ----------
 ![biz](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/biz.png)
 
-----------------
----------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
 
@@ -318,8 +319,8 @@
 
 - [Global Company Dataset with over 7+ Million Company profiles](https://www.peopledatalabs.com/company-dataset)
 
------------
-------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Evolution of Information Technologies
 
@@ -333,8 +334,9 @@
 
 [Back to top](#contents)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-----------
 #### Technology Industry Value Chain
 
 [Back to top](#contents)
@@ -349,7 +351,8 @@
 ---------
 ![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
----------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
 
@@ -369,8 +372,8 @@
 
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
--------------------------------
------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
@@ -385,8 +388,9 @@
 --------
 ![b2b2c](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/b2b2c.PNG)
 
--------------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
 ----------
 
@@ -451,8 +455,8 @@
 -----------
 ![Techin_energy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Techin_energy.png)
 
------
-------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Enterprise Architecture Modeling
 
@@ -517,8 +521,9 @@
 ----
 ![SVGZ-Five-enterprise-architecture-practices-Ex2](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Five%20enterprise%20architecture%20practices%20that%20add%20value%20to%20digital%20transformations/SVGZ-Five-enterprise-architecture-practices-Ex2.svgz)
 
-------
------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 - [TOGAF® Standard, Version 9.2](https://pubs.opengroup.org/architecture/togaf9-doc/arch/)
 
 ![34_contentfwk3](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk3.png)
@@ -577,8 +582,8 @@
 ------
 ![41_archrepos](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png)
 
-------------------
---------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### Enterprise Architecture Example :
 
@@ -606,8 +611,8 @@
 --------
 ![dragon1-enterprise-architecture-blueprint-template-medium](https://www.dragon1.com/images/dragon1-enterprise-architecture-blueprint-template-medium.png)
 
-----------
-------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
 
@@ -704,8 +709,8 @@
 ----------
 ![shared-customer-experience](https://zdnet4.cbsistatic.com/hub/i/r/2020/01/22/4b5c8ac1-4166-41a7-b200-c2cb0bdfdca0/thumbnail/770x578/cd29eb6c98c3ba386606281a77069359/shared-customer-experience-landscape-of-the-cio-and-cmo.png)
 
------------
---------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Organization Structure Modeling
 
@@ -772,7 +777,9 @@
 -----------
 ![C-2018-2-Koning-01-klein](https://www.compact.nl/wordpress/wp-content/uploads/2018/06/C-2018-2-Koning-01-klein.png)
 
-----------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -855,8 +862,8 @@ Skills
 ------------
 ![btp_it](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_it.PNG)
 
---------------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### IT Infrastructure Modeling
 
@@ -1226,14 +1233,15 @@ Data Center and Cloud Networking
 
 -----------
 ![2019-08-28-hc-government-digital-technology](https://whatsthebigdata.files.wordpress.com/2019/09/2019-08-28-hc-government-digital-technology.png)
+
 --------------------------------------
 ![Digital-Enterprise-Evolution_ReneBuest_April-2018](https://analystpov.com/wp-content/uploads/2018/04/Digital-Enterprise-Evolution_ReneBuest_April-2018.png)
 
 [Back to top](#contents)
 
 
---------------
-------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Digital Workplace Services
 
@@ -1304,8 +1312,8 @@ Meeting Solutions
 
 [Back to top](#contents)
 
----------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### ITIL/ITSM/ITSO Service Desk 
@@ -1357,8 +1365,8 @@ Low-Code Application Platforms
 ![EknwrC9XYAAChAM](https://pbs.twimg.com/media/EknwrC9XYAAChAM.jpg)
 
 
----------------------
------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Enterprise Resource Planning The Digital Core of an Organization
 
@@ -1418,10 +1426,10 @@ Low-Code Application Platforms
      - Testing of the bespoke in-house ERP is a mission-critical stage of the implementation. The system is designed to make the organization’s operations easier 
        and efficient. On this stage, the development team checks if the application is robust and comfortable to work with.
               
-      - An enterprise ERP development is a never stopping process. After the first release, developers continue to gradually add new features, improvements, 
-        and fix issues. Time, needed for ERP application development from scratch, totally relies on the size of the company, needed functionality, number of 
-        users, etc. It is almost impossible to guess how much time will be needed without performing the analysis of each specific case. However, taking 
-        into consideration our rich experience in building these systems we can try to define approximated timeframes.
+     - An enterprise ERP development is a never stopping process. After the first release, developers continue to gradually add new features, improvements, 
+       and fix issues. Time, needed for ERP application development from scratch, totally relies on the size of the company, needed functionality, number of 
+       users, etc. It is almost impossible to guess how much time will be needed without performing the analysis of each specific case. However, taking 
+       into consideration our rich experience in building these systems we can try to define approximated timeframes.
               
      - Same as the timeline, the cost of the in-house ERP system development is impossible to be defined without proper investigation of business cases 
        and requirements. Still, from our previous experience, we can estimate the following numbers for custom ERP development for businesses of different sizes.
@@ -1451,8 +1459,9 @@ Low-Code Application Platforms
 ![Tech_Agile](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Agile.png)
 -----
 ![Tech_Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Security.png)
--------------
---------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 - [digitalistmag.com/](https://www.digitalistmag.com/)
 - [Cloud Next OnAir Highlights](https://www.youtube.com/playlist?list=PLIivdWyY5sqIr8lcWjiz53jZgMMKHtteZ)
@@ -1631,8 +1640,8 @@ Client Demo/Transformation Journey Tools/:
 
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 
-----------
------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Enterprise Functions and Processes
 
@@ -1685,8 +1694,9 @@ ERP Today
 ![Group%209132](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Group%209132.png)
 ---------
 ![13thslide_struc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/13thslide_struc.svg)
----------------
------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### ERP Software Providers Landscape
 
@@ -1825,8 +1835,9 @@ CRM and Customer Experience Implementation Services
 ---------
 
 ![2019](https://www.solutionmindsconsulting.com.au/wp-content/uploads/2019/10/ERP-grid.png)
----------------
-------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 SAP Portfolio
 
@@ -1846,8 +1857,9 @@ SAP Portfolio
 ------
 ![BTP_S4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S4.png)
 
--------------
----------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![btp_suite](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_suite.PNG)
 ------------
 ![btp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp.PNG)
@@ -1875,12 +1887,12 @@ SAP Portfolio
 
 ---------
 ------------
-![BTP_iPaaS1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_iPaaS1.png)
+![BTP_iPaaS1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X5.png)
 -----
 ![BTP_iPaaS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_iPaaS.png)
 
--------------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![btp21](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp21.PNG)
 
@@ -1967,10 +1979,10 @@ SAP Portfolio
 -----------
 ![Tech_sap_in](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_sap_in.png)
 
--------------- 
----------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
+##### Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 	                  - 	.NET Architecture
 	                  - 	.NET Core
@@ -6287,8 +6299,8 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 		-	Virtualization Council Master Infrastructure Architect certification
 		-	VMware Certified Professional 6 – Data Center Virtualization (VCP6-DCV)
 
-----------------------
-----------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Database Technology
 
@@ -6320,7 +6332,9 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ![20Image](https://www.smartdatacollective.com/wp-content/uploads/2016/08/SDC%203%20Image.jpg)
 --------
 ![Technology-Landscape-1100_778](https://www.data-vault.co.uk/wp-content/uploads/2019/01/Technology-Landscape-1100_778.jpg)
----------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### Master Data Management
@@ -6569,9 +6583,9 @@ IIoT Platform
 -------
 ![IoT_Forrester](https://blogs-images.forbes.com/gilpress/files/2016/01/IoT_Forrester.gif?)
 -------
-![IoT-Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iot2.png)
+![IoT-Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X6.png)
 ------
-![0956d87471a48efc3b7e8f504f1ce871](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iot1.png)
+![0956d87471a48efc3b7e8f504f1ce871](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X7.png)
 ---------------
 
 - [Internet of Things: innovation that matters](https://www.lexology.com/library/detail.aspx?g=0797d0db-3afb-4ce6-9456-dc1e3a0b6577)
@@ -6764,7 +6778,7 @@ IIoT Platform
 - Planning & Forecasting
 - Visualization
 - Spatial Analysis
-- Predictive
+- Analytics (Descriptive, Diagnostic, Predictive, Prescritive)
 
 Use Cases
 
@@ -6782,7 +6796,7 @@ Use Cases
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
 -------
-![pasted-image-0-40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/analyticc.png)
+![pasted-image-0-40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X1.png)
 --------
 ![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
 -------------
@@ -6813,8 +6827,10 @@ Use Cases
 ![2Cal_c](https://static.wixstatic.com/media/a0af8c_68f918212d50428e86a85247ae224ed3~mv2.png/v1/fit/w_974%2Ch_477%2Cal_c%2Cq_80/file.png)
 --------
 ![w_2000](https://static.wixstatic.com/media/a0af8c_11c5e4fdd0494f59922acbb4cb756ac1~mv2.png/v1/fill/w_2000,h_962,al_c,usm_0.66_1.00_0.01/a0af8c_11c5e4fdd0494f59922acbb4cb756ac1~mv2.png)
-----------------
-----------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![ciscosap-100774957-large](https://images.idgesg.net/images/article/2018/10/ciscosap-100774957-large.jpg)
 ------
 ![btp8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp8.PNG)
@@ -6852,11 +6868,11 @@ Use Cases
 ------------
 ![btp_an](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_an.PNG)
 -------
-![BTP_SAC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC.png)
+![BTP_SAC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X2.png)
 -----
-![BTP_SAC1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC1.png)
+![BTP_SAC1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X3.png)
 -------
-![BTP_SAC2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC2.png)
+![BTP_SAC2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X4.png)
 -------
 ![BTP_Ana1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana1.png)
 --------
@@ -6866,8 +6882,9 @@ Use Cases
 -------
 ![BTP_Ana4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana4.png)
 
----------
-----------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
 ----------
 ![Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409.jpg?resize=1536%2C1193&ssl=1)
@@ -6896,8 +6913,9 @@ Use Cases
 ![Screen-Shot-2013-04-25-at-2.48.29-PM](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-25-at-2.48.29-PM.png)
 --------
 ![big-data-landscape-2019-v7](https://zdnet1.cbsistatic.com/hub/i/2019/07/17/b17497a0-844e-42b7-9dde-9020902c0b46/big-data-landscape-2019-v7.png)
-------------
------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
 
@@ -6913,19 +6931,19 @@ Use Cases
 -------
 ![lzAnmo3t3rHHA37VacYEeA](https://miro.medium.com/max/1050/1*lzAnmo3t3rHHA37VacYEeA.png)
 
---------------
-----------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### AI in Enterprise Processes
 
 [Back to top](#contents)
 
 - Process Automation using RPA
-- BI and Reporting (Data Visualization)
-- Analytics (Descriptive, Diagnostic, Predictive, Prescritive)
+- AIOps
 - Datascience
 - Machine Learning
-- Leading Enterprise RPA/DS/ML Software Vendors
+- DeepLearning
+- Leading Enterprise RPA/AIOps/DS/ML/DL Software Vendors
 
 -------------
 - [Machine Learning Platformization & AutoML: Adopting ML at Scale in the Enterprise](https://towardsdatascience.com/state-of-the-machine-learning-ai-industry-9bb477f840c8)
@@ -7043,8 +7061,9 @@ RPA
 ---------
 ![DA-BI-HC](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/DA-BI-HC.png)
 
------------------
----------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![ai-dt-v2.02](https://bizexc.files.wordpress.com/2019/02/ai-dt-v2.02.png)
 -------------
 ![OJpvGWneX](https://miro.medium.com/max/1469/0*pY8S1N-OJpvGWneX)
@@ -7052,7 +7071,7 @@ RPA
 
 -------------
 
-Practical MLOps
+#### Practical MLOps
 
 - [End-to-End Machine Learning Workflow](https://ml-ops.org/content/end-to-end-ml-workflow)
 - [Iterative-Incremental Process in MLOps](https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops)
@@ -7084,7 +7103,7 @@ Practical MLOps
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
 ---------
 
-ML pipeline using CI/CD
+#### ML pipeline using CI/CD
 
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
 --------------
@@ -7107,8 +7126,9 @@ ML pipeline using CI/CD
 ![mlops-tube](https://chapeau.freevariable.com/static/202010/mlops-tube.png)
 ---------
 ![annex-e1579283879351-1200x1375](https://storage.googleapis.com/stateless-gigaom-com/2020/01/annex-e1579283879351-1200x1375.jpg)
------------
-----------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Experience Design
 
@@ -7157,8 +7177,9 @@ ML pipeline using CI/CD
 ------
 ![btp_fio](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fio.PNG)
 
---------------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Tech_Reality](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Reality.png)
 --------
 ![di_cust8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust8.PNG)
@@ -7182,8 +7203,10 @@ ML pipeline using CI/CD
 ![di_cust6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_cust6.png)
 ----------
 ![di_digExpImg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/di_digExpImg.png)
---------
-----------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w](https://dri.es/files/cache/acquia/gartner-magic-quadrant-for-digital-experience-platforms-2020-1280w.png)
 
 --------
@@ -7199,8 +7222,8 @@ ML pipeline using CI/CD
 ![999_02_Etech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/999_02_Etech.PNG)
 
 
---------------
-------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Information Architecture Review
 
@@ -7259,8 +7282,9 @@ ML pipeline using CI/CD
 ![OSA_Security_Landscape_V010](http://www.opensecurityarchitecture.org/cms/images/OSA_images/OSA_Security_Landscape_V010.png)
 ------------------
 ![osa_metamodel_v003](https://www.opensecurityarchitecture.org/cms/images/OSA_images/osa_metamodel_v003.png)
--------------
----------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Enterprise Tech Landscape
 
@@ -7278,10 +7302,12 @@ ML pipeline using CI/CD
 
 -------
 ![plantDiagram](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/plantDiagram%202.png)
+
 ---
 ![inno](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/inno.PNG)
----------
------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![sap-database-and-data-management-architecture-diagram](https://www.sap.com/dam/application/shared/graphics/sap-database-and-data-management-architecture-diagram.svg.adapt.svg/1607433805796.svg)
 
@@ -7308,8 +7334,8 @@ ML pipeline using CI/CD
 
 
 
-------------------
-------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### [Beyond the Digital Frontier](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2019/beyond-digital-frontier.html)
 
@@ -7335,11 +7361,12 @@ ML pipeline using CI/CD
 
 [Back to top](#contents)
 
-----------
------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![earth-gif](https://worldclassmanager.com/wp-content/uploads/2018/01/earth-gif.gif)
+
 -----------
 2193
 
@@ -7351,7 +7378,9 @@ ML pipeline using CI/CD
 -----------
 
 ![k_scale1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale1.PNG)
+
 ----------
 ![k_scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale.PNG)
------
-----------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
