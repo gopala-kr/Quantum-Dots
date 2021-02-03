@@ -42,6 +42,9 @@
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
   - [Digital Workplace Services](#digital-workplace-services)
   - [Database Technology](#database-technology)
+    - Database Management Softwares
+    - Master Data Management
+    - Operational Data Management
   - [Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
