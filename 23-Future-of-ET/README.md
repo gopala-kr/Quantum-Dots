@@ -1830,6 +1830,24 @@ CRM and Customer Experience Implementation Services
 
 SAP Portfolio
 
+![BTP_TRans](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_TRans.png)
+-------
+![BTP_decouple](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_decouple.png)
+-------
+![BTP_decouple1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_decouple1.png)
+-----------
+![BTP_decouple2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_decouple2.png)
+-----
+![BTP_Future](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Future.png)
+--------
+![BTP_S41](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S41.png)
+-----
+![BTP_S42](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S42.png)
+------
+![BTP_S4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S4.png)
+
+-------------
+---------
 ![btp_suite](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_suite.PNG)
 ------------
 ![btp](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp.PNG)
@@ -1843,6 +1861,9 @@ SAP Portfolio
 ![btp1.2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp1.2.PNG)
 
 -----------------
+![BTP_Value](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Value.png)
+
+---------------
 
 ![Infographic_SAPPHIRENOW_BTP_Data](https://news.sap.com/wp-content/blogs.dir/1/files/Infographic_SAPPHIRENOW_BTP_Data-Value-Formula.jpg)
 -----------
@@ -1851,6 +1872,12 @@ SAP Portfolio
 ![btp_green](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_green.png)
 ------------
 ![btp_lob](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_lob.PNG)
+
+---------
+------------
+![BTP_iPaaS1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_iPaaS1.png)
+-----
+![BTP_iPaaS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_iPaaS.png)
 
 -------------
 -------------
@@ -6309,6 +6336,17 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 -------
 ![Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR](https://images.squarespace-cdn.com/content/v1/55cdcc72e4b0ff38cd56a751/1539595621504-8FTJB0E8RCR0G3S9IULR/ke17ZwdGBToddI8pDm48kD6pI3Ghap9e95DedX5JW-EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXhDa6xRIWV4T9b-Mw5GMkP4Q4I_OyuuBSOTXEVMJmw8Mcqib0C0zFEtE9adE3SR/Image3.png?format=1500w)
 --------
+
+![dg3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg3.png)
+------
+![dg4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg4.png)
+-----
+![dg6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg6.png)
+-------
+![dg7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg7.png)
+----------
+![dg8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg8.png)
+-----------
 ![btp_mbg](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_mbg.PNG)
 
 --------
@@ -6324,8 +6362,9 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ----------
 ![Gartner-Magic-Quadrant-Metadata-Managment-2019](https://www.silwoodtechnology.com/wp-content/uploads/2020/03/Gartner-Magic-Quadrant-Metadata-Managment-2019.jpg)
 
--------------
---------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Enterprise Data and Application Integration 
 
@@ -6333,16 +6372,18 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 ![connectors_MI](https://www.1eq.com/html/version7.1/resources/images/connectors_MI.png)
 ------------
+![dg9](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg9.png)
+--------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
 -------------
 ![iflow](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow.PNG)
 ---------------
 
-![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Integration_Styles.PNG)
+![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg11.png)
 
 ----------
-![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ipaas_mappings.PNG)
+![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg12.png)
 -----------
 ---------
 
@@ -6394,9 +6435,27 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 -----------
 ![sp3tbeYrbBhtg9ae42dDCQ](https://miro.medium.com/max/1200/1*sp3tbeYrbBhtg9ae42dDCQ.png)
 
+------------
+![dg13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg13.png)
+-------
+![dg14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg14.png)
+----------
+![dg16](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg16.png)
+---------
+![dg17](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg17.png)
+----------
+![dg18](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg18.png)
+-------
+![dg19](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg19.png)
+------
+![dg20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg20.png)
+-------
+![dg10](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg10.png)
+--------
+![dg2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg2.png)
 
----------------
----------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### IoT Platforms Integration with ERP
 
@@ -6529,8 +6588,8 @@ IIoT Platform
 --------
 ![Tech_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_4.0.png)
 
----------------------------
------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Enterprise Data Warehouse and Data Lake
 
@@ -6696,8 +6755,26 @@ IIoT Platform
 </tbody>
 </table>    
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
---------
+#### Enterprise Analytics
+
+- BI Reporting & Dashboards
+- Planning & Forecasting
+- Visualization
+- Spatial Analysis
+- Predictive
+
+Use Cases
+
+- Customer Analytics
+- People Analytics
+- Finance/Accounting Analytics
+- Operations Analytics
+
+
+-----------------
 ![archpatterns1](https://developer.ibm.com/developer/default/articles/bd-archpatterns1/images/fig1.png)
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
@@ -6774,6 +6851,20 @@ IIoT Platform
 ![btp_t2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_t2.PNG)
 ------------
 ![btp_an](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_an.PNG)
+-------
+![BTP_SAC](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC.png)
+-----
+![BTP_SAC1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC1.png)
+-------
+![BTP_SAC2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_SAC2.png)
+-------
+![BTP_Ana1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana1.png)
+--------
+![BTP_Ana2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana2.png)
+-------
+![BTP_Ana3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana3.png)
+-------
+![BTP_Ana4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana4.png)
 
 ---------
 ----------
