@@ -327,7 +327,17 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------------
 ![fin_dmodel](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_dmodel.png)
 ------------
-![]()
+![fin_ds](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_ds.png)
+------------
+![fin_ds1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_ds1.png)
+------------
+![fin_ds2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_ds2.png)
+------------
+![fin_erp](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_erp.png)
+------------
+![fin_fun](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_fun.png)
+------------
+![fin_goup](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_goup.png)
 ------------
 ![]()
 ------------
@@ -340,9 +350,6 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![]()
 ------------
 ![]()
-------------
-![]()
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
