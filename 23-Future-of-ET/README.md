@@ -31,21 +31,167 @@
 - [Earth Industries](#industries-and-economic-sectors)
   - Earth Workforce 
   - Evolution from Medieval
-  - Industry 4.0
+  - Vintage
+  - Evolved + Contemporary
+    - Aerospace
+      - Space
+      - Airline
+    - Automotive
+    - Defence
+    - Public Sector
+    - Finance
+      - Capital Markets
+      - Banking
+      - Insurance
+      - Real Estate
+      - FinTech
+    - HighTech
+      - Semiconductor
+      - Biotech
+      - Medtech
+    - Telecommunication
+    - Consumer Tech
+    - Retail
+    - Media
+    - Entertainment
+    - Travel
+      - Tourism
+      - Friegt/Cargo(Air/Ship/Ground)
+      - Rail
+    - Healthcare
+    - Energy
+    - Chemicals
+    - Life Sciences
+  - Future/Emerging
+    - Industry 4.0 (IoT + IT + Data + AI)
+    - Space Mining-->Moon-->Asteroids?Plannets?
+    - Space Manufacturing(Zero Gravity)-->Cost effective-->Reliability?Rare Earth Elements?Off-earth/0-G Advantages
+    - Automotive --> Electric + Ride Hailing/Sharing + Autonomous + Connected Cars
+    - Future Cities(Smart City)
+    - Synthetic Bio Factories --> Artificial Organ Factrory = + Genetics?
+    - Genetics + Info Tech + CRISPR/Derivatives Tech ==> GMO's, GEC's, Designer Babies
+    - Quantum Tech (< 10^-10) --> NISQ --> Topological?-Universal?
+    - NanoTech (> 10^-9) --> Smart Dust --> Carbon Neutral Manufacturing
+    - Immersive Tech(AR, MR, VR) + 5G + 6G ==> Metaverse
+    - 3D & 4D Printing(Additive Manufacturing) + ConsumerTech + Metaverse ==> iManufacturing(Instant Live Manufacturing & Delivery)
+    - Telecomm/Internet --> 5G-->6G?Leosat Internet?Quantum Internet?-->Interplanetary Communication(Low Latency+High BW+Cost Effective)
+    - Robotic + AI(Learning) ==> iRobots + Custom Conciouness OS --> AGI
+    - Semiconductor--> (>5nm-1nm?)--> Graphine?-->Neuromorphic?-->Quantum?
+    - Neuroscience + HBP + IT + AI ==> BCI --> Neurotech Chips (High BW Connectivity) --> Telepathy --> Telekinesis 
+    - Nuclear FusionTech
+    - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
 - [Global Organizations](#global-organizations)
 - [Technology Progress and Evolution](#technology-progress-and-evolution)
 - [Technology Industry Value Chain](#technology-industry-value-chain)
 - Digitalization of Earth Organization
   - [Evolution of Information Technologies](#evolution-of-information-technologies)
   - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
+     - EA Standards
+     - EA Frameworks
+     - EA Tools
+     - Stakeholders
+       - Enterprise Architects(Maestro)
+       - Business Architects(LoB/Industry Specific)
+       - Solution Architects(Contextual)
+       - Technical Architects
+         - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
+	   - IT Administrator
+	   - IT Engineer
+	   - Edge Computing(IoT) Engineer
+         - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
+	   - Software Admin
+	   - Software Engineering
+	   - Software Application Developer
+         - Integration Architects(Custom/Managed)
+	   - API Developer
+	   - Process Orchestrator
+	 - Data Architects
+	   - DB Admin
+	   - DB Developer/Engineer
+	   - Data Modeler
+	   - Data Mart/Warehouse/Lake Solution Engineer
+	   - Data Engineer(ETL/ELT)
+	   - Data Analyst
+	     - BI Expert
+	     - Business Analyst
+	   - Data Scientist
+	   - ML Engineer
+	 - Shared Roles - AIOps/RPA Developer
+       - Security Architects
+         - IAM/SSO
+         - IT Security
+	 - DB Security
+	 - Software Security
+	 - Governance, Risk Management, and Compliance(GRC)
+	 - Security Auditor
+	 - Security Analyst
   - [Organization Structure Modeling](#organization-structure-modeling)
+    - Governance
+      - Org Chart
+    - Board of Directors
+    - Shareholders
+    - Stakeholders
+      - Internal Management
+      - Partners
+      - Costomers/Clients
+    - Internal/External Auditors
   - [IT Infrastructure Modeling](#it-infrastructure-modeling)
   - [Digital Workplace Services](#digital-workplace-services)
   - [Database Technology](#database-technology)
-    - Database Management Softwares
+    - DB History
+    - DB Types
+      - SQL
+        - NewSQL
+      - NoSQL
+        - Key Value
+        - Graph
+	- Big Tables
+	- Document
+      - Object Store
+      - Streaming
+      - Analytic Engines
+      - In-Memory 
+    - DB Management Softwares/Platforms
     - Master Data Management
     - Operational Data Management
+    - Big Data Management
+    - Leading Vendors
   - [Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)
+    - Enterprise Core Lines of Business
+      - [Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)
+        - Accounting and financial close
+	- Management Accounting(Controlling)
+	- Tax Accounting & Compliance
+        - Financial operations
+        - Cost management & profitability analysis
+        - Governance, Enterprise risk and compliance
+        - Financial Planning and Analysis
+        - Treasury Management
+	- Asset Management
+        - Commodity Management
+        - Real Estate Management
+        - Subscription Billing and Revenue Management
+	- Reporting & Dashboards
+	  - GAAP/STAT
+	  - IFRS
+	  - SEC(10K, 10Q, 8K, 20F, 40F)
+	  - Digital Boardrooms
+	  - CFO Dashboard
+	- Finance Analytics
+      - Human Resources Management( Capital, Time, Payroll & Talent)
+      - Sourcing and Procurement ( Supplier, Procurements & Expense)
+      - Manufacturing (Materials, Production Planning, Quality Management)
+      - Supply Chain Management ( Integrated Business, Inventory, Warehouse, Transport, Traceability)
+      - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
+      - Digital Asset Management
+      - R & D Product Life Cycle Management
+      - Professional Services - Project Management ( Commercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
+      - ERP Implementation ( Planning, Forecasting & Development)
+        - For Small businesses & Startups
+        - For Medium Businesses
+        - For Large Businesses
+    - ERP Software Leading Vendors Portfolios
+    - Industry Specific ERP Softwares
   - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
     - Service Oriented Architecture
     - Event Based Architecture
