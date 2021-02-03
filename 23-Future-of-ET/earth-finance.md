@@ -31,8 +31,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![20Month_December](https://www.mckinsey.com/~/media/McKinsey/McKinsey%20Solutions/Panorama/Chart%20of%20the%20Month_December%202017_740px_expanded_1.svgz)
 
 
------------
---------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![industry](https://s3.amazonaws.com/xmindshare/preview/bbnq-tyNMdrz-81686.png)
 
 --------------
@@ -44,8 +45,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 --------
 ![Tech_Insurance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Insurance.png)
 
----------------
--------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![/top-finance-job-titles-Ongig](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12081452/top-finance-job-titles-Ongig.png)
 
 ---------------
@@ -55,8 +57,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![Tech_cfo1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_cfo1.png)
 
---------
---------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Finance+Competency+Model](https://images.squarespace-cdn.com/content/v1/5be6dc95e7494066d2c41e81/1590058259993-5S9PY9U1Q0ZICVRUWS98/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbeDbaZv1s3QfpIA4TYnL5Qao8BosUKjCVjCf8TKewJIH3bqxw7fF48mhrq5Ulr0Hg/Finance+Competency+Model.png)
 -----
 ![CFO-to-CEO-1](https://www.draxexecutive.com/wp-content/uploads/2020/11/CFO-to-CEO-1.png)
@@ -102,8 +105,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------
 ![fin_vcfo](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_vcfo.png)
 
---------------
--------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![finance-as-a-career-3-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-3-1024.jpg?cb=1405484279)
 -----------
 ![finance-as-a-career-30-1024](https://image.slidesharecdn.com/financeasacareer-140716041328-phpapp02/95/finance-as-a-career-30-1024.jpg?cb=1405484279)
@@ -144,8 +148,10 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![image001](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image014.jpg)
 --------
 ![image001](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/image015.jpg)
----------------
-------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![finance](https://solvanni.com/wp-content/uploads/2020/09/finance-1024x535.png)
 -------
 ![question-7-graphic](https://www.scottmadden.com/content/uploads/2012/08/question-7-graphic.png)
@@ -160,8 +166,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ----------
 ![Organization-Structure-Budgetary-Contro](https://www.bbamantra.com/wp-content/uploads/2017/12/Organization-Structure-Budgetary-Control.jpg)
 
------------------
--------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![four-budgeting-methods-1024x399](https://cdn.corporatefinanceinstitute.com/assets/four-budgeting-methods-1024x399.png)
 --------------
 ![Capital+Budgeting+Methods](https://slideplayer.com/slide/3556176/12/images/6/Capital+Budgeting+Methods.jpg)
@@ -175,8 +182,10 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![Factors-affecting-Cost-of-Capital.](https://efinancemanagement.com/wp-content/uploads/2018/04/Factors-affecting-Cost-of-Capital.png)
 ----------
 ![139f8d2718e7681b47bbefd393ab336e](https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/139f8d2718e7681b47bbefd393ab336e/thumb_1200_927.png)
----------------------
-------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Budget](https://www.businessballs.com/pluginfile.php/25132/mod_accelerate/attachments/792/Budget%20Heirarchy.png)
 -------
 ![12083724](https://d2shvezvv4hf5p.cloudfront.net/wp-content/uploads/2020/04/12083724/finance-job-titles-hierarchy-Ongig.png)
@@ -240,8 +249,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03](https://www.slideteam.net/media/catalog/product/cache/960x720/b/u/budgeting_techniques_methods_and_strategies_powerpoint_presentation_slides_Slide03.jpg)
 
-----------
-------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![State-of-Fintech-Updated-Pinwheel](https://cbi-research-portal-uploads.s3.amazonaws.com/2020/07/29121858/2020.07.13-State-of-Fintech-Updated-Pinwheel.png)
 
 -----
@@ -293,8 +303,49 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ![Reg-Tech-2017-VF4](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/02/Reg-Tech-2017-VF4.png)
 
----------------
----------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![cfo_role](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/cfo_role.png)
+-----------
+![fin_arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_arch.png)
+-----------
+![fin_arch2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_arch2.png)
+
+------------
+![fin_advisor](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_advisor.png)
+------------
+![fin_bigp](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_bigp.png)
+------------
+![fin_cc](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_cc.png)
+------------
+![fin_continous](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_continous.png)
+------------
+![fin_df](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_df.png)
+------------
+![fin_dgital](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_dgital.png)
+------------
+![fin_dmodel](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_dmodel.png)
+------------
+![]()
+------------
+![]()
+------------
+![]()
+------------
+![]()
+------------
+![]()
+------------
+![]()
+------------
+![]()
+------------
+![]()
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![btp_fi](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi.PNG)
 -------
 ![btp_fi2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi2.PNG)
@@ -330,8 +381,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ----------
 ![fin_bus](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_bus.png)
 
--------------
-----------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![finb2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/finb2.PNG)
 --------
@@ -347,8 +398,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![finb_alg](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/finb_alg.PNG)
 
----------
-----------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![fin_ds](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_ds.png)
 ---------
@@ -422,8 +473,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![fin_master30](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_master30.png)
 
--------
-----------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### IT for Banks
 
@@ -504,8 +555,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 --------
 ![XPwP-zKKQCpB-99887](https://s3.amazonaws.com/xmindshare/preview/XPwP-zKKQCpB-99887.png)
 
----------
----------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - [2020 banking and capital markets outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook-2020.html)
@@ -540,8 +591,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 -----
 ![aw9VExEg9i546wQB5U](https://miro.medium.com/max/7000/1*aw9VExEg9i546wQB5U-rmw.jpeg)
 
-------------
-----------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![fin_bn](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_bn.png)
 -------
 ![fin_bnk](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_bnk.png)
@@ -574,8 +626,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 -------
 ![fin_inv7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_inv7.png)
 
--------------
-----------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![403541212](https://www.snl.com/articles/403541212.png)
 
 ---------
@@ -621,8 +674,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![]()
 
---------
------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![introduction](https://image.slidesharecdn.com/introductiontothecorporategovernance-161109181749/95/introduction-to-the-corporate-governance-15-1024.jpg?cb=1478715578)
 ------------
@@ -707,8 +760,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ![6577_Fig1](https://www2.deloitte.com/content/dam/insights/us/articles/6577_FSI-Path-to-CEO-Report-Layout/figures/6577_Fig1.jpg)
 
----------
-------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![fin0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin1.png)
 ------------------------
@@ -810,8 +863,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 --------
 ![fin_iec](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/fin_iec.jpg)
 
-------------
-----------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Fundamentals-of-Accounting](https://efinancemanagement.com/wp-content/uploads/2020/06/Fundamentals-of-Accounting.png)
 
 ----------
@@ -932,8 +986,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 -----
 - [investment_notes](http://sanjaymeena.io/investment_notes/)
 
----------------------
---------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![cfa-careers-breakdown](https://ipassfinanceexams.com/wp-content/uploads/2014/03/cfa-careers-breakdown.jpg)
 ---------
@@ -950,8 +1004,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ---------
 ![compare-financial-qualifications-difficulty-cfa-frm-caia-esg-imc-investment-foundations_orig](https://www.300hours.com/wp-content/uploads/2020/12/compare-financial-qualifications-difficulty-cfa-frm-caia-esg-imc-investment-foundations_orig.png)
 
--------
----------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![jDbc-cnjskrJ](https://s3.amazonaws.com/xmindshare/preview/jDbc-cnjskrJ-64688.png)
 --------
 ![money](https://s3.amazonaws.com/xmindshare/preview/money-zzaam-1314744572344.jpg)
@@ -1004,8 +1059,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![53b531059b93a4ed93b14f117ba246f2](https://i.pinimg.com/originals/53/b5/31/53b531059b93a4ed93b14f117ba246f2.jpg)
 
  
- -----------
- ------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  <div class="col-12 share-map__outline-wrapper">
 <div class="d-block d-md-none mt-4 mb-2">
@@ -6132,5 +6187,5 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
  
  
  
--------
--------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
