@@ -305,7 +305,19 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![fin_roles5](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_roles5.png)
 
+-------
+![fin_roles6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_roles6.png)
+-----------
+![fin_role](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_role.png)
+-------
+![fin_roles2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_roles2.png)
+--------
+![fin_roles3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_roles3.png)
+--------
+![fin_roles4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_roles4.png)
+--------
 ![cfo_role](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/cfo_role.png)
 -----------
 ![fin_arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_arch.png)
@@ -339,7 +351,11 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------------
 ![fin_goup](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_goup.png)
 ------------
-![]()
+![fin_int](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_int.png)
+------------
+![fin_ops](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_ops.png)
+------------
+![fin_plan](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_plan.png)
 ------------
 ![]()
 ------------
@@ -350,6 +366,11 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![]()
 ------------
 ![]()
+------------
+![fin_oracle](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_oracle.png)
+------------
+![fin_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_map.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
