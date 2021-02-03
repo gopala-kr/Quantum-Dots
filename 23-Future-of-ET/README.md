@@ -57,9 +57,10 @@
     - Travel
       - Tourism
       - Friegt/Cargo(Air/Ship/Ground)
-      - Rail
+      - Rail & Road
     - Healthcare
     - Energy
+      - Oil & Gas
     - Chemicals
     - Life Sciences
   - Future/Emerging
@@ -95,16 +96,16 @@
        - Solution Architects(Contextual)
        - Technical Architects
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
-	   - IT Administrator
-	   - IT Engineer
-	   - Edge Computing(IoT) Engineer
+            - IT Administrator
+	    - IT Engineer
+	    - Edge Computing(IoT) Engineer
          - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
-	   - Software Admin
-	   - Software Engineering
-	   - Software Application Developer
+	    - Software Admin
+	    - Software Engineering
+	    - Software Application Developer
          - Integration Architects(Custom/Managed)
-	   - API Developer
-	   - Process Orchestrator
+	    - API Developer
+	    - Process Orchestrator
 	 - Data Architects
 	   - DB Admin
 	   - DB Developer/Engineer
@@ -112,8 +113,8 @@
 	   - Data Mart/Warehouse/Lake Solution Engineer
 	   - Data Engineer(ETL/ELT)
 	   - Data Analyst
-	     - BI Expert
-	     - Business Analyst
+	      - BI Expert
+	      - Business Analyst
 	   - Data Scientist
 	   - ML Engineer
 	 - Shared Roles - AIOps/RPA Developer
@@ -149,8 +150,8 @@
 	- Document
       - Object Store
       - Streaming
-      - Analytic Engines
-      - In-Memory 
+      - Analytics Engines
+      - In-Memory DBs
     - DB Management Softwares/Platforms
     - Master Data Management
     - Operational Data Management
@@ -162,9 +163,9 @@
         - Accounting and financial close
 	- Management Accounting(Controlling)
 	- Tax Accounting & Compliance
-        - Financial operations
-        - Cost management & profitability analysis
-        - Governance, Enterprise risk and compliance
+        - Financial Operations
+        - Cost Management & Profitability Analysis
+        - Governance, Enterprise Risk and Compliance
         - Financial Planning and Analysis
         - Treasury Management
 	- Asset Management
@@ -201,9 +202,24 @@
      - Serverless Architecture
      - API Management
    - [Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)
+     - Data Engineering(ELT/ETL)
      - Practical DataOps
+   - Enterprise Analytics
+     - Planning & Analysis Tools
+     - BI Dashbord & Reporting Tools
+     - Viz & Spatial Analysis Tools
+     - Predictive Analytics
+     - Use Cases
+       - Finance/Accounting Analytics
+       - Customer Analytics
+       - Operational Analytics
+       - People Analytics
    - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
    - [AI in Enterprise Processes](#ai-in-enterprise-processes)
+     - RPA
+     - AIOps
+     - Data Science
+     - ML/DL Engineering
      - Practical MLOps - ML pipelines using CI/CD
    - [Experience Design](#experience-design)
    - [Enterprise Information Architecture Review](#information-architecture-review)
@@ -534,8 +550,7 @@
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
 -------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
---------
-![b2b2c](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/b2b2c.PNG)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6731,6 +6746,9 @@ IIoT Platform
 ![landscape](https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/12/IOT-landscape.png?ssl=1)
 -------
 ![IoT_Forrester](https://blogs-images.forbes.com/gilpress/files/2016/01/IoT_Forrester.gif?)
+
+--------
+![b2b2c](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/b2b2c.PNG)
 -------
 ![IoT-Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X6.png)
 ------
