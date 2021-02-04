@@ -115,17 +115,17 @@
 	 - Data Architects
            - DB Admin
            - DB Developer/Engineer
-	   - Data Modeler
-	   - MDG/RDM Expert
-	   - Data Quality Engineer
-	   - Data Mart/Warehouse/Lake Solution Engineer
+           - Data Modeler
+           - MDG/RDM Expert
+           - Data Quality Engineer
+           - Data Mart/Warehouse/Lake Solution Engineer
            - Big Data Engineer
 	   - Data Engineer(ETL/ELT)
-	   - Data Analyst
+           - Data Analyst
 	      - BI Expert
 	      - Business Process Analyst
-	   - Data Scientist
-	   - ML Engineer
+           - Data Scientist
+           - ML Engineer
 	 - Shared Roles - AIOps/RPA Developer
        - Security Architects
          - CISO
@@ -173,7 +173,7 @@
         - Accounting and financial close
         - Management Accounting(Controlling)
         - Tax Accounting & Compliance
-	- Enterprise Performance Management
+        - Enterprise Performance Managemet
         - Financial Operations
         - Cost Management & Profitability Analysis
         - Governance, Enterprise Risk and Compliance
