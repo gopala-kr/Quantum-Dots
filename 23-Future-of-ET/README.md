@@ -93,27 +93,27 @@
      - Stakeholders
        - Enterprise Architects(Maestro)
        - Business Architects(LoB/Industry Specific)
-         - BUsiness Owner
+         - Business Owner
          - Business Analyst
 	 - Functional Expert
        - Solution Architects(Contextual)
        - Technical Architects
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
-	   - IT Administrator
-	   - IT Engineers
-	   - IT Technitians
-	   - IT Solution Owner
-	   - Edge Computing(IoT) Engineer
+           - IT Administrator
+           - IT Engineers
+           - IT Technitians
+           - IT Solution Owner
+           - Edge Computing(IoT) Engineer
          - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
-	   - Packaged/SaaS Software Admin
-	   - Software Engineering
-	   - Software Application Developer
+           - Packaged/SaaS Software Admin
+           - Software Engineering
+           - Software Application Developer
          - Integration Architects(Custom/Managed)
-	   - API Developer
-	   - Process Orchestrator
+           - API Developer
+           - Process Orchestrator
 	 - Data Architects
-	   - DB Admin
-	   - DB Developer/Engineer
+           - DB Admin
+           - DB Developer/Engineer
 	   - Data Modeler
 	   - MDG/RDM Expert
 	   - Data Quality Engineer
@@ -128,11 +128,11 @@
        - Security Architects
          - IAM/SSO
          - IT Security
-	 - DB Security
-	 - Software Security
-	 - Governance, Risk Management, and Compliance(GRC)
-	 - Security Auditor
-	 - Security Risk Analyst
+         - DB Security
+         - Software Security
+         - Governance, Risk Management, and Compliance(GRC)
+         - Security Auditor
+         - Security Risk Analyst
   - [Organization Structure Modeling](#organization-structure-modeling)
     - Governance
       - Org Chart
@@ -175,17 +175,17 @@
         - Governance, Enterprise Risk and Compliance
         - Financial Planning and Analysis
         - Treasury Management
-	- Asset Management
+        - Asset Management
         - Commodity Management
         - Real Estate Management
         - Subscription Billing and Revenue Management
         - Reporting & Dashboards
-	  - GAAP/STAT
-	  - IFRS
-	  - SEC(10K, 10Q, 8K, 20F, 40F)
-	  - Digital Boardrooms
-	  - CFO Dashboard
-	- Finance Analytics
+          - GAAP/STAT
+          - IFRS
+          - SEC(10K, 10Q, 8K, 20F, 40F)
+          - Digital Boardrooms
+          - CFO Dashboard
+        - Finance Analytics
       - Human Resources Management( Capital, Time, Payroll & Talent)
       - Sourcing and Procurement ( Supplier, Procurements & Expense)
       - Manufacturing (Materials, Production Planning, Quality Management)
@@ -211,7 +211,7 @@
    - [Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)
      - Data Engineering(ELT/ETL)
      - Practical DataOps
-   - Enterprise Analytics
+   - [Enterprise Analytics](#enterprise-analytics)
      - Planning & Analysis Tools
      - BI Dashbord & Reporting Tools
      - Viz & Spatial Analysis Tools
