@@ -2,6 +2,8 @@
 - [CIO Profiles](https://www.nextiva.com/blog/top-cios.html)
 
 ![tech_cio](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio.png)
+-------------
+![ET_CIO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/ET_CIO.png)
 --------------
 ![tech_cio_analytics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_analytics.png)
 -----------------
