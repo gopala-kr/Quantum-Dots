@@ -56,7 +56,7 @@
     - Entertainment
     - Travel
       - Tourism
-      - Friegt/Cargo(Air/Ship/Ground)
+      - Frieght/Cargo(Air/Ship/Ground)
       - Rail & Road
     - Healthcare
     - Energy
@@ -93,23 +93,30 @@
      - Stakeholders
        - Enterprise Architects(Maestro)
        - Business Architects(LoB/Industry Specific)
+         - BUsiness Owner
+         - Business Analyst
+	 - Functional Expert
        - Solution Architects(Contextual)
        - Technical Architects
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
-            - IT Administrator
-	    - IT Engineer
-	    - Edge Computing(IoT) Engineer
+	   - IT Administrator
+	   - IT Engineers
+	   - IT Technitians
+	   - IT Solution Owner
+	   - Edge Computing(IoT) Engineer
          - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
-	    - Software Admin
-	    - Software Engineering
-	    - Software Application Developer
+	   - Packaged/SaaS Software Admin
+	   - Software Engineering
+	   - Software Application Developer
          - Integration Architects(Custom/Managed)
-	    - API Developer
-	    - Process Orchestrator
+	   - API Developer
+	   - Process Orchestrator
 	 - Data Architects
 	   - DB Admin
 	   - DB Developer/Engineer
 	   - Data Modeler
+	   - MDG/RDM Expert
+	   - Data Quality Engineer
 	   - Data Mart/Warehouse/Lake Solution Engineer
 	   - Data Engineer(ETL/ELT)
 	   - Data Analyst
@@ -125,7 +132,7 @@
 	 - Software Security
 	 - Governance, Risk Management, and Compliance(GRC)
 	 - Security Auditor
-	 - Security Analyst
+	 - Security Risk Analyst
   - [Organization Structure Modeling](#organization-structure-modeling)
     - Governance
       - Org Chart
@@ -146,8 +153,8 @@
       - NoSQL
         - Key Value
         - Graph
-	- Big Tables
-	- Document
+        - Big Tables
+        - Document
       - Object Store
       - Streaming
       - Analytics Engines
@@ -161,8 +168,8 @@
     - Enterprise Core Lines of Business
       - [Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)
         - Accounting and financial close
-	- Management Accounting(Controlling)
-	- Tax Accounting & Compliance
+        - Management Accounting(Controlling)
+        - Tax Accounting & Compliance
         - Financial Operations
         - Cost Management & Profitability Analysis
         - Governance, Enterprise Risk and Compliance
@@ -172,7 +179,7 @@
         - Commodity Management
         - Real Estate Management
         - Subscription Billing and Revenue Management
-	- Reporting & Dashboards
+        - Reporting & Dashboards
 	  - GAAP/STAT
 	  - IFRS
 	  - SEC(10K, 10Q, 8K, 20F, 40F)
