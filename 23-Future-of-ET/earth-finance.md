@@ -685,20 +685,29 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![RD_Images](https://mordorintelligence.com/images_db/RD_Images/1560784184006_Trend%201%20Statista.png)
 ---------
 ![Landscape-of-US-Banking-Industry-2017-Large](https://i2.wp.com/bankbclp.com/wp-content/uploads/2018/07/Landscape-of-US-Banking-Industry-2017-Large.png)
+
 ---------
-![]()
+---------------
+
+![standards203-22-2](https://blog.thebrokerlist.com/wp-content/uploads/2018/03/standards203-22-2.png)
 ---------
-![]()
+![Difference-Between-U.S.-GAAP-and-IFRS](https://diff.wiki/images/7/71/Difference-Between-U.S.-GAAP-and-IFRS.png)
 ---------
-![]()
+![20161028001316](https://www.moodysanalytics.com/-/media/web-assets/publications/risk-perspectives/edition-images/viii-convergence-risk-finance-accounting-cecl/articles-graphics/1-6-cecl-vs-ifrs9/fig-2-large-similarities-differences.jpg?modified=20161028001316)
 ---------
-![]()
+![tcdy81hlji661](https://i.redd.it/tcdy81hlji661.jpg)
 ---------
-![]()
+![XuhAy3JrkyxqI_Ad6WJloZxnEYJTyewJiOptaOnfqQM](https://external-preview.redd.it/XuhAy3JrkyxqI_Ad6WJloZxnEYJTyewJiOptaOnfqQM.jpg?auto=webp&s=3708f5c5c581b94110a5828044118a77ebd6f78d)
 ---------
-![]()
+![2gampyW](https://i.imgur.com/2gampyW.png)
 ---------
-![]()
+- [https://www.ifrs-gaap.com/](https://www.ifrs-gaap.com/)
+
+![Basic-US-GAAP-Chart-of-Accounts](https://www.ifrs-gaap.com/sites/default/files/upload/Basic-US-GAAP-Chart-of-Accounts.png)
+------
+![Advanced-Universal-COA](https://www.ifrs-gaap.com/sites/default/files/upload/Advanced-Universal-COA.png)
+-------
+![Expanded-Universal-COA](https://www.ifrs-gaap.com/sites/default/files/upload/Expanded-Universal-COA.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
