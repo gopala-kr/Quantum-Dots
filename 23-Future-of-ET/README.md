@@ -94,8 +94,8 @@
        - Enterprise Architects(Maestro)
        - Business Architects(LoB/Industry Specific)
          - Business Owner
-         - Business Analyst
-	 - Functional Expert
+         - Business Analys
+         - Functional Expert
        - Solution Architects(Contextual)
        - Technical Architects
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
@@ -106,6 +106,7 @@
            - Edge Computing(IoT) Engineer
          - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
            - Packaged/SaaS Software Admin
+           - DevOps Engineer
            - Software Engineering
            - Software Application Developer
          - Integration Architects(Custom/Managed)
@@ -118,18 +119,20 @@
 	   - MDG/RDM Expert
 	   - Data Quality Engineer
 	   - Data Mart/Warehouse/Lake Solution Engineer
+           - Big Data Engineer
 	   - Data Engineer(ETL/ELT)
 	   - Data Analyst
 	      - BI Expert
-	      - Business Analyst
+	      - Business Process Analyst
 	   - Data Scientist
 	   - ML Engineer
 	 - Shared Roles - AIOps/RPA Developer
        - Security Architects
+         - CISO
          - IAM/SSO
-         - IT Security
-         - DB Security
-         - Software Security
+	 - IT Security
+	 - DB Security
+         - Software/App Security
          - Governance, Risk Management, and Compliance(GRC)
          - Security Auditor
          - Security Risk Analyst
@@ -170,6 +173,7 @@
         - Accounting and financial close
         - Management Accounting(Controlling)
         - Tax Accounting & Compliance
+	- Enterprise Performance Management
         - Financial Operations
         - Cost Management & Profitability Analysis
         - Governance, Enterprise Risk and Compliance
@@ -186,6 +190,7 @@
           - Digital Boardrooms
           - CFO Dashboard
         - Finance Analytics
+        - Finance Leading Software Vendors
       - Human Resources Management( Capital, Time, Payroll & Talent)
       - Sourcing and Procurement ( Supplier, Procurements & Expense)
       - Manufacturing (Materials, Production Planning, Quality Management)
