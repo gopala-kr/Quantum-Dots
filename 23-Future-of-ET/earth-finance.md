@@ -700,6 +700,10 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![XuhAy3JrkyxqI_Ad6WJloZxnEYJTyewJiOptaOnfqQM](https://external-preview.redd.it/XuhAy3JrkyxqI_Ad6WJloZxnEYJTyewJiOptaOnfqQM.jpg?auto=webp&s=3708f5c5c581b94110a5828044118a77ebd6f78d)
 ---------
 ![2gampyW](https://i.imgur.com/2gampyW.png)
+
+--------
+![ifrs-igaap-usgaap-1-1024](https://image.slidesharecdn.com/supergaapdoc-12466411001-phpapp02/95/ifrs-igaap-usgaap-1-1024.jpg?cb=1246623233)
+
 ---------
 - [https://www.ifrs-gaap.com/](https://www.ifrs-gaap.com/)
 
