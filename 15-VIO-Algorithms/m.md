@@ -1117,5 +1117,14 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 -----------
 ![Ww59hphyGke9LkMU](https://miro.medium.com/max/1050/0*Ww59hphyGke9LkMU)
 
+--------
+![auto](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/auto.png)
+---------
+![automotive_scn](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn.PNG)
+---------
+![automotive_scn_2w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_2w.PNG)
+---------
+![automotive_scn_4w](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/automotive_scn_4w.PNG)
+
 ------------
 --------------
