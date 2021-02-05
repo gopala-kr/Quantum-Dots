@@ -87,32 +87,32 @@
 - Digitalization of Earth Organization
   - [Evolution of Information Technologies](#evolution-of-information-technologies)
   - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
-     - EA Standards
-     - EA Frameworks
-     - EA Tools
-     - Stakeholders
-       - Enterprise Architects(Maestro)
-       - Business Architects(LoB/Industry Specific)
+     - **EA Standards**
+     - **EA Frameworks**
+     - **EA Tools**
+     - **Stakeholders**
+       - **Enterprise Architects(Maestro)**
+       - **Business Architects(LoB/Industry Specific)**
          - Business Owner
          - Business Analys
          - Functional Expert
-       - Solution Architects(Contextual)
-       - Technical Architects
+       - **Solution Architects(Contextual)**
+       - **Technical Architects**
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
            - IT Administrator
            - IT Engineers
            - IT Technitians
            - IT Solution Owner
            - Edge Computing(IoT) Engineer
-         - Software Architects(Custom/Packaged/SaaS/Cloud-Native)
+         - **Software Architects(Custom/Packaged/SaaS/Cloud-Native)**
            - Packaged/SaaS Software Admin
            - DevOps Engineer
            - Software Engineering
            - Software Application Developer
-         - Integration Architects(Custom/Managed)
+         - **Integration Architects(Custom/Managed)**
            - API Developer
            - Process Orchestrator
-	 - Data Architects
+	 - **Data Architects**
            - DB Admin
            - DB Developer/Engineer
            - Data Modeler
@@ -127,7 +127,7 @@
            - Data Scientist
            - ML Engineer
 	 - Shared Roles - AIOps/RPA Developer
-       - Security Architects
+       - **Security Architects**
          - CISO
          - IAM/SSO
 	 - IT Security
@@ -136,7 +136,7 @@
          - Governance, Risk Management, and Compliance(GRC)
          - Security Auditor
          - Security Risk Analyst
-  - [Organization Structure Modeling](#organization-structure-modeling)
+  - **[Organization Structure Modeling](#organization-structure-modeling)**
     - Governance
       - Org Chart
     - Board of Directors
@@ -146,9 +146,9 @@
       - Partners
       - Costomers/Clients
     - Internal/External Auditors
-  - [IT Infrastructure Modeling](#it-infrastructure-modeling)
-  - [Digital Workplace Services](#digital-workplace-services)
-  - [Database Technology](#database-technology)
+  - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
+  - **[Digital Workplace Services](#digital-workplace-services)**
+  - **[Database Technology](#database-technology)**
     - DB History
     - DB Types
       - SQL
@@ -168,8 +168,8 @@
     - Big Data Management
     - Leading Vendors
   - [Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)
-    - Enterprise Core Lines of Business
-      - [Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)
+    - **Enterprise Core Lines of Business**
+      - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
         - Accounting and financial close
         - Management Accounting(Controlling)
         - Tax Accounting & Compliance
@@ -192,9 +192,9 @@
           - SEC(10K, 10Q, 8K, 20F, 40F)
           - Digital Boardrooms
           - CFO Dashboard
-        - Finance Analytics
+        - Finance Analytics - Planning, Budgetting & Forecasting(Predictive)
         - Finance Leading Software Vendors
-      - Human Resources Management
+      - **Human Resources Management**
         - Payrole Administration
         - Benefits Adminitration
         - Conmpansation Administration
@@ -208,7 +208,9 @@
         - Succession Planning
         - Talent Acquisition
         - Workforce Management
-      - Sourcing and Procurement (Spend Management -S2P/P2P)
+	- Leading HR & Employee Management Software Vendors
+	- HR & People Analytics - Planning, Budgetting & Forecasting(Predictive)
+      - **Sourcing and Procurement (Spend Management -S2P/P2P)**
         - Services
         - Goods
         - Catalogue
@@ -222,8 +224,34 @@
           - Scorecards
         - PO/Invoices
         - Leading S2P/P2P Software Vendors
-      - Manufacturing (Materials, Production Planning, Quality Management)
-      - Supply Chain Management ( Integrated Business, Inventory, Warehouse, Transport, Traceability)
+	- Spend Analytics - Planning, Budgetting & Forecasting(Predictive)
+      - **Manufacturing**
+        - Production Planning(PP)
+          - Production Requirements
+          - Planned/Process Orders
+        - Material Requirements Planning
+        - Bill of Materials(BoMs)
+        - Capacity Requirements Planning
+        - Demand Management
+        - Production Orders
+        - Sales & Operations Planning
+        - Quality Management
+        - Shared Enterprise Process --> Materials-Sales-Distribution, Finance-Controlling, Project-Resource Management
+        - Production Analytics - Planning, Budgetting & Forecasting(Predictive)
+        - Leading Manufacturing Software Vendors
+      - Supply Chain Management
+        - Integrated Business Planning
+        - Inventory Management
+        - Channel Management
+        - Warehouse Management
+        - Transport & Traceability Management
+        - Finance & Payments Management
+        - Supplier & Customer Service management
+          - OEM's
+          - Dealers
+          - Retailers
+          - Clients/Customers
+        - SCM Analytics - Planning, Budgetting & Forecasting(Predictive)
       - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
       - Digital Asset Management
       - R & D Product Life Cycle Management
