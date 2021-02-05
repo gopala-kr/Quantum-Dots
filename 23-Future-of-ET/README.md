@@ -7247,6 +7247,8 @@ RPA
 -------------
 ![OJpvGWneX](https://miro.medium.com/max/1469/0*pY8S1N-OJpvGWneX)
 
+-------------
+![cover-Enterprise-AI-landscape-2020-updated](https://qjjnh3a9hpo1nukrg1fwoh71-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/cover-Enterprise-AI-landscape-2020-updated-1536x768.jpg)
 
 -------------
 
