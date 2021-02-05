@@ -126,12 +126,12 @@
 	      - Business Process Analyst
            - Data Scientist
            - ML Engineer
-	 - Shared Roles - AIOps/RPA Developer
+         - Shared Roles - AIOps/RPA Developer
        - **Security Architects**
          - CISO
          - IAM/SSO
-	 - IT Security
-	 - DB Security
+         - IT Security
+         - DB Security
          - Software/App Security
          - Governance, Risk Management, and Compliance(GRC)
          - Security Auditor
@@ -171,7 +171,21 @@
     - **Enterprise Core Lines of Business**
       - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
         - Accounting and financial close
+          - Chart of Accounts
+          - GL Accounting
+          - AP, AR, AA Accounting
+          - Closing
+            - Month, QTD, YTD
+            - Balence Sheet
+            - Profit & Loss
+            - Cash-Flow
+            - Trial Balence Adjustments
         - Management Accounting(Controlling)
+          - Cost Center Accounting
+          - Profit Center Accounting
+          - Product Cost Planning
+          - Cost Object Controlling
+          - Profitability Analysis
         - Tax Accounting & Compliance
         - Enterprise Performance Managemet
         - Financial Operations
@@ -252,7 +266,17 @@
           - Retailers
           - Clients/Customers
         - SCM Analytics - Planning, Budgetting & Forecasting(Predictive)
-      - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
+      - Customer Relationship Management 
+        - Customer Interaction Management 
+        - Sales
+          - Pricing & Conditions
+          - Sales Process
+          - Billing Process
+          - Shipping Process
+          - Sales Analytics
+        - Engagements
+        - Marketing
+        - Commerce
       - Digital Asset Management
       - R & D Product Life Cycle Management
       - Professional Services - Project Management ( Commercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
