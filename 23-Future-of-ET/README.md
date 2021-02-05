@@ -27,12 +27,11 @@
 
  ##### [Contents](#contents)
 
-- [Earth Industrial Evolution](#earth-industrial-evolution)
-- [Earth Industries](#industries-and-economic-sectors)
-  - Earth Workforce 
-  - Evolution from Medieval
-  - Vintage
-  - Evolved + Contemporary
+- **[Earth Industrial Evolution](#earth-industrial-evolution)**
+- **[Earth Industries](#industries-and-economic-sectors)**
+  - **Vintage**
+  - **Evolution from Medieval**
+  - **Evolved + Contemporary**
     - Aerospace
       - Space
       - Airline
@@ -63,7 +62,7 @@
       - Oil & Gas
     - Chemicals
     - Life Sciences
-  - Future/Emerging
+  - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Plannets?
     - Space Manufacturing(Zero Gravity)-->Cost effective-->Reliability?Rare Earth Elements?Off-earth/0-G Advantages
@@ -81,14 +80,15 @@
     - Neuroscience + HBP + IT + AI ==> BCI --> Neurotech Chips (High BW Connectivity) --> Telepathy --> Telekinesis 
     - Nuclear FusionTech
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
-- [Global Organizations](#global-organizations)
-- [Technology Progress and Evolution](#technology-progress-and-evolution)
-- [Technology Industry Value Chain](#technology-industry-value-chain)
-- Digitalization of Earth Organization
-  - [Evolution of Information Technologies](#evolution-of-information-technologies)
-  - [Enterprise Architecture Modeling](#enterprise-architecture-modeling)
-     - **EA Standards**
-     - **EA Frameworks**
+- **[Global Organizations](#global-organizations)**
+- **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
+- **[Technology Progress and Evolution](#technology-progress-and-evolution)**
+- **[Technology Industry Value Chain](#technology-industry-value-chain)**
+- **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
+  - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
+  - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
+     - **EA Standards & Frameworks**
+       - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate
      - **EA Tools**
      - **Stakeholders**
        - **Enterprise Architects(Maestro)**
@@ -129,11 +129,12 @@
          - Shared Roles - AIOps/RPA Developer
        - **Security Architects**
          - CISO
-         - IAM/SSO
+         - User Administrator(IAM/SSO)
          - IT Security
          - DB Security
          - Software/App Security
          - Governance, Risk Management, and Compliance(GRC)
+         - User Data Privacy Analyst
          - Security Auditor
          - Security Risk Analyst
   - **[Organization Structure Modeling](#organization-structure-modeling)**
@@ -162,12 +163,13 @@
       - Streaming
       - Analytics Engines
       - In-Memory DBs
+      - Spatial
     - DB Management Softwares/Platforms
     - Master Data Management
     - Operational Data Management
-    - Big Data Management
-    - Leading Vendors
-  - [Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)
+    - Big Data Management & Tools
+    - Leading DB-MS/Platform Vendors
+  - **[Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)**
     - **Enterprise Core Lines of Business**
       - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
         - Accounting and financial close
@@ -191,11 +193,19 @@
         - Financial Operations
         - Cost Management & Profitability Analysis
         - Governance, Legal and Compliance
-        - Enterprise Risk
+        - Enterprise Risk Management
           - Credit Risk
           - Market Risk
+          - Analytics - Risk Predictive Models
         - Financial Planning and Analysis
         - Treasury Management
+          - Cash Operations
+          - Bank Account Management
+          - Transaction Manager
+          - Liquidity Management
+          - Payment Processing
+          - Hedge Management
+          - Hedge Accounting
         - Asset Management
         - Commodity Management
         - Real Estate Management
@@ -206,12 +216,12 @@
           - SEC(10K, 10Q, 8K, 20F, 40F)
           - Digital Boardrooms
           - CFO Dashboard
-        - Finance Analytics - Planning, Budgetting & Forecasting(Predictive)
+        - Finance Analytics - Planning, Budgeting & Forecasting(Predictive)
         - Finance Leading Software Vendors
-      - **Human Resources Management**
-        - Payrole Administration
+      - **Human Resources Management** (Hire to Retire)
+        - Payroll Administration
         - Benefits Adminitration
-        - Conmpansation Administration
+        - Compansation Administration
         - Employee Relations
         - Employee Transition
         - HR Operations
@@ -222,8 +232,10 @@
         - Succession Planning
         - Talent Acquisition
         - Workforce Management
-	- Leading HR & Employee Management Software Vendors
-	- HR & People Analytics - Planning, Budgetting & Forecasting(Predictive)
+        - Travel & Expense Management
+        - Time Management
+        - Leading HR & Employee Management Software Vendors
+        - HR & People Analytics - Planning, Budgeting & Forecasting(Predictive)
       - **Sourcing and Procurement (Spend Management -S2P/P2P)**
         - Services
         - Goods
@@ -238,7 +250,7 @@
           - Scorecards
         - PO/Invoices
         - Leading S2P/P2P Software Vendors
-	- Spend Analytics - Planning, Budgetting & Forecasting(Predictive)
+	- Spend Analytics - Planning, Budgeting & Forecasting(Predictive)
       - **Manufacturing**
         - Production Planning(PP)
           - Production Requirements
@@ -251,9 +263,9 @@
         - Sales & Operations Planning
         - Quality Management
         - Shared Enterprise Process --> Materials-Sales-Distribution, Finance-Controlling, Project-Resource Management
-        - Production Analytics - Planning, Budgetting & Forecasting(Predictive)
+        - Production Analytics - Planning, Budgeting & Forecasting(Predictive)
         - Leading Manufacturing Software Vendors
-      - Supply Chain Management
+      - **Supply Chain Management**
         - Integrated Business Planning
         - Inventory Management
         - Channel Management
@@ -265,64 +277,125 @@
           - Dealers
           - Retailers
           - Clients/Customers
-        - SCM Analytics - Planning, Budgetting & Forecasting(Predictive)
-      - Customer Relationship Management 
-        - Customer Interaction Management 
-        - Sales
+        - SCM Analytics - Planning, Budgeting & Forecasting(Predictive)
+      - **Customer Relationship Management** 
+        - Customer Data(Single Source of Truth)
+        - Sales (Leads to Sales Quote & Order)
           - Pricing & Conditions
           - Sales Process
           - Billing Process
           - Shipping Process
           - Sales Analytics
-        - Engagements
-        - Marketing
-        - Commerce
-      - Digital Asset Management
-      - R & D Product Life Cycle Management
-      - Professional Services - Project Management ( Commercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
-      - ERP Implementation ( Planning, Forecasting & Development)
-        - For Small Businesses & Startups
-        - For Medium Businesses
-        - For Large Businesses
-    - ERP Software Leading Vendors Portfolios
-    - Industry Specific ERP Softwares
-  - [Enterprise Data and Application Integration](#enterprise-data-and-application-integration)
-    - Service Oriented Architecture
-    - Event Based Architecture
-    - Integration Platform as a service(iPaaS)
-      - iPaaS Leading Vendors
+        - Services (Customer Engagment & Support - Post Sales Activities)
+	  - Service Desk Operations
+	  - Dealer/sub-dealer services
+	  - Call Center
+	  - Waranty Management
+	- Marketing(Customer Journeys)
+	  - Detailed Customer Profiles
+	  - Understand Customer
+	  - Deliver Relavant Experiences
+	  - Digital Marketting Tools
+	    - Social Media
+	    - SEO
+	    - Email
+	    - Advertizing
+	    - Website/Content Creation, Hosting/Publishing
+	    - WebAnalytics
+	    - Video Hosting/Publishing
+	    - Mobile App Notifications(Yes)
+	  - Black Marketing
+	- Commerce(Customer Shopping Experiences)
+	  - Online
+	  - In-store
+	- Customer Analytics - Planning, Budgeting & Forecasting(Predictive)
+        - Digital 
+	  - Intelligent UI Experiences
+	  - Mobile/Tablet
+	  - Conversational AI(Text/Voice)
+	  - Robotic
+	  - ML/AI based Recommendations
+	  - IoT
+          - Immersive - Emerging
+	  - Telepathic(Future)
+      - **Asset Management**
+      - **R & D Product/Project Life Cycle Management** (PLM)
+      - **Professional Services**
+        - Project Management ( Commercial, Customer)
+	- Portfolio & Demand Management
+	- Resource Planning 
+	- Capacity Planning
+	- Resource Management
+	  - Time & Expense
+	  - Hard/Soft Bookings
+	- Finace/Budgeting, Planning & Forecasting
+	- Analytics
+	- Leading Software Vendors for Project & Portfolio Management
+      - **ERP Implementation**
+        - Process & Approaches
+	- Tools & Technology
+	- Business Sizes
+          - For Startups
+          - For Small Businesses 
+          - For Medium Businesses
+          - For Large Businesses
+    - **Leading ERP Software Vendors Portfolios**
+    - **Industry Specific ERP Softwares**
+  - **[Enterprise Data and Application Integration](#enterprise-data-and-application-integration)**
+     - Service Oriented Architecture
+     - Event Based Architecture
      - Micro Service Architecture
      - Serverless Architecture
      - API Management
-   - [Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)
+     - Integration Platform as a service(iPaaS)
+       - Leading iPaaS Vendors
+     - Business Process Integration Scenarios
+       - Core Finance Integrations Scenarios
+       - Enterprise Asset management Integrations
+       - Lead to Cash Processing Integrations
+       - Design to Operate Processing(Manufacturing & SCM) Integrations
+       - Source to Pay Processing Integrations
+       - Warehouse Management Integrations
+       - Human Experience Management Integrations
+     - Data Integration Scenarios
+   - **[Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)**
      - Data Engineering(ELT/ETL)
      - Practical DataOps
-   - [Enterprise Analytics](#enterprise-analytics)
-     - Planning & Analysis Tools
+   - **[Enterprise Analytics](#enterprise-analytics)**
+     - Integrated Planning, Consolidation & Analysis Tools
      - BI Dashbord & Reporting Tools
      - Viz & Spatial Analysis Tools
+     - Augmeted Analytics
      - Predictive Analytics
-     - Use Cases
+     - Immersive Analytics
+       - WebVR
+       - VR(standalone)
+       - AR
+       - MR
+     - BI Mobile/Tablet Apps
+     - Analytics Hub
+     - Digital Boardroom(CxO/Board Meetings)
+     - Enterprise Use Cases
        - Finance/Accounting Analytics
        - Customer Analytics
        - Operational Analytics
        - People Analytics
-   - [IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)
-   - [AI in Enterprise Processes](#ai-in-enterprise-processes)
+   - **[IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)**
+   - **[AI in Enterprise Processes](#ai-in-enterprise-processes)**
      - RPA
      - AIOps
      - Data Science
      - ML/DL Engineering
      - Practical MLOps - ML pipelines using CI/CD
-   - [Experience Design](#experience-design)
-   - [Enterprise Information Architecture Review](#information-architecture-review)
+   - **[Experience Design](#experience-design)**
+   - **[Enterprise Information Architecture Review](#information-architecture-review)**
      - EA Artifacts
      - Business Architect View
      - Solution Architect View
      - Technical Architect View
      - Security Architect View
-   - [Enterprise Tech Landscape](#enterprise-tech-landscape)
-   - [Beyond the Digital Frontier](#beyond-the-digital-frontier)
+   - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
+   - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
  
 
 [Back to top](#contents)
@@ -638,6 +711,9 @@
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 ------
 
+![Digital_Enterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Digital_Enterprise.png)
+
+---------------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
@@ -1118,6 +1194,8 @@ Skills
 ![digital_transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/digital_transformation.png)
 ------------
 ![btp_it](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_it.PNG)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2032,6 +2110,9 @@ CRM Customer Engagement Center
 ------
 CRM and Customer Experience Implementation Services
 ![Gartner-MQ-CRM-CX-2020-Matrix](https://www.capgemini.com/wp-content/uploads/2020/04/Gartner-MQ-CRM-CX-2020-Matrix.jpg)
+
+--------
+![2019-CRM-Applications-Market-Shares--scaled](https://www.appsruntheworld.com/wp-content/uploads/2019-CRM-Applications-Market-Shares--scaled.jpg)
 
 ---------
 ![Gartener-Figure1-v2](https://www.ceridian.com/Ceridian/media/WebsiteMedia/Resources/Gartener-Figure1-v2.jpg?ext=.jpg)
@@ -7047,18 +7128,56 @@ Use Cases
 - Finance/Accounting Analytics
 - Operations Analytics
 
+-------------
+- [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
+- [Qlik Sense](https://www.youtube.com/user/qlikview)
+- [SAP Analytics Cloud](https://www.youtube.com/user/SAPAnalyticsTraining/playlists)
+- [Tableau](https://www.youtube.com/c/tableausoftware/playlists)
+- [MicroStrategyBI](https://www.youtube.com/user/MicroStrategyBI)
+- [Google's LookerData](https://www.youtube.com/user/LookerData)
+- [Google Analytics - Data Studio](https://www.youtube.com/user/googleanalytics)
+- [IBM Cognos Analytics](https://www.youtube.com/c/ibmbigdataanalytics/playlists)
+- [TIBCO Spotfire](https://www.youtube.com/user/TibcoSpotfire/playlists)
+- [Amazon QuickSight](https://www.youtube.com/watch?v=Tj0gW4XI6vU)
+- [Oracle Analytics Cloud](https://www.youtube.com/c/OracleAnalytics/playlists)
+- [Infor Birst](https://www.youtube.com/playlist?list=PLbzqMzjlWI2YxgqAiylcezA34W3hv_e6W)
+- [SAS Analtytics](https://www.youtube.com/user/SASsoftware)
+- [Einstein Analytics](https://www.youtube.com/playlist?list=PLaGX-30v1lh1ShjVtkBe5o3QlpruhYqje)
+- [Alteryx Analytics](https://www.youtube.com/user/alteryx/playlists)
+- [Thoughtspot Analytics](https://www.youtube.com/c/Thoughtspot/playlists)
+- [Pyramid Analytics](https://www.youtube.com/user/PyramidAnalytics)
+- [Logi Analytics](https://www.youtube.com/c/LogiAnalyticsSoftware/playlists)
+- [YellowfinBI-Analytics](https://www.youtube.com/c/YellowfinBI-Analytics/playlists)
+- [GoodData](https://www.youtube.com/c/gooddata/playlists)
+- Streaming Analytics - [Splunk](https://www.youtube.com/c/Splunkofficial/playlists) | [Sumo Logic](https://www.youtube.com/user/sumologic) | [moogsoft](https://www.moogsoft.com/) | [BigPandaITOps](https://www.youtube.com/c/BigPandaITOps/playlists) | [PagerDuty](https://www.youtube.com/channel/UCIL6fDywCheNp3rnf_v4R-g) | [xMatters](https://www.youtube.com/user/xMattersinc)
+- Infrastructure Analytics - [Datadog](https://www.youtube.com/user/DatadogHQ) | [OpsRamp](https://www.youtube.com/channel/UCLpvovsRszWh2-uEv2j3dMw) | [Nagios](https://www.youtube.com/user/nagiosvideo/playlists) | [ScienceLogic](https://www.youtube.com/user/ScienceLogic)
+- Network Analytics - [NETSCOUT Systems](https://www.youtube.com/channel/UCDHjK6_cTdEYqoddyzMFi5A) | [Riverbed](https://www.youtube.com/c/riverbed/playlists)
+- App Analytics - [BMC](https://www.youtube.com/c/bmcsoftware/playlists) | [AppDynamics](https://www.youtube.com/channel/UCTL2V4fqMMERSWQa1kT4EMw) | [New Relic](https://www.youtube.com/user/NewRelicInc) | [Dynatrace](https://www.youtube.com/channel/UCcYJ-5q_AfmjQ4XTjTS0o3g) | [OverOps](https://www.youtube.com/c/OverOps/playlists) | [Elastic](https://www.youtube.com/c/OfficialElasticCommunity/playlists)
 
------------------
-![archpatterns1](https://developer.ibm.com/developer/default/articles/bd-archpatterns1/images/fig1.png)
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
 
 -------------
 ![Connector-04](https://www.equalone.com/images/Qlik/Connector-04.png)
+
+-------
+![ds_wb](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/ds_wb.png)
+
 -------
 ![pasted-image-0-40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_X1.png)
 --------
 ![Evolution-of-Augmented-Analytics-Gartner](https://research.aimultiple.com/wp-content/uploads/2020/01/Evolution-of-Augmented-Analytics-Gartner.png)
+
+--------
+
+![conversionrate_example_01](https://pragmaticarchitect.files.wordpress.com/2016/01/conversionrate_example_01.png)
+--------
+![CHtSf55VEAEyfPU](https://pbs.twimg.com/media/CHtSf55VEAEyfPU.jpg)
+-------
+![powered-by-maths-for-humans](https://i0.wp.com/timoelliott.com/blog/wp-content/uploads/2018/03/powered-by-maths-for-humans.jpg?ssl=1)
+--------
+![highleveldistribution_02](https://pragmaticarchitect.files.wordpress.com/2016/01/highleveldistribution_02.png)
+
 -------------
 ![RackMultipart20150131](http://s3.amazonaws.com/eckerson/assets/files/000/000/021/original/RackMultipart20150131-28750-zidvue.jpg?1422738655)
 ---------
@@ -7067,6 +7186,7 @@ Use Cases
 ![value_pyramid](https://blogs.gartner.com/andrew_white/files/2019/05/value_pyramid.png)
 -----------
 ![671810156773382](https://www.researchgate.net/profile/Basmah_El_Haddad/publication/323174816/figure/fig2/AS:671810156773382@1537183431593/1-Evolution-of-Business-Intelligence-BI.jpg)
+
 ------------
 ![data-platform1](https://bizexc.files.wordpress.com/2018/09/data-platform1.png)
 ------------
@@ -7145,33 +7265,17 @@ Use Cases
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
-----------
-![Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409.jpg?resize=1536%2C1193&ssl=1)
----------
-![Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382.jpg?resize=1536%2C829&ssl=1)
 
-------
-![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
-----------
 ![80-Predictive-Maintenance-Companies-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/180-Predictive-Maintenance-Companies-min.png)
 ------
 ![9-Types-of-Predictive-Maintenance-Companies-focusing-on-Analytics-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/9-Types-of-Predictive-Maintenance-Companies-focusing-on-Analytics-min.png)
---------
-![highleveldistribution_02](https://pragmaticarchitect.files.wordpress.com/2016/01/highleveldistribution_02.png)
+
 -----
 ![Global-Predictive-Maintenance-Market-min](https://iot-analytics.com/wp/wp-content/uploads/2019/10/Global-Predictive-Maintenance-Market-min.png)
--------
-![marketingdashboardlandscape](https://blogs.gartner.com/lizzy-foo-kune/files/2019/06/marketingdashboardlandscape.png)
--------
-![conversionrate_example_01](https://pragmaticarchitect.files.wordpress.com/2016/01/conversionrate_example_01.png)
+
+-----------------
 --------
-![CHtSf55VEAEyfPU](https://pbs.twimg.com/media/CHtSf55VEAEyfPU.jpg)
--------
-![powered-by-maths-for-humans](https://i0.wp.com/timoelliott.com/blog/wp-content/uploads/2018/03/powered-by-maths-for-humans.jpg?ssl=1)
-------
-![Screen-Shot-2013-04-25-at-2.48.29-PM](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-25-at-2.48.29-PM.png)
---------
+
 ![big-data-landscape-2019-v7](https://zdnet1.cbsistatic.com/hub/i/2019/07/17/b17497a0-844e-42b7-9dde-9020902c0b46/big-data-landscape-2019-v7.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -7181,6 +7285,11 @@ Use Cases
 
 - [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
 
+------
+![Screen-Shot-2013-04-25-at-2.48.29-PM](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-25-at-2.48.29-PM.png)
+-----------------
+![archpatterns1](https://developer.ibm.com/developer/default/articles/bd-archpatterns1/images/fig1.png)
+-------
 ![Dw8O5RxYQKCuv8yu6wGVgQ](https://miro.medium.com/max/3256/1*Dw8O5RxYQKCuv8yu6wGVgQ.jpeg)
 ---------
 ![476438_1_En_9_Fig5_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-5104-1_9/MediaObjects/476438_1_En_9_Fig5_HTML.jpg)
@@ -7190,6 +7299,15 @@ Use Cases
 ![ZyWyQkyydAavk1jw_7Yddg](https://miro.medium.com/max/1500/1*ZyWyQkyydAavk1jw_7Yddg.png)
 -------
 ![lzAnmo3t3rHHA37VacYEeA](https://miro.medium.com/max/1050/1*lzAnmo3t3rHHA37VacYEeA.png)
+------------------
+![Data-Report-Martin-Inline-Graphics-R7-06-1](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R7-06-1.jpg?ssl=1)
+----------
+![Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R8-11-e1603754212409.jpg?resize=1536%2C1193&ssl=1)
+---------
+![Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382](https://i1.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-02-e1602718903382.jpg?resize=1536%2C829&ssl=1)
+
+------
+![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -7258,6 +7376,13 @@ AIOps
 - [The AIOps Market: Past, Present, and Future with Will Cappelli](https://www.youtube.com/watch?v=391WhCa326o)
 - [Splunk for AIOps: Reduce IT outages through prediction with machine learning](https://www.slideshare.net/IPEXPOEventSeries/splunk-for-aiops-reduce-it-outages-through-prediction-with-machine-learning-95666040)
 
+---------
+![aiops-architecture-layers](https://resolve.io/writable/images/Platform/aiops-architecture-layers.png)
+
+------------
+![AIOps-Platform-1024x513](https://www.parkar.consulting/wp-content/uploads/2019/10/AIOps-Platform-1024x513.png)
+
+-----------------
 ![AIOps-Platform](https://www.orb-data.com/wp-content/uploads/2020/06/AIOps-Platform.png)
 --------
 ![PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic.png)
@@ -7272,6 +7397,33 @@ AIOps
 ![aiops-pics-03](https://blog.cloudticity.com/hubfs/aiops-pics-03.png)
 ------
 ![AIOps%20Vendor%20Landscape@2x-100.jpg?width=3840&name=AIOps%20Vendor%20Landscape@2x-100](https://blog.opsramp.com/hs-fs/hubfs/Blog_images/AIOps%20Vendor%20Landscape@2x-100.jpg?width=3840&name=AIOps%20Vendor%20Landscape@2x-100.jpg)
+-----
+![AIOps-Technology-and-Platform-Expertise-2](https://www.crestdatasys.com/wp-content/uploads/2020/01/AIOps-Technology-and-Platform-Expertise-2.png)
+-----
+![A-view-of-the-AIOps-use-cases-mapped-to-your-AIOps-maturity-model](https://www.capgemini.com/se-en/wp-content/uploads/sites/29/2020/08/A-view-of-the-AIOps-use-cases-mapped-to-your-AIOps-maturity-model.png?w=1400)
+
+-----------
+-----------
+![anomalousspandetectionlowres](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-2-1024.jpg?cb=1570373728)
+--------
+![anomalous](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-3-1024.jpg?cb=1570373728)
+---------
+![191006145419](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-4-1024.jpg?cb=1570373728)
+---------
+![detection](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-6-1024.jpg?cb=1570373728)
+
+---------
+![aiops-icmsa-6](https://www.cloud4c.com/sites/default/files/2020-05/aiops-icmsa-6.jpg)
+
+---------
+![aiops-faq](https://www.riverbed.com/image/fpo/FAQ/aiops-faq.png)
+
+
+---------
+![kemp-AIOps-Blog-Post-Diag](https://kemptechnologies.com/blog/wp-content/uploads/2020/03/kemp-AIOps-Blog-Post-Diagram-1024x397.png)
+
+
+-----------------
 ------------
 
 RPA
@@ -7330,7 +7482,11 @@ RPA
 
 -------------
 ![cover-Enterprise-AI-landscape-2020-updated](https://qjjnh3a9hpo1nukrg1fwoh71-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/cover-Enterprise-AI-landscape-2020-updated-1536x768.jpg)
+-----------
 
+![DPoDAF2UMAA49HB](https://pbs.twimg.com/media/DPoDAF2UMAA49HB.jpg)
+
+-------------------
 -------------
 
 #### Practical MLOps
