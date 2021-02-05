@@ -372,6 +372,9 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![eNPdLkJA28ZqCXVga2ymHpICcBjWOTkkoYUAfl_f1_K1aXVZz9hX7m8ClvXXsfvbCoRq0IwZ](https://lh4.googleusercontent.com/O2OEMPx-J1Qo1szg-eNPdLkJA28ZqCXVga2ymHpICcBjWOTkkoYUAfl_f1_K1aXVZz9hX7m8ClvXXsfvbCoRq0IwZ-YouBZHhZ1KVtUP-LYW29nqPJE1GY-6G3k-VGr8XeCjpw43)
+
+---------
 ![btp_fi](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi.PNG)
 -------
 ![btp_fi2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_fi2.PNG)
