@@ -176,7 +176,10 @@
         - Enterprise Performance Managemet
         - Financial Operations
         - Cost Management & Profitability Analysis
-        - Governance, Enterprise Risk and Compliance
+        - Governance, Legal and Compliance
+        - Enterprise Risk
+          - Credit Risk
+          - Market Risk
         - Financial Planning and Analysis
         - Treasury Management
         - Asset Management
@@ -191,8 +194,34 @@
           - CFO Dashboard
         - Finance Analytics
         - Finance Leading Software Vendors
-      - Human Resources Management( Capital, Time, Payroll & Talent)
-      - Sourcing and Procurement ( Supplier, Procurements & Expense)
+      - Human Resources Management
+        - Payrole Administration
+        - Benefits Adminitration
+        - Conmpansation Administration
+        - Employee Relations
+        - Employee Transition
+        - HR Operations
+        - HR Planning and Strategy
+        - Learning & Development
+        - Manage Employee Data
+        - Performamnce Management
+        - Succession Planning
+        - Talent Acquisition
+        - Workforce Management
+      - Sourcing and Procurement (Spend Management -S2P/P2P)
+        - Services
+        - Goods
+        - Catalogue
+        - Aution
+        - Contract
+        - RFX
+        - Risk Assessment
+        - Vendor Management
+          - Register
+          - OFAC
+          - Scorecards
+        - PO/Invoices
+        - Leading S2P/P2P Software Vendors
       - Manufacturing (Materials, Production Planning, Quality Management)
       - Supply Chain Management ( Integrated Business, Inventory, Warehouse, Transport, Traceability)
       - Customer Relationship Management (Customer Interaction Management, Sales & Quotation, Engagements, Distributions, Marketing, Commerce)
@@ -200,7 +229,7 @@
       - R & D Product Life Cycle Management
       - Professional Services - Project Management ( Commercial, Customer), Demand Management, Resource Planning, Forecasting & Reporting 
       - ERP Implementation ( Planning, Forecasting & Development)
-        - For Small businesses & Startups
+        - For Small Businesses & Startups
         - For Medium Businesses
         - For Large Businesses
     - ERP Software Leading Vendors Portfolios
