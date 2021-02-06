@@ -93,7 +93,7 @@
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
      - **EA Tools**
        - BiZZdesign, LeanX, Software AG(ALFABET, ARIS), MEGA International(HOPEX), Avolution, Orbus Software(iServer)
-       - erwin Evolve
+       - erwin Evolve, BlueDolphin, ADOIT 
      - **Stakeholders**
        - **Enterprise Architects**(Maestro)
        - **Business Architects**(LoB/Industry Specific)
