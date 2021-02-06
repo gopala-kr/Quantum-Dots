@@ -93,11 +93,11 @@
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
      - **EA Tools**
      - **Stakeholders**
-       - **Enterprise Architects(Maestro)**
-       - **Business Architects(LoB/Industry Specific)**
+       - **Enterprise Architects**(Maestro)
+       - **Business Architects**(LoB/Industry Specific)
          - Business Process Lead/Owner
          - Functional Expert
-       - **Solution Architects(Contextual)**
+       - **Solution Architects**(Contextual)
        - **Technical Architects**
          - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
            - IT Administrator
@@ -105,12 +105,13 @@
            - IT Technitians
            - IT Solution Owner
            - Edge Computing(IoT) Engineer
-         - **Software Architects(Custom/Packaged/SaaS/Cloud-Native)**
+         - **Software Architects**(Custom/Packaged/SaaS/Cloud-Native)
            - Packaged/SaaS Software Admin
            - DevOps Engineer
            - Software Engineering
            - Software Application Developer
-         - **Integration Architects(Custom/Managed)**
+           - UX Research, Design & Developer(CXM)
+         - **Integration Architects**(Custom/Managed)
            - API Developer
            - Process Orchestrator
          - **Data Architects**
@@ -130,14 +131,16 @@
          - Shared Roles - AIOps/RPA Developer
        - **Security Architects**
          - CISO
-         - User Administrator(IAM/SSO)
+         - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose/)
          - IT Security
          - DB Security
+         - DevSecOps Engineer
          - Software/App Security
          - Governance, Risk Management, and Compliance(GRC)
          - Data Privacy Analyst
          - Security Auditor
          - Security Risk Analyst
+         - CISSP, CISA, and CISM
   - **[Organization Structure Modeling](#organization-structure-modeling)**
     - Governance
       - Org Chart
@@ -145,9 +148,23 @@
     - Shareholders
     - Stakeholders
       - Internal Management
+        - CTO
+          - Strategy & Operations Director
+          - Technology Lifecycle Management
+          - Technology Modernization
+          - Rationalizing Applications
+          - Service Management
+          - Product Operating Model
+          - User Experience
+          - DevOps/Site Reliability Engineering
+          - New & Emerging Technologies
       - Partners
       - Costomers/Clients
     - Internal/External Auditors
+    - Legal Aspects
+      - Regulatory Affairs
+      - Corporate Responsibilities
+      - Policies
   - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
   - **[Digital Workplace Services](#digital-workplace-services)**
   - **[Database Technology](#database-technology)**
@@ -189,13 +206,15 @@
           - Product Cost Planning
           - Cost Object Controlling
           - Profitability Analysis
-        - Tax Accounting & Compliance
+        - Tax Accounting
         - Enterprise Performance Managemet
         - Financial Operations
         - Governance, Legal and Compliance
         - Enterprise Risk Management
           - Credit Risk
           - Market Risk
+          - Business Disruption/Resiliency Analysis
+          - Operational Risk
           - Analytics - Risk Predictive Models
         - Financial Planning and Analysis
         - Treasury Management
@@ -206,7 +225,6 @@
           - Payment Processing
           - Hedge Management
           - Hedge Accounting
-        - Asset Management
         - Commodity Management
         - Real Estate Management
         - Subscription Billing and Revenue Management
