@@ -92,6 +92,7 @@
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
      - **EA Tools**
+       - BiZZdesign, LeanX, Software AG(ALFABET, ARIS)
      - **Stakeholders**
        - **Enterprise Architects**(Maestro)
        - **Business Architects**(LoB/Industry Specific)
