@@ -62,6 +62,7 @@
       - Oil & Gas
     - Chemicals
     - Life Sciences
+    - Consulting & Services
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Plannets?
@@ -82,13 +83,14 @@
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
+- **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
-       - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate
+       - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
      - **EA Tools**
      - **Stakeholders**
        - **Enterprise Architects(Maestro)**
@@ -112,7 +114,7 @@
          - **Integration Architects(Custom/Managed)**
            - API Developer
            - Process Orchestrator
-	 - **Data Architects**
+         - **Data Architects**
            - DB Admin
            - DB Developer/Engineer
            - Data Modeler
@@ -134,7 +136,7 @@
          - DB Security
          - Software/App Security
          - Governance, Risk Management, and Compliance(GRC)
-         - User Data Privacy Analyst
+         - Data Privacy Analyst
          - Security Auditor
          - Security Risk Analyst
   - **[Organization Structure Modeling](#organization-structure-modeling)**
@@ -172,7 +174,7 @@
   - **[Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)**
     - **Enterprise Core Lines of Business**
       - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
-        - Accounting and financial close
+        - Accounting and Financial Close
           - Chart of Accounts
           - GL Accounting
           - AP, AR, AA Accounting
@@ -191,7 +193,6 @@
         - Tax Accounting & Compliance
         - Enterprise Performance Managemet
         - Financial Operations
-        - Cost Management & Profitability Analysis
         - Governance, Legal and Compliance
         - Enterprise Risk Management
           - Credit Risk
@@ -250,7 +251,7 @@
           - Scorecards
         - PO/Invoices
         - Leading S2P/P2P Software Vendors
-	- Spend Analytics - Planning, Budgeting & Forecasting(Predictive)
+        - Spend Analytics - Planning, Budgeting & Forecasting(Predictive)
       - **Manufacturing**
         - Production Planning(PP)
           - Production Requirements
@@ -287,54 +288,54 @@
           - Shipping Process
           - Sales Analytics
         - Services (Customer Engagment & Support - Post Sales Activities)
-	  - Service Desk Operations
-	  - Dealer/sub-dealer services
-	  - Call Center
-	  - Waranty Management
-	- Marketing(Customer Journeys)
-	  - Detailed Customer Profiles
-	  - Understand Customer
-	  - Deliver Relavant Experiences
-	  - Digital Marketting Tools
-	    - Social Media
-	    - SEO
-	    - Email
-	    - Advertizing
-	    - Website/Content Creation, Hosting/Publishing
-	    - WebAnalytics
-	    - Video Hosting/Publishing
-	    - Mobile App Notifications(Yes)
-	  - Black Marketing
-	- Commerce(Customer Shopping Experiences)
-	  - Online
-	  - In-store
-	- Customer Analytics - Planning, Budgeting & Forecasting(Predictive)
+          - Service Desk Operations
+          - Dealer/sub-dealer services
+          - Call Center
+          - Waranty Management
+        - Marketing(Customer Journeys)
+          - Detailed Customer Profiles
+          - Understand Customer
+          - Deliver Relavant Experiences
+          - Digital Marketting Tools
+            - Social Media
+            - SEO
+            - Email
+            - Advertizing
+            - Website/Content Creation, Hosting/Publishing
+            - WebAnalytics
+            - Video Hosting/Publishing
+            - Mobile App Notifications(Yes)
+          - Black Marketing
+        - Commerce(Customer Shopping Experiences)
+          - Online
+          - In-store
+        - Customer Analytics - Planning, Budgeting & Forecasting(Predictive)
         - Digital 
-	  - Intelligent UI Experiences
-	  - Mobile/Tablet
-	  - Conversational AI(Text/Voice)
-	  - Robotic
-	  - ML/AI based Recommendations
-	  - IoT
+          - Intelligent UI Experiences
+          - Mobile/Tablet
+          - Conversational AI(Text/Voice)
+          - Robotic
+          - ML/AI based Recommendations
+          - IoT
           - Immersive - Emerging
-	  - Telepathic(Future)
+          - Telepathic(Future)
       - **Asset Management**
       - **R & D Product/Project Life Cycle Management** (PLM)
       - **Professional Services**
         - Project Management ( Commercial, Customer)
-	- Portfolio & Demand Management
-	- Resource Planning 
-	- Capacity Planning
-	- Resource Management
-	  - Time & Expense
-	  - Hard/Soft Bookings
-	- Finace/Budgeting, Planning & Forecasting
-	- Analytics
-	- Leading Software Vendors for Project & Portfolio Management
+        - Portfolio & Demand Management
+        - Resource Planning 
+        - Capacity Planning
+        - Resource Management
+          - Time & Expense
+          - Hard/Soft Bookings
+        - Finace/Budgeting, Planning & Forecasting
+        - Analytics
+        - Leading Software Vendors for Project & Portfolio Management
       - **ERP Implementation**
         - Process & Approaches
-	- Tools & Technology
-	- Business Sizes
+        - Tools & Technology
+        - Business Sizes
           - For Startups
           - For Small Businesses 
           - For Medium Businesses
@@ -709,15 +710,14 @@
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
-------
-
-![Digital_Enterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Digital_Enterprise.png)
 
 ---------------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
 -------
+![WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og](https://post-phinf.pstatic.net/MjAxOTAyMTRfOTMg/MDAxNTUwMTExODI1MTcx.e4f0CIjB6K7IwlUa8u4pFHz08MBhnS1jWyLwyBdk9fog.WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og.JPEG/img01.jpg?type=w1200)
+--------------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 
 
@@ -788,6 +788,16 @@
 -----------
 ![Techin_energy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Techin_energy.png)
 
+------
+
+![Digital_Enterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Digital_Enterprise.png)
+-------
+![jpgwadf0939c0026f0e8f](https://www.insurance-canada.ca/wp-content/uploads/2018/05/ceo-biz-priorities.jpgwadf0939c0026f0e8f.jpg)
+--------
+![PR_540460_Panetta_CIO_Agenda_2019](https://blogs.gartner.com/smarterwithgartner/files/2018/10/PR_540460_Panetta_CIO_Agenda_2019-_Deliver_a_Superior_Consumer_Experience_Article_v1.png)
+---------
+![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -845,6 +855,8 @@
 ![20technical](https://www.leanix.net/hs-fs/hubfs/Blog/enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png?width=750&name=enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png)
 ---------
 ![solutionarchitect](https://1.bp.blogspot.com/-MEeQzaPGllE/USr9RVk-cnI/AAAAAAAAByw/O5A5h6RQ4YE/s1600/solutionarchitect.png)
+--------
+![EA-Tools-vs-Modelling-Tools-1024x515](https://enterprise-architecture.org/blogs/wp-content/uploads/2017/10/EA-Tools-vs-Modelling-Tools-1024x515.png)
 
 --------
 
@@ -943,6 +955,13 @@
 ![enterprise-architecture-blueprint-hospital](https://www.dragon1.com/images/enterprise-architecture-blueprint-hospital.png)
 --------
 ![dragon1-enterprise-architecture-blueprint-template-medium](https://www.dragon1.com/images/dragon1-enterprise-architecture-blueprint-template-medium.png)
+---------
+![A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman](https://cdn2.hubspot.net/hubfs/2570476/Landing%20Pages/A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman.png)
+
+----------
+![d108b826c61c61e5bd30810e062bc9c4](https://i.pinimg.com/originals/d1/08/b8/d108b826c61c61e5bd30810e062bc9c4.jpg)
+---------
+![Agile-MBSE-Sys-Arch-Tetrad](https://pivotpt.com/.res/images/mbse/Agile-MBSE-Sys-Arch-Tetrad.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1195,7 +1214,10 @@ Skills
 ------------
 ![btp_it](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_it.PNG)
 
-
+---------
+![digital-transformation-trends](https://jelvix.com/wp-content/uploads/2019/11/digital-transformation-trends.jpg)
+-------
+![infra3](https://blog.equinix.com/wp-content/uploads/2018/12/infra3.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1527,7 +1549,9 @@ Data Center and Cloud Networking
 ![Magic-Quadrant-963x1024](https://blogs.bmc.com/wp-content/uploads/2020/07/Magic-Quadrant-963x1024.jpg.optimal.jpg)
 
 -------------
+![2019](https://blog.equinix.com/wp-content/uploads/2019/06/s3.png)
 
+-------------
 - [Magic Quadrant for Cloud Infrastructure and Platform Services](https://cloud.google.com/gartner-cloud-infrastructure-as-a-service)
 
 ![In1dlVTO_XNm4OhL1TxVol4bk1Vunya2IAfsqpfuQVKpB3pZZaZ4xYGmiLrQilUldxMBvUMbI6bn](https://lh3.googleusercontent.com/In1dlVTO_XNm4OhL1TxVol4bk1Vunya2IAfsqpfuQVKpB3pZZaZ4xYGmiLrQilUldxMBvUMbI6bn=e14-rj-sc0xffffff-w1034)
@@ -2236,6 +2260,9 @@ SAP Portfolio
 
 ----------
 ![btp2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp2.PNG)
+--------
+![image001](https://hybrismart.com/wp-content/uploads/2020/01/image001.png)
+
 -------
 ![btp22](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp22.PNG)
 ------
@@ -2287,6 +2314,8 @@ SAP Portfolio
 ------
 ![Tech_Workday](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Workday.png)
 --------
+![emerging-business-architecture](https://sites.google.com/site/eacswillis/_/rsrc/1472857469611/home/6---emerging-business-architecture/1---enterprise-business-architecture/capability-reference-architecture/ORACapabilityRefArchitecture.png)
+-----------
 ![Tech_Oracle](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Oracle.png)
 ------
 ![Tech_Oracle_BI](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Oracle_BI.png)
