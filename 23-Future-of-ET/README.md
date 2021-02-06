@@ -2268,6 +2268,9 @@ SAP Portfolio
 -----
 ![BTP_iPaaS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_iPaaS.png)
 
+---------
+![btp_ana99](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_ana99.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
