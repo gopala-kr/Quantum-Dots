@@ -710,7 +710,8 @@
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
-
+---------
+![capability_map1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/capability_map1.png)
 ---------------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
@@ -797,6 +798,8 @@
 ![PR_540460_Panetta_CIO_Agenda_2019](https://blogs.gartner.com/smarterwithgartner/files/2018/10/PR_540460_Panetta_CIO_Agenda_2019-_Deliver_a_Superior_Consumer_Experience_Article_v1.png)
 ---------
 ![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
+------
+![Tech_adoption](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Tech_adoption.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
