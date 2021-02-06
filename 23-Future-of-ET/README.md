@@ -95,8 +95,7 @@
      - **Stakeholders**
        - **Enterprise Architects(Maestro)**
        - **Business Architects(LoB/Industry Specific)**
-         - Business Owner
-         - Business Analys
+         - Business Process Lead/Owner
          - Functional Expert
        - **Solution Architects(Contextual)**
        - **Technical Architects**
@@ -122,10 +121,10 @@
            - Data Quality Engineer
            - Data Mart/Warehouse/Lake Solution Engineer
            - Big Data Engineer
-	   - Data Engineer(ETL/ELT)
+           - Data Engineer(ETL/ELT)
            - Data Analyst
-	      - BI Expert
-	      - Business Process Analyst
+              - BI Expert
+              - Business Process Analyst
            - Data Scientist
            - ML Engineer
          - Shared Roles - AIOps/RPA Developer
@@ -340,6 +339,7 @@
           - For Small Businesses 
           - For Medium Businesses
           - For Large Businesses
+          - For Industries  
     - **Leading ERP Software Vendors Portfolios**
     - **Industry Specific ERP Softwares**
   - **[Enterprise Data and Application Integration](#enterprise-data-and-application-integration)**
@@ -350,6 +350,11 @@
      - API Management
      - Integration Platform as a service(iPaaS)
        - Leading iPaaS Vendors
+     - Integration Scenarios
+       - A2A
+       - B2B
+       - B2C
+       - A2G
      - Business Process Integration Scenarios
        - Core Finance Integrations Scenarios
        - Enterprise Asset management Integrations
@@ -373,6 +378,7 @@
        - VR(standalone)
        - AR
        - MR
+       - Holograms       
      - BI Mobile/Tablet Apps
      - Analytics Hub
      - Digital Boardroom(CxO/Board Meetings)
@@ -710,8 +716,6 @@
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
----------
-![capability_map1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/capability_map1.png)
 ---------------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
@@ -1178,8 +1182,15 @@ Skills
 ![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
 -------
 ![part-3-figure-2](https://www.digitalistmag.com/files/2019/04/part-3-figure-2.png)
+
+--------
+-----------
+
+![capability_map1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/capability_map1.png)
+
 -----
 --------
+
 ![6b7e2e9d2bfaad16ca711f6b7bbcffd6f76f2b841b07de43f0f08318ee1da3cd](https://cdn0.infotech.com/assets/management_governance/governance-framework-6b7e2e9d2bfaad16ca711f6b7bbcffd6f76f2b841b07de43f0f08318ee1da3cd.png)
 --------------
 ![The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010](https://www.researchgate.net/profile/Koen_De_Backer/publication/272498512/figure/fig18/AS:391845554212877@1470434668951/The-business-services-value-chain-Gereffi-and-Fernandez-Stark-2010.png)
@@ -1197,6 +1208,7 @@ Skills
 ![Stakeholders](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/Stakeholders.png)
 --------
 ![RFP_Process2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/RFP_Process2.PNG)
+
 
 ---------
 ![rfp-process-kvaes-1-1](https://kvaes.files.wordpress.com/2014/11/rfp-process-kvaes-1-1.png)
