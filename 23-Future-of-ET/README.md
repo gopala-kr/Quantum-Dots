@@ -818,10 +818,13 @@
 ![jpgwadf0939c0026f0e8f](https://www.insurance-canada.ca/wp-content/uploads/2018/05/ceo-biz-priorities.jpgwadf0939c0026f0e8f.jpg)
 --------
 ![PR_540460_Panetta_CIO_Agenda_2019](https://blogs.gartner.com/smarterwithgartner/files/2018/10/PR_540460_Panetta_CIO_Agenda_2019-_Deliver_a_Superior_Consumer_Experience_Article_v1.png)
----------
-![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
+
 ------
 ![Tech_adoption](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Tech_adoption.png)
+
+---------
+![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
