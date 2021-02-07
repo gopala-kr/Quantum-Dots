@@ -148,6 +148,8 @@
       - Org Chart
     - Board of Directors
     - Shareholders
+    - Partners
+    - Suppliers
     - Stakeholders
       - Internal Management
         - CTO
@@ -167,6 +169,12 @@
       - Regulatory Affairs
       - Corporate Responsibilities
       - Policies
+    - Enterprise Risk Management
+      - Strategic & Reputation Risk
+      - Regulatory Risk
+      - Financial Risk
+      - Operational Risk
+      - Cyber Risk
   - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
   - **[Digital Workplace Services](#digital-workplace-services)**
   - **[Database Technology](#database-technology)**
