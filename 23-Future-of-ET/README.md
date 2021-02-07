@@ -379,10 +379,14 @@
      - Integration Platform as a service(iPaaS)
        - Leading iPaaS Vendors
      - Integration Scenarios
-       - A2A
-       - B2B
-       - B2C
-       - A2G
+       - Process
+         - A2A
+         - B2B
+         - B2G
+        - Data 
+        - Analytics
+        - User
+        - Things	
      - Business Process Integration Scenarios
        - Core Finance Integrations Scenarios
        - Enterprise Asset management Integrations
@@ -391,7 +395,6 @@
        - Source to Pay Processing Integrations
        - Warehouse Management Integrations
        - Human Experience Management Integrations
-     - Data Integration Scenarios
    - **[Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)**
      - Data Engineering(ELT/ETL)
      - Practical DataOps
