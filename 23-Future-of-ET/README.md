@@ -133,7 +133,7 @@
          - Shared Roles - AIOps/RPA Developer
        - **Security Architects**
          - CISO
-         - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose/)
+         - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose)
          - IT Security
          - DB Security
          - DevSecOps Engineer
@@ -1913,19 +1913,100 @@ Tesla tech stack
 
 ----------
 ![a73772394a33e7cd957e7b3c29257751](https://i.pinimg.com/originals/a7/37/72/a73772394a33e7cd957e7b3c29257751.png)
+
 -----
-![full-stack-javascript-tools](https://www.altexsoft.com/media/2016/11/full-stack-javascript-tools.png)
----------
+-----------
 
-ERP Development from Scratch (Technologies)
+ERP Software Engineering & Application Development Technologies
 
-![22](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/22.png)
-------
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [togiberlin/ui-ux-designer-roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [AlaaAttya/software-architect-roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
+- [fityanos/quality-assurance-road-map](https://github.com/fityanos/awesome-quality-assurance-road-map)
+- [aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+- [sulco/angular-developer-roadmap](https://github.com/sulco/angular-developer-roadmap)
+- [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [marekbrainhub/vue-developer-roadmap](https://github.com/marekbrainhub/vue-developer-roadmap)
+- [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
+- [godrm/mobile-developer-roadmap-ios](https://github.com/godrm/mobile-developer-roadmap)
+- [anacoimbrag/android-developer-roadmap](https://github.com/anacoimbrag/android-developer-roadmap)
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+- [saifaustcse/.net-developer-roadmap](https://github.com/saifaustcse/.net-developer-roadmap)
+- [Consolvis/SAP-Cloud-Platform-Backend-Developer-Roadmap](https://github.com/Consolvis/SAP-Cloud-Platform-Backend-Developer-Roadmap)
+- [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+- [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) 
 
-ERP Development from Scratch (Technologies)
+-----
 
-![33](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/33.png)
+![map](https://raw.githubusercontent.com/AlaaAttya/software-architect-roadmap/master/images/map.png)
+
+--------------------
+![intro](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png)
+
+----------
+![frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
+
+----------
+![backend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
+
 --------
+![devops](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/devops.png)
+
+-------------
+![devops_agile](https://raw.githubusercontent.com/raycad/devops-roadmap/master/docs/images/devops_agile.png)
+
+-----------
+![devops_technologies](https://raw.githubusercontent.com/raycad/devops-roadmap/master/docs/images/devops_technologies.png)
+
+---------
+![Node.js-developer-roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap/master/Node.js-developer-roadmap.png)
+
+--------
+![angular-dev-roadmap](https://raw.githubusercontent.com/sulco/angular-developer-roadmap/master/angular-dev-roadmap.png)
+
+------
+![react-developer-roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap/master/roadmap.png)
+
+-----
+![vue-developer-roadmap](https://raw.githubusercontent.com/marekbrainhub/vue-developer-roadmap/master/roadmap.png)
+
+---------
+![golang-developer-roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap/master/golang-developer-roadmap.png)
+
+----------
+![aspnetcore-developer-roadmap-printable](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap-printable.png)
+
+------
+![.net-developer-roadmap](https://raw.githubusercontent.com/saifaustcse/.net-developer-roadmap/master/images/backend.png)
+
+-----------
+![java-developer-roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap/master/java-developer-roadmap.png)
+
+-------
+![SAPCloudPlatformBackendDeveloperRoadmap2021](https://raw.githubusercontent.com/Consolvis/SAP-Cloud-Platform-Backend-Developer-Roadmap/main/SAPCloudPlatformBackendDeveloperRoadmap2021.png)
+
+
+-----------
+------------
+![android_roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap/master/images/android_roadmap.png)
+
+-------
+![iOS_roadmap_v1](https://raw.githubusercontent.com/godrm/mobile-developer-roadmap/master/Images/iOS_roadmap_v1.0.png)
+
+-------
+![Swift_programming_roadmap_v0](https://raw.githubusercontent.com/godrm/mobile-developer-roadmap/master/Images/Swift_programming_roadmap_v0.9.png)
+
+--------
+--------
+![githubusercontent](https://camo.githubusercontent.com/b03fcb13830563dddc46ea3f3f023bd1cd9be847226fbc3cc63c6b189361d614/68747470733a2f2f692e696d6775722e636f6d2f6f53573562676b2e706e67)
+
+-------
+![githubusercontent](https://camo.githubusercontent.com/90b2309776c2193d642f817b7716176ba9d230d9879aeefa102a3dacfccf4bfe/68747470733a2f2f692e696d6775722e636f6d2f5a776c304c63592e706e67)
+
+
+--------
+------------
 ERP Development from Scratch (Timelines)
 
 ![55](https://cdn.shortpixel.ai/client/to_avif,q_lossless,ret_img,w_1687/https://existek.com/wp-content/uploads/2018/02/55.png)
@@ -6706,6 +6787,10 @@ SAP Portfolio
 		-	TOGAF 9
 		-	Virtualization Council Master Infrastructure Architect certification
 		-	VMware Certified Professional 6 – Data Center Virtualization (VCP6-DCV)
+		
+		
+---------------------------
+![twER3etP3cUY1ODuZuor6g](https://miro.medium.com/max/3600/1*twER3etP3cUY1ODuZuor6g.jpeg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6919,6 +7004,10 @@ SAP Portfolio
 ![gartner_mq_m2m_dec18](https://www.orange-business.com/sites/default/files/gartner_mq_m2m_dec18.png)
 --------
 ![OSI-Seven-Layer-Model](https://micrium.com/wp-content/uploads/2014/03/OSI-Seven-Layer-Model.png)
+
+---------
+![Tqa2Dbx](https://i.imgur.com/Tqa2Dbx.jpg)
+
 -----
 ![Comparison-of-different-IoT-protocols-Source-cisco](https://www.researchgate.net/publication/275255760/figure/tbl1/AS:669334150082563@1536593105880/Comparison-of-different-IoT-protocols-Source-cisco.png)
 ---------
@@ -7354,6 +7443,9 @@ Use Cases
 #### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
 
 - [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
+
+---------
+![bigdata_analysis_overview](https://raw.githubusercontent.com/raycad/devops-roadmap/master/docs/images/bigdata_analysis_overview.png)
 
 ------
 ![Screen-Shot-2013-04-25-at-2.48.29-PM](https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-25-at-2.48.29-PM.png)
