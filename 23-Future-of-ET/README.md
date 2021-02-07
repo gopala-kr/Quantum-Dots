@@ -63,6 +63,9 @@
     - Chemicals
     - Life Sciences
     - Consulting & Services
+      - Management
+      - Technology & Engineering
+      - Business Process Outsourcing 
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Plannets?
