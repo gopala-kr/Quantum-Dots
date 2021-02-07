@@ -36,8 +36,8 @@
       - Space
       - Airline
     - Automotive
-    - Defence
-    - Public Sector
+    - Government & Public Services
+      - Defence
     - Finance
       - Capital Markets
       - Banking
@@ -49,23 +49,22 @@
       - Biotech
       - Medtech
     - Telecommunication
-    - Consumer Tech
-    - Retail
-    - Media
-    - Entertainment
+    - Media & Entertainment
     - Travel
       - Tourism
       - Frieght/Cargo(Air/Ship/Ground)
-      - Rail & Road
-    - Healthcare
+      - Transportation, Hospitality Services
     - Energy
       - Oil & Gas
     - Chemicals
-    - Life Sciences
     - Consulting & Services
       - Management
       - Technology & Engineering
       - Business Process Outsourcing 
+    - Consumer Tech
+    - Retail
+    - Healthcare
+    - Life Sciences
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Plannets?
@@ -91,6 +90,7 @@
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
+  - **[Digital Transformation Technologies]()**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
@@ -98,25 +98,25 @@
        - BiZZdesign, LeanX, Software AG(ALFABET, ARIS), MEGA International(HOPEX), Avolution(Abacus), Orbus Software(iServer)
        - erwin Evolve, BlueDolphin, ADOIT, Essential Project
      - **Stakeholders**
-       - **Enterprise Architects**(Maestro)
-       - **Business Architects**(LoB/Industry Specific)
+       - **Enterprise Architects** (Maestro)
+       - **Business Architects** (LoB/Industry Specific)
          - Business Process Lead/Owner
          - Functional Expert
-       - **Solution Architects**(Contextual)
+       - **Solution Architects** (Contextual)
        - **Technical Architects**
-         - Infrastructure Architects(DC, Private/Public/Hybrid/Multi-Cloud)
+         - **Infrastructure Architects** (DC, Private/Public/Hybrid/Multi-Cloud)
            - IT Administrator
            - IT Engineers
            - IT Technitians
            - IT Solution Owner
            - Edge Computing(IoT) Engineer
-         - **Software Architects**(Custom/Packaged/SaaS/Cloud-Native)
+         - **Software Architects** (Custom/Packaged/SaaS/Cloud-Native)
            - Packaged/SaaS Software Admin
            - DevOps Engineer
            - Software Engineering
            - Software Application Developer
            - UX Research, Design & Developer(CXM)
-         - **Integration Architects**(Custom/Managed)
+         - **Integration Architects** (Custom/Managed)
            - API Developer
            - Process Orchestrator
          - **Data Architects**
@@ -155,7 +155,10 @@
     - Suppliers
     - Stakeholders
       - Internal Management
-        - CTO
+        - CEO Functions
+        - COO Functions
+        - CFO Functions
+        - CIO/CTO/CISO/CDO Functions
           - Strategy & Operations Director
           - Technology Lifecycle Management
           - Technology Modernization
