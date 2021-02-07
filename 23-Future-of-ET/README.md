@@ -86,6 +86,8 @@
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
 - **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
+  - Micro
+  - Macro
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
@@ -103,6 +105,7 @@
          - Business Process Lead/Owner
          - Functional Expert
        - **Solution Architects** (Contextual)
+         - Areas - [Business, Process, Value, Infrastructure, Technology, Cloud, Platform, Information, Data, Software/Application, Security, RPA] 
        - **Technical Architects**
          - **Infrastructure Architects** (DC, Private/Public/Hybrid/Multi-Cloud)
            - IT Administrator
@@ -130,10 +133,10 @@
            - Data Engineer(ETL/ELT)
            - Data Analyst
               - BI Expert
-              - Business Process Analyst
+              - Business Analyst
            - Data Scientist
            - ML Engineer
-         - Shared Roles - AIOps/RPA Developer
+         - Shared Roles - AIOps/RPA Engineer
        - **Security Architects**
          - CISO
          - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose)
@@ -150,7 +153,7 @@
     - Governance
       - Org Chart
     - Board of Directors
-    - Shareholders
+    - Shareholders 
     - Partners
     - Suppliers
     - Stakeholders
@@ -168,15 +171,17 @@
           - User Experience
           - DevOps/Site Reliability Engineering
           - New & Emerging Technologies
-      - Partners
+	  - Regulatory & Compliance (eg: GDPR)
       - Costomers/Clients
     - Internal/External Auditors
     - Legal Aspects
       - Regulatory Affairs
       - Corporate Responsibilities
       - Policies
+      - Business Ethics
     - Enterprise Risk Management
       - Strategic & Reputation Risk
+      - Business Disruption/Resiliency Risk
       - Regulatory Risk
       - Financial Risk
       - Operational Risk
@@ -229,8 +234,6 @@
         - Enterprise Risk Management
           - Credit Risk
           - Market Risk
-          - Business Disruption/Resiliency Analysis
-          - Operational Risk
           - Analytics - Risk Predictive Models
         - Financial Planning and Analysis
         - Treasury Management
@@ -339,6 +342,7 @@
             - Video Hosting/Publishing
             - Mobile App Notifications(Yes)
           - Black Marketing
+	  - Neuromarketing
         - Commerce(Customer Shopping Experiences)
           - Online
           - In-store
@@ -1496,7 +1500,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -------------
 ![Enterprise_Cloud_Conn_8_20](https://unitasglobal.com/wp-content/uploads/2019/08/Enterprise_Cloud_Conn_8_20.png)
 --------
+![role-mapping](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/aws/media/role-mapping.png)
 
+--------
 ![SD-WAN-Architecture-b](https://alln-extcloud-storage.cisco.com/blogs/blogs.cisco.com/2019/11/SD-WAN-Architecture-b.png)
 --------
 ![5435bc65-sdwan-delloro-gartner2](https://storage.googleapis.com/blogs-images/ciscoblogs/1/2020/04/5435bc65-sdwan-delloro-gartner2.jpg)
