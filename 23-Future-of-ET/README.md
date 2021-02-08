@@ -342,7 +342,7 @@
             - Video Hosting/Publishing
             - Mobile App Notifications(Yes)
           - Black Marketing
-	  - Neuromarketing
+          - Neuromarketing
         - Commerce(Customer Shopping Experiences)
           - Online
           - In-store
@@ -769,8 +769,13 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+![IT Roles 2020](https://hakin9.org/wp-content/uploads/2020/02/0-2-2.jpg)
+
+------------
+##### Business Functional Roles
 
 ![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
+
 ----------
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
@@ -1940,7 +1945,7 @@ Tesla tech stack
 -----
 -----------
 
-ERP Software Engineering & Application Development Technologies
+Software Engineering & Application Development Technologies
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [togiberlin/ui-ux-designer-roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
@@ -1960,12 +1965,17 @@ ERP Software Engineering & Application Development Technologies
 - [s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) 
 
+
+
 -----
 
 ![map](https://raw.githubusercontent.com/AlaaAttya/software-architect-roadmap/master/images/map.png)
 
 --------------------
 ![intro](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png)
+
+--------
+![SD_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/SD_roles.png)
 
 ----------
 ![frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
@@ -6665,8 +6675,6 @@ SAP Portfolio
 	                  - 	Zero Based Supply Chain (ZBSC)
 	                  - 	Zookeeper
 
-
-
                 Certifications
 
 		-	Agile Certification Institute
@@ -6814,6 +6822,13 @@ SAP Portfolio
 		
 ---------------------------
 ![twER3etP3cUY1ODuZuor6g](https://miro.medium.com/max/3600/1*twER3etP3cUY1ODuZuor6g.jpeg)
+
+---------
+![wp-content](https://hakin9.org/wp-content/uploads/2020/02/0-2-2.jpg)
+
+-------
+![New-Cisco-Certification-Pathway-2020](https://i2.wp.com/networkwalks.com/wp-content/uploads/2020/03/New-Cisco-Certification-Pathway-2020.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
