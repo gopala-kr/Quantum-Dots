@@ -888,9 +888,24 @@
 - [Professional Certifications - Experience based](https://www.opengroup.org/professional-certifications-experience-based)
 - [Directory of Open Professions Certified People](https://www.opengroup.org/openprofessions/candidate/certifiedIndividuals.html)
 
--------
+
+
+--------------------
 ![EA-1920x883](https://itpeernetwork.intel.com/wp-content/uploads/sites/38/2019/03/EA-1920x883.png)
 
+-------
+![btp102](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp102.png)
+---------
+![btp103](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp103.png)
+
+-----------
+![btp104](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp104.png)
+-------------
+![btp105](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp105.PNG)
+
+
+
+----------------------------
 -----------
 ![ea-practice-on-a-page](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
 
