@@ -52,7 +52,7 @@
     - Media & Entertainment
     - Travel
       - Tourism
-      - Frieght/Cargo(Air/Ship/Ground)
+      - Freight/Cargo(Air/Ship/Ground)
       - Transportation, Hospitality Services
     - Energy
       - Oil & Gas
@@ -92,7 +92,7 @@
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
-  - **[Digital Transformation Technologies]()**
+  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
@@ -217,10 +217,10 @@
           - AP, AR, AA Accounting
           - Closing
             - Month, QTD, YTD
-            - Balence Sheet
+            - Balance Sheet
             - Profit & Loss
             - Cash-Flow
-            - Trial Balence Adjustments
+            - Trial Balance Adjustments
         - Management Accounting(Controlling)
           - Cost Center Accounting
           - Profit Center Accounting
