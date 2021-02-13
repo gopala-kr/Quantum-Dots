@@ -1,0 +1,44 @@
+-   Identity and Access Management Technologies 
+-   Imaging and Print Services 
+-   Imaging and Print Services 
+-   Infrastructure Strategies 
+-   IoT Standards and Protocols 
+-   IT in the Middle East 
+-   IT Performance Analysis 
+-   ITSM 
+-   Legal and Compliance Technologies 
+-   Life Science Commercial Operations 
+-   Life Science Manufacturing, Quality and Supply Chain 
+-   Life Science Research and Development 
+-   Managing Operational Technology 
+-   Manufacturing Operations Strategy 
+-   Midsize Enterprises 
+-   Multienterprise Solutions 
+-   Natural Language Technologies 
+-   Network Security 
+-   Open-Source Software 
+-   Open Banking 
+-   Platform as a Service 
+-   Privacy 
+-   Procurement and Sourcing Solutions 
+-   Project and Portfolio Management 
+-   Real-Time Health System Technologies 
+-   Retail Technologies 
+-   Risk Management 
+-   Security Operations 
+-   Semiconductors and Electronics Technologies 
+-   Sensing Technologies and Applications 
+-   Smart City and Sustainability in China 
+-   Smart City Technologies and Solutions 
+-   Software as a Service 
+-   Storage and Data Protection Technologies 
+-   Supply Chain Execution Technologies 
+-   Supply Chain Planning Technologies 
+-   Supply Chain Strategy 
+-   the Digital Workplace 
+-   the Future of Applications 
+-   the Future of CSP Networks Infrastructure 
+-   the Internet of Things 
+-   Transportation Industry 
+-   Unified Communications and Collaboration 
+-   User Experience 
