@@ -1,3 +1,54 @@
+
+
+
+
+-   ERP 
+-   Agile and DevOps 
+-   Analytics and Business Intelligence 
+-   API and Business Ecosystems 
+-   Application and Integration Infrastructure 
+-   Application Architecture and Development 
+-   Application Security 
+-   Artificial Intelligence 
+-   Automotive Technologies 
+-   Back-Office Analytic Applications 
+-   Blockchain Technologies 
+-   Business Process Services 
+-   Cloud Computing 
+-   Cloud Security 
+-   Communications Service Provider Operations 
+-   Compute Infrastructure 
+-   Connected Vehicles and Smart Mobility 
+-   Consumer Engagement With Healthcare and Wellness 
+-   CRM Sales Technology 
+-   Customer Experience Analytics 
+-   Customer Service and Support Technologies 
+-   Data and Analytics Governance and Master Data Management 
+-   Data Management 
+-   Data Science and Machine Learning 
+-   Data Security 
+-   Digital Advertising 
+-   Digital Care Delivery Including Telemedicine and Virtual Care 
+-   Digital Commerce 
+-   Digital Grid Transformation Technologies 
+-   Digital Marketing 
+-   Digital Workplace Infrastructure and Operations 
+-   Display and Vision 
+-   Drones and Mobile Robots 
+-   Edge Computing 
+-   Embedded Software and Systems 
+-   Emerging Technologies 
+-   Enabling Power and Energy Electronics 
+-   Endpoint Security 
+-   Enterprise Architecture 
+-   Enterprise Information Management 
+-   Enterprise Networking 
+-   Frontline Worker Technologies 
+-   Healthcare Providers 
+-   Human Capital Management Technology 
+-   Hybrid Infrastructure Services 
+-   I&O Automation 
+-   ICT in China 
 -   Identity and Access Management Technologies 
 -   Imaging and Print Services 
 -   Imaging and Print Services 
