@@ -33,7 +33,7 @@
 
 ---------------
 
-![]()
+![HPDFleetCharts.4.7.2020.001_print](https://nasaviz.gsfc.nasa.gov/vis/a030000/a030800/a030822/HPDFleetCharts.4.7.2020.001_print.jpg)
 
 ---------------
 
