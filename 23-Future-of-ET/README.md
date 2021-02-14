@@ -93,6 +93,53 @@
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)**
+    -   ERP 
+    -   Agile and DevOps 
+    -   Analytics and Business Intelligence 
+    -   API and Business Ecosystems 
+    -   Application and Integration Infrastructure 
+    -   Application Architecture and Development 
+    -   Application Security 
+    -   Artificial Intelligence 
+    -   Automotive Technologies 
+    -   Back-  Office Analytic Applications 
+    -   Blockchain Technologies 
+    -   Business Process Services 
+    -   Cloud Computing 
+    -   Cloud Security 
+    -   Communications Service Provider Operations 
+    -   Compute Infrastructure 
+    -   Connected Vehicles and Smart Mobility 
+    -   Consumer Engagement With Healthcare and Wellness 
+    -   CRM Sales Technology 
+    -   Customer Experience Analytics 
+    -   Customer Service and Support Technologies 
+    -   Data and Analytics Governance and Master Data Management 
+    -   Data Management 
+    -   Data Science and Machine Learning 
+    -   Data Security 
+    -   Digital Advertising 
+    -   Digital Care Delivery Including Telemedicine and Virtual Care 
+    -   Digital Commerce 
+    -   Digital Grid Transformation Technologies 
+    -   Digital Marketing 
+    -   Digital Workplace Infrastructure and Operations 
+    -   Display and Vision 
+    -   Drones and Mobile Robots 
+    -   Edge Computing 
+    -   Embedded Software and Systems 
+    -   Emerging Technologies 
+    -   Enabling Power and Energy Electronics 
+    -   Endpoint Security 
+    -   Enterprise Architecture 
+    -   Enterprise Information Management 
+    -   Enterprise Networking 
+    -   Frontline Worker Technologies 
+    -   Healthcare Providers 
+    -   Human Capital Management Technology 
+    -   Hybrid Infrastructure Services 
+    -   I&O Automation 
+    -   ICT in China 
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
