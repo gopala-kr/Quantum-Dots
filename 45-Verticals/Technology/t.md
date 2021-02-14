@@ -57,7 +57,7 @@
 
 ---------------
 
-![]()
+![final_earth_obs_fleet06hw](https://www.nasa.gov/sites/default/files/thumbnails/image/final_earth_obs_fleet06hw.2100_1920x1080.jpg)
 
 ---------------
 
