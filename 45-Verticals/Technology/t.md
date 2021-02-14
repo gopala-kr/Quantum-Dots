@@ -41,7 +41,7 @@
 
 ---------------
 
-![]()
+![FLEET_MASTER_11_23_2020_print](https://nasaviz.gsfc.nasa.gov/vis/a030000/a030900/a030998/1-SMD-FLEET_MASTER_11_23_2020_print.jpg)
 
 ---------------
 ---------------
