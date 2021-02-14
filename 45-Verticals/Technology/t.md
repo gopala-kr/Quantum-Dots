@@ -9,7 +9,7 @@
 
 ---------------
 
-![]()
+![earth_fleet_colorkey_webupdate_070717_0](https://www.nasa.gov/sites/default/files/thumbnails/image/earth_fleet_colorkey_webupdate_070717_0.jpeg)
 
 ---------------
 
