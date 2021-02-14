@@ -80,7 +80,7 @@
 ![DynamicEarth_009600_1024x576](https://nasaviz.gsfc.nasa.gov/vis/a010000/a010900/a010984/DynamicEarth_009600_1024x576.jpg)
 ---------------
 
-![]()
+![dm_magneto_f](https://nasaviz.gsfc.nasa.gov/vis/a010000/a010900/a010984/dm_magneto_f.01101_1024x576.jpg)
 ---------------
 
 ![]()
