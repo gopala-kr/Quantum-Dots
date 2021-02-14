@@ -93,7 +93,6 @@
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)**
-    -   ERP 
     -   Agile and DevOps 
     -   Analytics and Business Intelligence 
     -   API and Business Ecosystems 
@@ -126,6 +125,7 @@
     -   Digital Workplace Infrastructure and Operations 
     -   Display and Vision 
     -   Drones and Mobile Robots 
+    -   ERP 
     -   Edge Computing 
     -   Embedded Software and Systems 
     -   Emerging Technologies 
@@ -140,6 +140,50 @@
     -   Hybrid Infrastructure Services 
     -   I&O Automation 
     -   ICT in China 
+    -   Identity and Access Management Technologies 
+    -   Imaging and Print Services 
+    -   Imaging and Print Services 
+    -   Infrastructure Strategies 
+    -   IoT Standards and Protocols 
+    -   IT in the Middle East 
+    -   IT Performance Analysis 
+    -   ITSM 
+    -   Legal and Compliance Technologies 
+    -   Life Science Commercial Operations 
+    -   Life Science Manufacturing, Quality and Supply Chain 
+    -   Life Science Research and Development 
+    -   Managing Operational Technology 
+    -   Manufacturing Operations Strategy 
+    -   Midsize Enterprises 
+    -   Multienterprise Solutions 
+    -   Natural Language Technologies 
+    -   Network Security 
+    -   Open-Source Software 
+    -   Open Banking 
+    -   Platform as a Service 
+    -   Privacy 
+    -   Procurement and Sourcing Solutions 
+    -   Project and Portfolio Management 
+    -   Real-Time Health System Technologies 
+    -   Retail Technologies 
+    -   Risk Management 
+    -   Security Operations 
+    -   Semiconductors and Electronics Technologies 
+    -   Sensing Technologies and Applications 
+    -   Smart City and Sustainability in China 
+    -   Smart City Technologies and Solutions 
+    -   Software as a Service 
+    -   Storage and Data Protection Technologies 
+    -   Supply Chain Execution Technologies 
+    -   Supply Chain Planning Technologies 
+    -   Supply Chain Strategy 
+    -   the Digital Workplace 
+    -   the Future of Applications 
+    -   the Future of CSP Networks Infrastructure 
+    -   the Internet of Things 
+    -   Transportation Industry 
+    -   Unified Communications and Collaboration 
+    -   User Experience 
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
