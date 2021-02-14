@@ -46,7 +46,7 @@
 ---------------
 ---------------
 
-![]()
+![APD_FleetNov2019](https://nasaviz.gsfc.nasa.gov/vis/a030000/a030800/a030834/astro-APD_FleetNov2019-hw.001_print.jpg)
 
 ---------------
 
