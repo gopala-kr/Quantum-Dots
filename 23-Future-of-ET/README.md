@@ -319,7 +319,7 @@
           - Cost Object Controlling
           - Profitability Analysis
         - Tax Accounting
-        - Enterprise Performance Managemet
+        - Enterprise Performance Management
         - Financial Operations
         - Governance, Legal and Compliance
         - Enterprise Risk Management
@@ -368,7 +368,7 @@
         - Services
         - Goods
         - Catalogue
-        - Aution
+        - Auction
         - Contract
         - RFX
         - Risk Assessment
@@ -849,6 +849,8 @@
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 ---------------
+![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
+-----------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
@@ -2535,6 +2537,20 @@ SAP Portfolio
 
 ---------
 ![btp_ana99](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_ana99.png)
+
+-------
+-------
+![btc221](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc221.PNG)
+--------
+![btc222](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc222.PNG)
+-------------
+![btc223](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc223.PNG)
+-------
+![btc224](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc224.PNG)
+--------
+![btc231](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc231.png)
+----------
+![btc232](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc232.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
