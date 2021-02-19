@@ -7179,6 +7179,12 @@ SAP Portfolio
 --------------
 ![iflow4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow4.PNG)
 
+-----------
+![iflow6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow6.PNG)
+
+------------
+![iflow7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow7.PNG)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
