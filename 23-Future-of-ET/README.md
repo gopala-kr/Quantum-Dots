@@ -7083,19 +7083,26 @@ SAP Portfolio
 [Back to top](#contents)
 
 ![connectors_MI](https://www.1eq.com/html/version7.1/resources/images/connectors_MI.png)
+
 ------------
 ![dg9](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg9.png)
+
 --------------
 ![integration](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/integration.PNG)
 
 -------------
 ![iflow](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow.PNG)
+
 ---------------
 
 ![Integration_Styles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg11.png)
 
 ----------
 ![ipaas_mappings](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg12.png)
+
+---------
+![iflow1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow1.PNG)
+
 -----------
 ---------
 
