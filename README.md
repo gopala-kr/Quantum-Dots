@@ -14,8 +14,6 @@
 - [[Week-32-33](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - Sep-Dec 2020: VIO Frameworks & Algorithms Review :green_circle:
 
 ----------------------
-- [Jan-2021]
-- [Feb-2021]
 - [Mar-2021]
 - [Apr-2021]
 ------------------------
