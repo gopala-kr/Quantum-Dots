@@ -1253,6 +1253,9 @@
 ----------
 ![shared-customer-experience](https://zdnet4.cbsistatic.com/hub/i/r/2020/01/22/4b5c8ac1-4166-41a7-b200-c2cb0bdfdca0/thumbnail/770x578/cd29eb6c98c3ba386606281a77069359/shared-customer-experience-landscape-of-the-cio-and-cmo.png)
 
+--------------------
+![cns3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cns3.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
