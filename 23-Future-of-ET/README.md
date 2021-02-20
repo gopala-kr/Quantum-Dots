@@ -107,7 +107,41 @@
     -   Cloud Computing 
     -   Cloud Security 
     -   Communications Service Provider Operations 
-    -   Compute Infrastructure 
+    -   Compute Infrastructure
+        - **On the Rise**
+          - Confidential Computing
+          - FACs (NextGen SmartNICs)
+          - IT/OT Hybrid Servers
+          - Next-Generation Interconnects
+          - Neuromorphic Hardware
+          - dHCI
+          - Cloud Tethered Compute
+          - Computational Storage
+        - **At the Peak**
+          - Deep Neural Network ASICs
+          - NVMe-oF
+          - Quantum Computing
+          - Immutable Infrastructure
+          - Serverless Infrastructure
+          - Infrastructure Automation
+          - Container Management
+        - **Sliding Into the Trough**
+          - Composable Infrastructure
+          - Micro Operating Systems
+          - Edge Servers
+          - Next-Generation Memory
+          - FPGA Accelerators
+          - OS Containers
+          - ARM Servers
+          - Hardware-Based Security
+          - Persistent Memory DIMMs
+          - Hyperconvergence
+        - **Climbing the Slope**
+          - In-Memory Computing
+          - Server-Side Client Graphics
+          - Cloud Computing
+        - **Entering the Plateau**
+          - GPU Accelerators 
     -   Connected Vehicles and Smart Mobility 
     -   Consumer Engagement With Healthcare and Wellness 
     -   CRM Sales Technology 
