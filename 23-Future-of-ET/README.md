@@ -153,6 +153,15 @@
           - Consumption-Based On-Premises Pricing
           - Cloud-Tethered Compute
         - ***At the Peak***
+          - Cloud-Optimized Hardware
+          - Edge Computing
+          - Quantum Computing
+          - Service Mesh
+          - Multicloud
+          - Secure Access Service Edge (SASE)
+          - Site Reliability Engineering
+          - AI Cloud Services
+          - Container Management
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
         - ***Entering the Plateau***
