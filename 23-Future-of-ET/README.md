@@ -94,6 +94,40 @@
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)**
     -   Agile and DevOps 
+       - **On the Rise**
+         - DesignOps
+         - Promise Theory
+         - Performance Engineering
+         - Chaos Engineering
+         - DevOps Value Stream Delivery Platforms
+         - DevOps Value Stream Management Platforms
+         - Continuous Quality
+         - Platform Ops
+         - Continuous Compliance Automation
+       - **At the Peak**
+         - Artificial Intelligence for IT Operations (AIOps) Platforms
+         - Autonomous Testing
+         - Dojos
+         - Programmable Infrastructure
+         - Hypothesis-Driven Development
+         - Communities of Practice
+         - Immutable Infrastructure
+         - Site Reliability Engineering
+         - Infrastructure Automation
+         - Application Release Orchestration
+         - Container Management
+       - **Sliding Into the Trough**
+         - Continuous Delivery
+         - Bimodal IT Operations
+         - DevOps Toolchain
+         - Software-Defined Infrastructure
+       - **Climbing the Slope**
+         - DevSecOps
+         - Application Performance Monitoring Software
+         - Cloud Management Platforms
+         - Continuous Configuration Automation
+       - **Entering the Plateau**
+         - Agile Ops
     -   Analytics and Business Intelligence 
     -   API and Business Ecosystems 
     -   Application and Integration Infrastructure 
