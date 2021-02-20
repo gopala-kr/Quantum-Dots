@@ -125,7 +125,36 @@
     -   Digital Workplace Infrastructure and Operations 
     -   Display and Vision 
     -   Drones and Mobile Robots 
-    -   ERP 
+    -   ERP
+        - **On the Rise**
+          - ERP-Embedded FP&A Capabilities
+          - Composable ERP
+          - Blockchain for ERP
+          - Machine Learning in ERP
+        - **At the Peak**
+          - Embedded AI in ERP
+          - Hybrid Application Platform
+          - ERP and Agile for Implementation
+          - ERP and Agile for Support
+          - Hybrid Integration for ERP
+          - Conversational UI in ERP
+          - Cloud ERP for Global Enterprises
+          - Data Hub Strategy
+          - Enterprise Metadata Management
+          - Predictive Analytics and ERP
+        - **Sliding Into the Trough**
+          - Business Capability Modeling
+          - Cloud ERP for Manufacturing
+          - Digital Twin
+          - Information Architecture
+          - Application Data Management
+          - Citizen Integrator Tools
+          - Third-Party Support for ERP
+          - Cloud Service Brokerage
+          - Cloud ERP for the Public Sector
+        - **Climbing the Slope**
+          - Application Platform as a Service for Cloud ERP
+          - Cloud Management Platforms
     -   Edge Computing 
     -   Embedded Software and Systems 
     -   Emerging Technologies 
@@ -141,7 +170,6 @@
     -   I&O Automation 
     -   ICT in China 
     -   Identity and Access Management Technologies 
-    -   Imaging and Print Services 
     -   Imaging and Print Services 
     -   Infrastructure Strategies 
     -   IoT Standards and Protocols 
