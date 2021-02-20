@@ -229,6 +229,16 @@
     -   Customer Service and Support Technologies 
     -   Data and Analytics Governance and Master Data Management
         - ***On the Rise***
+          - Business Continuity for Data and Analytics
+          - FinDRA
+          - Data Security Governance
+          - Adaptive Data and Analytics Governance
+          - Augmented MDM
+          - Analytics Stewardship
+          - Responsible AI
+          - AI Governance
+          - Trust-Based Data and Analytics Governance
+          - Data Literacy
         - ***At the Peak***
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
