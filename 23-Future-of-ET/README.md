@@ -190,7 +190,23 @@
     -   Digital Commerce 
     -   Digital Grid Transformation Technologies 
     -   Digital Marketing 
-    -   Digital Workplace Infrastructure and Operations 
+    -   Digital Workplace Infrastructure and Operations
+        - **On the Rise**
+          - Unified Endpoint Security
+          - Foldables
+          - AR Cloud
+          - Continuous Endpoint Engineering
+          - Peer IT Support
+          - SaaS Management Platforms
+          - Microapps
+          - Remote Expert Guidance Solutions
+        - **At the Peak**
+          - BYOPC Security
+          - Workplace Analytics
+          - Secure Access Service Edge (SASE)
+          - Smart Workspace
+          - Digital Adoption Solutions
+          - Workstream Collaboration 
     -   Display and Vision 
     -   Drones and Mobile Robots 
     -   **ERP**
