@@ -220,6 +220,13 @@
           - Augmented Reality
           - Head-Mounted Displays
           - Virtual Reality
+        - **Climbing the Slope**
+          - Team Collaboration Devices
+          - Citizen Developers
+          - Group Interactive Displays
+          - Server-Side Client Graphics
+          - Cloud Access Security Brokers
+          - Image Layering
     -   Display and Vision 
     -   Drones and Mobile Robots 
     -   **ERP**
