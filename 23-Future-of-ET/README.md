@@ -264,7 +264,7 @@
     -   Retail Technologies 
     -   Risk Management 
     -   Security Operations 
-    -   Semiconductors and Electronics Technologies 
+    -   **Semiconductors and Electronics Technologies**
         - **On the Rise**
           - Ternary Logic
           - GaO Transistors
