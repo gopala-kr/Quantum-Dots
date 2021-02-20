@@ -227,7 +227,12 @@
     -   CRM Sales Technology 
     -   Customer Experience Analytics 
     -   Customer Service and Support Technologies 
-    -   Data and Analytics Governance and Master Data Management 
+    -   Data and Analytics Governance and Master Data Management
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   Data Management 
     -   Data Science and Machine Learning 
     -   Data Security 
