@@ -145,6 +145,13 @@
     -   Business Process Services 
     -   **Cloud Computing**
         - ***On the Rise***
+          - Composable ERP
+          - Distributed Cloud
+          - Cloudlets
+          - API-Centric (“Headless”) SaaS
+          - Cloud-Native
+          - Consumption-Based On-Premises Pricing
+          - Cloud-Tethered Compute
         - ***At the Peak***
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
