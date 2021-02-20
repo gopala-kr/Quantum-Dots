@@ -163,6 +163,17 @@
           - AI Cloud Services
           - Container Management
         - ***Sliding Into the Trough***
+          - BPaaS
+          - Repatriation
+          - Cloud Marketplaces
+          - Desktop as a Service
+          - Serverless PaaS
+          - IoT Platform
+          - Cloud Managed Services
+          - Hybrid Cloud Computing
+          - Cloudbursting
+          - Hybrid IT
+          - Cloud Center of Excellence
         - ***Climbing the Slope***
         - ***Entering the Plateau***
     -   Cloud Security 
