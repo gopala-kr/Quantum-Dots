@@ -206,7 +206,20 @@
           - Secure Access Service Edge (SASE)
           - Smart Workspace
           - Digital Adoption Solutions
-          - Workstream Collaboration 
+          - Workstream Collaboration
+        - **Sliding Into the Trough**
+          - Digital Dexterity
+          - Unified Workspaces
+          - Chromebooks for Enterprise
+          - Mixed Reality
+          - Progressive Web Apps
+          - Desktop as a Service
+          - Unified Endpoint Management
+          - Cloud Application Virtualization
+          - PC as a Service
+          - Augmented Reality
+          - Head-Mounted Displays
+          - Virtual Reality
     -   Display and Vision 
     -   Drones and Mobile Robots 
     -   **ERP**
