@@ -175,6 +175,14 @@
           - Hybrid IT
           - Cloud Center of Excellence
         - ***Climbing the Slope***
+          - Cloud Networking
+          - Private Cloud Computing
+          - CIPS
+          - Cloud Access Security Brokers
+          - Cloud Computing
+          - Platform as a Service (PaaS)
+          - Cloud Management Platforms
+          - IaaS
         - ***Entering the Plateau***
     -   Cloud Security 
     -   Communications Service Provider Operations 
