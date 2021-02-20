@@ -190,7 +190,7 @@
     -   Digital Commerce 
     -   Digital Grid Transformation Technologies 
     -   Digital Marketing 
-    -   Digital Workplace Infrastructure and Operations
+    -   **Digital Workplace Infrastructure and Operations**
         - **On the Rise**
           - Unified Endpoint Security
           - Foldables
@@ -227,6 +227,9 @@
           - Server-Side Client Graphics
           - Cloud Access Security Brokers
           - Image Layering
+        - **Entering the Plateau**
+          - Cloud Office
+          - Content Collaboration Tools
     -   Display and Vision 
     -   Drones and Mobile Robots 
     -   **ERP**
