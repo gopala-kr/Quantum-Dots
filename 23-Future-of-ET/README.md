@@ -184,6 +184,7 @@
           - Cloud Management Platforms
           - IaaS
         - ***Entering the Plateau***
+          - Software as a Service
     -   Cloud Security 
     -   Communications Service Provider Operations 
     -   **Compute Infrastructure**
