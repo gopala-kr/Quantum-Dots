@@ -107,7 +107,7 @@
     -   Cloud Computing 
     -   Cloud Security 
     -   Communications Service Provider Operations 
-    -   Compute Infrastructure
+    -   **Compute Infrastructure**
         - **On the Rise**
           - Confidential Computing
           - FACs (NextGen SmartNICs)
@@ -159,7 +159,7 @@
     -   Digital Workplace Infrastructure and Operations 
     -   Display and Vision 
     -   Drones and Mobile Robots 
-    -   ERP
+    -   **ERP**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
           - Composable ERP
