@@ -265,6 +265,36 @@
     -   Risk Management 
     -   Security Operations 
     -   Semiconductors and Electronics Technologies 
+        - **On the Rise**
+          - Ternary Logic
+          - GaO Transistors
+          - Chip-to-Chip Silicon Photonics
+          - Neuromorphic Hardware
+          - Terahertz Waves
+          - Next-Generation Transistors
+        - **At the Peak**
+          - Energy Harvesting From Radio Waves
+          - ReRAM
+          - Deep Neural Network ASICs
+          - Embedded AI
+          - GaN-on-Silicon Transistors
+          - Quantum Computing
+          - Edge AI
+          - eFPGA
+          - RISC-V
+          - SiC Transistors
+          - mmWave
+        - **Sliding Into the Trough**
+          - Carbon-Based Transistors
+          - NRAM
+          - FPGA Accelerators
+          - SDR
+          - STT-MRAM
+          - Phase Change Memory
+        - **Climbing the Slope**
+          - Sensor Fusion
+        - **Entering the Plateau**
+          - Cognitive Radio
     -   Sensing Technologies and Applications 
     -   Smart City and Sustainability in China 
     -   Smart City Technologies and Solutions 
