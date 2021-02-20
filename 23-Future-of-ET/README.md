@@ -128,17 +128,27 @@
           - Continuous Configuration Automation
         - **Entering the Plateau**
           - Agile Ops
-    -   Analytics and Business Intelligence 
+    -   **Analytics and Business Intelligence**
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   API and Business Ecosystems 
     -   Application and Integration Infrastructure 
     -   Application Architecture and Development 
     -   Application Security 
     -   Artificial Intelligence 
     -   Automotive Technologies 
-    -   Back-  Office Analytic Applications 
+    -   Back - Office Analytic Applications 
     -   Blockchain Technologies 
     -   Business Process Services 
-    -   Cloud Computing 
+    -   **Cloud Computing**
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau***
     -   Cloud Security 
     -   Communications Service Provider Operations 
     -   **Compute Infrastructure**
