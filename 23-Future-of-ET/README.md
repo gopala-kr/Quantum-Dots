@@ -247,8 +247,18 @@
           - Data Catalog
           - Cloud MDM
         - ***Sliding Into the Trough***
+          - 360-Degree View
+          - Data and Analytics Governance
+          - Digital Twin
+          - Information Stewardship Applications
+          - Metadata Management Solutions
+          - Application Data Management
+          - Multidomain MDM Solutions
+          - Information Stewardship
+          - Master Data Management
         - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+          - MDM of Customer Data
+          - MDM of Product Data
     -   Data Management 
     -   Data Science and Machine Learning 
     -   Data Security 
