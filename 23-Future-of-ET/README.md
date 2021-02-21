@@ -240,6 +240,12 @@
           - Trust-Based Data and Analytics Governance
           - Data Literacy
         - ***At the Peak***
+          - Augmented Data Quality
+          - Digital Ethics
+          - Interenterprise MDM
+          - Data Hub Strategy
+          - Data Catalog
+          - Cloud MDM
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
         - ***Entering the Plateau*** 
