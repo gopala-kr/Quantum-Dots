@@ -371,6 +371,36 @@
     -   I&O Automation 
     -   ICT in China 
     -   Identity and Access Management Technologies 
+        - ***On the Rise***
+          - Cloud Infrastructure Entitlement Management
+          - UMA
+          - Zero-Knowledge Proofs
+          - 5G Security
+          - Internet of Things Authentication
+        - ***At the Peak***
+          - Machine Identity Management
+          - Mobile MFA
+          - Secure Multiparty Computing
+          - Decentralized Identity
+          - FIDO Authentication Protocols
+          - SCIM
+        - ***Sliding Into the Trough***
+          - SaaS-Delivered IAM
+          - API Access Control
+          - Bring Your Own Identity
+          - OpenID Connect
+          - Mobile Identity
+        - ***Climbing the Slope***
+          - Externalized Authorization Management
+          - Customer IAM
+          - IAM Managed Services
+          - OAuth 2.0
+          - Biometric Authentication Methods
+        - ***Entering the Plateau*** 
+          - Document-Centric Identity Proofing
+          - Enterprise Digital Rights Management
+          - X.509 Hardware Tokens for User Authentication
+          - Privileged Access Management
     -   Imaging and Print Services 
     -   Infrastructure Strategies 
     -   IoT Standards and Protocols 
