@@ -134,7 +134,24 @@
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
         - ***Entering the Plateau*** 
-    -   API and Business Ecosystems 
+    -   **API and Business Ecosystems** 
+        - ***On the Rise***
+          - Business Ecosystem Modeling
+          - AI Marketplaces
+          - API-Centric (“Headless”) SaaS
+        - ***At the Peak***
+          - Customer Engagement Hub
+          - API-Based Digital Commerce
+          - Business Ecosystems
+          - Digital Business Technology Platform
+        - ***Sliding Into the Trough***
+          - API Marketplaces
+          - IoT Platform
+        - ***Climbing the Slope***
+          - Full Life Cycle API Management
+          - Public APIs
+          - API Economy
+          - Cloud Computing
     -   Application and Integration Infrastructure 
     -   Application Architecture and Development 
     -   Application Security 
