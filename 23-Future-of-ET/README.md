@@ -152,14 +152,14 @@
           - Public APIs
           - API Economy
           - Cloud Computing
-    -   Application and Integration Infrastructure 
-    -   Application Architecture and Development 
-    -   Application Security 
-    -   Artificial Intelligence 
-    -   Automotive Technologies 
-    -   Back - Office Analytic Applications 
-    -   Blockchain Technologies 
-    -   Business Process Services 
+    -   **Application and Integration Infrastructure**
+    -   **Application Architecture and Development**
+    -   **Application Security**
+    -   **Artificial Intelligence** 
+    -   **Automotive Technologies** 
+    -   **Back - Office Analytic Applications** 
+    -   **Blockchain Technologies** 
+    -   **Business Process Services** 
     -   **Cloud Computing**
         - ***On the Rise***
           - Composable ERP
@@ -202,8 +202,8 @@
           - IaaS
         - ***Entering the Plateau***
           - Software as a Service
-    -   Cloud Security 
-    -   Communications Service Provider Operations 
+    -   **Cloud Security** 
+    -   **Communications Service Provider Operations** 
     -   **Compute Infrastructure**
         - **On the Rise**
           - Confidential Computing
@@ -239,12 +239,12 @@
           - Cloud Computing
         - **Entering the Plateau**
           - GPU Accelerators 
-    -   Connected Vehicles and Smart Mobility 
-    -   Consumer Engagement With Healthcare and Wellness 
-    -   CRM Sales Technology 
-    -   Customer Experience Analytics 
-    -   Customer Service and Support Technologies 
-    -   Data and Analytics Governance and Master Data Management
+    -   **Connected Vehicles and Smart Mobility** 
+    -   **Consumer Engagement With Healthcare and Wellness** 
+    -   **CRM Sales Technology** 
+    -   **Customer Experience Analytics** 
+    -   **Customer Service and Support Technologies** 
+    -   **Data and Analytics Governance and Master Data Management**
         - ***On the Rise***
           - Business Continuity for Data and Analytics
           - FinDRA
@@ -276,14 +276,14 @@
         - ***Climbing the Slope***
           - MDM of Customer Data
           - MDM of Product Data
-    -   Data Management 
-    -   Data Science and Machine Learning 
-    -   Data Security 
-    -   Digital Advertising 
-    -   Digital Care Delivery Including Telemedicine and Virtual Care 
-    -   Digital Commerce 
-    -   Digital Grid Transformation Technologies 
-    -   Digital Marketing 
+    -   **Data Management** 
+    -   **Data Science and Machine Learning** 
+    -   **Data Security** 
+    -   **Digital Advertising** 
+    -   **Digital Care Delivery Including Telemedicine and Virtual Care** 
+    -   **Digital Commerce** 
+    -   **Digital Grid Transformation Technologies** 
+    -   **Digital Marketing** 
     -   **Digital Workplace Infrastructure and Operations**
         - **On the Rise**
           - Unified Endpoint Security
@@ -324,8 +324,8 @@
         - **Entering the Plateau**
           - Cloud Office
           - Content Collaboration Tools
-    -   Display and Vision 
-    -   Drones and Mobile Robots 
+    -   **Display and Vision** 
+    -   **Drones and Mobile Robots** 
     -   **ERP**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
@@ -356,9 +356,9 @@
         - **Climbing the Slope**
           - Application Platform as a Service for Cloud ERP
           - Cloud Management Platforms
-    -   Edge Computing 
-    -   Embedded Software and Systems 
-    -   Emerging Technologies 
+    -   **Edge Computing** 
+    -   **Embedded Software and Systems** 
+    -   **Emerging Technologies** 
     -   Enabling Power and Energy Electronics 
     -   Endpoint Security 
     -   Enterprise Architecture 
