@@ -415,7 +415,42 @@
         - ***Entering the Plateau***  
           - Proactive Support
           - Multidiscipline Service Desk Outsourcing
-    -   I&O Automation 
+    -   I&O Automation
+        - ***On the Rise***
+          - Chaos Engineering
+          - Hybrid Digital Infrastructure Management
+          - SaaS Management Platforms
+          - Intelligent Infrastructure
+          - Hyperautomation
+        - ***At the Peak***
+          - Artificial Intelligence for IT Operations (AIOps) Platforms
+          - Programmable Infrastructure
+          - Immutable Infrastructure
+          - Site Reliability Engineering
+          - Infrastructure Automation
+          - Application Release Orchestration
+          - Cloud Data Backup
+          - Container Management
+          - Network Automation
+        - ***Sliding Into the Trough***
+          - Composable Infrastructure
+          - Intelligent Automation (I&O)
+          - Continuous Delivery
+          - Software Asset Management Tools
+          - DevOps Toolchain
+          - Intent-Based Networking
+          - Software-Defined Infrastructure
+          - Hybrid Cloud Computing
+          - Intelligent Automation for Infrastructure Managed Services
+        - ***Climbing the Slope***
+          - DevSecOps
+          - ITIL
+          - Cloud Application Discovery
+          - Cloud Management Platforms
+          - Continuous Configuration Automation
+        - ***Entering the Plateau***
+          - Cloud Migration
+          - DevOps. 
     -   ICT in China 
     -   Identity and Access Management Technologies 
         - ***On the Rise***
