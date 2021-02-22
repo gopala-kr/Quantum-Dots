@@ -364,10 +364,45 @@
     -   Enterprise Architecture 
     -   Enterprise Information Management 
     -   Enterprise Networking 
-    -   Frontline Worker Technologies 
-    -   Healthcare Providers 
-    -   Human Capital Management Technology 
-    -   Hybrid Infrastructure Services
+    -   **Frontline Worker Technologies**
+        - ***On the Rise***
+          - Foldables
+          - Remote Expert Guidance Solutions
+        - ***At the Peak***
+          - Connected Factory Worker
+          - Smart Badges
+          - Workplace Analytics
+          - Smart Workspace
+          - Social Distancing Technologies
+          - Enterprise Wearable Device Management
+          - Galvanic Skin Response Devices
+          - Indoor Location for People Tracking
+          - Workstream Collaboration
+          - Collaborative Work Management
+        - ***Sliding Into the Trough***
+          - Device Endpoint Security for Frontline Workers
+          - Gesture Control Devices
+          - Drowsiness Detection
+          - Mixed Reality.
+          - Unified Endpoint Management
+          - Ring Scanner
+          - Augmented Reality
+          - Head-Mounted Displays
+          - Mobile Identity
+        - ***Climbing the Slope***
+          - Smartwatches
+          - Healthcare Optimized Devices
+          - Wristbands
+          - Gamification.
+          - Lone Worker Protection
+          - Push to Talk
+          - Biometric Authentication Methods
+        - ***Entering the Plateau*** 
+          - Cloud Office
+          - Speech Recognition 
+    -   **Healthcare Providers** 
+    -   **Human Capital Management Technology** 
+    -   **Hybrid Infrastructure Services**
         - ***On the Rise***
           - Hybrid Cloud Storage
           - IoT-Enabled Product as a Service
