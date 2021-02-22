@@ -325,7 +325,35 @@
           - Cloud Office
           - Content Collaboration Tools
     -   **Display and Vision** 
-    -   **Drones and Mobile Robots** 
+    -   **Drones and Mobile Robots**
+        - ***On the Rise***
+          - Robot Knowledge Sharing
+          - Air-to-Underwater Drone Communications
+          - Autonomous Trucks
+          - Drone Traffic Control Systems
+          - Emotion AI
+          - Robot Interactive Interface
+          - Personal Robot
+          - Swarming Robotics
+        - ***At the Peak***
+          - Drone Management Platforms
+          - Light Cargo Delivery Drones
+          - Smart Robots
+          - Open-Space Optical Communication
+          - Warehouse Picking (Humanoid) Robots
+          - Autonomous Mobile Robots
+          - Drone Countermeasures
+        - ***Sliding Into the Trough***
+          - Light-Cargo Delivery Robots
+          - Machine Learning
+          - Computer Vision
+          - Solid-State MEMS Scanning Lidar
+          - Autonomous Vehicles
+          - Commercial UAVs (Drones)
+          - Lighter-Than-Air Communications Platforms
+        - ***Climbing the Slope***
+          - Sensor Fusion
+          - Micro Fuel Cells
     -   **ERP**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
