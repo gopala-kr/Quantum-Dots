@@ -367,7 +367,54 @@
     -   Frontline Worker Technologies 
     -   Healthcare Providers 
     -   Human Capital Management Technology 
-    -   Hybrid Infrastructure Services 
+    -   Hybrid Infrastructure Services
+        - ***On the Rise***
+          - Hybrid Cloud Storage
+          - IoT-Enabled Product as a Service
+          - XLA
+          - Hyperautomation
+          - Consumption-Based On-Premises Pricing
+        - ***At the Peak***
+          - AI-Related C&SI Services
+          - Edge Computing
+          - Low Earth Orbit Satellite Systems
+          - Managed IoT Services
+          - Service Mesh
+          - Immutable Infrastructure
+          - Multicloud
+          - 5G Services
+          - Serverless Infrastructure
+          - IoT Services
+        - ***Sliding Into the Trough***
+          - IoT Security
+          - Digital Business Transformation
+          - Digital Twin
+          - Outcome-Based Service Contracting
+          - SDx Consulting Services
+          - Digital Business Consulting Services
+          - IoT Networking
+          - Hybrid Cloud Computing
+          - Predictive Support
+          - Cloudbursting
+          - Intelligent Automation for Infrastructure Managed Services
+          - Cloud Service Brokerage
+        - ***Climbing the Slope***
+          - Cloud Networking
+          - Managed IoT Connectivity Services
+          - Private Cloud Computing
+          - Public Cloud Storage
+          - Managed Workplace Services
+          - Cloud Computing
+          - IoT Integration
+          - Platform as a Service (PaaS)
+          - Cloud UC (UCaaS)
+          - Disaster Recovery as a Service (DRaaS)
+          - IaaS
+          - Private PaaS
+          - SIAM
+        - ***Entering the Plateau***  
+          - Proactive Support
+          - Multidiscipline Service Desk Outsourcing
     -   I&O Automation 
     -   ICT in China 
     -   Identity and Access Management Technologies 
