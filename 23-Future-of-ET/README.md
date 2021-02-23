@@ -2406,6 +2406,10 @@ Meeting Solutions
 ![itservice_process](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/itservice_process.PNG)
 
 ---------
+
+![ea_itsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/ea_itsm.jpg)
+
+--------------
 ![4006757_Gartner_MQ_for_ITSM](https://mms.businesswire.com/media/20190905005347/en/741858/5/4006757_Gartner_MQ_for_ITSM.jpg)
 
 
