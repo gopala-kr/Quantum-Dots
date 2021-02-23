@@ -1589,10 +1589,73 @@
 ---------
 ![Agile-MBSE-Sys-Arch-Tetrad](https://pivotpt.com/.res/images/mbse/Agile-MBSE-Sys-Arch-Tetrad.png)
 
+-----------
+------------
+
+- [LeanX](https://www.leanix.net/en/enterprise-architecture)
+- [disruptivedigital](https://disruptivedigital.wordpress.com/)
+
+![EN-Finance-BCMap-Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/EN-Finance-BCMap-Poster_Landing_Page_Preview.png?)
+------------
+![EA_24Views_Manuf_Industry_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EA_24Views_Manuf_Industry_Poster_Landing_Page_Preview.png?)
+-------------
+![TOP_Questions_Manuf_Industry_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/TOP_Questions_Manuf_Industry_Poster_Landing_Page_Preview.png?)
+----------
+![Best-practices-to-define-business-capability-maps](https://www.leanix.net/hs-fs/hubfs/Downloads/Preview%20images%20(thumbnails)/LeanIX_Poster_Best-practices-to-define-energy-business-capability-maps.png?)
+
+-----------
+![Governance_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EA-Governance_Poster_Landing_Page_Preview.png?width=2250&height=1590&name=EA-Governance_Poster_Landing_Page_Preview.png)
+
+------------
+![EN-TOGAF-Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Featured%20images/EN-TOGAF-Poster_Landing_Page_Preview.png?)
+
+------
+![LeanIX_Poster_Enterprise-Architecture-Roadmap](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/LeanIX_Poster_Enterprise-Architecture-Roadmap.png?)
+
+------------
+![EN-TopStakeholderQuestions-Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/EN-TopStakeholderQuestions-Poster_Landing_Page_Preview.png?)
+------------
+![the-blueprint-for-a-modern-it-management-stack](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/the-blueprint-for-a-modern-it-management-stack.png?)
+------------
+![EN-Finance-EA-24KeyViews-Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EN-Finance-EA-24KeyViews-Poster_Landing_Page_Preview.png?)
+-------
+![LeanIX_Poster_reshape-your-it-with-24-key-ea-views-1](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/LeanIX_Poster_reshape-your-it-with-24-key-ea-views-1.png)
+------------
+![Apptio_App_Rationalization_Framework](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/EN-Apptio_App_Rationalization_Framework-Poster_Landing_Page_Preview.png)
+------------
+![Save_IT_Costs_Framework](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EN-Poster-Save_IT_Costs_Framework-Poster_Landing_Page_Preview.png?)
+------------
+![best-practices-to-define-technology-stacks](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/best-practices-to-define-technology-stacks.png?)
+------
+![the-complete-overview-of-enterprise-integration-patterns](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/the-complete-overview-of-enterprise-integration-patterns.png?)
+------------
+![What-to-Look-for-in-a-Modern-EA-Tool_Poster_Landing_Page_Preview](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/What-to-Look-for-in-a-Modern-EA-Tool_Poster_Landing_Page_Preview.png)
+------------
+![LeanIX_Poster_Enterprise](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/LeanIX_Poster_Enterprise-Architecture-Roadmap.png?)
+------------
+![Roles_Poster_Landing_Page_Preview](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/EN-IT-Arch-Roles_Poster_Landing_Page_Preview.png)
+
+------------
+![lean-enterprise-architecture-framework](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/lean-enterprise-architecture-framework.png?)
+------------
+![image%20(1)](https://www.leanix.net/hubfs/Blog/image%20(1).png)
+
+------------
+![ManageBTM_Poster_Landing_Page_Preview](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/EN-BTM-ManageBTM_Poster_Landing_Page_Preview.png)
+------------
+![12_steps_to_a_better_it_for_your_company](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/12_steps_to_a_better_it_for_your_company.png?)
+
+------------
+![Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EN-S4Hana-Roadmap-Poster_Landing_Page_Preview.png?)
+------------
+![Poster_Landing_Page_Preview](https://www.leanix.net/hubfs/Downloads/Landing%20Page%20Images/EN-S4Hana-Challenges-Poster_Landing_Page_Preview.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![2020_SPARK_Matrix_Enterprise_Architecture_Tools](https://www.leanix.net/hubfs/Blog/2020_SPARK_Matrix_Enterprise_Architecture_Tools@2x%20(1).jpg)
+-------
+![20Page_](https://www.leanix.net/hs-fs/hubfs/MQ2020%20Graphic_Landing%20Page_.png?width=750&height=750&name=MQ2020%20Graphic_Landing%20Page_.png)
 
 -----------
 
