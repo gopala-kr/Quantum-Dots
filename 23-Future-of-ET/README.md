@@ -8238,6 +8238,9 @@ Use Cases
 - [https://www.enterpriseai.news/](https://www.enterpriseai.news/)
 - [How to build an AI Platform](https://medium.com/@unbug/how-to-build-an-ai-platform-2493d57c9e8)
 
+-----------
+![AI-Demystified](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/AI-Demystified.png)
+
 -------
 ![Tech_DS](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_DS.png)
 --------
