@@ -557,22 +557,22 @@
     -   **[Life Science Manufacturing, Quality and Supply Chain]()** 
     -   **[Life Science Research and Development]()** 
     -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
-    -   **[Manufacturing Operations Strategy]()** 
+    -   **[Manufacturing Operations Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_manufacturing_450325.pdf)** 
     -   **[Midsize Enterprises]()** 
-    -   **[Multienterprise Solutions]()** 
+    -   **[Multienterprise Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_multienterpri_382327.pdf)** 
     -   **[Natural Language Technologies]()** 
     -   **[Network Security]()** 
     -   **[Open-Source Software]()** 
     -   **[Open Banking]()** 
     -   **[Platform as a Service]()** 
-    -   **[Privacy]()** 
-    -   **[Procurement and Sourcing Solutions]()** 
+    -   **[Privacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_privacy_2020_441605.pdf)** 
+    -   **[Procurement and Sourcing Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_procurement_a_450429.pdf)** 
     -   **[Project and Portfolio Management]()** 
-    -   **[Real-Time Health System Technologies]()** 
+    -   **[Real-Time Health System Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_realtime_heal_467856.pdf)** 
     -   **[Retail Technologies]()** 
-    -   **[Risk Management]()** 
+    -   **[Risk Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_risk_manageme_448047.pdf)** 
     -   **[Security Operations]()** 
-    -   **]Semiconductors and Electronics Technologies]()**
+    -   **[Semiconductors and Electronics Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_semiconductor_441655.pdf)**
         - **On the Rise**
           - Ternary Logic
           - GaO Transistors
