@@ -8410,6 +8410,14 @@ RPA
 
 ![DPoDAF2UMAA49HB](https://pbs.twimg.com/media/DPoDAF2UMAA49HB.jpg)
 
+--------------------
+-----------------------------
+
+- [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+
+![ml-engineer](https://raw.githubusercontent.com/chris-chris/ml-engineer-roadmap/master/img/ml-engineer.png)
+
+
 -------------------
 -------------
 
