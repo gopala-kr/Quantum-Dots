@@ -604,20 +604,21 @@
         - **Entering the Plateau**
           - Cognitive Radio
     -   **[Sensing Technologies and Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_sensing_techn_441514.pdf)**  
-    -   **[Smart City and Sustainability in China]()**  
-    -   **[Smart City Technologies and Solutions]()**  
-    -   **[Software as a Service]()**  
+    -   **[Smart City and Sustainability in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_an_448109.pdf)**  
+    -   **[Smart City Technologies and Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_te_450328.pdf)**  
+    -   **[Software as a Service](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_software_as_a_448212.pdf)**  
     -   **[Storage and Data Protection Technologies]()**  
     -   **[Supply Chain Execution Technologies]()**  
-    -   **[Supply Chain Planning Technologies]()**  
+    -   **[Supply Chain Planning Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_supply_chain__464742.pdf)**  
     -   **[Supply Chain Strategy]()**  
     -   **[Digital Workplace]()**  
-    -   **[Future of Applications]()**  
-    -   **[Future of CSP Networks Infrastructure]()**  
+    -   **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
+    -   **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
     -   **[Internet of Things]()**  
     -   **[Transportation Industry]()**  
     -   **[Unified Communications and Collaboration]()**  
-    -   **[User Experience]()**  
+    -   **[User Experience]()** 
+    -   **[Strategic Technology Trends]()** 
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
