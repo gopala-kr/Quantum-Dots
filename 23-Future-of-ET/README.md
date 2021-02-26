@@ -7532,6 +7532,42 @@ SAP Portfolio
 - [All Database management systems](https://db-engines.com/en/systems)
 - [2020 Data Landscape](https://mattturck.com/data2020/)
 
+-----------------
+
+                  Database Fundamentals
+                  - Relational Algebra / Normalisation.
+                  - SQL.
+                  - ACID / CAP.
+                  - OLTP vs OLAP.
+                  - Datawarehouses and Datamarts.
+                  - Datalake / Cloud Data Platform.
+
+
+                  Data Storage
+                  - Relational: MySql, PostgreSQL, MariaDB, Amazon Aurora.
+                  - Document: MongoDB, Elasticsearch, Apache CouchDB.
+                  - Wide column: Cassandra, Hbase, Google Bigtable.
+                  - Graph: Neo4j, Amazon Neptune.
+                  - Key-value: Redis, Memcached, Amazon DynamoDB.
+                  - Messaging: RabbitMQ, Apache ActiveMQ.
+                  - Data warehouses: Snowflake, Presto, Apache Hive, Amazon Redshift, Google BigQuery.
+                  - Datalakes: S3, ADLS Gen2.
+
+                  Data Processing:
+                  - Cluster Computing: Hadoop, HDFS, MapReduce.
+                  - Batch: Apache Pig, Apache Arrow, Apache Impala.
+                  - Hybrid: Apache Spark, Apache Beam, Apache Flink.
+                  - Streaming: Apache Kafka, Apache Storm, Apache Samza, Amazon Kinesis.
+                  - Managed Solutions: Databricks, Amazon EMR, Google Dataproc, Azure HDInsight.
+
+                  Workflow Scheduling / ETC
+                  - Apache Airflow / Google Composer.
+                  - Azure Data Factory.
+                  - AWS Glue.
+                  - Apache Oozie.
+
+----------------------
+
 ![Database_Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Database_Evolution.PNG)
 -------
 ![datalakehouse](https://databricks.com/de/wp-content/uploads/2020/01/datalakehouse.jpg)
@@ -8229,6 +8265,10 @@ Use Cases
 
 ------
 ![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
+---------------
+![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
+--------------
+![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
