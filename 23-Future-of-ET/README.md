@@ -550,29 +550,29 @@
     -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
     -   **[IoT Standards and Protocols](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_iot_standards_448213.pdf)** 
     -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
-    -   IT Performance Analysis 
-    -   ITSM 
-    -   Legal and Compliance Technologies 
-    -   Life Science Commercial Operations 
-    -   Life Science Manufacturing, Quality and Supply Chain 
-    -   Life Science Research and Development 
-    -   Managing Operational Technology 
-    -   Manufacturing Operations Strategy 
-    -   Midsize Enterprises 
-    -   Multienterprise Solutions 
-    -   Natural Language Technologies 
-    -   Network Security 
-    -   Open-Source Software 
-    -   Open Banking 
-    -   Platform as a Service 
-    -   Privacy 
-    -   Procurement and Sourcing Solutions 
-    -   Project and Portfolio Management 
-    -   Real-Time Health System Technologies 
-    -   Retail Technologies 
-    -   Risk Management 
-    -   Security Operations 
-    -   **Semiconductors and Electronics Technologies**
+    -   **[IT Performance Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_it_performanc_448200.pdf)** 
+    -   **[ITSM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_itsm_2020_441600.pdf)**
+    -   **[Legal and Compliance Technologies]()** 
+    -   **[Life Science Commercial Operations]()** 
+    -   **[Life Science Manufacturing, Quality and Supply Chain]()** 
+    -   **[Life Science Research and Development]()** 
+    -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
+    -   **[Manufacturing Operations Strategy]()** 
+    -   **[Midsize Enterprises]()** 
+    -   **[Multienterprise Solutions]()** 
+    -   **[Natural Language Technologies]()** 
+    -   **[Network Security]()** 
+    -   **[Open-Source Software]()** 
+    -   **[Open Banking]()** 
+    -   **[Platform as a Service]()** 
+    -   **[Privacy]()** 
+    -   **[Procurement and Sourcing Solutions]()** 
+    -   **[Project and Portfolio Management]()** 
+    -   **[Real-Time Health System Technologies]()** 
+    -   **[Retail Technologies]()** 
+    -   **[Risk Management]()** 
+    -   **[Security Operations]()** 
+    -   **]Semiconductors and Electronics Technologies]()**
         - **On the Rise**
           - Ternary Logic
           - GaO Transistors
