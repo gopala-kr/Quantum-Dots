@@ -128,13 +128,13 @@
           - Continuous Configuration Automation
         - **Entering the Plateau**
           - Agile Ops
-    -   **Analytics and Business Intelligence**
+    -   **[Analytics and Business Intelligence]()**
         - ***On the Rise***
         - ***At the Peak***
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
         - ***Entering the Plateau*** 
-    -   **API and Business Ecosystems** 
+    -   **[API and Business Ecosystems](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_api_and_busin_451430.pdf)** 
         - ***On the Rise***
           - Business Ecosystem Modeling
           - AI Marketplaces
@@ -160,7 +160,7 @@
     -   **Back - Office Analytic Applications** 
     -   **Blockchain Technologies** 
     -   **Business Process Services** 
-    -   **Cloud Computing**
+    -   **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
         - ***On the Rise***
           - Composable ERP
           - Distributed Cloud
@@ -204,7 +204,7 @@
           - Software as a Service
     -   **Cloud Security** 
     -   **Communications Service Provider Operations** 
-    -   **Compute Infrastructure**
+    -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
           - Confidential Computing
           - FACs (NextGen SmartNICs)
