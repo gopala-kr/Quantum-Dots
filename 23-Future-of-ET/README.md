@@ -284,7 +284,7 @@
     -   **Digital Commerce** 
     -   **Digital Grid Transformation Technologies** 
     -   **Digital Marketing** 
-    -   **Digital Workplace Infrastructure and Operations**
+    -   **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**
         - **On the Rise**
           - Unified Endpoint Security
           - Foldables
@@ -324,8 +324,8 @@
         - **Entering the Plateau**
           - Cloud Office
           - Content Collaboration Tools
-    -   **Display and Vision** 
-    -   **Drones and Mobile Robots**
+    -   **[Display and Vision(https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
+    -   **[Drones and Mobile Robots](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_drones_and_mo_441649.pdf)**
         - ***On the Rise***
           - Robot Knowledge Sharing
           - Air-to-Underwater Drone Communications
@@ -549,7 +549,7 @@
     -   Imaging and Print Services 
     -   Infrastructure Strategies 
     -   IoT Standards and Protocols 
-    -   IT in the Middle East 
+    -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
     -   IT Performance Analysis 
     -   ITSM 
     -   Legal and Compliance Technologies 
