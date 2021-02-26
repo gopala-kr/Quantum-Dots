@@ -8474,6 +8474,26 @@ RPA
 
 ![ml-engineer](https://raw.githubusercontent.com/chris-chris/ml-engineer-roadmap/master/img/ml-engineer.png)
 
+--------------------------
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+
+![intro](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/intro.svg)
+
+--------------
+![fundamentals](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/fundamentals.svg)
+-----------
+![datascience](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/datascience.svg)
+
+-----------
+![machine_learning](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/machine_learning.svg)
+
+------------
+![deep_learning](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/deep_learning.svg)
+------------
+![data_engineer](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/data_engineer.svg)
+-----------
+![big_data_engineer](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/big_data_engineer.svg)
 
 -------------------
 -------------
