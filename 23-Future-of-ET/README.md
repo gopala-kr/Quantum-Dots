@@ -8266,10 +8266,27 @@ Use Cases
 ------
 ![/Data-Report-Martin-Inline-Graphics-R6-04-e160271912467](https://i2.wp.com/a16z.com/wp-content/uploads/2020/10/Data-Report-Martin-Inline-Graphics-R6-04-e1602719124672.jpg?resize=1536%2C729&ssl=1)
 ---------------
-![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
+![hadoop-ecosystem](https://miro.medium.com/max/1050/1*4tyAmTnvmvCG0xl9PmSLDg.png)
 --------------
 ![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
 
+--------------------
+
+        Amazon Web Services (AWS) Certified Big Data — Specialty
+        Cloudera Certified Associate (CCA) Spark and Hadoop Developer
+        Cloudera Certified Professional (CCP): Data Engineer
+        Google Professional Data Engineer
+        HDP Apache Spark Developer
+        HDP Certified Developer Big Data Hadoop
+        Hortonworks Certified Associate (HCA)
+        IBM Certified Data Architect — Big Data
+        IBM Certified Data Engineer — Big Data
+        MapR Certified Hadoop Developer 1.0
+        MapR Certified Spark Developer 2.1
+        Oracle Business Intelligence Foundation Suite 11 Certified Implementation Specialist
+        SAS Certified Big Data Professional
+        SAS Certified Data Scientist Using SAS 9
+	
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
