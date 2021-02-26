@@ -277,13 +277,13 @@
           - MDM of Customer Data
           - MDM of Product Data
     -   **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
-    -   **Data Science and Machine Learning** 
-    -   **Data Security** 
-    -   **Digital Advertising** 
-    -   **Digital Care Delivery Including Telemedicine and Virtual Care** 
-    -   **Digital Commerce** 
-    -   **Digital Grid Transformation Technologies** 
-    -   **Digital Marketing** 
+    -   **[Data Science and Machine Learning]()** 
+    -   **[Data Security]()** 
+    -   **[Digital Advertising]()** 
+    -   **[Digital Care Delivery Including Telemedicine and Virtual Care]()** 
+    -   **[Digital Commerce]()** 
+    -   **[Digital Grid Transformation Technologies]()** 
+    -   **[Digital Marketing]()** 
     -   **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**
         - **On the Rise**
           - Unified Endpoint Security
@@ -354,7 +354,7 @@
         - ***Climbing the Slope***
           - Sensor Fusion
           - Micro Fuel Cells
-    -   **[ERP]()**
+    -   **[ERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_erp_2020_448211.pdf)**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
           - Composable ERP
@@ -386,13 +386,13 @@
           - Cloud Management Platforms
     -   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
     -   **[Embedded Software and Systems]()** 
-    -   **[Emerging Technologies]()** 
-    -   **[Enabling Power and Energy Electronics]()** 
+    -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
+    -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
     -   **[Endpoint Security]()** 
-    -   **[Enterprise Architecture]()** 
+    -   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
     -   **[Enterprise Information Management]()** 
-    -   **[Enterprise Networking]()** 
-    -   **[Frontline Worker Technologies]()**
+    -   **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
+    -   **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
         - ***On the Rise***
           - Foldables
           - Remote Expert Guidance Solutions
@@ -428,9 +428,9 @@
         - ***Entering the Plateau*** 
           - Cloud Office
           - Speech Recognition 
-    -   **Healthcare Providers** 
-    -   **Human Capital Management Technology** 
-    -   **Hybrid Infrastructure Services**
+    -   **[Healthcare Providers]()** 
+    -   **[Human Capital Management Technology]()** 
+    -   **[Hybrid Infrastructure Services]()**
         - ***On the Rise***
           - Hybrid Cloud Storage
           - IoT-Enabled Product as a Service
@@ -478,7 +478,7 @@
         - ***Entering the Plateau***  
           - Proactive Support
           - Multidiscipline Service Desk Outsourcing
-    -   I&O Automation
+    -   **[I&O Automation]()**
         - ***On the Rise***
           - Chaos Engineering
           - Hybrid Digital Infrastructure Management
