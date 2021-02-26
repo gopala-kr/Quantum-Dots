@@ -7597,6 +7597,7 @@ SAP Portfolio
 ![Gartner-Magic-Quadrant-Metadata-Managment-2019](https://www.silwoodtechnology.com/wp-content/uploads/2020/03/Gartner-Magic-Quadrant-Metadata-Managment-2019.jpg)
 
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -8017,6 +8018,15 @@ IIoT Platform
 </tr>
 </tbody>
 </table>    
+
+---------------------
+---------------------
+- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+
+![roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap/master/img/roadmap.png)
+
+-----------
+![extras](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap/master/img/extras.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
