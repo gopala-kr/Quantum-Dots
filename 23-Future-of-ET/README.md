@@ -244,7 +244,7 @@
     -   **CRM Sales Technology** 
     -   **Customer Experience Analytics** 
     -   **Customer Service and Support Technologies** 
-    -   **Data and Analytics Governance and Master Data Management**
+    -   **[Data and Analytics Governance and Master Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_and_anal_441544.pdf)**
         - ***On the Rise***
           - Business Continuity for Data and Analytics
           - FinDRA
@@ -276,7 +276,7 @@
         - ***Climbing the Slope***
           - MDM of Customer Data
           - MDM of Product Data
-    -   **Data Management** 
+    -   **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
     -   **Data Science and Machine Learning** 
     -   **Data Security** 
     -   **Digital Advertising** 
