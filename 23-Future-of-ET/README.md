@@ -152,14 +152,14 @@
           - Public APIs
           - API Economy
           - Cloud Computing
-    -   **Application and Integration Infrastructure**
-    -   **Application Architecture and Development**
-    -   **Application Security**
-    -   **Artificial Intelligence** 
-    -   **Automotive Technologies** 
-    -   **Back - Office Analytic Applications** 
-    -   **Blockchain Technologies** 
-    -   **Business Process Services** 
+    -   **[Application and Integration Infrastructure]()**
+    -   **[Application Architecture and Development]()**
+    -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
+    -   **[Artificial Intelligence]()** 
+    -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
+    -   **[Back - Office Analytic Applications]()** 
+    -   **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
+    -   **[Business Process Services]()** 
     -   **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
         - ***On the Rise***
           - Composable ERP
@@ -324,7 +324,7 @@
         - **Entering the Plateau**
           - Cloud Office
           - Content Collaboration Tools
-    -   **[Display and Vision(https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
+    -   **[Display and Vision](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
     -   **[Drones and Mobile Robots](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_drones_and_mo_441649.pdf)**
         - ***On the Rise***
           - Robot Knowledge Sharing
