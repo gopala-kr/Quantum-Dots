@@ -603,21 +603,21 @@
           - Sensor Fusion
         - **Entering the Plateau**
           - Cognitive Radio
-    -   Sensing Technologies and Applications 
-    -   Smart City and Sustainability in China 
-    -   Smart City Technologies and Solutions 
-    -   Software as a Service 
-    -   Storage and Data Protection Technologies 
-    -   Supply Chain Execution Technologies 
-    -   Supply Chain Planning Technologies 
-    -   Supply Chain Strategy 
-    -   the Digital Workplace 
-    -   the Future of Applications 
-    -   the Future of CSP Networks Infrastructure 
-    -   the Internet of Things 
-    -   Transportation Industry 
-    -   Unified Communications and Collaboration 
-    -   User Experience 
+    -   **[Sensing Technologies and Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_sensing_techn_441514.pdf)**  
+    -   **[Smart City and Sustainability in China]()**  
+    -   **[Smart City Technologies and Solutions]()**  
+    -   **[Software as a Service]()**  
+    -   **[Storage and Data Protection Technologies]()**  
+    -   **[Supply Chain Execution Technologies]()**  
+    -   **[Supply Chain Planning Technologies]()**  
+    -   **[Supply Chain Strategy]()**  
+    -   **[Digital Workplace]()**  
+    -   **[Future of Applications]()**  
+    -   **[Future of CSP Networks Infrastructure]()**  
+    -   **[Internet of Things]()**  
+    -   **[Transportation Industry]()**  
+    -   **[Unified Communications and Collaboration]()**  
+    -   **[User Experience]()**  
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
