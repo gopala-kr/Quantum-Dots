@@ -430,7 +430,7 @@
           - Speech Recognition 
     -   **[Healthcare Providers]()** 
     -   **[Human Capital Management Technology]()** 
-    -   **[Hybrid Infrastructure Services]()**
+    -   **[Hybrid Infrastructure Services](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_hybrid_infras_448236.pdf)**
         - ***On the Rise***
           - Hybrid Cloud Storage
           - IoT-Enabled Product as a Service
@@ -478,7 +478,7 @@
         - ***Entering the Plateau***  
           - Proactive Support
           - Multidiscipline Service Desk Outsourcing
-    -   **[I&O Automation]()**
+    -   **[I&O Automation](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_io_automation_441834.pdf)**
         - ***On the Rise***
           - Chaos Engineering
           - Hybrid Digital Infrastructure Management
@@ -514,8 +514,8 @@
         - ***Entering the Plateau***
           - Cloud Migration
           - DevOps. 
-    -   ICT in China 
-    -   Identity and Access Management Technologies 
+    -   **[ICT in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_ict_in_china__448134.pdf)**
+    -   **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
         - ***On the Rise***
           - Cloud Infrastructure Entitlement Management
           - UMA
@@ -546,9 +546,9 @@
           - Enterprise Digital Rights Management
           - X.509 Hardware Tokens for User Authentication
           - Privileged Access Management
-    -   Imaging and Print Services 
-    -   Infrastructure Strategies 
-    -   IoT Standards and Protocols 
+    -   **[Imaging and Print Services]()** 
+    -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
+    -   **[IoT Standards and Protocols](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_iot_standards_448213.pdf)** 
     -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
     -   IT Performance Analysis 
     -   ITSM 
