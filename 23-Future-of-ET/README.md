@@ -93,7 +93,7 @@
 - **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2020 Cycles)
-    -   **Agile and DevOps**
+    -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
         - **On the Rise**
           - DesignOps
           - Promise Theory
