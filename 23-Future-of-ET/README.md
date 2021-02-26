@@ -202,8 +202,8 @@
           - IaaS
         - ***Entering the Plateau***
           - Software as a Service
-    -   **Cloud Security** 
-    -   **Communications Service Provider Operations** 
+    -   **[Cloud Security]()** 
+    -   **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
     -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
           - Confidential Computing
@@ -239,11 +239,11 @@
           - Cloud Computing
         - **Entering the Plateau**
           - GPU Accelerators 
-    -   **Connected Vehicles and Smart Mobility** 
-    -   **Consumer Engagement With Healthcare and Wellness** 
-    -   **CRM Sales Technology** 
-    -   **Customer Experience Analytics** 
-    -   **Customer Service and Support Technologies** 
+    -   **[Connected Vehicles and Smart Mobility]()** 
+    -   **[Consumer Engagement With Healthcare and Wellness]()** 
+    -   **[CRM Sales Technology]()** 
+    -   **[Customer Experience Analytics]()** 
+    -   **[Customer Service and Support Technologies]()** 
     -   **[Data and Analytics Governance and Master Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_and_anal_441544.pdf)**
         - ***On the Rise***
           - Business Continuity for Data and Analytics
@@ -354,7 +354,7 @@
         - ***Climbing the Slope***
           - Sensor Fusion
           - Micro Fuel Cells
-    -   **ERP**
+    -   **[ERP]()**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
           - Composable ERP
@@ -384,15 +384,15 @@
         - **Climbing the Slope**
           - Application Platform as a Service for Cloud ERP
           - Cloud Management Platforms
-    -   **Edge Computing** 
-    -   **Embedded Software and Systems** 
-    -   **Emerging Technologies** 
-    -   Enabling Power and Energy Electronics 
-    -   Endpoint Security 
-    -   Enterprise Architecture 
-    -   Enterprise Information Management 
-    -   Enterprise Networking 
-    -   **Frontline Worker Technologies**
+    -   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
+    -   **[Embedded Software and Systems]()** 
+    -   **[Emerging Technologies]()** 
+    -   **[Enabling Power and Energy Electronics]()** 
+    -   **[Endpoint Security]()** 
+    -   **[Enterprise Architecture]()** 
+    -   **[Enterprise Information Management]()** 
+    -   **[Enterprise Networking]()** 
+    -   **[Frontline Worker Technologies]()**
         - ***On the Rise***
           - Foldables
           - Remote Expert Guidance Solutions
