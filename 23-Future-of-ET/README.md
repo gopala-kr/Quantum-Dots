@@ -558,20 +558,20 @@
     -   **[Life Science Research and Development]()** 
     -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
     -   **[Manufacturing Operations Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_manufacturing_450325.pdf)** 
-    -   **[Midsize Enterprises]()** 
+    -   **[Midsize Enterprises]()** *
     -   **[Multienterprise Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_multienterpri_382327.pdf)** 
-    -   **[Natural Language Technologies]()** 
-    -   **[Network Security]()** 
-    -   **[Open-Source Software]()** 
+    -   **[Natural Language Technologies]()** *
+    -   **[Network Security]()** *
+    -   **[Open-Source Software]()** *
     -   **[Open Banking]()** 
-    -   **[Platform as a Service]()** 
+    -   **[Platform as a Service]()** *
     -   **[Privacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_privacy_2020_441605.pdf)** 
     -   **[Procurement and Sourcing Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_procurement_a_450429.pdf)** 
-    -   **[Project and Portfolio Management]()** 
+    -   **[Project and Portfolio Management]()** *
     -   **[Real-Time Health System Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_realtime_heal_467856.pdf)** 
-    -   **[Retail Technologies]()** 
+    -   **[Retail Technologies]()** *
     -   **[Risk Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_risk_manageme_448047.pdf)** 
-    -   **[Security Operations]()** 
+    -   **[Security Operations]()** *
     -   **[Semiconductors and Electronics Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_semiconductor_441655.pdf)**
         - **On the Rise**
           - Ternary Logic
@@ -607,18 +607,58 @@
     -   **[Smart City and Sustainability in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_an_448109.pdf)**  
     -   **[Smart City Technologies and Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_te_450328.pdf)**  
     -   **[Software as a Service](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_software_as_a_448212.pdf)**  
-    -   **[Storage and Data Protection Technologies]()**  
-    -   **[Supply Chain Execution Technologies]()**  
+    -   **[Storage and Data Protection Technologies]()**  *
+    -   **[Supply Chain Execution Technologies]()**  *
     -   **[Supply Chain Planning Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_supply_chain__464742.pdf)**  
-    -   **[Supply Chain Strategy]()**  
-    -   **[Digital Workplace]()**  
+    -   **[Supply Chain Strategy]()**  *
+    -   **[Digital Workplace]()**  *
     -   **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
     -   **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
-    -   **[Internet of Things]()**  
-    -   **[Transportation Industry]()**  
-    -   **[Unified Communications and Collaboration]()**  
-    -   **[User Experience]()** 
-    -   **[Strategic Technology Trends]()** 
+    -   **[Internet of Things]()**  *
+    -   **[Transportation Industry]()**  *
+    -   **[Unified Communications and Collaboration]()**  *
+    -   **[User Experience]()** *
+    -   **[Strategic Technology Trends]()** *
+        - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
+        - Trend No. 1: Hyperautomation
+          - RPA and iBPMS Are Key Components of Hyperautomation
+          - The Digital Twin of an Organization
+          - Machine Learning and NLP Explode the Range of Hyperautomation Possibilities
+        - Trend No. 2: Multiexperience
+          - Immersive Experiences
+          - The Language Factor
+          - The Multiexperience Development Platform
+        - Trend No. 3: Democratization
+          - Democratization of Application Development
+          - Low-Code, No-Code and the Citizen Developer
+          - Augmented Analytics and the Citizen Data Scientist
+          - Dealing With Shadow AI
+        - Trend No. 4: Human Augmentation
+          - Cognitive and Physical Augmentation
+          - Cultural and Ethical Aspects of Human Augmentation
+        - Trend No. 5: Transparency and Traceability
+          - Explainable and Ethical AI and Algorithms
+          - Data Privacy, Ownership and Control
+          - Best Practices and Regulations Are Emerging
+        - Trend No. 6: The Empowered Edge
+          - Data, Analytics and AI at the Edge
+          - Communicating to the Edge — The Role of 5G
+          - Digital Twin of Things at the Edge
+        - Trend No. 7: Distributed Cloud
+          - Distributed Cloud Delivers on the Hybrid Cloud Promise
+          - Getting to Distributed Cloud
+          - The Edge Effect
+        - Trend No. 8: Autonomous Things
+          - Common Technology Capabilities
+          - Combining Autonomous Capabilities and Human Control
+          - Autonomous, Intelligent and Collaborative
+        - Trend No. 9: Practical Blockchain
+          - Blockchain Will Be Scalable by 2023
+          - Blockchain Use Cases
+        - Trend No. 10: AI Security
+          - Protecting AI-Powered Systems
+          - Leveraging AI to Enhance Cybersecurity Defense
+          - Anticipating Nefarious Use of AI by Attackers
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
