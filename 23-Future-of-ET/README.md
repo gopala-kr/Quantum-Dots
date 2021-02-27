@@ -9,19 +9,24 @@
 ----------------
 
 ![ios-11-earth-night-4k-pe](https://images.hdqwalls.com/wallpapers/ios-11-earth-night-4k-pe.jpg)
+
 -----
 ![3196102_earth](https://www.teahub.io/photos/full/319-3196102_earth-4k.jpg)
+
 ------
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+
+---------
+![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
+
+-------
 ![debris_1024_2020](https://www.sciencealert.com/images/2020-10/space-debris_1024.gif)
 
 ----------------------------------
 ![Orbit_V02](https://cdn.kqed.org/wp-content/uploads/sites/35/2016/08/Orbit_V02.gif)
 
-------------
-![spring-tide-neap-tide-800](https://earthsky.org/upl/2020/10/spring-tide-neap-tide-800.gif)
-
---------
-![KnownNearEarthObjects](https://upload.wikimedia.org/wikipedia/commons/c/ce/Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif)
+-----
+![BogusElatedHectorsdolphin-small](https://thumbs.gfycat.com/BogusElatedHectorsdolphin-small.gif)
 
 -------
 ![2C_Earth_and_Moon_around_the_Milky_Way](https://upload.wikimedia.org/wikipedia/commons/b/b8/Motion_of_Sun%2C_Earth_and_Moon_around_the_Milky_Way.jpg)
@@ -30,8 +35,10 @@
 [paths](https://globe4r.john-coene.com/paths)
 
 ![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
+
 -----
-![wp7540627](https://wallpapercave.com/wp/wp7540627.jpg)
+![Quantum-Internet](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Quantum-Internet.gif)
+
 --------
 ![a841320b97bddfde2e3728ec7ce378aa](https://i.pinimg.com/originals/a8/41/32/a841320b97bddfde2e3728ec7ce378aa.jpg)
 
@@ -1064,6 +1071,19 @@
      - Security Architect View
    - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
    - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
+   - **[MIT 10 Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
+     - [2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)
+       - Messenger RNA vaccines
+       - GPT-3
+       - TikTok recommendation algorithms
+       - Lithium-metal batteries
+       - Data trusts
+       - Green hydrogen
+       - Digital contact tracing
+       - Hyper-accurate positioning
+       - Remote everything
+       - Multi-skilled AI
+     - [2020]()
  
 
 [Back to top](#contents)
