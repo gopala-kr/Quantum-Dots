@@ -128,7 +128,7 @@
           - Continuous Configuration Automation
         - **Entering the Plateau**
           - Agile Ops
-    -   **[Analytics and Business Intelligence]()**
+    -   **[Analytics and Business Intelligence]()**   :dove:
         - ***On the Rise***
         - ***At the Peak***
         - ***Sliding Into the Trough***
@@ -152,14 +152,14 @@
           - Public APIs
           - API Economy
           - Cloud Computing
-    -   **[Application and Integration Infrastructure]()**
-    -   **[Application Architecture and Development]()**
+    -   **[Application and Integration Infrastructure]()**    :dove:
+    -   **[Application Architecture and Development]()**   :dove:
     -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
-    -   **[Artificial Intelligence]()** 
+    -   **[Artificial Intelligence]()**    :dove:
     -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
-    -   **[Back - Office Analytic Applications]()** 
+    -   **[Back - Office Analytic Applications]()**    :dove:
     -   **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
-    -   **[Business Process Services]()** 
+    -   **[Business Process Services]()**    :dove:
     -   **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
         - ***On the Rise***
           - Composable ERP
@@ -202,7 +202,7 @@
           - IaaS
         - ***Entering the Plateau***
           - Software as a Service
-    -   **[Cloud Security]()** 
+    -   **[Cloud Security]()**    :dove:
     -   **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
     -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
@@ -239,11 +239,11 @@
           - Cloud Computing
         - **Entering the Plateau**
           - GPU Accelerators 
-    -   **[Connected Vehicles and Smart Mobility]()** 
-    -   **[Consumer Engagement With Healthcare and Wellness]()** 
-    -   **[CRM Sales Technology]()** 
-    -   **[Customer Experience Analytics]()** 
-    -   **[Customer Service and Support Technologies]()** 
+    -   **[Connected Vehicles and Smart Mobility]()**    :dove:
+    -   **[Consumer Engagement With Healthcare and Wellness]()**    :dove:
+    -   **[CRM Sales Technology]()**    :dove:
+    -   **[Customer Experience Analytics]()**    :dove:
+    -   **[Customer Service and Support Technologies]()**    :dove:
     -   **[Data and Analytics Governance and Master Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_and_anal_441544.pdf)**
         - ***On the Rise***
           - Business Continuity for Data and Analytics
@@ -277,14 +277,14 @@
           - MDM of Customer Data
           - MDM of Product Data
     -   **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
-    -   **[Data Science and Machine Learning]()** 
-    -   **[Data Security]()** 
-    -   **[Digital Advertising]()** 
-    -   **[Digital Care Delivery Including Telemedicine and Virtual Care]()** 
-    -   **[Digital Commerce]()** 
-    -   **[Digital Grid Transformation Technologies]()** 
-    -   **[Digital Marketing]()** 
-    -   **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**
+    -   **[Data Science and Machine Learning]()**    :dove:
+    -   **[Data Security]()**    :dove:
+    -   **[Digital Advertising]()**    :dove:
+    -   **[Digital Care Delivery Including Telemedicine and Virtual Care]()**    :dove:
+    -   **[Digital Commerce]()**    :dove:
+    -   **[Digital Grid Transformation Technologies]()**    :dove:
+    -   **[Digital Marketing]()**    :dove:
+    -   **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**   :dove:
         - **On the Rise**
           - Unified Endpoint Security
           - Foldables
@@ -385,12 +385,12 @@
           - Application Platform as a Service for Cloud ERP
           - Cloud Management Platforms
     -   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
-    -   **[Embedded Software and Systems]()** 
+    -   **[Embedded Software and Systems]()**    :dove:
     -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
     -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
-    -   **[Endpoint Security]()** 
+    -   **[Endpoint Security]()**    :dove:
     -   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
-    -   **[Enterprise Information Management]()** 
+    -   **[Enterprise Information Management]()**    :dove:
     -   **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
     -   **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
         - ***On the Rise***
@@ -428,8 +428,8 @@
         - ***Entering the Plateau*** 
           - Cloud Office
           - Speech Recognition 
-    -   **[Healthcare Providers]()** 
-    -   **[Human Capital Management Technology]()** 
+    -   **[Healthcare Providers]()**    :dove:
+    -   **[Human Capital Management Technology]()**    :dove:
     -   **[Hybrid Infrastructure Services](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_hybrid_infras_448236.pdf)**
         - ***On the Rise***
           - Hybrid Cloud Storage
@@ -546,32 +546,32 @@
           - Enterprise Digital Rights Management
           - X.509 Hardware Tokens for User Authentication
           - Privileged Access Management
-    -   **[Imaging and Print Services]()** 
+    -   **[Imaging and Print Services]()**    :dove:
     -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
     -   **[IoT Standards and Protocols](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_iot_standards_448213.pdf)** 
     -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
     -   **[IT Performance Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_it_performanc_448200.pdf)** 
     -   **[ITSM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_itsm_2020_441600.pdf)**
-    -   **[Legal and Compliance Technologies]()** 
-    -   **[Life Science Commercial Operations]()** 
-    -   **[Life Science Manufacturing, Quality and Supply Chain]()** 
-    -   **[Life Science Research and Development]()** 
+    -   **[Legal and Compliance Technologies]()**    :dove:
+    -   **[Life Science Commercial Operations]()**    :dove:
+    -   **[Life Science Manufacturing, Quality and Supply Chain]()**    :dove:
+    -   **[Life Science Research and Development]()**    :dove:
     -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
     -   **[Manufacturing Operations Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_manufacturing_450325.pdf)** 
-    -   **[Midsize Enterprises]()** *
+    -   **[Midsize Enterprises]()**    :dove:
     -   **[Multienterprise Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_multienterpri_382327.pdf)** 
-    -   **[Natural Language Technologies]()** *
-    -   **[Network Security]()** *
-    -   **[Open-Source Software]()** *
-    -   **[Open Banking]()** 
-    -   **[Platform as a Service]()** *
+    -   **[Natural Language Technologies]()**    :dove:
+    -   **[Network Security]()**    :dove:
+    -   **[Open-Source Software]()**    :dove:
+    -   **[Open Banking]()**    :dove:
+    -   **[Platform as a Service]()**    :dove:
     -   **[Privacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_privacy_2020_441605.pdf)** 
     -   **[Procurement and Sourcing Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_procurement_a_450429.pdf)** 
-    -   **[Project and Portfolio Management]()** *
+    -   **[Project and Portfolio Management]()**    :dove:
     -   **[Real-Time Health System Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_realtime_heal_467856.pdf)** 
-    -   **[Retail Technologies]()** *
+    -   **[Retail Technologies]()**    :dove:
     -   **[Risk Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_risk_manageme_448047.pdf)** 
-    -   **[Security Operations]()** *
+    -   **[Security Operations]()**    :dove:
     -   **[Semiconductors and Electronics Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_semiconductor_441655.pdf)**
         - **On the Rise**
           - Ternary Logic
@@ -607,18 +607,59 @@
     -   **[Smart City and Sustainability in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_an_448109.pdf)**  
     -   **[Smart City Technologies and Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_te_450328.pdf)**  
     -   **[Software as a Service](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_software_as_a_448212.pdf)**  
-    -   **[Storage and Data Protection Technologies]()**  *
-    -   **[Supply Chain Execution Technologies]()**  *
+    -   **[Storage and Data Protection Technologies]()**     :dove:
+    -   **[Supply Chain Execution Technologies]()**     :dove:
     -   **[Supply Chain Planning Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_supply_chain__464742.pdf)**  
-    -   **[Supply Chain Strategy]()**  *
-    -   **[Digital Workplace]()**  *
+    -   **[Supply Chain Strategy]()**     :dove:
+    -   **[Digital Workplace]()**     :dove:
     -   **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
     -   **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
-    -   **[Internet of Things]()**  *
-    -   **[Transportation Industry]()**  *
-    -   **[Unified Communications and Collaboration]()**  *
-    -   **[User Experience]()** *
-    -   **[Strategic Technology Trends]()** *
+        -  ***On the Rise***
+           -  6G
+           -  Virtual Network Function Marketplace
+           -  Bidirectional Brain-Machine Interface
+           -  Drone Base Station
+           -  Private 5G
+           -  NR-Light
+           -  Mobile Edge Zone for Public Cloud
+           -  Open-Source Radio Access
+           -  5G Security
+           -  CSP Edge IaaS
+           -  Edge as a Service
+        -  ***At the Peak***
+           -  Cloud-Native Telco Applications
+           -  Low Earth Orbit Satellite Systems
+           -  Edge AI
+           -  Network Slicing
+           -  vRAN
+           -  5G
+           -  mmWave
+        -  ***Sliding Into the Trough***
+           -  Network as a Service (NaaS)
+           -  CSP AI
+           -  eSIM
+           -  NB-IoT
+           -  Shared Spectrum Access
+           -  Standard Private LTE
+           -  Wi-Fi 6 (802.11ax)
+           -  Communications Platform as a Service (cPaaS)
+           -  Massive MIMO
+           -  Open Networking/OCP Networking
+           -  LTE-A Pro
+           -  AI-Based Mobile Network Optimization
+           -  VoLTE
+        -  ***Climbing the Slope***
+           -  LTE-M
+           -  LTE-U
+           -  Software-Defined Wide-Area Network (SD-WAN)
+           -  vEPC
+           -  Small Cells
+           -  LTE Roaming (IPX)
+    -   **[Internet of Things]()**     :dove:
+    -   **[Transportation Industry]()**     :dove:
+    -   **[Unified Communications and Collaboration]()**     :dove:
+    -   **[User Experience]()**    :dove:
+    -   **[Strategic Technology Trends]()**    :dove:
         - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
         - Trend No. 1: Hyperautomation
           - RPA and iBPMS Are Key Components of Hyperautomation
