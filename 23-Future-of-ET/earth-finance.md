@@ -369,6 +369,18 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ------------
 ![fin_map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_map.png)
 
+--------
+![iflow34](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow34.PNG)
+------
+![iflow33](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow33.PNG)
+
+--------
+![iflow35](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow35.PNG)
+--------
+![iflow36](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow36.PNG)
+-----------
+![iflow37](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow37.PNG)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
