@@ -67,7 +67,7 @@
     - Life Sciences
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
-    - Space Mining-->Moon-->Asteroids?Plannets?
+    - Space Mining-->Moon-->Asteroids?Planets?
     - Space Manufacturing(Zero Gravity)-->Cost effective-->Reliability?Rare Earth Elements?Off-earth/0-G Advantages
     - Automotive --> Electric + Ride Hailing/Sharing + Autonomous + Connected Cars
     - Future Cities(Smart City)
@@ -90,7 +90,7 @@
   - Macro
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
-- **[Digitalization of Earth Organization](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
+- **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2020 Cycles)
     -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
@@ -3161,6 +3161,12 @@ SAP Portfolio
 ![iflow50](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow50.PNG)
 -------
 ![iflow64](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow64.PNG)
+--------
+![iflow67](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow67.PNG)
+---
+![iflow68](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow68.PNG)
+-------
+![iflow69](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow69.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -3254,6 +3260,10 @@ SAP Portfolio
 ![Tech_sap](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_sap-crm.png)
 -----------
 ![Tech_sap_in](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_sap_in.png)
+------
+![iflow60](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow60.PNG)
+----------
+![iflow53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow53.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
