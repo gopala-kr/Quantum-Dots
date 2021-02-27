@@ -1306,6 +1306,9 @@
 
 ![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
 
+-----------
+![iflow58](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow58.PNG)
+
 ----------
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
@@ -2624,6 +2627,8 @@ Software Engineering & Application Development Technologies
 - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) 
 
 
+------------------
+![iflow40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow40.PNG)
 
 -----
 
@@ -3110,6 +3115,24 @@ SAP Portfolio
 ![iflow38](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow38.PNG)
 --------
 ![iflow39](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow39.PNG)
+-------
+![iflow48](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow48.PNG)
+-------------------
+![iflow49](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow49.PNG)
+-----
+![iflow41](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow41.PNG)
+---------
+![iflow42](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow42.PNG)
+---------
+![iflow47](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow47.PNG)
+----------
+![iflow45](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow45.PNG)
+-----
+![iflow46](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow46.PNG)
+-------
+![iflow59](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow59.PNG)
+------
+![iflow57](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow57.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -8248,6 +8271,9 @@ Use Cases
 ![BTP_Ana3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana3.png)
 -------
 ![BTP_Ana4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Ana4.png)
+
+----------
+![iflow43](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow43.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
