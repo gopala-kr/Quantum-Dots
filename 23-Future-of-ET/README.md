@@ -8,6 +8,8 @@
 
 ----------------
 
+##### [Go to Contents](#contents)
+
 ![ios-11-earth-night-4k-pe](https://images.hdqwalls.com/wallpapers/ios-11-earth-night-4k-pe.jpg)
 
 -----
@@ -112,7 +114,7 @@
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
-  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2020 Cycles)
+  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2019-20-21 Hype Cycles)
     -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
         - **On the Rise**
           - DesignOps
@@ -1071,7 +1073,7 @@
      - Security Architect View
    - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
    - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
-   - **[MIT 10 Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
+   - **[MIT Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
      - [2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)
        - Messenger RNA vaccines
        - GPT-3
@@ -1083,8 +1085,17 @@
        - Hyper-accurate positioning
        - Remote everything
        - Multi-skilled AI
-     - [2020]()
- 
+     - [2020](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
+       - Unhackable internet
+       - Hyper-personalized medicine
+       - Digital money
+       - Anti-aging drugs
+       - AI-discovered molecules
+       - Satellite mega-constellations
+       - Quantum supremacy
+       - Tiny AI
+       - Differential privacy
+       - Climate change attribution
 
 [Back to top](#contents)
   
