@@ -3106,6 +3106,11 @@ SAP Portfolio
 ----------
 ![iflow24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow24.PNG)
 
+---------
+![iflow38](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow38.PNG)
+--------
+![iflow39](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow39.PNG)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -7764,6 +7769,16 @@ SAP Portfolio
 
 -------------
 ![iflow25](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow25.PNG)
+
+------------------
+![iflow29](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow29.PNG)
+---------------
+![iflow27](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow27.PNG)
+------------
+![iflow28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow28.PNG)
+------------
+![iflow26](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow26.PNG)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
