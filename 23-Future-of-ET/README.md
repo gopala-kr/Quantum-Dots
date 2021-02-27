@@ -407,6 +407,35 @@
           - Application Platform as a Service for Cloud ERP
           - Cloud Management Platforms
     -   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
+        - ***On the Rise***
+          - Peer-to-Peer Edge
+          - Low-Cost Single-Board Computers at the Edge
+          - Edge Blockchain
+          - Data Transport and Edge Appliances
+          - AR Cloud
+          - Distributed Cloud
+          - Private 5G
+          - Edge AI Software
+          - Edge Security
+          - Mobile Edge Zone for Public Cloud
+          - Cloud-Tethered Compute
+          - CSP Edge IaaS
+          - Edge-IN to Cloud
+          - Edge as a Service
+          - Edge Asset Life Cycle Management
+        - ***At the Peak***
+          - Edge Computing
+          - Micro Data Centers
+          - Secure Access Service Edge (SASE)
+          - 5G
+          - mmWave
+        - ***Sliding Into the Trough***
+          - Edge Servers
+          - Edge Video Analytics
+          - Industrial IoT Gateways
+          - Micro-OS (IoT)
+          - LPWA
+          - Internet of Things
     -   **[Embedded Software and Systems]()**    :dove:
     -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
     -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
