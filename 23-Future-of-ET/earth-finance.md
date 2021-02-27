@@ -380,7 +380,8 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 ![iflow36](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow36.PNG)
 -----------
 ![iflow37](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow37.PNG)
-
+-----------
+![iflow44](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow44.PNG)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
