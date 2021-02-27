@@ -12,7 +12,20 @@
 -----
 ![3196102_earth](https://www.teahub.io/photos/full/319-3196102_earth-4k.jpg)
 ------
-![a841320b97bddfde2e3728ec7ce378aa](https://thumbs-prod.si-cdn.com/6THtw5xr-QETsNdJUj1cyrTcyP8=/fit-in/1600x0/https://public-media.si-cdn.com/filer/ca/a9/caa9d702-956d-42ec-9199-62da849446dd/42-46202173.jpg)
+![debris_1024_2020](https://www.sciencealert.com/images/2020-10/space-debris_1024.gif)
+
+----------------------------------
+![Orbit_V02](https://cdn.kqed.org/wp-content/uploads/sites/35/2016/08/Orbit_V02.gif)
+
+------------
+![spring-tide-neap-tide-800](https://earthsky.org/upl/2020/10/spring-tide-neap-tide-800.gif)
+
+--------
+![KnownNearEarthObjects](https://upload.wikimedia.org/wikipedia/commons/c/ce/Asteroids-KnownNearEarthObjects-Animation-UpTo20180101.gif)
+
+-------
+![2C_Earth_and_Moon_around_the_Milky_Way](https://upload.wikimedia.org/wikipedia/commons/b/b8/Motion_of_Sun%2C_Earth_and_Moon_around_the_Milky_Way.jpg)
+
 ------
 [paths](https://globe4r.john-coene.com/paths)
 
