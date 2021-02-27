@@ -1285,6 +1285,8 @@
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 ---------------
 ![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
+------
+![iflow61](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow61.PNG)
 -----------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
 -------
@@ -1308,12 +1310,22 @@
 
 -----------
 ![iflow58](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow58.PNG)
+
 -----
 ![iflow56](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow56.PNG)
 
 -------
+![iflow62](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow62.PNG)
+
+------------
+![iflow63](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow63.PNG)
+
+-------
 ![iflow51](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow51.PNG)
 
+
+
+--------------------
 ----------
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
