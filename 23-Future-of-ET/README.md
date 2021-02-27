@@ -2647,6 +2647,9 @@ Software Engineering & Application Development Technologies
 ------------------
 ![iflow40](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow40.PNG)
 
+------
+![iflow65](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow65.PNG)
+
 -----
 
 ![map](https://raw.githubusercontent.com/AlaaAttya/software-architect-roadmap/master/images/map.png)
