@@ -177,6 +177,44 @@
     -   **[Application and Integration Infrastructure]()**    :dove:
     -   **[Application Architecture and Development]()**   :dove:
     -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
+        - ***On the Rise***
+          - Low-Cost Domestic Sourcing 
+          - Quality Engineering 
+          - Hyperautomation 
+          - Human-in-the-Loop Crowdsourcing 
+          - PMO/PPM as a Service 
+        - ***At the Peak***
+          - Continuous Product-Centric Services 
+          - AI-Related C&SI Services 
+          - ERP and Agile for Implementation 
+          - ERP and Agile for Support 
+          - Intelligent Automation for Application Managed Services 
+          - Digital Integrator Technologies 
+          - Cloud ERP for Global Enterprises 
+          - IoT Services 
+          - Collaborative Work Management 
+          - Managed Application Services Communities 
+        - ***Sliding Into the Trough***
+          - Agile Project Management 
+          - Testing Practices for Agile and DevOps 
+          - Digital Business Transformation 
+          - Digital Business Consulting Services 
+          - Enterprise-Class Agile Development 
+          - Robotic Process Automation (RPA) 
+          - Application Portfolio Management 
+          - Cloud Service Brokerage 
+          - Interactive Application Security Testing 
+          - Managed Crowdsourced Communities 
+        - ***Climbing the Slope***
+          - Crowdtesting 
+          - IT/OT Integration 
+          - IoT Integration 
+          - SIAM 
+        - ***Entering the Plateau***
+          - Data and Analytics Services 
+          - Work-From-Home Agent Technology 
+          - Application Security Testing Suite 
+          - DevOps 
     -   **[Artificial Intelligence]()**    :dove:
     -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
         - ***On the Rise***
@@ -284,6 +322,11 @@ Blockchain Interoperability
           - Software as a Service
     -   **[Cloud Security]()**    :dove:
     -   **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
           - Confidential Computing
@@ -540,11 +583,31 @@ Blockchain Interoperability
           - Internet of Things
     -   **[Embedded Software and Systems]()**    :dove:
     -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Endpoint Security]()**    :dove:
     -   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Enterprise Information Management]()**    :dove:
     -   **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
         - ***On the Rise***
           - Foldables
@@ -668,6 +731,11 @@ Blockchain Interoperability
           - Cloud Migration
           - DevOps. 
     -   **[ICT in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_ict_in_china__448134.pdf)**
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
         - ***On the Rise***
           - Cloud Infrastructure Entitlement Management
@@ -701,29 +769,84 @@ Blockchain Interoperability
           - Privileged Access Management
     -   **[Imaging and Print Services]()**    :dove:
     -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[IoT Standards and Protocols](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_iot_standards_448213.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[IT Performance Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_it_performanc_448200.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[ITSM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_itsm_2020_441600.pdf)**
     -   **[Legal and Compliance Technologies]()**    :dove:
     -   **[Life Science Commercial Operations]()**    :dove:
     -   **[Life Science Manufacturing, Quality and Supply Chain]()**    :dove:
     -   **[Life Science Research and Development]()**    :dove:
     -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Manufacturing Operations Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_manufacturing_450325.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Midsize Enterprises]()**    :dove:
     -   **[Multienterprise Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_multienterpri_382327.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Natural Language Technologies]()**    :dove:
     -   **[Network Security]()**    :dove:
     -   **[Open-Source Software]()**    :dove:
     -   **[Open Banking]()**    :dove:
     -   **[Platform as a Service]()**    :dove:
     -   **[Privacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_privacy_2020_441605.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Procurement and Sourcing Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_procurement_a_450429.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Project and Portfolio Management]()**    :dove:
     -   **[Real-Time Health System Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_realtime_heal_467856.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Retail Technologies]()**    :dove:
     -   **[Risk Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_risk_manageme_448047.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Security Operations]()**    :dove:
     -   **[Semiconductors and Electronics Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_semiconductor_441655.pdf)**
         - **On the Rise**
@@ -756,16 +879,46 @@ Blockchain Interoperability
           - Sensor Fusion
         - **Entering the Plateau**
           - Cognitive Radio
-    -   **[Sensing Technologies and Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_sensing_techn_441514.pdf)**  
+    -   **[Sensing Technologies and Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_sensing_techn_441514.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Smart City and Sustainability in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_an_448109.pdf)**  
-    -   **[Smart City Technologies and Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_te_450328.pdf)**  
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
+    -   **[Smart City Technologies and Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_smart_city_te_450328.pdf)** 
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Software as a Service](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_software_as_a_448212.pdf)**  
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Storage and Data Protection Technologies]()**     :dove:
     -   **[Supply Chain Execution Technologies]()**     :dove:
     -   **[Supply Chain Planning Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_supply_chain__464742.pdf)**  
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Supply Chain Strategy]()**     :dove:
     -   **[Digital Workplace]()**     :dove:
     -   **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
+        - ***On the Rise***
+        - ***At the Peak***
+        - ***Sliding Into the Trough***
+        - ***Climbing the Slope***
+        - ***Entering the Plateau*** 
     -   **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
         -  ***On the Rise***
            -  6G
@@ -814,42 +967,42 @@ Blockchain Interoperability
     -   **[User Experience]()**    :dove:
     -   **[Strategic Technology Trends]()**    :dove:
         - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
-        - Trend No. 1: Hyperautomation
+        - ***Trend No. 1: Hyperautomation***
           - RPA and iBPMS Are Key Components of Hyperautomation
           - The Digital Twin of an Organization
           - Machine Learning and NLP Explode the Range of Hyperautomation Possibilities
-        - Trend No. 2: Multiexperience
+        - ***Trend No. 2: Multiexperience***
           - Immersive Experiences
           - The Language Factor
           - The Multiexperience Development Platform
-        - Trend No. 3: Democratization
+        - ***Trend No. 3: Democratization***
           - Democratization of Application Development
           - Low-Code, No-Code and the Citizen Developer
           - Augmented Analytics and the Citizen Data Scientist
           - Dealing With Shadow AI
-        - Trend No. 4: Human Augmentation
+        - ***Trend No. 4: Human Augmentation***
           - Cognitive and Physical Augmentation
           - Cultural and Ethical Aspects of Human Augmentation
-        - Trend No. 5: Transparency and Traceability
+        - ***Trend No. 5: Transparency and Traceability***
           - Explainable and Ethical AI and Algorithms
           - Data Privacy, Ownership and Control
           - Best Practices and Regulations Are Emerging
-        - Trend No. 6: The Empowered Edge
+        - ***Trend No. 6: The Empowered Edge***
           - Data, Analytics and AI at the Edge
           - Communicating to the Edge — The Role of 5G
           - Digital Twin of Things at the Edge
-        - Trend No. 7: Distributed Cloud
+        - ***Trend No. 7: Distributed Cloud***
           - Distributed Cloud Delivers on the Hybrid Cloud Promise
           - Getting to Distributed Cloud
           - The Edge Effect
-        - Trend No. 8: Autonomous Things
+        - ***Trend No. 8: Autonomous Things***
           - Common Technology Capabilities
           - Combining Autonomous Capabilities and Human Control
           - Autonomous, Intelligent and Collaborative
-        - Trend No. 9: Practical Blockchain
+        - ***Trend No. 9: Practical Blockchain***
           - Blockchain Will Be Scalable by 2023
           - Blockchain Use Cases
-        - Trend No. 10: AI Security
+        - ***Trend No. 10: AI Security***
           - Protecting AI-Powered Systems
           - Leveraging AI to Enhance Cybersecurity Defense
           - Anticipating Nefarious Use of AI by Attackers
