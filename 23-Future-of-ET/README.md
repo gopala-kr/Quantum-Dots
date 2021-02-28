@@ -323,10 +323,43 @@ Blockchain Interoperability
     -   **[Cloud Security]()**    :dove:
     -   **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
         - ***On the Rise***
+          - Virtual Network Function Marketplace
+          - DigitalOps
+          - CSP Data Monetization
+          - 5G Charging
+          - B2B2X Business Models
+          - Enterprise Service Management Platform
+          - Converged Cloud Management
+          - Intercarrier Service Automation
+          - Service and Resource Orchestration
         - ***At the Peak***
+          - Intelligent Automation
+          - Open APIs
+          - Cloud-Native Telco Applications
+          - Continuous Intelligence
+          - Customer Journey Analytics
+          - Digital Experience Platforms
+          - Network Disaggregation
+          - Network Slicing
+          - API-Based Digital Commerce
+          - Digital Security
+          - Digital Business Technology Platform
+          - Open-Source Solutions
+          - CSP-OT SaaS
         - ***Sliding Into the Trough***
+          - Network as a Service (NaaS)
+          - Enterprise Information Management
+          - CSP AI
+          - Predictive Analytics — CSP
+          - Services Co-creation
+          - Web Real-Time Communications
+          - Software-Defined Infrastructure
+          - Data Lakes
+          - NFV and uCPE
         - ***Climbing the Slope***
+        - Multichannel Marketing
         - ***Entering the Plateau*** 
+        - DevOps
     -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
           - Confidential Computing
@@ -879,10 +912,32 @@ Blockchain Interoperability
           - DevOps. 
     -   **[ICT in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_ict_in_china__448134.pdf)**
         - ***On the Rise***
+          - Autonomous Mobile Robotic 
+          - Augmented Data and Analytics 
+          - Cloud Security in China 
+          - Privacy 
         - ***At the Peak***
+          - Live Commerce 
+          - Multicloud 
+          - Zero-Trust Network Access 
+          - CaaS 
+          - Data Middle Office 
+          - Middle Platform 
+          - Workstream Collaboration 
+          - Edge Computing 
+          - DevOps 
+          - 5G 
+          - Natural Language Technologies 
+          - RPA Software 
         - ***Sliding Into the Trough***
-        - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+          - AIOps Platform 
+          - Managed SD-WAN Services 
+          - Community Cloud 
+          - NB-IoT 
+          - Hyperconvergence 
+          - Industrial Internet of Things 
+          - Digital Commerce Platform 
+          - Blockchain in China 
     -   **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
         - ***On the Rise***
           - Cloud Infrastructure Entitlement Management
@@ -917,28 +972,97 @@ Blockchain Interoperability
     -   **[Imaging and Print Services]()**    :dove:
     -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
         - ***On the Rise***
+          - Distributed Cloud 
+          - Intelligent Platforms 
+          - Intelligent Infrastructure 
+          - Consumption-Based On-Premises Pricing 
+          - Immersion Cooling 
+          - Cloud-Tethered Compute 
+          - Funding Opex-Capex Balancing 
         - ***At the Peak***
+          - Programmable Infrastructure 
+          - Edge Computing 
+          - Service Mesh 
+          - Immutable Infrastructure 
+          - Serverless Infrastructure 
+          - Site Reliability Engineering 
         - ***Sliding Into the Trough***
+          - Composable Infrastructure 
+          - Software-Defined Compute 
+          - Infrastructure SDS 
+          - OS Containers 
+          - Internet of Things 
+          - Software-Defined Infrastructure 
+          - Hyperconvergence 
         - ***Climbing the Slope***
+          - Software-Defined Networking (SDN) 
+          - Private Cloud Computing 
+          - In-Memory Computing 
+          - SD-WAN 
+          - Business Continuity Management Program Solutions 
+          - Cloud Computing 
+          - Cloud Management Platforms 
         - ***Entering the Plateau*** 
     -   **[IoT Standards and Protocols](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_iot_standards_448213.pdf)** 
         - ***On the Rise***
+          - Backscatter Communications 
+          - Private 5G 
+          - UL 2900 
+          - Wi-Fi 7 (802.11be) 
         - ***At the Peak***
+          - Project Connected Home over IP 
+          - Ultrasound 
+          - OMA SpecWorks LightweightM2M 
+          - RISC-V 
+          - Constrained Application Protocol 
         - ***Sliding Into the Trough***
+          - Micro-OS (IoT) 
+          - eSIM 
+          - NB-IoT 
+          - Thread 
+          - Sigfox 
+          - Dotdot 
+          - oneM2M 
+          - Wi-SUN 
+          - LoRa 
+          - Autonomous Vehicles 
+          - Hardware-Based Security 
+          - Bluetooth 5.1 
+          - MicroPython 
         - ***Climbing the Slope***
+          - OPC UA 
+          - LTE-M 
+          - IPv6 
+          - Message Queue Telemetry Transport 
+          - Data Distribution Service 
+          - AMQP 
         - ***Entering the Plateau*** 
     -   **[IT in the Middle East](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/Hype_Cycle_for_IT_in_441719_ndx.pdf)**
-        - ***On the Rise***
-        - ***At the Peak***
-        - ***Sliding Into the Trough***
-        - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
     -   **[IT Performance Analysis](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_it_performanc_448200.pdf)** 
         - ***On the Rise***
+          - AITSM 
+          - Performance Engineering 
+          - Chaos Engineering 
         - ***At the Peak***
+          - Artificial Intelligence for IT Operations (AIOps) Platforms 
+          - Collective Intelligence Benchmarking Tools 
+          - Observability 
+          - Digital Experience Monitoring
+          - Site Reliability Engineering 
         - ***Sliding Into the Trough***
+          - Unified Communications Monitoring Tools 
+          - Intent-Based Networking 
+          - Virtual Desktop Infrastructure Monitoring 
+          - Network Detection and Response 
         - ***Climbing the Slope***
+        - Network Packet Brokers 
+          - Application Performance Monitoring Software 
+          - Network Performance Monitoring and Diagnostics Tools 
+          - IT Service Alerting Tools 
+          - Cloud Management Platforms 
+          - IT Infrastructure Monitoring 
         - ***Entering the Plateau*** 
+          - DevOps 
     -   **[ITSM](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_itsm_2020_441600.pdf)**
     -   **[Legal and Compliance Technologies]()**    :dove:
     -   **[Life Science Commercial Operations]()**    :dove:
