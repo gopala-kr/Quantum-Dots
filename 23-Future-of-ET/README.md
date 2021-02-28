@@ -115,7 +115,890 @@
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2019-20-21 Hype Cycles)
-    -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
+  - **[Digital Technology Skills and Practices](#technology-skills-and-practices)**
+  - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
+     - **EA Standards & Frameworks**
+       - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
+     - **EA Tools**
+       - BiZZdesign, LeanX, Software AG(ALFABET, ARIS), MEGA International(HOPEX), Avolution(Abacus), Orbus Software(iServer)
+       - erwin Evolve, BlueDolphin, ADOIT, Essential Project
+     - **Stakeholders**
+       - **Enterprise Architects** (Maestro)
+       - **Business Architects** (LoB/Industry Specific)
+         - Business Process Lead/Owner
+         - Functional Expert
+       - **Solution Architects** (Contextual)
+         - Areas - [Business, Process, Value, Infrastructure, Technology, Cloud, Platform, Information, Data, Software/Application, Security, RPA] 
+       - **Technical Architects**
+         - **Infrastructure Architects** (DC, Private/Public/Hybrid/Multi-Cloud)
+           - IT Administrator
+           - IT Engineers
+           - IT Technitians
+           - IT Solution Owner
+           - Edge Computing(IoT) Engineer
+         - **Software Architects** (Custom/Packaged/SaaS/Cloud-Native)
+           - Packaged/SaaS Software Admin
+           - DevOps Engineer
+           - Software Engineering
+           - Software Application Developer
+           - UX Research, Design & Developer(CXM)
+         - **Integration Architects** (Custom/Managed)
+           - API Developer
+           - Process Orchestrator
+         - **Data Architects**
+           - DB Admin
+           - DB Developer/Engineer
+           - Data Modeler
+           - MDG/RDM Expert
+           - Data Quality Engineer
+           - Data Mart/Warehouse/Lake Solution Engineer
+           - Big Data Engineer
+           - Data Engineer(ETL/ELT)
+           - Data Analyst
+              - BI Expert
+              - Business Analyst
+           - Data Scientist
+           - ML Engineer
+         - Shared Roles - AIOps/RPA Engineer
+       - **Security Architects**
+         - CISO
+         - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose)
+         - IT Security
+         - DB Security
+         - DevSecOps Engineer
+         - Software/App Security
+         - Governance, Risk Management, and Compliance(GRC)
+         - Data Privacy Analyst
+         - Security Auditor
+         - Security Risk Analyst
+         - CISSP, CISA, and CISM
+  - **[Organization Structure Modeling](#organization-structure-modeling)**
+    - Governance
+      - Org Chart
+    - Board of Directors
+    - Shareholders 
+    - Partners
+    - Suppliers
+    - Stakeholders
+      - Internal Management
+        - CEO Functions
+        - COO Functions
+        - CFO Functions
+        - CIO/CTO/CISO/CDO Functions
+          - Strategy & Operations Director
+          - Technology Lifecycle Management
+          - Technology Modernization
+          - Rationalizing Applications
+          - Service Management
+          - Product Operating Model
+          - User Experience
+          - DevOps/Site Reliability Engineering
+          - New & Emerging Technologies
+	  - Regulatory & Compliance (eg: GDPR)
+      - Costomers/Clients
+    - Internal/External Auditors
+    - Legal Aspects
+      - Regulatory Affairs
+      - Corporate Responsibilities
+      - Policies
+      - Business Ethics
+    - Enterprise Risk Management
+      - Strategic & Reputation Risk
+      - Business Disruption/Resiliency Risk
+      - Regulatory Risk
+      - Financial Risk
+      - Operational Risk
+      - Cyber Risk
+  - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
+  - **[Digital Workplace Services](#digital-workplace-services)**
+  - **[Database Technology](#database-technology)**
+    - DB History
+    - DB Types
+      - SQL
+        - NewSQL
+      - NoSQL
+        - Key Value
+        - Graph
+        - Big Tables
+        - Document
+      - Object Store
+      - Streaming
+      - Analytics Engines
+      - In-Memory DBs
+      - Spatial
+    - DB Management Softwares/Platforms
+    - Master Data Management
+    - Operational Data Management
+    - Big Data Management & Tools
+    - Leading DB-MS/Platform Vendors
+  - **[Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)**
+    - **Enterprise Core Lines of Business**
+      - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
+        - Accounting and Financial Close
+          - Chart of Accounts
+          - GL Accounting
+          - AP, AR, AA Accounting
+          - Closing
+            - Month, QTD, YTD
+            - Balance Sheet
+            - Profit & Loss
+            - Cash-Flow
+            - Trial Balance Adjustments
+        - Management Accounting(Controlling)
+          - Cost Center Accounting
+          - Profit Center Accounting
+          - Product Cost Planning
+          - Cost Object Controlling
+          - Profitability Analysis
+        - Tax Accounting
+        - Enterprise Performance Management
+        - Financial Operations
+        - Governance, Legal and Compliance
+        - Enterprise Risk Management
+          - Credit Risk
+          - Market Risk
+          - Analytics - Risk Predictive Models
+        - Financial Planning and Analysis
+        - Treasury Management
+          - Cash Operations
+          - Bank Account Management
+          - Transaction Manager
+          - Liquidity Management
+          - Payment Processing
+          - Hedge Management
+          - Hedge Accounting
+        - Commodity Management
+        - Real Estate Management
+        - Subscription Billing and Revenue Management
+        - Reporting & Dashboards
+          - GAAP/STAT
+          - IFRS
+          - SEC(10K, 10Q, 8K, 20F, 40F)
+          - Digital Boardrooms
+          - CFO Dashboard
+        - Finance Analytics - Planning, Budgeting & Forecasting(Predictive)
+        - Finance Leading Software Vendors
+      - **Human Resources Management** (Hire to Retire)
+        - Payroll Administration
+        - Benefits Adminitration
+        - Compansation Administration
+        - Employee Relations
+        - Employee Transition
+        - HR Operations
+        - HR Planning and Strategy
+        - Learning & Development
+        - Manage Employee Data
+        - Performamnce Management
+        - Succession Planning
+        - Talent Acquisition
+        - Workforce Management
+        - Travel & Expense Management
+        - Time Management
+        - Leading HR & Employee Management Software Vendors
+        - HR & People Analytics - Planning, Budgeting & Forecasting(Predictive)
+      - **Sourcing and Procurement (Spend Management -S2P/P2P)**
+        - Services
+        - Goods
+        - Catalogue
+        - Auction
+        - Contract
+        - RFX
+        - Risk Assessment
+        - Vendor Management
+          - Register
+          - OFAC
+          - Scorecards
+        - PO/Invoices
+        - Leading S2P/P2P Software Vendors
+        - Spend Analytics - Planning, Budgeting & Forecasting(Predictive)
+      - **Manufacturing**
+        - Production Planning(PP)
+          - Production Requirements
+          - Planned/Process Orders
+        - Material Requirements Planning
+        - Bill of Materials(BoMs)
+        - Capacity Requirements Planning
+        - Demand Management
+        - Production Orders
+        - Sales & Operations Planning
+        - Quality Management
+        - Shared Enterprise Process --> Materials-Sales-Distribution, Finance-Controlling, Project-Resource Management
+        - Production Analytics - Planning, Budgeting & Forecasting(Predictive)
+        - Leading Manufacturing Software Vendors
+      - **Supply Chain Management**
+        - Integrated Business Planning
+        - Inventory Management
+        - Channel Management
+        - Warehouse Management
+        - Transport & Traceability Management
+        - Finance & Payments Management
+        - Supplier & Customer Service management
+          - OEM's
+          - Dealers
+          - Retailers
+          - Clients/Customers
+        - SCM Analytics - Planning, Budgeting & Forecasting(Predictive)
+      - **Customer Relationship Management** 
+        - Customer Data(Single Source of Truth)
+        - Sales (Leads to Sales Quote & Order)
+          - Pricing & Conditions
+          - Sales Process
+          - Billing Process
+          - Shipping Process
+          - Sales Analytics
+        - Services (Customer Engagment & Support - Post Sales Activities)
+          - Service Desk Operations
+          - Dealer/sub-dealer services
+          - Call Center
+          - Waranty Management
+        - Marketing(Customer Journeys)
+          - Detailed Customer Profiles
+          - Understand Customer
+          - Deliver Relavant Experiences
+          - Digital Marketting Tools
+            - Social Media
+            - SEO
+            - Email
+            - Advertizing
+            - Website/Content Creation, Hosting/Publishing
+            - WebAnalytics
+            - Video Hosting/Publishing
+            - Mobile App Notifications(Yes)
+          - Black Marketing
+          - Neuromarketing
+        - Commerce(Customer Shopping Experiences)
+          - Online
+          - In-store
+        - Customer Analytics - Planning, Budgeting & Forecasting(Predictive)
+        - Digital 
+          - Intelligent UI Experiences
+          - Mobile/Tablet
+          - Conversational AI(Text/Voice)
+          - Robotic
+          - ML/AI based Recommendations
+          - IoT
+          - Immersive - Emerging
+          - Telepathic(Future)
+      - **Asset Management**
+      - **R & D Product/Project Life Cycle Management** (PLM)
+      - **Professional Services**
+        - Project Management ( Commercial, Customer)
+        - Portfolio & Demand Management
+        - Resource Planning 
+        - Capacity Planning
+        - Resource Management
+          - Time & Expense
+          - Hard/Soft Bookings
+        - Finace/Budgeting, Planning & Forecasting
+        - Analytics
+        - Leading Software Vendors for Project & Portfolio Management
+      - **ERP Implementation**
+        - Process & Approaches
+        - Tools & Technology
+        - Business Sizes
+          - For Startups
+          - For Small Businesses 
+          - For Medium Businesses
+          - For Large Businesses
+          - For Industries  
+    - **Leading ERP Software Vendors Portfolios**
+    - **Industry Specific ERP Softwares**
+  - **[Enterprise Data and Application Integration](#enterprise-data-and-application-integration)**
+     - Service Oriented Architecture
+     - Event Based Architecture
+     - Micro Service Architecture
+     - Serverless Architecture
+     - API Management
+     - Integration Platform as a service(iPaaS)
+       - Leading iPaaS Vendors
+     - Integration Scenarios
+       - Process
+         - A2A
+         - B2B
+         - B2G
+        - Data 
+        - Analytics
+        - User
+        - Things	
+     - Business Process Integration Scenarios
+       - Core Finance Integrations Scenarios
+       - Enterprise Asset management Integrations
+       - Lead to Cash Processing Integrations
+       - Design to Operate Processing(Manufacturing & SCM) Integrations
+       - Source to Pay Processing Integrations
+       - Warehouse Management Integrations
+       - Human Experience Management Integrations
+   - **[Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)**
+     - Data Engineering(ELT/ETL)
+     - Practical DataOps
+   - **[Enterprise Analytics](#enterprise-analytics)**
+     - Integrated Planning, Consolidation & Analysis Tools
+     - BI Dashbord & Reporting Tools
+     - Viz & Spatial Analysis Tools
+     - Augmeted Analytics
+     - Predictive Analytics
+     - Immersive Analytics
+       - WebVR
+       - VR(standalone)
+       - AR
+       - MR
+       - Holograms       
+     - BI Mobile/Tablet Apps
+     - Analytics Hub
+     - Digital Boardroom(CxO/Board Meetings)
+     - Enterprise Use Cases
+       - Finance/Accounting Analytics
+       - Customer Analytics
+       - Operational Analytics
+       - People Analytics
+   - **[IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)**
+   - **[AI in Enterprise Processes](#ai-in-enterprise-processes)**
+     - RPA
+     - AIOps
+     - Data Science
+     - ML/DL Engineering
+     - Practical MLOps - ML pipelines using CI/CD
+   - **[Experience Design](#experience-design)**
+   - **[Enterprise Information Architecture Review](#information-architecture-review)**
+     - EA Artifacts
+     - Business Architect View
+     - Solution Architect View
+     - Technical Architect View
+     - Security Architect View
+   - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
+   - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
+   - **[MIT Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
+     - **[2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
+       - Messenger RNA vaccines
+       - GPT-3
+       - TikTok recommendation algorithms
+       - Lithium-metal batteries
+       - Data trusts
+       - Green hydrogen
+       - Digital contact tracing
+       - Hyper-accurate positioning
+       - Remote everything
+       - Multi-skilled AI
+     - **[2020](https://www.technologyreview.com/10-breakthrough-technologies/2020/)**
+       - Unhackable internet
+       - Hyper-personalized medicine
+       - Digital money
+       - Anti-aging drugs
+       - AI-discovered molecules
+       - Satellite mega-constellations
+       - Quantum supremacy
+       - Tiny AI
+       - Differential privacy
+       - Climate change attribution
+     - **[2019](https://www.technologyreview.com/10-breakthrough-technologies/2019/)**
+       - Robot dexterity
+       - New-wave nuclear power
+       - Predicting preemies
+       - Gut probe in a pill
+       - Custom cancer vaccines
+       - The cow-free burger
+       - Carbon dioxide catcher
+       - An ECG on your wrist
+       - Sanitation without sewers
+       - Smooth-talking AI assistants
+     - **[2018](https://www.technologyreview.com/10-breakthrough-technologies/2018/)**
+       - 3-D Metal Printing
+       - Artificial Embryos
+       - Sensing City
+       - AI for Everybody
+       - Dueling Neural Networks
+       - Babel-Fish Earbuds
+       - Zero-Carbon Natural Gas
+       - Perfect Online Privacy
+       - Genetic Fortune-Telling
+       - Materials’ Quantum Leap
+     - **[2017](https://www.technologyreview.com/10-breakthrough-technologies/2017/)**
+       - Reversing Paralysis
+       - Self-Driving Trucks
+       - Paying with Your Face
+       - Practical Quantum Computers
+       - The 360-Degree Selfie
+       - Hot Solar Cells
+       - Gene Therapy 2.0
+       - The Cell Atlas
+       - Botnets of Things
+       - Reinforcement Learning
+     - **[2016](https://www.technologyreview.com/10-breakthrough-technologies/2016/)**
+       - Immune Engineering
+       - Precise Gene Editing in Plants
+       - Conversational Interfaces
+       - Reusable Rockets
+       - Robots That Teach Each Other
+       - DNA App Store
+       - SolarCity’s Gigafactory
+       - Slack
+       - Tesla Autopilot
+       - Power from the Air
+     - **[2015](https://www.technologyreview.com/10-breakthrough-technologies/2015/)**
+       - Magic Leap
+       - Nano-Architecture
+       - Car-to-Car Communication
+       - Project Loon
+       - Liquid Biopsy
+       - Megascale Desalination
+       - Apple Pay
+       - Brain Organoids
+       - Supercharged Photosynthesis
+       - Internet of DNA
+     - **[2014](https://www.technologyreview.com/10-breakthrough-technologies/2014/)**
+       - Agricultural Drones
+       - Ultraprivate Smartphones
+       - Brain Mapping
+       - Neuromorphic Chips
+       - Genome Editing
+       - Microscale 3-D Printing
+       - Mobile Collaboration
+       - Oculus Rift
+       - Agile Robots
+       - Smart Wind and Solar Power
+     - **[2013](https://www.technologyreview.com/10-breakthrough-technologies/2013/)**
+       - Smart Watches
+       - Ultra-Efficient Solar Power
+       - Memory Implants
+       - Prenatal DNA Sequencing
+       - Deep Learning
+       - Additive Manufacturing
+       - Big Data from Cheap Phones
+       - Temporary Social Media
+       - Supergrids
+       - Baxter: The Blue-Collar Robot
+     - **[2012](https://www2.technologyreview.com/tr10/?year=2012)**
+       - Egg Stem Cells
+       - A Faster Fourier Transform
+       - Ultra-Efficient Solar
+       - Nanopore Sequencing
+       - Light-Field Photography
+       - Crowdfunding
+       - Solar Microgrids
+       - High-Speed Materials Discovery
+       - 3-D Transistors
+       - Facebook's Timeline
+     - **[2011](https://www2.technologyreview.com/tr10/?year=2011)**
+       - Social Indexing
+       - Homomorphic Encryption
+       - Smart Transformers
+       - Cloud Streaming 
+       - Gestural Interfaces
+       - Crash-Proof Code
+       - Cancer Genomics
+       - Separating Chromosomes
+       - Solid-State Batteries 
+       - Synthetic Cells 
+     - **[2010](https://www2.technologyreview.com/tr10/?year=2010)**
+       - Real-Time Search 
+       - Social TV
+       - Mobile 3-D
+       - Green Concrete
+       - Engineered Stem Cells
+       - Implantable Electronics
+       - Solar Fuel 
+       - Dual-Action Antibodies 
+       - Light-Trapping Photovoltaics
+       - Cloud Programming 
+     - **[2009](https://www2.technologyreview.com/tr10/?year=2009)**
+       - Intelligent Software Assistant 
+       - Liquid Battery 
+       - $100 Genome
+       - Traveling-Wave Reactor
+       - Racetrack Memory
+       - Nanopiezoelectronics 
+       - Biological Machines
+       - HashCache
+       - Paper Diagnostics
+       - Software-Defined Networking 
+     - **[2008](https://www2.technologyreview.com/tr10/?year=2008)**
+       - Modeling Surprise
+       - Offline Web Applications 
+       - Probabilistic Chips 
+       - Graphene Transistors 
+       - NanoRadio 
+       - Connectomics 
+       - Wireless Power 
+       - Reality Mining 
+       - Atomic Magnetometers 
+       - Cellulolytic Enzymes 
+     - **[2007](https://www2.technologyreview.com/tr10/?year=2007)**
+       - Peering into Video's Future
+       - A New Focus for Light
+       - Nanocharging Solar
+       - Neuron Control
+       - Invisible Revolution
+       - Nanohealing
+       - Personalized Medical Monitors
+       - Digital Imaging, Reimagined
+       - Single-Cell Analysis
+       - Augmented Reality
+     - **[2006](https://www2.technologyreview.com/tr10/?year=2006)**
+       - Nanomedicine
+       - Cognitive Radio
+       - Nanobiomechanics
+       - Pervasive Wireless
+       - Epigenetics
+       - Universal Authentication
+       - Comparative Interactomics
+       - Nuclear Reprogramming
+       - Diffusion Tensor Imaging
+       - Stretchable Silicon
+     - **[2005]()**
+       - Airborne Networks
+       - Quantum Wires
+       - Silicon Photonics
+       - Metabolomics
+       - Magnetic-Resonance Force Microscopy
+       - Universal Memory
+       - Bacterial Factories
+       - Enviromatics
+       - Cell-Phone Viruses
+       - Biomechatronics 
+     - **[2004](http://www2.technologyreview.com/news/402435/10-emerging-technologies-that-will-change-your/)**
+       - Universal Translation
+       - Synthetic Biology
+       - Nanowires
+       - T-Rays
+       - Distributed Storage
+       - RNAi Interference
+       - Power Grid Control
+       - Microfluidic Optical Fibers
+       - Bayesiam Machine Learning
+     - **[2003](http://www2.technologyreview.com/news/401775/10-emerging-technologies-that-will-change-the/2/)**
+       - Wireless Sensor Networks
+       - Injectable Tissue Engineering
+       - Nano Solar Cells
+       - Mechatronics
+       - Grid Computing
+       - Molecular Imaging
+       - Nanoimprint Lithography
+       - Software Assurance
+       - Glycomics
+       - Quantum Cryptography
+     - **[2001-2](https://wp.technologyreview.com/wp-content/uploads/2021/02/MIT-Technology-Review-2001-TR10.pdf?_ga=2.153103608.1180029176.1614440008-195746145.1614440008)**
+       - Brain-Machine Interfaces
+       - Flexible Transistors
+       - Data Mining
+       - Digital Rights Management
+       - Biometrics
+       - Natural Language Processing
+       - Microphotonics
+       - Untangling Code
+       - Robot Design
+       - MicroFluidics
+
+[Back to top](#contents)
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Earth Industrial Evolution
+
+[Back to top](#contents)
+
+- [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
+- [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
+- [modelling innovation and the evolution of industries](http://www.globelicsacademy.org/2011_pdf/Malerba%20-%20Modelling%20Innovation.pdf)
+- [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
+- [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
+- [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
+- [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
+- [Industry 4.0 Concept: Background and Overview](https://online-journals.org/index.php/i-jim/article/download/7072/4532)
+- [Impact of the Fourth Industrial Revolution on Supply Chains](http://www3.weforum.org/docs/WEF_Impact_of_the_Fourth_Industrial_Revolution_on_Supply_Chains_.pdf)
+- [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
+- [History of technology](https://www.britannica.com/technology/history-of-technology/The-Urban-Revolution-c-3000-500-bce)
+- [20 Industries Threatened by Tech Disruption](https://www.investopedia.com/articles/investing/020615/20-industries-threatened-tech-disruption.asp)
+- [The Global Technology Revolution Summary](https://fas.org/irp/nic/rand/mr1307.sum.html)
+- [The Global Technology Revolution - Bio/Nano/Materials Trends and Their Synergies with Information Technology](https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR1307.pdf)
+- [Technological revolutions and techno-economic paradigms](http://hum.ttu.ee/wp/paper20.pdf)
+- [World Economic Forum : Fourth Industrial Revolution](https://www.weforum.org/focus/fourth-industrial-revolution)
+- [How to Prepare for the Fourth Industrial Revolution](https://www.youtube.com/watch?v=XwIQLLbD7SI)
+- [Technology in 2025: Prepare for the fourth industrial revolution](https://www.pluralsight.com/blog/career/tech-in-2025)
+- [The Industrial Revolution | BBC Documentary](https://www.youtube.com/watch?v=GYln_S2PVYA)
+- [Transistor Full Documentary](https://www.youtube.com/watch?v=U4XknGqr3Bo)
+- [The Evolution of Computing (Vacuum Tube to Transistor to Integrated Circuit) [Documentary]]()
+- [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
+- [The Zero Marginal Cost Society | Jeremy Rifkin | Talks at Google](https://www.youtube.com/watch?v=5-iDUcETjvo)
+- [Jeremy Rifkin - A history of the future – the world in 2025 - 31 January 2017](https://www.youtube.com/watch?v=TUVeg-x9Za4)
+- [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
+- [21 Lessons for the 21st Century | Yuval Noah Harari | Talks at Google](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&pbjreload=101)
+- [Homo Deus: A Brief History of Tomorrow with Yuval Noah Harari](https://www.youtube.com/watch?v=4ChHc5jhZxs)
+- [The Future of Humanity - with Yuval Noah Harari](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
+- [The Future of Humanity | Michio Kaku | Talks at Google](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
+- ["The World in 2030" by Dr. Michio Kaku](https://www.youtube.com/watch?v=219YybX66MY)
+- [Michio Kaku on The Future of Humanity (Google I/O'19)](https://www.youtube.com/watch?v=zsnc0vkwWRk)
+- [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo)
+- [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
+- [Space Inc: The new space businesses and tech](https://www.youtube.com/watch?v=JpQbDcc7lWA)
+- [Space: The Next Trillion Dollar Industry](https://www.youtube.com/watch?v=hiRBQxHrxNw)
+- [Who Wants To Be A Trillionaire?](https://www.youtube.com/watch?v=VGosZWBTF7A)
+- [Space: The Final Business Frontier](https://www.youtube.com/watch?v=VlbZTyBuFlQ)
+- [Gaming Inc: The business of E-Sports](https://www.youtube.com/watch?v=_Fxw_WZnzsg)
+- [The Future of Space:  Off-World Manufacturing | Rob Hoyt](https://www.youtube.com/watch?v=yLjxoscCi0A)
+- [Amazon Empire: The Rise and Reign of Jeff Bezos | FRONTLINE](https://www.youtube.com/watch?v=RVVfJVj5z8s)
+- [The Facebook Dilemma, Part One | FRONTLINE](https://www.youtube.com/watch?v=T48KFiHwexM)
+- [The Facebook Dilemma, Part Two | FRONTLINE](https://www.youtube.com/watch?v=EuA4qxPbpQE)
+- [Teens, Social Media, and Technology (full film) | FRONTLINE](https://www.youtube.com/watch?v=JqamKb7gTWY)
+- [The Self-Driving Car Revolution - BBC Click](https://www.youtube.com/watch?v=gq6xMd7seOI)
+- [Electric Cars: The Future of Road Vehicles? - BBC Click](https://www.youtube.com/watch?v=QC4Rs_xQtvI)
+- [Quantum Computing - The Qubit Technology Revolution](https://www.youtube.com/watch?v=OdVSNNvWikQ)
+- [The Age of A.I.](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+- [In the Age of AI | FRONTLINE](https://www.youtube.com/watch?v=5dZ_lvDgevk)
+- [The Material Science of Metal 3D Printing](https://www.youtube.com/watch?v=fzBRYsiyxjI)
+- [3D PRINTING METAL and More Awesome 3D PRINTERS at Formnext 2019!](https://www.youtube.com/watch?v=82ZZVIl72yE)
+- [The 3D printing revolution | DW Documentary](https://www.youtube.com/watch?v=k0poVtBhIsQ)
+- [3D Printing Is Changing the World](https://www.youtube.com/watch?v=GV8zPtqOyqg)
+- [Made in Space: 3-D Printing Could Change the Way Astronauts Travel | Short Film Showcase](https://www.youtube.com/watch?v=ZQ3y8U6Fbd4)
+- [Stealth Technology - Invisible And Deadly | Full Documentary](https://www.youtube.com/watch?v=JjiaLf3jGxw)
+- [Aviation Documentary: Evolution of the Aviation Industry (Documentary)](https://www.youtube.com/watch?v=-l41dJtjpYA)
+- [Flights And Fights - Inside The Low Cost Airline | BBC Documentary](https://www.youtube.com/watch?v=U1vEK5c2QgI)
+- [Biotechnology/Nanotechnology | Andrew Hessel | SingularityU Germany Summit 2017](https://www.youtube.com/watch?v=XZfUJuSmBAs)
+- [3D Printing Human Parts: The Future of Our Bodies](https://www.youtube.com/watch?v=NiwrtPoKHlg)
+- [It's Alive, But Is It Life: Synthetic Biology and the Future of Creation](https://www.youtube.com/watch?v=rU_pfCtSWF4)
+- [The Promise of Human Regeneration: Forever Young](https://www.youtube.com/watch?v=e0vKOYQUmgg)
+- [This Synthetic DNA Factory Is Building New Forms of Life](https://www.youtube.com/watch?v=DxoLoOtyllU)
+- [CRISPR in Context: The New World of Human Genetic Engineering](https://www.youtube.com/watch?v=RNRZchHaKgw)
+- [Re-writing the Code of Life: CRISPR Systems and Applications of Gene Editing](https://www.youtube.com/watch?v=oRz2vck3giU)
+- [Hack your DNA with CRISPR - VPRO documentary](https://www.youtube.com/watch?v=EH4DmsNiZ3U)
+- [Becoming immortal | VPRO documentary](https://www.youtube.com/watch?v=KscnT6FxMIQ)
+- [Being Mortal | FRONTLINE](https://www.youtube.com/watch?v=lQhI3Jb7vMg)
+- [Science Documentary: Augmented Reality,Virtual Reality,Wearable Computing](https://www.youtube.com/watch?v=Xg4pKgXSJho)
+- [Virtually There: The History of Virtual Reality (documentary)](https://www.youtube.com/watch?v=4BOwLCoBqCs)
+- [The Future of Youtube: Internet Balloons, AR Stories, and Audience Gaming](https://www.youtube.com/watch?v=cHEfDV8VyDk)
+- [Smart Cities - Building for the Cities of Tomorrow](https://www.youtube.com/watch?v=svvIHxwgmDY)
+- [City of the Future: Singapore – Full Episode | National Geographic](https://www.youtube.com/watch?v=xi6r3hZe5Tg)
+- [Sustainable City | Fully Charged](https://www.youtube.com/watch?v=WCKz8ykyI2E)
+- [The Future of Cities](https://www.youtube.com/watch?v=xOOWk5yCMMs)
+- [Blockchain City - The Future of Cities Driven by Blockchain](https://www.youtube.com/watch?v=I6fadL-0VRw)
+- [What Will the Solar Cities of the Future Look Like?](https://www.youtube.com/watch?v=5G-AojIVp6g)
+- [Robots Cooking: The Restaurant of the Future](https://www.youtube.com/watch?v=zCaDJOGnkuo)
+- [Why the Future of Farming is in Cities - The Big Money in Vertical Farming](https://www.youtube.com/watch?v=LiNI-JUFtsA)
+- [IoT - Powering the Digital Economy](https://www.youtube.com/playlist?list=PLJ8IrgLlRTdg9EfNjyxtzXt_0OrWjFBxe)
+- [Floating cities, the LEGO House and other architectural forms of the future | Bjarke Ingels](https://www.youtube.com/watch?v=ieSV8-isy3M)
+- [The Future Tech for Fighting Plastic Pollution](https://www.youtube.com/watch?v=D7vRm1E5rn0)
+- [What Future Humans, Cities and Bodies Will Look Like | space and astronomy](https://www.youtube.com/watch?v=cpbXISebNcQ)
+- [The Race to Build the World's First Hyperloop](https://www.youtube.com/watch?v=luDqbIZGgQM)
+- [The History Of Power Plants | Amazing Documentary TV](https://www.youtube.com/watch?v=XPJz7fAfZT8)
+- [Vehicles Of The Future - Future Transportation System](https://www.youtube.com/watch?v=CUS2w4y2Qj4)
+- [Future Earth - Full Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7Ifk0Ks05gYcoOIVYeTkt8lvc)
+- [How to Save the Planet | DAVOS 2020](https://www.youtube.com/playlist?list=PL7m903CwFUgl8cMeAphYWaHVEgXEbNsae)
+- [Sustainability - Full Documentary](https://www.youtube.com/watch?v=bjrPiIem30g)
+- [Society & Future of Work | World Economic Forum](https://www.youtube.com/playlist?list=PL7m903CwFUgmi1W7LVQCTxYfRWoVgFmEu)
+- [Modern society has reached its limits. Society 5.0 will liberate us](https://www.weforum.org/agenda/2019/01/modern-society-has-reached-its-limits-society-5-0-will-liberate-us/)
+- [Tech for Good | World Economic Forum](https://www.youtube.com/playlist?list=PL7m903CwFUglDo0YkPcCq3D0yDyLbfrDx)
+- [Humans, Gods and Technology | VPRO documentary](https://www.youtube.com/watch?v=tQd_5as_cMY)
+- [Becoming a Kardashev Type I Civilization](https://www.youtube.com/watch?v=HEpNiOM6lto)
+
+-------------------
+![next_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev.PNG)
+
+--------------------
+![next_rev2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev2.PNG)
+
+---------------
+
+![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
+
+------
+![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
+
+-----------
+![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
+
+---------------
+![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Industry 4.0
+
+![sustainability](https://www.mdpi.com/sustainability/sustainability-11-06363/article_deploy/html/images/sustainability-11-06363-g001.png)
+--------
+![c80ad5110d12e54bffd6b5da43749461](https://i.pinimg.com/originals/c8/0a/d5/c80ad5110d12e54bffd6b5da43749461.png)
+-----------
+![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
+------
+![lsMXa_CDqxGzdP1YD2RXGA](https://miro.medium.com/max/3576/1*lsMXa_CDqxGzdP1YD2RXGA.png)
+-----
+![btp_sustain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_sustain.PNG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Industries and Economic Sectors
+
+[Back to top](#contents)
+
+- [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
+- [Sector / Industry index](https://www.unclestock.com/documentation/industries.html)
+- [Global Industry Classification Standard](https://www.msci.com/gics)
+- [S&P Global Industry Classification Standard](https://www.spglobal.com/marketintelligence/en/documents/112727-gics-mapbook_2018_v3_letter_digitalspreads.pdf)
+- [Industries at a Glance](https://www.bls.gov/iag/tgs/iag_index_alpha.htm)
+- [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
+- [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
+- [Sectors of Indian Economy](https://www.drishtiias.com/to-the-points/paper3/sectors-of-indian-economy)
+- [Structural transformation: how did today’s rich countries become ‘deindustrialized’?](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
+- [Share of economic sectors in the global gross domestic product (GDP) from 2008 to 2018](https://www.statista.com/statistics/256563/share-of-economic-sectors-in-the-global-gross-domestic-product/)
+- [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
+- [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
+- [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
+
+
+-----------------
+![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
+---------
+![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
+------
+![27s_sector_model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clark%27s_sector_model.svg/1920px-Clark%27s_sector_model.svg.png)
+----------
+![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
+
+--------
+![sustainability1](https://www.mdpi.com/sustainability/sustainability-11-05779/article_deploy/html/images/sustainability-11-05779-g004.png)
+-----------
+![product_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/product_services.PNG)
+--------
+![7_15_Part_Fig1](https://media.springernature.com/original/springer-static/image/prt%3A978-3-642-20617-7%2F15/MediaObjects/978-3-642-20617-7_15_Part_Fig1-6464_HTML.png)
+----
+![d860cf1d-d86e-44ee-951e-ad554ac2add2](https://online.visual-paradigm.com/repository/images/d860cf1d-d86e-44ee-951e-ad554ac2add2.png)
+
+-----
+![0GC4Lpjy4UGNeFRfnBIhpA](https://miro.medium.com/max/3544/1*0GC4Lpjy4UGNeFRfnBIhpA.png)
+--------
+![ProductManagementFramework](https://www.theproductcrowd.com/wp-content/uploads/2018/10/ProductManagementFramework.png)
+--------
+![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
+
+-------
+![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
+------
+![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
+
+--------------
+![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
+
+---------
+![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
+------
+![Government_Business_Reference_Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Government_Business_Reference_Model.svg/1920px-Government_Business_Reference_Model.svg.png)
+
+-------------
+![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
+----------
+![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
+--------------------
+------------
+![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
+------------
+![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
+---------------
+![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
+
+---------
+![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
+---------
+![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
+----------
+![biz](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/biz.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
+
+[Back to top](#contents)
+
+- [Outline of technology](https://en.wikipedia.org/wiki/Outline_of_technology)
+- [Technological Progress](https://ourworldindata.org/technological-progress)
+- [Technology Adoption](https://ourworldindata.org/technology-adoption)
+- [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
+- [Emerging Technologies (2018–2028)](http://winwinweb.co.in/2019/06/28/emerging-technologies/)
+- [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
+- [A Brief View of the Evolution of Technology and Engineering Education](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
+- [Techno-optimism for the 2020s](https://noahpinion.substack.com/p/techno-optimism-for-the-2020s)
+- [2020 technology industry outlook](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-industry-outlook.html)
+
+[Back to top](#contents)
+
+------------
+![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
+---------
+![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
+----------
+![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
+----------
+![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
+
+------------
+-----------------
+#### Global Organizations
+
+[Back to top](#contents)
+
+- [Global Company Dataset with over 7+ Million Company profiles](https://www.peopledatalabs.com/company-dataset)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Evolution of Information Technologies
+
+[Back to top](#contents)
+
+
+![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+------------------
+
+![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+
+[Back to top](#contents)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Technology Industry Value Chain
+
+[Back to top](#contents)
+
+"Technology", in this context, has come to mean primarily electronics-based technology. This can include, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services -  [Wiki](https://en.wikipedia.org/wiki/Technology_company)
+
+ computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services
+ 
+
+
+![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
+---------
+![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
+
+----------------
+
+#### [Internet - Telecom Infrastructure Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)
+
+------------
+
+#### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
+
+----------
+
+#### [Financing Technology Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-capital-investments.md)
+
+-------------
+
+#### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
+
+
+-----------
+---------------
+
+  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2019-20-21 Hype Cycles)
+   -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
         - **On the Rise**
           - DesignOps
           - Promise Theory
@@ -1488,885 +2371,12 @@ Blockchain Interoperability
           - Protecting AI-Powered Systems
           - Leveraging AI to Enhance Cybersecurity Defense
           - Anticipating Nefarious Use of AI by Attackers
-  - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
-     - **EA Standards & Frameworks**
-       - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
-     - **EA Tools**
-       - BiZZdesign, LeanX, Software AG(ALFABET, ARIS), MEGA International(HOPEX), Avolution(Abacus), Orbus Software(iServer)
-       - erwin Evolve, BlueDolphin, ADOIT, Essential Project
-     - **Stakeholders**
-       - **Enterprise Architects** (Maestro)
-       - **Business Architects** (LoB/Industry Specific)
-         - Business Process Lead/Owner
-         - Functional Expert
-       - **Solution Architects** (Contextual)
-         - Areas - [Business, Process, Value, Infrastructure, Technology, Cloud, Platform, Information, Data, Software/Application, Security, RPA] 
-       - **Technical Architects**
-         - **Infrastructure Architects** (DC, Private/Public/Hybrid/Multi-Cloud)
-           - IT Administrator
-           - IT Engineers
-           - IT Technitians
-           - IT Solution Owner
-           - Edge Computing(IoT) Engineer
-         - **Software Architects** (Custom/Packaged/SaaS/Cloud-Native)
-           - Packaged/SaaS Software Admin
-           - DevOps Engineer
-           - Software Engineering
-           - Software Application Developer
-           - UX Research, Design & Developer(CXM)
-         - **Integration Architects** (Custom/Managed)
-           - API Developer
-           - Process Orchestrator
-         - **Data Architects**
-           - DB Admin
-           - DB Developer/Engineer
-           - Data Modeler
-           - MDG/RDM Expert
-           - Data Quality Engineer
-           - Data Mart/Warehouse/Lake Solution Engineer
-           - Big Data Engineer
-           - Data Engineer(ETL/ELT)
-           - Data Analyst
-              - BI Expert
-              - Business Analyst
-           - Data Scientist
-           - ML Engineer
-         - Shared Roles - AIOps/RPA Engineer
-       - **Security Architects**
-         - CISO
-         - User Administrator(IAM/SSO/SCIM/MFA/Active Directory - LDAP/Kerborose)
-         - IT Security
-         - DB Security
-         - DevSecOps Engineer
-         - Software/App Security
-         - Governance, Risk Management, and Compliance(GRC)
-         - Data Privacy Analyst
-         - Security Auditor
-         - Security Risk Analyst
-         - CISSP, CISA, and CISM
-  - **[Organization Structure Modeling](#organization-structure-modeling)**
-    - Governance
-      - Org Chart
-    - Board of Directors
-    - Shareholders 
-    - Partners
-    - Suppliers
-    - Stakeholders
-      - Internal Management
-        - CEO Functions
-        - COO Functions
-        - CFO Functions
-        - CIO/CTO/CISO/CDO Functions
-          - Strategy & Operations Director
-          - Technology Lifecycle Management
-          - Technology Modernization
-          - Rationalizing Applications
-          - Service Management
-          - Product Operating Model
-          - User Experience
-          - DevOps/Site Reliability Engineering
-          - New & Emerging Technologies
-	  - Regulatory & Compliance (eg: GDPR)
-      - Costomers/Clients
-    - Internal/External Auditors
-    - Legal Aspects
-      - Regulatory Affairs
-      - Corporate Responsibilities
-      - Policies
-      - Business Ethics
-    - Enterprise Risk Management
-      - Strategic & Reputation Risk
-      - Business Disruption/Resiliency Risk
-      - Regulatory Risk
-      - Financial Risk
-      - Operational Risk
-      - Cyber Risk
-  - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
-  - **[Digital Workplace Services](#digital-workplace-services)**
-  - **[Database Technology](#database-technology)**
-    - DB History
-    - DB Types
-      - SQL
-        - NewSQL
-      - NoSQL
-        - Key Value
-        - Graph
-        - Big Tables
-        - Document
-      - Object Store
-      - Streaming
-      - Analytics Engines
-      - In-Memory DBs
-      - Spatial
-    - DB Management Softwares/Platforms
-    - Master Data Management
-    - Operational Data Management
-    - Big Data Management & Tools
-    - Leading DB-MS/Platform Vendors
-  - **[Enterprise Resource Planning - The Digital Core of an Organization](#enterprise-resource-planning-the-digital-core-of-an-organization)**
-    - **Enterprise Core Lines of Business**
-      - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
-        - Accounting and Financial Close
-          - Chart of Accounts
-          - GL Accounting
-          - AP, AR, AA Accounting
-          - Closing
-            - Month, QTD, YTD
-            - Balance Sheet
-            - Profit & Loss
-            - Cash-Flow
-            - Trial Balance Adjustments
-        - Management Accounting(Controlling)
-          - Cost Center Accounting
-          - Profit Center Accounting
-          - Product Cost Planning
-          - Cost Object Controlling
-          - Profitability Analysis
-        - Tax Accounting
-        - Enterprise Performance Management
-        - Financial Operations
-        - Governance, Legal and Compliance
-        - Enterprise Risk Management
-          - Credit Risk
-          - Market Risk
-          - Analytics - Risk Predictive Models
-        - Financial Planning and Analysis
-        - Treasury Management
-          - Cash Operations
-          - Bank Account Management
-          - Transaction Manager
-          - Liquidity Management
-          - Payment Processing
-          - Hedge Management
-          - Hedge Accounting
-        - Commodity Management
-        - Real Estate Management
-        - Subscription Billing and Revenue Management
-        - Reporting & Dashboards
-          - GAAP/STAT
-          - IFRS
-          - SEC(10K, 10Q, 8K, 20F, 40F)
-          - Digital Boardrooms
-          - CFO Dashboard
-        - Finance Analytics - Planning, Budgeting & Forecasting(Predictive)
-        - Finance Leading Software Vendors
-      - **Human Resources Management** (Hire to Retire)
-        - Payroll Administration
-        - Benefits Adminitration
-        - Compansation Administration
-        - Employee Relations
-        - Employee Transition
-        - HR Operations
-        - HR Planning and Strategy
-        - Learning & Development
-        - Manage Employee Data
-        - Performamnce Management
-        - Succession Planning
-        - Talent Acquisition
-        - Workforce Management
-        - Travel & Expense Management
-        - Time Management
-        - Leading HR & Employee Management Software Vendors
-        - HR & People Analytics - Planning, Budgeting & Forecasting(Predictive)
-      - **Sourcing and Procurement (Spend Management -S2P/P2P)**
-        - Services
-        - Goods
-        - Catalogue
-        - Auction
-        - Contract
-        - RFX
-        - Risk Assessment
-        - Vendor Management
-          - Register
-          - OFAC
-          - Scorecards
-        - PO/Invoices
-        - Leading S2P/P2P Software Vendors
-        - Spend Analytics - Planning, Budgeting & Forecasting(Predictive)
-      - **Manufacturing**
-        - Production Planning(PP)
-          - Production Requirements
-          - Planned/Process Orders
-        - Material Requirements Planning
-        - Bill of Materials(BoMs)
-        - Capacity Requirements Planning
-        - Demand Management
-        - Production Orders
-        - Sales & Operations Planning
-        - Quality Management
-        - Shared Enterprise Process --> Materials-Sales-Distribution, Finance-Controlling, Project-Resource Management
-        - Production Analytics - Planning, Budgeting & Forecasting(Predictive)
-        - Leading Manufacturing Software Vendors
-      - **Supply Chain Management**
-        - Integrated Business Planning
-        - Inventory Management
-        - Channel Management
-        - Warehouse Management
-        - Transport & Traceability Management
-        - Finance & Payments Management
-        - Supplier & Customer Service management
-          - OEM's
-          - Dealers
-          - Retailers
-          - Clients/Customers
-        - SCM Analytics - Planning, Budgeting & Forecasting(Predictive)
-      - **Customer Relationship Management** 
-        - Customer Data(Single Source of Truth)
-        - Sales (Leads to Sales Quote & Order)
-          - Pricing & Conditions
-          - Sales Process
-          - Billing Process
-          - Shipping Process
-          - Sales Analytics
-        - Services (Customer Engagment & Support - Post Sales Activities)
-          - Service Desk Operations
-          - Dealer/sub-dealer services
-          - Call Center
-          - Waranty Management
-        - Marketing(Customer Journeys)
-          - Detailed Customer Profiles
-          - Understand Customer
-          - Deliver Relavant Experiences
-          - Digital Marketting Tools
-            - Social Media
-            - SEO
-            - Email
-            - Advertizing
-            - Website/Content Creation, Hosting/Publishing
-            - WebAnalytics
-            - Video Hosting/Publishing
-            - Mobile App Notifications(Yes)
-          - Black Marketing
-          - Neuromarketing
-        - Commerce(Customer Shopping Experiences)
-          - Online
-          - In-store
-        - Customer Analytics - Planning, Budgeting & Forecasting(Predictive)
-        - Digital 
-          - Intelligent UI Experiences
-          - Mobile/Tablet
-          - Conversational AI(Text/Voice)
-          - Robotic
-          - ML/AI based Recommendations
-          - IoT
-          - Immersive - Emerging
-          - Telepathic(Future)
-      - **Asset Management**
-      - **R & D Product/Project Life Cycle Management** (PLM)
-      - **Professional Services**
-        - Project Management ( Commercial, Customer)
-        - Portfolio & Demand Management
-        - Resource Planning 
-        - Capacity Planning
-        - Resource Management
-          - Time & Expense
-          - Hard/Soft Bookings
-        - Finace/Budgeting, Planning & Forecasting
-        - Analytics
-        - Leading Software Vendors for Project & Portfolio Management
-      - **ERP Implementation**
-        - Process & Approaches
-        - Tools & Technology
-        - Business Sizes
-          - For Startups
-          - For Small Businesses 
-          - For Medium Businesses
-          - For Large Businesses
-          - For Industries  
-    - **Leading ERP Software Vendors Portfolios**
-    - **Industry Specific ERP Softwares**
-  - **[Enterprise Data and Application Integration](#enterprise-data-and-application-integration)**
-     - Service Oriented Architecture
-     - Event Based Architecture
-     - Micro Service Architecture
-     - Serverless Architecture
-     - API Management
-     - Integration Platform as a service(iPaaS)
-       - Leading iPaaS Vendors
-     - Integration Scenarios
-       - Process
-         - A2A
-         - B2B
-         - B2G
-        - Data 
-        - Analytics
-        - User
-        - Things	
-     - Business Process Integration Scenarios
-       - Core Finance Integrations Scenarios
-       - Enterprise Asset management Integrations
-       - Lead to Cash Processing Integrations
-       - Design to Operate Processing(Manufacturing & SCM) Integrations
-       - Source to Pay Processing Integrations
-       - Warehouse Management Integrations
-       - Human Experience Management Integrations
-   - **[Enterprise Data Warehouse and Data Lake](#enterprise-data-warehouse-and-data-lake)**
-     - Data Engineering(ELT/ETL)
-     - Practical DataOps
-   - **[Enterprise Analytics](#enterprise-analytics)**
-     - Integrated Planning, Consolidation & Analysis Tools
-     - BI Dashbord & Reporting Tools
-     - Viz & Spatial Analysis Tools
-     - Augmeted Analytics
-     - Predictive Analytics
-     - Immersive Analytics
-       - WebVR
-       - VR(standalone)
-       - AR
-       - MR
-       - Holograms       
-     - BI Mobile/Tablet Apps
-     - Analytics Hub
-     - Digital Boardroom(CxO/Board Meetings)
-     - Enterprise Use Cases
-       - Finance/Accounting Analytics
-       - Customer Analytics
-       - Operational Analytics
-       - People Analytics
-   - **[IoT Platform Integration with ERP](#iot-platforms-integration-with-erp)**
-   - **[AI in Enterprise Processes](#ai-in-enterprise-processes)**
-     - RPA
-     - AIOps
-     - Data Science
-     - ML/DL Engineering
-     - Practical MLOps - ML pipelines using CI/CD
-   - **[Experience Design](#experience-design)**
-   - **[Enterprise Information Architecture Review](#information-architecture-review)**
-     - EA Artifacts
-     - Business Architect View
-     - Solution Architect View
-     - Technical Architect View
-     - Security Architect View
-   - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
-   - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
-   - **[MIT Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
-     - **[2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
-       - Messenger RNA vaccines
-       - GPT-3
-       - TikTok recommendation algorithms
-       - Lithium-metal batteries
-       - Data trusts
-       - Green hydrogen
-       - Digital contact tracing
-       - Hyper-accurate positioning
-       - Remote everything
-       - Multi-skilled AI
-     - **[2020](https://www.technologyreview.com/10-breakthrough-technologies/2020/)**
-       - Unhackable internet
-       - Hyper-personalized medicine
-       - Digital money
-       - Anti-aging drugs
-       - AI-discovered molecules
-       - Satellite mega-constellations
-       - Quantum supremacy
-       - Tiny AI
-       - Differential privacy
-       - Climate change attribution
-     - **[2019](https://www.technologyreview.com/10-breakthrough-technologies/2019/)**
-       - Robot dexterity
-       - New-wave nuclear power
-       - Predicting preemies
-       - Gut probe in a pill
-       - Custom cancer vaccines
-       - The cow-free burger
-       - Carbon dioxide catcher
-       - An ECG on your wrist
-       - Sanitation without sewers
-       - Smooth-talking AI assistants
-     - **[2018](https://www.technologyreview.com/10-breakthrough-technologies/2018/)**
-       - 3-D Metal Printing
-       - Artificial Embryos
-       - Sensing City
-       - AI for Everybody
-       - Dueling Neural Networks
-       - Babel-Fish Earbuds
-       - Zero-Carbon Natural Gas
-       - Perfect Online Privacy
-       - Genetic Fortune-Telling
-       - Materials’ Quantum Leap
-     - **[2017](https://www.technologyreview.com/10-breakthrough-technologies/2017/)**
-       - Reversing Paralysis
-       - Self-Driving Trucks
-       - Paying with Your Face
-       - Practical Quantum Computers
-       - The 360-Degree Selfie
-       - Hot Solar Cells
-       - Gene Therapy 2.0
-       - The Cell Atlas
-       - Botnets of Things
-       - Reinforcement Learning
-     - **[2016](https://www.technologyreview.com/10-breakthrough-technologies/2016/)**
-       - Immune Engineering
-       - Precise Gene Editing in Plants
-       - Conversational Interfaces
-       - Reusable Rockets
-       - Robots That Teach Each Other
-       - DNA App Store
-       - SolarCity’s Gigafactory
-       - Slack
-       - Tesla Autopilot
-       - Power from the Air
-     - **[2015](https://www.technologyreview.com/10-breakthrough-technologies/2015/)**
-       - Magic Leap
-       - Nano-Architecture
-       - Car-to-Car Communication
-       - Project Loon
-       - Liquid Biopsy
-       - Megascale Desalination
-       - Apple Pay
-       - Brain Organoids
-       - Supercharged Photosynthesis
-       - Internet of DNA
-     - **[2014](https://www.technologyreview.com/10-breakthrough-technologies/2014/)**
-       - Agricultural Drones
-       - Ultraprivate Smartphones
-       - Brain Mapping
-       - Neuromorphic Chips
-       - Genome Editing
-       - Microscale 3-D Printing
-       - Mobile Collaboration
-       - Oculus Rift
-       - Agile Robots
-       - Smart Wind and Solar Power
-     - **[2013](https://www.technologyreview.com/10-breakthrough-technologies/2013/)**
-       - Smart Watches
-       - Ultra-Efficient Solar Power
-       - Memory Implants
-       - Prenatal DNA Sequencing
-       - Deep Learning
-       - Additive Manufacturing
-       - Big Data from Cheap Phones
-       - Temporary Social Media
-       - Supergrids
-       - Baxter: The Blue-Collar Robot
-     - **[2012](https://www2.technologyreview.com/tr10/?year=2012)**
-       - Egg Stem Cells
-       - A Faster Fourier Transform
-       - Ultra-Efficient Solar
-       - Nanopore Sequencing
-       - Light-Field Photography
-       - Crowdfunding
-       - Solar Microgrids
-       - High-Speed Materials Discovery
-       - 3-D Transistors
-       - Facebook's Timeline
-     - **[2011](https://www2.technologyreview.com/tr10/?year=2011)**
-       - Social Indexing
-       - Homomorphic Encryption
-       - Smart Transformers
-       - Cloud Streaming 
-       - Gestural Interfaces
-       - Crash-Proof Code
-       - Cancer Genomics
-       - Separating Chromosomes
-       - Solid-State Batteries 
-       - Synthetic Cells 
-     - **[2010](https://www2.technologyreview.com/tr10/?year=2010)**
-       - Real-Time Search 
-       - Social TV
-       - Mobile 3-D
-       - Green Concrete
-       - Engineered Stem Cells
-       - Implantable Electronics
-       - Solar Fuel 
-       - Dual-Action Antibodies 
-       - Light-Trapping Photovoltaics
-       - Cloud Programming 
-     - **[2009](https://www2.technologyreview.com/tr10/?year=2009)**
-       - Intelligent Software Assistant 
-       - Liquid Battery 
-       - $100 Genome
-       - Traveling-Wave Reactor
-       - Racetrack Memory
-       - Nanopiezoelectronics 
-       - Biological Machines
-       - HashCache
-       - Paper Diagnostics
-       - Software-Defined Networking 
-     - **[2008](https://www2.technologyreview.com/tr10/?year=2008)**
-       - Modeling Surprise
-       - Offline Web Applications 
-       - Probabilistic Chips 
-       - Graphene Transistors 
-       - NanoRadio 
-       - Connectomics 
-       - Wireless Power 
-       - Reality Mining 
-       - Atomic Magnetometers 
-       - Cellulolytic Enzymes 
-     - **[2007](https://www2.technologyreview.com/tr10/?year=2007)**
-       - Peering into Video's Future
-       - A New Focus for Light
-       - Nanocharging Solar
-       - Neuron Control
-       - Invisible Revolution
-       - Nanohealing
-       - Personalized Medical Monitors
-       - Digital Imaging, Reimagined
-       - Single-Cell Analysis
-       - Augmented Reality
-     - **[2006](https://www2.technologyreview.com/tr10/?year=2006)**
-       - Nanomedicine
-       - Cognitive Radio
-       - Nanobiomechanics
-       - Pervasive Wireless
-       - Epigenetics
-       - Universal Authentication
-       - Comparative Interactomics
-       - Nuclear Reprogramming
-       - Diffusion Tensor Imaging
-       - Stretchable Silicon
-     - **[2005]()**
-       - Airborne Networks
-       - Quantum Wires
-       - Silicon Photonics
-       - Metabolomics
-       - Magnetic-Resonance Force Microscopy
-       - Universal Memory
-       - Bacterial Factories
-       - Enviromatics
-       - Cell-Phone Viruses
-       - Biomechatronics 
-     - **[2004](http://www2.technologyreview.com/news/402435/10-emerging-technologies-that-will-change-your/)**
-       - Universal Translation
-       - Synthetic Biology
-       - Nanowires
-       - T-Rays
-       - Distributed Storage
-       - RNAi Interference
-       - Power Grid Control
-       - Microfluidic Optical Fibers
-       - Bayesiam Machine Learning
-     - **[2003](http://www2.technologyreview.com/news/401775/10-emerging-technologies-that-will-change-the/2/)**
-       - Wireless Sensor Networks
-       - Injectable Tissue Engineering
-       - Nano Solar Cells
-       - Mechatronics
-       - Grid Computing
-       - Molecular Imaging
-       - Nanoimprint Lithography
-       - Software Assurance
-       - Glycomics
-       - Quantum Cryptography
-     - **[2001-2](https://wp.technologyreview.com/wp-content/uploads/2021/02/MIT-Technology-Review-2001-TR10.pdf?_ga=2.153103608.1180029176.1614440008-195746145.1614440008)**
-       - Brain-Machine Interfaces
-       - Flexible Transistors
-       - Data Mining
-       - Digital Rights Management
-       - Biometrics
-       - Natural Language Processing
-       - Microphotonics
-       - Untangling Code
-       - Robot Design
-       - MicroFluidics
-
-[Back to top](#contents)
-  
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Earth Industrial Evolution
-
-[Back to top](#contents)
-
-- [Innovation, Industrial Dynamics and Industry Evolution: Progress and the Research Agendas](https://www.cairn.info/revue-de-l-ofce-2006-5-page-21.htm#)
-- [Technological Innovation and Industrial Evolution](https://ex.hhs.se/dissertations/527090-FULLTEXT01.pdf)
-- [modelling innovation and the evolution of industries](http://www.globelicsacademy.org/2011_pdf/Malerba%20-%20Modelling%20Innovation.pdf)
-- [entrepreneurship, industry evolution and economic growth](https://personal.eur.nl/thurik/Research/Articles/Entrepreneurship,%20industry%20evolution%20and%20economic%20growth.pdf)
-- [27-industrial-revolution-inventions-that-changed-the-world](https://interestingengineering.com/27-industrial-revolution-inventions-that-changed-the-world)
-- [The Next Economic Growth Engine: Scaling Fourth Industrial Revolution Technologies in Production](https://www.weforum.org/whitepapers/the-next-economic-growth-engine-scaling-fourth-industrial-revolution-technologies-in-production)
-- [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
-- [Industry 4.0 Concept: Background and Overview](https://online-journals.org/index.php/i-jim/article/download/7072/4532)
-- [Impact of the Fourth Industrial Revolution on Supply Chains](http://www3.weforum.org/docs/WEF_Impact_of_the_Fourth_Industrial_Revolution_on_Supply_Chains_.pdf)
-- [Technology and Innovation for the Future of Production: Accelerating Value Creation](http://www3.weforum.org/docs/WEF_White_Paper_Technology_Innovation_Future_of_Production_2017.pdf)
-- [History of technology](https://www.britannica.com/technology/history-of-technology/The-Urban-Revolution-c-3000-500-bce)
-- [20 Industries Threatened by Tech Disruption](https://www.investopedia.com/articles/investing/020615/20-industries-threatened-tech-disruption.asp)
-- [The Global Technology Revolution Summary](https://fas.org/irp/nic/rand/mr1307.sum.html)
-- [The Global Technology Revolution - Bio/Nano/Materials Trends and Their Synergies with Information Technology](https://www.rand.org/content/dam/rand/pubs/monograph_reports/2005/MR1307.pdf)
-- [Technological revolutions and techno-economic paradigms](http://hum.ttu.ee/wp/paper20.pdf)
-- [World Economic Forum : Fourth Industrial Revolution](https://www.weforum.org/focus/fourth-industrial-revolution)
-- [How to Prepare for the Fourth Industrial Revolution](https://www.youtube.com/watch?v=XwIQLLbD7SI)
-- [Technology in 2025: Prepare for the fourth industrial revolution](https://www.pluralsight.com/blog/career/tech-in-2025)
-- [The Industrial Revolution | BBC Documentary](https://www.youtube.com/watch?v=GYln_S2PVYA)
-- [Transistor Full Documentary](https://www.youtube.com/watch?v=U4XknGqr3Bo)
-- [The Evolution of Computing (Vacuum Tube to Transistor to Integrated Circuit) [Documentary]]()
-- [The Third Industrial Revolution: A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
-- [The Zero Marginal Cost Society | Jeremy Rifkin | Talks at Google](https://www.youtube.com/watch?v=5-iDUcETjvo)
-- [Jeremy Rifkin - A history of the future – the world in 2025 - 31 January 2017](https://www.youtube.com/watch?v=TUVeg-x9Za4)
-- [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
-- [21 Lessons for the 21st Century | Yuval Noah Harari | Talks at Google](https://www.youtube.com/watch?v=Bw9P_ZXWDJU&pbjreload=101)
-- [Homo Deus: A Brief History of Tomorrow with Yuval Noah Harari](https://www.youtube.com/watch?v=4ChHc5jhZxs)
-- [The Future of Humanity - with Yuval Noah Harari](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
-- [The Future of Humanity | Michio Kaku | Talks at Google](https://www.youtube.com/watch?v=XOmQqBX6Dn4)
-- ["The World in 2030" by Dr. Michio Kaku](https://www.youtube.com/watch?v=219YybX66MY)
-- [Michio Kaku on The Future of Humanity (Google I/O'19)](https://www.youtube.com/watch?v=zsnc0vkwWRk)
-- [Microgravity Will Change How We Make Everything](https://www.youtube.com/watch?v=fUj1-cPaFgo)
-- [Why Space Manufacturing is the Future of Industry](https://www.youtube.com/watch?v=vXT_rMHgr6A)
-- [Space Inc: The new space businesses and tech](https://www.youtube.com/watch?v=JpQbDcc7lWA)
-- [Space: The Next Trillion Dollar Industry](https://www.youtube.com/watch?v=hiRBQxHrxNw)
-- [Who Wants To Be A Trillionaire?](https://www.youtube.com/watch?v=VGosZWBTF7A)
-- [Space: The Final Business Frontier](https://www.youtube.com/watch?v=VlbZTyBuFlQ)
-- [Gaming Inc: The business of E-Sports](https://www.youtube.com/watch?v=_Fxw_WZnzsg)
-- [The Future of Space:  Off-World Manufacturing | Rob Hoyt](https://www.youtube.com/watch?v=yLjxoscCi0A)
-- [Amazon Empire: The Rise and Reign of Jeff Bezos | FRONTLINE](https://www.youtube.com/watch?v=RVVfJVj5z8s)
-- [The Facebook Dilemma, Part One | FRONTLINE](https://www.youtube.com/watch?v=T48KFiHwexM)
-- [The Facebook Dilemma, Part Two | FRONTLINE](https://www.youtube.com/watch?v=EuA4qxPbpQE)
-- [Teens, Social Media, and Technology (full film) | FRONTLINE](https://www.youtube.com/watch?v=JqamKb7gTWY)
-- [The Self-Driving Car Revolution - BBC Click](https://www.youtube.com/watch?v=gq6xMd7seOI)
-- [Electric Cars: The Future of Road Vehicles? - BBC Click](https://www.youtube.com/watch?v=QC4Rs_xQtvI)
-- [Quantum Computing - The Qubit Technology Revolution](https://www.youtube.com/watch?v=OdVSNNvWikQ)
-- [The Age of A.I.](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
-- [In the Age of AI | FRONTLINE](https://www.youtube.com/watch?v=5dZ_lvDgevk)
-- [The Material Science of Metal 3D Printing](https://www.youtube.com/watch?v=fzBRYsiyxjI)
-- [3D PRINTING METAL and More Awesome 3D PRINTERS at Formnext 2019!](https://www.youtube.com/watch?v=82ZZVIl72yE)
-- [The 3D printing revolution | DW Documentary](https://www.youtube.com/watch?v=k0poVtBhIsQ)
-- [3D Printing Is Changing the World](https://www.youtube.com/watch?v=GV8zPtqOyqg)
-- [Made in Space: 3-D Printing Could Change the Way Astronauts Travel | Short Film Showcase](https://www.youtube.com/watch?v=ZQ3y8U6Fbd4)
-- [Stealth Technology - Invisible And Deadly | Full Documentary](https://www.youtube.com/watch?v=JjiaLf3jGxw)
-- [Aviation Documentary: Evolution of the Aviation Industry (Documentary)](https://www.youtube.com/watch?v=-l41dJtjpYA)
-- [Flights And Fights - Inside The Low Cost Airline | BBC Documentary](https://www.youtube.com/watch?v=U1vEK5c2QgI)
-- [Biotechnology/Nanotechnology | Andrew Hessel | SingularityU Germany Summit 2017](https://www.youtube.com/watch?v=XZfUJuSmBAs)
-- [3D Printing Human Parts: The Future of Our Bodies](https://www.youtube.com/watch?v=NiwrtPoKHlg)
-- [It's Alive, But Is It Life: Synthetic Biology and the Future of Creation](https://www.youtube.com/watch?v=rU_pfCtSWF4)
-- [The Promise of Human Regeneration: Forever Young](https://www.youtube.com/watch?v=e0vKOYQUmgg)
-- [This Synthetic DNA Factory Is Building New Forms of Life](https://www.youtube.com/watch?v=DxoLoOtyllU)
-- [CRISPR in Context: The New World of Human Genetic Engineering](https://www.youtube.com/watch?v=RNRZchHaKgw)
-- [Re-writing the Code of Life: CRISPR Systems and Applications of Gene Editing](https://www.youtube.com/watch?v=oRz2vck3giU)
-- [Hack your DNA with CRISPR - VPRO documentary](https://www.youtube.com/watch?v=EH4DmsNiZ3U)
-- [Becoming immortal | VPRO documentary](https://www.youtube.com/watch?v=KscnT6FxMIQ)
-- [Being Mortal | FRONTLINE](https://www.youtube.com/watch?v=lQhI3Jb7vMg)
-- [Science Documentary: Augmented Reality,Virtual Reality,Wearable Computing](https://www.youtube.com/watch?v=Xg4pKgXSJho)
-- [Virtually There: The History of Virtual Reality (documentary)](https://www.youtube.com/watch?v=4BOwLCoBqCs)
-- [The Future of Youtube: Internet Balloons, AR Stories, and Audience Gaming](https://www.youtube.com/watch?v=cHEfDV8VyDk)
-- [Smart Cities - Building for the Cities of Tomorrow](https://www.youtube.com/watch?v=svvIHxwgmDY)
-- [City of the Future: Singapore – Full Episode | National Geographic](https://www.youtube.com/watch?v=xi6r3hZe5Tg)
-- [Sustainable City | Fully Charged](https://www.youtube.com/watch?v=WCKz8ykyI2E)
-- [The Future of Cities](https://www.youtube.com/watch?v=xOOWk5yCMMs)
-- [Blockchain City - The Future of Cities Driven by Blockchain](https://www.youtube.com/watch?v=I6fadL-0VRw)
-- [What Will the Solar Cities of the Future Look Like?](https://www.youtube.com/watch?v=5G-AojIVp6g)
-- [Robots Cooking: The Restaurant of the Future](https://www.youtube.com/watch?v=zCaDJOGnkuo)
-- [Why the Future of Farming is in Cities - The Big Money in Vertical Farming](https://www.youtube.com/watch?v=LiNI-JUFtsA)
-- [IoT - Powering the Digital Economy](https://www.youtube.com/playlist?list=PLJ8IrgLlRTdg9EfNjyxtzXt_0OrWjFBxe)
-- [Floating cities, the LEGO House and other architectural forms of the future | Bjarke Ingels](https://www.youtube.com/watch?v=ieSV8-isy3M)
-- [The Future Tech for Fighting Plastic Pollution](https://www.youtube.com/watch?v=D7vRm1E5rn0)
-- [What Future Humans, Cities and Bodies Will Look Like | space and astronomy](https://www.youtube.com/watch?v=cpbXISebNcQ)
-- [The Race to Build the World's First Hyperloop](https://www.youtube.com/watch?v=luDqbIZGgQM)
-- [The History Of Power Plants | Amazing Documentary TV](https://www.youtube.com/watch?v=XPJz7fAfZT8)
-- [Vehicles Of The Future - Future Transportation System](https://www.youtube.com/watch?v=CUS2w4y2Qj4)
-- [Future Earth - Full Documentary Series](https://www.youtube.com/playlist?list=PLBThhL8p7Ifk0Ks05gYcoOIVYeTkt8lvc)
-- [How to Save the Planet | DAVOS 2020](https://www.youtube.com/playlist?list=PL7m903CwFUgl8cMeAphYWaHVEgXEbNsae)
-- [Sustainability - Full Documentary](https://www.youtube.com/watch?v=bjrPiIem30g)
-- [Society & Future of Work | World Economic Forum](https://www.youtube.com/playlist?list=PL7m903CwFUgmi1W7LVQCTxYfRWoVgFmEu)
-- [Modern society has reached its limits. Society 5.0 will liberate us](https://www.weforum.org/agenda/2019/01/modern-society-has-reached-its-limits-society-5-0-will-liberate-us/)
-- [Tech for Good | World Economic Forum](https://www.youtube.com/playlist?list=PL7m903CwFUglDo0YkPcCq3D0yDyLbfrDx)
-- [Humans, Gods and Technology | VPRO documentary](https://www.youtube.com/watch?v=tQd_5as_cMY)
-- [Becoming a Kardashev Type I Civilization](https://www.youtube.com/watch?v=HEpNiOM6lto)
-
--------------------
-![next_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev.PNG)
-
---------------------
-![next_rev2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev2.PNG)
-
----------------
-
-![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
-
-------
-![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
-
------------
-![industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries.PNG)
-
----------------
-![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Industry 4.0
-
-![sustainability](https://www.mdpi.com/sustainability/sustainability-11-06363/article_deploy/html/images/sustainability-11-06363-g001.png)
---------
-![c80ad5110d12e54bffd6b5da43749461](https://i.pinimg.com/originals/c8/0a/d5/c80ad5110d12e54bffd6b5da43749461.png)
------------
-![Industry 4.0](https://pbs.twimg.com/media/Dom6PofWwAAqyOz.jpg)
-------
-![lsMXa_CDqxGzdP1YD2RXGA](https://miro.medium.com/max/3576/1*lsMXa_CDqxGzdP1YD2RXGA.png)
------
-![btp_sustain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_sustain.PNG)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Industries and Economic Sectors
-
-[Back to top](#contents)
-
-- [Outline of Industries](https://en.wikipedia.org/wiki/Outline_of_industry)
-- [Sector / Industry index](https://www.unclestock.com/documentation/industries.html)
-- [Global Industry Classification Standard](https://www.msci.com/gics)
-- [S&P Global Industry Classification Standard](https://www.spglobal.com/marketintelligence/en/documents/112727-gics-mapbook_2018_v3_letter_digitalspreads.pdf)
-- [Industries at a Glance](https://www.bls.gov/iag/tgs/iag_index_alpha.htm)
-- [Sectors of the economy](https://www.economicshelp.org/blog/12436/concepts/sectors-economy/)
-- [Sectors of the Economy: Primary, Secondary, Tertiary, Quaternary and Quinary](https://www.clearias.com/sectors-of-economy-primary-secondary-tertiary-quaternary-quinary/)
-- [Sectors of Indian Economy](https://www.drishtiias.com/to-the-points/paper3/sectors-of-indian-economy)
-- [Structural transformation: how did today’s rich countries become ‘deindustrialized’?](https://ourworldindata.org/structural-transformation-and-deindustrialization-evidence-from-todays-rich-countries)
-- [Share of economic sectors in the global gross domestic product (GDP) from 2008 to 2018](https://www.statista.com/statistics/256563/share-of-economic-sectors-in-the-global-gross-domestic-product/)
-- [Employment in Agriculture](https://ourworldindata.org/employment-in-agriculture)
-- [World Economic Outlook (October 2020)](https://www.imf.org/external/datamapper/datasets/WEO)
-- [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
-
-
------------------
-![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
----------
-![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
-------
-![27s_sector_model](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clark%27s_sector_model.svg/1920px-Clark%27s_sector_model.svg.png)
-----------
-![industries%2Becosystem](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/industries%2Becosystem.PNG)
-
---------
-![sustainability1](https://www.mdpi.com/sustainability/sustainability-11-05779/article_deploy/html/images/sustainability-11-05779-g004.png)
------------
-![product_services](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/product_services.PNG)
---------
-![7_15_Part_Fig1](https://media.springernature.com/original/springer-static/image/prt%3A978-3-642-20617-7%2F15/MediaObjects/978-3-642-20617-7_15_Part_Fig1-6464_HTML.png)
-----
-![d860cf1d-d86e-44ee-951e-ad554ac2add2](https://online.visual-paradigm.com/repository/images/d860cf1d-d86e-44ee-951e-ad554ac2add2.png)
-
------
-![0GC4Lpjy4UGNeFRfnBIhpA](https://miro.medium.com/max/3544/1*0GC4Lpjy4UGNeFRfnBIhpA.png)
---------
-![ProductManagementFramework](https://www.theproductcrowd.com/wp-content/uploads/2018/10/ProductManagementFramework.png)
---------
-![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
-
--------
-![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
-------
-![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
-
---------------
-![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
-
----------
-![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
-------
-![Government_Business_Reference_Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Government_Business_Reference_Model.svg/1920px-Government_Business_Reference_Model.svg.png)
-
--------------
-![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
-----------
-![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
---------------------
-------------
-![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
-------------
-![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
----------------
-![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
-
----------
-![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
----------
-![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
-----------
-![biz](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/biz.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### [Technology Progress and Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-tech-evolution.md)
-
-[Back to top](#contents)
-
-- [Outline of technology](https://en.wikipedia.org/wiki/Outline_of_technology)
-- [Technological Progress](https://ourworldindata.org/technological-progress)
-- [Technology Adoption](https://ourworldindata.org/technology-adoption)
-- [MIT Breakthrough Technologies](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
-- [Emerging Technologies (2018–2028)](http://winwinweb.co.in/2019/06/28/emerging-technologies/)
-- [emerging technologies list wiki](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-- [Technology, Media, and Telecommunications Predictions 2020](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/technology-media-telecommunications/at-tmt-predictions-2020.pdf)
-- [A Brief View of the Evolution of Technology and Engineering Education](https://www.ics.uci.edu/~ddenenbe/161/A%20Brief%20History%20of%20Technology.pdf)
-- [Techno-optimism for the 2020s](https://noahpinion.substack.com/p/techno-optimism-for-the-2020s)
-- [2020 technology industry outlook](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/technology-industry-outlook.html)
-
-[Back to top](#contents)
-
-------------
-![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
----------
-![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
-----------
-![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
-----------
-![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
-
-------------
------------------
-#### Global Organizations
-
-[Back to top](#contents)
-
-- [Global Company Dataset with over 7+ Million Company profiles](https://www.peopledatalabs.com/company-dataset)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Evolution of Information Technologies
-
-[Back to top](#contents)
-
-
-![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
-------------------
-
-![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 
 [Back to top](#contents)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Technology Industry Value Chain
-
 [Back to top](#contents)
-
-"Technology", in this context, has come to mean primarily electronics-based technology. This can include, for example, business relating to digital electronics, software, and internet-related services, such as e-commerce services -  [Wiki](https://en.wikipedia.org/wiki/Technology_company)
-
- computer hardware, software, electronics, semiconductor, internet, telecom equipment, e-commerce and computer services
- 
-
-
-![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
----------
-![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### [Semiconductor, Electronics, Automotive Tech Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)
-
-----------------
-
-#### [Internet - Telecom Infrastructure Evolution](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)
-
-------------
-
-#### [Digital Transformation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)
-
-----------
-
-#### [Financing Technology Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-capital-investments.md)
-
--------------
-
-#### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
@@ -2384,6 +2394,7 @@ Blockchain Interoperability
 --------------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 
+[Back to top](#contents)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2412,6 +2423,7 @@ Blockchain Interoperability
 ![iflow51](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow51.PNG)
 
 
+[Back to top](#contents)
 
 --------------------
 ----------
@@ -2491,6 +2503,7 @@ Blockchain Interoperability
 ---------
 ![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
 
+[Back to top](#contents)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -4353,10 +4366,16 @@ SAP Portfolio
 ----------
 ![iflow53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow53.PNG)
 
+[Back to top](#contents)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
+#### Digital Technology Skills and Practices
+
+[Back to top](#contents)
+
+Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 	                  - 	.NET Architecture
 	                  - 	.NET Core
@@ -8680,6 +8699,8 @@ SAP Portfolio
 
 -------
 ![New-Cisco-Certification-Pathway-2020](https://i2.wp.com/networkwalks.com/wp-content/uploads/2020/03/New-Cisco-Certification-Pathway-2020.png)
+
+[Back to top](#contents)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
