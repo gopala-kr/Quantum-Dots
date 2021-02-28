@@ -651,25 +651,110 @@ Blockchain Interoperability
           - Bring Your Own Identity
           - Ontologies and Graphs
     -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
-        - ***On the Rise***
+          - ***On the Rise***
+          - GaO Transistors
+          - Lithium-Air Batteries
+          - Aluminum-Air Batteries
+          - Distance Wireless Charging
+          - Immersion Cooling
+          - Printable/Flexible Batteries
+          - Solid-State Lithium-Ion Batteries
+          - Energy Harvesting Using Thermal Gradients
         - ***At the Peak***
+          - AI-Optimized Battery Management
+          - Energy Harvesting From Radio Waves
+          - Wireless Electric Vehicle Charging
+          - Hydrogen Fuel Cells
+          - GaN-on-Silicon Transistors
+          - Energy Harvesting Using Specialized Photocells
+          - Energy Harvesting Using Motion
+          - SiC Transistors
         - ***Sliding Into the Trough***
+          - Silicon-Dominant Anode Batteries
+          - Nanomaterial Supercapacitors
         - ***Climbing the Slope***
+          - Proximity Wireless Charging
+          - Micro Fuel Cells
+          - Extreme Temperature Batteries
         - ***Entering the Plateau*** 
+          - Lithium Iron Phosphate Batteries
+          - Smart Lighting
     -   **[Endpoint Security]()**    :dove:
     -   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
         - ***On the Rise***
+          - Continuous Foresight
+          - DigitalOps
+          - Business Ecosystem Modeling
+          - Things as Customers
+          - Continuous Quality
+          - Continuous Compliance Automation
         - ***At the Peak***
+          - Security Architecture
+          - Strategy Realization Office
+          - Customer Journey Analytics
+          - Digital Ethics
+          - Business Agile
+          - Business Ecosystems
+          - Digital Business Technology Platform
+          - Human-Centered Design
         - ***Sliding Into the Trough***
+          - A Digital Business
+          - Agile Project Management
+          - Business Capability Modeling
+          - Machine Learning
+          - Continuous Delivery
+          - Digital Business Transformation
+          - Digital Twin
+          - Agile Architecture
+          - Business Architecture
+          - Design Thinking
+          - EA Governance
+          - Information Architecture
+          - Solutions Architecture
         - ***Climbing the Slope***
+          - Trendspotting
+          - Architecture Roadmaps
+          - Digital Optimization
+          - Enterprise Architecture
+          - Enterprise Architecture Tools
         - ***Entering the Plateau*** 
+          - Agile Ops
     -   **[Enterprise Information Management]()**    :dove:
     -   **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
         - ***On the Rise***
+          - FACs (NextGen SmartNICs)
+          - Named Data Networking
+          - Wi-Fi 7 (802.11be)
+          - Enhanced Internet Services
+          - SD-Branch
+          - Software-Defined Cloud Interconnect
         - ***At the Peak***
+          - Low Earth Orbit Satellite Systems
+          - Standard Private LTE
+          - Kubernetes Networking
+          - Edge Networking
+          - Multicloud Networking
+          - NVMe-oF
+          - Service Mesh
+          - Secure Access Service Edge (SASE)
+          - 5G Services
+          - 400 Gbps Ethernet
+          - Network On-Demand Services
+          - Network Automation
         - ***Sliding Into the Trough***
+          - Telemetry-Based Routing
+          - Wi-Fi 6 (802.11ax)
+          - Open Networking/OCP Networking
+          - Zero Trust Network Access
+          - Intent-Based Networking
+          - NFV and uCPE
         - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+          - Software-Defined Networking (SDN)
+          - Identity-Based Segmentation (Microsegmentation)
+          - SD-WAN
+          - IPv6
+          - Ethernet Switching Fabric
+          - Cloud-Managed Networks
     -   **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
         - ***On the Rise***
           - Foldables
