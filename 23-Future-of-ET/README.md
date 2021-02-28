@@ -179,6 +179,39 @@
     -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
     -   **[Artificial Intelligence]()**    :dove:
     -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
+        - ***On the Rise***
+          - GaO Transistors 
+          - Lithium-Air Batteries 
+          - Aluminum-Air Batteries 
+          - Copper Foam Batteries 
+          - Solid-State Lithium-Ion Batteries 
+        - ***At the Peak***
+          - AI-Optimized Battery Management 
+          - Wireless Electric Vehicle Charging 
+          - Low Earth Orbit Satellite Systems 
+          - Hydrogen Fuel Cells 
+          - Autonomous Driving Level 5 
+          - GaN-on-Silicon Transistors 4
+          - SiC Transistors 
+        - ***Sliding Into the Trough***
+          - Mono-ECU Architecture 
+          - Automotive Digital Security 
+          - Solid-State 3D Flash Lidar 
+          - Silicon-Dominant Anode Batteries 
+          - Mirrorless Cars 
+          - Autonomous Driving Level 4 
+          - In-Vehicle Ethernet 
+          - Solid-State MEMS Scanning Lidar 
+          - Electric Vehicle Charging Infrastructure 
+          - Vehicle-to-Vehicle Communications 
+          - Driver Monitoring Systems 
+          - Nanomaterial Supercapacitors 
+          - Augmented Reality 
+          -  Over-the-Air Software Updates 
+          - HD Maps 
+        - ***Climbing the Slope***
+          - Head-Up Displays 
+          - High-Brightness Solid-State Headlamps 
     -   **[Back - Office Analytic Applications]()**    :dove:
     -   **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
         - ***On the Rise***
