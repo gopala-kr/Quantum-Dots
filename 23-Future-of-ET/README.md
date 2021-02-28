@@ -1055,7 +1055,7 @@ Blockchain Interoperability
           - Virtual Desktop Infrastructure Monitoring 
           - Network Detection and Response 
         - ***Climbing the Slope***
-        - Network Packet Brokers 
+          - Network Packet Brokers 
           - Application Performance Monitoring Software 
           - Network Performance Monitoring and Diagnostics Tools 
           - IT Service Alerting Tools 
@@ -1070,23 +1070,106 @@ Blockchain Interoperability
     -   **[Life Science Research and Development]()**    :dove:
     -   **[Managing Operational Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_managing_oper_450227.pdf)** 
         - ***On the Rise***
+          - IT/OT Hybrid Servers 
+          - IoT-Enabled Product as a Service 
+          - OT-Applied TAM 
         - ***At the Peak***
+          - Cyber-Physical Systems 
+          - IT/OT/ET Alignment 
+          - Smart Robots 
+          - OT Professional Services 
+          - IT/OT Skilled Workforce 
+          - IoT Services 
         - ***Sliding Into the Trough***
+          - A Digital Business 
+          - Machine Learning 
+          - Digital Twin 
+          - Embedded Software and System Security 
+          - Event Stream Processing 
+          - IoT Platform 
+          - Commercial UAVs (Drones) 
+          - Internet of Things 
+          - Industrial Operational Intelligence 
+          - Operational Technology Security 
         - ***Climbing the Slope***
+          - Building Information Modeling 
+          - IT/OT Integration 
+          - Asset Performance Management 
+          - IT/OT Communications 
+          - Managed IoT Connectivity Services 
+          - System Engineering Software 
+          - IoT Integration 
         - ***Entering the Plateau*** 
+          - Operational Technology Platform Convergence 
+          - Smart Lighting 
     -   **[Manufacturing Operations Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_manufacturing_450325.pdf)** 
         - ***On the Rise***
+          - Modular Operating Model 
+          - 5G for Manufacturing Operations 
+          - Circular Economy 
+          - Agile Teams 
+          - Mobile Factories 
+          - Supply Chain as a Service 
         - ***At the Peak***
+          - Cyber-Physical Systems 
+          - Connected Factory Worker 
+          - Value-Added Manufacturing Services 
+          - Digital Thread 
+          - Solution-Centric Supply Chains 
+          - Autonomous Things — Manufacturing Operations 
+          - Machine Learning 
+          - Immersive Experience in Manufacturing Operations 
         - ***Sliding Into the Trough***
+          - Smart Factory 
+          - Digital Twin 
+          - Digital Operating System 
+          - IT/OT Convergence and Alignment 
+          - Prescriptive Analytics 
+          - Supply Planning 
+          - Supply Chain Convergence 
+          - MOM Application Suites 
+          - Environmental, Social & Governance 
+          - Manufacturing Segmentation 
+          - Cloud Computing in Manufacturing Operations 
+          - Internet of Things — Manufacturing Operations 
+          - 3D Printing in Manufacturing Operations 
+          - Operational Technology Security 
         - ***Climbing the Slope***
+          - Asset Performance Management 
+          - Digital Supply Chain Strategy 
+          - Manufacturing Network Design 
+          - Synchronized BOMs 
+          - Track and Trace and Serialization 
+          - Corporate Production Systems 
+          - Overall Equipment Effectiveness (OEE) 
         - ***Entering the Plateau*** 
+          - Supplier Quality 
     -   **[Midsize Enterprises]()**    :dove:
     -   **[Multienterprise Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_multienterpri_382327.pdf)** 
         - ***On the Rise***
+          - B2B Network Intelligence 
         - ***At the Peak***
+          - Freelancer Management Systems 
+          - API Marketplaces 
+          - Blockchain in Supply Chain 
+          - Smart Contracts 
         - ***Sliding Into the Trough***
+          - Multienterprise Grid Functionality 
+          - Blockchain Consortium 
+          - Returns Management 
+          - Blockchain 
+          - Dynamic Discounting Solutions 
+          - E-Invoicing 
         - ***Climbing the Slope***
+          - Supplier Information Management 
+          - IoT Integration 
+          - QMS Applications 
+          - Supply Chain Visibility 
+          - Global Logistics Visibility 
+          - Procure-to-Pay Suites 
+          - Price Optimization and Management for B2B 
         - ***Entering the Plateau*** 
+          - Digital Commerce SaaS 
     -   **[Natural Language Technologies]()**    :dove:
     -   **[Network Security]()**    :dove:
     -   **[Open-Source Software]()**    :dove:
@@ -1094,30 +1177,158 @@ Blockchain Interoperability
     -   **[Platform as a Service]()**    :dove:
     -   **[Privacy](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_privacy_2020_441605.pdf)** 
         - ***On the Rise***
+          - Confidential Computing 
+          - Data Security Governance 
+          - Homomorphic Encryption 
+          - Privacy in Canada 
+          - Differential Privacy
+          - Subject Rights Requests
+          - Privacy in India
+          - Zero-Knowledge Proofs
+          - 5G Security
+          - Synthetic Data
+          - Blockchain for Data Security
+          - Privacy
         - ***At the Peak***
+          - Data Breach Response
+          - Secure Multiparty Computing
+          - Consent and Preference Management
+          - Decentralized Identity
+          - Digital Ethics
+          - File Analysis
+          - Privacy Impact Assessments
+          - Data Classification
         - ***Sliding Into the Trough***
+          - Format-Preserving Encryption
+          - Personification
+          - Privacy by Design
+          - Privacy in Asia/Pacific
+          - PHI Consent Management
+          - Mobile Threat Defense
+          - Cloud Data Protection Gateways
+          - Privacy Management Tools
         - ***Climbing the Slope***
+          - Data Sanitization
+          - Privacy in Japan
+          - Privacy in Russia
+          - Secure Instant Communications
+          - Privacy in the EU
+          - E-Discovery Software
+          - Privacy in South Korea
+          - Privacy in the U.S
+          - IT Risk Management Solutions
+          - Cloud Access Security Brokers
+          - Dynamic Data Masking
+          - Cloud Application Discovery
+          - Privacy in Latin America
         - ***Entering the Plateau*** 
+          - Database Audit and Protection
+          - Cloud Security Assessments
+          - Database Encryption
     -   **[Procurement and Sourcing Solutions](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_procurement_a_450429.pdf)** 
         - ***On the Rise***
+          - Autonomous Procurement
+          - Tail Spend Procurement
+          - AI-Based E-Sourcing
+          - Category Management Solutions
+          - B2B Network Intelligence
+          - Source-to-Settle Embedded Analytics
+          - Cash Management Solutions
+          - Conversational Platforms in Sourcing and Procurement
         - ***At the Peak***
+            - AP Real-Time Auditing
+          - Freelancer Management Systems
+          - Smart Contracts
+          - Supplier Risk Management
+          - Advanced Contract Analytics
         - ***Sliding Into the Trough***
+          - Multienterprise Grid Functionality
+          - AI-Based Accounts Payable Invoice Automation
+          - RPA in Procurement
+          - SOW Services Procurement Solutions
+          - Procurement Savings Management Solutions
         - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+          - Supplier E-Invoicing
+          - Supplier Information Management
+          - Source-to-Settle Solutions
+          - Contract Life Cycle Management
+          - Procure-to-Pay Suites
     -   **[Project and Portfolio Management]()**    :dove:
     -   **[Real-Time Health System Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_realtime_heal_467856.pdf)** 
         - ***On the Rise***
+          - Digital Health Platform (for Providers).
+          - Real-Time Health System Platform
+          - Digital Twins in Healthcare
+          - Process Simulation Modeling in Healthcare
+          - Next-Generation EMPI
+          - Next-Generation Nurse Call
+          - Real-Time Health System Supply Chain
+          - Care Team Collaboration
         - ***At the Peak***
+          - IoT Security in Healthcare
+          - Next-Generation Contact Center
+          - API Management in Healthcare
+          - Smart Care Venues
+          - IoT in Healthcare
         - ***Sliding Into the Trough***
+          - Experiential Wayfinding
+          - Patient Self-Scheduling
+          - Real-Time Health System Command Center
+          - Real-Time Healthcare Costing
+          - Crisis/Emergency Management Platforms
+          - Patient Privacy Monitoring
+          - Patient Throughput and Capacity Management
         - ***Climbing the Slope***
+          - Clinical Communication and Collaboration
+          - Positive Patient Identification
+          - Health Information Exchange
+          - Healthcare Interoperability
+          - Vendor-Neutral Archive
+          - Patient Self-Service Kiosks
+          - Interactive Patient Care
         - ***Entering the Plateau*** 
+          - Alarms and Notifications
+          - Content Services Platform
+          - Real-Time Location in Healthcare
+          - Medical Device Connectivity
     -   **[Retail Technologies]()**    :dove:
     -   **[Risk Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_risk_manageme_448047.pdf)** 
         - ***On the Rise***
+          - FinDRA
+          - Cybersecurity Maturity Certifications
+          - IT Risk Appetite Statements
+          - Digital Risk Management
+          - Blockchain for Data Security
         - ***At the Peak***
+          - Cyber-Risk Quantification
+          - Breach and Attack Simulation
+          - Application Security Requirements and Threat Management
+          - Privacy Impact Assessments
+          - Security Rating Services
+          - Continuous Controls Monitoring
+          - Data Classification
         - ***Sliding Into the Trough***
+          - Integrated Risk Management
+          - IoT Security
+          - Data and Analytics Governance
+          - Unified Endpoint Management
+          - Business Process Risk Modeling
+          - Environmental, Social & Governance
+          - IT Vendor Risk Management
+          - End-to-End Supply Chain Risk Management
+          - Operational Technology Security
         - ***Climbing the Slope***
+          - Crisis/Emergency Management Solutions
+          - Hazard/Threat Intelligence
+          - IT Risk Management Solutions
+          - Business Continuity Management Program Solutions
+          - Cloud Access Security Brokers
+          - Enterprise Legal Management
+          - Cybersecurity Maturity Assessments
+          - Emergency/Mass Notification Services
+          - Ethics and Compliance Management
         - ***Entering the Plateau*** 
+          - Qualitative Risk Matrices
     -   **[Security Operations]()**    :dove:
     -   **[Semiconductors and Electronics Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_semiconductor_441655.pdf)**
         - **On the Rise**
