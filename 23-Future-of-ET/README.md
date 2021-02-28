@@ -181,6 +181,31 @@
     -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
     -   **[Back - Office Analytic Applications]()**    :dove:
     -   **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
+        - ***On the Rise***
+          - Authenticated Provenance
+          - Blockchain Managed Services
+          - Decentralized Web
+          - Smart Contract Oracle
+          - Postquantum Blockchain
+          - Ledger DBMS
+          - Zero-Knowledge Proofs
+          - Blockchain and IoT
+          - Blockchain for Data Security
+          - Blockchain PaaS
+          - Blockchain UX/UI/Wallet Technologies
+          - Decentralized Applications
+        - ***At the Peak***
+          - Layer 2 Solutions (Sidechains, Channels)
+          - Blockchain Asset Tokenization
+Blockchain Interoperability
+          - Consensus Mechanisms
+          - Secure Multiparty Computing
+          - Smart Contracts
+          - Decentralized Identity
+          - Blockchain Platforms
+          - Tokenization
+        - ***Sliding Into the Trough***
+          - Blockchain
     -   **[Business Process Services]()**    :dove:
     -   **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
         - ***On the Rise***
