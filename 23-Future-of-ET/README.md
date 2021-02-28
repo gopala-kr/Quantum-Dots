@@ -30,6 +30,9 @@
 -----
 ![BogusElatedHectorsdolphin-small](https://thumbs.gfycat.com/BogusElatedHectorsdolphin-small.gif)
 
+------
+![kneo](https://github.com/gopala-kr/trending-repos/blob/master/photons/kneo.gif)
+
 -------
 ![2C_Earth_and_Moon_around_the_Milky_Way](https://upload.wikimedia.org/wikipedia/commons/b/b8/Motion_of_Sun%2C_Earth_and_Moon_around_the_Milky_Way.jpg)
 
@@ -58,6 +61,8 @@
       - Space
       - Airline
     - Automotive
+      - [Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)
+      - Product/Services:
     - Government & Public Services
       - Defence
     - Finance
@@ -902,6 +907,13 @@
 ![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
 ----------
 ![biz](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/biz.png)
+
+-------
+--------------------
+![world_population](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/world_population.PNG)
+
+--------------
+![TimelineEconomicHistory-5c3b-f9fb](https://cdn.howmuch.net/articles/TimelineEconomicHistory-5c3b-f9fb.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
