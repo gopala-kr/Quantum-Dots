@@ -324,6 +324,50 @@ Blockchain Interoperability
           - MDM of Customer Data
           - MDM of Product Data
     -   **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
+        - ***On the Rise***
+          - DataOps 
+          - Ledger DBMS 
+        - ***At the Peak***
+          - Augmented Data Quality 
+          - Cloud Data Ecosystems 
+          - Private Cloud dbPaaS 
+          - Distributed Transactional Databases 
+          - Data Fabric 
+          - Data Hub Strategy 
+          - Data Catalog 
+          - File Analysis 
+          - Data Classification 
+        - ***Sliding Into the Trough***
+          - Augmented Transactions 
+          - Information Stewardship Applications 
+          - Event Stream Processing 
+          - Metadata Management Solutions 
+          - Application Data Management 
+          - Augmented Data Management 
+          - Graph DBMSs 
+          - Blockchain 
+          - SQL Interfaces to Cloud Object Stores 
+          - Data Lakes 
+          - Master Data Management 
+        - ***Climbing the Slope***
+          - Data Preparation Tools 
+          - Time Series DBMS 
+          - In-DBMS Analytics 
+          - iPaaS for Data Integration 
+          - Multimodel DBMSs 
+          - SQL Interfaces to Hadoop 
+          - Data Integration Tools 
+          - Operational In-Memory DBMS 
+          - Wide-Column DBMSs 
+        - ***Entering the Plateau*** 
+          - Apache Spark 
+          - Logical Data Warehouse 
+          - Content Migration 
+          - Data Virtualization 
+          - Database Audit and Protection 
+          - Database Encryption 
+          - Document Store DBMSs 
+          - In-Memory Data Grids 
     -   **[Data Science and Machine Learning]()**    :dove:
     -   **[Data Security]()**    :dove:
     -   **[Digital Advertising]()**    :dove:
