@@ -1103,7 +1103,7 @@
    - **[Enterprise Tech Landscape](#enterprise-tech-landscape)**
    - **[Beyond the Digital Frontier](#beyond-the-digital-frontier)**
    - **[MIT Breakthrough Technologies](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
-     - [2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)
+     - **[2021](https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/)**
        - Messenger RNA vaccines
        - GPT-3
        - TikTok recommendation algorithms
@@ -1114,7 +1114,7 @@
        - Hyper-accurate positioning
        - Remote everything
        - Multi-skilled AI
-     - [2020](https://www.technologyreview.com/10-breakthrough-technologies/2020/)
+     - **[2020](https://www.technologyreview.com/10-breakthrough-technologies/2020/)**
        - Unhackable internet
        - Hyper-personalized medicine
        - Digital money
@@ -1125,6 +1125,203 @@
        - Tiny AI
        - Differential privacy
        - Climate change attribution
+     - **[2019](https://www.technologyreview.com/10-breakthrough-technologies/2019/)**
+       - Robot dexterity
+       - New-wave nuclear power
+       - Predicting preemies
+       - Gut probe in a pill
+       - Custom cancer vaccines
+       - The cow-free burger
+       - Carbon dioxide catcher
+       - An ECG on your wrist
+       - Sanitation without sewers
+       - Smooth-talking AI assistants
+     - **[2018](https://www.technologyreview.com/10-breakthrough-technologies/2018/)**
+       - 3-D Metal Printing
+       - Artificial Embryos
+       - Sensing City
+       - AI for Everybody
+       - Dueling Neural Networks
+       - Babel-Fish Earbuds
+       - Zero-Carbon Natural Gas
+       - Perfect Online Privacy
+       - Genetic Fortune-Telling
+       - Materials’ Quantum Leap
+     - **[2017](https://www.technologyreview.com/10-breakthrough-technologies/2017/)**
+       - Reversing Paralysis
+       - Self-Driving Trucks
+       - Paying with Your Face
+       - Practical Quantum Computers
+       - The 360-Degree Selfie
+       - Hot Solar Cells
+       - Gene Therapy 2.0
+       - The Cell Atlas
+       - Botnets of Things
+       - Reinforcement Learning
+     - **[2016](https://www.technologyreview.com/10-breakthrough-technologies/2016/)**
+       - Immune Engineering
+       - Precise Gene Editing in Plants
+       - Conversational Interfaces
+       - Reusable Rockets
+       - Robots That Teach Each Other
+       - DNA App Store
+       - SolarCity’s Gigafactory
+       - Slack
+       - Tesla Autopilot
+       - Power from the Air
+     - **[2015](https://www.technologyreview.com/10-breakthrough-technologies/2015/)**
+       - Magic Leap
+       - Nano-Architecture
+       - Car-to-Car Communication
+       - Project Loon
+       - Liquid Biopsy
+       - Megascale Desalination
+       - Apple Pay
+       - Brain Organoids
+       - Supercharged Photosynthesis
+       - Internet of DNA
+     - **[2014](https://www.technologyreview.com/10-breakthrough-technologies/2014/)**
+       - Agricultural Drones
+       - Ultraprivate Smartphones
+       - Brain Mapping
+       - Neuromorphic Chips
+       - Genome Editing
+       - Microscale 3-D Printing
+       - Mobile Collaboration
+       - Oculus Rift
+       - Agile Robots
+       - Smart Wind and Solar Power
+     - **[2013](https://www.technologyreview.com/10-breakthrough-technologies/2013/)**
+       - Smart Watches
+       - Ultra-Efficient Solar Power
+       - Memory Implants
+       - Prenatal DNA Sequencing
+       - Deep Learning
+       - Additive Manufacturing
+       - Big Data from Cheap Phones
+       - Temporary Social Media
+       - Supergrids
+       - Baxter: The Blue-Collar Robot
+     - **[2012](https://www2.technologyreview.com/tr10/?year=2012)**
+       - Egg Stem Cells
+       - A Faster Fourier Transform
+       - Ultra-Efficient Solar
+       - Nanopore Sequencing
+       - Light-Field Photography
+       - Crowdfunding
+       - Solar Microgrids
+       - High-Speed Materials Discovery
+       - 3-D Transistors
+       - Facebook's Timeline
+     - **[2011](https://www2.technologyreview.com/tr10/?year=2011)**
+       - Social Indexing
+       - Homomorphic Encryption
+       - Smart Transformers
+       - Cloud Streaming 
+       - Gestural Interfaces
+       - Crash-Proof Code
+       - Cancer Genomics
+       - Separating Chromosomes
+       - Solid-State Batteries 
+       - Synthetic Cells 
+     - **[2010](https://www2.technologyreview.com/tr10/?year=2010)**
+       - Real-Time Search 
+       - Social TV
+       - Mobile 3-D
+       - Green Concrete
+       - Engineered Stem Cells
+       - Implantable Electronics
+       - Solar Fuel 
+       - Dual-Action Antibodies 
+       - Light-Trapping Photovoltaics
+       - Cloud Programming 
+     - **[2009](https://www2.technologyreview.com/tr10/?year=2009)**
+       - Intelligent Software Assistant 
+       - Liquid Battery 
+       - $100 Genome
+       - Traveling-Wave Reactor
+       - Racetrack Memory
+       - Nanopiezoelectronics 
+       - Biological Machines
+       - HashCache
+       - Paper Diagnostics
+       - Software-Defined Networking 
+     - **[2008](https://www2.technologyreview.com/tr10/?year=2008)**
+       - Modeling Surprise
+       - Offline Web Applications 
+       - Probabilistic Chips 
+       - Graphene Transistors 
+       - NanoRadio 
+       - Connectomics 
+       - Wireless Power 
+       - Reality Mining 
+       - Atomic Magnetometers 
+       - Cellulolytic Enzymes 
+     - **[2007](https://www2.technologyreview.com/tr10/?year=2007)**
+       - Peering into Video's Future
+       - A New Focus for Light
+       - Nanocharging Solar
+       - Neuron Control
+       - Invisible Revolution
+       - Nanohealing
+       - Personalized Medical Monitors
+       - Digital Imaging, Reimagined
+       - Single-Cell Analysis
+       - Augmented Reality
+     - **[2006](https://www2.technologyreview.com/tr10/?year=2006)**
+       - Nanomedicine
+       - Cognitive Radio
+       - Nanobiomechanics
+       - Pervasive Wireless
+       - Epigenetics
+       - Universal Authentication
+       - Comparative Interactomics
+       - Nuclear Reprogramming
+       - Diffusion Tensor Imaging
+       - Stretchable Silicon
+     - **[2005]()**
+       - Airborne Networks
+       - Quantum Wires
+       - Silicon Photonics
+       - Metabolomics
+       - Magnetic-Resonance Force Microscopy
+       - Universal Memory
+       - Bacterial Factories
+       - Enviromatics
+       - Cell-Phone Viruses
+       - Biomechatronics 
+     - **[2004](http://www2.technologyreview.com/news/402435/10-emerging-technologies-that-will-change-your/)**
+       - Universal Translation
+       - Synthetic Biology
+       - Nanowires
+       - T-Rays
+       - Distributed Storage
+       - RNAi Interference
+       - Power Grid Control
+       - Microfluidic Optical Fibers
+       - Bayesiam Machine Learning
+     - **[2003](http://www2.technologyreview.com/news/401775/10-emerging-technologies-that-will-change-the/2/)**
+       - Wireless Sensor Networks
+       - Injectable Tissue Engineering
+       - Nano Solar Cells
+       - Mechatronics
+       - Grid Computing
+       - Molecular Imaging
+       - Nanoimprint Lithography
+       - Software Assurance
+       - Glycomics
+       - Quantum Cryptography
+     - **[2001-2](https://wp.technologyreview.com/wp-content/uploads/2021/02/MIT-Technology-Review-2001-TR10.pdf?_ga=2.153103608.1180029176.1614440008-195746145.1614440008)**
+       - Brain-Machine Interfaces
+       - Flexible Transistors
+       - Data Mining
+       - Digital Rights Management
+       - Biometrics
+       - Natural Language Processing
+       - Microphotonics
+       - Untangling Code
+       - Robot Design
+       - MicroFluidics
 
 [Back to top](#contents)
   
