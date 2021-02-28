@@ -492,6 +492,40 @@ Blockchain Interoperability
           - Cloud Office
           - Content Collaboration Tools
     -   **[Display and Vision](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
+        - ***On the Rise***
+          - Immersive Workspaces
+          - Lensless Camera
+          - Smart Contact Lenses
+        - ***At the Peak***
+          - Sound-Emitting Display
+          - Micro-LED
+          - Transparent Displays
+          - Mini-LED
+          - Volumetric Displays
+        - ***Sliding Into the Trough***
+          - Solid-State 3D Flash Lidar
+          - 3D Sensing Cameras
+          - In-Display Optical Fingerprint
+          - Mirrorless Cars
+          - Mixed Reality
+          - Quantum Dots in Displays
+          - Smart Mirrors
+          - Computer Vision
+          - Driver Monitoring Systems
+          - Augmented Reality
+          - Head-Mounted Displays
+          - Virtual Reality
+          - Flexible Display
+        - ***Climbing the Slope***
+          - Autonomous Vehicle Perception System
+          - Digital Instrument Cluster
+          - Group Interactive Displays
+          - Ultrasonic Fingerprint Sensors
+          - Face Recognition
+          - AMOLED-Based Microdisplay
+        - ***Entering the Plateau*** 
+          - AMOLED
+          - Head-Up Displays
     -   **[Drones and Mobile Robots](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_drones_and_mo_441649.pdf)**
         - ***On the Rise***
           - Robot Knowledge Sharing
@@ -584,10 +618,38 @@ Blockchain Interoperability
     -   **[Embedded Software and Systems]()**    :dove:
     -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
         - ***On the Rise***
+          - Authenticated Provenance
+          - AI-Augmented Design
+          - DNA Computing and Storage
+          - Low-Cost Single-Board Computers at the Edge
+          - Self-Supervised Learning
+          - Health Passport
+          - Bidirectional Brain-Machine Interface
+          - Generative Adversarial Networks
+          - Biodegradable Sensors
+          - Differential Privacy
+          - Private 5G
+          - Small Data
+          - Adaptive ML
+          - Composite AI
+          - Generative AI
+          - Packaged Business Capabilities
+          - Citizen Twin
+          - Digital Twin of the Person
+          - Multiexperience
+          - Responsible AI
+          - AI-Augmented Development
+          - Composable Enterprise
         - ***At the Peak***
+          - Data Fabric
+          - Embedded AI
+          - Secure Access Service Edge (SASE)
+          - Social Distancing Technologies
+          - Explainable AI
         - ***Sliding Into the Trough***
-        - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+          - Carbon-Based Transistors
+          - Bring Your Own Identity
+          - Ontologies and Graphs
     -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
         - ***On the Rise***
         - ***At the Peak***
