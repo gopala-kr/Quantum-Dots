@@ -15,49 +15,6 @@
 -----
 ![3196102_earth](https://www.teahub.io/photos/full/319-3196102_earth-4k.jpg)
 
-------
-![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
-
----------
-![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
-
--------
-![debris_1024_2020](https://www.sciencealert.com/images/2020-10/space-debris_1024.gif)
-
------
-
-![cosmos](https://github.com/gopala-kr/trending-repos/blob/master/photons/cosmos.gif)
-
-----------------------------------
-![Orbit_V02](https://cdn.kqed.org/wp-content/uploads/sites/35/2016/08/Orbit_V02.gif)
-
------
-![BogusElatedHectorsdolphin-small](https://thumbs.gfycat.com/BogusElatedHectorsdolphin-small.gif)
-
-------
-![kneo](https://github.com/gopala-kr/trending-repos/blob/master/photons/kneo.gif)
-
-------
-![exo](https://github.com/gopala-kr/trending-repos/blob/master/photons/exo.gif)
-
--------
-![2C_Earth_and_Moon_around_the_Milky_Way](https://upload.wikimedia.org/wikipedia/commons/b/b8/Motion_of_Sun%2C_Earth_and_Moon_around_the_Milky_Way.jpg)
-
-------
-![ou_map](https://github.com/gopala-kr/trending-repos/blob/master/photons/ou_map.jpg)
-
---------------
-------
-
-[paths](https://globe4r.john-coene.com/paths)
-
-![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
-
------
-Quantum Internet
-
-![Quantum-Internet](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Quantum-Internet.gif)
-
 --------
 ![a841320b97bddfde2e3728ec7ce378aa](https://i.pinimg.com/originals/a8/41/32/a841320b97bddfde2e3728ec7ce378aa.jpg)
 
@@ -10022,6 +9979,7 @@ RPA
 
 ---------
 ![photons](https://github.com/gopala-kr/trending-repos/blob/master/photons/disruptors.PNG)
+
 ----------
 ![12_Years_Techtrends](https://github.com/gopala-kr/trending-repos/blob/master/photons/12_Years_Techtrends.PNG)
 
@@ -10037,6 +9995,50 @@ RPA
 2193
 
 ![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
+
+----------------
+------
+![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+
+---------
+![maxresdefault](https://i.ytimg.com/vi/GtNVSTJUg2s/maxresdefault.jpg)
+
+-------
+![debris_1024_2020](https://www.sciencealert.com/images/2020-10/space-debris_1024.gif)
+
+-----
+
+![cosmos](https://github.com/gopala-kr/trending-repos/blob/master/photons/cosmos.gif)
+
+----------------------------------
+![Orbit_V02](https://cdn.kqed.org/wp-content/uploads/sites/35/2016/08/Orbit_V02.gif)
+
+-----
+![BogusElatedHectorsdolphin-small](https://thumbs.gfycat.com/BogusElatedHectorsdolphin-small.gif)
+
+------
+![kneo](https://github.com/gopala-kr/trending-repos/blob/master/photons/kneo.gif)
+
+------
+![exo](https://github.com/gopala-kr/trending-repos/blob/master/photons/exo.gif)
+
+-------
+![2C_Earth_and_Moon_around_the_Milky_Way](https://upload.wikimedia.org/wikipedia/commons/b/b8/Motion_of_Sun%2C_Earth_and_Moon_around_the_Milky_Way.jpg)
+
+------
+![ou_map](https://github.com/gopala-kr/trending-repos/blob/master/photons/ou_map.jpg)
+
+--------------
+------
+
+[paths](https://globe4r.john-coene.com/paths)
+
+![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
+
+-----
+Quantum Internet
+
+![Quantum-Internet](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Quantum-Internet.gif)
 
 -------
 ![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
