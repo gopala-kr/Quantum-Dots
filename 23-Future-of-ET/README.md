@@ -28,41 +28,45 @@
   - **Vintage**
   - **Evolution from Medieval**
   - **Evolved + Contemporary**
-    - Aerospace
+    - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**
       - Space
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
       - Airline
-    - Automotive
-      - [Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)
-      - Product/Services:
-    - Government & Public Services
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+    - **[Automotive](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/m.md)**
+      - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+      - ***Product/Services:***
+    - **Government & Public Services**
       - Defence
-    - Finance
+    - **Finance**
       - Capital Markets
       - Banking
       - Insurance
       - Real Estate
       - FinTech
-    - HighTech
+    - **HighTech**
       - Semiconductor
       - Biotech
       - Medtech
-    - Telecommunication
-    - Media & Entertainment
-    - Travel
+    - **Telecommunication**
+    - **Media & Entertainment**
+    - **Travel**
       - Tourism
       - Freight/Cargo(Air/Ship/Ground)
       - Transportation, Hospitality Services
-    - Energy
+    - **Energy**
       - Oil & Gas
-    - Chemicals
-    - Consulting & Services
+    - **Chemicals**
+    - **Consulting & Services**
       - Management
       - Technology & Engineering
       - Business Process Outsourcing 
-    - Consumer Tech
-    - Retail
-    - Healthcare
-    - Life Sciences
+    - **Consumer Tech**
+    - **Retail**
+    - **Healthcare**
+    - **Life Sciences**
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Planets?
@@ -90,7 +94,7 @@
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
-  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2019-20-21 Hype Cycles)
+  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Tech)** -- Analysis on Gartner-2019-20-21 Hype Cycles
   - **[Digital Technology Skills and Practices](#technology-skills-and-practices)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
@@ -8616,6 +8620,20 @@ RPA
 
 ![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
 
+-----
+
+[paths](https://globe4r.john-coene.com/paths)
+
+![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
+
+-----
+Quantum Internet
+
+![Quantum-Internet](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Quantum-Internet.gif)
+
+-------
+![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
+
 ----------------
 ------
 ![Comparison_satellite_navigation_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
@@ -8649,20 +8667,6 @@ RPA
 ![ou_map](https://github.com/gopala-kr/trending-repos/blob/master/photons/ou_map.jpg)
 
 --------------
-------
-
-[paths](https://globe4r.john-coene.com/paths)
-
-![466b4c769672b0642af814ac73951c91](https://i.pinimg.com/originals/46/6b/4c/466b4c769672b0642af814ac73951c91.jpg)
-
------
-Quantum Internet
-
-![Quantum-Internet](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Quantum-Internet.gif)
-
--------
-![58d44fe4bd8b83b76db8f95ab967624d](https://i.pinimg.com/originals/58/d4/4f/58d44fe4bd8b83b76db8f95ab967624d.jpg)
-
 -----------
 
 ![k_scale1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cccg/k_scale1.PNG)
