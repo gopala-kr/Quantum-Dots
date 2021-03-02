@@ -39,17 +39,27 @@
       - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
       - ***Product/Services:***
     - **Government & Public Services**
-      - Defence
-    - **Finance**
-      - Capital Markets
-      - Banking
-      - Insurance
-      - Real Estate
-      - FinTech
+      - **Defence**
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+    - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
+      - **Capital Markets**
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+      - **Banking**
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+      - **Insurance**
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+      - **Real Estate**
+      - **FinTech**
     - **HighTech**
-      - Semiconductor
-      - Biotech
-      - Medtech
+      - **Semiconductor**
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
+      - **Biotech**
+      - **Medtech**
     - **Telecommunication**
     - **Media & Entertainment**
     - **Travel**
