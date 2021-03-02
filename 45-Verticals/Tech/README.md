@@ -364,8 +364,8 @@ Blockchain Interoperability
           - Database Audit and Protection 
           - Database Encryption 
           - Document Store DBMSs 
-          - In-Memory Data Grids 
-    -   **[Data Science and Machine Learning]()**    :dove:
+          - In-Memory Data Grids
+    -   **[Data Science and Machine Learning]()**     :dove:
     -   **[Data Security]()**    :dove:
     -   **[Digital Advertising]()**    :dove:
     -   **[Digital Care Delivery Including Telemedicine and Virtual Care]()**    :dove:
