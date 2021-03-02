@@ -12,3 +12,16 @@
 - [Airbus cuts aircraft production by a third, Financial Times, April 8, 2020](https://www.ft.com/content/21c7b4c3-6564-492d-9904-989219898cd5)
 - [Deeper pay cuts for SIA Engineering management, Strait Times, April 2, 2020](https://www.straitstimes.com/business/companies-markets/deeper-pay-cuts-for-sia-engineering-management-to-mitigate-covid-19)
 - [Mitsubishi Heavy expects coronavirus to wipe out profit, Nikkei Asia, May 11, 2020](https://asia.nikkei.com/Business/Aerospace-Defense/Mitsubishi-Heavy-expects-coronavirus-to-wipe-out-profit)
+
+
+-------------
+
+https://www.airforcemag.com/what-a-biden-administration-means-for-defense/ 
+Https://www.defensenews.com/global/europe/2020/11/12/airbus-hopes-its-65-billion-german-eurofighter-sale-will-shine-for-switzerland-finland/ 
+https://www.defensenews.com/global/europe/2020/10/19/britain-unveils-strategy-to-gain-a-technological-advantage-over-adversaries/
+https://english.alarabiya.net/en/features/2016/04/26/Full-text-of-Saudi-Arabia-s-Vision-2030
+https://www.janes.com/defence-news/news-detail/defence-spending-in-asia-largely-unaffected-by-covid-19-says-janes
+https://aviationweek.com/awin-knowledge-center/aviation-week-forecasts-military-aircraft-mro-trillion-dollar-market
+https://dgap.org/en/research/publications/covid-19-and-european-defense 
+
+
