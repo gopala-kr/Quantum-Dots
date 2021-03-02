@@ -16,12 +16,13 @@
 
 -------------
 
-https://www.airforcemag.com/what-a-biden-administration-means-for-defense/ 
-Https://www.defensenews.com/global/europe/2020/11/12/airbus-hopes-its-65-billion-german-eurofighter-sale-will-shine-for-switzerland-finland/ 
-https://www.defensenews.com/global/europe/2020/10/19/britain-unveils-strategy-to-gain-a-technological-advantage-over-adversaries/
-https://english.alarabiya.net/en/features/2016/04/26/Full-text-of-Saudi-Arabia-s-Vision-2030
-https://www.janes.com/defence-news/news-detail/defence-spending-in-asia-largely-unaffected-by-covid-19-says-janes
-https://aviationweek.com/awin-knowledge-center/aviation-week-forecasts-military-aircraft-mro-trillion-dollar-market
-https://dgap.org/en/research/publications/covid-19-and-european-defense 
+- https://www.airforcemag.com/what-a-biden-administration-means-for-defense/ 
+- Https://www.defensenews.com/global/europe/2020/11/12/airbus-hopes-its-65-billion-german-eurofighter-sale-will-shine-for-switzerland-finland/ 
+- https://www.defensenews.com/global/europe/2020/10/19/britain-unveils-strategy-to-gain-a-technological-advantage-over-adversaries/
+- https://english.alarabiya.net/en/features/2016/04/26/Full-text-of-Saudi-Arabia-s-Vision-2030
+- https://www.janes.com/defence-news/news-detail/defence-spending-in-asia-largely-unaffected-by-covid-19-says-janes
+- https://aviationweek.com/awin-knowledge-center/aviation-week-forecasts-military-aircraft-mro-trillion-dollar-market
+- https://dgap.org/en/research/publications/covid-19-and-european-defense 
 
-
+--------
+-----------------
