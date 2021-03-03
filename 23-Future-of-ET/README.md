@@ -2541,6 +2541,7 @@ Client Demo/Transformation Journey Tools/:
 - [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
 - [Developer Insights 2020 Survey Results](https://developers.sap.com/insights-survey-results.html)
 - [LearningHubLiveSessions](https://cdn.training.sap.com/cdn/pdf/LearningHubLiveSessions.pdf)
+- [LH Editions](SAP Learning Hub, solution editions) | [LH Catalogue](https://url.sap/p8vl2j)
 - [User Enablement - Interactive](https://blogs.sap.com/2017/03/12/key-and-end-user-enablement/)
 - [SAP Cheat Sheet-2020](https://blogs.sap.com/2020/11/12/sap-cheat-sheet-special-edition-sap-teched-in-2020/)
 - [SAP (HANA) Cheat Sheet](https://blogs.sap.com/2020/05/09/sap-hana-cheat-sheet/)
@@ -8654,12 +8655,12 @@ Quantum Internet
 -------
 ![debris_1024_2020](https://www.sciencealert.com/images/2020-10/space-debris_1024.gif)
 
------
 
-![cosmos](https://github.com/gopala-kr/trending-repos/blob/master/photons/cosmos.gif)
 
 ----------------------------------
 ![Orbit_V02](https://cdn.kqed.org/wp-content/uploads/sites/35/2016/08/Orbit_V02.gif)
+
+
 
 -----
 ![BogusElatedHectorsdolphin-small](https://thumbs.gfycat.com/BogusElatedHectorsdolphin-small.gif)
@@ -8675,6 +8676,9 @@ Quantum Internet
 
 ------
 ![ou_map](https://github.com/gopala-kr/trending-repos/blob/master/photons/ou_map.jpg)
+-----
+
+![cosmos](https://github.com/gopala-kr/trending-repos/blob/master/photons/cosmos.gif)
 
 --------------
 -----------
