@@ -1361,12 +1361,12 @@
     
 ------------------------------------------------------------------------------------------------------------------------------
 
-- **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
-        - ***On the Rise***
-        - ***At the Peak***
-        - ***Sliding Into the Trough***
-        - ***Climbing the Slope***
-        - ***Entering the Plateau*** 
+-  **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
+     - ***On the Rise***
+     - ***At the Peak***
+     - ***Sliding Into the Trough***
+     - ***Climbing the Slope***
+     - ***Entering the Plateau*** 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -1420,46 +1420,46 @@
 ------------------------------------------------------------------------------------------------------------------------------
 	
 - **[Strategic Technology Trends]()**    :dove:
-        - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
-        - ***Trend No. 1: Hyperautomation***
-          - RPA and iBPMS Are Key Components of Hyperautomation
-          - The Digital Twin of an Organization
-          - Machine Learning and NLP Explode the Range of Hyperautomation Possibilities
-        - ***Trend No. 2: Multiexperience***
-          - Immersive Experiences
-          - The Language Factor
-          - The Multiexperience Development Platform
-        - ***Trend No. 3: Democratization***
-          - Democratization of Application Development
-          - Low-Code, No-Code and the Citizen Developer
-          - Augmented Analytics and the Citizen Data Scientist
-          - Dealing With Shadow AI
-        - ***Trend No. 4: Human Augmentation***
-          - Cognitive and Physical Augmentation
-          - Cultural and Ethical Aspects of Human Augmentation
-        - ***Trend No. 5: Transparency and Traceability***
-          - Explainable and Ethical AI and Algorithms
-          - Data Privacy, Ownership and Control
-          - Best Practices and Regulations Are Emerging
-        - ***Trend No. 6: The Empowered Edge***
-          - Data, Analytics and AI at the Edge
-          - Communicating to the Edge — The Role of 5G
-          - Digital Twin of Things at the Edge
-        - ***Trend No. 7: Distributed Cloud***
-          - Distributed Cloud Delivers on the Hybrid Cloud Promise
-          - Getting to Distributed Cloud
-          - The Edge Effect
-        - ***Trend No. 8: Autonomous Things***
-          - Common Technology Capabilities
-          - Combining Autonomous Capabilities and Human Control
-          - Autonomous, Intelligent and Collaborative
-        - ***Trend No. 9: Practical Blockchain***
-          - Blockchain Will Be Scalable by 2023
-          - Blockchain Use Cases
-        - ***Trend No. 10: AI Security***
-          - Protecting AI-Powered Systems
-          - Leveraging AI to Enhance Cybersecurity Defense
-          - Anticipating Nefarious Use of AI by Attackers
+  - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
+  - ***Trend No. 1: Hyperautomation***
+    - RPA and iBPMS Are Key Components of Hyperautomation
+     - The Digital Twin of an Organization
+    - Machine Learning and NLP Explode the Range of Hyperautomation Possibilities
+  - ***Trend No. 2: Multiexperience***
+    - Immersive Experiences
+    - The Language Factor
+    - The Multiexperience Development Platform
+  - ***Trend No. 3: Democratization***
+    - Democratization of Application Development
+    - Low-Code, No-Code and the Citizen Developer
+    - Augmented Analytics and the Citizen Data Scientist
+    - Dealing With Shadow AI
+  - ***Trend No. 4: Human Augmentation***
+    - Cognitive and Physical Augmentation
+    - Cultural and Ethical Aspects of Human Augmentation
+  - ***Trend No. 5: Transparency and Traceability***
+    - Explainable and Ethical AI and Algorithms
+    - Data Privacy, Ownership and Control
+    - Best Practices and Regulations Are Emerging
+  - ***Trend No. 6: The Empowered Edge***
+    - Data, Analytics and AI at the Edge
+    - Communicating to the Edge — The Role of 5G
+    - Digital Twin of Things at the Edge
+  - ***Trend No. 7: Distributed Cloud***
+    - Distributed Cloud Delivers on the Hybrid Cloud Promise
+    - Getting to Distributed Cloud
+    - The Edge Effect
+  - ***Trend No. 8: Autonomous Things***
+    - Common Technology Capabilities
+     - Combining Autonomous Capabilities and Human Control
+    - Autonomous, Intelligent and Collaborative
+  - ***Trend No. 9: Practical Blockchain***
+    - Blockchain Will Be Scalable by 2023
+    - Blockchain Use Cases
+  - ***Trend No. 10: AI Security***
+    - Protecting AI-Powered Systems
+    - Leveraging AI to Enhance Cybersecurity Defense
+    - Anticipating Nefarious Use of AI by Attackers
 
 [Back to top](#contents)
 
