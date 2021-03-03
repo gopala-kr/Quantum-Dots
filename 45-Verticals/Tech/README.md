@@ -1,7 +1,7 @@
 ---------------
 ----------------
 
-  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Technology)** (Analyzing Gartner-2019-20-21 Hype Cycles)
+  - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Tech)** (Analyzing Gartner-2019-20-21 Hype Cycles)
   
    -   **[Agile and DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_agile_and_dev_441807.pdf)**
         - **On the Rise**
@@ -38,7 +38,9 @@
           - Continuous Configuration Automation
         - **Entering the Plateau**
           - Agile Ops
-    -   **[Analytics and Business Intelligence]()**   :dove:
+  -----------------------------------------------------------------------------
+  
+   -   **[Analytics and Business Intelligence]()**   :dove:
         - ***On the Rise***
         - ***At the Peak***
         - ***Sliding Into the Trough***
@@ -62,7 +64,9 @@
           - Public APIs
           - API Economy
           - Cloud Computing
-    -   **[Application and Integration Infrastructure]()**    :dove:
+   -----------------------------------------------------------------------------
+   
+   - Apption and Integration Infrastructure]()**    :dove:
     -   **[Application Architecture and Development]()**   :dove:
     -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
         - ***On the Rise***
@@ -103,7 +107,10 @@
           - Work-From-Home Agent Technology 
           - Application Security Testing Suite 
           - DevOps 
-    -   **[Artificial Intelligence]()**    :dove:
+
+   -----------------------------------------------------------------------------
+   
+    - **[Artificial Intelligence]()**    :dove:
     -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
         - ***On the Rise***
           - GaO Transistors 
