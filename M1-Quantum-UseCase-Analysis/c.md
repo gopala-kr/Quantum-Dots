@@ -11,6 +11,31 @@ A key envisioned use is simulating molecular properties. In the long run, this c
 Quantum chemistry attempts to understand the complicated bonds and reactions of molecules with the help of quantum mechanics. Many details of chemical processes cannot be simulated even with the largest and fastest supercomputers. By modeling these processes with the help of quantum computers, scientists expect a better understanding of chemical bonds and reactions to apply to drug discovery, materials science and medicine. 
 Characteristics![image](https://user-images.githubusercontent.com/4322266/109883792-d74a8300-7c73-11eb-8e26-560294d2c7c3.png)
 
+
+Quantum computing has the potential to help design new materials and industrial processes by precisely predicting the behavior of molecules, or even discovering new molecules. This could lead to the design of more efficient electric car batteries, new drug discovery, better artificial fertilizer production, carbon capture for air pollution, among so many other things. Quantum algorithms are the tools that tell quantum computers what to do; Trotter-type algorithms, for example, are used for molecular simulation or comparison, however their susceptibility to noise means that these applications won’t be practical for many years. In the meantime, the performances of classical algorithms are being enhanced by creating new, quantum-inspired algorithms.
+![image](https://user-images.githubusercontent.com/4322266/109885053-d3b7fb80-7c75-11eb-9365-f577ca3599e3.png)
+
+
+Quantum-inspired molecular comparison refers to the use of structural molecular comparison algorithms that can be implemented and run on conventional computers, whose design is inspired by concepts from quantum information processing. Molecular comparison is a crucial part of early-phase drug design and discovery that involves intensive computational methods to review molecule matches and predict the positive effects of a therapy or drug while reducing negative side effects. 
+Characteristics
+
+Quantum-inspired methods use parallelization and problem-reformulation in algorithms and hardware
+Enhance classical computing using quantum-inspired algorithms (not fully-quantum).
+Perform graph similarity; compare two or more graphs to detect common patterns (e.g. find shared traits in molecules).
+![image](https://user-images.githubusercontent.com/4322266/109885104-e16d8100-7c75-11eb-9b31-a7f9be62ea28.png)
+
+
+
+Quantum-inspired algorithms will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing.
+Solve real life problems faster than classical algorithms. Potential to analyze larger-scale molecules more quickly and cost effectively.
+Predict the positive effects of a therapy or drug while reducing negative side effects. 
+![image](https://user-images.githubusercontent.com/4322266/109885143-f21df700-7c75-11eb-8061-151ac78d5934.png)
+
+
+
+Today, it takes pharmaceutical companies at least 10 years and often billions of dollars to discover a new drug and bring it to market. Improving the front end of the process with quantum computing has the potential to  dramatically cut costs and time to market, repurpose pre-approved drugs more easily for new applications, and empower computational chemists to make new discoveries faster that could lead to cures for a range of diseases. Furthermore, the quantum simulation of chemical processes could in the future help solve problems in chemistry and thus, for example, give new impulses for materials science, medicine, and industrial chemistry.![image](https://user-images.githubusercontent.com/4322266/109884969-b6832d00-7c75-11eb-8c2d-484d225e4b73.png)
+
+
 -------------------
 R&D FOR DRUG DISCOVERY
 
@@ -60,6 +85,20 @@ Current artificial fertilizers are based on ammonia, made via the Haber process.
 
 https://supplychainanalysis.igd.com/news/news-article/t/quantum-computers-a-supply-chain-quantum-leap/i/19846
 
+-------------------------
+
+R&D AT BIOGEN
+
+As a leading biotech company, Biogen is seeking to advance the development of new drugs for neurological and neurodegenerative diseases. Biogen has teamed up with Accenture Labs and 1QBit, a quantum software startup, to speed up the discovery of new drugs.
+ ![image](https://user-images.githubusercontent.com/4322266/109884612-32c94080-7c75-11eb-949f-66e092ccd42c.png)
+
+-----------------
+
+R&D AT AMGEN
+
+Amgen Inc., a biopharmaceutical company, would be naturally interested in using quantum computers for molecular simulations. IBM has recently shown the potential of quantum-based computational chemistry with the record-breaking simulation of the BeH2 molecule (beryllium hydride).![image](https://user-images.githubusercontent.com/4322266/109884736-5ee4c180-7c75-11eb-9b47-e2b9faaf738b.png)
+
+https://edgy.app/11-companies-set-for-a-quantum-computing-leap
 
 -----------------------
 
