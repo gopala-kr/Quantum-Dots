@@ -1,21 +1,29 @@
 
 Quantum simulators will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
 Simulate complex chemical bonds and predict the structures of new drugs, semiconductors, and efficient catalysts.
-Solve materials science problems (e.g. next-gen materials) 
+Solve materials science problems (e.g. next-gen materials)  
 
+Quantum computers can be used to simulate other quantum systems, such as complex molecules, to predict the outcome of chemical processes. Simulating complex quantum phenomena could be one of the most important applications of quantum computing. 
+A key envisioned use is simulating molecular properties. In the long run, this can lead to advances in materials improvement and drug discovery. In quantum chemistry, quantum simulators could be used to simulate protein folding (misfolded proteins can cause diseases like Alzheimer’s and Parkinson’s). 
+![image](https://user-images.githubusercontent.com/4322266/109883573-86d32580-7c73-11eb-9684-c60816079120.png)
+
+
+Quantum chemistry attempts to understand the complicated bonds and reactions of molecules with the help of quantum mechanics. Many details of chemical processes cannot be simulated even with the largest and fastest supercomputers. By modeling these processes with the help of quantum computers, scientists expect a better understanding of chemical bonds and reactions to apply to drug discovery, materials science and medicine. 
+Characteristics![image](https://user-images.githubusercontent.com/4322266/109883792-d74a8300-7c73-11eb-8e26-560294d2c7c3.png)
 
 -------------------
 R&D FOR DRUG DISCOVERY
 
-IBM has partnered with 15 universities in Africa, and will use IBM Q to research drug discovery based on Africa’s genetic diversity that could lead to new treatments for diseases like HIV or TB.
+IBM has partnered with 15 universities in Africa, and will use IBM Q to research drug discovery based on Africa’s genetic diversity that could lead to new treatments for diseases like HIV or TB.![image](https://user-images.githubusercontent.com/4322266/109883830-e7626280-7c73-11eb-9c65-0a230b250af5.png)
+
  
 https://techcrunch.com/2019/06/12/ibm-brings-its-quantum-computer-program-to-16-african-universities/
 
-------------------------------------
-
+-----------------------------------
 NEW MATERIALS DISCOVERY
 
-One of the most promising uses of quantum computing is the simulation and discovery of the properties of new materials and active products (for chemistry and pharmacy), through the simulation of atomic interactions. Projects based around this notion are in progress at Dow Chemicals and at Airbus.
+One of the most promising uses of quantum computing is the simulation and discovery of the properties of new materials and active products (for chemistry and pharmacy), through the simulation of atomic interactions. Projects based around this notion are in progress at Dow Chemicals and at Airbus.![image](https://user-images.githubusercontent.com/4322266/109883866-f5b07e80-7c73-11eb-99cd-96b47c0e109c.png)
+
 
 https://corporate.dow.com/en-us/news/press-releases/dow-and-1qbit-announce-collaboration-agreement-on-quantum-computing
 
@@ -59,3 +67,7 @@ https://supplychainanalysis.igd.com/news/news-article/t/quantum-computers-a-supp
 - https://www.prnewswire.com/news-releases/the-worldwide-quantum-computing-industry-is-expected-to-reach-1-7-billion-by-2026--301229132.html
 - https://www.scientificamerican.com/article/googles-quantum-computer-achieves-chemistry-milestone/
 - https://www.newscientist.com/article/2253089-google-performed-the-first-quantum-simulation-of-a-chemical-reaction/
+
+
+---------------------
+------------------------------------
