@@ -38,6 +38,7 @@
           - Continuous Configuration Automation
         - **Entering the Plateau**
           - Agile Ops
+          
   -----------------------------------------------------------------------------
   
    -   **[Analytics and Business Intelligence]()**   :dove:
@@ -64,11 +65,12 @@
           - Public APIs
           - API Economy
           - Cloud Computing
-   -----------------------------------------------------------------------------
-   
-   - Apption and Integration Infrastructure]()**    :dove:
-    -   **[Application Architecture and Development]()**   :dove:
-    -   **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
+          - 
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **Application and Integration Infrastructure]()**    :dove:
+-  **[Application Architecture and Development]()**   :dove:
+-  **[Application Security](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_application_s_448064.pdf)**
         - ***On the Rise***
           - Low-Cost Domestic Sourcing 
           - Quality Engineering 
@@ -108,10 +110,10 @@
           - Application Security Testing Suite 
           - DevOps 
 
-   -----------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
    
-    - **[Artificial Intelligence]()**    :dove:
-    -   **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
+-  **[Artificial Intelligence]()**    :dove:
+-  **[Automotive Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_automotive_te_441717.pdf)** 
         - ***On the Rise***
           - GaO Transistors 
           - Lithium-Air Batteries 
@@ -145,8 +147,11 @@
         - ***Climbing the Slope***
           - Head-Up Displays 
           - High-Brightness Solid-State Headlamps 
-    -   **[Back - Office Analytic Applications]()**    :dove:
-    -   **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Back - Office Analytic Applications]()**    :dove:
+-  **[Blockchain Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_blockchain_te_441585.pdf)** 
         - ***On the Rise***
           - Authenticated Provenance
           - Blockchain Managed Services
@@ -163,7 +168,7 @@
         - ***At the Peak***
           - Layer 2 Solutions (Sidechains, Channels)
           - Blockchain Asset Tokenization
-Blockchain Interoperability
+          - Blockchain Interoperability
           - Consensus Mechanisms
           - Secure Multiparty Computing
           - Smart Contracts
@@ -172,8 +177,11 @@ Blockchain Interoperability
           - Tokenization
         - ***Sliding Into the Trough***
           - Blockchain
-    -   **[Business Process Services]()**    :dove:
-    -   **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Business Process Services]()**    :dove:
+-  **[Cloud Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_cloud_computi_450475.pdf)**
         - ***On the Rise***
           - Composable ERP
           - Distributed Cloud
@@ -215,8 +223,11 @@ Blockchain Interoperability
           - IaaS
         - ***Entering the Plateau***
           - Software as a Service
-    -   **[Cloud Security]()**    :dove:
-    -   **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Cloud Security]()**    :dove:
+-  **[Communications Service Provider Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_communication_441609.pdf)** 
         - ***On the Rise***
           - Virtual Network Function Marketplace
           - DigitalOps
@@ -255,7 +266,10 @@ Blockchain Interoperability
         - Multichannel Marketing
         - ***Entering the Plateau*** 
         - DevOps
-    -   **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Compute Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_compute_infra_448100.pdf)**
         - **On the Rise**
           - Confidential Computing
           - FACs (NextGen SmartNICs)
@@ -290,12 +304,15 @@ Blockchain Interoperability
           - Cloud Computing
         - **Entering the Plateau**
           - GPU Accelerators 
-    -   **[Connected Vehicles and Smart Mobility]()**    :dove:
-    -   **[Consumer Engagement With Healthcare and Wellness]()**    :dove:
-    -   **[CRM Sales Technology]()**    :dove:
-    -   **[Customer Experience Analytics]()**    :dove:
-    -   **[Customer Service and Support Technologies]()**    :dove:
-    -   **[Data and Analytics Governance and Master Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_and_anal_441544.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Connected Vehicles and Smart Mobility]()**    :dove:
+-  **[Consumer Engagement With Healthcare and Wellness]()**    :dove:
+-  **[CRM Sales Technology]()**    :dove:
+-  **[Customer Experience Analytics]()**    :dove:
+-  **[Customer Service and Support Technologies]()**    :dove:
+-  **[Data and Analytics Governance and Master Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_and_anal_441544.pdf)**
         - ***On the Rise***
           - Business Continuity for Data and Analytics
           - FinDRA
@@ -327,7 +344,11 @@ Blockchain Interoperability
         - ***Climbing the Slope***
           - MDM of Customer Data
           - MDM of Product Data
-    -   **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-  **[Data Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_data_manageme_450207.pdf)** 
         - ***On the Rise***
           - DataOps 
           - Ledger DBMS 
@@ -372,14 +393,17 @@ Blockchain Interoperability
           - Database Encryption 
           - Document Store DBMSs 
           - In-Memory Data Grids
-    -   **[Data Science and Machine Learning]()**     :dove:
-    -   **[Data Security]()**    :dove:
-    -   **[Digital Advertising]()**    :dove:
-    -   **[Digital Care Delivery Including Telemedicine and Virtual Care]()**    :dove:
-    -   **[Digital Commerce]()**    :dove:
-    -   **[Digital Grid Transformation Technologies]()**    :dove:
-    -   **[Digital Marketing]()**    :dove:
-    -   **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**   :dove:
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Data Science and Machine Learning]()**     :dove:
+-  **[Data Security]()**    :dove:
+-  **[Digital Advertising]()**    :dove:
+-  **[Digital Care Delivery Including Telemedicine and Virtual Care]()**    :dove:
+-  **[Digital Commerce]()**    :dove:
+-  **[Digital Grid Transformation Technologies]()**    :dove:
+-  **[Digital Marketing]()**    :dove:
+-  **[Digital Workplace Infrastructure and Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_digital_workp_450317.pdf)**   :dove:
         - **On the Rise**
           - Unified Endpoint Security
           - Foldables
@@ -419,7 +443,10 @@ Blockchain Interoperability
         - **Entering the Plateau**
           - Cloud Office
           - Content Collaboration Tools
-    -   **[Display and Vision](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-   **[Display and Vision](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_display_and_v_448050.pdf)** 
         - ***On the Rise***
           - Immersive Workspaces
           - Lensless Camera
@@ -454,7 +481,10 @@ Blockchain Interoperability
         - ***Entering the Plateau*** 
           - AMOLED
           - Head-Up Displays
-    -   **[Drones and Mobile Robots](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_drones_and_mo_441649.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Drones and Mobile Robots](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_drones_and_mo_441649.pdf)**
         - ***On the Rise***
           - Robot Knowledge Sharing
           - Air-to-Underwater Drone Communications
@@ -483,7 +513,10 @@ Blockchain Interoperability
         - ***Climbing the Slope***
           - Sensor Fusion
           - Micro Fuel Cells
-    -   **[ERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_erp_2020_448211.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-   **[ERP](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_erp_2020_448211.pdf)**
         - **On the Rise**
           - ERP-Embedded FP&A Capabilities
           - Composable ERP
@@ -513,7 +546,11 @@ Blockchain Interoperability
         - **Climbing the Slope**
           - Application Platform as a Service for Cloud ERP
           - Cloud Management Platforms
-    -   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-   **[Edge Computing](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_edge_computin_450508.pdf)** 
         - ***On the Rise***
           - Peer-to-Peer Edge
           - Low-Cost Single-Board Computers at the Edge
@@ -543,8 +580,12 @@ Blockchain Interoperability
           - Micro-OS (IoT)
           - LPWA
           - Internet of Things
-    -   **[Embedded Software and Systems]()**    :dove:
-    -   **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-  **[Embedded Software and Systems]()**    :dove:
+-  **[Emerging Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_emerging_tech_450415.pdf)** 
         - ***On the Rise***
           - Authenticated Provenance
           - AI-Augmented Design
@@ -578,7 +619,10 @@ Blockchain Interoperability
           - Carbon-Based Transistors
           - Bring Your Own Identity
           - Ontologies and Graphs
-    -   **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Enabling Power and Energy Electronics](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enabling_powe_467923.pdf)** 
           - ***On the Rise***
           - GaO Transistors
           - Lithium-Air Batteries
@@ -607,8 +651,12 @@ Blockchain Interoperability
         - ***Entering the Plateau*** 
           - Lithium Iron Phosphate Batteries
           - Smart Lighting
-    -   **[Endpoint Security]()**    :dove:
-    -   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-   **[Endpoint Security]()**    :dove:
+-   **[Enterprise Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ar_467339.pdf)** 
         - ***On the Rise***
           - Continuous Foresight
           - DigitalOps
@@ -647,8 +695,11 @@ Blockchain Interoperability
           - Enterprise Architecture Tools
         - ***Entering the Plateau*** 
           - Agile Ops
-    -   **[Enterprise Information Management]()**    :dove:
-    -   **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Enterprise Information Management]()**    :dove:
+-  **[Enterprise Networking](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_enterprise_ne_441509.pdf)** 
         - ***On the Rise***
           - FACs (NextGen SmartNICs)
           - Named Data Networking
@@ -683,7 +734,10 @@ Blockchain Interoperability
           - IPv6
           - Ethernet Switching Fabric
           - Cloud-Managed Networks
-    -   **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Frontline Worker Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_frontline_wor_448239.pdf)**
         - ***On the Rise***
           - Foldables
           - Remote Expert Guidance Solutions
@@ -719,9 +773,14 @@ Blockchain Interoperability
         - ***Entering the Plateau*** 
           - Cloud Office
           - Speech Recognition 
-    -   **[Healthcare Providers]()**    :dove:
-    -   **[Human Capital Management Technology]()**    :dove:
-    -   **[Hybrid Infrastructure Services](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_hybrid_infras_448236.pdf)**
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+-   **[Healthcare Providers]()**    :dove:
+-   **[Human Capital Management Technology]()**    :dove:
+-   **[Hybrid Infrastructure Services](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_hybrid_infras_448236.pdf)**
         - ***On the Rise***
           - Hybrid Cloud Storage
           - IoT-Enabled Product as a Service
@@ -769,7 +828,10 @@ Blockchain Interoperability
         - ***Entering the Plateau***  
           - Proactive Support
           - Multidiscipline Service Desk Outsourcing
-    -   **[I&O Automation](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_io_automation_441834.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[I&O Automation](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_io_automation_441834.pdf)**
         - ***On the Rise***
           - Chaos Engineering
           - Hybrid Digital Infrastructure Management
@@ -805,7 +867,10 @@ Blockchain Interoperability
         - ***Entering the Plateau***
           - Cloud Migration
           - DevOps. 
-    -   **[ICT in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_ict_in_china__448134.pdf)**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[ICT in China](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_ict_in_china__448134.pdf)**
         - ***On the Rise***
           - Autonomous Mobile Robotic 
           - Augmented Data and Analytics 
@@ -833,7 +898,10 @@ Blockchain Interoperability
           - Industrial Internet of Things 
           - Digital Commerce Platform 
           - Blockchain in China 
-    -   **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
         - ***On the Rise***
           - Cloud Infrastructure Entitlement Management
           - UMA
@@ -1290,13 +1358,19 @@ Blockchain Interoperability
         - ***Entering the Plateau*** 
     -   **[Supply Chain Strategy]()**     :dove:
     -   **[Digital Workplace]()**     :dove:
-    -   **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
+    
+------------------------------------------------------------------------------------------------------------------------------
+
+- **[Future of Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450384.pdf)**  
         - ***On the Rise***
         - ***At the Peak***
         - ***Sliding Into the Trough***
         - ***Climbing the Slope***
         - ***Entering the Plateau*** 
-    -   **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-  **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
         -  ***On the Rise***
            -  6G
            -  Virtual Network Function Marketplace
@@ -1342,7 +1416,10 @@ Blockchain Interoperability
     -   **[Transportation Industry]()**     :dove:
     -   **[Unified Communications and Collaboration]()**     :dove:
     -   **[User Experience]()**    :dove:
-    -   **[Strategic Technology Trends]()**    :dove:
+  
+------------------------------------------------------------------------------------------------------------------------------
+	
+- **[Strategic Technology Trends]()**    :dove:
         - People-Centric Smart Spaces Build on the Intelligent Digital Mesh
         - ***Trend No. 1: Hyperautomation***
           - RPA and iBPMS Are Key Components of Hyperautomation
