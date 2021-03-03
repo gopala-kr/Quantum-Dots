@@ -900,7 +900,7 @@
           - Digital Commerce Platform 
           - Blockchain in China 
 
-   -----------------------------------------------
+     -----------------------------------------------
 
      -  **[Identity and Access Management Technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_identity_and__450324.pdf)** 
         - ***On the Rise***
@@ -934,7 +934,7 @@
           - X.509 Hardware Tokens for User Authentication
           - Privileged Access Management
    
-   -----------------------------------------------
+    -----------------------------------------------
    
     -   **[Imaging and Print Services]()**    :dove:
     -   **[Infrastructure Strategies](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_infrastructur_450228.pdf)** 
@@ -1372,9 +1372,9 @@
      - ***Climbing the Slope***
      - ***Entering the Plateau*** 
 
-------------------------------------------------------------------------------------------------------------------------------
+     ------------------------------------------------------------------------------------------------------------------------------
 
--  **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
+     -  **[Future of CSP Networks Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/Tech/hype_cycle_for_the_future_of_450437.pdf)**  
         -  ***On the Rise***
            -  6G
            -  Virtual Network Function Marketplace
