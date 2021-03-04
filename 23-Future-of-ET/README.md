@@ -1046,6 +1046,9 @@
 ![cmo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cmo_office.png)
 
 ------------
+![cfo_a](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/cfo_a.png)
+
+------------
 ![iflow63](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow63.PNG)
 
 -------
@@ -2898,6 +2901,9 @@ SAP Portfolio
 ![iflow68](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow68.PNG)
 -------
 ![iflow69](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow69.PNG)
+
+------
+![finance100](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/finance100.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -7940,6 +7946,9 @@ Use Cases
 - Infrastructure Analytics - [Datadog](https://www.youtube.com/user/DatadogHQ) | [OpsRamp](https://www.youtube.com/channel/UCLpvovsRszWh2-uEv2j3dMw) | [Nagios](https://www.youtube.com/user/nagiosvideo/playlists) | [ScienceLogic](https://www.youtube.com/user/ScienceLogic)
 - Network Analytics - [NETSCOUT Systems](https://www.youtube.com/channel/UCDHjK6_cTdEYqoddyzMFi5A) | [Riverbed](https://www.youtube.com/c/riverbed/playlists)
 - App Analytics - [BMC](https://www.youtube.com/c/bmcsoftware/playlists) | [AppDynamics](https://www.youtube.com/channel/UCTL2V4fqMMERSWQa1kT4EMw) | [New Relic](https://www.youtube.com/user/NewRelicInc) | [Dynatrace](https://www.youtube.com/channel/UCcYJ-5q_AfmjQ4XTjTS0o3g) | [OverOps](https://www.youtube.com/c/OverOps/playlists) | [Elastic](https://www.youtube.com/c/OfficialElasticCommunity/playlists)
+
+------------
+![fin_bi](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_bi.png)
 
 -----------
 ![Tech_Data](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Data.png)
