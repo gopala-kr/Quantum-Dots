@@ -1033,6 +1033,9 @@
 -------
 ![iflow62](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow62.PNG)
 
+------
+![ceo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/ceo_office.png)
+
 ----------
 ![cfo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cfo_office.png)
 
