@@ -1,4 +1,10 @@
 
+----------
+
+
+![qcu](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/qcu.png)
+
+-----------------
 Quantum simulators will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
 Simulate complex chemical bonds and predict the structures of new drugs, semiconductors, and efficient catalysts.
 Solve materials science problems (e.g. next-gen materials)  
