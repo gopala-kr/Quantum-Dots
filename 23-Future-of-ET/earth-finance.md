@@ -14,7 +14,12 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 - [Annual Report on the Insurance Industry](https://www.treasury.gov/initiatives/fio/reports-and-notices/Documents/2019_FIO_Annual_Report.pdf)
 - [Insurance Industry at a Glance](https://www.iii.org/publications/insurance-handbook/introduction/insurance-industry-at-a-glance)
 
+--------
+![cfo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cfo_office.png)
+
+---------------
 -----------
+
 ![DIoYCwdWAAEw8hq](https://pbs.twimg.com/media/DIoYCwdWAAEw8hq.jpg)
 
 -----------
