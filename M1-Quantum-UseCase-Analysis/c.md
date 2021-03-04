@@ -146,6 +146,70 @@ Volkswagen is experimenting with QML to prove the value of reinforcement learnin
 https://www.businessmodelsinc.com/solving-real-world-problems-with-quantum-computing/
 
 
+-----------
+
+OPTIMIZATION OF UTILITIES NETWORK SUPPLY QUALITY 
+
+ 
+The Dubai Electricity and Water Authority (DEWA) is experimenting around distribution and optimization of the water and electricity networks, partnering with Microsoft in quantum. ![image](https://user-images.githubusercontent.com/4322266/110008355-a6388400-7d41-11eb-9f73-813c941e9428.png)
+
+https://news.microsoft.com/2018/06/28/microsoft-and-dewa-bringing-quantum-computing-to-dubai/
+
+----------
+
+QUANTUM NETWORKS
+
+KPN has implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam, the Netherlands. It is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.![image](https://user-images.githubusercontent.com/4322266/110008437-bc464480-7d41-11eb-93fa-9dab3d1efc71.png)
+
+https://www.quantaneo.com/%E2%80%8BKPN-and-QuTech-to-collaborate-on-quantum-internet_a122.html
+
+-----------
+
+China takes QKD seriously 
+
+Most of China’s massive investment in quantum has gone toward quantum security itself, including the development of quantum key distribution (QKD). China looks to be all in on QKD networks. The country has already built a 1,263-mile link between Beijing and Shanghai to deliver quantum keys. And a successful QKD demonstration by the Chinese Micius satellite was reported across the 4,700 miles between Beijing and Vienna.![image](https://user-images.githubusercontent.com/4322266/110008498-d2ec9b80-7d41-11eb-808f-c46e237dc6ad.png)
+
+https://www.technologyreview.com/2019/12/12/131600/china-is-beating-the-us-when-it-comes-to-quantum-security/
+
+
+---------
+
+SECURE ONLINE BANKING AT ABN AMRO
+
+Dutch bank ABN Amro studies how quantum computing technology can be used to secure online banking.
+The banking giant is working with QuTech, which was jointly established by Delft University of Technology and the Netherlands Organisation for Applied Scientific Research, to prove that quantum key distribution can be used to secure data traffic.![image](https://user-images.githubusercontent.com/4322266/110008587-e7309880-7d41-11eb-8148-17f268bf7ca4.png)
+
+https://www.computerweekly.com/news/252465850/Dutch-bank-and-universities-begin-defence-against-quantum-computings-dark-side
+
+
+------------
+
+BT WORKS TO SECURE ITS NETWORK
+
+BT announced an ‘unhackable’ quantum-secured network in June 2018. The collaborative project was led by the Quantum Communications Hub, part of the UK National Quantum Technologies Programme. 
+The quantum link itself is said to be virtually “unhackable” because it relies on the use of single particles of light (photons), to transmit data encryption “keys” across the fibre. Should this communication be intercepted, the sender will be able to tell that the link has been tampered with and the stolen photons cannot then be used as part of the key, rendering the data stream incomprehensible to the hacker.![image](https://user-images.githubusercontent.com/4322266/110008683-00d1e000-7d42-11eb-9fa1-981fb94a73db.png)
+
+https://www.computerweekly.com/news/252442910/BT-announces-unhackable-quantum-secured-network
+
+
+------------
+
+QUANTUM SAFE SYSTEM ON DEUTSCHE TELEKOM‘S TRIAL NETWORK
+
+SK Telecom has applied its quantum safe system on Deutsche Telekom’s trial network and plans to expand deployment to parts of commercial networks this year.
+The South Korean telco's quantum-safe system consists of quantum key distribution, quantum random number generator, and an operating system.![image](https://user-images.githubusercontent.com/4322266/110008741-147d4680-7d42-11eb-848e-312ed8b48745.png)
+
+https://www.zdnet.com/article/sk-telecom-applies-quantum-key-to-deutsche-telekom-network/
+
+---------------
+
+KPN WORKS TO MAKE QUANTUM-SAFE INTERNET A REALITY
+
+KPN will be providing the infrastructure and locations that QuTech, a collaboration between TU Delft and TNO, will use for research and development. A desired application of a quantum internet is to provide virtually unbreakable privacy and a foundation of secure communication, guaranteed by the fundamental laws of physics.![image](https://user-images.githubusercontent.com/4322266/110008810-2ced6100-7d42-11eb-9d39-254d0dceea77.png)
+
+
+https://www.overons.kpn/en/news/2019/kpn-and-qutech-join-forces-to-make-quantum-internet-a-reality
+
 -----------------------
 
 - https://ksusentinel.com/2021/02/26/global-quantum-computing-market-keyplayers-1qb-information-technologies-inc-qc-ware-corp-google-inc-qxbranch-llc/
