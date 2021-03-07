@@ -3008,6 +3008,9 @@ SAP Portfolio
 ----------
 ![iflow53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow53.PNG)
 
+-------------
+![13_plt](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/13_plt.png)
+
 [Back to top](#contents)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
