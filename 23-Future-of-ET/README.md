@@ -38,11 +38,11 @@
     - **Mobility**
       - [Automotive](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/m.md)
       - Rail & Transit
-      - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
-      - *[Product/Services:](https://www.godigit.com/guides/types-of-insurance)*
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *[Product/Services:](https://www.godigit.com/guides/types-of-insurance)*
     - **Government & Public Services**
       - Defence, Border Services, Education, Pensions, Revenue, Postals, 
-      - Backoffice, Public Health, Safety, Cities & Infrastructure
+      - Back-Office, Public Health, Safety, Cities & Infrastructure
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
@@ -61,11 +61,10 @@
       - **Semiconductor**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-      - **Biotech**
-      - **Medtech**
+      - **Information & Communication Technologies(ICT)**
     - **Telecommunication**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
-        - *Product/Services:***    
+        - *Product/Services:*
     - **Media & Entertainment**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -77,7 +76,7 @@
       - Hospitality Services
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Chemicals & Energy**
+    - **Energy, Chemicals & Industrial**
       - Integrated Oil & Gas (Upstream, Midstream, Downstream, Field Services)
       - Biofuels
       - Renewables
@@ -85,6 +84,7 @@
       - Nuclear (Fission & Fusion)
       - Mining (Metals, Materials & Forest Products)
       - Utilities(Energy Retails, Transmission, Distribustion & Customer Services)
+      - Construction, Infrastrure, Logistics & Industrial Equipments
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Consulting Services**
@@ -98,7 +98,7 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Life Sciences**
-      - Pharmaceuticals - Dist & Wholesalers, Medtech
+      - Pharmaceuticals - Dist & Wholesalers, Medtech, Biotech
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
   - **Future/Emerging**
