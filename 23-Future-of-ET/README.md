@@ -1860,6 +1860,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 - [Mastering Cloud Cost Optimization: Cloud Cost Models & Discounts Overview](https://blog.turbonomic.com/mastering-cloud-cost-optimization-cost-models-discounts-overview)
 
 
+----------
+![cloud_adoption](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_adoption.png)
 --------------
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
