@@ -62,6 +62,8 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
       - **Information & Communication Technologies(ICT)**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Telecommunication**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -129,6 +131,97 @@
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Tech)** -- Analysis on Gartner-2019-20-21 Hype Cycles
+    - ERP 
+    - Agile and DevOps 
+    - Analytics and Business Intelligence 
+    - API and Business Ecosystems 
+    - Application and Integration Infrastructure 
+    - Application Architecture and Development 
+    - Application Security 
+    - Application Services 
+    - Artificial Intelligence 
+    - Automotive Technologies 
+    - Back-Office Analytic Applications 
+    - Blockchain Technologies 
+    - Business Process Services 
+    - Cloud Computing 
+    - Cloud Security 
+    - Communications Service Provider Operations 
+    - Compute Infrastructure 
+    - Connected Vehicles and Smart Mobility 
+    - Consumer Engagement With Healthcare and Wellness 
+    - CRM Sales Technology 
+    - Customer Experience Analytics 
+    - Customer Service and Support Technologies 
+    - Data and Analytics Governance and Master Data Management 
+    - Data Management 
+    - Data Science and Machine Learning 
+    - Data Security 
+    - Digital Advertising 
+    - Digital Care Delivery Including Telemedicine and Virtual Care 
+    - Digital Commerce 
+    - Digital Grid Transformation Technologies 
+    - Digital Marketing 
+    - Digital Workplace Infrastructure and Operations 
+    - Display and Vision 
+    - Drones and Mobile Robots 
+    - Edge Computing 
+    - Embedded Software and Systems 
+    - Emerging Technologies 
+    - Enabling Power and Energy Electronics 
+    - Endpoint Security 
+    - Enterprise Architecture 
+    - Enterprise Information Management 
+    - Enterprise Networking 
+    - Frontline Worker Technologies 
+    - Healthcare Providers 
+    - Human Capital Management Technology 
+    - Hybrid Infrastructure Services 
+    - I&O Automation 
+    - ICT in China 
+    - Identity and Access Management Technologies 
+    - Imaging and Print Services 
+    - Infrastructure Strategies 
+    - IoT Standards and Protocols 
+    - IT in the Middle East 
+    - IT Performance Analysis 
+    - ITSM 
+    - Legal and Compliance Technologies 
+    - Life Science Commercial Operations 
+    - Life Science Manufacturing, Quality and Supply Chain 
+    - Life Science Research and Development 
+    - Managing Operational Technology 
+    - Manufacturing Operations Strategy 
+    - Midsize Enterprises 
+    - Multienterprise Solutions 
+    - Natural Language Technologies 
+    - Network Security 
+    - Open Banking 
+    - Open-Source Software 
+    - Platform as a Service 
+    - Privacy 
+    - Procurement and Sourcing Solutions 
+    - Project and Portfolio Management 
+    - Real-Time Health System Technologies 
+    - Retail Technologies 
+    - Risk Management 
+    - Security Operations 
+    - Semiconductors and Electronics Technologies 
+    - Sensing Technologies and Applications 
+    - Smart City and Sustainability in China 
+    - Smart City Technologies and Solutions 
+    - Software as a Service 
+    - Storage and Data Protection Technologies 
+    - Supply Chain Execution Technologies 
+    - Supply Chain Planning Technologies 
+    - Supply Chain Strategy 
+    - Digital Workplace 
+    - Future of Applications 
+    - Future of CSP Networks Infrastructure 
+    - Internet of Things 
+    - Transportation Industry 
+    - Unified Communications and Collaboration 
+    - User Experience 
   - **[Digital Technology Skills and Practices](#technology-skills-and-practices)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
