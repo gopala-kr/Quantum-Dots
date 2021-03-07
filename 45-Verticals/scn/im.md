@@ -43,14 +43,10 @@
 ![p_scn](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/p_scn.PNG)
 ---------
 ![r_scn](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/r_scn.PNG)
----------
-![ad1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/ad1.png)
-
----------
-![]()
 
 ---------------------------
 -------------------------------------------------
+
 
 ![n_m](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/n_m.png)
 ------------
