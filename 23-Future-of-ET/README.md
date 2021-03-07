@@ -39,7 +39,7 @@
       - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
       - ***Product/Services:***
     - **Government & Public Services**
-      - **Defence**
+      - **Defence, Border Services, Education, Pensions, Revenue, Postals, Backoffice, Public Health, Safety, Cities & Infrastructure**
         - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
         - ***Product/Services:***
     - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
