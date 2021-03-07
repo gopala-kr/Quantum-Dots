@@ -201,6 +201,10 @@
       - Cyber Risk
   - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
   - **[Digital Workplace Services](#digital-workplace-services)**
+  - **[Software Development Practices & Tools]()**
+    - Software Design Patterns
+  - **[DevOps Methodology & Tools]()**
+  - **[DevSecOps Practices & Tools]()**
   - **[Database Technology](#database-technology)**
     - DB History
     - DB Types
