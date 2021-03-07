@@ -7338,6 +7338,10 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 -------
 ![New-Cisco-Certification-Pathway-2020](https://i2.wp.com/networkwalks.com/wp-content/uploads/2020/03/New-Cisco-Certification-Pathway-2020.png)
 
+---------------
+![skilling](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/skilling.png)
+
+
 [Back to top](#contents)
 
 
