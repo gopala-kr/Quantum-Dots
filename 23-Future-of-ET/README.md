@@ -39,7 +39,8 @@
       - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
       - ***Product/Services:***
     - **Government & Public Services**
-      - **Defence, Border Services, Education, Pensions, Revenue, Postals, Backoffice, Public Health, Safety, Cities & Infrastructure**
+      - Defence, Border Services, Education, Pensions, Revenue, Postals, 
+      - Backoffice, Public Health, Safety, Cities & Infrastructure
         - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
         - ***Product/Services:***
     - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
@@ -66,9 +67,16 @@
       - Tourism
       - Freight/Cargo(Air/Ship/Ground)
       - Transportation, Hospitality Services
-    - **Energy**
-      - Oil & Gas
-    - **Chemicals**
+    - ** Chemicals & Energy**
+      - Integrated Oil & Gas (Upstream, Midstream, Downstream, Field Services)
+      - Biofuels
+      - Renewables
+      - Carbon Capture and Storage
+      - Nuclear (Fission & Fusion)
+      - Mining
+      - Utilities(Energy Retails, Transmission, Distribustion & Customer Services)
+        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
+        - ***Product/Services:***
     - **Consulting & Services**
       - Management
       - Technology & Engineering
