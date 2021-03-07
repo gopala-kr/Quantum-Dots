@@ -30,14 +30,14 @@
   - **Evolved + Contemporary**
     - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**
       - Space
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
       - Airline
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **[Automotive](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/m.md)**
-      - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-      - ***Product/Services:***
+      - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+      - *Product/Services:*
     - **Government & Public Services**
       - Defence, Border Services, Education, Pensions, Revenue, Postals, 
       - Backoffice, Public Health, Safety, Cities & Infrastructure
@@ -45,29 +45,37 @@
         - ***Product/Services:***
     - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
       - **Capital Markets**
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
       - **Banking**
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
       - **Insurance**
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
       - **Real Estate**
       - **FinTech**
     - **HighTech**
       - **Semiconductor**
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
       - **Biotech**
       - **Medtech**
     - **Telecommunication**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:***    
     - **Media & Entertainment**
-    - **Travel**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
+    - **Travel & Hospitality**
+      - Aviation
       - Tourism
       - Freight/Cargo(Air/Ship/Ground)
-      - Transportation, Hospitality Services
-    - ** Chemicals & Energy**
+      - Transportation Services
+      - Hospitality Services
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
+    - **Chemicals & Energy**
       - Integrated Oil & Gas (Upstream, Midstream, Downstream, Field Services)
       - Biofuels
       - Renewables
@@ -75,16 +83,26 @@
       - Nuclear (Fission & Fusion)
       - Mining
       - Utilities(Energy Retails, Transmission, Distribustion & Customer Services)
-        - ***[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)***
-        - ***Product/Services:***
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Consulting & Services**
       - Management
       - Technology & Engineering
       - Business Process Outsourcing 
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Consumer Tech**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Retail**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Healthcare**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **Life Sciences**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
   - **Future/Emerging**
     - Industry 4.0 (IoT + IT + Data + AI)
     - Space Mining-->Moon-->Asteroids?Planets?
