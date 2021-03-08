@@ -19,6 +19,12 @@
 ----------
 ![qc42](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc42.png)
 
+-------------------
+![qc_hw](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc_hw.png)
+
+--------------
+![q2b](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q2b.png)
+
 ----------------------
 -----------------
 Quantum simulators will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
