@@ -16,6 +16,10 @@
 --------
 ![qc%40scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc%40scale.png)
 
+----------
+![qc42](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc42.png)
+
+----------------------
 -----------------
 Quantum simulators will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
 Simulate complex chemical bonds and predict the structures of new drugs, semiconductors, and efficient catalysts.
