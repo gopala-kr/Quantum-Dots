@@ -10,6 +10,9 @@
 --------
 ![gc_skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gc_skills.png)
 
+-------------
+![qc41](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc41.png)
+
 --------
 ![qc%40scale](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc%40scale.png)
 
