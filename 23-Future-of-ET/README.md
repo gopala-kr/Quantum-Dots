@@ -41,7 +41,7 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://www.godigit.com/guides/types-of-insurance)*
     - **Government & Public Services**
-      - Defence, Border Services, Education, Pensions, Revenue, Postals, 
+      - Defence, Border Services, Education, Pensions, Revenue, Postals
       - Back-Office, Public Health, Safety, Cities & Infrastructure
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -2046,6 +2046,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![cl61](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl61.png)
 ---------
 ![cl62](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl62.png)
+---------
+![cl62](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl63.png)
+---------
+![cl62](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl64.png)
 
 ----------
 ---------------------
@@ -2078,6 +2082,31 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ----------
 
 ![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl80.png)
+
+---------------------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl81.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl82.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl83.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl84.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl85.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl86.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl87.png)
+----------
+
+![cl71](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl88.png)
 
 
 ---------------------
