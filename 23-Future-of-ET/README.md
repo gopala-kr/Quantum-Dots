@@ -2034,8 +2034,7 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![cl56](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl56.png)
 ------------
 ![cl57](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl57.png)
-------------
-![cl57](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl57.png)
+
 ------------
 ![cl58](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl58.png)
 ------------
