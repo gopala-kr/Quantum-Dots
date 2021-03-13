@@ -1984,6 +1984,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ----------
 ![cloud_adoption](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/cloud_adoption.png)
 
+-----------
+![cl111](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl111.png)
+
 --------
 ![icloud](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/icloud.png)
 
@@ -2015,9 +2018,34 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![cl6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl6.png)
 
+-------------
+![cl102](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl102.png)
+------------
+![cl103](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl103.png)\
+
+--------------
+![cl104](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl104.png)
+
+----------------
+![cl105](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl105.png)
+
+----------
+![cl106](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl106.png)
+
+-----------------
+![cl107](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl107.png)
+
+----------------
+![cl108](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl108.png)
+
+------------------
+![cl109](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl109.png)
 
 ---------
 ------------
+
+
+
 ![cl51](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl89.png)
 
 ------------
