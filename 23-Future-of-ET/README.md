@@ -86,7 +86,7 @@
       - Nuclear (Fission & Fusion)
       - Mining (Metals, Materials & Forest Products)
       - Utilities(Energy Retails, Transmission, Distribustion & Customer Services)
-      - Construction, Infrastrure, Logistics & Industrial Equipments
+      - Construction, Infrastructure, Logistics & Industrial Equipments
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Consulting Services**
@@ -109,10 +109,10 @@
     - Space Manufacturing(Zero Gravity)-->Cost effective-->Reliability?Rare Earth Elements?Off-earth/0-G Advantages
     - Automotive --> Electric + Ride Hailing/Sharing + Autonomous + Connected Cars
     - Future Cities(Smart City)
-    - Synthetic Bio Factories --> Artificial Organ Factrory = + Genetics?
+    - Synthetic Bio Factories --> Artificial Organ Factory = + Genetics?
     - Genetics + Info Tech + CRISPR/Derivatives Tech ==> GMO's, GEC's, Designer Babies
-    - Quantum Tech (< 10^-10) --> NISQ --> Topological?-Universal?
-    - NanoTech (> 10^-9) --> Smart Dust --> Carbon Neutral Manufacturing
+    - Quantum Tech (< 10^-10m) --> NISQ --> Topological?-Universal?
+    - NanoTech (> 10^-9m) --> Smart Dust --> Carbon Neutral Manufacturing
     - Immersive Tech(AR, MR, VR) + 5G + 6G ==> Metaverse
     - 3D & 4D Printing(Additive Manufacturing) + ConsumerTech + Metaverse ==> iManufacturing(Instant Live Manufacturing & Delivery)
     - Telecomm/Internet --> 5G-->6G?Leosat Internet?Quantum Internet?-->Interplanetary Communication(Low Latency+High BW+Cost Effective)
@@ -123,9 +123,17 @@
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
-- **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
-  - Micro
-  - Macro
+- **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**]
+  - Current
+    - Micro
+    - Macro
+    - Internatinal
+  - Earth Orbital
+  - Celestial 
+    - Earth-Moon
+    - Asteroids
+    - Comets
+    - Mars Economics
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
@@ -301,7 +309,7 @@
           - User Experience
           - DevOps/Site Reliability Engineering
           - New & Emerging Technologies
-	  - Regulatory & Compliance (eg: GDPR)
+	  - Regulatory & Compliance (eg: GDPR/HIPAA, FIPS 140-2,  ISO, WCAG, )
       - Costomers/Clients
     - Internal/External Auditors
     - Legal Aspects
