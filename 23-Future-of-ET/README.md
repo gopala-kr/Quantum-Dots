@@ -2167,6 +2167,8 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ---------------------
 --------------
 ![e331LS_mfpebxC9KklCttQ](https://miro.medium.com/max/1200/1*e331LS_mfpebxC9KklCttQ.png)
+-----------
+![DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/DevOps.png)
 
 ----------
 -----------
