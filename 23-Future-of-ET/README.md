@@ -2158,6 +2158,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ---------------------
 --------------
+![e331LS_mfpebxC9KklCttQ](https://miro.medium.com/max/1200/1*e331LS_mfpebxC9KklCttQ.png)
+
+----------
+-----------
 
 ![hybrid_cloud](https://techbeacon.com/sites/default/files/hybrid_cloud.png)
 --------
@@ -3299,7 +3303,8 @@ SAP Portfolio
 ![iflow60](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow60.PNG)
 ----------
 ![iflow53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow53.PNG)
-
+---------
+![Keytree-Integration-New-Page-2](https://blogs.sap.com/wp-content/uploads/2019/07/Keytree-Integration-New-Page-2.jpg)
 -------------
 ![13_plt](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/13_plt.png)
 
@@ -7703,8 +7708,18 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 -------
 ![variety-of-existing-database-systems-18](https://www.researchgate.net/profile/Nikos_Korfiatis/publication/303562879/figure/fig2/AS:388081703243778@1469537296695/Landscape-and-categorization-of-the-high-variety-of-existing-database-systems-18.png)
 -----------
-![SAP-HANA-Platform](https://www.zarantech.com/blog/wp-content/uploads/2017/04/SAP-HANA-Platform.png)
+![X4AAr0xY](https://pbs.twimg.com/media/De3V5c-X4AAr0xY.jpg)
 -----------
+![cl110](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl110.png)
+------------
+![Do8QQT8X0AA-q88](https://pbs.twimg.com/media/Do8QQT8X0AA-q88.jpg)
+-----------
+![SAP-HANA-Platform](https://www.zarantech.com/blog/wp-content/uploads/2017/04/SAP-HANA-Platform.png)
+----------
+![52f31bf41bd150a4225b09a3234e16ba](https://i.pinimg.com/originals/52/f3/1b/52f31bf41bd150a4225b09a3234e16ba.png)
+-----------
+![Database-security-features-Comparison](https://www.researchgate.net/profile/Awad-Awadelkarim/publication/315736923/figure/tbl9/AS:667868656070671@1536243704735/Database-security-features-Comparison.png)
+----------
 ![347472_0002](https://blogs.gartner.com/adam-ronthal/files/2019/06/347472_0002.png)
 ----------
 
@@ -8365,6 +8380,8 @@ Use Cases
 
 ----------
 ![iflow43](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iflow43.PNG)
+---------
+![datalakes-saponaws-image1](https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2019/11/27/datalakes-saponaws-image1.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
