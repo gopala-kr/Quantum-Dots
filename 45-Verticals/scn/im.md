@@ -165,7 +165,12 @@
 ![t_tr](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/t_tr.png)
 
 ---------
-![]()
+--------------
+
+![cl120](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl120.png)
+
+-----------
+![in15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/in15.png)
 
 -----
 -----------
