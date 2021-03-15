@@ -388,16 +388,44 @@ https://nas.nasa.gov/assets/pdf/Quantum_Computer_Fact_Sheet_Fall2015.pdf
 
 
 -----------------------------
+--------------------------
+
+QUANTUM SAFE NETWORKING
+
+QuantLR used Ultimately Secure Quantum Key Distribution (QKD) solutions to secure data communication at a lower cost. QuantLR successfully deployed a POC showing that QKD is ready for mass deployment at a cost reduction of 90% over all previously deployed solutions.![image](https://user-images.githubusercontent.com/4322266/111231713-a0fcf400-85e1-11eb-8aa4-699254fac1b3.png)
+
+
+------------------------
+QUANTUM KEY DISTRIBUTION
+
+Battelle installed commercial Quantum Key Distribution (QKD) system in the US connecting its headquarters in Columbus, Ohio to production facility in Dublin, Ohio. The QKD hardware used was Cerberis model from ID Quantique. Combined with ID Quantique’s Centauris encryptor, this provides a 1Gbps link with Layer2 encryption. The link between facilities requires dedicated dark (unlit) fiber.![image](https://user-images.githubusercontent.com/4322266/111231734-a9edc580-85e1-11eb-820c-17bcaa8c45bd.png)
+
+
+
+-------------------------
+
+ENCRYPTION FOR ELECTRONIC VOTING
+
+Estonia has deployed i-voting system that allows citizens to vote at their convenience. The system uses public key infrastructure for secure digital authentication and signing. The infrastructure also allows forwarding data by using an encrypting key pair: a public encryption key and a private decryption key.
+ ![image](https://user-images.githubusercontent.com/4322266/111231762-b540f100-85e1-11eb-90dc-7cc82518af9f.png)
 
 
 
 
+---------------------------------
 
 
+QUANTUM NETWORKS
 
+KPN has implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam, the Netherlands. It is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.![image](https://user-images.githubusercontent.com/4322266/111231775-bbcf6880-85e1-11eb-97d3-f762710cab4c.png)
 
+--------------
 
+Secure mobile communications
 
+Mitsubishi Electric has developed the world’s first “one-time pad software,” an advanced encryption technique for mobile phones to ensure that telephone conversations remain confidential. Additionally, the company is involved in implementing their technology in a project being conducted by the National Institute of Information and Communications Technology to test the viability of mobile communications over a quantum secure network.![image](https://user-images.githubusercontent.com/4322266/111231815-cc7fde80-85e1-11eb-81ce-1c83a13c1826.png)
+
+-------------------------
 
 
 
