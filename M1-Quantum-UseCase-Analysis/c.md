@@ -428,6 +428,22 @@ Mitsubishi Electric has developed the world’s first “one-time pad software,�
 -------------------------
 
 
+Digital sign
+
+Blackberry: Launched a solution which will allow software to be digitally signed using a scheme that will be hard to break with a quantum computer. The Solution is actually the product of a partnership between BlackBerry and Isara Corporation, a company whose mission is to build quantum-safe security solutions. BlackBerry is using Isara’s cryptographic libraries to help sign and protect code as security evolves.![image](https://user-images.githubusercontent.com/4322266/111231871-e7525300-85e1-11eb-9d86-8dcd159f485e.png)
+
+--------------------------
+
+Cryptographic algorithims
+
+KPN: Dutch landline and mobile telecommunications company implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam. KPN is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.![image](https://user-images.githubusercontent.com/4322266/111231895-f33e1500-85e1-11eb-98ea-bd931ba4808f.png)
+
+--------------------
+
+Visibility and incident management
+
+Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption solution, using state of the art Layer 2 encryption combined with Quantum Key Distribution (QKD). The Cerberis solution secures a point-to-point Gigabit Ethernet link used to send ballot information for the federal and cantonal elections from the central ballot counting station to the Geneva government data center. ![image](https://user-images.githubusercontent.com/4322266/111231930-ffc26d80-85e1-11eb-8d8d-561e87578c61.png)
+
 
 
 
