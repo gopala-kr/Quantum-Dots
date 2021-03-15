@@ -108,6 +108,30 @@ MERGER & ACQUISITIONS
 Shell used a combination of Salesforce platform, Microsoft Azure and Microsoft Office 365 to divest selected downstream businesses in and enabled these businesses to operate on a new IT platform, separate from the Shell global IT landscape. Using these predominant cloud platforms, Shell achieved a successful IT merger and acquisition implementation, allowing the deals to be implemented in a faster, more flexible and cost-effective way than would have been possible using a traditional approach.![image](https://user-images.githubusercontent.com/4322266/111232598-4e243c00-85e3-11eb-917e-6a17425945d3.png)
 
 
+--------------------
+
+
+VR Training
+
+Walmart, the American multinational retailer, is using VR headsets to train employees across the United States, in partnership with VR start-up STRIVR. Employees at a Walmart training academy can experience real-world scenarios using an Oculus headset, with the headset linked to a video screen so that the instructor and other students can also view the experience.  ![image](https://user-images.githubusercontent.com/4322266/111233075-37cab000-85e4-11eb-957c-1abf03985ae3.png)
+
+---------------
+
+Augmented Reality
+
+Although it has been discontinued in the consumer market, Google Glass has been used in the manufacturing industry to assist workers. Employees at ACGO, an American agricultural equipment manufacturer, use Google Glass in case they forget a set of instructions while working on a piece of equipment, or to bring up a required manual, photo or video.![image](https://user-images.githubusercontent.com/4322266/111233104-46b16280-85e4-11eb-9980-1da180ef789d.png)
+
+----------------
+
+VR Collaboration
+
+Volkswagen partnered with Innoactive, the German VR training company, to train 10,000 staff across several brands and locations. The Innoactive HB SDK is used and optimized for the HTC Vive Pro and the Volkswagen Group Digital Reality Hub is a VR platform that helps employees collaborate across the Audi, SEAT, Skoda and Volkswagen brands. Multiple users  can collaborate simultaneously while located physically in different offices. There are now more than 30 VR training simulations.![image](https://user-images.githubusercontent.com/4322266/111233132-503aca80-85e4-11eb-9d81-99257679fb2e.png)
+
+
+
+
+
+
 
 
 
