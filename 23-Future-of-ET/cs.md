@@ -128,6 +128,12 @@ VR Collaboration
 Volkswagen partnered with Innoactive, the German VR training company, to train 10,000 staff across several brands and locations. The Innoactive HB SDK is used and optimized for the HTC Vive Pro and the Volkswagen Group Digital Reality Hub is a VR platform that helps employees collaborate across the Audi, SEAT, Skoda and Volkswagen brands. Multiple users  can collaborate simultaneously while located physically in different offices. There are now more than 30 VR training simulations.![image](https://user-images.githubusercontent.com/4322266/111233132-503aca80-85e4-11eb-9d81-99257679fb2e.png)
 
 
+--------------------
+
+DNA Storage
+
+Catalog claims to be the first company to have developed a solution to make DNA data storage commercially viable. Catalog uses enzymes to create proprietary-encoded DNA strands and is currently developing the way to scale up such a system.
+The first prototype machine, which is on schedule to be completed by early 2019, will be able to encode a full terabit per day and by 2022, the company expects to be able to increase that to a petabit — a 1000-fold improvement. That should make the process competitive for archival storage, such as medical and legal records as well as storing film databases at movie studios.![image](https://user-images.githubusercontent.com/4322266/111886630-1ba18700-89c7-11eb-8e14-50c4fa3b4844.png)
 
 
 
