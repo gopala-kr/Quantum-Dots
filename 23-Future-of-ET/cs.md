@@ -137,6 +137,11 @@ The first prototype machine, which is on schedule to be completed by early 2019,
 
 
 
+----------------------
+
+Swarm Technology at NASA: Building Resilient Systems
+
+Developing space systems is a complex task, driven by standards and safety requirements to ensure reliability of sophisticated hardware and software. Future NASA missions will focus on the development of swarm-based spacecraft systems comprising multiple self-organizing and autonomous spacecraft.![image](https://user-images.githubusercontent.com/4322266/111886698-9f5b7380-89c7-11eb-8e2b-ad65c371b498.png)
 
 
 
