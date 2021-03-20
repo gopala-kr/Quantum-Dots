@@ -294,3 +294,498 @@ Autonomous vehicles will automate the movement of goods between physical locatio
 
 ----------------------
 
+Tombot's animatronic dog Jennie is a conversation starter
+
+As an elderly care robot, Jennie is a super cute puppy who has many sensors that detect when and where you pet her and responds accordingly – she wags her tail, tilts her head, and perks up her ears! Using her built-in speaker, she even sounds like a real puppy and she can respond with playful barks to a list of voice commands. Over time, the creators intend on adding new actions and commands via updates to her associated app.![image](https://user-images.githubusercontent.com/4322266/111887354-77224380-89cc-11eb-8d72-87dc1c57e573.png)
+
+
+--------------
+
+Robots train kids with Autism Spectrum Disorder (ASD) better
+
+RoboKind makes Milo, an expressive classroom robot that "never gets tired, never gets frustrated, and is always consistent."
+Milo demonstrates various facial expressions and delivers lessons verbally, while a screen on the robot’s chest shows symbols meant to help the student understand what is being said. The robotic ability to repeat something again and again in the same tone without tiring is particularly suited to helping children with ASD learn. Milo is also being used in special education classrooms and showing benefits for children with Down syndrome, ADHD, trauma, and other social or emotional diagnoses.
+ ![image](https://user-images.githubusercontent.com/4322266/111887357-80abab80-89cc-11eb-8b08-759efcd48b21.png)
+
+
+-------------------
+
+Pfizer deploys Mabu care robot
+
+Pfizer launched a one-year pilot program with robotics company Catalia Health with its care robot Mabu, that coaches' patients on health and prescription drugs. Mabu uses voice interactions powered by conversational AI to assess a user’s mood, record data, manage symptoms, and provide helpful information. The robot then supplies information back to medical professionals — like caregivers or clinicians — such as the frequency of medication usage or questions the robot was unable to answer. Mabu is also able to supply personalized responses and deploy affective computing to predict a user’s emotional state![image](https://user-images.githubusercontent.com/4322266/111887360-8903e680-89cc-11eb-93f3-b231e3203061.png)
+
+
+-------------------
+
+Moxie ventures differently into cognitive development
+
+Where transactional robots such as Jibo have tried and failed is creating structural conversations. Moxie uses computer vision and fusion to filter out multiple conversations and interactions and identify intent. It works with kids to understand them and then build a rich content enabled cognitive development plan
+The team has a lot of expertise in empathy, mindfulness exercises, and natural interactions. Hence Moxie can tell jokes and even ask a child to read together like a true friend![image](https://user-images.githubusercontent.com/4322266/111887367-93be7b80-89cc-11eb-81cf-bdd2317f327b.png)
+
+
+--------------------------
+
+Exoskeleton deliveries to reduce logistics injuries
+
+A worker for food delivery service Eleme appeared on a Shanghai street on April 20 using robot developer ULS Robotics intelligent HEMS-GS lower extremity exoskeleton. He carried three take-out boxes on his back. The hashtag "robot exoskeleton for food delivery" was viewed more than 20 million times on Sina Weibo![image](https://user-images.githubusercontent.com/4322266/111887379-a933a580-89cc-11eb-8495-1d18a1b6129b.png)
+
+
+------------------
+
+Construction work aided with exoskeletons
+
+Hilti North America unveiled EXO-O1 wearable exoskeleton to help commercial contractors, tradesman and management tackle health and safety as well as labor shortage challenges. To create the EXO-O1, Hilti Group partnered with Ottobock SE & Co. KGaA
+ ![image](https://user-images.githubusercontent.com/4322266/111887385-afc21d00-89cc-11eb-8185-acd05befeabd.png)
+
+
+---------------------
+
+Russian metallurgical giant invests in exoskeletons
+
+The world’s largest nickel and palladium producer. Nornickel is currently developing industrial exoskeletons at its R&D unit and The Digital lab facilities in collaboration with the South-West State University in Kursk, Russia. Six pieces have been already prototyped to date
+ ![image](https://user-images.githubusercontent.com/4322266/111887388-b781c180-89cc-11eb-97a1-eb3f019b3975.png)
+
+
+------------------
+
+US Marines use exoskeletons for heavy lifting
+
+US Marine Corps is experimenting with Sarcos Guardian XO full-body robotic exoskeleton. The wearable suit can do hours of physical labor that would otherwise be impossible for a Marine to do alone, lifting and moving up to 200 pounds of gear repeatedly for eight hours straight.![image](https://user-images.githubusercontent.com/4322266/111887398-c10b2980-89cc-11eb-8726-9c1713163ebe.png)
+
+
+---------------------
+
+Exoskeletons to aid in vehicle manufacture 
+
+Ford Exoskeletons: Ekso Bionics and Ford have deployed exoskeletons to aid in vehicle manufacture and assembly for tasks such as windshield placement which requires human expertise while the suit provides necessary robotics to prevent worker fatigue as well as injury.![image](https://user-images.githubusercontent.com/4322266/111887414-d2eccc80-89cc-11eb-8e8a-cf96ebd807b7.png)
+
+-----------------
+
+Exosuits for lifting and moving heavy objects
+
+Lowe’s Innovation Lab (LIL), the internal research branch of US$65 billion home improvement retailer Lowe’s, began trialing unpowered exoskeletons, ‘exosuits’ in Lowe’s parlance, at the company’s Christiansburg, VA store. The exosuits were developed conjointly by LIL and Virginia Tech’s Assistive Robotics Laboratory (ARL). The testing is being carried out by the Lowe’s stocking staff, who are using the exos for repeatedly lifting and moving heavy objects.![image](https://user-images.githubusercontent.com/4322266/111887421-dd0ecb00-89cc-11eb-9b59-1e3e7e02f812.png)
+
+
+--------------------
+
+Exoskeleton
+
+Ford Exoskeletons: Ekso Bionics and Ford have deployed exoskeletons to aid in vehicle manufacture and assembly for tasks such as windshield placement, which requires human expertise, while the suit provides necessary robotics to prevent worker fatigue and injury.![image](https://user-images.githubusercontent.com/4322266/111887424-e435d900-89cc-11eb-8337-e449317e18aa.png)
+
+
+-------------------
+
+Bionic Leg
+
+AlterG Bionic Leg: Operates as a wearable robotic rehabilitation device that enables patients to strengthen weak muscles, increase balance, and improve gait mechanics and endurance. It provides patient initiated motor assistance during exercises, stair climbing, and ground walking. It is used by patients with multiple sclerosis, lower extremity weakness, SCI, traumatic brain injury, or those recovering from a stroke.![image](https://user-images.githubusercontent.com/4322266/111887428-eb5ce700-89cc-11eb-9f89-0839c8e64d86.png)
+
+
+-----------------
+
+Exoskeleton Suit
+
+Ekso Bionics Ekso GT Suit: The wearable bionic suit helps individuals with spinal cord, injury, stroke, and lower extremity paralysis or weakness to stand and walk with full weight bearing reciprocal gait using a cane.![image](https://user-images.githubusercontent.com/4322266/111887432-f4e64f00-89cc-11eb-88e0-8f33c81e863f.png)
+
+
+-----------------
+
+Surgery
+
+Medtronic is deploying Mazor x and renaissance systems from Mazor Robotics. The system differs from intuitive’ s solutions as it is focused towards brain and spine surgeries unlike orthopaedic- focused da Vinci. In 2017, Mazor Robotics completed 500,000 procedures and installed 2,800 systems at hospitals across the world.
+![image](https://user-images.githubusercontent.com/4322266/111887439-fca5f380-89cc-11eb-82e9-d840fe6344a7.png)
+
+
+-------------------
+
+Surgery
+
+Melrose-Wakefield Hospital is the latest to deploy Intuitive Surgical’s da Vinci Surgical system. It has four arms capable of manipulating dozens of different instruments (including a 3D magnifying camera with robotic precision) and performs supervised minimalistic invasive surgeries. In 2017, da Vinci completed 650,000 procedures and installed 3,597 systems at hospitals across the world.![image](https://user-images.githubusercontent.com/4322266/111887442-04fe2e80-89cd-11eb-937d-7748070b55e3.png)
+
+
+------------------
+
+Bionic Arm
+
+Bionik Laboratories InMotion arm and hand provide clinical rehabilitation for stroke survivors and those with mobility impairments due to neurological conditions. InMotion HAND and ARM work together to provide assist-as-needed support for reaching with grasp and release movements, or independently for focused training on individual hand movements.![image](https://user-images.githubusercontent.com/4322266/111887443-0b8ca600-89cd-11eb-80e9-51ac63239653.png)
+
+
+-------------------
+
+Surgery
+
+Nuffield Health Hospital deploys Stryker Mako surgical arm: It uses a CT derived, patient-specific 3D modelling to achieve accuracy in the planning of implant size, orientation, and alignment during preoperative planning. The system provides real-time intra-operative adjustments for precision in surgery. It mainly assists in knee and hip surgery procedures.![image](https://user-images.githubusercontent.com/4322266/111887446-15aea480-89cd-11eb-945b-7f8c73e2d39d.png)
+
+
+----------------------
+
+Drones to enforce social distancing
+
+With the increasing need for social distancing and the usual budgetary stressors, local police departments are being forced to do more with less manpower.  The town of Linn, Wisconsin worked with a consulting firm to start a drone program. The department has been able to utilize the drones to patrol its large jurisdiction while maintaining social distancing and reducing the number of officers in the field![image](https://user-images.githubusercontent.com/4322266/111887465-2b23ce80-89cd-11eb-84de-bccf449070a7.png)
+
+
+--------------------
+
+EasyJet does aircraft maintenance using drones
+
+Blue Bear Systems has developed a maintenance, repair and overhaul drone called RAPID (Remote Automated Plane Inspection & Dissemination) aircraft inspection system for Easyjet. RAPID can quickly acquire inspection data which can be analysed and the information passed on using an airline’s reporting systems. The system can reduce aircraft inspection times by up to 90%. This is particularly useful when aircrafts are grounded due to Covid19 and maintenance staff is limited ![image](https://user-images.githubusercontent.com/4322266/111887470-324adc80-89cd-11eb-8e7d-39e2d95b2205.png)
+
+
+----------------------
+
+CyberHawk will monitor for wildfires
+
+CyberHawk has won a drone inspection contract with a major California utility provider to provide inspection services to maintain and detect any issues with the state’s electrical infrastructure. The contract will mainly focus on supporting the critical wildfire prevention and reliability campaign. The drones will be inspecting thousands of lattice steel towers and wood electricity poles that deliver power to much of California’s residents and buildings..![image](https://user-images.githubusercontent.com/4322266/111887478-3a0a8100-89cd-11eb-849c-2499825a9060.png)
+
+
+------------------------
+
+Pensa stocks shelves using drones
+
+Pensa is a start-up that provides real-time inventory data based on a drone equipped with a AI vision camera that "learns once, recognizes everywhere." The drone flies inside the store scanning shelves for misplaced items and out-of-stock items as it compiles a complete audit of the store's inventory. Pensa's autonomous perception system uses proprietary AI-based deep learning to visually identify product items (SKUs) on the retail shelf and creates observable planograms or visual representations of products on the store shelf.![image](https://user-images.githubusercontent.com/4322266/111887485-4393e900-89cd-11eb-9d63-13c600feffd4.png)
+
+
+------------------
+
+Emergency Response
+
+ShotsPotter Drone: City of Louisville, KY plans to deploy drones in areas where gunshots are detected. ShotSpotter is a hidden detection system that uses microphone sensors to find gunfire within seconds. Drones could respond to a location where shots are detected and capture photos of those suspected of firing a gun up to a minute before someone calls 911 to report a shooting.![image](https://user-images.githubusercontent.com/4322266/111887493-4b538d80-89cd-11eb-9314-4d037acca87d.png)
+
+
+---------------------
+
+Delivery Robot
+
+Boeing heavy lifting drone: Boeing has designed a prototype for an electric, unmanned cargo air vehicle that can lift as much as 500 pounds. The system would help deliver to places like oil rigs or islands connected to the mainland only by ferries. The drone navigates and looks for obstacles using components and software provided by Near Earth Autonomy.![image](https://user-images.githubusercontent.com/4322266/111887499-53133200-89cd-11eb-95b8-b0c09f453574.png)
+
+
+-----------------------
+
+Delivery Robot
+
+N.C. Department of Transportation plans to set up a network of distribution centres that would use unmanned aircraft systems (UAS) to make medical deliveries in North Carolina using technology from Matternet and Zipline.![image](https://user-images.githubusercontent.com/4322266/111887502-5a3a4000-89cd-11eb-8c58-cee955ed5bb6.png)
+
+
+-------------------
+
+Asset Tracking
+
+Caterpillar Airware helps developers create site maps, conduct pre-site inspections and monitor the progress and safety of a given building. The company uses drone tech to inspect rooftops for damage, or to analyze the flood plains around a building. Mining companies use it to track how much material is coming from a quarry, moving to a stockpile and getting out to customers.![image](https://user-images.githubusercontent.com/4322266/111887509-61f9e480-89cd-11eb-9460-04e9a6ad866a.png)
+
+
+-----------------
+
+Delivery Robot
+
+Domino’s Delivery Robot: Domino’s Robotic Unit (DRU) is testing its vehicles in Australia to deliver pizzas. The idea is to use GPS data Domino’s gathered over the years from its human drivers and combine that with an automated vehicle to make delivery rounds.![image](https://user-images.githubusercontent.com/4322266/111887511-6b834c80-89cd-11eb-9618-755cd91742c0.png)
+
+
+-------------------
+
+Air Taxi
+
+Air Taxi ‘Volocopter’ Volocopter began its journey to autonomous air taxis in 2013. It is predicted to undergo flight trials with pilots in about two years and autonomous trials a year later. Powered by Intel’s object detection technology, the drone has battery capacity of 30 minutes. It underwent trials in Dubai last year and was showcased by Intel at CES.![image](https://user-images.githubusercontent.com/4322266/111887514-72aa5a80-89cd-11eb-937e-d2f5e0240ed4.png)
+
+
+----------------
+
+Sensor fusion for data center
+
+Data centers are already well-instrumented, with sensors that provide a lot of real-time and historical data on IT performance and environmental factors. In 2018 Google moved closer to a self-driving data center cooling system by taking  snapshot of the data center cooling system with thousands of sensors every five minutes and feeding it into an AI system in the cloud. The fusion AI predicts how potential actions will affect future energy consumption and picks the best option. This is sent to the data center, verified by the local control system, and then implemented.![image](https://user-images.githubusercontent.com/4322266/111887578-d92f7880-89cd-11eb-8630-5c0c5b4a152e.png)
+
+
+-------------------------
+
+Tesla, Waymo fuse sensors
+
+Tesla uses a combination of camera vision and radar to identify a scene while Waymo uses a close connection between lidar and camera data and  radar. Both different approaches but use a software-based 3d plane identification through sensor fusion. For now, Tesla and the industry’s unsolved challenge is still merging streams of “sensor fusion” data from into a coherent plan of action to identify intent like how a human would process the same traffic data
+ ![image](https://user-images.githubusercontent.com/4322266/111887582-e0ef1d00-89cd-11eb-823d-e3f49b5d4736.png)
+
+
+-------------------
+
+F35 fighter jets sensing is next gen
+
+The Lockheed Martin F-35 Lightning II’s calling card is being a mobile sensor fusion package that can pack effectiveness of an entire fleet by sharing data and coordinating information across platforms such that the situational awareness of every warfighter present is increased exponentially. The fusion engine takes the myriad data the F-35 collects with its different sensors and combines it into a holistic picture that can be fed to the pilot — or other combatants![image](https://user-images.githubusercontent.com/4322266/111887589-e9dfee80-89cd-11eb-8c6a-d3b09ffa6714.png)
+
+
+------------------------
+
+Moxie ventures differently into cognitive development
+
+Where transactional robots such as Jibo have tried and failed is creating structural conversations. Moxie uses computer vision and fusion to filter out multiple conversations and interactions and identify intent. It works with kids to understand them and then build a rich content enabled cognitive development plan
+The team has a lot of expertise in empathy, mindfulness exercises, and natural interactions. Hence Moxie can tell jokes and even ask a child to read together like a true friend
+ ![image](https://user-images.githubusercontent.com/4322266/111887622-2dd2f380-89ce-11eb-94ff-b93f0b296c30.png)
+
+
+--------------------
+
+CropHopper robot from HayBeeSee for field monitoring
+
+CropHopper is designed to jump across fields and monitor crops, identify weeds and insects, and watch for signs of disease. It can also conduct mechanical weeding and spot spraying. CropHopper can provide better information for farmer decision making than periodic aircraft surveys or slower ground-based robots.![image](https://user-images.githubusercontent.com/4322266/111887626-34fa0180-89ce-11eb-9eac-e002cf7290c0.png)
+
+
+--------------------
+
+Creating Social twins using computer vision
+
+Researchers from the NYU Tandon School of Engineering are working on a new approach called “behavioral teleporting,” which could lead to a more in-depth understanding of social behavior, interactions between invasive and native species, as well as better human/robot interfaces. The researchers relied on an automated tracking system to score the locomotory patterns of a live fish, which were used to control the robotic replica in another other tank![image](https://user-images.githubusercontent.com/4322266/111887632-3f1c0000-89ce-11eb-8afc-bcbdde0c9962.png)
+
+
+---------------------
+
+Globoconnect envisions ‘future fleet mgmt.’ with Eyesight tech
+
+Israeli company Eyesight Technologies, will leverage AI and computer-vision technologies for a safe driving experience for fleet management conglomerate GloboConnect. The joint venture will focus efforts towards developing a monitoring device, tailored for the Oil & Gas industry’s fleets![image](https://user-images.githubusercontent.com/4322266/111887638-46dba480-89ce-11eb-8912-457cf8dc5e15.png)
+
+
+---------------------
+
+Circle K autonomous checkout
+
+Standard Cognition, a startup using artificial intelligence to create an autonomous checkout experience. Circle K retail stores will install its checkout system in convenience stores, beginning with a pilot in Phoenix. The stores will be retrofitted with the technology without any redesign of the store
+ ![image](https://user-images.githubusercontent.com/4322266/111887643-4fcc7600-89ce-11eb-83b5-ec08e8a5b13d.png)
+
+
+------------------
+
+Computer Vision to improve 3D printing, Inkbit
+
+Using computer science to help improve manufacturing, Inkbit developed the first 3D printer powered by machine vision and artificial intelligence to meet the speed, precision, and reliability requirements of volume production. The company uses a proprietary 3D scanning system to generate a topographical map of each layer after deposition. Any discrepancy from the expected geometry is corrected in subsequent layers. This data also is used to train a machine-learning algorithm that enables the printer to learn the properties of each material and anticipate its behavior.![image](https://user-images.githubusercontent.com/4322266/111887648-5955de00-89ce-11eb-92f1-06db506b34c8.png)
+
+
+-------------------
+
+Augmented Sense 
+
+Intel RealSense Interaction Design Group has developed a wearable prototype to help people with low or no vision gain a better sense of their surroundings. Combining a camera, computer vision, and sensors worn on the human body, the prototype is able to “see” objects within a few yards of you and tell you approximately where an object is located: high, low, left, or right, and whether the object is moving away or getting closer.
+![image](https://user-images.githubusercontent.com/4322266/111887649-607cec00-89ce-11eb-8b07-9cf89c9a1bdd.png)
+
+
+------------------
+
+Payments
+
+DeepBlue Technology has revealed its new self-serve vending solution, which uses palm vein recognition to distinguish between different consumers. The China-based company has incorporated computer vision to recognize goods within a vending machine, meaning customers can simply pick out a product and be charged instantly.![image](https://user-images.githubusercontent.com/4322266/111887656-68d52700-89ce-11eb-90db-c1abf4e2251c.png)
+
+
+---------------
+
+Inventory
+
+Coca Cola uses AI to recognize, identify and count the varieties and quantities of Coca-Cola bottles stored in one of its cooler display cabinets, simply by analyzing a photo taken with an iPad or iPhone. The AI can then take that stock count and combine the information with predictions based on known seasonal variations, weather information from Watson, and upcoming promotions, to automatically calculate a restocking order.![image](https://user-images.githubusercontent.com/4322266/111887657-71c5f880-89ce-11eb-8dd1-a385cf702d65.png)
+
+
+-----------------
+
+Production
+
+Computer vision powers robots that work collaboratively with workers at BMW. Roller heads installed on robot arms handle the task now. The labor-intensive and ergonomically challenging issues are gone. The robots operate at a low speed and stop automatically if sensors detect an object in the way. Quality is also maintained as the applied rolling power can be set and measured.![image](https://user-images.githubusercontent.com/4322266/111887662-79859d00-89ce-11eb-8b94-e2d3df9b88f2.png)
+
+
+----------------
+
+Surgery
+
+Gauss Surgical is producing a real-time blood monitor that solves the problem of inaccurate blood loss measurement during injuries and surgeries. The monitor comes with a simple app that uses an algorithm that analyses pictures of surgical sponges to accurately predict how much blood was lost during a surgery. This technology can save around $10 billion in unnecessary blood transfusions every year.![image](https://user-images.githubusercontent.com/4322266/111887667-80141480-89ce-11eb-9b62-240505421d23.png)
+
+
+---------------------
+
+Diagnosis
+
+Microsoft’s project InnerEye is working on solving parts of that problem by developing a tool that uses AI to analyze three-dimensional radiological images. The technology potentially can make the process 40 times quicker and suggest the most effective treatments.![image](https://user-images.githubusercontent.com/4322266/111887672-873b2280-89ce-11eb-9538-546bf4258911.png)
+
+
+---------------------
+
+Environmental monitoring through biomimics
+
+The Korea Research Institute of Ships and Ocean Engineering designed a 1,400-pound autonomous crab that can reach an underwater depth of 656 feet. It doesn't stir up clouds of silt and debris, such as propeller-driven remotely operated underwater vehicles. The crab also has a doppler radar-based navigation system so that it can feel around in murky conditions. With its several cameras it can zoom in on essential objects and species to see events at the deepest depths.![image](https://user-images.githubusercontent.com/4322266/111887692-a3d75a80-89ce-11eb-9211-5ec3dabb2445.png)
+
+
+---------------------
+
+Oman establishes innovation center for Liquid Robotics’ autonomous vessel
+
+Oman has established an innovation center built around the Wave Glider, a solar-powered autonomous vessel developed by Liquid Robotics, a Boeing company. It supports a wide variety of missions for environmental and maritime services, ranging from marine environmental monitoring and assessment to maritime surveillance and a variety of offshore commercial, security and defense applications![image](https://user-images.githubusercontent.com/4322266/111887695-adf95900-89ce-11eb-94cc-f97b304902c8.png)
+
+
+------------------
+
+Rolls Royce & Intel sail seas autonomously
+
+Rolls-Royce partnered with Intel as part of the engineering firm’s mission to build fully autonomous ships. The company has been working on autonomous shipping technology since the early 2010s, and it said last year that it wants to launch its first uncrewed ocean-going vessels by 2025. As a first step toward that, it launched its Intelligent Awareness system for crewed vessels earlier this year.
+ ![image](https://user-images.githubusercontent.com/4322266/111887701-b5206700-89ce-11eb-9d45-4dc8e9c03b8e.png)
+
+
+----------------------
+
+Larvalbot rejuvenates marine ecosystems
+
+Researchers from Queensland University of Technology, Australia have developed an underwater drone to deliver coral larvae to bleached areas of the reef. This project is a first intervention to help restore coral reefs in heavily impacted areas
+ ![image](https://user-images.githubusercontent.com/4322266/111887703-bbaede80-89ce-11eb-9f8e-912e1c6370e1.png)
+
+
+--------------
+
+Marine waste removal through autonomous robots
+
+The most notable project released by Clear Blue Sea is FRED–the Floating Robot for Eliminating Debris. This solar-powered machine floats on the ocean’s surface and collects passing garbage. After collection, FRED returns to its home base where the plastics are removed from its gathering bin and given to one of Clear Blue Sea’s sustainable recycling partners. 
+ ![image](https://user-images.githubusercontent.com/4322266/111887704-c36e8300-89ce-11eb-8c98-b997a520c4bf.png)
+
+
+------------------
+
+Mining oceans through Patania
+
+Patania II built by the Belgian company Global Sea Mineral Resources(GSMR)
+will descend four kilometers into the ocean in the Clarion-Clipperton Zone and try to suck up metal-rich nodules through four vacuums as it traverses a 400-meter-long strip of sea floor. GSMR plans to launch a third test vehicle in 2023 that will be able to bring the nodules up to awaiting surface ships.![image](https://user-images.githubusercontent.com/4322266/111887712-cb2e2780-89ce-11eb-994b-8a59fb52aff3.png)
+
+
+----------------------
+
+Covid19 testing using Cobots
+
+World’s first autonomous throat swabbing robot launched by Lifeline Robotics in collaboration with University of Southern Denmark uses its built-in vision system to identify the right points to swab in the patient’s throat. As soon as the swab process is complete, the bot places the sample in a jar and screws on the lid in under 25 seconds![image](https://user-images.githubusercontent.com/4322266/111887723-ded98e00-89ce-11eb-9813-b40c316cbb90.png)
+
+
+--------------------
+
+Kings college London uses Growbots for agriculture
+
+The GROWBOT (Grower-Reprogrammable Robot for Ornamental Plant Production Tasks) project at King’s College London is using a Sawyer Cobot arm to help greenhouse workers pick plants. GROWBOT is intended to let non- expert users work with robots for repetitive tasks and to help relieve shortages of seasonal labor. It uses machine learning to flexibly automate the handling of seedlings, herbs, and other plants.
+ ![image](https://user-images.githubusercontent.com/4322266/111887725-e7ca5f80-89ce-11eb-832a-24170c9f52b1.png)
+
+
+-------------------
+
+Boeing plans using Cobot copilots 
+
+Aurora Flight Sciences, a Boeing company, uses a UR3 arm as part of its Robotic Copilot concept. The goal is “to create a portable and extensible hardware and software toolbox introducing of new levels of automation across a wide variety of military and civilian aircraft that ultimately reduce crew requirements.”
+The Aircrew Labor In-Cockpit Automation System, or ALIAS, combines sensors, a tablet interface for pilots, and flight-control and mission software. The Cobot enables it to interact with cockpit controls designed for human pilots.![image](https://user-images.githubusercontent.com/4322266/111887732-ee58d700-89ce-11eb-9c28-c413d958a52b.png)
+
+
+--------------------
+
+Cobots supplement stretched nursing staff
+
+Working with Japanese robotics developer, Cyberdyne, on trialing and launching HAL Lumbar type Cobots, Hampshire County and PA Consulting have been keen to explore how Cobots could help with the physical demands faced by stretched care sector staff. Already in use in Japan, Cobots are worn around the lower back and actively support carers in moving objects or supporting people![image](https://user-images.githubusercontent.com/4322266/111887737-f87ad580-89ce-11eb-9506-a618d50d7c95.png)
+
+
+-----------------
+
+Delivery
+
+Aethon’s autonomous, self-driving robots TUG work in a variety of industrial and commercial contexts to carry and secure material. In hospitals, nurses can use TUG as a Cobot to transport, identify, and distribute highly regulated medicines to patients.![image](https://user-images.githubusercontent.com/4322266/111887740-016ba700-89cf-11eb-8137-87fa955d1c99.png)
+
+
+------------------
+
+Pick & Pack
+
+DHL partnered with Locus Robotics to assist its pickers in order fulfilment. Locusbots will work alongside their human companions, helping them locate and collect items for shipment. DHL expects this to increase picker speed and reduce mistakes, leading to greater efficiency in their supply chain. ![image](https://user-images.githubusercontent.com/4322266/111887747-0af50f00-89cf-11eb-8c38-2e0ce7307ef3.png)
+
+
+---------------------
+
+In-Store Navigation
+
+In 2016, Lowe’s introduced LoweBot, a NAVii autonomous retail service robot by Fellow. LoweBot works directly with customers, who can address it in natural language. LoweBot tells customers whether an item is in stock and where it’s located and then physically guides them to the correct aisle.![image](https://user-images.githubusercontent.com/4322266/111887748-10eaf000-89cf-11eb-9f4e-d49c8afaad74.png)
+
+
+----------------------
+
+Quality Assurance
+
+Bayer Cobots were developed by Universal robots for collection from production areas for QA. Pharmaceutical multinational Bayer was looking for solutions to automate a highly complex process currently performed entirely by hand: quality control of powder samples taken from sealed bags inside specific containers, an operation carried out hundreds of times a day in Bayer plants.
+![image](https://user-images.githubusercontent.com/4322266/111887751-16e0d100-89cf-11eb-91cb-400bc0f37833.png)
+
+
+----------------------
+
+Handling
+
+BASF developed a Cobot for industrial use – in partnership with SIASUN. The lightweight Cobot is one of five co-creation projects under the banner of “Trio”, a collaboration between BASF, top designers, and brand owners.![image](https://user-images.githubusercontent.com/4322266/111887752-1e07df00-89cf-11eb-84df-2171e67bf762.png)
+
+
+------------------
+
+Handling
+
+Bosch developed APAS – collaborative robot with tactile receptors to detect impact, security perimeter that reduces the speed of the robot in close human proximity and 2D-3D vision.![image](https://user-images.githubusercontent.com/4322266/111887756-26f8b080-89cf-11eb-9b3f-2e9731523e95.png)
+
+
+----------------
+
+Kinova Jaco lends a helping hand to spinal muscular atrophy patients
+
+Kinova Robotics' Jaco arm is an assistive robotic arm designed to be mounted on an electric wheelchair. With six degrees of freedom plus a three-fingered gripper, the lightweight carbon fiber arm adds autonomy to the lives of people with mobility constraints.![image](https://user-images.githubusercontent.com/4322266/111887767-3bd54400-89cf-11eb-9c0c-38ef8600a62a.png)
+
+
+---------------------
+
+Neuralink surgical robot enables next gen BCI
+
+The Neuralink surgical robot, revealed by Elon musk in August 2020, is supposed to manipulate and insert the tiny brain computer interface threads into the brain. The robot is able to both capture your brain and then with almost a sewing machine-like, micro-precise needle and thread, place the neural threads in the exact right location based on the surgeon decisions around what the safe locations are for the threads to be inserted
+ ![image](https://user-images.githubusercontent.com/4322266/111887774-42fc5200-89cf-11eb-8478-c97ad14dde0f.png)
+
+
+---------------
+
+Obeta uses covarients dynamic picking arms
+
+Covariant is tackling the issue of picking any size package with relatively simple hardware, including an off-the-shelf industrial arm , a suction gripper and a 2D camera system that doesn’t rely on lasers or pattern projection. What makes the system work is a neural network that identifies the object to be picked up. 
+The system is deployed in a warehouse that handles logistics for a Obeta, which overnights orders of electrical supplies to electricians in Germany![image](https://user-images.githubusercontent.com/4322266/111887778-48f23300-89cf-11eb-9040-3e2da73ac6a5.png)
+
+
+---------------------
+
+Fedex Memphis accelerates robot arm deployment
+
+FedEx installed a quartet of robotic arms from Yaskawa America with the express intent of helping sort the massive numbers of parcels that pass through its Memphis facility. With the advent of Covid19, a majority of its shipments are being routed through this facility to protect its workforce from contact-based infections. The company says several members of its Small Package Sort System team — who previously did the sorting themselves — are operating as supervisors for the new robotic employees.
+ ![image](https://user-images.githubusercontent.com/4322266/111887786-50194100-89cf-11eb-891b-c31da97d8741.png)
+
+
+-------------------
+
+Exoskeleton
+
+Ford Exoskeletons: Ekso Bionics and Ford have deployed exoskeletons to aid in vehicle manufacture and assembly for tasks such as windshield placement, which requires human expertise, while the suit provides necessary robotics to prevent worker fatigue and injury.![image](https://user-images.githubusercontent.com/4322266/111887789-57d8e580-89cf-11eb-899e-86fb5fad3a69.png)
+
+
+-------------------
+
+Assembly Robots for NASA
+
+NASA Tension Actuated in Space Manipulator or TALISMAN is a robotic arm designed to perform spacecraft assembly operations in areas beyond Earth’s atmosphere. The TALISMAN effort is part of the Commercial Infrastructure for Robotic Assembly and Servicing program that aims to address NASA’s needs for in-space assembly and construction.![image](https://user-images.githubusercontent.com/4322266/111887801-66270180-89cf-11eb-9c19-75d4263595bb.png)
+
+
+-----------------
+
+Robotic Surgery
+
+LBR Medical robots: Kuka robotics is now moving from assembly floor to robotics surgery as its LBR Med lightweight robot is certified for medical precision. The LBR Med is based on KUKA’s LBR iiwa industrial robot, which is designed for delicate assembly work. The robot’s stiffness and stability make it ideal for bone surgery, performing ultrasound scans, endoscopies and laser procedures etc. ![image](https://user-images.githubusercontent.com/4322266/111887804-6cb57900-89cf-11eb-81ba-4a38a0bbbb6c.png)
+
+
+---------------
+
+Assembly robots
+
+ABB Yumi was originally designed for small-parts assembly, but it can solve a Rubik’s Cube, make sushi, wrap gifts and conduct an orchestra. The robot has a payload of 500 grams and is compact enough to be integrated into existing assembly lines. It also features lead-through programming, eliminating the need for specialized training for operators. ![image](https://user-images.githubusercontent.com/4322266/111887807-7343f080-89cf-11eb-9e2c-b6f530438bf7.png)
+
+
+----------------
+
+Kitchen Assembly
+
+Caliburger Kitchens Flippy robot is a wheeled cart equipped with a 6-axis robotic arm which can be installed in front of or next to any standard grill or fryer. It takes in data from thermal sensors, 3D sensors and different cameras onboard to perceive its environment and assemble burgers on demand.![image](https://user-images.githubusercontent.com/4322266/111887813-7b039500-89cf-11eb-8cb2-dff55ff6eebf.png)
+
+
+----------------------
+
+Assembly Robots for GE
+
+GE Lighting division: employs Rethink Sawyer robot that can work alongside regular factory workers and even have displays as part of their UX to interact with other workers. The robots handle repetitive assembly line jobs, like moving items from a conveyor belt to a box. Sawyer moves ahead of its elder sibling Baxter as it is designed for high-precision tasks requiring agility and flexibility; easily adapting to real world, semi-structured environments![image](https://user-images.githubusercontent.com/4322266/111887818-80f97600-89cf-11eb-863b-b1f44caecdc5.png)
+
+
+------------------
