@@ -7,6 +7,12 @@ Inspired by biological phenomena, Harvard’s School of Engineering and Applied 
  ![image](https://user-images.githubusercontent.com/4322266/111886788-5e179380-89c8-11eb-9c82-a8f1a0baf34c.png)
 
 
+---------------------
+
+Roboadvisors at CaixaBank
+
+By using Roboadvisors, the objective of CaixaBank is to allow the contracting of managed portfolios by non-assessed customers via an online assessment service. Based on data on the profile, risk and objectives of the client, the bank can offer the automatic creation of investment portfolios at low cost.  So far, this kind of products where available just in the branch. Currently, there is no solution in the Spanish market such as Smartmoney, a RoboAdvisor for integrated use within online banking. A solution of this type is necessary to break barriers such as the definition of a 100% digital product, which is compliance. ![image](https://user-images.githubusercontent.com/4322266/111923915-8e7b3280-8a99-11eb-94f8-0d0f24993410.png)
+
 
 ---------------
 
