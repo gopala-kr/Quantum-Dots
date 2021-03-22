@@ -928,6 +928,14 @@
 ---------------
 ![Hcu7OTXHN_PgRA69YCT41A](https://miro.medium.com/max/7016/1*Hcu7OTXHN_PgRA69YCT41A.png)
 
+-------
+![fin1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fin1001.png)
+
+--------
+![fi1002](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1002.jpg)
+-------
+![fi1003](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1003.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -965,7 +973,22 @@
 - [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
 
+-------------
+
+![fi1004](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1004.jpg)
+
+-------
+![fi1005](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1005.jpg)
+
+----------
+![fi1006](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1006.jpg)
+
+-------
+![fi1007](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1007.jpg)
+
+------------
 -----------------
+
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
 ---------
 ![Clark%27s_Sector_model](https://upload.wikimedia.org/wikipedia/commons/b/bb/Clark%27s_Sector_model.png)
@@ -998,7 +1021,11 @@
 --------------
 ![jbl12202-fig-0005-m](https://onlinelibrary.wiley.com/cms/asset/5f781312-9d25-46df-9d8f-39c55cdea4a4/jbl12202-fig-0005-m.jpg)
 
+-----------
+![fin1000](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fin1000.png)
+
 ---------
+
 ![balenced_human_ethics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/balenced_human_ethics.PNG)
 ------
 ![Government_Business_Reference_Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Government_Business_Reference_Model.svg/1920px-Government_Business_Reference_Model.svg.png)
@@ -1007,8 +1034,10 @@
 ![sustainability-11-06652-g001](https://www.mdpi.com/sustainability/sustainability-11-06652/article_deploy/html/images/sustainability-11-06652-g001.png)
 ----------
 ![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
+
 --------------------
 ------------
+
 ![Kjaer-Global-Leadership-Trend-Compass-2025](https://global-influences.com/wp-content/uploads/2018/01/01_18-Kjaer-Global-Leadership-Trend-Compass-2025.jpg)
 ------------
 ![Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1](https://global-influences.com/wp-content/uploads/2016/12/Trends-2017-2018-Techonlogy-Trend-Compass-2025-Kjaer-Global-1.jpg)
@@ -1057,6 +1086,8 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
+
+
 
 ------------
 -----------------
