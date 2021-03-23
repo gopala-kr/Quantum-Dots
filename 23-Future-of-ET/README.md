@@ -1572,6 +1572,11 @@
 -------
 ![20Page_](https://www.leanix.net/hs-fs/hubfs/MQ2020%20Graphic_Landing%20Page_.png?width=750&height=750&name=MQ2020%20Graphic_Landing%20Page_.png)
 
+
+-----------
+
+![ea_tmlin](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/ea_tmlin.png)
+
 -----------
 
 [Back to top](#contents)
