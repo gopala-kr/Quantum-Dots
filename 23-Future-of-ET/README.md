@@ -1735,6 +1735,30 @@
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
+
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og1.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og2.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og3.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og4.png)
+
+----------
+![]()
+
+
+----------
+![]()
+
+
+----------
+![]()
+
+
+
+
 ---------
 ![Governance_Poster_Resource_Page_Thumbnail](https://www.leanix.net/hs-fs/hubfs/Imported%20images/EA-Governance_Poster_Resource_Page_Thumbnail-1.png?width=1560&height=1092&name=EA-Governance_Poster_Resource_Page_Thumbnail-1.png)
 -------------
