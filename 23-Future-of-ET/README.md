@@ -1740,24 +1740,22 @@
 ![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og1.png)
 ----------
 ![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og2.png)
-----------
+----------_
 ![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og3.png)
 ----------
 ![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og4.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og5.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og6.png)
+----------
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og7.png)
 
 ----------
-![]()
-
-
-----------
-![]()
-
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og8.png)
 
 ----------
-![]()
-
-
-
+![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og9.png)
 
 ---------
 ![Governance_Poster_Resource_Page_Thumbnail](https://www.leanix.net/hs-fs/hubfs/Imported%20images/EA-Governance_Poster_Resource_Page_Thumbnail-1.png?width=1560&height=1092&name=EA-Governance_Poster_Resource_Page_Thumbnail-1.png)
