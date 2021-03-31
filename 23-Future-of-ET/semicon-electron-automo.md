@@ -280,6 +280,9 @@
 --------------
 
 ![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm5.png)
+--------------
+
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm6.png)
 ----------
 ![]()
 ----------
