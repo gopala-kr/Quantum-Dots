@@ -340,6 +340,14 @@
 ![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm33.png)
 --------------
 ![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm34.png)
+--------------
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm35.png)
+--------------
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm36.png)
+--------------
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm37.png)
+--------------
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm38.png)
 ----------
 ![]()
 ----------
