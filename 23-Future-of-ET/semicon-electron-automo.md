@@ -262,8 +262,12 @@
 ![Telco%20Workloads](https://www.hyperscalers.com.au/image/catalog/AAA%20Telco/Telco%20Workloads.jpg)
 ----------
 ![1909](https://images.deepai.org/converted-papers/1909.08747/x2.png)
+
+
 ----------
-![]()
+--------------
+
+![sm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/sm1.png)
 ----------
 ![]()
 ----------
