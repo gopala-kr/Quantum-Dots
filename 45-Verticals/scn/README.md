@@ -28,3 +28,18 @@
 ![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh10.png)
 
 --------------------------
+![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh11.png)
+
+--------------------------
+![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh12.png)
+
+--------------------------
+![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh13.png)
+
+--------------------------
+![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh14.png)
+
+--------------------------
+![gh1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh15.png)
+
+--------------------------
