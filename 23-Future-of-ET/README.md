@@ -33,7 +33,7 @@
       - [Space](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/r/README.md)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-      - Airline
+      - [Airline](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/i.md)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Mobility**
