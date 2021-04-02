@@ -30,7 +30,7 @@
   - **Evolution from Medieval**
   - **Evolved + Contemporary**
     - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**
-      - Space
+      - [Space](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/r/README.md)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
       - Airline
@@ -128,7 +128,7 @@
   - Current
     - Micro
     - Macro
-    - Internatinal
+    - International
   - Earth Orbital
   - Celestial 
     - Earth-Moon
