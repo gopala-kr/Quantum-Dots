@@ -7956,6 +7956,15 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ------------
 ![Do8QQT8X0AA-q88](https://pbs.twimg.com/media/Do8QQT8X0AA-q88.jpg)
 -----------
+
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db1.png)
+-------
+![db2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db2.png)
+
+-----------
+
+![db3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db3.png)
+---------
 ![SAP-HANA-Platform](https://www.zarantech.com/blog/wp-content/uploads/2017/04/SAP-HANA-Platform.png)
 ----------
 ![52f31bf41bd150a4225b09a3234e16ba](https://i.pinimg.com/originals/52/f3/1b/52f31bf41bd150a4225b09a3234e16ba.png)
