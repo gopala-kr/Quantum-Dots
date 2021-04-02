@@ -3489,6 +3489,8 @@ SAP Portfolio
 ![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
 ------
 ![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
+------
+![gh8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh8.png)
 
 -------
 ----------
