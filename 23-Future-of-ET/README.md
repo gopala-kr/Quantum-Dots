@@ -1223,6 +1223,9 @@
 
 ![Tech2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech2.png)
 -----
+![fi1071](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1071.png)
+
+----------------
 ![Tech_finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_finance.png)
 ----------
 ![finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/finance.PNG)
