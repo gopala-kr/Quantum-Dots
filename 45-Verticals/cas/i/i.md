@@ -1,3 +1,5 @@
+
+------------------
 ![ca0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ca0.png)
 -------
 ![ca0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ca1.png)
@@ -56,3 +58,17 @@
 -------
 ![ca0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ca28.png)
 -------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad2.png)
+-------
+-------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad1.png)
+-------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad2.png)
+-------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad3.png)
+-------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad4.png)
+-------
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad5.png)
+![ad2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/i/ad2.png)
+----------------
