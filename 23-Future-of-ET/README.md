@@ -91,7 +91,7 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Consulting Services**
-      - Management Consulting, Technology & Engineering Consulting, Business Process Outsourcing(BPO) Consulting 
+      - Management Consulting, Technology & Engineering Consulting, Business Process Outsourcing(BPO)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Consumer & Retail Tech**
@@ -124,7 +124,7 @@
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
-- **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**]
+- **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
   - Current
     - Micro
     - Macro
@@ -1058,6 +1058,35 @@
 
 --------------
 ![TimelineEconomicHistory-5c3b-f9fb](https://cdn.howmuch.net/articles/TimelineEconomicHistory-5c3b-f9fb.jpg)
+
+------------
+
+![bitcoin-money-economy-in-perspective-7dd6](https://cdn.howmuch.net/articles/bitcoin-money-economy-in-perspective-7dd6.jpg)
+
+---------
+![broad-money-world-a4f5](https://cdn.howmuch.net/articles/broad-money-world-a4f5.jpg)
+
+
+-----------
+![Capitalization-d09f](https://cdn.howmuch.net/articles/Capitalization-d09f.png)
+
+---------
+![Top-10-Exchanges_CD-01](https://staticshare.america.gov/uploads/2018/07/Top-10-Exchanges_CD-01.jpg)
+
+-----------------
+-------------
+### [The $88 Trillion Earth Economy(GDP) 2020](https://www.visualcapitalist.com/the-88-trillion-world-economy-in-one-chart/)
+
+![88-trillion-dollar-world-economy-2019](https://www.visualcapitalist.com/wp-content/uploads/2020/09/88-trillion-dollar-world-economy-2019.jpg)
+---------
+### [The $135 Trillion Earth Economy(GDP - PPP) 2019](https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD)
+
+![world-economy-ppp-gdp-1200](https://www.visualcapitalist.com/wp-content/uploads/2019/09/world-economy-ppp-gdp-1200.jpg)
+
+-----------------------------
+
+![US-GDP-by-Year-Compared-to-Recessions-and-Events-v8---1600px-9167](https://cdn.howmuch.net/articles/US-GDP-by-Year-Compared-to-Recessions-and-Events-v8---1600px-9167.jpg)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
