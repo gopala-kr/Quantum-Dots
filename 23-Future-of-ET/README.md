@@ -59,7 +59,7 @@
       - **Real Estate**
       - **FinTech**
     - **HighTech**
-      - **Semiconductor**
+      - **[Semiconductor](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
       - **Information & Communication Technologies(ICT)**
