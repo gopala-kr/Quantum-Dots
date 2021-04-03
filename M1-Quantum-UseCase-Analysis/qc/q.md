@@ -26,4 +26,18 @@
 ---------------
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc31.png)
 ---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc32.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc33.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc34.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc35.png)
+---------------
 
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc36.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc37.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc38.png)
+---------------
