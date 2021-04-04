@@ -2291,6 +2291,9 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----------
 ![DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/DevOps.png)
 
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas.png)
+
 ----------
 -----------
 ![cl501](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl501.png)
