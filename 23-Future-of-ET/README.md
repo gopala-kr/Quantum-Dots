@@ -2293,6 +2293,12 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 
 ---------
 ![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas.png)
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas2.png)
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas3.png)
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas4.png)
 
 ----------
 -----------
