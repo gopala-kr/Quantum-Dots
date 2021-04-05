@@ -1849,6 +1849,10 @@ Typical Team Structure
 ![rfp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rfp15.png)
 -------
 ![rfp16](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rfp16.png)
+-------
+![pmo1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo1.png)
+---------
+![pmo2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo2.png)
 
 [Back to top](#contents)
 
