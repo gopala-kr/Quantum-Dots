@@ -2335,10 +2335,21 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 ![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas20.png)
 ---------
 ![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas21.png)
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas22.png)
+---------
+![naas](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/naas23.png)
+
+----------
+--------------
+
+![linux_perf_tools_full](http://www.brendangregg.com/Perf/linux_perf_tools_full.svg)
 
 ----------
 -----------
+
 ![cl501](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl501.png)
+
 -----
 ![cl502](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/cl502.png)
 
