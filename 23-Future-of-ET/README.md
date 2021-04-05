@@ -1919,9 +1919,9 @@ Typical Team Structure
 ![pmo13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo13.png)
 
 ---------
-![pmo13](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo13.png)
+![pmo14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo14.png)
 
----------
+-----------------
 ![pmo16](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo16.png)
 
 -------
@@ -1973,8 +1973,6 @@ Typical Team Structure
 ![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo99.png)
 --------------
 ![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo100.png)
---------
-![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo28.png)
 
 --------
 ![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo28.png)
