@@ -7829,6 +7829,10 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ![Do8QQT8X0AA-q88](https://pbs.twimg.com/media/Do8QQT8X0AA-q88.jpg)
 -----------
 
+![gcp-data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data.png)
+
+--------------------
+
 ![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db1.png)
 -------
 ![db2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db2.png)
