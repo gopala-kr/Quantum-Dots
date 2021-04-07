@@ -7831,7 +7831,7 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 ![gcp-data1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data1.png)
 ------------
-![gcp-data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data.png)
+![gcp-data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data3.png)
 
 --------------------
 
@@ -8570,6 +8570,8 @@ Use Cases
 ---------------
 
 ![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data2.png)
+
+-----------
 
 --------------------
 
