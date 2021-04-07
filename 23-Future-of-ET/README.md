@@ -7829,6 +7829,8 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ![Do8QQT8X0AA-q88](https://pbs.twimg.com/media/Do8QQT8X0AA-q88.jpg)
 -----------
 
+![gcp-data1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data1.png)
+------------
 ![gcp-data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data.png)
 
 --------------------
@@ -8563,6 +8565,11 @@ Use Cases
 ![hadoop-ecosystem](https://miro.medium.com/max/1050/1*4tyAmTnvmvCG0xl9PmSLDg.png)
 --------------
 ![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
+
+------------
+---------------
+
+![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data2.png)
 
 --------------------
 
