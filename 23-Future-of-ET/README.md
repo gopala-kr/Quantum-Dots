@@ -8571,6 +8571,19 @@ Use Cases
 
 ![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data2.png)
 
+---------------
+
+![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data4.png)
+---------------
+
+![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data5.png)
+---------------
+
+![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data6.png)
+---------------
+
+![gcp-data2.](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data7.png)
+
 -----------
 
 --------------------
