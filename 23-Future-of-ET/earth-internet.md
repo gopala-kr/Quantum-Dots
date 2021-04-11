@@ -212,6 +212,26 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 
 ---------
 ![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g9.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g10.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g11.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g12.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g13.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g14.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g15.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g16.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g17.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g18.png)
+---------
+![g9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g19.png)
 
 ---------
 ------------------
