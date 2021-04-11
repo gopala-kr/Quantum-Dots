@@ -795,3 +795,25 @@ GE Lighting division: employs Rethink Sawyer robot that can work alongside regul
 
 
 ------------------
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r1.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r2.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r3.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r4.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r5.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r6.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r7.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r8.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r9.png)
+----------------------
+![r1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/vio-m/r10.png)
+
+--------------------
