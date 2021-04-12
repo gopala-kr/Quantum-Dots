@@ -382,7 +382,10 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 
 ------------------
 ![r14](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/r14.png)
-
+------------------
+![r14](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/r15.png)
+------------------
+![r14](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/r16.png)
 
 ---------
 ------------------
