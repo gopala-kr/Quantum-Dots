@@ -1906,7 +1906,12 @@ Typical Team Structure
 
 ---------
 --------------
+![digital_transformation_with_an_online_community](https://dionhinchcliffe.files.wordpress.com/2016/11/digital_transformation_with_an_online_community.png)
 
+------------
+![in48](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in48.png)
+
+-----------
 ![pmo39](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo39.png)
 ----------
 ![pmo2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo11.png)
@@ -1975,6 +1980,7 @@ Typical Team Structure
 
 -----------
 -----------
+
 ![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo99.png)
 --------------
 ![pmo28](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/pmo100.png)
