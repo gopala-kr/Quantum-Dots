@@ -921,6 +921,12 @@
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
 
+---------
+![LongWavesThreeParadigms](https://upload.wikimedia.org/wikipedia/commons/d/d7/LongWavesThreeParadigms.jpg)
+
+------------
+![461-4615147_the-waves-of-innovation-from-the-18th-to](https://www.seekpng.com/png/full/461-4615147_the-waves-of-innovation-from-the-18th-to.png)
+
 ------
 ![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
 
@@ -978,6 +984,12 @@
 
 
 -------------
+![Three_stages_of_the_Information_Age](https://upload.wikimedia.org/wikipedia/commons/7/7b/Three_stages_of_the_Information_Age.png)
+
+-----------
+![waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt](https://upload.wikimedia.org/wikipedia/commons/e/e4/Kondratiev-waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt-AJW_2004.jpg)
+
+--------------------
 
 ![fi1004](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1004.jpg)
 
@@ -992,6 +1004,7 @@
 
 ------------
 -----------------
+
 
 ![employment-by-economic-sector](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/employment-by-economic-sector.png)
 ---------
@@ -1111,7 +1124,7 @@
 
 [Back to top](#contents)
 
-------------
+----------------
 ![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
 ---------
 ![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
@@ -1162,6 +1175,9 @@
 ---------
 ![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
+---------
+![Internet_map_1024](https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1183,6 +1199,14 @@
 
 #### [Workforce and Skills](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)
 
+-------------
+--------------
+![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
+--------
+![figure_1](https://www.educause.edu/-/media/images/educause/ecar/driving-digital-transformation-in-higher-education/2020/figure_1.png)
+
+--------
+![Digital-Culture-Stages-1024x564](https://go.forrester.com/wp-content/uploads/Digital-Culture-Stages-1024x564.gif)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1191,10 +1215,12 @@
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
----------------
-![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
+
 -------
 ![in45](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in45.png)
+
+---------------
+![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
 
 ------
 ![iflow61](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow61.PNG)
