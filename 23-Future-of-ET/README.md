@@ -925,7 +925,7 @@
 ![LongWavesThreeParadigms](https://upload.wikimedia.org/wikipedia/commons/d/d7/LongWavesThreeParadigms.jpg)
 
 ------------
-![461-4615147_the-waves-of-innovation-from-the-18th-to](https://www.seekpng.com/png/full/461-4615147_the-waves-of-innovation-from-the-18th-to.png)
+![iwaves](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/iwaves.png)
 
 ------
 ![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
@@ -1207,6 +1207,9 @@
 
 --------
 ![Digital-Culture-Stages-1024x564](https://go.forrester.com/wp-content/uploads/Digital-Culture-Stages-1024x564.gif)
+
+-----------
+![digi_cap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digi_cap.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
