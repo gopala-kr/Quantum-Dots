@@ -30,8 +30,7 @@
   - **Vintage**
   - **Evolution from Medieval**
   - **Evolved + Contemporary**
-    - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**
-      - [Digitalisation in the Aerospace Industry](https://www.coursera.org/learn/industry)
+    - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**  - [Digitalisation in the Aerospace Industry](https://www.coursera.org/learn/industry)
       - [Space](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/cas/r/README.md)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -954,46 +953,7 @@
 -----
 ![btp_sustain](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_sustain.PNG)
 
----------
-![in1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in1.png)
------------
-![in19](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in19.png)
---------
-![in20](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in20.png)
-------
-![in18](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in18.png)
---------
-![in15](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in15.png)
---------
-![in16](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in16.png)
---------
-![in17](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in17.png)
---------
-![in14](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in14.png)
--------
-![in12](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in12.png)
--------
-![in13](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in13.png)
-----------
-![in2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in2.png)
----------
-![in3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in3.png)
---------
-![in4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in4.png)
----------
-![in5](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in5.png)
-----------
-![in6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in6.png)
---------
-![in7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in7.png)
---------
-![in8](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in8.png)
-----------
-![in9](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in9.png)
----------
-![in10](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in10.png)
-----------
-![in11](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in11.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1233,6 +1193,9 @@
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 ---------------
 ![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
+-------
+![in45](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in45.png)
+
 ------
 ![iflow61](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow61.PNG)
 -----------
