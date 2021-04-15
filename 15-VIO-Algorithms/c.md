@@ -1199,11 +1199,188 @@ The Geneva Police Service uses location intelligence to help with crime pattern 
 
 
 --------------
+-----------------------
+RECRUIT’S QUANTUM MACHINE LEARNING FOR MARKETING AND ADVERTISING APPS
+
+Japan’s subsidiary Recruit Communications is testing quantum computing for marketing and advertising applications, specifically to improve recommendation systems with machine learning methods.
+
+-----------
+
+Forbes mobile goes PWA
+
+Forbes launched its mobile web experience for Forbes.com that has a similar look and feel to Snapchat stories. The new mobile experience was developed as a Progressive Web App that offers an improved user experience that includes faster load times, app-like navigation and highly visual content
+
+
+---------------
+
+Verizon Media tests cloud CI/CD platform
+
+Combining Screwdriver, an internally built, open source, CI/CD platform with the Sauce Labs cloud-based testing platform, Verizon Media—home to leading brands such as AOL, HuffPost, TechCrunch, Yahoo Finance and Yahoo Sports— implemented a powerful solution for continuous testing and integration.
+
+
+--------------
+
+Vodafone goes cloud native for IoT & 5G
+
+With users in 25 different countries Vodafone began building a centralized platform for the product teams delivering digital experience in the different markets to use across different public cloud platforms. This provided for deployment of services across edge sites over 5G networks from a single location.
+
+---------------
+QUANTUM NETWORKS
+
+KPN has implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam, the Netherlands. It is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.
+
+
+---------------
+
+MANAGED SECURITY 
+
+Align Communications deployed MDR solution from eSentire, esNETWORK, to provide network monitoring services for its clients in financial services domain.
+
+
+-----------
+360-DEGREE APPLICATION PROTECTION
+
+UK-based telecom provider EE, part of BT Group, used Imperva FlexProtect for Applications to protect its consumer web pages and B2C e-commerce applications. The solution added additional SaaS services such as DDoS Protection to safeguard against large-scale botnet attacks, and Attack Analytics, which uses machine learning to distill thousands of security events into several, actionable narratives.
+
+------------
+PROTECT INTELLECTUAL PROPERTY
+
+A large global semiconductor manufacturer used Attivo Networks’ ThreatDefend Platform to gain visibility into  in-network threats, stolen credential attacks, and replace false positives with substantiated alerts. With immediate visibility, the team  receives alerts only on suspicious or malicious activity in the network without extensive investigations.
+
+-----------
+China takes QKD seriously 
+
+Most of China’s massive investment in quantum has gone toward quantum security itself, including the development of quantum key distribution (QKD). China looks to be all in on QKD networks. The country has already built a 1,263-mile link between Beijing and Shanghai to deliver quantum keys. And a successful QKD demonstration by the Chinese Micius satellite was reported across the 4,700 miles between Beijing and Vienna.
+
+
+----------------
+Technicolor’s transformation with WinAutomation
+
+Using the desktop-based WinAutomation solution, Technicolor began automating the top priority processes. For example, the project team built a process capable of logging into a FedEx portal, downloading invoices for deliveries, creating a combined PDF file, and send it to another email account for further processing. This completely eliminated a time-consuming daily task for the Accounts Payable team.
+
+
+-----------------
+
+DaaS to support Toppan Merrill’s M&A strategy
+
+Toppan Merrill is a $14 billion Japanese-owned printing company, headquartered in New York. The organization made a substantial investment in new virtual desktop and back-end IT infrastructure to support business growth through strategic acquisitions. After a number of acquisitions, the organization effectively doubled in size, and this is why it decided to invest in Virtual Desktop Infrastructure (VDI) and Desktop as a Service. 
+
+
+--------------------
+
+CSP ROAMING TRANSACTION RECONCILIATION
+
+In the highly regulated and competitive telecom industry, Communication Service Providers (CSPs) engage in complex roaming works to extend the range of their coverage but roaming traffic is difficult to monitor and reconcile. Third-party Data Clearing Houses (DCHs) serve as middlemen to reconcile roaming transactions but keeping track of this process remains time-intensive and expensive. A lengthy reconciliation process can enable roaming fraud, currently accounting for over $10 billion revenue loss. The solution: Blockchain-based smart contracts can replace middlemen, enabling automatic reconciliation and payment across multiple roaming partners. Reducing costs from DCH intermediaries, preventing fraud, smart contracts automatically execute the terms of an agreement after a transaction is broadcast on the blockchain. Their dynamic nature make them a valuable solution for networks that are continually evolving. A blockchain solution enforces disparate contracts in complex roaming networks that cross geographic and regulatory boundaries. 
+
+
+----------------------
+5G AND PICO CELL TECHNOLOGIES 
+
+5G and Pico Cell technologies will allow for greater speed and more reliability among devices requiring a cellular connection. Enhancements will improve data transfer speeds, transmit/receive latency and connectivity. 
+Mobile Data, Replacing Wireless Networks: Instead of having a mobile data plan and home network, consumers will consolidate and only have a mobile data plan. The speed of the new mobile data will be as fast if not faster than current network speeds.  Low Latency: IoT connectivity can be further improved by reducing the communication times and improving transmit and receive speeds. Advancements will improve how cars communicate with each other, feedback between assembly line robots. Improvements will be seen in the reliability of connected devices in both industrial and personal environments. 
+
+-----------------
+
+GESI SUSTAINABILITY IMPACT QUANTIFICATION 
+
+GeSI, the Global e-Sustainability initiative, has a clear vision: to build a sustainable world through responsible, Information and Communication. Technology (ICT)-enabled transformation. They approached Accenture to quantify the sustainability impact of digital solutions using analytics and actual data and to define methodology to steer activities of digital industry to maximize positive impacts. To date, the client has committed to elevate positive impacts, flip negative impacts and innovate for all Sustainable Development Goals (SDGs).
+
+
+--------------
+
+Exploring Titanic shipwreck using VR
+
+Immersive VR Education has designed a new education game that lets the users explore the wreckage of Titanic from the eyes of a survivor. The game uses motion capture reality and includes missions and storytelling. In this 6-hour long game players are required to navigate the wreck of the sunken ship. Further, the game includes dive missions and lab missions to recover artefacts. Such high-quality content are likely to fuel the growth and adoption of VR.
+ 
+
+
+----------------
+Interactive bot at Dixons Carphone
+
+Working with Microsoft Services, Dixons Carphone investigated the capabilities of the Microsoft Bot Framework and Microsoft Cognitive Services to build AI into its customer interactions. The Bot Framework is a platform for building, connecting, testing, and deploying powerful and intelligent bots—apps that customers interact with in a conversational way.
+
+
+----------------
+
+Multi-Tenant Big Data Management Solution for a Media Broadcasting Corp. 
+
+Germany's Media Broadcasting corporation modernizes its legacy system to manage large discrete media files of over 4 PB/year and reduces data storage costs by 93%, using Multi-Tenant Big Data Management solution. To build this robust and cost-efficient solution, the Azure development experts have leveraged Azure PaaS including Azure Storage, Azure Health Monitor, Azure Traffic Manager, Azure Active Directory, Azure Media Service, and Azure App Service.
+
+
+---------------
+BT WORKS TO SECURE ITS NETWORK
+
+BT announced an ‘unhackable’ quantum-secured network in June 2018. The collaborative project was led by the Quantum Communications Hub, part of the UK National Quantum Technologies Programme. 
+The quantum link itself is said to be virtually “unhackable” because it relies on the use of single particles of light (photons), to transmit data encryption “keys” across the fibre. Should this communication be intercepted, the sender will be able to tell that the link has been tampered with and the stolen photons cannot then be used as part of the key, rendering the data stream incomprehensible to the hacker.
+
+-----------
+
+QUANTUM SAFE SYSTEM ON DEUTSCHE TELEKOM‘S TRIAL NETWORK
+
+SK Telecom has applied its quantum safe system on Deutsche Telekom’s trial network and plans to expand deployment to parts of commercial networks this year.
+The South Korean telco's quantum-safe system consists of quantum key distribution, quantum random number generator, and an operating system.
+
+-------------------
+
+KPN WORKS TO MAKE QUANTUM-SAFE INTERNET A REALITY
+
+KPN will be providing the infrastructure and locations that QuTech, a collaboration between TU Delft and TNO, will use for research and development. A desired application of a quantum internet is to provide virtually unbreakable privacy and a foundation of secure communication, guaranteed by the fundamental laws of physics.
+
+
+---------------------
+
+MNP CHURN PREVENTION
+
+Prevent churn of SIMs (Subscriber Identity Module) with high MNP (Mobile Number Portability) churn risk.
+Value-driven “urgency prevention” for high MNP risk customers leveraging MNP risk scoring model, customer behavioral triggers and offer personalization.
+
+
+-----------------
+FACEBOOK USER EXPERIENCE OPTIMIZATION THROUGH BROADBAND CAPACITY INNOVATIONS
+
+Facebook unveiled Terragraph and Project Aries, two land-based connectivity systems in April 2016. Expansion of 4K, 360 and VR/AR content coupled with expected traffic and data usage growth suggest the need for Facebook to keep pace by investing in 5G capabilities.
+Terragraph’s faster connectivity provides seamless sharing; a low-cost alternative to fiber and bringing street-level coverage of gigabit Wi-Fi (5G)
+Project ARIES (Antennae Radio Integration for Efficiency in Spectrum) Facebook aims to solve the problem of finite bandwidth and growing data usage by improving spectral efficiency.
+Impact: 5G through Terragraph will improve sharing and network efficiency in data centers. Through Project ARIES, Facebook can continue to enable high quality streaming amid data usage trends.
+
+
+--------------------
+
+FACEBOOK INVESTS IN GLOBAL CONNECTIVITY 
+
+With approximately 40% of the world connected to the internet, Traditional models are infrastructure intensive and lack the scalability needed to reach more remote or impoverished areas. Facebook’s Aquila program will utilize a fleet of Unmanned Aerial Vehicles (UAVs) and new breakthrough laser technologies to bring internet to everyone on Earth. 
+The Business Model evolves from infrastructure-heavy investments to agile UAVs offering connectivity to people previously inaccessible. Operations Transformation sees use of laser technology and integration of Messenger, WhatsApp and Free Basics provided free to users instead of traditional mobile models.
+Impact: 4 billion new people connected to internet will have access to Facebook’s services. Facebook will own this larger value chain.
+
+-----------------
+
+Real-time location data
+
+Vodafone’s office in London includes technology that provides accurate and real-time data to drive efficiencies in the office. For example, sensors provide accurate and anonymous locations of people within each floor. Real-time information on desk status gives employees the ability to locate colleagues via smartphone, or search for groups of available desks. Integration with google maps is also available and  the system takes a data ‘snap’ every 10 minutes.
+
+
+----------------
+
+Call Centre Efficiency, Customer Service
+
+Vodafone, one of the world’s largest mobile telecommunications companies, wanted to increase call centre efficiency and improve overall customer service quality. Providing a unified and current view of all customer data while minimizing data replication was challenging, due to inefficient processes, often obsolete data and high training costs. Vodafone worked with Denodo to connect source systems that included databases containing customer data related to billing, subscriptions and incident management systems. Real-time delivery of data allowed agents to work with the most current version of the data and there was a 66% reduction in service response time from 6 minutes to 2 minutes.
+
+----------------
+
+Customer Query Response Time
+
+The pay-TV provider Sky wanted to be able to deliver split-second responses to customer queries, meaning that it required direct access to data generated at a number of touchpoints across the company and stored in a number of databases. The business required flexible data integration capabilities with very high data security, and used the Talend Data Management Platform to support an architectural layer that aggregated data and accessed a staging layer to deliver data to the user platforms. Better data integration and interfacing processes meant that the data quality was improved considerably. As the fast-access layer of the front-end database is constantly updated, it gave Sky an extremely realistic picture of the current state of its business.
+
+
+------------------
+
+KPI Analysis
+
+Telecom Italia, the telco provider, required a flexible, user-friendly solution for visualizing large amounts of data. The telco wanted to improve customer service by extending and reinforcing its ability to monitor network service, by analysing key performance indicators for mobile network voice and data traffic (e.g. accessibility, drop rate, call setup time, data throughput). SAS Visual Analytics allowed the company to display data in a user-friendly format, meaning decisions could be made quickly based on up-to-the-minute trends. Telcom Italia added in-memory analytics and advanced data visualization to the provider’s geo-marketing system, simplifying the decision-support and operational processes that go into technical and commercial planning.
 
 
 
-
-
+----------------------
 
 
 --------------------------
