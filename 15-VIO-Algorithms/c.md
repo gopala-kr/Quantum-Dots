@@ -604,6 +604,51 @@ Caterpillar, the American construction machinery and equipment company, uses tel
 
 
 
+-------------
+--------------
+
+R&D FOR DRUG DISCOVERY
+
+IBM has partnered with 15 universities in Africa, and will use IBM Q to research drug discovery based on Africa’s genetic diversity that could lead to new treatments for diseases like HIV or TB.
+
+
+-----------------
+
+NEW MATERIALS DISCOVERY
+
+One of the most promising uses of quantum computing is the simulation and discovery of the properties of new materials and active products (for chemistry and pharmacy), through the simulation of atomic interactions. Projects based around this notion are in progress at Dow Chemicals and at Airbus.
+
+
+-----------------
+
+DRUG DISCOVERY AT QU&CO
+
+Qu&Co is a Dutch-based quantum consulting firm which offers quantum-computational chemistry services to accurately simulate electron-dynamics on a large scale, for the discovery of new drugs and new chemicals and materials.
+
+
+-------------
+
+
+HIGH-PERFORMANCE BATTERIES AT VOLKSWAGEN
+
+Volkswagen has two in-house data labs for quantum computing in San Francisco and Munich. Volkswagen has also partnered with Google to explore structures for new materials, especially high-performance batteries for electric vehicles.
+
+
+--------------
+
+BATTERY CELL RESEARCH AT DAIMLER
+
+Daimler, in partnership with IBM, is investigating quantum chemistry calculations for new battery technology. Daimler is also working with Google to create new materials for quantum technology and the development of new battery cells. 
+
+
+--------------
+
+
+SUSTAINABLE FERTILIZERS
+
+Current artificial fertilizers are based on ammonia, made via the Haber process. They use high temperatures and pressures and are energy-intensive. Quantum computing could help scientists understand the Haber process at the molecular level, and start-up Rigetti points to its value in making fertilizers.
+
+
 
 
 
