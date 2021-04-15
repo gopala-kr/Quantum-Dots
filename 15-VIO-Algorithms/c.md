@@ -277,6 +277,44 @@ CLOUD-BASED IGA
 Toyota Connected upgraded its identity governance and administration (IGA) solution for its cloud-based digital Connected Mobility Intelligence Platform. Saviynt’s Identity Governance and Administration (IGA) solution enabled a CI/CD environnent for DevOps by quickly detecting and remediating excessive access and other anomalous conditions.![image](https://user-images.githubusercontent.com/4322266/114919591-0f81db80-9e46-11eb-8cf2-061facb6016c.png)
 
 
+-------------
+MULTIPLE IDENTITIES FROM ANYWHERE
+Toyota Connected updated its identity governance and administration (IGA) solution for its cloud-based digital Connected Mobility Intelligence Platform with Saviynt. The company manages an agile DevOps environment across multiple identities operating from multiple access points. ![image](https://user-images.githubusercontent.com/4322266/114919643-23c5d880-9e46-11eb-85dd-2ebd10d4bb47.png)
+
+-----------
+
+SKELETON TECHNOLOGIES ENERGY-STORAGE SYSTEMS 
+Skeleton Technologies is a global leader of graphene-based ultracapacitors and energy-storage systems with 4 x the power density of the nearest competitor. Skeleton deliver high power and energy solutions across multiple industries. Ultracapacitors are ideal solutions when energy needs to be stored and discharged rapidly and efficiently with low heat and weight requirements, making them a great complement to traditional battery and carbon-based fuel systems. Skeleton partnered with Adgero SAS to develop a Kinetic Energy Recovery System (KERS). This partnership allows Skeleton to bring its proven Graphene-based ultracapacitors to the automotive, industrial, aerospace and transportation industry. Incumbents have achieved only 25% of the energy density of graphene-based solutions. Operations Transformations: KERS allows the transfer of energy during braking to charge the ultracapacitors, which energy can power connected electric motors. By using energy captured during breaking to accelerate the vehicles, fuel consumption can be significantly reduced.  
+Impact: Smaller batteries required to power vehicles. 25% reduction in consumption in diesel applications. ![image](https://user-images.githubusercontent.com/4322266/114919694-317b5e00-9e46-11eb-961b-cc68380b6c61.png)
+
+------------
+
+Automotive engine assembly
+Renault Trucks has been testing the use of MR to improve quality control processes during its engine assembly. It has selected 20 employees to collaborate with its technology partner Immersion to design the application prototype. The operators would wear Microsoft’s HoloLens which stores the digitalized version of all the engine parts. This would help operators to replace the paper-based instruction with on-screen instruction to help with real-time decision-making.![image](https://user-images.githubusercontent.com/4322266/114919774-4bb53c00-9e46-11eb-9670-6beabfddb602.png)
+
+-------------
+
+Printing Titanium Wheels
+HRE Wheels and GE Additive put their heads together to improve on the previous design of the HRE3D wheel. The second generation wheel is 3D printed in titanium in two different sizes for the rear and front of the car. The wheel parts were made using an EBM 3D printer by Arcam AB and the Concept Laser X LINE 2000R. On average HRE is saving £4 per wheel compared to the previous model. ![image](https://user-images.githubusercontent.com/4322266/114919840-61c2fc80-9e46-11eb-9c93-5f0f92d285af.png)
+
+-----------
+
+Serial 3DP Production at BMW
+The BMW Group has launched what promises to be a landmark project for the introduction of serial additive manufacturing into the automotive industry. The overall goal is to be able to produce at least 50,000 components per year in mass production using additive manufacturing, and over 10,000 individual and spare parts. The company plans to cut manual activities along the process chain from 35% down to just 5%, with a cost reduction for metal parts at 50%.![image](https://user-images.githubusercontent.com/4322266/114919882-6f788200-9e46-11eb-895a-a1941bb01cbf.png)
+
+
+--------------
+
+Car Wiring
+For vehicle wiring, Bosch invests in CelLink’s innovative technology that can provide up to 70% weight reduction and up to 90% volume reduction by replacing round wire bundles with flat flexible circuits. These savings have – according to Bosch – the potential to power widespread adoption across next-generation electrical systems.![image](https://user-images.githubusercontent.com/4322266/114919909-78695380-9e46-11eb-8b54-52b53f41c333.png)
+
+
+---------------
+
+Aerodynamics
+Companies like Airbus are researching smart materials that react to temperature to cool jet engines and wings that morph according to aerodynamic conditions to decrease air resistance. Briggs Automotive Company is developing a morphable wing for its supercar that adjusts to external weather conditions and automatically adjusts in order to provide maximum downforce to the car.![image](https://user-images.githubusercontent.com/4322266/114919967-8d45e700-9e46-11eb-893d-67dfcd769c63.png)
+
+
 
 --------------------------
 
