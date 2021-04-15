@@ -868,10 +868,114 @@ Land Ownership
 
 A project set up last year by the Lantmäteriet, Sweden’s land registry authority, to trial blockchain technology for recording property deals, has just moved to its second phase. Where the first phase was essentially a presentation of the technology’s potential, this latest phase involved the creation of smart contracts that automate transactions on a blockchain in a larger-scale environment. 
 
+---------------
+-----------
+
+Sensor fusion for data center
+
+Data centers are already well-instrumented, with sensors that provide a lot of real-time and historical data on IT performance and environmental factors. In 2018 Google moved closer to a self-driving data center cooling system by taking  snapshot of the data center cooling system with thousands of sensors every five minutes and feeding it into an AI system in the cloud. The fusion AI predicts how potential actions will affect future energy consumption and picks the best option. This is sent to the data center, verified by the local control system, and then implemented.
+
+-----------------
 
 
+Harvard’s Robobee faces energy efficiency challenges
+
+Inspired by biological phenomena, Harvard’s School of Engineering and Applied Sciences (SEAS) along with the Wyss Institute for Biologically Inspired Engineering researchers are developing RoboBees prototypes, which can perform various disaster relief and agriculture-related tasks. It is the “lightest insect-scale aerial vehicle so far to have achieved sustained, untethered flight”
+
+-------------
+Training for nuclear plants
+
+Accessing Nuclear Power plants could be unsafe and hazardous for an untrained staff. This makes it challenging for companies to train their new employees, given the risk of a possible mishandling. GE Power has overcome this challenge by using VR to train its employees. It involves training employees using a 3D representation of steam turbines that spin generators inside nuclear power plants. The 3D visualization helps new engineers learn assembling and dismantling of turbines, and to troubleshoot any issues.
 
 
+---------------
+
+
+Wearables
+
+Flexible batteries are being developed for use in the wearables market – often small devices which can be incumbered by large battery packs. For example, engineers at the Columbia University School of Engineering and Applied Sciences developed a prototype in 2018 of a high-performance lithium-ion battery which, shaped like the human spine, allowed for high degrees of flexibility, energy density and a stable voltage. 
+
+---------
+Foldable Devices
+
+Flexible electronic devices are often hindered by the lack of a flexible energy supply. Samsung’s Galaxy Fold was released in 2019 to mixed reviews – but provides an insight into a potential future of foldable devices. 
+
+Researchers at ETH Zurich developed a prototype in 2019 for a flexible, thin-film battery that can be bent, stretched or twisted thanks to a new hydrogel electrolyte.  
+
+------------
+
+Internet-of-Things (IoT)
+
+Flexible batteries are well suited to the IoT – small, high-volume applications such as smart labels, smart tags, medical patches, pill bottle trackers, temperature tracking, medicine-delivery pens. Companies like Imprint Energy are developing flexible batteries which enable devices to communicate over short of long distances, particularly for LoRa or LPWAN.  
+
+--------------
+
+Leveraging sensor data at Woodside Plant
+
+Woodside’s Pluto LNG facility in Western Australia is now equipped with 200,000 sensors that monitor operations 24/7. The company used sensor data to build an algorithm that allows the team to predict and prevent foaming in the Acid Gas Removal Unit, a critical part of the production process that cannot be monitored directly. 
+Currently, Woodside runs more than 6,000 algorithms on the sensor data from its Pluto plant. 
+
+--------------
+
+Amazon’s NLP & AI platform, Alexa
+
+Accenture developed a solution for a European energy provider using Amazon’s NLP & AI platform, Alexa. An Alexa Voice skill was developed and tailored to allow energy customers to manage their energy account through Amazon’s voice service.
+
+Developed key features suitable for use by energy customers using Alexa’s voice skill.
+Mobilised and delivered the solution to meet the Amazon Echo UK launch (end of Sep 16) achieving Amazon certification first time. 
+Upskilled the client Team on Alexa Skill Kit and AWS Lambda Skills.
+
+Impact of VA implementation:
+
+20% uplift in brand benefit due to Amazon strength
+2,350 account balance checks completed 6 months post go-live
+730 contract end date checks completed 6 months post go-live
+
+--------------
+
+Location Services
+
+Bluetooth 5 has the potential for adoption in many scenarios, particularly where location accuracy and navigation is important. This could include more efficient airport navigation experiences, asset tracking of inventory in manufacturing and smart city infrastructure that could help those with impairments be more mobile. 
+Bluetooth 5 can also play a role in Beacon technology, which allows businesses, in retail for example, to beam messages to nearby potential customers with deal offers or advertisements. Beacon technology can also facilitate better indoor navigation, or be used in online payments or banking, among many other things. Current examples of beacon technology include Apple’s iBeacon or Google’s Eddystone, which both use Bluetooth Low Energy communication technology.
+
+----------------
+
+Smart Grid Analytics Platform
+
+Smart Grid Analytics, Advanced Grid operations and Outage management are realizing the value of the investments in the Smart (digitized) Grid. Clients in Utilities have high expectations of the benefits from IoT solutions. With Smart Grid Analytics Platform Accenture could deliver the capital avoidance to 8%, OPEX reduction to 15%, leakage reduction to 10%, labor productivity to 20%-3%, energy bills to 10%, data & IT costs to 40% with annual savings of $50M.
+
+
+------------
+Fabrication
+
+By making the basic building blocks of batteries out of ink, Harvard materials scientist Jennifer Lewis is laying the groundwork for lithium-ion batteries and other high-performing electronics that can be produced with 3-D printers.
+
+
+--------------
+
+Electric Car Charging
+
+RWE Generation is currently one of the leading power generation companies in Europe. RWE wants to trim costs by lowering expenses related to energy transmissions. The working prototype improves customers experiences. Users can authenticate, place a deposit or get their deposit back. They can perform payment processing and loyalty point assignments.!
+
+
+--------
+Smart Electricity Meters
+
+EMS Invirotel provides enterprise software development. Their goal is to respond to the growing need for smart energy solutions. The company launched a service allowing consumers to buy electricity in bitcoin, leveraging new smart meters with integrated services.
+
+
+-------------
+
+Insurance
+
+Elering AS and WePower are teaming up to offer a blockchain-based green energy trading platform that aims to drive global green energy adoption and promote sustainable living, today announced a pilot project to test the large-scale tokenization of Energy data on the blockchain in Estonia.
+
+
+---------
+
+MERGER & ACQUISITIONS
+
+Shell used a combination of Salesforce platform, Microsoft Azure and Microsoft Office 365 to divest selected downstream businesses in and enabled these businesses to operate on a new IT platform, separate from the Shell global IT landscape. Using these predominant cloud platforms, Shell achieved a successful IT merger and acquisition implementation, allowing the deals to be implemented in a faster, more flexible and cost-effective way than would have been possible using a traditional approach.
 
 
 
