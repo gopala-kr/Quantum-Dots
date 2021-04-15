@@ -27,7 +27,6 @@
 
 - **[Earth Industrial Evolution](#earth-industrial-evolution)**
 - **[Earth Industries](#industries-and-economic-sectors)**
-  - **Vintage**
   - **Evolution from Medieval**
   - **Evolved + Contemporary**
     - **[Aerospace](https://github.com/gopala-kr/Quantum-Dots/tree/master/10-Space-2.0)**  - [Digitalisation in the Aerospace Industry](https://www.coursera.org/learn/industry)
@@ -990,9 +989,30 @@
 ![waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt](https://upload.wikimedia.org/wikipedia/commons/e/e4/Kondratiev-waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt-AJW_2004.jpg)
 
 -----------
-![27s_Law_Transistor_Count_1970](https://upload.wikimedia.org/wikipedia/commons/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png)
+![GreatAccelerationEarthSystemTrends](https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthropocene-GreatAccelerationEarthSystemTrends-1750-2010.png)
+
+----------
+![GreatAccelerationSocioEconomicTrends](https://upload.wikimedia.org/wikipedia/commons/6/66/Anthropocene-GreatAccelerationSocioEconomicTrends-1750-2010.png)
 
 --------------------
+-----------------
+
+![industrial_revolution](https://cdn.vox-cdn.com/thumbor/jSM_UaEy1QxEL6XJfDKvT4Mr1aE=/0x0:2638x1710/1200x0/filters:focal(0x0:2638x1710):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13370429/industrial_revolution.png)
+--------
+![great_accel](https://futureearth.org/wp-content/uploads/2015/01/great_accel-12graph-SE.png)
+----------
+![great_accel](https://futureearth.org/wp-content/uploads/2015/01/great_accel-12graph-SE_splits.png)
+
+--------
+![great_accel](https://futureearth.org/wp-content/uploads/2015/01/great_accel-12graph-ES.png)
+
+--------
+![economy-killing-earth-18](https://static.secure.website/wscfus/8025341/7632127/economy-killing-earth-18.png)
+-----
+![big_picture_2](https://static.secure.website/wscfus/8025341/uploads/big_picture_2.png)
+
+-----------
+------------
 
 ![fi1004](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1004.jpg)
 
@@ -1156,10 +1176,16 @@
 
 
 --------
-![ages](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ages.png)
+![ages](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ages2.png)
+
+-----------
+![27s_Law_Transistor_Count_1970](https://upload.wikimedia.org/wikipedia/commons/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png)
 
 ---------
 ![Internet_map_1024](https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg)
+
+-------
+![digital-evolution-steps](https://www.artificial-solutions.com/wp-content/uploads/digital-evolution-steps.png)
 
 --------
 ![Corporate-Information-Age](https://blogs.gartner.com/mark_raskino/files/2017/10/Corporate-Information-Age.jpg)
@@ -1176,7 +1202,29 @@
 ----------
 ![id4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/id4.jpg)
 
+-------
+![The-evolution-of-communication-in-digital-platform-1024x683](http://sds.parsons.edu/designmanagement/files/2017/11/Nattakarn_The-evolution-of-communication-in-digital-platform-1024x683.jpg)
+
+--------
+![21198d8bd2c0cdb46ee348b18501fb83_v11_850x600](https://ourworldindata.org/exports/users-by-social-media-platform-21198d8bd2c0cdb46ee348b18501fb83_v11_850x600.svg)
+
+---------
+![Conceptual-Digital-Innovation-Platform-Framework](https://www.thedigitaltransformationpeople.com/wp-content/uploads/2017/05/Louis-Bouwer-Figure-4-Conceptual-Digital-Innovation-Platform-Framework.jpg)
+
+--------
+![digital_business_ecosystems_and_competition](https://dionhinchcliffe.files.wordpress.com/2012/02/digital_business_ecosystems_and_competition.png)
+
 -----------
+![cms-research-212-1](https://blog.griddynamics.com/content/images/2020/03/cms-research-212-1.png)
+
+---------
+![modern-moduar-headless-enterprise-content-management-cms](https://gcp-prod-image-resizer.zdnet.com/i/2021/03/10/312ff4d3-464a-4859-91dd-30c79026bb2e/modern-moduar-headless-enterprise-content-management-cms.png)
+
+-------
+![832c8b673bfe561fa828f6a290c21bfb](https://i.pinimg.com/originals/83/2c/8b/832c8b673bfe561fa828f6a290c21bfb.png)
+
+-----------
+---------------
 
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
 
@@ -1232,6 +1280,9 @@
 -------------
 --------------
 
+![digital_transformation_with_an_online_community](https://dionhinchcliffe.files.wordpress.com/2016/11/digital_transformation_with_an_online_community.png)
+
+------------
 
 ![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
 
@@ -1273,6 +1324,18 @@
 
 -------
 ![digitalcap11](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap11.png)
+
+--------
+![ltech](https://camo.githubusercontent.com/82ab1510c3b9d99f1f5655a4ba1b244c26a988827fa4d46056003238663399b8/68747470733a2f2f6a6f736862657273696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f6c447472656e64732e6a7067)
+--------
+![cltech](https://camo.githubusercontent.com/225cdfea268a0fd370eb53553c71bd700ef0799439ca43bc845d9f202efc88ff/68747470733a2f2f6a6f736862657273696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f65766f6c7574696f6e2e6a7067)
+
+--------
+![thedigitaltransformationoflearningcommunitysocialmicrolearning](https://zdnet4.cbsistatic.com/hub/i/2017/09/06/38ee383b-a02c-4e19-9ff9-3ac1d10ae8f8/thedigitaltransformationoflearningcommunitysocialmicrolearning.png)
+
+-------------------
+-------------
+![thenewciomindsetitdigitaltransformationplatformecosystemcommunity](https://zdnet4.cbsistatic.com/hub/i/2016/09/30/64cf155c-7083-40da-8b1d-410c4c666f9c/thenewciomindsetitdigitaltransformationplatformecosystemcommunity.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2001,9 +2064,7 @@ Typical Team Structure
 
 ---------
 --------------
-![digital_transformation_with_an_online_community](https://dionhinchcliffe.files.wordpress.com/2016/11/digital_transformation_with_an_online_community.png)
 
-------------
 ![in48](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in48.png)
 
 -----------
