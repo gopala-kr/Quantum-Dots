@@ -315,6 +315,179 @@ Aerodynamics
 Companies like Airbus are researching smart materials that react to temperature to cool jet engines and wings that morph according to aerodynamic conditions to decrease air resistance. Briggs Automotive Company is developing a morphable wing for its supercar that adjusts to external weather conditions and automatically adjusts in order to provide maximum downforce to the car.![image](https://user-images.githubusercontent.com/4322266/114919967-8d45e700-9e46-11eb-893d-67dfcd769c63.png)
 
 
+----------
+
+K&N Filters Digital Factory 
+Problem Statement: 
+•Lacked data and visibility of accurate plant metrics (e.g. OEE, machine downtime, output)
+•Tribal knowledge and “this is how we’ve done it for years” was pervasive across the plant
+•Wanted fact-based insights to better manage the plant and improve performance![image](https://user-images.githubusercontent.com/4322266/114920314-ee6dba80-9e46-11eb-846c-dfc18e043b10.png)
+
+
+----------
+
+
+GLASS MANUFACTURER M&A STRATEGY REVIEW AND TARGET SCREENING
+A leading global glass manufacturer was determined to become an Automotive Operator of Essential Service (OES), defining which areas to grow and how to generate €300m-€800m as additional top line for the next 3 to 5 years.![image](https://user-images.githubusercontent.com/4322266/114920433-0e9d7980-9e47-11eb-8dc9-49214154bcf3.png)
+
+------------------
+
+TATA MOTORS ANALYTICS-LED BUSINESS TRANSFORMATION
+The objective was to leverage analytics to develop industry differentiation and a competitive advantage.
+In terms of results, organizational analytical capability (for sales and service teams) has been increased from 1.5 to 3.0 on the Delta Maturity Scale. Client is first in the Indian automotive space to establish Analytical COE model which is now benchmark across industries. 39MN USD impact delivered.![image](https://user-images.githubusercontent.com/4322266/114920544-2c6ade80-9e47-11eb-8ab3-2956922fbe15.png)
+
+
+-----------------
+
+REAL-TIME DECISION-MAKING
+American Axle: The Plex Manufacturing Cloud helps American Axle Manufacturing drive innovation on its shop floors, improving efficiencies with cloud ERP, streamlining processes and providing a single source of visibility. Through its partnership with Baker Tilly, AAM achieved a seamless go-live process, avoiding downtime for its high-output metal formed products division.![image](https://user-images.githubusercontent.com/4322266/114920628-42789f00-9e47-11eb-8cb2-297c76e0b6c1.png)
+
+-------------
+
+Kyocera's haptivity technology 
+Kyocera has entered into a license agreement with Robert Bosch Car Multimedia GmbH, which authorizes Bosch to use Kyocera's haptic feedback technology. Kyocera has been producing haptic technologies through its own research and development since 2008. Over the years, Kyocera has developed ergonomics and virtual reality technologies and through the use of these technologies and proprietary haptic feedback technology, Kyocera's haptivity technology contains a virtual reality innovation that enables real touch sensations at every man-machine interface. ![image](https://user-images.githubusercontent.com/4322266/114920722-59b78c80-9e47-11eb-88ad-06272e6c4bad.png)
+
+
+-------------
+
+The automotive sector moves ahead with MR labs
+BMW and MINI’s mixed reality lab pairs custom hardware with virtual reality to bring a whole new level of real-time experience to the production cycle. Using a mixed reality design experience with Unreal Engine, VR, and specialized cutaway elements of physical car hardware, the team is able to experiment and make key decisions earlier in the process, leaving more time for iteration and refinement before locking in its designs.![image](https://user-images.githubusercontent.com/4322266/114920799-75229780-9e47-11eb-8ab8-016622f6ce0b.png)
+
+------------
+
+Automotive sector uses HoloLens for training sessions
+Mercedes-Benz uses Microsoft HoloLens to conduct faster, more engaging training sessions. The training center is now equipped with more than 100 HoloLens units. By introducing mixed reality participants can consolidate complex, technical concepts effectively simplifying their lessons in visual and relatable ways.![image](https://user-images.githubusercontent.com/4322266/114920885-8cfa1b80-9e47-11eb-977a-344e988bd354.png)
+
+
+------------
+
+VR Collaboration
+Volkswagen partnered with Innoactive, the German VR training company, to train 10,000 staff across several brands and locations. The Innoactive HB SDK is used and optimized for the HTC Vive Pro and the Volkswagen Group Digital Reality Hub is a VR platform that helps employees collaborate across the Audi, SEAT, Skoda and Volkswagen brands. Multiple users  can collaborate simultaneously while located physically in different offices. There are now more than 30 VR training simulations.![image](https://user-images.githubusercontent.com/4322266/114920930-9c796480-9e47-11eb-9310-ee5b0a5af08d.png)
+
+------------
+
+Data security 
+Williams Martini Racing used Symantec’ Endpoint Protection Solution to gain protection for high- value data and intellectual property and multi tiered protection to detect latest threats. ![image](https://user-images.githubusercontent.com/4322266/114921000-b1ee8e80-9e47-11eb-82d7-c62f0e38daac.png)
+
+--------------
+
+SPATIAL COMPUTING
+Concepts such as Bosch's "third living space" are revolutionizing the automotive space by developing the car interior as an extension of the personal space. Short from being immersive, a nevertheless ubiquitous placement of displays (of all sizes and form factors, bendable, as well as heads-up displays for AR) can create a spatial canvas for content. ![image](https://user-images.githubusercontent.com/4322266/114921098-ce8ac680-9e47-11eb-8cc3-596426c36c56.png)
+
+
+-----------
+
+Data security 
+Williams Martini Racing used Symantec’ Endpoint Protection Solution to gain protection for high- value data and intellectual property and multi tiered protection to detect latest threats. ![image](https://user-images.githubusercontent.com/4322266/114921159-de0a0f80-9e47-11eb-96d2-4b5d565e7938.png)
+
+
+-----------
+
+Fraud Detection
+Uber uses real-time systems to combat fraud across it’s software platform. Fraud prevention is one of the fastest growing areas of research and development at Uber – rider fraud, driver fraud, or both. Success relies on several groups; (i) data scientists and machine learning experts who build complex models to detect patterns with live and real-time data, (ii) data engineers who build online analytics platforms and pipelines to process rapidly growing data, (iii) solutions specialists who find the best methodology for diffusing real-life threats, (vi) UX experts who design and build applications and tolls to standardize the anti-fraud process in global operations. ![image](https://user-images.githubusercontent.com/4322266/114921240-f67a2a00-9e47-11eb-891f-e49600b4e631.png)
+
+
+------------
+
+Sales Forecasting
+Peugeot used data from millions of real world car trips to calculate average journey time undertaken by customers in order to optimize sales forecasting. Pitney Bowes used MapInfo Pro to provide insights on best performing dealers, increase response on fleet orders, improve accuracy of drive time estimates, gain a more realistic revenue potential view, learn more about traffic patterns and road conditions. The automotive company could therefore determine how accessible by car each of its showrooms and service centres are within standard opening hours, so that customers could be advised accordingly.![image](https://user-images.githubusercontent.com/4322266/114921324-11e53500-9e48-11eb-9336-0ab79606d7a6.png)
+
+
+-------------
+
+Advertising Revenue Optimization
+Autotrader.com is one of the largest automotive marketplaces and consumer information websites, which aggregates millions of cars from thousands of dealers and private sellers. Autotrader worked with Informatica to drive increased advertising revenue and cost avoidance using MDM. The business was also able to improve data governance, having been previously reliant on a homegrown, outmoded MDM system (for example, if a dealer bought ads for all 100 of its dealers, the system forced the manual creation of 100 dealers). ![image](https://user-images.githubusercontent.com/4322266/114921429-2d504000-9e48-11eb-9148-1549e1b29159.png)
+
+
+---------------
+
+Data Processing
+Ford, the American multinational automaker, used Alteryx to reduce data processing time by 80%. The Ford IT Analytics Architecture Team started to work on an Enterprise Technology Refresh Program in February 2016, with the objective of simplifying the technology footprint and renewal process across the company in support of IT strategic initiatives. Alteryx was used to blend dozens of data sources in order to prepare the data for analysis, to visualize the current technology state and gain insights, and to perform analysis for resource prioritization and activities planning. Team members were trained and able to use the software in a week, time was saved, errors were reduced and business customer satisfaction increased, according to Ford.![image](https://user-images.githubusercontent.com/4322266/114921496-3b9e5c00-9e48-11eb-9b69-1016c452b20d.png)
+
+
+------------
+Connected Car
+Bluetooth 5 will allow for more effective communication between a user’s smartphone and a car’s audio system, from companies such as Pioneer or Kenwood, or GPS navigation devices from Garmin or TomTom.![image](https://user-images.githubusercontent.com/4322266/114921542-4ce76880-9e48-11eb-9f93-bc0b03fa1259.png)
+
+--------------
+
+Autonomous Vehicles/Connected Car
+5G provides new opportunities to deploy autonomous driving and connected car applications. Use cases include vehicle data transmission and remote autonomous vehicle control on any road, in any conditions, without a human on board - requiring 5G network characteristics including broad coverage, high data throughput, ultra-low latency, and core network slicing. Automated vehicle start-up Pelaton would benefit from increased 5G speeds, as would connected car start-up Mojio. The Tesla’s, Waymo’s and Uber’s of the world would benefit from better communication with sensor-enabled infrastructure/traffic systems.![image](https://user-images.githubusercontent.com/4322266/114921621-64265600-9e48-11eb-9f07-c2acaf6fecd9.png)
+
+
+-------------------
+
+Facial Recognition/Voice Biometrics
+Fiat Chrysler Automobiles released a new concept autonomous vehicle, Portal, at CES 2017, designed ‘for millennials by millennials’. A key focus of the design is the digital user experience; working alongside the Panasonic Advanced Engineering team, the connected car uses facial recognition and voice biometric software to identify who is in the vehicle and to customize the environment for the occupants.![image](https://user-images.githubusercontent.com/4322266/114921705-7bfdda00-9e48-11eb-94e3-f1693e0188ab.png)
+
+
+----------------
+
+Connected Car Diagnostics
+AT&T partnered with Harman, the connected car and products company, with the aim of to ‘turning any car into a connected car’. Users can plug the Harman Spark into the car on-board diagnostics and download an app for the car to become connected. Harman collaborated with Tantalum, an automotive software company, to enable Harman Spark to have features such as emergency crash assistance, virtual mechanic, WatchIt (which informs users if their car is bumped or moved when they are not around), roadside assistant manager, and driving scores and tips. ![image](https://user-images.githubusercontent.com/4322266/114921773-90da6d80-9e48-11eb-8287-a468047ec446.png)
+
+
+---------------
+
+Cybersecurity
+The connected car is a target for hackers, who could potentially take control of a vehicle while it is being driven, or lock down a vehicle and demand a ransom. C2a Security, the security and analytics company, announced AutoArmor, a product focussed on protecting onboard auto testing functionalities from cyberattacks. AutoArmor works by discovering all of the engine control units (ECUs) in the vehicle, aggregating diagnostics and anomalies from these ECU, and then performing mitigation according to the OEM’s policies. It can also perform software updates on remote ECUs and special remote invocations, to further protect against cyberattacks.  ![image](https://user-images.githubusercontent.com/4322266/114921852-a2bc1080-9e48-11eb-991b-03a4c1aee2e5.png)
+
+
+------------
+
+V2X Communications
+Connecting cars to each other and their surroundings, often known as V2X communications, is a key step in the safe, large-scale deployment of self-driving cars. Jaguar Land Rover is testing smart, connected cars on UK roads to prepare for self-driving cars. The tests on over 40 miles of public roads are part of a $12.6 million project aimed at creating the UK’s first fully self-driving car connected infrastructure. Vehicles will benefit from a combination of wireless technologies (3/4G, WiFi, fibre optic networks). This technology can provide warnings to drivers that a car too far ahead to see has applied its breaks, for example, to avoid potential accidents. Audi partnered with Huawei and plans to launch 5G-connected cars in early 2020, allowing for V2X vehicle communications for safer, semi-autonomous driving. The car will be able to communicate with traffic lights, cameras and road signs, and direct the user to the specified destination.![image](https://user-images.githubusercontent.com/4322266/114921947-b9fafe00-9e48-11eb-8fbf-bb9ae4af69e8.png)
+
+
+-----------------
+
+Process Automation
+Automotive manufacturers such as Benteler Automobiltechnik GmbH are using smart manufacturing to evolve their factories. The German company operates 70 plants in 29 countries, so in order to improve the agility and efficiency of factory floors, created a fully modular next-generation production environment of automated, self-running plants. In partnership with Cisco and Cisco’s Application Centric Infrastructure (ACI) platform, this allowed the company to realize faster changeovers and increased operational efficiencies. ![image](https://user-images.githubusercontent.com/4322266/114922012-cbdca100-9e48-11eb-883d-d417bf1c8742.png)
+
+
+---------------
+
+Predictive Analysis
+The Hirotec Group is one of the largest private production companies in the global automotive market. The Japanese company wanted to leverage Industry 4.0 technologies to tackle unplanned downtime issues. Combining an IoT platform from PTC, a partner of Hewlett Packard Enterprise (HPE), with HPE Edgeline systems, operations technology capabilities were boosted using predictive analytics. Three pilots of the IoT platform allowed Hirotec to gain real-time visibility of business operations, addressing issues that impacted efficiency and throughput, utilizing machine learning to predict and prevent failures in critical systems.![image](https://user-images.githubusercontent.com/4322266/114922058-de56da80-9e48-11eb-99ad-506dec9dede3.png)
+
+
+---------------
+
+Smart Parking
+As urbanisation continues apace and the number of cars on the roads rises steadily, finding a place to park can be a major headache for business and leisure travellers alike. If drivers knew in advance which spaces are vacant, they would spend less time and waste less fuel searching for a place to park.
+Using new low power wide area (LPWA) mobile technologies, it will become cost-effective for telecoms operators to relay real-time information on parking availability to drivers’ smartphones or dashboard computers. Deutsche Telekom has tested a prototype LPWA – based parking system on its campus in Bonn in Germany, and trialled it on its commercial network in the Netherlands.![image](https://user-images.githubusercontent.com/4322266/114922144-f890b880-9e48-11eb-8fe4-df00f11be7fc.png)
+
+------------
+
+Predictive Maintenance
+Using Microsoft’s Azure IoT Suite to collect data, and Cortana Intelligence Suite to derive insights, Rolls-Royce goes beyond predictive maintenance and into metrics that it can pass onto operations teams at airlines as a value added service. These insights are aimed at helping airlines to be more efficient when it comes to maintenance, aircraft choice and route selection.![image](https://user-images.githubusercontent.com/4322266/114922247-13632d00-9e49-11eb-9916-a26d3c3150dd.png)
+
+
+-------------
+
+Connected Car
+Electronic control units (ECUs) are used in the automotive industry to monitor and control engine performance and exhaust emissions, using sensors. ECUs have also improved vehicle safety through systems such as traction control, anti-lock breaks, airbag deployment. This, alongside the now seamless integration of mobile devices with the vehicle, means that there is an increasing need to secure these systems. Electric car manufacturer Tesla could diagnose vehicle faults and even send software upgrades to those vehicles when it was safe to do so. When engineers discovered that a fault with the vehicle charger mechanism could cause a vehicle fire, Tesla was able to upgrade almost 30,000 vehicles over the air to correct the error, rather than prompt an expensive recall.![image](https://user-images.githubusercontent.com/4322266/114922309-24ac3980-9e49-11eb-8bf7-8b0c4cea9c10.png)
+
+
+---------------
+
+Design for General Motors
+General Motors is exploring the use of software based on generative design and AI-driven algorithms to optimize shape and weight of automotive structural components. As a result, the components often showcase organic-looking, intricate geometries, which can be produced using additive manufacturing technologies.![image](https://user-images.githubusercontent.com/4322266/114922409-3d1c5400-9e49-11eb-9036-34d7714917ca.png)
+
+
+-------------
+
+Manufacturing
+Eindhoven University of Technology has a team dedicated to the development of compact, efficient city cars made from sustainable materials. To build “Noah,” TU/ecomotive they worked with 3D printing service bureau Oceanz to 3D print both interior and exterior components. They used Oceanz’s EcoPowder material, a durable 3D printing material that works in a circular economy.![image](https://user-images.githubusercontent.com/4322266/114922465-545b4180-9e49-11eb-9203-0c4d81f70e33.png)
+
+
+--------------
+
+Data security
+Groupe Renault announced a prototype for a digital car maintenance book built in collaboration with Microsoft and VISEO. Blockchain technology ensures that data in the car passport is stored in a secure and transparent manner. ![image](https://user-images.githubusercontent.com/4322266/114922495-5fae6d00-9e49-11eb-827e-b00684319d37.png)
+
+
+
 
 --------------------------
 
