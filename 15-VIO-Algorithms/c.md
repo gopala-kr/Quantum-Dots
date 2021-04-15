@@ -178,8 +178,32 @@ Autonomous Vehicles for retail
 Autonomous vehicles will automate the movement of goods between physical locations, including to the end consumer, throughout the supply chain. Autonomous vehicles will become mobile, on-demand transporters that deliver customers the products they need nearly instantaneously. Autonomous vehicles will automate the transport of goods across the supply chain network.![image](https://user-images.githubusercontent.com/4322266/111231382-11efdc00-85e1-11eb-90e1-f183393a9f0f.png)
 
 
+----------------
+-------------------
+Product Engineering
+
+BMW has adopted VR to aid design and development of new vehicles. Through the introduction of this technology, engineers and designers will be able to immerse themselves in a virtual world that feels as close to a true driving situation as is currently possible. Staff will be using the HTC Vive headset to visualize new interiors and other physical features. Once they've been implemented in VR, designers will be able to simulate a city and test whether the driver has enough visibility behind the wheel. Engineers can also evaluate whether the dashboard and controls can be grasped properly from a seated position.
+
+-----------------
+
+CONNECTED CAR
+
+AT&T and Vodafone Business are working together to accelerate Internet of Things (IoT) connectivity and innovation in the automotive industry. The companies will bring together their industry-leading expertise to develop superior and consistent connected car solutions and experiences for customers across their combined footprints in North America, Europe and Africa.![image](https://user-images.githubusercontent.com/4322266/114918369-a2217b00-9e44-11eb-86e2-75d043cafc6e.png)
 
 -------------------
+
+5G & AUTONOMOUS VEHICLES
+
+The CTO of Waymo, which started life as the Google Self-Driving Car Project in 2009, believes that 5G is a crucial “enabler”, when it comes to developing the company’s autonomous car fleets. O2 has also now announced a project to trial driverless cars in London using its 5G network.  The UK's second-biggest phone network has partnered with the Smart Mobility Living Lab - a research organisation comprised of experts from the Transport Research Laboratory (TRL), DG Cities, Cisco, and Loughborough University - to develop what it claims to be the ‘most advanced driverless testbed in the world’. The aim is to develop a road management system with the focus on a 10 percent reduction in the time that motorists spend in traffic. Other figures include a positive benefit to the economy of £880m a year from improved productivity as well as the reduction of CO2 emissions by 370,000 metric tonnes a year.![image](https://user-images.githubusercontent.com/4322266/114918601-e0b73580-9e44-11eb-80aa-712e3f867bd9.png)
+
+-------------
+
+TRAFFIC FLOW OPTIMIZATION IN VOLKSWAGEN
+
+The Volkswagen Group is the world’s first automaker to publicly use quantum computers, further expanding its digital capabilities. The company is cooperating with quantum computing company D-Wave Systems on a research project for traffic flow optimization. The project involves publicly available data from Beijing taxis that were used to plot optimal routes.![image](https://user-images.githubusercontent.com/4322266/114918719-093f2f80-9e45-11eb-92fc-017d9b4637f2.png)
+
+
+
 --------------------------
 
 -------------------
