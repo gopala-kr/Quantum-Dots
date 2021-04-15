@@ -196,5 +196,14 @@
 ----------
 ![in11](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in48.png)
 
+----------
+--------------
+![machines-07-00002-g001](https://www.mdpi.com/machines/machines-07-00002/article_deploy/html/images/machines-07-00002-g001.png)
+---------
+![sustainability](https://www.mdpi.com/sustainability/sustainability-12-01088/article_deploy/html/images/sustainability-12-01088-g001.png)
+---------
+![machines-07-00002](https://www.mdpi.com/machines/machines-07-00002/article_deploy/html/images/machines-07-00002-g004.png)
+
+
 ----------------
 -----------------
