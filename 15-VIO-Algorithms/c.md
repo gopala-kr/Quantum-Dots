@@ -1381,6 +1381,215 @@ Telecom Italia, the telco provider, required a flexible, user-friendly solution 
 
 
 ----------------------
+---------------
+
+Neuralink surgical robot enables next gen BCI
+
+The Neuralink surgical robot, revealed by Elon musk in August 2020, is supposed to manipulate and insert the tiny brain computer interface threads into the brain. The robot is able to both capture your brain and then with almost a sewing machine-like, micro-precise needle and thread, place the neural threads in the exact right location based on the surgeon decisions around what the safe locations are for the threads to be inserted
+
+
+------------------
+Using Boston Dynamics Spot for Healthcare monitoring
+
+Boston Dynamics, an autonomous robot making company is contributing to the pandemic through autonomous robot-dog named Spot to help protect healthcare workers from Covid-19 at Brigham and Women’s Hospital in Massachusetts. With the help of an iPad and two-way radio on the robot, healthcare workers video conference with patients and remotely control Spot as the robot dog walks through rooms with infected or potentially infected patients
+
+
+-----------------
+
+NASA to deploy self driving tech on mars
+
+NASA is expected to launch its latest Mars rover, Perseverance, on a first-of-its-kind mission to collect and store geological samples. Perseverance is significantly more autonomous than any of NASA’s previous four rovers and is designed be a “self-driving car on Mars.” Like the ones on Earth, it will navigate using an array of sensors feeding data to machine vision algorithms
+
+
+----------------
+Russia, India launch Robonauts
+
+Several countries have been working on humanoids for space exploration. In India, Vyommitra, a female humanoid robot, is set to launch on an uncrewed spaceflight in December 2020. Fedor, or Final Experimental Demonstration Object Research, was a Russian remote-controlled humanoid that flew to the International Space Station (ISS) in 2019, where it simulated repairs during a spacewalk, and later returned back to Earth.
+
+-------------------
+
+ELEVATOR IOT CONNECTIVITY
+
+Telefónica and Schindler have formed a global partnership for digital connectivity. Under the agreement, Telefónica will be the IoT and network connectivity partner for Schindler’s digital offering for smart elevators and escalators – Schindler Ahead. The cloud-based digital platform Schindler Ahead is the world’s fully digital closed-loop maintenance, emergency services and information system.  Telefónica, a supplier of IoT solutions, is providing Schindler with IoT connectivity services via its global roaming network, ensuring high-quality service and guaranteed connectivity for Schindler Ahead customers worldwide.
+
+------------------
+
+KINGSPAN SENSOR & VODAFONE
+
+Kingspan Sensor, a provider of monitoring solutions for the fuel storage sector, has implemented Vodafone’s Managed IoT connectivity platform to offer a global monitoring service. The company supplies measuring and monitoring solutions to customers in the commercial, industrial, agriculture and domestic markets.
+
+------------
+HIGH-PERFORMANCE BATTERIES AT VOLKSWAGEN
+
+Volkswagen has two in-house data labs for quantum computing in San Francisco and Munich. Volkswagen has also partnered with Google to explore structures for new materials, especially high-performance batteries for electric vehicles.
+
+--------------
+BATTERY CELL RESEARCH AT DAIMLER
+
+Daimler, in partnership with IBM, is investigating quantum chemistry calculations for new battery technology. Daimler is also working with Google to create new materials for quantum technology and the development of new battery cells. 
+
+
+----------------
+COMPROMISED USERS AND HOST DETECTION
+
+Aruba, an HPE company, has integrated multi-dimensional user and behavioral analytics, diverse data sources, and forensics to detect credential-based advanced attacks. The UEBA tool automates the detection  of compromised users and hosts with analytics-driven visibility. 
+
+
+
+------------------
+Unified Digital Experience
+
+HP selected Ping Intelligent Identity Platform from Ping Identity to power HP Identity (HP ID). HP ID is an enterprise-wide unified identity management ecosystem designed to up level customer and partner experiences by providing them with a single identity across all of their HP applications.
+
+--------------
+Secure mobile communications
+
+Mitsubishi Electric has developed the world’s first “one-time pad software,” an advanced encryption technique for mobile phones to ensure that telephone conversations remain confidential. Additionally, the company is involved in implementing their technology in a project being conducted by the National Institute of Information and Communications Technology to test the viability of mobile communications over a quantum secure network.
+
+
+--------------
+
+Mobile Devices
+
+There has been initial adoption of Bluetooth 5 in the smartphones market – the first device to ship with Bluetooth 5 was the Samsung Galaxy S8 in March 2017. The iPhone 8, 8 Plus and X, which launched in September 2017, also had Bluetooth 5 support. One example of use amongst consumers is connecting a smartphone to wireless headphones for listening to music or phone conversations.
+
+
+----------------
+Digital sign
+
+Blackberry: Launched a solution which will allow software to be digitally signed using a scheme that will be hard to break with a quantum computer. The Solution is actually the product of a partnership between BlackBerry and Isara Corporation, a company whose mission is to build quantum-safe security solutions. BlackBerry is using Isara’s cryptographic libraries to help sign and protect code as security evolves.
+
+
+----------------
+LOW-COST OPTIONS FOR PRODUCT DEVELOPMENT 
+
+Field-Programmable Gate Arrays (FPGAs) offer low-cost options for product development and can be used in conjunction with traditional processors, external sensors, servos, data storage and IoT to allow organizations to deploy new technologies into the field and help improve processes and drive insight.
+Rapid Prototyping: with FPGA’s development, processes can become more agile as additional components/requirements can be quickly coded and bolted on without the need to restart the development process.
+Low Risk of Obsolescence: Due to the ability to reprogram the chip sets in FPGAs, they are ideal for Original Equipment Manufacturer (OEM) situations where processes are constantly refined. Capability to reprogram chips via WiFI or Bluetooth means low downtime and minimal process interruption.
+
+
+----------------
+
+SKELETON TECHNOLOGIES ENERGY-STORAGE SYSTEMS 
+
+Skeleton Technologies is a global leader of graphene-based ultracapacitors and energy-storage systems with 4 x the power density of the nearest competitor. Skeleton deliver high power and energy solutions across multiple industries. Ultracapacitors are ideal solutions when energy needs to be stored and discharged rapidly and efficiently with low heat and weight requirements, making them a great complement to traditional battery and carbon-based fuel systems. Skeleton partnered with Adgero SAS to develop a Kinetic Energy Recovery System (KERS). This partnership allows Skeleton to bring its proven Graphene-based ultracapacitors to the automotive, industrial, aerospace and transportation industry. Incumbents have achieved only 25% of the energy density of graphene-based solutions. Operations Transformations: KERS allows the transfer of energy during braking to charge the ultracapacitors, which energy can power connected electric motors. By using energy captured during breaking to accelerate the vehicles, fuel consumption can be significantly reduced.  
+Impact: Smaller batteries required to power vehicles. 25% reduction in consumption in diesel applications.
+
+
+-----------------
+
+Google launching AI-enabled automation tools
+
+Contact Center AI, Vision Product Search, and Document Understanding AI are a beta version solutions which natively integrate with automation solutions i.e. From UiPath, Accenture, Iron Mountain, and others. Google’s AI and machine learning products and services portfolio keeps growing.
+
+
+
+---------------
+Kyocera accelerates pricing approval process with Bizagi
+
+Kyocera, the printer and copier manufacturer, completed a project to digitize and automate a special pricing approval process for large accounts such as banks and governmental organizations.
+The automated process has not only reduced the process time by 85% to accelerate turnaround time and win Kyocera new business, but it has also helped to free up the time of employees. The process, which was previously conducted via email and Excel spreadsheets was modeled in Bizagi and integrated with SAP to directly activate the opportunity to purchase.
+
+
+-----------------
+
+Making AI more inclusive
+
+Google is taking a two-pronged approach. It is expanding the data set that it is training its "Image Search" algorithms on to be more expansive and inclusive, but the company also launched a competition to source improved algorithms that mitigate the bias of the algorithm itself. The competition received submissions from over 100 participants, and winners were able to make a small step in improvement.
+
+
+---------------
+Internet Access to underserved regions
+
+Project Loon is designed to provide internet service to underserved regions of the world through a system of giant balloons hovering in the stratosphere. Their navigational systems employ Gaussian processes to predict where in the stratified and highly variable winds aloft the balloons need to go. Each balloon then moves into a layer of wind blowing in the right direction, arranging themselves to form one large communication network. 
+
+
+
+------------------
+Machine Common Sense 
+
+DARPA is investing $2 billion in AI research. In its Machine Common Sense (MCS) program, researchers will create models that mimic core domains of human cognition, including “the domains of objects (intuitive physics), places (spatial navigation), and agents (intentional actors).”
+
+
+-----------------
+
+Making Holographic calls
+
+Huawei recently used a combination of MR and 5G to make Russia’s first holographic call. In this type of call a real-time 3D image of the call participant is generated at the other end of the connection. Users require a MR headset to view this hologram/3D representation. Holographic calls can not only provide an enriching experience to call participants, but also help to monitor objects remotely in 3D.
+
+
+-----------
+3D Printed Antennae for Mobile Devices
+
+Taiwanese electronics company, LITE-ON, has been using Optomec’s Aerosol Jet Technology to 3D print antennae and sensors for consumer electronic devices since 2016. 
+
+
+---------------
+Wearables
+
+Apple Watch Series 6 will mark a switch to flexible circuit boards made of liquid crystal polymer. These new circuit boards should make the Series 6 noticeably faster than the Series 5.
+
+
+-------------
+Solar-powered Drone
+
+Printed circuit supplier Trackwise has produced an 85-foot-long multilayer flexible circuit—said to be the world’s longest—for distributing power and control signals across the wings of a solar-powered drone. The flexible printed circuit (FPC) is one of more than 50 supplied by the company for drones.
+
+
+---------------
+
+PARTNER INTEGRATION
+
+Dell: QAD builds Dell Boomi into its software suite to help global manufacturers create seamless systems integration and ensure data quality. Boomi gives QAD and its customers rapid, agile cloud-native integration to connect an ever-changing mix of on-premise and cloud services. It also provide Master Data Hub for ensuring data quality and synchronizing data among multiple applications.
+
+
+---------------
+
+Categorizing Contact Centre Transcripts
+
+ACER America, a division of Acer Computers, the provider of personal computer products, peripherals and accessories, was challenged to obtain more value from recordings of customer calls to their contact centre. The business was concerned about efficiency and value gained from the analysis process, and leveraged a Clarabridge text analytics solution for an automated approach to categorizing unstructured text for analysis of data from call transcripts and agent case notes.
+
+
+---------------
+Dashboarding
+
+Lenovo, the global technology company, used visual data discovery to drive a 95% efficiency improvement in reporting, alongside a more targeted e-commerce strategy, while transforming 100 reports to strategic dashboards in HR. With Tableau, Lenovo’s Analytics BI and Visualization team created a flexible sales dashboard that different departments could adapt for ad-hoc analyses. Customer engagement metrics could be better analysed in order to craft a better online experience, leading to better brand perception and increased revenue. Before this, Lenovo had worked off of one single sales report in Excel, delivered to 28 different countries.
+
+
+----------------
+Connected Appliances
+
+IBM’s Watson IoT services offer integrated capabilities, delivering services by leveraging a  pool of consultants, data scientists, designers, security experts and domain specialists. Whirlpool, the multinational manufacturer of home appliances, used the Watson IoT platform to drive a 70% decrease in customer services time for connected home appliances.
+
+
+----------------
+Prescriptive Bid Analysis
+
+Effective contract auditing must be backed by a compliance monitoring mechanism. As per procurement community Suppliers know that contracts are difficult to verify and would be helpful to have something to auto detect non-compliance and highlight. Accenture created Contract compliance analytics which are powered by text analytics. Compliance Analysis that is compliant vs non-compliant transactions were done and the initial analysis showed the items that can be acted upon. Therefore, prioritization by Value at Risk, higher vs lower, favourable vs unfavourable is used to filter the critical ones and minimize the potential cost of non-compliant transactions.
+
+--------------------
+ASSEMBLY ROBOTS
+
+Cytosurge’s new pinpoint metal 3D printing is possible due to two state-of-the-art, high-resolution cameras that have been integrated directly into the FluidFM µ3Dprinter. The FluidFM μ3Dprinter’s unique new function of 3D printing structures, with exacting, pinpoint accuracy, directly onto surfaces and objects could potentially revolutionize micromanufacturing by combining traditional microfabrication techniques with 3D printing to create complex metal objects.
+
+
+------------
+
+Treatment
+
+MIT’s magnetic objects are 3D printed on a specially designed platform, from a newly-formulated ink infused with magnetic particles. This allows for instance to put a structure around a blood vessel to control the pumping of blood, or use a magnet to guide a device through the GI tract to take images.
+
+---------
+
+Intel Warehouse Picking
+
+Using the Ubimax Pick-by-Vision solution, Intel conducted a two-month pilot of the xPick smart glasses in its worldwide distribution centre located in Chandler, Arizona. An immediate impact was displayed. Order pickers without any training were 15% faster during first-time use of the platform (vs. hand-held scanners). In the end, Intel was able to reduce its “pick time per box” by 29%.
+
+---------------
+
+CUSTOMER SERVICE
+
+HP built a virtual agent using the Microsoft Dynamics 365 AI solution for customer service. Customers can now interact conversationally with the assistant to solve common problems, support staff use the Microsoft AI solution for instant access to a wealth of troubleshooting information and the company gains deeper insights into common customer issues.
 
 
 --------------------------
