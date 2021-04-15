@@ -1080,6 +1080,127 @@ Delivery Robot
 Boeing heavy lifting drone: Boeing has designed a prototype for an electric, unmanned cargo air vehicle that can lift as much as 500 pounds. The system would help deliver to places like oil rigs or islands connected to the mainland only by ferries. The drone navigates and looks for obstacles using components and software provided by Near Earth Autonomy.
 
 
+-------------
+
+NASA invests into swarms for space exploration
+
+Robots will be used in research projects that NASA’s Autonomy Research Center for STEAHM is collaborating for missions such as exploring the Martian surface and voids. A swarm of simple, small robots can complete complex tasks much more efficiently and effectively than a single large rover.
+
+
+-----------------
+
+Monitoring aquatic environments using swarms
+
+The EU-funded project in Venice lagoon has three different bio-inspired robot species: an aPad robot floating on the water surface, an aFish swimming in shallow waters and an aMussel robot covering the seabed. The robots are designed to talk and listen to each other and to develop as a “self-organizing underwater swarm”, using bio-inspired algorithms influenced by nature.
+
+
+-------------------
+
+Drones to enforce social distancing
+
+With the increasing need for social distancing and the usual budgetary stressors, local police departments are being forced to do more with less manpower.  The town of Linn, Wisconsin worked with a consulting firm to start a drone program. The department has been able to utilize the drones to patrol its large jurisdiction while maintaining social distancing and reducing the number of officers in the field.
+
+
+--------------
+Oman establishes innovation center for Liquid Robotics’ autonomous vessel
+
+Oman has established an innovation center built around the Wave Glider, a solar-powered autonomous vessel developed by Liquid Robotics, a Boeing company. It supports a wide variety of missions for environmental and maritime services, ranging from marine environmental monitoring and assessment to maritime surveillance and a variety of offshore commercial, security and defense applications
+
+
+-----------------
+
+F35 fighter jets sensing is next gen
+
+The Lockheed Martin F-35 Lightning II’s calling card is being a mobile sensor fusion package that can pack effectiveness of an entire fleet by sharing data and coordinating information across platforms such that the situational awareness of every warfighter present is increased exponentially. The fusion engine takes the myriad data the F-35 collects with its different sensors and combines it into a holistic picture that can be fed to the pilot — or other combatants
+
+
+-------------
+
+REDUCE FRAUDULENT CLAIMS
+
+German state department, Landesverwaltungsamt Berlin, used IBM’s Watson® Fraud Cockpit built on IBM Watson Analytics, to identify potential cases of fraud among millions of legitimate claims for reimbursement. The solution helps avoid misuse of public money by enabling targeted investigations into potential fraud.
+
+
+------------------
+STOP ATTACKER MOVEMENT
+
+US State Department of Revenue deployed Illusive Networks Attack Detection System to detect and stop in-network attacks and malicious insider activity. Because the servers’ traffic was east-west and wasn’t necessarily malicious in nature, none of the Department’s EDR or antivirus tools picked up on the activity.
+
+
+------------------
+Ottawa’s AI-based chatbots
+
+The City of Ottawa will pilot Microsoft’s Power Virtual Agent to increase the accessibility of its 311 services.
+The AI chatbot pilot driven in collaboration with Microsoft will begin in the first quarter of 2020. Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. The idea is to complement human instead of replacing them.
+
+----------------
+
+4D Printing in the Army
+
+The U.S. Army Research Center is creating a range of applications using 4D printing, including a solder’s uniform that can alter is camouflage or provide more effective protection against poisonous gases or shrapnel. The U.S. Army also gave a grant to Harvard University, the University of Pittsburgh and the University of Illinois to investigate ways that the military could use self-assembly for shelters or bridges that assemble themselves.
+
+
+----------------
+THE DWP CASE
+
+
+Novel payment models could enable HM Treasury (HMT) and the Department for Work and Pensions (DWP) to distribute welfare support more efficiently while improving policy delivery. The DWP currently pays out roughly £166 billion of taxpayer’s money in welfare support each year.
+Some £3.5 billion of that sum is overpaid through fraud (£1.2 billion), claimant error (£1.5 billion) and official error (£0.7 billion) of which £930 million is recovered. Adding the fraud and error that exists in the current tax credit system, which will be moving to DWP over the next few years as an element of the new Universal Credit regime, there is a total baseline of over £5 billion per year in gross overpayments.
+Taxpayers also bear the cost of post-payment intervention (debt collection, investigation and prosecution, claimant queries and dispute resolution).
+How Blockchain technology could help
+
+A large number of welfare claimants are un- or under-banked and face barriers to greater financial inclusion. Distributed Ledger Technology (DLT) offers a cheap and supportive means of getting these claimants into the benefits system.
+Digital identities could be confirmed through DLs running on securely-encoded devices — or software on a mobile device —allowing end-users to receive benefits directly, at reduced transaction costs to banks or local authorities. Such a solution could also be linked with other systems to reduce the level of fraud and official error in the delivery of benefits, as identities would be more difficult to forge.
+It would be possible to set rules at both the recipient and merchant ends of welfare transactions. Ministers could consider options for achieving better policy outcomes from the distribution of welfare support by agreeing or setting rules around the use of benefits.
+
+By applying DLTs in the registration and payment processes for government grants and benefits, DWP will be better equipped to
+
+Prevent financial losses through fraud and error
+Support the most vulnerable citizens through full financial inclusion
+Offer good value for money and place public expenditure on a sustainable footing
+Enable government to assure taxpayers that public funds are being effectively for the purposes of meeting genuine need.
+
+REQUIREMENTS FOR IMPLEMENTATION
+
+Requires much education for the recipients
+Requires some integration of sterling onto a distributed ledger for benefits
+May create a subset of the economy with a stigma attached to ‘benefit coins’
+
+Sources: UK Government Office for Science
+
+------------------
+
+
+Voice-Based Processing of Tax Payments
+
+A European Revenue Agency wanted to enable its citizens with voice-basedprocessing of tax payment. 
+Accenture developed a Virtual Agent for voice-based interactions capable of:
+
+User authentication
+End-to-end payment processing, including processing payment details
+Answering questions about the local tax policies
+Account PIN reset functionality
+
+Accenture Virtual Agent features:
+
+Bespoke Persona: Designing a friendly Virtual Agent persona to relate to the agency user base
+Telephony Integration: Integration with telephony using Twilio to enable users talk to the Virtual Agent on a call
+Voice and Chat Web Interface: Web interface allowing users to interact with the Virtual Agent either by voice or chatting
+
+
+Tags: Customer Insight & Growth Strategy , Virtual Agents , European Revenue Agency , Citizen Service , Twilio
+
+
+-------------------
+
+Crime Pattern Detection
+
+The Geneva Police Service uses location intelligence to help with crime pattern detection, using available data for strategic and operational analysis. Galigeo’s solution combined data from the data warehouse with GIS tools, giving users access to an integrative mapping tool, allowing for strengthening of resource allocation efficiency, and the capability to establish preventive and dissuasive actions. Geospatial data, in combination with predictive analysis tools, can be used to identify trends in criminal behaviours and understand and predict effectively when and where certain types of crimes are most likely to occur.
+
+
+--------------
+
+
 
 
 
