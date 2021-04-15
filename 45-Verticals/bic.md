@@ -190,7 +190,176 @@ The company built a new platform that allows customers to configure a car lease.
 
 
 
+Utility Settlement Coin (USC)
 
+Utility Settlement Coin (USC) project — led by some of the world’s largest banks (e.g. Banco Santander, BNY Mellon, Barclays, CIBC, Commerzbank, Credit Suisse) is intended to facilitate the issuance by central banks around the world of currencies using Blockchain technology. The USC platform will also make it easier for international banks to settle various transactions with each other, through the use of collateralized assets on a custom-built Blockchain. 
+The collateralized digital tokens will be directly forwarded to the owner of the asset, rather than going through the traditional network of clearinghouses.
+
+
+---------
+
+R3 
+
+R3 is an enterprise software firm focused on distributed database technology. It leads a consortium of 200+ members, such as financial institutions, banks, R3  developed Corda – an open-source distributed ledger platform, designed to work within finance . Corda has also garnered the interest of healthcare institutions, the insurance industry, and governments.
+R3, often asked by the consortium members how blockchains can interoperate, partnered with Ethereum founder Vitalik Buterin to commission a paper on several current and proposed interoperability solutions. 
+Additionally, R3 has developed a system that allows applications built on its platform to be able to interact seamlessly. While this resolves communication between distinct ecosystems, it focused on ecosystems built on R3’s platform.
+
+-------------
+
+Time saved at Deutsche Bank 
+
+As leading multinational bank, Deutsche Bank turned to Red Hat to build a containerized, microservices-based application development platform. This improved efficiency and saved time and money, by giving on-demand compute to every application development team at the bank.
+
+---------------
+
+Automated Bill Payments
+
+Bank of Montreal in cooperation with IBM have automated their customer’s bill payments by introducing machine learning-powered IBM Content Analyzer-based BMO Quick Pay tool – an AI-enabled automation solution which prepares the pre-authorized payment by processing e-mails or photos send by users.
+
+
+------------
+
+
+FINANCIAL CRIME DETECTION
+
+APAC based banking group used advanced analytics driven fraud detection solution from BAE Systems to reduce both false positives and false negatives. The solution uses rule optimization and applied machine learning without interrupting existing live processes.
+
+------------------
+
+aPAAS at Barclays Bank
+
+Barclays Bank: As part of Barclays’ cloud strategy, they are deploying Red Hat OpenShift Container Platform on Amazon Web Services. Barclays is believed to be one of the first banks to successfully implement an aPaaS and requisite operating model.
+
+------------------
+
+BBVA moves towards digital factories
+
+The bank formed scrum teams in order to tackle new, high-impact business projects. It incorporated people from other departments (like the legal and compliance teams) into the growing number of scrum teams to create what BBVA calls its digital factories, groups dedicated to delivering projects that are high priority for the bank’s transformation .
+
+
+----------------
+
+SAFe at ANZ Bank
+
+ANZ Bank has developed its own-brand of ‘scaled agile’ called New Ways of Working – distinct from the SAFe Scaled Agile Framework for large enterprises. The bank has 3000 agile trained resources currently and plans to train  13,000 employees by the end of the year. With new ways of working ANZ bank has gained the agility to release new features and functions monthly
+
+-----------------
+
+Automate at Fidelity
+
+Fidelity Worldwide Investment adopted the DevOps approach using application deployment automation. Reduced release time from 2–3 days to 1–2 hours – all while improving quality. Leveraged IBM UrbanCode Deploy to orchestrate and automate the deployment of applications, middleware configurations and database changes into development, test and production environments.
+
+
+---------------------
+Collaboration at RCBC
+
+The DevOps approach has helped shorten it’s development time from months to just days, across multiple platforms – mainframe to mobile. Through, ‘Collaborative development’ and ‘Continuous testing’ approach, RCBC enabled itself to deliver continuous software innovative by fostering collaboration between business, development and QA organizations. Also balanced quality and speed while reducing the cost of testing.
+
+
+----------------
+
+PORTFOLIO OPTIMIZATION AND RISK ANALYSIS
+
+Quantum computing can be applied for many financial problems, such as portfolio optimization, finding arbitrage opportunities, and perform credit scoring.
+
+
+----------------
+
+PORTFOLIO OPTIMIZATION AT MORGAN STANLEY
+
+Morgan Stanley articulated the bank’s hope of speeding up portfolio optimizations, such as Monte Carlo simulations, with the help of quantum computing.
+
+
+----------------
+PORTFOLIO OPTIMIZATION IN BANKING
+
+First movers are the Royal Bank of Scotland, Goldman Sachs, and Citigroup which have funded quantum computing startups directly. Barclays and JPMorgan Chase have been experimenting with IBM’s quantum computing technology and joined the IBM Q Network. 
+
+--------------
+
+ASSET OPTIMIZATION AT NATWEST
+
+NatWest is using Fujitsu quantum-inspired digital annealer technology to solve some of its most complex, challenging and time-consuming financial investment problems by optimizing its mix of high-quality liquid assets including bonds, cash and government securities.
+
+----------------
+BBVA pursues quantum advantage for investment portfolio optimization
+
+BBVA is examining various lines of research to determine how quantum technologies could represent an advantage over traditional tools in different financial use cases such as dynamic portfolio optimization, credit scoring process optimization and currency arbitrage optimization. The bank launched a strategy that involves forging alliances, strengthening its internal capacity around this technology, evaluating the available tools, and developing proof of concepts in collaboration with research centers, traditional businesses and startups alike. 
+
+
+---------------------
+
+Fault Detection & Recovery At CITI 
+
+Citibank is working with Pivotal for digital transformation on Cloud Foundry. Pivotal Cloud Foundry’s application health manager automatically detects and recovers failed application instances when the actual state of an app instance does not match the desired state. The system is also designed to detect, alert and auto recover processes running the platform components, should a failure occur. In the event that the VM itself has failed, the system will automatically “resurrect” a VM and restart failed cluster components.
+
+--------------
+
+MXDP help banks with AI-driven experiences across channels
+
+Temenos Quantum, the leading multiexperience development platform (MXDP), helps banks and corporations capture market share and improve client retention by delivering seamless, hyperpersonalized, AI-driven experiences faster across web, native apps, wearables, conversational and immersive touchpoints. Clients include ABN AMRO, HSBC, Bank of Shanghai amongst others.
+
+-------------------
+
+DYNAMIC CONTAINER SECURITY
+
+A Global 50 financial services business used  Illumio’s Adaptive Security Platform® (ASP) for visibility and uniform policies across containerized and non-containerized environments. The security team visualized connections between their containers environment and data center, then built policies to permit only allowed traffic. 
+
+
+--------------------
+
+COGNITIVE SECURITY
+
+Cargills Bank is using cognitive security solution, IBM® QRadar® Advisor with Watson™ to proactively secure its customers. The solution uses IBM Watson® AI capabilities to facilitate the rapid investigation and classification of potential security incidents.
+
+
+--------------
+
+EARLY WARNING SYSTEM
+
+US bank selected Secureworks to deploy an effective early warning system, consisting of deep and wide insights to emerging threats across the world, put into an operational context.
+
+
+-------------------
+BEHAVIORAL BIOMETRICS
+
+Banco Santander deployed IBM Trusteer Pinpoint Detect to protect its digital channels against fraudulent transactions and account takeover in addition to detection of end user devices infected with high risk malware. Using behavioral biometrics, the Trusteer solution builds a customer profile based on normal account activity, including location, device, mouse gestures, clicks, access patterns and more. It continuously authenticates the customer’s identity by monitoring for behavior that doesn’t fit the profile.
+
+
+--------------
+
+FASTER EVENT CORRELATION
+
+Busan Bank  deployed RSA NetWitness® Logs to centrally manage and monitor logs from on-premises and cloud-based systems. The solution also provides short- and longer-term retention capabilities and applies advanced analytics to speed event correlation and attack detection.
+
+
+-------------------
+
+AUTOMATE ACCESS CERTIFICATIONS
+
+Orrstown Bank deployed IdentityNow from SailPoint to  automate access certifications and password management for most of their primary applications. Orrstown has reduced the time it takes to certify access, automate their processes and mitigate the risk of a data breach.
+
+
+-----------------
+
+INTERACTIVE LEARNING AT ANZ
+
+The Australia and New Zealand Banking Group (ANZ) wanted to develop an interactive learning module that made training more fun, engaging and challenging for staff. To make learning engaging and motivating the learning design team built the module around a space exploration narrative structuring the training as a “space mission” to identify Operational Risks in the “ANZ Risk Universe”.
+
+
+---------------
+
+Insurance processing automation in Jforce
+
+JForce adopted the IBM Digital Business Automation suite of products to help mitigate the concerns felt by its insurance and banking clients. To address the claims and credit processing woes of its clients, JForce deployed the IBM Operational Decision Manager, IBM Business Automation Workflow and the IBM Blueworks Live products, automating about 95% of its processes. As a result of the implementation, the insurance company reduced its insurance claims processing period from 30 minutes to 5 minutes along with having its labor costs drastically drop down to 80%.
+
+
+-----------------
+
+Location Services
+
+Bluetooth 5 has the potential for adoption in many scenarios, particularly where location accuracy and navigation is important. This could include more efficient airport navigation experiences, asset tracking of inventory in manufacturing and smart city infrastructure that could help those with impairments be more mobile. 
+Bluetooth 5 can also play a role in Beacon technology, which allows businesses, in retail for example, to beam messages to nearby potential customers with deal offers or advertisements. Beacon technology can also facilitate better indoor navigation, or be used in online payments or banking, among many other things. Current examples of beacon technology include Apple’s iBeacon or Google’s Eddystone, which both use Bluetooth Low Energy communication technology. 
 
 
 
