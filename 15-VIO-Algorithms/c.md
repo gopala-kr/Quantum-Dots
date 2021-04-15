@@ -1591,6 +1591,274 @@ CUSTOMER SERVICE
 
 HP built a virtual agent using the Microsoft Dynamics 365 AI solution for customer service. Customers can now interact conversationally with the assistant to solve common problems, support staff use the Microsoft AI solution for instant access to a wealth of troubleshooting information and the company gains deeper insights into common customer issues.
 
+--------------------
+DNA-size computer chips
+
+IBM Research and the California Institute of Technology researchers have found a way to control the placement of silicon nanowires, carbon nanotubes and other tiny components on microchips through the use of synthetic DNA and tiny lithographic templates. The scientists used the DNA molecules to function as scaffolding, to help deposit millions of nanosize particles in precise patterns. 
+
+----------------------
+SPACE EXPLORATION 
+
+NASA has partnered with Google to research quantum computational methods for exoplanet detection from analysis of telescopic observations, alongside analysis of optimization and planning problems.
+
+------------------
+Swarm Technology at NASA: Building Resilient Systems
+
+Developing space systems is a complex task, driven by standards and safety requirements to ensure reliability of sophisticated hardware and software. Future NASA missions will focus on the development of swarm-based spacecraft systems comprising multiple self-organizing and autonomous spacecraft.
+
+
+--------------
+Istio project - an open service fabric for microservices
+
+The Istio project is a collaboration between IBM, Google and Lyft. It was created as an open service fabric to simplify the integration and management of microservices. It decreases the coupling between application code, the underlying platform, and policy which makes it simpler for operators to move application deployments between environments or to new policy schemes. Applications become inherently more portable as a result.
+
+
+-------------
+
+Cloud Infrastructure Management at Splunk
+
+Splunk uses Ansible for automating the resource-intensive and time-consuming tasks associated with managing its cloud infrastructure. Its built-in queuing system ensures jobs are run efficiently. Ansible Tower’s powerful features also helps Splunk more easily manage and track its entire cloud inventory, keeping it in sync. Tower’s powerful provisioning callbacks allow nodes to request configuration on demand, enabling autoscaling.
+
+
+----------------
+
+Polyglot Runtime Vm at Oracle
+
+Oracle GraalVM GraalVM is an embeddable high-performance polyglot virtual machine that aims to run all programming languages very fast. It has the capability to run Java and JVM languages (via bytecode) as well as full support for javascript and Node.JS, with beta support for Ruby, Python, R and LLVM bitcode.
+
+
+---------------
+Redhat Openshift enables polyglot clouds
+
+OpenShift is a polyglot platform that supports multiple languages, including Java, Node.js, .NET, Ruby, Python, PHP etc. OpenShift enables developers to build cloud-native apps on a cloud-based container platform without having to worry about the inherent complexity of provisioning, managing and scaling applications
+
+
+--------------
+
+Google’s Bazel is a open source polyglot build tool
+
+Google's Bazel was designed to provide optimized dependency analysis and parallel execution for multiple code bases in a given application. Bazel already has support for building a variety of languages, including C/C++, Rust, Scala, Java, Objective-C, etc..
+
+
+--------------------
+Adobe enlists Self healing AI
+
+Adobe’s goal for AI in ITSM was to develop a “self-healing framework. the self-healing platform can find operational issues and automatically solve them, while also providing detailed data and stats to the IT team. In instances where the platform can’t heal itself, it can alert IT workers to issues faster and improve the time to recovery
+
+
+--------------
+
+IBM Watson AutoAI 
+
+Watson AutoAI helps design and shape the development of AI technologies. It provides Automated Data Preparation, Automated feature engineering, Hyperparameter optimization and Automated model selection to help shape best case solutions.
+It helps workaround AI building challenges of regulatory compliant datasets for model validation and tracking and measure of indicators for business success. 
+
+-------------
+
+Paypal Devsecops
+
+Paypal embedded several repeatable proactive security practices in their product life cycle. They also instituted auto-enabled security controls, implemented secure frameworks and security tools, and used threat modeling for uncommon features and web or mobile apps on their standardized, secure frameworks. PayPal’s strategy also included institutionalizing risk-based thinking and processes, requiring security to be integrated by default at all layers, and they focused on automation.
+
+
+-------------------
+
+Google continues to drive towards PWA
+
+Being one of the pioneers of PWA’s Google recently moved its drive and chat to PWA. Other Google progressive apps  include YouTube Music, Stadia, Photos, Messages etc. Its PWA ecosystem is compatible across any operating system running Chrome 73 or higher.
+
+
+-----------
+
+Facebook uses Aroma and Getafix
+
+Facebook created Aroma, a code-to-code search and recommendation tool that uses machine learning (ML) to make the process of gaining insights from big codebases much easier. Aroma enables engineers to make a search query with the code snippet itself. The results are returned as code recommendations
+Facebook has built a tool called Getafix that automatically finds fixes for bugs and offers them to engineers to approve. Getafix learns from engineers’ past code fixes, its recommendations are intuitive for engineers to review.
+
+
+----------------
+Ubisoft AI-based coding assistant 
+
+Ubisoft has partnered with Mozilla to develop Clever-Commit, an AI-based coding assistant that learns from apps code base’s bug and regression data to analyze and flag potential new bugs as new code is committed. Ubisoft already uses this tool internally and Mozilla  will deploy it to spot bugs in its Firefox code
+
+--------------
+
+Code autocomplete tool from Codota
+
+AI-assisted software development platform company Codota acquired code prediction tool TabNine.It is a code autocomplete tool that predicts the rest of the code programmers are typing — much like word or phrase autocomplete in a Google search window. 
+The acquisition creates a comprehensive AI platform for software authoring, as well as the only one which fully supports nearly all popular programming languages
+
+
+----------------
+
+NASA Brings Mars to Earth with Kinvey’s Telerik DevCraft
+
+NASA has a massive archive of data collected from the Curiosity’s daily missions, but even for experienced scientists, identifying key results and visualizing information was a challenge.
+Analyst’s Notebook multiexperience app created with Devcraft to provide a sleek, fast and consistent UI across all web, desktop and mobile platforms
+DevCraft Ultimate provided NASA team the ability to work more efficiently with data across devices and turn out the same amount of work without any extra manpower.
+
+
+-----------------
+
+Application Performance Mgmt at Instana
+
+Instana offers automatic discovery of the complete application stack and infrastructure and tracing of all requests and intelligent AI-powered performance and quality management. It uses an agent-based technology to offer high levels of visibility into what’s going on in the IT environment and the ability to filter down and investigate the most critical issues that require action, and can even automate the responses.
+.
+
+--------------
+Application Performance Mgmt at Park Place Technologies 
+
+Park Place Technologies, a data center maintenance provider - ensures low human effort by using BMC TrueSight, an AIOps platform powered by machine learning and analytics, to elevate their IT operations and improve the quality and performance of digital services that run in their environments.
+
+--------------
+
+Test Automation at Activision
+
+Activision leveraged the Cloudtestr platform to identify the scope for test automation in line with the upgrade/patches applied by Oracle for Fusion HCM. A robust regression-testing suite was developed to test any system changes. Additionally, test cases leveraging a keyword driven framework and a test data template, was also developed to make it easy to maintain and keep updated.
+
+----------------
+
+Self Driving Cloud Infrastructure at Juniper
+
+Juniper Appformix’s cloud operations platform, leverages big data analytics and machine learning to provide clouds with what Juniper calls "self-driving infrastructure”. It enables cloud native applications like telemetry and operations management across software-defined infrastructures and application software layers. AppFormix's technology is designed to provide with real-time and historic monitoring, visibility, and dynamic performance optimization in both OpenStack and Kubernetes environments
+
+-------------
+
+Alphasense became cloud native from cloud resident
+
+Alphasense was always in the cloud in AWS, but at the same time, wasn’t so much cloud native.  They realized that for a AI platform they needed to change infrastructure because it couldn't keep up with the pace of their development. The company, which had already broken down most of its monolith into microservices, decided to adopt Kubernetes for orchestration, along with Spinnaker for continuous delivery and Prometheus and Grafana for monitoring and alerting
+
+
+---------------------
+
+Adform moving beyond cloud native
+
+Adform has an OpenStack-based private cloud infrastructure running on 1,100 physical servers in 7 data centers around the world. Their private cloud approach required using local VM’s for each service, leading to a connected inflexible cloud environment. The team, which had already been using Prometheus for monitoring, embraced Kubernetes and cloud native practices. A proof of concept project was started, with a Kubernetes cluster leading to  cost savings of 4-5x due to less hardware and fewer man hours. 
+
+
+----------------------
+
+SECURE DYNAMIC DEVOPS 
+
+Pivvot embedded security in the development process with Trend Micro™ Deep Security™ Smart Check. The solution performs build scanning, image registry scanning at pre-runtime, secures the host, and provides Docker® and Kubernetes® protection at runtime.
+
+-----------------
+
+INNOVATIVE DATA INTELLIGENCE
+
+Intel deployed  Splunk Enterprise Security that uses machine learning to detect threats so they can be quickly eliminated. The solution helped in reducing the detection of sophisticated threats to minutes or hours versus days or weeks.
+
+--------------
+
+QUANTUM SAFE NETWORKING
+
+QuantLR used Ultimately Secure Quantum Key Distribution (QKD) solutions to secure data communication at a lower cost. QuantLR successfully deployed a POC showing that QKD is ready for mass deployment at a cost reduction of 90% over all previously deployed solutions.
+
+--------------------
+
+SECURITY IN MICRO-SEGMENTED DATACENTER
+
+Nebraska-based cloud hosting and managed services provider FNTS partnered with Palo Alto Networks to align information security with a micro-segmented, software defined data center. Palo Alto Networks Security Operating Platform provided unified next-generation security capabilities and integrated global threat intelligence to automate cyber protections across the network, endpoints, and public cloud environments.
+
+
+----------------
+SECURITY POLICY AUTOMATION
+
+Global IT Services PSF selected Palo Alto Networks to automate security policy provisioning and management for private cloud-hosted tenant environments. The solution from Palo Alto Networks provided granular visibility, intelligent control and advanced threat protection for applications and data residing within VMware NSX-powered multi-tenant hosted software-defined data center.
+
+----------------
+
+AUGMENTED INTELLIGENCE
+
+Airbus cybersecurity selected ThreatQ platform from ThreatQuotient to enhance its threat intelligence service. The ThreatQ platform is complementary to an existing managed security solution that allows customer to build up their own knowledge base adapted with their context.
+
+
+----------------
+AI SOCIAL ERP
+
+Orenda Software Solutions: migrated its social media measurement solution to an IBM Cloud hosting environment, using the IBM Cloud development platform to incorporate the IBM Watson Personality Insights service. This enables Orenda’s social media monitoring platform and to provide cognitive capabilities to social data.
+
+-------
+
+Workplace engagement
+
+GoDaddy, the American Internet domain registrar and web hosting company, uses Jive-powered Interactive Intranet (known as ‘The Planet’) to engage it’s 5,000 global employees in a ‘single marketplace of ideas’. On The Planet, GoDaddy’s employees can find the latest company news, find HR resources, get to know new colleagues, recognize each other’s accomplishments and take part in groups and discussions on an array of topics. Employee engagement increased by 81% in the company’s customer care group, within months of launching in July 2015.
+
+----------------
+Microsoft Office 365
+
+Accenture was looking to improve the efficiency of its IT services, without adding extra costs. Accenture had been using a suite of on-premises services that included Microsoft Office and Office Communicator, but came to realize that running services on-premises was an expensive option. Avanade and Accenture, in under 12 months, completed one of the biggest ever deployments of Microsoft Office 365, involving more than 290,000 users and 11,000 sites across 54 countries. 13,000 Microsoft SharePoint Online sites were created, 130 TBs of data moved with users experiencing additional functionality promptly.
+
+--------------
+IBM Connections
+
+Cloudhop, the managed service provider, develops and delivers solutions that help organizations across Africa and the Middle East enhance productivity, reduce costs and uncover valuable insights in their data. Cloudhop wanted to offer social collaboration tools that could scale to support multinational organizations, in order to attract larger clients, and keep them. Using IBM Connections Cloud and IBM Watson Workspace, integrated and security-rich capabilities are delivered, supporting teams of 10 to 10,000.
+
+
+---------------
+
+Asana & Form Integration
+
+Sophos, the British security software and hardware company, has over 3,000 employees across 119 countries, with an extremely large and interconnected marketing team. The marketing organization is split into various sub-teams, e.g. product marketing, field marketing, marketing operations, corporate marketing. In order to improve communication, which was often slow and unreliable, Sophos worked with Asana to replace the existing email alias with integration with Google Forms which would route any requests to the correct project, creating a ‘welcome desk’ of sorts. Analysis of the data in Asana also helped to optimize the marketing organization, by assessing and managing the volume of requests and spotting any duplicate work.
+
+
+------------------
+Cisco Webex Meeting Solutions
+
+IBM Norway was going through a significant amount of transformation to become an integrated service and solutions company focused on data and AI. The process involved integration of companies and technologies, the quick onboarding of more than 1,000 employees while enabling and accelerating collaboration. Cisco Webex was used to transform internal and external interactions and create flexibility to bring teams together via completely secured solutions.
+
+----------
+Career Management & Coaching
+
+Cisco, the US multinational technology firm, co-developed the Ascendify Aspire app, a virtual career coach that learns about an employee’s skills, passions and interests in order to best help the employee navigate their career. Cisco’s ‘My Development Space’, which uses Ascendify’s intelligent technologies, allows employees to ‘choose their own adventure’ by finding challenging work within Cisco and searching for career advancement across the company.
+
+
+-------------
+
+Customer Review Analysis
+
+Sage, a leading global supplier of business management software and services, was looking to improve customer loyalty, strengthen customer care and monitor and measure key strategic metrics such as Net Promoter Score (NPS). The business realized that there was a wealth of valuable information in the free-form customer comments section, or unstructured data, but there were too many comments to read and analyse one by one. Sage used text analytics to automate the process of unstructured survey analysis and better understand customer feedback.
+
+
+-----------
+
+Marketing Campaign Effectiveness
+
+Citrix is a leader in mobile workspaces, providing virtualization, networking and cloud services. Citrix worked with Informatica to increase lead-to-opportunity conversion rates by 20%, by improving the quality of channel partner, enterprise and SMB prospect data, and providing a view into the total customer relationship across product lines. The business also achieved a 50% increase in quality of data at the point of entry, and a 50% reduction in the rate of junk and duplicate data for prospects, existing accounts and contacts.
+
+
+-----------------
+
+Subscription-Based Licensing Models
+
+Autodesk is a leader in 3D design, engineering and entertainment software. The company decided to transform its revenue model from a conventional perpetual licensing one to a more modern subscription-based licensing model, to increase profits and propel growth. Autodesk’s existing BI system could not support a critical change to the revenue model. Using the Denodo Platform as a logical data warehouse, Autodesk was able to create a single, unified enterprise access point for any data used within the company. This enabled external partners to directly connect to Autodesk SAP applications using web services, as well as a reduction in data copying (less ETL) and a single point of enforcement for security.
+
+
+----------------
+INFRASTRUCTURE AUTOMATION FOR SOFTWARE OPERATIONS
+
+Using AWS Lambda: Autodesk uses AWS Lambda for many purposes and reported use cases related to operation automation of its AWS environments used to serve its customers and ecosystem. Autodesk developed a microservices framework of over 20 functions that automates the onboarding and offboarding of AWS accounts; thereby turning what was once a two-week process into just 10 minutes.
+
+
+------------
+EASING INTEGRATION OF MULTIPLE EDGE DEVICES
+
+Using Microsoft Azure Functions: Plexure, a provider of CRM platform, has a challenge in providing an easy integration mechanism with a retailer's existing digital ecosystem. Microsoft Azure Functions have allowed Plexure's customers to create "code as content" (functions) which the Plexure platform triggers at appropriate points to effect interactions with other digital systems.
+
+------------
+IOT CONNECTIVITY FOR INDUSTRY 4.0.
+
+Orange Business Services and Microsoft are collaborating to deliver large-scale, end-to-end Internet of Things (IoT) solutions that boost the digital processes of companies in the manufacturing sector. Enterprises can use the Orange modular IoT solution, Datavenue, strengthened by Microsoft Azure IoT Suite, to transition to Industry 4.0 and optimize the entire manufacturing value chain.
+
+----------
+
+Continuous Deployment at Amelco
+
+Amelco Leverage Ansible’s agentless automation framework to simplify the process of deploying, operating and upgrading applications – across disparate environments, in one simple language. Using Ansible and Ansible Tower to automate application deployment, Amelco is able to reduce complexity, speed solution delivery and ensure continuous delivery.
+
+
+
+
+
 
 --------------------------
 
