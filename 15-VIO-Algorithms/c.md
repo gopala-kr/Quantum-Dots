@@ -534,6 +534,76 @@ Data security
 Groupe Renault announced a prototype for a digital car maintenance book built in collaboration with Microsoft and VISEO. Blockchain technology ensures that data in the car passport is stored in a secure and transparent manner. 
 
 
+--------------
+Jet Engine Optimization
+
+GE’s Predix platform was developed to connect industrial equipment, analyse data and deliver real-time insights. It is an aggregation of microservices that are useful in building, deploying and managing industrial internet applications. GE has used Predix and digital twins to analyse jet engine data – using statistical models and physics-based simulations to understand what is happening, when and how. Simulations can be run on-site or in the cloud at scale. GE leverages software from ANSYS, a global leader in engineering simulation software, when rolling out digital twins. 
+
+
+-----------
+
+Wind Turbine Optimization
+
+GE Power use a digital twin to provide accurate operational pictures of wind farm assets in real time. Digital twins can be used to identify underutilized devices and drive optimal usage. GE Power were able to get 5% more output from a wind farm without making wholesale changes - the turbines were optimized for changing wind conditions and the team orchestrated the interaction of individual twins on-site.
+
+------------------
+
+Iot Enabled Architecture at Arup
+
+Arup adopted MASA methodology to align it’s IT systems, design teams, contractors and procurement team to deliver complex infrastructure projects – airports, major sporting venues and world-class smart cities projects. This includes managing interconnected systems on a multibillion dollar smart city project in Qatar and planning of a new baggage handling system for a major airport operator.
+
+
+-------------------
+
+Predictive Maintenance at Schindler
+
+Schindler, one of the world’s largest elevator and escalator suppliers, partnered with GE to implement Predix Platform to better connect equipment, leverage advanced analytics and machine learning capabilities, and keep its equipment running smoothly and securely. AI enables maintenance workers to target repairs in a predictive ad-hoc way, rather than time consuming and redundant scheduled maintenance.
+
+
+----------------
+
+Equipment Repair
+ 
+German elevator manufacturer ThyssenKrupp has adopted Microsoft’s HoloLens to help its employees fix faulty elevators with higher accuracy and speed. With this MR device ThyssenKrupp engineers can scan the machinery parts and get all info about them that’s needed to service them. They also get to see how to fix any faulty parts more efficiently.
+
+
+---------------
+Surgical Implants
+
+German medical device manufacturer EIT recently demonstrated the vast potential of medical additive manufacturing by supplying the first anatomically adapted, 3D-printed titanium fusion implant to a patient with a degenerative cervical spine condition. The technology behind this pioneering effort was Direct Metal Printing (DMP) , which is capable of building metal objects layer by layer in a variety of metals, in this case biocompatible titanium.
+
+---------------
+
+Sourcing and Procurement 
+
+Cummins Engine, a provider of diesel- and natural gas-powered engines, needed a common sourcing process that would support their direct purchasing needs around the world. Employees were using multiple systems to manage huge amounts of data. The overall solution involved Cloud strategic procurement to E-Business Suite R12, rolled out in phases, including PaaS extensions integrated to Cloud sourcing. More specifically, PaaS extensions focused on:
+
+high volume uploading
+price breaks
+line level attributes 
+
+
+-----------------
+
+Digital documenting
+
+Balfour Beatty is a multinational infrastructure group based in the United Kingdom. It’s US subsidiary wanted to enable digital documentation across all of it’s operations in order to help manage an entire lifecycle of complex projects and create better workflow. An enterprise hybrid solution from Egntye (including Egnyte Connect, Egnyte Hybrid via Storage Sync, integrated business apps e.g. Bluebeam, GoodReader, PlanGrid) was used to achieve these goals. The digital documentation process was rolled out across the entire organization to thousands of users and external contributors with multiple methods of content protection (e.g. flexible administration and permissions hierarchy, insight into content residency). The solution has been deployed to 2,500 US vertical construction employees, allowing for more efficient communication and collaboration.
+
+---------------
+
+IMMERSIVE WORKSPACES - Augmented Reality
+
+Although it has been discontinued in the consumer market, Google Glass has been used in the manufacturing industry to assist workers. Employees at ACGO, an American agricultural equipment manufacturer, use Google Glass in case they forget a set of instructions while working on a piece of equipment, or to bring up a required manual, photo or video.
+
+
+-----------
+
+Connected Industrial Equipment
+
+Caterpillar, the American construction machinery and equipment company, uses telematics solutions to enable its customers to get fast and accurate information about the location, utilization and condition of their equipment through remote monitoring, helping them improve efficiency and costs across their operations. 
+
+
+
 
 
 
