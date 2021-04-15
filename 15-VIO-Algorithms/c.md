@@ -2194,6 +2194,187 @@ Finance & Accounting Analytics helps clients optimize working capital, improve c
 
 --------------
 
+Pensa stocks shelves using drones
+
+Pensa is a start-up that provides real-time inventory data based on a drone equipped with a AI vision camera that "learns once, recognizes everywhere." The drone flies inside the store scanning shelves for misplaced items and out-of-stock items as it compiles a complete audit of the store's inventory. Pensa's autonomous perception system uses proprietary AI-based deep learning to visually identify product items (SKUs) on the retail shelf and creates observable planograms or visual representations of products on the store shelf.
+
+-----------------
+Exoskeleton deliveries to reduce logistics injuries
+
+A worker for food delivery service Eleme appeared on a Shanghai street on April 20 using robot developer ULS Robotics intelligent HEMS-GS lower extremity exoskeleton. He carried three take-out boxes on his back. The hashtag "robot exoskeleton for food delivery" was viewed more than 20 million times on Sina Weibo
+
+----------------
+
+Event Driven Enterprise Architecture at Nordstrom
+
+Nordstrom remodeled it’s enterprise architecture to draw together existing models and data to manage risk and put together enterprise roadmaps. Their business and IT infrastructure included systems for Finance, Administration, CRM, Manufacturing, Merchandise Inventory, Sales and Supply Chain. They were able to document links between applications, servers, departments, capabilities and initiatives to carry out impact- and trade-off analysis.
+
+------------
+Digitalization of IT landscape at Reliance Industries 
+
+Reliance Industries is India's largest private sector business enterprise and amongst the Fortune 500 companies. It’s businesses span 4G Digital Services, organized retail, and energy and petrochemical products. RIL has adopted a tailored TOGAF metamodel, and is using ABACUS (an enterprise architecture tool from Avolution) to co-ordinate its architecture and IT management.
+
+
+-------------------
+
+
+
+Zalando ramps up the next big thing in fashion: Microservices
+
+Zalando’s microservice architecture leverages Amazon Web Services for provisioning, deploying with Docker and a self-built PaaS called STUPS
+As a result of switching to microservices, Zalando created a flexible, scalable platform and a new working culture, which was attractive and motivating for developers.
+
+
+-----------
+Flipkart triples time on site
+
+Flipkart decided to combine their web presence and native app into a PWA to allow their current and prospective customers to have instant access to their store. Compared to their previous mobile presence, Flipkart has tripled time-on-site with their Progressive Web App. Users spend an average of 3.5 minutes on Flipkart Lite versus 70 seconds on the predecessor. Flipkart has also generated a 40% higher re-engagement rate among first-time visitors and a 70% higher conversion rate due to the “Add to Homescreen” icon, because customers have instant access to Flipkart whenever they want.
+
+--------------
+
+AliExpress ships through PWA’s
+
+AliExpress built a cross-browser Progressive Web App to serve its web users as well as mobile users. The statistics showed a huge improvement after their users started engaging through various features of PWA. 
+The conversion rates from AliExpress to new users increased by 104%. This mobile web investment also resulted in conversion rates on Safari increasing by 82%. The new strategy also provided a much better experience. Users visit twice as many pages per session and the time spent per session has increased by an average of 74% on all browsers.
+
+-------------
+Walmart adopts cloud testing to enable CD
+
+As part of an initiative to improve customer e-commerce experiences and developer productivity, the Walmart team adopted Continuous Testing best practices using Selenium and Test Armada.
+Walmart also leveled up their testing by implementing a cloud-based solution for web and mobile app testing that provided access to hundreds of browser and operating system combinations, increasing test coverage and saving time.
+
+-------------------
+
+Application Portfolio at Home Depot
+
+Home Depot has shifted from being a more traditional retail company to a truly digital organization. It has added more than 2,500 developers on Cloud Foundry, maintaining more than 1,600 apps and services in production. In any given month, that cloud handles more than 1.5 billion requests.
+
+
+----------
+
+FLEXIBLE IDENTITY MANAGEMENT
+
+Whole Foods Market used Microsoft Azure Active Directory service to manage identity credentials in cloud environment. The company wanted to simplify identity management for employees for SaaS applications more effectively.
+
+------------
+
+NEUTRALIZE ACTIVE THREATS
+
+A large retail organization used Attivo Networks’ ThreatDefend Deception Platform to determine active threats in networks acquired after M&A. The system detects confirmed interaction and engagement with decoys and traps deployed throughout the enterprise, and alerts on misconfigurations that may reflect risk exposure.
+
+--------
+
+TELCO REDUCE CALLS FOR TRAVEL FEATURE
+
+International/Global transactions were costing a Telco client $160m annually. They wanted to reduce cost due to care/retail assisted transactions, repeat call-in rate, post transaction credits, and transfer rates. 
+With the client, Accenture set out to process Global and International Rebranding. Policy: Removal of Proration and Feature Expiration. The need was identified to completely revamp the global roaming system to make it customer-friendly.
+
+
+
+-----------
+
+Mercari uses AutoML to improve their AI systems
+
+Mercari is a popular shopping app in Japan that has been using AutoML Vision (Google’s AutoML solution) for classifying images. According to Mercari, they’ve been “developing their own ML model that suggests a brand name from 12 major brands in the photo uploading user interface.”
+While their own model—trained on TensorFlow—achieved an accuracy of 75%, AutoML Vision in advanced mode with 50,000 training images achieved an accuracy of 91.3%, which is a whopping 15% increase. With such astounding results, Mercari has integrated AutoML into their systems.
+
+----------------------
+
+
+
+Tenth Street Hats using AR to enriching buying experience
+
+Tenth Street Hats, a popular family-run hat store in the US, adopted an AR tool that allowed prospective customers to try out the hats from the comfort of their homes. It has been able to quickly scale up this feature from 1 hat to 32 hats. Since the implementation of this tool the retailer has increased its conversion rate by 52% and revenue per user has gone up by 41.8% for those who engage with the tool. Further, such customers were 2.2 times more likely to complete a purchase.
+
+------------------
+
+Smart Sports
+
+Manufacturers like Sensoria produce a range of smart garments, such as upper garments that monitor heart rate or smart socks that detect cadence, foot landing or impact forces. These products connect directly to an app which displays the data alongside AI coaching. Ambiotex’s smart shirt contains integrated sensors that measure heart rate variability, anaerobic threshold, fitness/stress levels. The Athos Core collects and analyzes data using micro-sensors, enabling tracking of electrical activity produces by the wearers muscles.
+
+
+-----------
+
+Connected Clothing
+
+E-textiles in clothing can provide increased convenience to the wearer, by making them more connected. Levi’s smart jacket, created in partnership with Google, has built-in sensors and tags to turn the clothing into the equivalent of the touchscreen on a smartphone. The interactive material is built into the jacket and wearers, particularly cyclists or similar, can benefit by accessing their mobile phone with out having to take it out of its pocket.
+
+
+----------------
+E-textiles in Travel and Safety
+
+E-textiles have an important role to play in travel and safety industries. Lumos is a bicycle helmet with brake lights and turn signals, allowing cyclists to be more visible when on the road. The product uses 14 super-bright white LEDs at the front and 16 at the rear. The user also has access to a connected wearable with a built-in accelerometer to measure speed.
+
+
+-----------------
+
+Eco-friendly Fashion
+
+Fashion brands such as Pauline van Dongen are producing clothing like the Wearable Solar T-Shirt. These products are not only eco-friendly as they are solar-powered, but the wearer can also charge electronic devices such as phones, using the garment. The smart fabrics used have tiny interconnected solar cells that recharge batteries embedded in the cloth – allowing the user to charge their devices ‘on the go.’
+
+---------------------
+
+Real-time recommendations for ASOS
+
+ASOS uses Microsoft Azure Cosmos DB, a scalable, managed database that makes possible such innovations as real-time product recommendations and instant order updates for 15.4 million customers. 
+
+
+
+---------------
+
+FreshGo and Alibaba bring "New Retail" strategies to local HK fish markets
+
+Alibaba Cloud provided FreshGo a refined solution to fulfill their need for a live streaming solution with scalable usage at a lower cost (-70%) which allowed them to give a better and more mature service to their customers
+
+-------------------
+
+Bitcoin payments
+
+Online retailers and traditional retailers have begun to accept bitcoin payments. Interest has increased in the technology as it helps prevent identity theft, fraud and data tampering as well as helping to stop denial-of-service attacks. Retailers are also interested in the technology’s decentralized characteristics and its ability to minimize or eliminate exchange fees.
+
+---------------------
+
+Unmanned Aerial Vehicles
+
+Amazon's drones will be able to pick up a package and track the location of the customer it is being delivered to by pulling data from their smartphone. They expect to deliver up to 400 million packages per year at a price of one dollar per delivery. 
+
+----------------
+
+Automation of pricing methods for American specialty retailer 
+
+Analyze historical predictions and sales data to assess the effect of past promotions and dynamically adjust markdowns for future clearance periods
+For an American specialty retailer a rule based pricing optimization process was  developed to help price management in the markdown period. The  markdown  solution identified poor performing Styles/ Color codes and recommends markdown percentages based on Weeks of Supply (WOS), elasticity, and user inputs.
+A 4-step process was employed:
+
+Identification of problematic items based on inventory on hand
+Definition of discount % required to increase the sales with an objective of clearing off the remaining inventory
+Application of business rules and constraints
+
+This determined the final ticket price and action required based on the suggested ticket price and current ticket price.
+
+----------------------
+
+Customer segmentation based on offer optimization for Leading Brazilian retailer 
+
+Offer Optimization allows to identify the most relevant offers / bundles that have the maximum likelihood of acceptance to the users
+For a Leading Brazilian retail it was possible:
+
+Predict price-volume relationship leveraging both internal data (e.g., stock level) and external data (e.g. competitors’ price) 
+Use predicted price-volume curves as an input into a price optimization model (maximizing profit or revenue)
+Facilitate effective change management & set up a trained COE
+ 
+---------------------
+
+Dynamic price markdown adjustments for Major Indian apparel retailer 
+
+Analyzing historical predictions and sales data is possibile to assess the effect of past promotions and dynamically adjust markdowns for future clearance periods
+A Major Indian apparel retailer built econometrics models to estimate price elasticity at segment level to estimate elasticity and offline simulation tool for price recommendation considering product hierarchy, elasticity and inventory on hand
+
+
+
+
+
+
 
 
 
