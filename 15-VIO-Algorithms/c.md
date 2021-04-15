@@ -1855,8 +1855,148 @@ Continuous Deployment at Amelco
 
 Amelco Leverage Ansible’s agentless automation framework to simplify the process of deploying, operating and upgrading applications – across disparate environments, in one simple language. Using Ansible and Ansible Tower to automate application deployment, Amelco is able to reduce complexity, speed solution delivery and ensure continuous delivery.
 
+----------
+Obeta uses covarients dynamic picking arms
+
+Covariant is tackling the issue of picking any size package with relatively simple hardware, including an off-the-shelf industrial arm , a suction gripper and a 2D camera system that doesn’t rely on lasers or pattern projection. What makes the system work is a neural network that identifies the object to be picked up. 
+The system is deployed in a warehouse that handles logistics for a Obeta, which overnights orders of electrical supplies to electricians in Germany
+
+----------------
+
+Fedex Memphis accelerates robot arm deployment
+
+FedEx installed a quartet of robotic arms from Yaskawa America with the express intent of helping sort the massive numbers of parcels that pass through its Memphis facility. With the advent of Covid19, a majority of its shipments are being routed through this facility to protect its workforce from contact-based infections. The company says several members of its Small Package Sort System team — who previously did the sorting themselves — are operating as supervisors for the new robotic employees.
 
 
+-------------------
+
+Roll Royce Swarm inspection
+
+As part of its Intelligent Engine vision, Rolls-Royce demonstrated plans for both a robotic snake and swarm of cockroach-like miniature robots that, in theory, will work together to inspect the interior of aircraft engines without removing the entire engine
+In partnership with Harvard University and the University of Nottingham, Rolls-Royce is working to build 10mm miniature, collaborative robots — called SWARM — that will be able to provide to the human operator a live video feed of an engine interior via small cameras
+
+----------------
+Samsung’s Digital Humanoids
+
+Samsung Technology and Advanced Research (STAR) Labs’ has developed Neons, AI-powered beings with unique personalities and looks. These artificial humans are not designed to answer any questions like Alexa or Siri, but are supposed to show emotions, learn from experiences, and have real conversations. Each Neon is computer-generated and not necessisarly based on real people, and each can be customized for a different role, like a virtual doctor or a yoga instructor.
+
+
+--------------
+Agility Robotics and Ford team up for humanoid delivery
+ 
+The robot, called Digit, has arms and legs and has been designed to work with humans and in human spaces. The team expects that, as Digit will be part of a package delivery service, this communication channel will also provide delivery specific information, such as where a customer prefers packages to be left, or other individual package delivery needs
+
+
+--------------
+
+CONNECTED FITNESS
+
+Under Armour can scale its Connected Fitness apps to meet the demands of more than 180 million global users, innovate and deliver new products and features more quickly, and expand internationally by taking advantage of the reliability and high availability of AWS. The company is a global leader in performance footwear, apparel, and equipment. Under Armour runs its growing Connected Fitness app platform on the AWS Cloud.
+
+
+----------------
+Employee-driven innovation
+
+Nestlé, the Swiss food and drink company, launched an internal crowdsourcing campaign to meet the future challenges faced by its global supply chain. Ingenius is an ‘accelerator program within Nestlé, focusing on employee driven innovation’ and provides a forum for employees to collaborate and grow ideas into tangible business opportunities. More than 43,000 Nestlé employees from 110 countries have created 2,300 new ideas to-date.
+
+
+-------------
+
+Interactive marketing campaigns
+
+PepsiCo, the American multinational food and drinks company, launched the ‘Do US a Flavor’ campaign in response to declining sales amongst younger demographics. PepsiCo asked customers for their view on new potato chip flavors for their Lay’s brand (Walker’s in the UK). Over 14 million submissions were received and ‘Cheesy Garlic Bread’ was selected as the winner. An 8% increase in sales was recorded in the three months following the launch of the new flavor.
+
+
+------------
+
+Sustainability initiatives
+
+Unilever, the British-Dutch consumer goods company, launched The Unilever Foundry in order to reduce the company’s environmental impact and improve the health, well-being and livelihoods of people across the globe. The Foundry allows start-ups and innovators to submit ideas which, if successful following a review stage, are pitched in-person to an expert panel. Successful entrants co-create pilots with Unilever. One example is Mobile Movies, launched by Unilever Foundry and Singapore start-up Next Billion. Mobile Movies is an initiative that is driven by networks of local agents who organize free film screenings to communities in rural areas, helping to empower informed attitudes to hygiene. 
+
+
+--------------
+On-demand Talent Marketplaces
+
+Procter & Gamble has experimented with on-demand talent marketplaces. During a recent pilot program, the multinational consumer goods organization began augmenting its current workforce with freelance business talent, using Upwork enterprise. Products from the pilot program were delivered faster and a lower cost than conventional methods 60% of the time. Labor platforms like Upwork allow for teams of internal employees and freelancers with the right skills to be quickly assembled to complete projects and then dispersed when the job is done.
+
+
+------------
+Product design
+
+LEGO, through the LEGO Ideas platform, has created an online community of almost one million members and uses crowdsourcing to select new product ideas and give fans an outlet to share their creations. Users can also vote and provide feedback on ideas submitted by others. Ideas with over 10,000 votes are reviewed by LEGO and if selected, the successful candidate can work with the LEGO team on the product and also receive royalties on any sales.
+
+------------
+
+Web and Mobile Application provider
+
+Web and Mobile Application provider used IBM’s Security AppScan Source and Security AppScan Enterprise to do security testing and in the development cycle. Also, it combined static application security testing with traditional dynamic application security testing to detect and fix vulnerabilities in its web and mobile applications.
+
+--------------
+ShopDirect Monitor and detect threats
+
+ShopDirect used Vectra Network’s Cognito – an AI-based automated threat detection solution to automate threat detection and response. Cognito automates the labor intensive work of threat hunting and shows where attackers are hiding and what they are doing thereby making threat hunting more efficient. Threats are also scored and correlated with compromised hosts and specific threat behaviors are correlated across hosts to provide the SOC team with a narrative of developing attacks.
+
+
+------------
+Luxury Retailer
+
+Luxury Retailer replaced its existing SIEM solution with Splunk’s SIEM (Splunk Enterprise and Enterprise Security) and got added capabilities to prevent security breaches, mitigate fraud, ensure Payment Card Industry (PCI) compliance and the ability to protect customer data.
+
+
+-------------
+Booktopia
+
+Booktopia used Forter’s Fraud prevention solution to help the company identify suspicious transactions which were undercutting the efficacy of the checkout process. The solution helped in improving the decline rate and at the same time enhanced the fraud review with real time automation.
+
+---------
+
+Protect IT, data, endpoints and compliance 
+
+Cahartt used Trend Micro’s Smart Protection for Endpoints, to reduce the number of threats coming into its environment through various endpoints. Following the implementation of the solution, the company was able to stop 20 to 25 malware attacks over six months, and between 3,000 and 4,000 web reputation events.
+
+--------------
+
+Continuous backup
+
+TaylorMade used Code42 for automatic, continuous backup and remote restore capabilities along with protection from ransomware attacks. After moving to Code42, the company was able to get automatic, continuous and near real-time backup of all endpoint data and got protection when hit by ransomware as well. 
+
+
+-------------
+
+
+Critical data backup
+
+Australian Paper adopted Veeam’s Backup & Replication. The company’s server state backups have the ability to recover or duplicate a working server from a snapshot. The incremental backups have allowed for a reduction in business disruption and provided the ability to create synthetic full backups from them
+
+
+-------------
+
+Handling
+
+Bosch developed APAS – collaborative robot with tactile receptors to detect impact, security perimeter that reduces the speed of the robot in close human proximity and 2D-3D vision.
+
+-------------
+Home Security
+
+EQL technology Qubi: With an animated face displayed on a small screen, this is a smart vacuum with a host of home security features. It has built-in Simultaneous Localization and Mapping (SLAM) technology to understand its environment and its own movements in the space and can send security notifications to the user.
+
+
+------------
+Sports Security
+
+Sharp INTELLOS: is a multi-terrain, mobile sensor, data-gathering robot that can capture video, audio and environmental information, while providing a visible deterrent, without the aid of a human driver. It utilizes a navigation surveillance platform to patrol predefined routes. It can also act as a sentry and has a semi-autonomous mode for incident response.
+
+----------
+ASSISTANCE
+
+Roombots is a novel self-reconfiguring modular robotic system developed by Biorobotics Laboratory. The autonomous modular robots can assembly into robot that can alter its shape to adapt to a given task and working environment, such as self-assembly and reconfiguration of static objects like furniture in the day-to-day environment.
+
+
+--------------
+
+Microsoft's cognitive services applied
+
+McDonald’s is using cognitive technology to convert drive-through orders to text that can be fed directly into the outlet’s point-of-sale system. An undisclosed Microsoft partner was working with McDonald’s on the app, which takes advantage of Microsoft’s cognitive services.
 
 
 
