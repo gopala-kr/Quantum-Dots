@@ -1998,6 +1998,208 @@ Microsoft's cognitive services applied
 
 McDonald’s is using cognitive technology to convert drive-through orders to text that can be fed directly into the outlet’s point-of-sale system. An undisclosed Microsoft partner was working with McDonald’s on the app, which takes advantage of Microsoft’s cognitive services.
 
+--------------
+
+Boeing plans using Cobot copilots 
+
+Aurora Flight Sciences, a Boeing company, uses a UR3 arm as part of its Robotic Copilot concept. The goal is “to create a portable and extensible hardware and software toolbox introducing of new levels of automation across a wide variety of military and civilian aircraft that ultimately reduce crew requirements.”
+The Aircrew Labor In-Cockpit Automation System, or ALIAS, combines sensors, a tablet interface for pilots, and flight-control and mission software. The Cobot enables it to interact with cockpit controls designed for human pilots.
+
+---------------------
+
+Nuro launches autonomous last-mile delivery services
+
+Nuro allows millions of people to have groceries and other goods delivered by autonomous vehicles, potentially reducing traffic. Its driverless R1 pod is comprised of compartments that can be filled with goods for delivery to homes. Nuro is breaking new ground and building their AV from scratch. This US Department of Transportation (DOT) and the National Highway Traffic Safety Administration (NHTSA) approved a regulatory exemption for R2, Nuro’s second-generation vehicle
+
+-------------------
+
+EasyJet does aircraft maintenance using drones
+
+Blue Bear Systems has developed a maintenance, repair and overhaul drone called RAPID (Remote Automated Plane Inspection & Dissemination) aircraft inspection system for Easyjet. RAPID can quickly acquire inspection data which can be analysed and the information passed on using an airline’s reporting systems. The system can reduce aircraft inspection times by up to 90%. This is particularly useful when aircrafts are grounded due to Covid19 and maintenance staff is limited.
+
+
+--------------
+
+
+Rolls Royce & Intel sail seas autonomously
+
+Rolls-Royce partnered with Intel as part of the engineering firm’s mission to build fully autonomous ships. The company has been working on autonomous shipping technology since the early 2010s, and it said last year that it wants to launch its first uncrewed ocean-going vessels by 2025. As a first step toward that, it launched its Intelligent Awareness system for crewed vessels earlier this year.
+
+-----------------
+Globoconnect envisions ‘future fleet mgmt.’ with Eyesight tech
+
+Israeli company Eyesight Technologies, will leverage AI and computer-vision technologies for a safe driving experience for fleet management conglomerate GloboConnect. The joint venture will focus efforts towards developing a monitoring device, tailored for the Oil & Gas industry’s fleets
+
+
+----------
+
+Tesla, Waymo fuse sensors
+
+Tesla uses a combination of camera vision and radar to identify a scene while Waymo uses a close connection between lidar and camera data and  radar. Both different approaches but use a software-based 3d plane identification through sensor fusion. For now, Tesla and the industry’s unsolved challenge is still merging streams of “sensor fusion” data from into a coherent plan of action to identify intent like how a human would process the same traffic data
+
+---------------
+SMART PARKING
+
+Operating from New Zealand, Australia, and the United Kingdom, Smart Parking provides end-to-end smart parking management/smart city solutions for cities and businesses globally. Using Google Cloud Platform, Smart Parking has become a data-intelligence solutions business provider running an IoT platform to seize opportunities in smart city developments.
+
+
+------------
+
+POSTAL ROUTE OPTIMIZATION
+
+Applied to a system or process, digital twins can eliminate the need for physical experimentation while optimizing performance under different conditions. For example, Accenture worked with Ireland’s An Post, a public postal service, to create a digital twin of its hundreds of vehicles, delivery routes, multiple sorting centers, and different processes to evaluate the impact of new technologies and test new approaches on throughput and timeliness.
+
+
+-----------
+
+ROUTE OPTIMIZATION AT AIRBUS
+
+Airbus is already exploring the use of quantum computing in areas such as “route optimization and satellite imagery." Moreover, in January 2019 the aircraft giant announced a global competition to encourage developers to find ways quantum computing can be applied to “aircraft design”.
+
+
+------------
+FLEET OPTIMIZATION AT DENSO
+
+Denso, the global automotive components manufacturer headquartered in Japan, is working on the optimization of the operations of a fleet of electrical delivery vehicles. Partnering with Toyota, the research uses vehicle location data from 130,000 commercial vehicles and cloud-based quantum systems to analyze the information and improve efficiency.
+
+-------------
+TRAFFIC OPTIMIZATION
+
+The management and optimization of traffic (road, rail, air, etc.), the operation of vehicle fleets and the management of autonomous vehicles are promising fields where the inherent qualities of Quantum could well express their potential. Several companies are evaluating this around the optimization of filling of airline fleets in near real time and in a global way.
+
+-----------------
+
+Uber breaks a monolith
+
+Uber decided to break its monolithic architecture into multiple codebases to form a microservice architecture. Introduced API Gateway through which all the drivers and passengers are connected. All the features were now scaled individually i.e. The interdependency between each and every feature was removed.
+
+
+-------------
+
+Trivago runs on PWA’s
+
+Trivago is a big name in hotel search engine marketing. The availability of Trivago’s PWA is in 55 countries worldwide with 33 languages. After the adoption of PWA, the percentage of user engagement has increased by up to 50% and click rate has increased by 97%. 
+
+----------
+Intelligent Log Insights at British Airways
+
+British Airways uses Logz.io, an AI-powered log analysis enterprise platform, to enable AI accelerated Devops using advanced log and enterprise data analysis. Logz.io is an intelligent log analytics platform that combines advanced machine learning with the powerful open-source ELK (Elasticsearch, Logstash, Kibana) stack and synthesizes machine data, user behavior, and community knowledge into actionable insights.
+
+---------
+
+
+Intelligent Log Insight at GrabTaxi
+
+GrabTaxi ,the taxi-hailing app,  uses Scalyr to perform log analysis and intelligent alerts. Scalyr’s provides comprehensive log aggregation, high-speed searching, metric analysis, and full-spectrum alerting features. It searches the entire log surface from a cloud-based UI in a few seconds that earlier took minutes or hours. 
+
+----------
+
+LOG MANAGEMENT
+
+Global hospitality company Hyatt, selected Splunk for a centralized solution to monitor and troubleshoot server issues and improve application delivery. Hyatt’s platform engineering team uses Splunk Enterprise for log management as well as analyzing and combining data from multiple sources. It also uses Splunk Enterprise to monitor changes in its own software updates, reservations and its booking engine. 
+
+------------
+AIRBNB DISRUPTION OF HOSPITALITY INDUSTRY
+
+Founded in 2008 in San Francisco, California, AirBnB is a trusted community marketplace connecting people to global travel experiences at any price point. It recently launched Sonoma Select and Guidebooks
+Sonoma Select looks to highlight rental properties whose owners want to provide a more hotel-like experience. Guidebooks seeks to attract users to AirBnB who are looking for business recommendations and reviews, taking aim at Yelp, Tripadvisor and Foursquare. Operations Transformations sees a mix of IoT and Blockchain, letting Airbnb provide a more seamless approach to booking, payments and access processes. AI & Deep learning along with data storage density provide more information about properties and popular areas.
+The result is more profitable rental properties and more information along with a more tailored service for renters.
+
+
+----------------
+TELCO REDUCE CALLS FOR TRAVEL FEATURE
+
+International/Global transactions were costing a Telco client $160m annually. They wanted to reduce cost due to care/retail assisted transactions, repeat call-in rate, post transaction credits, and transfer rates. 
+With the client, Accenture set out to process Global and International Rebranding. Policy: Removal of Proration and Feature Expiration. The need was identified to completely revamp the global roaming system to make it customer-friendly.
+
+------------
+
+Aerodynamics
+
+Companies like Airbus are researching smart materials that react to temperature to cool jet engines and wings that morph according to aerodynamic conditions to decrease air resistance. Briggs Automotive Company is developing a morphable wing for its supercar that adjusts to external weather conditions and automatically adjusts in order to provide maximum downforce to the car.
+
+-------------
+
+E-textiles in Travel and Safety
+
+E-textiles have an important role to play in travel and safety industries. Lumos is a bicycle helmet with brake lights and turn signals, allowing cyclists to be more visible when on the road. The product uses 14 super-bright white LEDs at the front and 16 at the rear. The user also has access to a connected wearable with a built-in accelerometer to measure speed.
+
+
+----------------
+ROYAL CARIBBEAN DIGITAL NETWORK 
+
+Commanding over 21% of the worldwide cruise market, Royal Caribbean is a huge operation comprising over 25 large vessels, and when it decided to enable a Cruise Ship Digital Experience with a Digital Network Platform it was always going to be a major undertaking.
+Accenture was able to help Royal Caribbean target Digital Network Architecture for two dry dock ship revitalizations in 2018, as well as preparing “Beyond”, a new ship launch with state of the art Digital Network in 2019.
+
+
+
+
+-------------
+
+Travel Portal at Deutsche Telekom
+
+Deutsche Telekom wanted to create a portal (Tripdiscover) to offer potential customers personalized travel destination ideas and connect them with travel providers. The accelerated timeline and cost-effective delivery were possible due to Accenture’s choice of Google’s App Engine, a Platform-as-a-Service (PaaS) ecosystem, and by leveraging Accenture’s agile team structure and methodologies.
+
+
+------------
+HILTON DIGITAL ENTERPRISE STRATEGY
+
+Hilton, the Hotel & Resort brand with over 570 hotels worldwide, wanted to become a data-driven organization that better understands the wants and needs of customers and anticipates opportunities. Accenture worked with Hilton to enact changes in the form of seven recommendations across media, loyalty program and customer satisfaction score, resulting in over $150m incremental revenue potential.
+
+----------
+
+
+Real time dynamic pricing for Leading Aviation company
+
+Real time dynamic pricing allows to optimize price setting across large assortments by simulating the impact of new prices with live data (supply, demand etc.).
+For a Leading Aviation company dynamic pricing was implemented via the application of a real time adjustment percentage to the fix fare. The price calculation system used different pricing processes in order to price the different product types.
+
+-------------
+
+Zoom Meeting Solutions
+
+Skyscanner, the travel search site which allows users to find the best travel options for their trip, has over 900 employees across 10 offices globally. Connecting employees was a challenge, and the previous video solution had limitations on the number of attendees per call, poor video quality when more than 50 users joined and a bad Mac client experience. A solution from Zoom allowed for meetings with hundreds of video participants, consistently superior HD quality, and support for both Mac and Microsoft operating systems. Other key features included cloud recording which allowed for easy distribution onto the intranet, video breakout rooms which allowed for training sessions, seamless integration with Slack and fast ad-hoc calls with screen sharing for tech support.
+
+----------------
+
+Name Matching for Verified ID
+
+Airbnb used Rosette Text Analytics software to connect online and offline worlds in order to provide users with even more tools to make informed decisions, using Verified ID which provides a connection between online and offline identities. Verified ID works by matching online identities (e.g. Airbnb reviews, LinkedIn, Facebook) to offline ID documentation (e.g. confirming personal information or scanning a photo ID). Name matching is a key component of this, and due to the international nature of the business, names can be in multiple languages, using different alphabets. Text Analytics software intelligently matches names based on algorithms that takes into account the origins and structures of names from different languages and cultures.
+
+
+-----------------
+
+Self-Service Reporting
+
+Lufthansa Group, the global aviation group, used Tableau to gain 30% time savings in data preparation and analysis, increased autonomy through self-service reporting while gaining competitive advantages through real-time analysis. Before 2016, there was no uniform group reporting at Lufthansa and the individual effort for data preparation was very high so that comparatively little time remained for the real information analysis.
+
+----------------
+
+Route Optimization
+
+Path analysis, a type of graph analytics, can be used to determine the shortest distance between two nodes in a graph. Route optimization can be used in logistics, supply and distribution chains, or traffic optimization for smart cities. It can help to ensure that orders are delivered on time, for example, save fuel, improve vehicle utilization and allow for better allocation of resources through automation of processes.
+
+
+------------
+
+Automatic Alert for Identifying Overdue Invoices
+
+Apps target those challenges that are faced by multiple clients, 30+ apps today, across 8 flywheel offerings, targeting business outcomes for clients. Accenture collaborated to create the apps Intelligent Collections, Payables Optimizer, Disputes Predictor and Provision Predictor for Finance and Accounting to optimize working capital. Intelligent Collections app provides descriptive analytics on accounts receivables and has the potential to increase in cash collection by 10 - 25%. Payables Optimizer app provides descriptive analytics on accounts payable and has the potential to reduce Travel and Expenses costs by 3-5%. Disputes Predictor uses binary logistic regression to analyze historical receivables and payments data and has the potential to reduce disputes by up to 10-20%. Provision Predictor app helps the CFO in giving better guidance on profit and loss numbers has the potential to improve provision prediction to 10-20%.
+
+--------------------
+
+Duplicate Payments Analytics
+
+Finance & Accounting Analytics helps clients optimize working capital, improve cash collections & discount capture rates and reduce invoice dispute, across entire function. Accenture with the available apps like T&E Compliance Analytics utilized analytical models to automatically identify the non-compliance with travel and expense policies, infusing ethical behaviour and cost savings. And with the Payables Optimizer app prevented losses due to missed discounts and contractual penalties, identified and retrieved excess/duplicate payments from vendors, through right strategy. These eventually helped to reduce travel & expenses cost, improve compliance, improve discount capture by 10 - 20%, reduce duplicate payments by 15 -20%.
+
+--------------
+
+
+
+
+
+
+
 
 
 --------------------------
