@@ -721,6 +721,158 @@ Medical Research
 Graph analytics can also be used when conducting research in Life Sciences, or bioinformatics, including medical research, disease pathologies, epidemiology, genome research, for example.
 
 
+----------
+----------
+
+Mining oceans through Patania
+
+Patania II built by the Belgian company Global Sea Mineral Resources(GSMR)
+will descend four kilometers into the ocean in the Clarion-Clipperton Zone and try to suck up metal-rich nodules through four vacuums as it traverses a 400-meter-long strip of sea floor. GSMR plans to launch a third test vehicle in 2023 that will be able to bring the nodules up to awaiting surface ships.
+
+------------
+
+Remote Surveillance
+
+Guardian S Snake Robot is a compact, camera-equipped snake-like device that slithers atop its magnetized tracks, can manoeuvre between constrained spaces and provide surveillance for inhabitable terrain. Packed with sensors, the snake bot feeds still images, video and real-time environmental data to Microsoft Azure based remote terminal.
+
+----------
+
+Security
+
+General Dynamics Bluefin underwater security robot: The Knifefish; a medium-class mine countermeasure UUV can detect, classify and identify potential mines, at a variety of depths, each of which would pose a unique threat to naval vessels operating in a mission area.
+
+---------
+
+Construction work aided with exoskeletons
+
+Hilti North America unveiled EXO-O1 wearable exoskeleton to help commercial contractors, tradesman and management tackle health and safety as well as labor shortage challenges. To create the EXO-O1, Hilti Group partnered with Ottobock SE & Co. KGaA
+
+
+---------------
+
+Smart Contracts & Assets
+
+Hyperledger was created in December 2015 by the Linux Foundation. The open source collaboration is focused on ledgers designed to support global business transactions, including major technological, financial, and supply chain companies. Hyperledger has launched industry working groups, such as healthcare, social impact, and supply chain. In 2019, it also launched a Smart Contracts working group.
+
+
+----------
+
+CANCER TREATMENT 
+
+Quantum computing could be used to the optimization of treatment in radiotherapy and better and faster detection of brain tumors, which could be done in seconds instead of hours or weeks. This could mean reduced exposure to X-rays by simulating and optimizing the movement of waves in the human body.
+
+
+
+-----------
+
+Improving patient care
+
+VRHealth has partnered with Oculus to offer non-invasive VR solutions that help in cognitive testing, pain management, and psychological assessment. Its VR content takes patients to an environment where they can experience treatment in a more positive light, and medical treatment eventually becomes a fun activity for them. This can especially help in pain management for birthing mothers, and alleviating anxiety during chemotherapy for cancer patients. The patient data is updated on a portal real-time to help personalize their treatment plan.
+
+---------------
+
+Built-in ECG's to measure Heart Rate
+
+Smart clothing is becoming more common in healthcare – most notably compression shirts with built-in ECGs (electrocardiogram) to measure heart rate. Additional built-in sensors can monitor movement, position, respiratory rate and body temperature – companies such as Hexoskin and OMSignal are key players in this space. Owlet’s Smart Socks 2 are designed for babies and track heart rate and blood oxygen saturation, helping parents to learn more about their baby’s health.
+
+-------------
+
+Surgery training using Haptx gloves
+
+Haptx has designed a pair of gloves that can be used in VR-based trainings by surgeons to perform surgeries. The device enables the surgeons to use their complete hands and fingers to simulate the actual surgery and enhance the overall learning quality for aspiring surgeons. Further, these gloves are compatible with any laptop, VR headset, or haptic device.
+
+-----------------
+4D Printing in Healthcare
+
+Researchers at the University of Michigan have developed a 3D printed splint that can hold open airways of new-born children for two to three years – it is then absorbed into the body. This device was successfully implanted in four babies. Researchers are also studying how to use 4D biomaterials to help adults correct skeletal applications such as facial reconstruction or rebuilding ears.
+
+
+------------
+
+
+SMARTERP
+
+Kern Health: SmartERP developed a complex data manipulation in the Microsoft SQL server code for Kern Health, allowing the client to benefit from faster report creation and performance, reduced software development costs and enhancing the end-user experience.
+
+-------------
+
+HoloLens for people with visual impairment 
+
+Researchers at California Institute of Technology created a new HoloLens app that helps people with visual impairments navigate through buildings and gain a better sense of their surroundings. Researchers did this by taking advantage of the device’s real-time room and object mapping capability, as well as speakers that can make audio seem to be coming from different points in three-dimensional space.
+
+------------
+The Body VR revolutionizes healthcare through virtual reality
+
+The Body VR is an educational virtual reality experience. It creates interactive 3D builds of traditionally 2D medical imaging, like CT scans and MRIs, to provide a more intuitive view of medical conditions. Similarly, Oxford researchers have created VR models of genetic data to better visualize what happens within living cells.
+
+-----------
+
+Fitness and Lifestyle Tracking
+
+Companies are more frequently encouraging employees to use activity trackers, such as Fitbit, to drive adoption of healthier and more productive lifestyles, as well as bringing down organizational insurance costs. Personal healthcare offerings include predictive fitness tracking, personalized medical and dietary recommendations, remote health diagnostics, life-coach, relationship and mental health services, from vendors including Spire, Adidas MiCoach, Tictrac and Strava.
+
+
+--------------
+
+Remote Patient Monitoring
+
+Healthcare providers can use 5G solutions to enhance the quality of patient care/medical services. Fast data flows and guaranteed service levels will enable doctors to remotely monitor patient status and conduct real-time diagnostic evaluations. Surgeons could remotely operate robots and equipment that depend on ultra-fast, low-latency 5G networks in surgical procedures. Ultra-low latencies also enable AR experiences in an operating room setting. Telemedicine services such as InTouch Health could benefit from 5G speeds, while health monitoring systems such as VitalConnect, EarlySense and Proteus could rely on 5G to transmit large amounts of patient vitals data in real time.
+
+
+
+---------------
+Ingestible Sensors
+
+Ingestible sensors are another example of IoT in healthcare. Proteus Digital Health, the digital medicine company, trialled an antipsychotic and a hypertension pill to monitor user adherence and whether or not they were taking the pill correctly. The pill dissolves in the stomach and produces a small signal which is picked up by a sensor worn on the body, which relays the data to a smartphone app.
+
+
+-------------
+
+Enabling Extreme Wildlife Tracking
+
+To protect threatened species, conservationists need to fully understand their behaviour and which habitats are key to their survival. To that end, Vodafone is working with the Sea Mammal Research Unit (SMRU) in Scotland to track the movements and health of harbour seals, which have suffered a precipitous drop in numbers in the past decade. Vodafone and the SMRU will explore the use new low power wide area (LPWA) connectivity to build up a comprehensive picture of the seals’ behaviour, help understand why the population is in decline and then take remedial action. Monitors attached to the seals can use the cellular networks to feed location, activity and environmental data into SMRU scientists’ computer systems.
+
+
+-----------
+
+Glucose Monitoring
+
+Companies in the pharmaceutical industry are developing IoT solutions to assist people with diabetes. In 2016, Roche, the healthcare company, acquired distribution rights to an implantable long-term continuous glucose monitoring (CGM) device which uses a 90 day sensor below the patient’s skin. The device operates by communicating with a smart transmitter which then sends blood glucose levels to an app belonging to the user. 
+
+
+-----------
+Activity Tracking
+
+The IoT can be used to track the activities of patients during cancer treatment. The Memorial Sloan Kettering Cancer Centre (MSK) and cloud research firm Medidata tested activity trackers which gather lifestyle data on patients being treated for multiple myeloma. Patients wear an activity tracker before and during the course of treatments, and the tracker will assist in logging activity levels and fatigue. Appetite can also be logged directly, and data is saved to Medidata’s Patient Cloud ePRO app on the users smartphone.
+
+----------
+
+Connected Contact Lenses
+
+Alcon, the Swiss medical company specializing in eye care products, licensed Google’s smart lens technology, involving non-invasive sensors embedded within contact lenses. These lenses could one day be used to measure the glucose levels of diabetes patients via their tears, or be developed for those with presbyopia, helping to restore the eye’s focus.
+
+
+-----------
+Connected Inhalers
+
+By connecting devices to mobile apps, patients can receive reminders and check on their own usage statistics. Novartis, the Swiss multinational pharmaceutical, undertook connected inhaler research with both Qualcomm and Propeller Health, developing inhalers for patients with chronic obstructive pulmonary disease (COPD). The Propeller Breezhaler device connects to a digital platform via a sensor, passively recording and transmitting usage data.
+
+-----------
+Wearables
+
+Wearables, such as the Apple Watch, are key components of the digital health ecosystem. Takeda, the Japanese pharmaceutical company, tested the use of an Apple Watch app to help patients with major depressive disorder (MDD). The app was developed alongside Cambridge Cognition, a provider of cognitive assessment software, and is designed to monitor and assess cognitive function.
+
+-----------
+
+Land Ownership
+
+A project set up last year by the Lantmäteriet, Sweden’s land registry authority, to trial blockchain technology for recording property deals, has just moved to its second phase. Where the first phase was essentially a presentation of the technology’s potential, this latest phase involved the creation of smart contracts that automate transactions on a blockchain in a larger-scale environment. 
+
+
+
+
+
+
 
 
 --------------------------
