@@ -63,7 +63,7 @@
       - **[Semiconductor](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-      - **Information & Communication Technologies(ICT)**
+      - **[Information & Communication Technologies(ICT)](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/verta/5G/QTR)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Telecommunication](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)**
@@ -911,6 +911,12 @@
 - [Humans, Gods and Technology | VPRO documentary](https://www.youtube.com/watch?v=tQd_5as_cMY)
 - [Becoming a Kardashev Type I Civilization](https://www.youtube.com/watch?v=HEpNiOM6lto)
 
+---------
+![LongWavesThreeParadigms](https://upload.wikimedia.org/wikipedia/commons/d/d7/LongWavesThreeParadigms.jpg)
+
+------------
+![iwaves](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/iwaves.png)
+
 -------------------
 ![next_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/next_rev.PNG)
 
@@ -920,12 +926,6 @@
 ---------------
 
 ![2Bnext_rev](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/third%2Bnext_rev.PNG)
-
----------
-![LongWavesThreeParadigms](https://upload.wikimedia.org/wikipedia/commons/d/d7/LongWavesThreeParadigms.jpg)
-
-------------
-![iwaves](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/iwaves.png)
 
 ------
 ![empires_tech](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/empires_tech.PNG)
@@ -943,6 +943,9 @@
 ![fi1002](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1002.jpg)
 -------
 ![fi1003](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1003.jpg)
+
+---------
+![2030](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/2030.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -983,11 +986,11 @@
 - [cisa.gov/critical-infrastructure-sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
 
--------------
-![Three_stages_of_the_Information_Age](https://upload.wikimedia.org/wikipedia/commons/7/7b/Three_stages_of_the_Information_Age.png)
-
 -----------
 ![waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt](https://upload.wikimedia.org/wikipedia/commons/e/e4/Kondratiev-waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt-AJW_2004.jpg)
+
+-----------
+![27s_Law_Transistor_Count_1970](https://upload.wikimedia.org/wikipedia/commons/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png)
 
 --------------------
 
@@ -1052,6 +1055,9 @@
 ----------
 ![transcendence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/transcendence.PNG)
 
+-------
+![JOItmC-04-00021-g001](https://www.mdpi.com/JOItmC/JOItmC-04-00021/article_deploy/html/images/JOItmC-04-00021-g001.png)
+
 --------------------
 ------------
 
@@ -1062,7 +1068,7 @@
 ![Kjaer-Global-Trend-Atlas-2030-26.6-1](https://global-influences.com/wp-content/uploads/2016/05/Kjaer-Global-Trend-Atlas-2030-26.6-1.jpg)
 
 ---------
-![Microeconomics](https://cmapspublic3.ihmc.us/rid=1040074624984_987204158_16682/Microeconomics%20(Part%201).cmap?rid=1040074624984_987204158_16682&partName=htmljpeg)
+![Microeconomics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/meco.png)
 ---------
 ![economy-system-1](https://s3.amazonaws.com/xmindshare/preview/economy-system-1-tnbff-1260971916768.jpg)
 ----------
@@ -1133,8 +1139,6 @@
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
 
-
-
 ------------
 -----------------
 #### Global Organizations
@@ -1151,7 +1155,31 @@
 [Back to top](#contents)
 
 
+--------
+![ages](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ages.png)
+
+---------
+![Internet_map_1024](https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg)
+
+--------
+![Corporate-Information-Age](https://blogs.gartner.com/mark_raskino/files/2017/10/Corporate-Information-Age.jpg)
+
+--------
+![id1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/id1.jpg)
+
+---------
+![id2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/id2.jpg)
+
+-------
+![id3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/id3.jpg)
+
+----------
+![id4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/id4.jpg)
+
+-----------
+
 ![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+
 ------------------
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
@@ -1171,12 +1199,14 @@
  
 
 
+-----------
+
 ![the-global-technology-industry-5-0-trillion](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/the-global-technology-industry-5-0-trillion.png?sfvrsn=22805a7a_2)
+
 ---------
 ![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
----------
-![Internet_map_1024](https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1201,7 +1231,10 @@
 
 -------------
 --------------
+
+
 ![sustainabledigitalevolutiontransformation](https://zdnet4.cbsistatic.com/hub/i/2016/03/21/2415f341-5e26-4779-9015-07588343deab/sustainabledigitalevolutiontransformation.png)
+
 --------
 ![figure_1](https://www.educause.edu/-/media/images/educause/ecar/driving-digital-transformation-in-higher-education/2020/figure_1.png)
 
@@ -1214,11 +1247,41 @@
 ------------
 ![digtial2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digtial2.png)
 
+---------
+![digitalcap3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap3.png)
+
+-----------------
+![digitalcap6](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap6.png)
+
+----------
+![digitalcap4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap4.png)
+
+--------
+![digitalcap5](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap5.png)
+
+--------------
+![digitalcap7](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap7.png)
+
+----
+![digitalcap8](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap8.png)
+
+--------
+![digitalcap9](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap9.png)
+
+-------
+![digitalcap10](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap10.png)
+
+-------
+![digitalcap11](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap11.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+#### Digital Transformation of Earth Organizations
+
 [Back to top](#contents)
 
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
+
 ------------
 ![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
 
