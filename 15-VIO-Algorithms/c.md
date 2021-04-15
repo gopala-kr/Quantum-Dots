@@ -649,6 +649,77 @@ SUSTAINABLE FERTILIZERS
 Current artificial fertilizers are based on ammonia, made via the Haber process. They use high temperatures and pressures and are energy-intensive. Quantum computing could help scientists understand the Haber process at the molecular level, and start-up Rigetti points to its value in making fertilizers.
 
 
+-----------------------
+
+Pfizer deploys Mabu care robot
+
+Pfizer launched a one-year pilot program with robotics company Catalia Health with its care robot Mabu, that coaches' patients on health and prescription drugs. Mabu uses voice interactions powered by conversational AI to assess a user’s mood, record data, manage symptoms, and provide helpful information. The robot then supplies information back to medical professionals — like caregivers or clinicians — such as the frequency of medication usage or questions the robot was unable to answer. Mabu is also able to supply personalized responses and deploy affective computing to predict a user’s emotional state
+
+--------------
+
+
+Creating Social twins using computer vision
+
+Researchers from the NYU Tandon School of Engineering are working on a new approach called “behavioral teleporting,” which could lead to a more in-depth understanding of social behavior, interactions between invasive and native species, as well as better human/robot interfaces. The researchers relied on an automated tracking system to score the locomotory patterns of a live fish, which were used to control the robotic replica in another other tank.
+
+------------
+
+R&D AT BIOGEN
+
+As a leading biotech company, Biogen is seeking to advance the development of new drugs for neurological and neurodegenerative diseases. Biogen has teamed up with Accenture Labs and 1QBit, a quantum software startup, to speed up the discovery of new drugs.
+
+-----------
+R&D AT AMGEN
+
+Amgen Inc., a biopharmaceutical company, would be naturally interested in using quantum computers for molecular simulations. IBM has recently shown the potential of quantum-based computational chemistry with the record-breaking simulation of the BeH2 molecule (beryllium hydride).
+
+---------
+REINFORCEMENT LEARNING TO ENGINEER NOVEL THERAPEUTICS
+
+The biotech firm ProteinQure creates computational R&D tools to perform drug design in silico. They leverage quantum computing, molecular simulations and reinforcement learning to engineer novel therapeutics.
+
+
+---------------
+
+DRUG DISCOVERY 
+
+A quantum computer would be able to map out trillions of molecular combinations and quickly identify the ones that would most likely work, significantly cutting down the cost and the time of drug development.
+
+
+----------
+
+GENOME SEQUENCING
+
+Quantum computing could be used to accelerate the sequencing of DNA genes, disrupting the healthcare industry.
+
+---------
+
+CRISPR to treat genetic conditions 
+
+Carnegie Mellon University and Yale University researchers use Gene-editing techniques such as CRISPR/Cas9 to treat genetic conditions during fetal development in mice. They observed correction of 6% of the mutations in the gene causing beta thalassemia
+
+----------------
+
+
+CRISPR Therapeutics studies gene editing drug in humans
+ 
+Cambridge biotech CRISPR Therapeutics and Boston-based Vertex Pharmaceuticals have launched the first company-sponsored study of a gene editing drug in humans. The treatment targets beta thalassemia, a rare blood disorder that reduces the amount of oxygen-carrying red blood cells in a person's body, causing fatigue, life-threatening anemia and other serious complications.
+
+
+-------------
+
+Bioprinting 
+
+Aspect Biosystems (Vancouver, B.C.) has a 3D bioprinting platform that can print tissue for life sciences. Johnson & Johnson has worked with Aspect on the development of knee replacement tissue.
+
+
+---------------
+
+
+Medical Research
+
+Graph analytics can also be used when conducting research in Life Sciences, or bioinformatics, including medical research, disease pathologies, epidemiology, genome research, for example.
+
 
 
 
