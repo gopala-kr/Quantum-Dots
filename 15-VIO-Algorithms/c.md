@@ -202,6 +202,80 @@ TRAFFIC FLOW OPTIMIZATION IN VOLKSWAGEN
 
 The Volkswagen Group is the world’s first automaker to publicly use quantum computers, further expanding its digital capabilities. The company is cooperating with quantum computing company D-Wave Systems on a research project for traffic flow optimization. The project involves publicly available data from Beijing taxis that were used to plot optimal routes.![image](https://user-images.githubusercontent.com/4322266/114918719-093f2f80-9e45-11eb-92fc-017d9b4637f2.png)
 
+---------------
+
+ROUTE OPTIMIZATION AT FORD
+Ford is currently working with NASA (National Aeronautics and Space Administration) in the U.S. to examine how quantum computing can improve its business. One idea being explored is routing diesel delivery vehicles in such a way as to reduce harmful pollutants by ensuring their drive cycles are operating within an optimal range. Another idea is improving productivity in its manufacturing plants.![image](https://user-images.githubusercontent.com/4322266/114918828-2bd14880-9e45-11eb-969d-122689bb342b.png)
+
+-------------
+
+FLEET OPTIMIZATION AT DENSO
+
+Denso, the global automotive components manufacturer headquartered in Japan, is working on the optimization of the operations of a fleet of electrical delivery vehicles. Partnering with Toyota, the research uses vehicle location data from 130,000 commercial vehicles and cloud-based quantum systems to analyze the information and improve efficiency. 
+ ![image](https://user-images.githubusercontent.com/4322266/114918890-3be92800-9e45-11eb-848d-29489b2012c8.png)
+
+------------
+
+Autonomous Cars at BMW
+The BMW Research, New Technologies & Innovations team in Garching (Germany) is working on neuromorphic computing, cognitive modeling for knowledge representation of automotive scenes and machine learning in the context of automated driving. ![image](https://user-images.githubusercontent.com/4322266/114918960-515e5200-9e45-11eb-8906-22599a0b903b.png)
+
+
+----------
+
+HIGH-PERFORMANCE BATTERIES AT VOLKSWAGEN
+Volkswagen has two in-house data labs for quantum computing in San Francisco and Munich. Volkswagen has also partnered with Google to explore structures for new materials, especially high-performance batteries for electric vehicles.![image](https://user-images.githubusercontent.com/4322266/114919047-6b983000-9e45-11eb-9aa8-bf45d727a638.png)
+
+------------
+
+BATTERY CELL RESEARCH AT DAIMLER
+Daimler, in partnership with IBM, is investigating quantum chemistry calculations for new battery technology. Daimler is also working with Google to create new materials for quantum technology and the development of new battery cells. ![image](https://user-images.githubusercontent.com/4322266/114919096-78b51f00-9e45-11eb-9419-6320a47e21cc.png)
+
+------------
+
+REINFORCEMENT LEARNING FOR VW AUTONOMOUS CARS
+Volkswagen is experimenting with QML to prove the value of reinforcement learning in Self Driving Cars, by taking feedback directly from the environment. However, reinforcement learning is a type of machine learning whose hunger for data is even greater than supervised learning and it is really difficult to get enough data for reinforcement learning algorithms.![image](https://user-images.githubusercontent.com/4322266/114919159-866aa480-9e45-11eb-973a-e7fbc17f796e.png)
+
+-------------
+
+Polyglot Digital transformation at Volkswagen
+Volkswagen use OpenStack infrastructure and the Cloud Foundry application development environment to achieve a scalable platform deployable across private and public clouds supporting polyglot cloud native applications to ease transformation of existing applications within a span of few weeks. ![image](https://user-images.githubusercontent.com/4322266/114919194-91bdd000-9e45-11eb-9b6d-4a63821ea4ce.png)
+
+-------------
+
+Self-Driving at BMW
+BMW’S autonomous driving campus in Unterschleissheim makes it the first company in the automotive industry to apply the agile working model for autonomous driving and driver assistance (from the research phase all the way through to series production development). The open campus structure offers 'excellent conditions and exceptional support for scrum teams, and therefore lends itself perfectly to the agile software development process.![image](https://user-images.githubusercontent.com/4322266/114919255-a26e4600-9e45-11eb-8a36-3af8fa130d2e.png)
+
+--------------
+
+IBM Quality assistant for connected manufacturing
+IBM Engineering Requirements Quality Assistant uses Watson AI to improve the quality of project requirements through augmented software analysis
+A version of it called Vehicles/Auto Requirements Quality Assistant provides requirements analysis over thousands of engineering requirements for IoT enabled connected applications such as automotive![image](https://user-images.githubusercontent.com/4322266/114919314-b7e37000-9e45-11eb-837a-18ce2d1cc426.png)
+
+-------------
+
+Cognitive Assistance at Honda
+Honda introduced its Honda Connect: a mobile car app and Driving Coaching System: a cognitive assistant. Through the combination of IBM Watson Data Platform and IoT technology, Honda has created the Driver Coaching System prototype, built on the Bluemix platform that can can adapt and adjust coaching to fit any driving behavior. The system is able to protect drivers through early warnings of dangerous situations.![image](https://user-images.githubusercontent.com/4322266/114919383-ce89c700-9e45-11eb-9f11-a2c90733dd47.png)
+
+--------------
+
+STRATEGIC DISASTER RECOVERY
+Hyundai Heavy Industries implemented Resilient Enterprise Blueprint (REB) with IBM Business Resiliency Services. The proactive  response framework helps streamline core system shutdowns and other serious impacts on IT services.![image](https://user-images.githubusercontent.com/4322266/114919452-e06b6a00-9e45-11eb-94e7-3342f1b90a8b.png)
+
+---------------
+
+DISASTER RECOVERY ON AZURE
+Daimler uses Azure Site Recovery to engineer disaster recovery between Azure regional datacenters. The company runs two SAP HANA instances, primary and standby for each production system, and uses Site Recovery and SUSE Linux clustering software to orchestrate failover between different Azure regions.![image](https://user-images.githubusercontent.com/4322266/114919489-eb25ff00-9e45-11eb-90f0-493f3b501f58.png)
+
+-------------
+
+PROTECTING BUSINESS & IP
+McLaren partnered with Secureworks to deploy Advanced Endpoint Threat Prevention (AETP) and other security solutions to protect the group in real-time against threats to its IP, data and business processes.![image](https://user-images.githubusercontent.com/4322266/114919525-fa0cb180-9e45-11eb-99b2-9f1e795095d6.png)
+
+-------------
+
+CLOUD-BASED IGA
+Toyota Connected upgraded its identity governance and administration (IGA) solution for its cloud-based digital Connected Mobility Intelligence Platform. Saviynt’s Identity Governance and Administration (IGA) solution enabled a CI/CD environnent for DevOps by quickly detecting and remediating excessive access and other anomalous conditions.![image](https://user-images.githubusercontent.com/4322266/114919591-0f81db80-9e46-11eb-8cf2-061facb6016c.png)
+
 
 
 --------------------------
