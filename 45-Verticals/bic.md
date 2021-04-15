@@ -362,13 +362,107 @@ Bluetooth 5 has the potential for adoption in many scenarios, particularly where
 Bluetooth 5 can also play a role in Beacon technology, which allows businesses, in retail for example, to beam messages to nearby potential customers with deal offers or advertisements. Beacon technology can also facilitate better indoor navigation, or be used in online payments or banking, among many other things. Current examples of beacon technology include Apple’s iBeacon or Google’s Eddystone, which both use Bluetooth Low Energy communication technology. 
 
 
+------------------
+
+
+
+Car leasing with Bitcoin
+
+The company built a new platform that allows customers to configure a car lease. Bitcoin transactions are used to create a digital fingerprint for each vehicle. Customers can interact with the platform inside a car. They choose car or insurance options and then pay for the lease. The secure ledger database registers the car’s identity and can be updated.
+
+
+-----------------
+Utility Settlement Coin (USC)
+
+Utility Settlement Coin (USC) project — led by some of the world’s largest banks (e.g. Banco Santander, BNY Mellon, Barclays, CIBC, Commerzbank, Credit Suisse) is intended to facilitate the issuance by central banks around the world of currencies using Blockchain technology. The USC platform will also make it easier for international banks to settle various transactions with each other, through the use of collateralized assets on a custom-built Blockchain. 
+The collateralized digital tokens will be directly forwarded to the owner of the asset, rather than going through the traditional network of clearinghouses.
+
+
+
+-------------
+
+PORTFOLIO OPTIMIZATION AND RISK ANALYSIS
+
+Quantum computing can be applied for many financial problems, such as portfolio optimization, finding arbitrage opportunities, and perform credit scoring.
+
+--------------------
+PORTFOLIO OPTIMIZATION IN BANKING
+
+First movers are the Royal Bank of Scotland, Goldman Sachs, and Citigroup which have funded quantum computing startups directly. Barclays and JPMorgan Chase have been experimenting with IBM’s quantum computing technology and joined the IBM Q Network. 
+
+-------------------
+
+REDUCE POLICY FRAUD
+
+UK-based insurer Hastings Direct deployed fraud detection solution NetReveal from BAE Systems to detect, investigate and prevent claim and policy fraud. The insurer can access automated fraud risk scores during the claims process to flag suspicious claims for investigation, support the investigation, and fast track genuine claims through the process.
+
+----------------
+RPA at AXA 
+
+The UK arm of insurance giant AXA has deployed 13 software bots across its business since last summer, aiming to help employees with mundane, repetitive admin tasks like filing customer correspondence in the claims department, saving 18,000 people hours, which equates to roughly £140,000, in productivity gains since.
+
+------------------
+
+Leading insurance provider automated underwriting system with DMS
+
+The insurance company chosen FICO’s DMS to be implemented in its auto and home insurance business. At the moment, once the applicant information is entered, the insurer’s underwriting system instantly applies the relevant decision criteria (i.e. Models, rules, strategies) and external data (i.e. Loss history, vehicle reports) and renders a final decision with suggested pricing included. As a result, the company’s ratio dropped, underwriting’s efficiency grew, and its losses were reduced.
+
+
+----------------
+Insurance processing automation in Jforce
+
+JForce adopted the IBM Digital Business Automation suite of products to help mitigate the concerns felt by its insurance and banking clients. To address the claims and credit processing woes of its clients, JForce deployed the IBM Operational Decision Manager, IBM Business Automation Workflow and the IBM Blueworks Live products, automating about 95% of its processes. As a result of the implementation, the insurance company reduced its insurance claims processing period from 30 minutes to 5 minutes along with having its labor costs drastically drop down to 80%.
+
+
+-------------
+
+Service quality improvements and  big savings for EP Wealth Advisors
+
+EP Wealth Advisors, an investment management, financial planning and wealth advisory firm, used RingCentral to streamline internal communications across the organizations for an enhanced flexibility and annual 20% savings. 
+
+
+---------------
+
+Tokenized Real Estate Assets
+
+Stan Group, a Hong Kong firm, is reported to have a real estate portfolio estimated at over HK$50 billion ($6.38 billion). The Stan Group is  seeking a locally unprecedented approval from Hong Kong’s Securities and Futures Commission for the regulated trading of blockchain tokens that would have real estate as their underlying assets.
+The group reportedly signed a MOU with local security token insurance platform Liquefy to jointly explore the possibilities of real estate tokenization, which can enable investors to own and trade blockchain tokens that confer ownership of a property — in whole or in part
+
+
+---------------
+
+SANTANDER TRADE RECOMMENDATION ENGINE
+
+The objective was to create a new Trade Club solution, giving Corporate Banking Clients a way to identify and originate trade opportunities with industry counterparts, while improving the effectiveness and productivity of Santander’s Relationship Directors and expanding competitiveness, growing revenue and primacy through market-leading innovative analytics capability.
+The building blocks of a new analytics engine were established, and confidence was also built in using GCP for the long-term solution. An excitement was fuelled around the re-imagining of the Trade Club and discussions are underway about how to move forward with a PoC/MVP.
+Identifying wow factor and discussing merits of building with Accenture vs In-house are both intensively discussed.
+
+
+----------------
+Autonomous Passenger Cars
+
+Autonomous passenger cars, whereby individuals own/lease private cars is a key potential use case for AV, providing opportunities to reduce accidents caused by human error, and for better traffic congestion management. Usage-based insurance will have more data to analyse with customized insurance products tailored to individual customers. Several companies have made significant investments to assemble the portfolio of technologies needed to realize their autonomous vehicle plans. Intel is acquiring Mobileye for $15 billion, Ford motor company is investing $1 billion in Argo AI, Uber acquired Otto, and General Motors invested $500 million in Lyft for autonomous vehicle development and acquired Cruise Automation.
+
+
+--------------------
+Autonomous Cargo Truck Platooning
+
+Automated cargo truck platooning (a truck platoon with 3-4 driverless trailer trucks) will reduce number of human drivers needed and tackle challenges related to variable fuel costs and rising insurance costs caused by human error (accidents). In most scenarios, a lead truck is equipped with a 2x4K camera in the front and 2x4K cameras in the back, while trailer trucks are equipped with 4x4K cameras placed on the sides.
+
+
+
+---------------
+
+Autonomous Public Transport
+
+Automated shuttle busses, used for specific public facilities, such as airports and campuses (known routes) would service to reduce number of human drivers needed, reduce salary costs and provide flexibility in adding more buses to address capacity. A remote human operator would likely be required to see the full status of a bus en route as well as performance indicators. Autonomous public busses, with many routes and frequent route changes, could also be used to reduce accidents and insurance costs, and maintenance costs caused by poor driving. Autonomous taxi services - in countries like Japan and Korea, taxi fleets are owned by corporations and scheduling could follow an Uber-like cloud-based architecture.
+
+
+
+
+
 
 
 -----------
-
-
-
-
-
 
 ------------------
