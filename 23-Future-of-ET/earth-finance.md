@@ -13,6 +13,7 @@ financial intermediation](https://www.mckinsey.com/~/media/mckinsey/industries/f
 - [2021 investment management outlook](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/investment-management-industry-outlook.html)
 - [Annual Report on the Insurance Industry](https://www.treasury.gov/initiatives/fio/reports-and-notices/Documents/2019_FIO_Annual_Report.pdf)
 - [Insurance Industry at a Glance](https://www.iii.org/publications/insurance-handbook/introduction/insurance-industry-at-a-glance)
+- [Digital Insurance 2.0](https://www.insuranceireland.eu/media/Majesco%20Presentation.pdf)
 
 --------
 ![cfo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cfo_office.png)
