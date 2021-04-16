@@ -3391,7 +3391,36 @@ The citizen developers help organizations to bring business and technology close
 To create a healthy and secure organizational application development culture IT department must engage with end-user developers more actively to enable them to become "good citizen developers.“Gartner surveys show that on average, a total of 13 apps are built by citizen developers in an organization within a year. The most common type is web apps, reported by 79% of respondents. By 2023, the number of active citizen developers at large enterprises will be at least four times the number of professional developers
 
 -----------------
+------------------------------
 
+E-TEXTILES
+
+The e-textiles market has boomed in recent years. Research by Juniper Research suggests that more than 7 million ‘smart-clothing’ units will be shipped to consumers by 2020, increasing to 30 million by 2022 – a CAGR of over 100%. Value is predicted to reach $1 billion during the next two years.
+
+There are many potential applications across a range of industries: Fashion and sports are front-runners, but as the technology improves (battery and electronics technology etc.), opportunities will emerge in healthcare, defense and engineering, among many others.
+
+Use of renewable technology, such as solar, to power e-textiles products provide opportunities that are eco-friendly.
+Incorporation of technologies such as GPS (for tracking) and NFC (for interaction with other devices) into smart fabrics is creating the potential for further market growth.
+
+E-textiles technology continues to advance with developments in sensor miniaturization, battery technology and ways of integration with fabric. Today, the most common use cases can be found in fashion and retail, and in sports and fitness, but the list of industries will grow quickly to include healthcare and wellness, automotive, manufacturing, military and engineering among others.
+
+As this improving technology approaches maturity, E-textiles brands and manufacturers should form collaborations to improve key aspects of smart fabrics, such as look, comfort, durability or battery recharging speed/convenience. Aesthetic improvements will clearly be important for growth in industries such as fashion – smart fabrics that can change color or appearance will also be attractive to consumers. Tangential applications such as solar-powered sailboat sails which increase efficiency, or GPS tracking technology which is directly embedded into clothing to track people or sensitive materials, are also ones to watch.
+
+The e-textiles market is clearly an exciting and rapidly developing one, but most products remain in their infancy – in testing or early generations. A host of complex challenges – from supply chain and manufacturing difficulties to lack of components or high prices - are providing hurdles for companies to overcome.
+
+----------------------
+
+FLEXIBLE CIRCUITS
+
+Flexible circuits, also known as flex electronics, is a technology for assembling electronic circuits by mounting electronic devices on flexible plastic substrates. The ability of flexible circuits to bend and contort into different shapes allows them to fit into places where rigid printed circuit boards cannot. Thinner and lighter than printed circuit boards (PCBs), flexible circuits are favored in applications where size and weight are important considerations.
+
+
+
+According to market research published by Credence Research, the global market for flexible printed circuits was valued at US$16.6bn in 2018 and is expected to reach US$41bn by 2027, growing at a CAGR of 10.6% between 2019 and 2027.
+
+The technology is already mature, having come into commercial use within the last few decades of the last century. In the last 10 to 15 years, the increase in demand for miniaturized electronic and industrial products favored the growth of flexible circuits, since they offer great flexibility to engineers while designing low-cost, high-quality and lightweight miniaturized products. They are also preferred in heat-sensitive electronics and products as they are better able to counteract thermal stress compared to rigid printed circuit boards (PCBs). Multiple benefits have led to the adoption of flexible circuits in a wide range of fields, such as communications, high tech, aerospace, defense and automotive. In addition, increasing penetration of connected and smart devices is expected to further boost demand for flexible circuits in the coming years. A 451 Research analysis of the IoT market indicates that total connected devices will number 13bn by 2024.
+
+---------------------
 
 
 
