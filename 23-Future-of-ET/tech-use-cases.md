@@ -3121,6 +3121,76 @@ The objective was to create a new Trade Club solution, giving Corporate Banking 
 The building blocks of a new analytics engine were established, and confidence was also built in using GCP for the long-term solution. An excitement was fuelled around the re-imagining of the Trade Club and discussions are underway about how to move forward with a PoC/MVP.
 Identifying wow factor and discussing merits of building with Accenture vs In-house are both intensively discussed.
 
+--------------
+---------------
+
+4D Printing
+
+Four dimensional printing (4DP) is a technique where the materials are encoded with a dynamic capability — either function, confirmation or properties — that can change via the application of chemicals, electronics, particulates or nanomaterials. The printing technology has extra functionality to sequence, mix and place specific materials that will have a calculated effect.
+
+
+--------------------
+
+3DP PaaS
+
+3D PaaS relates to the set up of an online, cloud-based 3D printing service for use in consumer and corporate settings with a focus on collaboration and cooperation. A “subscription-type” model is an alternative to purchasing one (or many) 3D digital printers. 
+
+
+-------------------
+
+IP Protection in 3D Printing
+
+Intellectual property (IP) protection for 3D printing refers to practices and supporting technologies that protect creations from anyone attempting to illegally use or distribute that innovation through 3D printing. Such creations include inventions, literary and artistic works, designs and symbols, and names and images used in commerce.
+
+
+-----------------
+
+Macro & Nano 3DP
+
+Macro 3D printing refers to systems using additive manufacturing to "print" physically large objects where the largest dimension is approximately two meters or more in magnitude. Nanoscale 3D printing is the use of specialized 3DP technology and related processes to create minute, intricate structures and/or features with high aspect ratios!
+
+-----------------
+
+3DP Software
+
+3D print creation software refers to software that either creates geometry, which can be directly 3D printed, or converts other 3D content to 3D printed objects. In addition, today more sophisticated software like 3D printing workflow software enables organizations to manage the estimating, pricing, scheduling, capacity planning, costing, order entry and billing of 3D printed items. 
+
+
+------------------
+
+3DP Process Advancements
+
+The numerous available 3D printing processes tend to be additive in nature with a few key differences in the technologies and the materials used. Some advanced methods melt or soften the material to produce the layers, while others cure liquid materials using different sophisticated technologies.
+
+
+-------------------
+
+3DP Material Advancements
+
+Today, 3D printing is a technology used in architecture, medicine, aerospace, and other industries, and most of the parts used in those industries cannot be made just from ABS or PLA plastics. The development of advanced 3D printing material such as photopolymers, thermoplastic powders, thermoplastic filaments, metal powders, welding wire, plaster, sand, binder and bio materials, are key to keep up with the market demands.
+
+
+
+------------------
+
+3DP Scanners
+
+A 3D scanner device captures the shape and appearance of real-world objects spanning products, body parts, buildings and other structures as "clouds of points" to create 3D models of them for use in activities that include design and 3D printing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----------------------------
 
