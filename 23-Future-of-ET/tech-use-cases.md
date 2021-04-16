@@ -72,8 +72,10 @@
 - https://pitchbook.com/
 - https://www.ibisworld.com/
 - https://www.cbinsights.com/
+- https://www.thinkwithgoogle.com/
 - https://adage.com/
 - https://www.oecd-ilibrary.org/
+- https://www.crunchbase.com/
 - https://www.idc.com/
 - https://www.gsma.com/
 - https://go.forrester.com/
