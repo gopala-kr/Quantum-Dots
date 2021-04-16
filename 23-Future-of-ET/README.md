@@ -9316,29 +9316,7 @@ RPA
 
 [Back to top](#contents)
 
---------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg)
------------
-![Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1280px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg)
--------
-![Cole_Thomas_The_Course_of_Empire_Destruction_1836](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg)
-------
-![Cole_Thomas_The_Course_of_Empire_Desolation_1836](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg)
-----------
-![The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/1920px-The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg)
---------
-![T7zkk7DZcBQOo8Mxb_jsDA](https://miro.medium.com/max/3600/1*T7zkk7DZcBQOo8Mxb_jsDA.jpeg)
-
--------
-![arracttahqx](https://img.17qq.com/images/arracttahqx.jpeg)
-
----
-![4Hi0NE](https://img.wallpapersafari.com/desktop/1920/1080/68/89/4Hi0NE.jpg)
-
-------
-![Great-Filter1](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Great-Filter1.png)
 
 --------------------
 ----------------------
