@@ -2368,7 +2368,116 @@ Facilitate effective change management & set up a trained COE
 Dynamic price markdown adjustments for Major Indian apparel retailer 
 
 Analyzing historical predictions and sales data is possibile to assess the effect of past promotions and dynamically adjust markdowns for future clearance periods
-A Major Indian apparel retailer built econometrics models to estimate price elasticity at segment level to estimate elasticity and offline simulation tool for price recommendation considering product hierarchy, elasticity and inventory on hand
+A Major Indian apparel retailer built econometrics models to estimate price elasticity at segment level to estimate elasticity and offline simulation tool for price recommendation considering product hierarchy, elasticity and inventory on hand.
+
+-----------------
+
+On-demand Deliveries
+
+Amazon Flex leverages drivers “on demand” to pick up packages at small warehouses and deliver them to customers.
+
+---------------
+
+Fraud Analytics
+
+Huawei, the Chinese communications and technology solutions provider, leverages Big Data and analytics for live fraud analytics, analyzing financial transactions before they are authorized. The system, used in the case of retail transactions for example, is driven by Huawei’s FusionInsight platform and IMDBMS, and performs hundreds or thousands of queries per financial transaction, applying user-provided logic and rules to gigabytes of terrabytes of recent history. FusionInsight customers, the issuing retail banks in this case, are presented with an interface for inputing business rules, either manually generated, or derived from automated analysis and/or machine learning.
+
+---------------
+
+Social Network Analysis
+
+Community analysis, or distance and density-based analysis, can be used to find groups of interacting people in a social network, for example, and perform analysis such as predicting network growth. Centrality analysis can be used to find the most influential people in a social network, or find the most highly accessed web pages, using the PageRank algorithm for example. Influencers can be used in retail to promote particular products, for example.
+
+
+--------------
+
+Marketing Campaign Optimization
+
+Nielsen offers DaaS via the Nielsen Data Management Platform, providing clients with access to retail audience data across more than 60,000 segments. This allows organizations to customize audience targeting strategies for higher marketing impact, leveraging data such as demographics, psychographics, mobile, online, TV, spending, store visits, basket size and product purchases. The Nielsen Marketing cloud partner also gives clients access to a range of industry audience data – all segments can be activated across Nielsen Marketing Cloud’s 300 integrated media and marketing platforms.
+
+
+---------------------
+
+
+
+3D Printing
+
+Custom Assembly At the Store: Retailers source and manufacture products centrally, selling via eCommerce channels and a network of physical stores. Retailers source centrally but final assembly is done locally to personalize products to customer preferences.
+Personalized 3-D Printed Toys & Figurines: Consumers go to retail stores to buy toys and figurines available from a pre-selected assortment at the retailer’s stores. Consumers can get products made with customized features (such as names & images), with the aid of 3D facial scanner and/or  3D printers.
+
+----------
+
+Virtual Reality for retail 
+
+Virtual Reality allows customers to view the fit of their apparel purchases virtually, thereby eliminating the hassle of returns. Today: Purchasing clothing via the eCommerce channel is often plagued by returns as customers are surprised by poor fitting clothing, resulting in high returns. Future w/ Virtual Reality: With Virtual Reality, shoppers can place clothing on a virtual-representation of themselves and evaluate proper fit, thereby reducing negative surprises and returns.
+
+-------------
+
+Virtual Reality Store
+
+eBay and Australian retailer, Meyer, have created the world’s first virtual reality department store: a completely immersive shopping experience. Customers are empowered with convenience and experience.
+
+--------------
+
+DHL Pick & Pack
+
+DHL uses Fetch Robotics ‘Fetch & Freight robots’: Two robots are required for large warehouse traversal, a mobile manipulator (Fetch) picks items from warehouse shelves, while Freight, a fast-mobile base, acts as an autonomous cargo delivery cart. The autonomous mobile robots have a loading capacity of 78 kilograms and can cover a distance of two meters per second.
+
+-------------
+
+
+ Carrefour Customer Service
+
+Carrefour hypermarket uses Pepper Robot: The robot is programmed to chat and interact with customers, give direction and answer questions. The robot can also play music, light up, dance and take selfies with passers-by. Carrefour also has a photo booth service available, where customers can take a snap with Pepper and have it printed out.
+
+-------------
+
+
+Amazon Pick & Pack
+
+Amazon Kiva: is a warehouse management robot in use since 2014. They are fast-moving robots that shuttle entire racks of inventory from a narrow aisle section of the fulfilment centre to a picking station. Amazon’s use of Kiva robots has reduced the “click to ship” time from 75mins to 15 minutes currently. It has expanded their use to upwards of 80,000 robots across 25 distribution centres.
+
+----------
+
+
+Delivery Robot
+
+Domino’s Delivery Robot: Domino’s Robotic Unit (DRU) is testing its vehicles in Australia to deliver pizzas. The idea is to use GPS data Domino’s gathered over the years from its human drivers and combine that with an automated vehicle to make delivery rounds.
+
+--------------
+
+
+Cyptocurrency for retail
+ 
+The Blockchain reduces transaction costs by eliminating intermediaries, saving millions of dollars in Retailer OpEx. Today: Retailers pay credit card companies up to 3% to facilitate and ensure customers can pay for their transactions. Tomorrow: Intermediary payment processors are no longer necessary as transactions are instantaneously captured and verified
+
+--------------
+
+Autonomous Vehicles for retail
+
+Autonomous vehicles will automate the movement of goods between physical locations, including to the end consumer, throughout the supply chain. Autonomous vehicles will become mobile, on-demand transporters that deliver customers the products they need nearly instantaneously. Autonomous vehicles will automate the transport of goods across the supply chain network.
+
+
+-----------------
+
+Retail & Warehouse Robots
+
+Robots performing operational tasks have a significant impact on reducing costs, while increasing efficiency. Robots scan and audit merchandise to maintain ideal product placement, and fill inventory. Robots analyze data collected from auditing to produce reports for misplaced and mispriced merchandise.
+
+------------
+
+DELIVERY
+
+Pizza Hut and Toyota forged a global partnership to explore the autonomous pizza delivery vehicle - kiosk cruising the streets in the next few years.
+
+
+-------
+
+Delivery robots and Drones
+
+Drone technology automates and reduces delivery costs and time. Retailers transport goods to local warehouses, and then leverage drones for last-mile delivery to the customer. Retailers use drones to move goods to local warehouse, and then leverage traditional transportation methods to move goods to the customers.
+
+
 
 
 
