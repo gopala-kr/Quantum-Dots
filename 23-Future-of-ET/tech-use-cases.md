@@ -3180,6 +3180,226 @@ A 3D scanner device captures the shape and appearance of real-world objects span
 
 
 
+------------
+
+Open Banking
+
+Open Banking is the practice of sharing financial information electronically, securely, and only under conditions that customers approve of. Open APIs allow third parties to access financial information efficiently, which promotes the development of new apps and services for the digital ecosystem.﻿ Ideally, open banking should result in a better experience for consumers.
+
+-----------------
+
+AI Robo-advisors are collaborative online financial tools that use AI algorithms to perform basic and more advanced investment management and financial planning functions. They can accept input from both the client and the advisor. Client access and features are set by the advisor, and the tools can be integrated with the advisor’s or wealth manager firm’s applications to provide a holistic view of individual clients.
+
+------------
+
+Biometric Authentication Methods use unique biological or behavioral traits to corroborate a person’s claim to an identity previously established to enable access to an electronic or digital asset. A biometric authentication method is typically used in one-to-one comparison mode (biometric verification), to support an identity claim. Biometric mobile banking authentication is the use of biometric technology to authenticate customers accessing mobile banking or payment applications on smartphones and tablets.
+
+
+---------------
+
+Payment data monetization refers to the ability to extract value from payment data (either raw payment data, composite data that also include customer details and preferences or transformed data making use of big data analytics and artificial intelligence) to obtain insights to improve customer services, decisions as well as product and business development.
+
+-----------------
+
+Waterfall is a mature software development methodology that tends to be among the less iterative and flexible. In a waterfall model, progress flows in largely one direction ("downwards" like a waterfall) through the phases of conception, initiation, analysis, design, construction, testing, deployment and maintenance.
+
+-------------------
+DEVOPS
+
+
+DevOps encompasses activities that result in continuous delivery of value. Collaborative culture, product-centric mindset, agile practices and automation underpin the value stream.
+
+Devops provides benefits such as faster delivery time, high collaboration between teams, early defect detection and continuous release and deployment. It is something that teams really need to get their hands around if they need to remain competitive. They need to scale up or skill up in order to make it because we’re certainly facing a faster-paced world as we move forward. 
+
+
+
+With digitalization, there is a critical need to support businesses that must operate at higher speeds and with greater agility. This has resulted in agile and DevOps growing fast and becoming key to many organizations in their pursuit of competitive advantage. This shift to new methods of developing software is occurring rapidly, and many service providers have created offerings, but few are truly differentiating. Service providers able to create effective differentiators will be the winners in this space
+
+According to the 2019 Gartner CIO Survey, top-performing organizations were more likely to employ agile infrastructure strategies including adoption of DevOps (54%), while 52% of respondents indicate that improving system reliability remains a key objective driving DevOps demand
+
+DevOps continues its trajectory of awareness and adoption as firms focus on achieving product differentiation through the speed and quality promised by DevOps methods. However, the road to adoption has been neither steady nor effortless. Entrenched resistance will provoke more pronounced and far-reaching responses from organizations seeking DevOps benefits.
+
+In 2020, as DevOps teams face an inflection point in reduced release speeds, firms that want to overcome this speed bump will need to adopt new technologies and a renewed customer-centric approach. 
+
+--------------------
+
+AGILE (XP,BDD)
+
+
+Agile development spans beyond the software domain and into a more end-to-end business model and process development realm by employing principles such as adaptive planning or evolutionary development, heavily influenced by design and usability analysis, early delivery, and continuous improvement.
+
+Companies are becoming increasingly comfortable with Agile practices. Adoption remains strong, and teams are getting better at knowing when and where to use Agile practices, but the techniques and understanding remain spotty at the enterprise level.
+
+In Gartner Enterprise Agility 2019 survey 87% of respondents said they used agile for at least some of their application development. Scaled Agile Framework (SAFe) remains the most adopted framework by survey participants. 
+
+85% of organizations have adopted, or plan to adopt, a product-centric application delivery model. Although full adoption is rare, overall, survey respondents use the product-centric model for 40% of their work. Gartner predicts that this figure will reach 80% by 2022.
+
+
+---------------------
+
+MASA- MESH APP & SERVICES ARCHITECTURES (INCL. MICROSERVICES)
+
+
+MASA helps move enterprises away from monolithic architectures. It supports fundamental digital business requirements, such as rapid delivery of new features and capabilities; multichannel interfaces, and optimized continuous experiences for better user engagement; development of ecosystems and support for API economy interactions; IoT integration; and improved automated decisions by leveraging pertinent contextual information.
+
+Many organizations have been evolving toward MASA and a more service-oriented model without realizing it in order to address multichannel requirements. If an application supports multiple clients from a single back end, it's on a path to MASA. As organizations get more comfortable with the model, they typically start decomposing the back end into coarse-grained services (macroservices and miniservices).
+
+The growth of MASA is dependent on the evolution of its constituent parts, namely multiexperience, miniservices, mediated APIs and full life cycle API management. The further IT moves towards decentralized systems, the more the need for MASA. 
+
+Today, applications need a different architectural approach to support digital business ecosystems. That approach is mesh app and service architecture (MASA). MASA is an architectural model that has emerged over the last five years as organizations have experimented and established new principles for building and delivering cloud-native, web-scale, modular and adaptive solutions that can be continuously and rapidly modified and refactored to support the dynamic and changing needs of a digital business.
+
+Adoption of MASA encourages event driven IT, which is at the heart of modern innovation. This design model helps organizational systems to be more responsive and agile, scale independently, support real-time business decisions, and deliver digital business and IoT solutions.
+
+To succeed in digital business, organizations are challenged to master event-driven thinking in design, architecture, technology, organization and culture. As per Gartner, by 2020, achieving broad competence in event-driven IT will be a top-three priority for the majority of global enterprise CIOs.
+
+ 
+ 
+
+--------------------------
+
+CLOUD NATIVE APPLICATIONS
+
+
+Cloud-native applications are optimized to take advantage of the elasticity, self-service and software-defined nature of public or private cloud environments. They provide substantial benefits over traditional apps such as auto-scaling to handle continuous business needs and enable pay as you use billing, They are inherently resilient to failures and enable automatic provision of resources. In short, they facilitate on-demand, self-service, programmatic provisioning, and releasing of resources used for compute & storage services, thereby reducing costs significantly. 
+
+New research indicates a significant change in enterprise cloud adoption through the increased use of cloud native applications - applications and services built to perform optimally in the cloud, leveraging Platform as a Service (PaaS).
+
+Driven by recognition that cloud-native applications can enable IT to better contribute to business agility and innovation, Gartner predicts that by 2022, more than 75% of global organizations will be running containerized applications in production, which is a significant increase from fewer than 30% today. While, more than 50% of containerized workloads will span across hybrid environments, up from less than 20% today.
+
+ 
+-----------------------
+
+POLYGLOT PLATFORMS
+
+
+Polyglot platforms provide a universal, language-agnostic interface across applications as switching costs on scaling, management, and monitoring infrastructure that accompanies a change of language for an app has been too high historically.
+
+Polyglot platform flexibility has its advantages: it allows developers to combine the strengths of different languages, selecting the best of each to interact and work together in a single project. The trend of polyglot programming first rose in popularity around a decade ago when two popular languages, Java and .NET, first allowed for language interoperability
+
+The number of languages, platforms and technologies has exploded in the last decade, which is set to rise multifold with the advent of containers and microservices. Platforms such as Oracle GraalVM have started consolidating languages such as Java, JS, Python etc. into a single VM core to simplify enterprise environment complexity.
+
+Through 2021, Dev tools based on polyglot environments and multiplatform support will lead to an increase in language agnosticism and gravitation to a core set of three to five best-of-breed languages.
+
+A polyglot Platform-as-a-Service (PaaS) development environment allows developers to write application modules in multiple languages with all modules interacting with each other. Each language leverages the skill sets developers as well as the strengths of the language itself. Cloud Foundry is a leading example of a highly customizable open source, polyglot, cloud PaaS. It allows developers to code in multiple languages and frameworks. 
+
+
+--------------------
+SELF ORCHESTRATING/ HEALING APPLICATIONS
+
+Companies are tapping artificial intelligence to automate the care of their operations and information-technology infrastructure, since AI can identify and fix problems more quickly than humans.Self-healing platforms are capable of identifying and fixing operational issues automatically, before they cause full-scale systems failures. The technology monitors how systems normally function and flags any deviations from those patterns as potential errors. If the system identifies a certain problematic pattern, it automatically makes adjustments to restore normal operations.
+
+
+
+Self Learning powered enterprise software will anticipate rote or foreseeable workplace tasks that need doing and simply auto-complete them or move several steps to finishing them by the user.
+
+IT systems will evolve into self-organizing, self-healing and self-improving systems capable of capitalizing fully on the opportunities provided by big data and advanced analytics based on AI. Systems of intelligence will continually monitor, process and organize system behavior from pools of data, enabling optimized outcomes based on human-defined goals
+
+As organizations move beyond AI augmented Devops, they will require always on AI to monitor all edge failure cases and remediate for swift MTTR with least or no user downtime and no human intervention, organizations seeking customer trust will need to invest into such systems to stand out for exceptional reliability and resilience. 
+
+AI and machine learning constitute the next wave of IT business value by augmenting the human workforce to improve operations, simplify processes, and create capacity. IT leaders are using AI and ML capabilities to improve uptime and productivity. With self-healing platforms, we have reached an inflection point where machines can heal themselves, and humans can focus on higher level tasks.
+
+In a IDC survey, about 50% IT workers reported that the most important thing an AI-enabled system would bring is improving the availability and performance of applications, which would help improve user experience.
+
+--------------------
+
+CLOUD TESTING PLATFORMS
+
+Cloud-based testing can reduce the cost of management, as well as hardware, software and power. At the same time, it can be the crucial element that is needed to reach the goal of Continuous Delivery (CD). Hosted tools increase the ability to run more tests more frequently, which reduces production errors and system failures. Cloud-based software provides more flexible billing and capacity, which can be balanced against usage profiles.
+
+
+
+Rapidly maturing cloud technologies are a key driver for cloud based testing platforms.
+The demand created by mobile-first and bring-your-own-device programs, as well as omnichannel delivery initiatives, has created a strong demand for web, mobile web and mobile device testing options in the cloud as a form of platform.
+
+By 2023, the automated cloud software testing market is expected to reach spending of US$1,276B from US$740B in 2019. An increase in complex sourcing and growth of complex development and deployment for cloud environments to drive some demand for automated cloud software quality solutions.
+
+-------------------
+
+AI AUGMENTED DEVOPS
+
+The promise of AIOps platforms to provide rapid insight into large volumes of highly volatile data has not been fully achieved yet. The architecture and platform have improved, but the technology is still emerging and requires time and effort to get quality outcomes. Yet, Gartner anticipates that, over the next five years, wide-scope domain-agnostic AIOps platforms and narrow-scope domain-centric AIOps tools such as ITIM, APM or ITSM suites will become the main stays for delivering Devops functionality
+
+
+
+AI can enhance Devops in several ways: It can suggest a better strategy, automate test designs, predict the quality of outcomes based on type and test coverage, increase coverage while reducing test design and execution, and automate visual UI testing to improve problem detection through better object recognition. Last but not least, AI can also reduce the time to fix bugs in production by supporting root-cause analysis.
+
+AI will enable Developers to build new types of applications in a new way, Bots and intelligent agents will quickly take center stage in development; developers won't be programming them but rather teaching them.
+
+By 2023, 30% of large enterprises will be using artificial intelligence for IT operations (AIOps) platforms and digital experience monitoring (DEM) technology exclusively to monitor the nonlegacy segments of their IT estates, up from 2% in 2018. Meanwhile 40% of DevOps teams will augment application and infrastructure monitoring tools with artificial intelligence for IT operations (AIOps) platform capabilities.
+
+Gartner estimates the size of the AIOps platform market at between $300 million and $500 million per year. Artificial intelligence technologies such as machine learning have influenced the evolution of IT operations management intermittently over the past two decades, and AIOps platforms are the most recent example of that influence.
+
+------------------------
+
+AUGMENTED PROGRAMMING
+
+Due to the forecasted shortage of skilled developers and desired reduction in application development timelines, developers will have to resort to augmented programming methodologies beyond basic RPA and code completion. Future developers will shift focus towards design and function while leaving the heavy lifting to AI workers to free precious human resource.
+
+Augmented programming is the use of AI-enabled technology and services to assist in the construction and analysis of software solutions. It is a much-hyped nascent market with potential risks for early adopters and fast followers, yet provides significant gains if done right. Today, several augmented development innovations are emerging that show strong potential to disrupt modern application development practices. 
+
+With the integration of ‘developer literate AI’ systems and the permanence of augmented interfaces across AR/VR etc. developers will be able to focus on design and logic while leaving the repetitive test and build phases to machines.
+
+ML-augmented coding is likely to gain adoption as a rapid application development tool that supplements and extends enterprise investments in low-and RPA tools. Rather than reinvent the wheel with handcrafted code or repurposed code modules, future developers may simply check off program requirements in a high-level graphical user interface, and then, with a single click, autogenerate the predictively best-fit code-build into the target runtime environment.
+
+Gartner predicts that by 2022, design-to-code technology will reduce the need for presentation layer developers by 50% and by 2024, low-code application development will be responsible for more than 65% of application development activity. These will be augmented by AI based integration since by 2023, more than 50% of new integration technologies evaluated will include AI among key criteria for simplifying integration.
+
+Finally, it is expected that by 2023, AI will combine with human programmers to create “centaurs” performing 50% of traditional programmer workloads — doubling the throughput of stand-alone programmers.
+
+------------------------
+
+MULTI-EXPERIENCE DEVELOPMENT PLATFORMS
+
+A multiexperience development platform (MXDP) offers development teams an integrated set of front-end development tools and backend services. It can accelerate app delivery by increasing developer productivity using high-productivity tooling, shared components and services, and common development languages and patterns.
+
+Multiexperience is part of a long-term shift from computers as individual devices we use to a multidevice, multisensory and multilocation environment we experience. In near future, user experience will undergo a significant shift in how users experience the digital world and software providers will require MXDP’s to create a unified digital experience. 
+
+As the underlying technologies for PWAs, conversational and immersive apps mature over the next two to five years. Custom mobile app development will remain the main driver of adoption of MXDPs over the next two years. The ability to create PWAs will also become an important criterion as MXDPs increasingly support a broader mobile user experience. In terms of immersive app development, AR use cases on iOS and Android to be the primary focus for MXDPs
+
+MXDPs are not “build once, run everywhere” or “omnichannel” solutions. The core value of an MXDP lies in its ability to coalesce software development life cycle activities across a range of apps to address the digital user journey. The need for this ability will only increase as the number of apps, devices and modes of interaction increases.
+
+Gartner predicts that by 2021, at least one-third of enterprises will have deployed a multiexperience development platform (MXDP) to support mobile, web, conversational and augmented reality development. And by 2023, more than 25% of mobile apps, progressive web apps and conversational apps will be built and/or run through a multi-experience development platform.
+
+------------------
+
+PROGRESSIVE WEB APPS & CROSS-PLATFORM FRAMEWORKS
+
+Progressive web apps (PWAs) provide a seamless end to end user experience even with unreliable networks that improves the number of successful conversions. Moreover it helps engage users that have friction towards downloading enterprise apps for each use case,  leading to a significant increase in interaction for enterprise apps. PWA’s reduce the steps between discovery of an app and getting it on the home screen thereby eliminating friction of getting an app installed. 
+
+Moreover, they provide near native functionality without the restrictions of native app stores and revenue share licensing overheads. 
+
+
+
+PWA capabilities enabled by service workers and app manifests depend on browser support and user approval. This currently limits the full benefits of PWAs to browsers that support advanced capabilities and users who are willing to allow features like notifications and home screen icons
+
+Requires additional skills: Implementing PWAs effectively requires an additional set of skills on top of the traditional web application development skills. E.g. skills such as service workers, app-controlled cache/synchronization strategies
+Limited support in some javascript frameworks, MXDPs and WCM tools: Not all javascript frameworks, MXDPs and WCM tools support all PWA capabilities
+
+PWAs bridge the gap between native and mobile web apps, and offer functionality that can support the digital commerce customer life cycle in terms of acquisition, conversion, engagement and retention while providing for CI/CD and other web app benefits. PWAs can leverage assets built for commerce websites and don’t have to conform to the various rules of iOS or Android app stores. Since they support a “develop once and deploy across platforms” approach, the development cost can be one order of magnitude less than that of native apps. 
+
+Gartner predicts that by 2023, leading digital commerce platforms will offer PWA toolkits. Also, PWAs will be the standard manifest for mobile web apps as 90% of enterprises will use a combination of web, native and hybrid mobile architectures rather than a one-size-fits-all approach. 
+
+
+-------------------------
+CITIZEN DEVELOPERS
+
+Business users increasingly want to generate their own IT solutions outside the IT organization. This provides an unprecedented opportunity for IT to partner with the business. To do so, IT must enable a comprehensive ecosystem that supports the citizen community. The ecosystem must support not only the technology to facilitate the creation of citizen solutions, but also the process and organization that support the fluid movement of solutions through the development process into production.
+
+Today's rapidly changing business climate demands greater application agility. IT's timelines are often too long and costlier to meet business needs. Although agile development methodologies can help IT respond to business needs more rapidly, a lack of resources often prevents a prompt IT response. In this scenario it is faster, less expensive and better for end users to build the applications they need, with the help of citizen developers rather than engage the IT application development group.
+
+The citizen developers help organizations to bring business and technology closer. As a result, organizations can focus more on core business and less on developing.
+
+To create a healthy and secure organizational application development culture IT department must engage with end-user developers more actively to enable them to become "good citizen developers.“Gartner surveys show that on average, a total of 13 apps are built by citizen developers in an organization within a year. The most common type is web apps, reported by 79% of respondents. By 2023, the number of active citizen developers at large enterprises will be at least four times the number of professional developers
+
+-----------------
+
+
+
+
+
+
+
+
+
 
 
 
