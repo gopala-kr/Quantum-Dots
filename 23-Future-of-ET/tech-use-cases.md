@@ -63,6 +63,41 @@
 - [adamodar](http://pages.stern.nyu.edu/~adamodar/) 
 - [AswathDamodaranon](https://www.youtube.com/c/AswathDamodaranonValuation/playlists)
 
+------------
+
+- https://www.iresearchservices.com/
+- https://endpts.com/
+- https://opsdog.com/
+- https://www.statista.com/
+- https://pitchbook.com/
+- https://www.ibisworld.com/
+- https://www.cbinsights.com/
+- https://adage.com/
+- https://www.oecd-ilibrary.org/
+- https://www.idc.com/
+- https://www.gsma.com/
+- https://go.forrester.com/
+- https://www.emarketer.com/
+- https://energycentral.com/
+- https://professional.dowjones.com/factiva/
+- https://www.cta.tech/
+- https://www.computereconomics.com/
+- https://www.autonews.com/
+- https://hbr.org/
+- https://www.economist.com/
+- https://fortune.com/fortune500/
+- https://www.wsj.com/
+- https://www.newsweek.com/
+- https://www.factset.com/
+- https://www.mckinsey.com/quarterly/overview#
+- https://sloanreview.mit.edu/
+- https://www.goldmansachs.com/insights/
+- https://www.moodys.com/
+- https://remesh.ai/
+- https://www.spglobal.com/en/
+- https://www.esg-global.com/research
+
+
 ------------------
 --------------------
 
