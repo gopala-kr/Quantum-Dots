@@ -3423,6 +3423,48 @@ The technology is already mature, having come into commercial use within the las
 ---------------------
 
 
+3D PRINTED METALS
+
+Metal 3D printing is suitable for complex, bespoke parts that are difficult or very costly to manufacture with traditional methods. Metal 3D printed parts have excellent mechanical properties and can be manufactured from a wide range of engineering materials, including metal superalloys.
+
+
+
+Metal 3D printing (3DP) processes can be used to manufacture complex, bespoke parts with geometries that traditional manufacturing methods are unable to produce.
+Metal 3DP parts can be topologically optimized to maximize their performance while minimizing their weight and the total number of components in an assembly.
+Metal 3DP parts have excellent physical properties and the available material range includes materials that are difficult to process, such as metal superalloys.
+
+The 3D printed (3DP) metals market is likely to mature slowly and, through 2020, will remain a niche technology relevant for one-off custom components and objects that cannot be created by conventional manufacturing techniques. Industries such as aerospace, construction and utilities that have such requirements should monitor the technology diligently.
+
+Significant cost and time savings can be made, particularly with high strength materials, such as nickel or cobalt-chrome superalloys, that are very difficult to process with traditional manufacturing methods.
+
+From 2020, as the number of providers increases and 3D metal printers’ throughput, quality and material range improves, industries such as event and exhibition producers, print service providers, retail and consumer goods should actively examine the technology’s use cases.
+
+-----------------------
+
+3D PRINTED ELECTRONICS
+
+3D printed electronics may still seem far away in time, however the technology is poised to be a game-changer to the industry. While the technology is still primarily used as a prototyping tool, the benefits of 3D printing – from faster time-to-market, greater freedom of design and customization – can be leveraged by the electronics industry and have a significant impact on their supply chain.
+
+In-house prototyping: In an industry as competitive as electronics, the demand for smaller, thinner devices electronics circuit with improved functionality is inevitable.
+Faster time-to-market
+
+Design flexibility: For example, multilayer circuits can now be 3D printed on non-flat, flexible surfaces, which would not be possible with traditional manufacturing techniques
+
+Expands the capabilities of manufacturing customized electronics
+Simplified supply chain
+
+Design software will need to be developed that can define how electronic components can be printed within the part itself. Currently, such design software is still in its infancy, although this is expected to advance over the next few years.
+
+Development of the materials suitable for 3D printing at nanoscale, as many electronic components are nanometer-sized.
+
+Prototyping is still the most commonly used application of 3D printing within the electronics industry. Looking ahead, however, 3D printing could become a viable technique for producing wearable or embedded sensors for real-time health monitoring. Additionally, 3D printed sensors could be built into lenses to enable augmented reality applications, whilst 3D printed embedded electronics could be used in objects from smartphones to cars, adding functionality whilst making them lighter.
+
+But before we see these applications gaining traction, there are several technical challenges that need to be tackled. Materials and design software will need to catch up to enable electronic manufacturers to 3D print parts with higher complexity and functionality. In spite of this, 3D printed electronics has all the chances to follow the same path as early adopters of 3D printing technology like automotive and aerospace. As the technology matures and new players enter the market, it is expected that 3D printed electronics could eventually shift from being solely a prototyping tool to direct, end production.
+
+At present, 3D printed electronics remains at the ‘’improving” stage. It has established itself as a useful prototyping technology but has a long way to go before entering the mainstream.
+
+-------------------
+
 
 
 
