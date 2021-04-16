@@ -45,7 +45,7 @@
 
 ------
 
-- [knowledge.wharton.upenn.edu](https://knowledge.wharton.upenn.edu/topic/finance/)
+- [knowledge.wharton](https://knowledge.wharton.upenn.edu/topic/finance/)
 - [studyfinance](https://studyfinance.com/finance/)
 - [supercfo](https://supercfo.com/)
 - [mycfo](https://mycfo.in/)
@@ -3072,28 +3072,6 @@ SANTANDER TRADE RECOMMENDATION ENGINE
 The objective was to create a new Trade Club solution, giving Corporate Banking Clients a way to identify and originate trade opportunities with industry counterparts, while improving the effectiveness and productivity of Santander’s Relationship Directors and expanding competitiveness, growing revenue and primacy through market-leading innovative analytics capability.
 The building blocks of a new analytics engine were established, and confidence was also built in using GCP for the long-term solution. An excitement was fuelled around the re-imagining of the Trade Club and discussions are underway about how to move forward with a PoC/MVP.
 Identifying wow factor and discussing merits of building with Accenture vs In-house are both intensively discussed.
-
-
-----------------
-Autonomous Passenger Cars
-
-Autonomous passenger cars, whereby individuals own/lease private cars is a key potential use case for AV, providing opportunities to reduce accidents caused by human error, and for better traffic congestion management. Usage-based insurance will have more data to analyse with customized insurance products tailored to individual customers. Several companies have made significant investments to assemble the portfolio of technologies needed to realize their autonomous vehicle plans. Intel is acquiring Mobileye for $15 billion, Ford motor company is investing $1 billion in Argo AI, Uber acquired Otto, and General Motors invested $500 million in Lyft for autonomous vehicle development and acquired Cruise Automation.
-
-
---------------------
-Autonomous Cargo Truck Platooning
-
-Automated cargo truck platooning (a truck platoon with 3-4 driverless trailer trucks) will reduce number of human drivers needed and tackle challenges related to variable fuel costs and rising insurance costs caused by human error (accidents). In most scenarios, a lead truck is equipped with a 2x4K camera in the front and 2x4K cameras in the back, while trailer trucks are equipped with 4x4K cameras placed on the sides.
-
-
-
----------------
-
-Autonomous Public Transport
-
-Automated shuttle busses, used for specific public facilities, such as airports and campuses (known routes) would service to reduce number of human drivers needed, reduce salary costs and provide flexibility in adding more buses to address capacity. A remote human operator would likely be required to see the full status of a bus en route as well as performance indicators. Autonomous public busses, with many routes and frequent route changes, could also be used to reduce accidents and insurance costs, and maintenance costs caused by poor driving. Autonomous taxi services - in countries like Japan and Korea, taxi fleets are owned by corporations and scheduling could follow an Uber-like cloud-based architecture.
-
-
 
 
 ----------------------------
