@@ -98,7 +98,26 @@
 - https://remesh.ai/
 - https://www.spglobal.com/en/
 - https://www.esg-global.com/research
+- https://mattermark.com/
+- https://a16z.com/
+- https://www.bccresearch.com/
+- https://www.techstars.com/communities/startup-digest
 
+-----
+
+
+[intelligence.weforum.org/](https://intelligence.weforum.org/) |
+[zdnet.com/](https://www.zdnet.com/) | [techrepublic.com/](https://www.techrepublic.com/) | [iotworldtoday.com/](https://www.iotworldtoday.com/) | [cnet.com/](https://www.cnet.com/) | [techcrunch.com/](https://techcrunch.com/) | [techspot.com/](https://www.techspot.com/) | [macrumors.com/](https://www.macrumors.com/) | [https://www.techradar.com/in](techradar.com/in)
+| [theverge.com/tech](https://www.theverge.com/tech)
+| [9to5mac.com/](https://9to5mac.com/)
+| [howtogeek.com/](https://www.howtogeek.com/)
+| [digitaltrends.com/](https://www.digitaltrends.com/)
+| [gizmodo.com/latest](https://gizmodo.com/latest)
+| [informationweek.com/](https://www.informationweek.com/)
+| [thenextweb.com/latest/](https://thenextweb.com/latest/)
+| [tomshardware.com/](https://www.tomshardware.com/)
+| [pcmag.com/](https://in.pcmag.com/)
+| [bloomberg.com](https://www.bloomberg.com)
 
 ------------------
 --------------------
