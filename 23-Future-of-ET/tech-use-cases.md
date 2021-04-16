@@ -86,11 +86,7 @@ Process improvement at Scottish Waters
 
 Scottish Waters leverages Oracle ERP Cloud to run its critical back-office functions leading shorter order lead times, reduced customer complaints, and improved customer satisfaction levels.
 
--------------
 
-Microsoft Office 365
-
-Accenture was looking to improve the efficiency of its IT services, without adding extra costs. Accenture had been using a suite of on-premises services that included Microsoft Office and Office Communicator, but came to realize that running services on-premises was an expensive option. Avanade and Accenture, in under 12 months, completed one of the biggest ever deployments of Microsoft Office 365, involving more than 290,000 users and 11,000 sites across 54 countries. 13,000 Microsoft SharePoint Online sites were created, 130 TBs of data moved with users experiencing additional functionality promptly.
 
 -----------
 
@@ -187,10 +183,6 @@ Environmental monitoring through biomimics
 
 The Korea Research Institute of Ships and Ocean Engineering designed a 1,400-pound autonomous crab that can reach an underwater depth of 656 feet. It doesn't stir up clouds of silt and debris, such as propeller-driven remotely operated underwater vehicles. The crab also has a doppler radar-based navigation system so that it can feel around in murky conditions. With its several cameras it can zoom in on essential objects and species to see events at the deepest depths.
 
--------------------
-5G & AUTONOMOUS VEHICLES
-
-The CTO of Waymo, which started life as the Google Self-Driving Car Project in 2009, believes that 5G is a crucial “enabler”, when it comes to developing the company’s autonomous car fleets. O2 has also now announced a project to trial driverless cars in London using its 5G network.  The UK's second-biggest phone network has partnered with the Smart Mobility Living Lab - a research organisation comprised of experts from the Transport Research Laboratory (TRL), DG Cities, Cisco, and Loughborough University - to develop what it claims to be the ‘most advanced driverless testbed in the world’. The aim is to develop a road management system with the focus on a 10 percent reduction in the time that motorists spend in traffic. Other figures include a positive benefit to the economy of £880m a year from improved productivity as well as the reduction of CO2 emissions by 370,000 metric tonnes a year.
 
 --------------------------
 Autonomous Cars at BMW
