@@ -3705,6 +3705,175 @@ Global industrial robot market is expected to grow from US$ 48.7 billion in 2019
 
 ----------------
 
+-------------------
+
+EDGE COMPUTING
+
+Edge Computing has become important because of the increasing requirement that data-intensive processing work be done as close to the location of need as possible, without latency (waiting time).  This may require full-fledged processing and data storage capacity be available at the edge of an enterprise network, rather than at the core of the network or remotely (e.g., in the cloud).
+
+With data-driven digital transformation occurring in all sectors, the need for Edge Computing capabilities is only expected to grow over the next several years. 
+
+Edge computing has been touted as one of the lucrative, new markets made feasible by 5G networks. 5G requires a vast, new network of (ironically) wired, fiber optic connections to supply transmitters and base stations with instantaneous access to digital data (the backhaul).  As a result, an opportunity arises for a new class of computing
+service providers to deploy multiple µDCs adjacent to radio access network (RAN) towers, perhaps next to, or sharing the same building with, telco base stations. 
+
+
+These data centers could collectively offer cloud computing services to select customers at rates competitive with and features comparable to, hyperscale cloud providers such as Amazon, Microsoft Azure, and Google Cloud Platform.
+
+Think of Edge in terms of opportunities at multiple edges/endpoints: Edge Computing is evolving in tiers with opportunities at hardware to software, data hubs, and applications such as smart cities, autonomous transportation, and video orchestration.
+
+Focus on tooling to deliver and drive businesses of future: Software and hardware developers need new tools, frameworks, and support to build next generation edge apps, services, and deliver hyper-personalized experiences.
+
+Edge will continue to be an ecosystem play: Participate in building standards along with global standards bodies and industry specific consortiums globally for development of technology and advocacy/advisory.
+
+Partner with Silicon vendors  as they are championing Edge as next big opportunity after smartphones: Vendors like ARM are developing new architectures, solutions by embedding AL/ML  and are eyeing a bigger role in distributed computing and data centers.
+
+Aim to build and/ or source requisite skills and talent: Patents, developers, technologists, architects and UX specialists. Follow multi-pronged strategy like internal training & development acquisition, hackathon & crowdsourcing and collaboration with academia and industry, to fulfil skills/ talent needs.
+
+-------------
+
+QUANTUM-INSPIRED COMPUTING
+
+While fully-quantum solutions are still in the distant future, current use cases are offering a new and complementary option that leads to more unique solutions. Today, businesses should be preparing for quantum computing, while getting the most out of present classical computers and quantum-inspired algorithms.
+
+Quantum-inspired computing accomplishes positive results, but is still limited in the type and size of problems it can address due to memory and processing speed limitations inherent in classical computing architectures.
+
+
+Quantum-inspired computing has emerged trying to fill-up an existing gap between the theoretical advances in quantum computation and real quantum computers. Quantum-inspired algorithms use classical computers to simulate some physical phenomena such as superposition and entanglement to perform quantum computations. 
+
+Characteristics
+Quantum-inspired methods use parallelization and problem-reformulation in algorithms and hardware
+Not fully-quantum; classical computing is augmented using quantum techniques.
+Used to find the best option out of a range of possible solutions, with many use cases across industries.
+
+Quantum-inspired algorithms will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
+Quantum-inspired algorithms could bring innovative solutions and approaches to product development. It could also reduce time to market and optimize customer delivery.  
+Solving optimization problems faster
+
+
+The applicability of quantum algorithms to classical systems are limited by the short coherence time of noisy quantum hardware in the so-called Noisy Intermediate-Scale Quantum (NISQ) era and the difficulty in executing the input and output of classical data.
+
+Other roadblocks toward practical implementation include limited number of qubits, limited connectivity between qubits, and large error correction overhead.
+Experimental phase- Only a few use cases in proof of concept stage
+
+CIOs should view quantum computing as a competitive advantage, as new quantum-inspired algorithms could bring innovative solutions and approaches to product development. It could also reduce time to market and optimize customer delivery.  
+
+Additionally, waiting or ignoring quantum computing might place intellectual property (IP) and patent portfolios at risk. Early organizations will have the competitive advantage by patenting quantum inspired innovations within their specific domains. For example, a rival company could develop a quantum inspired innovation that improves Monte Carlo simulations by 1,000% or a pharmaceutical company could shorten the time to market for new drugs.
+
+Gartner predicts that by 2023, 20% of organizations will be budgeting for quantum computing projects, compared to less than 1% today. CIOs should look for potential opportunities from quantum computing and be ready to help the business leverage them.
+
+--------------
+
+QUANTUM COMPUTING
+
+Quantum computing uses quantum-mechanical phenomena to execute operations on data. A theoretical concept born in the early 1980s, quantum computing's first technological implementations were demonstrated 15 years later. Since then, the Quantum computer has not yet reached the mainstream, though tremendous advances have been emerging on both the hardware and application sides.
+
+
+
+Large-scale Quantum computers are not expected before five to ten years. In the meantime, industry efforts are focused towards mid-scale Quantum processors, or accelerators, with sufficient computing power and reliability to provide a Quantum advantage on some difficult computing problems.
+
+While science and industry have had their doubts about building Quantum processors for decades, the last three years have seen a giant leap forward thanks to impressive advances and huge investments from public actors as well as private IT giants like IBM, Google and Microsoft. 
+
+Logistically, quantum computers are difficult to maintain and require specialized cryogenic environments. They also need calibration several times per day. For most organizations, this is neither feasible nor affordable - quantum hardware alone comes in at at least $10 million.
+
+Enterprises interested in quantum computing should leverage quantum computing as a service (QCaaS) to minimize risk and contain costs. According to Gartner, by 2023, 95% of organizations researching quantum computing strategies will utilize QCaaS.
+
+CIOs should start experimenting and looking for potential opportunities from quantum computing now, even though large-scale quantum computers are not expected in the short-term. They should also start looking for quantum experts. These opportunities will need to be fully integrated with traditional IT, and will require new cross-collaboration from research scientists, computational data scientists and quantum data scientists. 
+
+
+
+-------------------
+
+NEUROMORPHIC COMPUTING
+
+Neuromorphic computing is not just a way to keep devices on the same increasing performance trajectory after Moore's Law expires but the brain-inspired architecture will also enable machines to support dynamic learning in the context of complex and unstructured data that silicon chips can't and, in addition, they will have much lower power consumption than conventional computation.
+
+Neuromorphic Computing refers to computational paradigms inspired by the way human brain processes information and hence it is intended to mimic neuro-biological architectures similar to those of nervous systems of living beings to provide new ways of information representation, adaptation to change, fault-tolerance, and to incorporate learning and self-development capabilities to computation. At the architecture level, there are many flavors of neuromorphic system design. Their implementation varies in a large spectrum with the following two ends:
+
+Customization of general-purpose CPU with data paths optimized for the execution of mathematical approximation of neural networks.
+
+Direct digital or analog implementation of networks of relatively simple neural models.
+
+Neuromorphic Computing Systems are dedicated to the analysis of large-scale data in search of complex patterns and/or in recognizing known/novel features.
+Neuromorphic can address a large spectrum of applications including climate analysis, exploitation of physics experiments, search for novel features in genomes, protein structure prediction in pharma, etc. 
+
+
+Machine Learning software is already implemented on classical hardware to tackle problems with complex and noisy datasets that cannot be solved with conventional 'non learning' algorithms. Considerable progress has been made recently in this area using parallel processors potentially enhanced with acceleration technologies. This implementation with its limitations, however, represents only an intermediate step towards neuromorphic computing.
+
+For High-Performance Computing (HPC), the American Department of Energy (DoE) has set 2021 as the target date for first exascale systems with one designed on a novel architecture, and neuromorphic computing is a strong candidate to provide that new technology. Based on this objective, we can expect that by 2025 neuromorphic chips will integrate cyber-physical systems to play an important role in a large spectrum of industrial applications (transportation, medicine, manufacturing, space exploration, etc.) and will help to drive the growth of the Internet of Things (IoT).
+
+--------------------
+
+DNA STORAGE
+
+The creation of digital information is rapidly outpacing conventional storage technologies. DNA may provide a timely technological leap due to its high storage density, longevity, and energy efficiency. In a generic DNA-based information storage system, digital information is encoded into a series of DNA sequences, synthesized as a pool of DNA strands, read by DNA sequencing, and decoded back into an electronically compatible form.
+
+Recently, a growing number of universities and research institutions have focused on implementing and improving each of these four steps.
+
+DNA data storage is defined as the process of encoding and decoding binary data to and from synthesized DNA strands. To store a binary digital file as DNA, the individual bits are converted from 1 and 0 to the letters A, C, G, and T - the four main compounds in DNA. To recover the data, the sequence A, C, G, and T representing the DNA molecule is decoded back into the original sequence of bits 1 and 0.
+
+ 
+ 
+ Ability to store massive quantities of data in media having small physical volume. Using DNA Storage, all the digital information currently existing in the world could reside in four grams of synthesized DNA.
+ 
+Longevity: Because DNA molecules can survive for thousands of years, a digital archive encoded in this form could be recovered by people for many generations to come. This longevity might resolve the troubling prospect of our digital age being lost to history because of the relative impermanence of optical, magnetic, and electronic media.
+
+Scientists have long touted DNA’s potential as an ideal storage medium. If successful, DNA storage could be the answer to a uniquely 21st-century problem: information overload.
+
+The world has produced 4.4 zettabytes of data in 2015; that's set to explode to 160 zettabytes each year by 2025. Current infrastructure can handle only a fraction of the coming data deluge, which is expected to consume all the world's microchip-grade silicon by 2040. DNA has an information-storage density several orders of magnitude higher than any other known storage technology. For instance, formatting every movie ever made into DNA; could be smaller than the size of a sugar cube - and it could last for 10,000 years.
+
+Cost, however, is still a limitation. Sequencing—or reading—DNA has gotten far less expensive in the last few years, but the economics of writing DNA remain problematic if it’s going to become a standard archiving technology. DNA-synthesis companies like Twist Bioscience charge between 7 and 9 cents per base. 
+
+In March 2018, University of Washington and Microsoft published results demonstrating storage and retrieval of approximately 200MB of data. The research also proposed and evaluated a method for random access of data items stored in DNA. In March 2019, the same team announced they have demonstrated a fully automated system to encode and decode data in DNA.
+
+------------
+DNA (MOLECULAR) COMPUTING
+
+DNA Computing will offer an alternative to silicon-based systems that will potentially be faster, smaller and more energy efficient for some specialized problems, potentially offering massive parallelism, massive storage and high levels of Artificial Intelligence alongside low-waste and low-energy usage. DNA computing may also provide a whole new field of innovation in healthcare and life sciences, such as for detecting cancerous activity within a cell and releasing an anti-cancer drug upon diagnosis.
+
+DNA Computing is one of the ways currently explored to solve combinatorial problems. It consists in coding a problem instance with DNA and use classical molecular biology to simulate the calculus.
+
+The slow processing speed of a DNA computer is compensated by its potential to make a high amount of multiple parallel computations. This allows the system to take a similar amount of time for a complex calculation as for a simple one. 
+
+DNA computing may be used for executing calculations that require extreme parallelism, which can be achieved through the billions of molecules interacting simultaneously with each other, and solving problems that cannot be deterministically solved in polynomial time.
+
+This computing system may provide advanced bio-templates for bacterial and viral analysis, sparking other biomechanical technologies since they are currently the only self-replicating computing technology known.
+
+
+The computing system using DNA relies on data encoding mechanisms that are fundamentally different than conventional computing ones. While electrical charges are manipulated by classical computer in binary form, the information is encoded in DNA chemical basis in quaternary form (A, T, C and G bases).
+
+The extreme slowness of this process (response times are counted in minutes, hours or even days) is compensated by the massively parallel capabilities: several billions of molecules are interacting with each other. 
+
+These alternative computers have a number of potential use cases, primarily performing living processes based on complex biomolecular interactions involving biomolecules coded by our DNA. 
+
+With DNA computing on course to impact Health and Life Sciences first, especially when combined with other areas of genomics (such as gene editing), it would be recommended that organizations in these industries ensure they keep abreast of latest advances; other industries, meanwhile, should understand biocomputers at a high level at this stage. DNA computers are at their initial phases of R&D, so business impact is still far off.  
+
+
+
+
+
+------------------------
+
+SWARM COMPUTING
+
+Swarm computing directly addresses new business models around digital markets by creating novel opportunities at the intersection between people, businesses and things. It forces existing offerings that have emerged as part of a centralization paradigm to evolve into a hybrid decentralized and autonomically managed environment.
+
+While Edge computing is the initial step towards the decentralization of computing, swarm computing will consolidate this trend by exploiting IoT devices' increasing rich computing and storage capacities. Combining complex multi-Cloud architectures with Edge computing will enable swarm computing scenarios to develop. 
+
+Swarm computing is the emergent collective intelligence of groups of simple agents having characteristics of self-healing, self-configuration and self-optimization. It is a group of similar elements (the swarm) behaving through mutual interaction to achieve an outcome as a collectivity. Learning from nature in the man-made world, swarm computing combines network and Cloud capabilities to create on-demand, autonomic and decentralized computing. 
+
+Swarm computing is envisaged as an evolution of current IoT, Edge and Cloud computing environments, taking advantage of the computing, network and storage capacities that more complex mobile IoT devices will bring. Some identified scenarios such as smart robotics and connected vehicles are developed at the technological level, while others such as smart homes, smart grids and intelligent transportation are set at the application level.
+
+Cloud computing is mainstream today, and there is a significant technology push toward the adoption of IoT and Edge computing. Swarm computing will be the next step after these are consolidated in the market, relying on existing best practices for Edge and Cloud computing to enhance the mobility, temporary control and data sharing of connected devices.
+
+Businesses should be encouraged to investigate swarm computing today to fully exploit it tomorrow.
+
+-----------------
+
+
+
+
+
+
 
 
 
