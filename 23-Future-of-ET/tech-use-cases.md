@@ -3803,9 +3803,195 @@ Quantum computers will, at some stage in the future, be able to compute at speed
 
 Quantum optimization is expected to be one of the most powerful applications of quantum computing, with applications across a large range of industries, but it is also one of the most nascent, with a maturity horizon of over 10 years. This explains why there are very few use cases, and why those use cases are essentially proof of concepts. Nevertheless, businesses should start experimenting, mapping use cases and getting the right talent now in order to be ready when the technology is available.
 
+
+-------------
+
+QUANTUM INSPIRED OPTIMIZATION(USING TRADITIONAL COMPUTE)
+
+Businesses are constantly striving to solve optimization problems, searching for the best (and most efficient) combination among many possible combinations of variables. Classical computers take thousands of years to calculate the optimum solutions to these problems on a large scale; quantum computers could theoretically do it in several hours or less.
+
+While fully-quantum solutions are still in the distant future, current use cases are offering a new and complementary option that leads to more unique solutions.Today, businesses should be preparing for a future of quantum computing algorithms, while getting the most out of present classical computers and quantum-inspired algorithms.
+
+
+Quantum-inspired optimization refers to the use of optimization algorithms that can be implemented and run on conventional computers, whose design is inspired by concepts from quantum information processing. Optimization problems are challenges where the goal is to find the best decision out of a large number of possible decisions.
+
+Characteristics
+Quantum-inspired methods use parallelization and problem-reformulation in algorithms and hardware
+Not fully-quantum; classical computing is augmented using quantum techniques.
+Used to find the best option out of a range of possible solutions, with many use cases across industries.
  
+
+
+Quantum-inspired algorithms will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
+Enterprises with increased optimization capabilities will be able to drive new cost savings and revenue generation opportunities using QC techniques.
+Hedge fund quants in large banking institutions are already devising quantum algorithms that they believe will give them measurable competitive advantages
+
+
+Experimental phase. Only a few use cases in proof of concept stage
+Increase Qubit quality and decrease noise and errors
+Hardware design and the physical operational constraints present major engineering restrictions: cryogenics and the need for extreme isolation
+Build algorithms that are resilient to the random noise and can solve problems faster than classical computers.
  
+
+
+
+Optimization problems are typically difficult yet valuable real world problems to solve, and they exist in almost every field in which businesses operate. Examples of optimization problems include finding the most cost-effective route for shipping goods, determining the most efficient way to extract resources from a mine, seeking the most productive resource allocation involved in a production line, looking for innovative pharmaceutical drug discovery methods, or identifying a better way to manage risk in financial portfolios.
+
+Business experiments are already underway in the logistics and financial services sectors and are expected to increase in the next 2-3 years. For logistic companies, quantum-inspired methods offer new approaches to solving some of the hardest classical problems. Determining how to produce and package items efficiently, which products to ship when, using which delivery system, the route to take, and where to place the item on the shelf on arrival are all examples of hard optimizations problems. For financial services institutions, quantum inspired techniques will increase optimization capabilities for solving optimal arbitrage calculation, risk portfolio optimization, credit scoring and classification and clustering of stock market data, among others.
+
+Although developers and researchers working on quantum-inspired optimization face many difficulties such as the technology and expertise required, and fully-quantum optimization remains some time away, the potential for quantum-inspired optimization across many industries is vast.
+
+---------------------
+
+QUANTUM INSPIRED MOLECULAR COMPARISON
+
+Quantum computing has the potential to help design new materials and industrial processes by precisely predicting the behavior of molecules, or even discovering new molecules. This could lead to the design of more efficient electric car batteries, new drug discovery, better artificial fertilizer production, carbon capture for air pollution, among so many other things. Quantum algorithms are the tools that tell quantum computers what to do; Trotter-type algorithms, for example, are used for molecular simulation or comparison, however their susceptibility to noise means that these applications won’t be practical for many years. In the meantime, the performances of classical algorithms are being enhanced by creating new, quantum-inspired algorithms.
+
+
+Quantum-inspired molecular comparison refers to the use of structural molecular comparison algorithms that can be implemented and run on conventional computers, whose design is inspired by concepts from quantum information processing. Molecular comparison is a crucial part of early-phase drug design and discovery that involves intensive computational methods to review molecule matches and predict the positive effects of a therapy or drug while reducing negative side effects.
+
+Characteristics
+Quantum-inspired methods use parallelization and problem-reformulation in algorithms and hardware
+Enhance classical computing using quantum-inspired algorithms (not fully-quantum).
+Perform graph similarity; compare two or more graphs to detect common patterns (e.g. find shared traits in molecules).
  
+
+Quantum-inspired algorithms will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing.
+Solve real life problems faster than classical algorithms. Potential to analyze larger-scale molecules more quickly and cost effectively.
+Predict the positive effects of a therapy or drug while reducing negative side effects.
+
+
+Experimental phase. Only a few use cases in proof of concept stage.
+Increase Qubit quality and decrease noise and errors.
+Hardware design and the physical operational constraints present major engineering restrictions: cryogenics and the need for extreme isolation.
+Build algorithms that are resilient to the random noise and can solve problems faster than classical computers.
+
+
+Today, it takes pharmaceutical companies at least 10 years and often billions of dollars to discover a new drug and bring it to market. Improving the front end of the process with quantum computing has the potential to  dramatically cut costs and time to market, repurpose pre-approved drugs more easily for new applications, and empower computational chemists to make new discoveries faster that could lead to cures for a range of diseases. Furthermore, the quantum simulation of chemical processes could in the future help solve problems in chemistry and thus, for example, give new impulses for materials science, medicine, and industrial chemistry.
+
+Quantum-inspired algorithms will allow for faster progress in molecular comparison. There are many challenges today such as the computing power and speed required, but the first killer quantum computing app could involve solving big chemistry problems, and X expects this to happen in the next 2-5 years. In order to be ready, businesses should start experimenting, mapping use cases and getting the right talent now.
+
+-------------------
+
+QUANTUM MACHINE LEARNING
+
+Quantum machine learning (QML) is an emerging interdisciplinary area at the intersection of quantum physics and machine learning.
+
+Although the perfect quantum computer is currently out of reach, it may be that they aren’t completely necessary. Although noisy, quantum systems can be synergized with conventional computers to perform machine learning in tandem.
+
+
+Quantum machine learning (QML) is a sub-discipline of quantum computing, with the goal of developing quantum algorithms that learn from data in order to improve existing methods in machine learning.
+
+Characteristics
+AI trained to find and exploit pattern recognition and data mining
+Exploit essential features of quantum computation such as quantum superposition or quantum entanglement.
+
+For supervised learning, recent experiments by IBM with MIT show that it is possible to classify large datasets even in the presence of noise. This is good news for scientists trying to bridge quantum computing with machine learning.
+Training AI models to determine which computational tasks should be handled via quantum computing or classical computing methods.
+Quantum neural networks could be used as quantum repeaters and state purification units within quantum communication networks.
+
+Quantum advantage for machine learning is still far off. Yet the methods researchers are advancing could soon be able to classify far more complex datasets than anything a classical computer could handle.
+Reducing noise, which prevents an exact solution without potentially millions of qubits. Capacity (ie. number of qubits required) is therefore also a challenge.
+
+
+In the short-term, machine learning techniques are generally selected for scalability and efficiency. Quantum computing algorithms are not yet advanced enough meaning we are unlikely to see significant increases in speed for these techniques soon. Researchers are currently focused on intractable (“hard”) problems, such as generative models in unsupervised learning, or hybrid models with a quantum subroutine performing the difficult or intractable processing part.
+
+In the long-term, quantum machine learning could have many applications, such as feature mapping, where data is broken down into core components to analyse it in acute detail. Machine learning algorithms could be used to analyse the colour of every single pixel in an image, searching for patterns that might reveal what the picture is depicting. Modern machine learning systems running on a classical computer are actually fairly good at this already, but a quantum computer could provide such a boost that the system would be able to look for the most subtle patterns in huge datasets. This could even create potential challenges for scientists who may not be aware of the patterns and discoveries that they don’t even know exist yet.
+
+In July 2019 awarded a patent for a quantum computing machine learning module. The module trains AI models to determine which computational tasks should be handled via quantum computing, as opposed to classical computing methods. Even if quantum machine learning won’t be real in the next 5-10 years, businesses should start now the experimental phase, mapping use cases and getting the right talent/skills.
+
+-------------------
+
+QUANTUM CHEMICALS SIMULATION
+
+Quantum computers can be used to simulate other quantum systems, such as complex molecules, to predict the outcome of chemical processes. Simulating complex quantum phenomena could be one of the most important applications of quantum computing.
+
+A key envisioned use is simulating molecular properties. In the long run, this can lead to advances in materials improvement and drug discovery. In quantum chemistry, quantum simulators could be used to simulate protein folding (misfolded proteins can cause diseases like Alzheimer’s and Parkinson’s). 
+
+
+Quantum chemistry attempts to understand the complicated bonds and reactions of molecules with the help of quantum mechanics. Many details of chemical processes cannot be simulated even with the largest and fastest supercomputers. By modeling these processes with the help of quantum computers, scientists expect a better understanding of chemical bonds and reactions to apply to drug discovery, materials science and medicine.
+
+Characteristics
+Simulate quantum phenomena to better understand chemical bonds and reactions.
+
+Quantum simulators will enable the quantum approach to computation to advance faster than pure quantum hardware and pure quantum algorithms are currently advancing
+Simulate complex chemical bonds and predict the structures of new drugs, semiconductors, and efficient catalysts.
+Solve materials science problems (e.g. next-gen materials) 
+
+The technology is still at the experimentation phase.
+For quantum chemical simulation, no commercially viable applications expected for the next 2-5 years that cannot already be tackled with conventional computers.
+Increase Qubit quality and decrease noise and errors.
+Hardware design and the physical operational constraints present major engineering restrictions: cryogenics and the need for extreme isolation.
+
+
+The quantum simulation of chemical processes could in the future help solve problems in materials science and engineering, biophysics, chemistry, chemical engineering as well as in many other areas.
+
+In oil&gas, quantum chemical simulation could be used to simulate the refinement of oil or to find proper mixtures for lubrications during well drilling. Quantum chemical simulation will also help to improve the front end of the drug discovery process, dramatically cutting costs and time to market.
+
+Quantum simulators, hybrid mode of operation, and quantum-inspired algorithms will allow to make faster progress in chemical simulation. The first killer app of quantum computers could involve big chemistry problems, and X expects this to happen in the next 2-5 years. In order to be ready, businesses should start experimenting, mapping use cases and getting the right talent now.
+
+------------
+
+QUANTUM NETWORKS
+
+A network where each link has the ability to transfer quantum states coherently and each node is able to process the quantum states, is known as a quantum network. Eventually, such a network will be the base of a quantum internet and will be necessary to connect quantum computing resources for distributed processing, blind computation, etc.
+
+Quantum Key Distribution (QKD) is the simplest application of a quantum network and provides a natural steppingstone to the deployment of the full quantum internet.
+
+
+Quantum Key Distribution (QKD) is the simplest application of a quantum network. It provides a quantum-safe mechanism for key delivery that is independent of advances in cryptoanalysis and computing capabilities, whether classical or quantum and is thus not dependent on algorithmic security.
+
+
+Quantum key generation and distribution has the promise to transform the quality of cryptography at large. 
+The constraints that restricted the applicability of QKD over long distances are being overcome with the recent demonstrations of intercontinental QKD based on space platforms.
+
+The combination of the quantum engineering aspects with advances in small satellites and space based optical communications are expected to produce a global quantum network.
+Telco operators have started to investigate how to secure the communications network in order to eventually move to a quantum internet. 
+
+ 
+
+Completely changing the underlying protocols that encrypt and authenticate networks is an extremely complex and time-consuming task.
+A quantum network is not practical for links that are bridged with underwater cables or where a fiber infrastructure is not readily available. For truly global QKD distribution, free space transmission from a space platform will be needed.
+ 
+
+
+As quantum cryptanalysis advances, new methods discovered may break the current quantum-resistant algorithms since they are still based on the number theory. As a result, in the longer term, cryptologists will need to transition to cryptography that leverages quantum mechanisms instead of number theory and traditional mathematical complexity. These techniques are provably secure in contrast to quantum-resistant algorithms that are only computationally secure.
+
+Unlike conventional cryptography, which is based on number theory, quantum cryptography uses the laws of quantum physics to generate keys and transfer information. Quantum key generation and distribution has the promise to transform the quality of cryptography at large. 
+
+There is a strong imperative to implement QKD to protect government, banking and commercial networks. Getting ready for this change means understanding the implications of the technology, and thinking through the ways that it will be implemented in practice – given the scale and significance of this impact. 
+
+There are additional benefits to beginning this transition early. Encrypted communications and internet traffic are currently collected by many third parties and are secured with non-quantum-resistant standards. If key exchange communications used to establish the encryption are included in the collection of this data, then third parties can hypothetically use a quantum computer to solve for the encryption keys and decrypt any subsequent communications using those same encryption keys. Historically communicated and stored business information protected by current cryptographic methods will be at risk of decryption and exposure. Quantum resilience planning needs to consider the protection of information at rest, in storage and in transit today, particularly in the government, banking and healthcare sectors.
+
+-------------------
+
+QUANTUM-SAFE CRYPTOGRAPHY
+
+Going forward, the task of securing information over networks cannot ignore the rapid developments in quantum technologies. In a post-quantum world, the cryptography ensuring data secrecy and integrity needs to be quantum secure.
+
+Before quantum computers can fully break classic cryptography, cryptologists will need to update classic cryptography with quantum-resistant algorithms (lattice-based and hash-based cryptography) to improve their resiliency against quantum computing cryptanalysis attacks.
+
+The release of quantum-resistant algorithms, also called post-quantum cryptography or quantum-safe cryptography might happen in the short term. In fact, the National Institute of Standards and Technology (NIST) expects to have a new quantum-resistant standard ready between 2022 and 2024.
+
+Quantum-safe cryptography is an algorithmic approach that aims to develop cryptographic primitives that are not vulnerable to the computational capabilities of quantum computers (e.g. lattice-based cryptography, hash-based cryptography, etc).  
+
+Lattice-based cryptographic constructions are the leading candidates for quantum-safe cryptography. Unlike more widely used and known public-key schemes which are easily attacked by a quantum computer, some lattice-based constructions appear to be resistant to attack by both classical and quantum computers. 
+
+Hash-based cryptography is an alternative quantum-proof cryptographic scheme that is primarily focused on digital signatures. These digital signatures are not number theory problems and are impervious to mathematical optimization techniques that quantum attacks use to break current cryptography. 
+
+A new quantum-resistant standard will be released by NIST between 2022 and 2024
+Global 2000 companies in every industry must begin now to refresh the technologies underpinning cryptography. This is the only way to prepare for a future filled with quantum computers that can break classical cryptography.
+
+At an ecosystem level, this impending change will drive application, software and hardware vendors to incorporate quantum-safe solutions into their products—or risk losing their competitive advantage.
+
+
+Quantum-safe cryptography is much more computationally intensive than the previous non-quantum-safe methods and there is, as yet, no agreed standard.
+Lattice-based public key encryption algorithms do not scale particularly well. However, as scale is a digital business imperative, we expect NIST to select an average-case lattice-based algorithm as the next standard.
+
+
+Cryptographic security today relies on the computational difficulty of particular mathematical problems. Quantum computing will likely be able to solve these far more easily, meaning that many organizations will be at risk. Furthermore, too many of these organizations are not fully aware of the scope of cryptographic systems, or their dependence on them, making it difficult to fully assess the risk and potential impact of post-quantum algorithms. Current algorithms such as Rivest-Shamir-Adelman (RSA) and elliptic-curve have been unchallenged for some time, and questions may arise over where there has been enough planning for the post-quantum world.
+
+
 
 -------------------
 
@@ -4475,7 +4661,6 @@ Difficult to scale and gain widespread adoption.
 
 Although Bitcoin is the most adopted and proven blockchain platform in production, the Ethereum platform has recently gained credibility and attention. Ethereum is seeing adoption of both its technology and crypto asset and is seeing increased engagement on open sourced and enterprise projects.
 
-Accenture is helping clients develop on enterprise grade instances of the Ethereum network, and helping to set the standards for development as a founding member of the Ethereum Enterprise Alliance.
 
 The rise of Ethereum has helped accelerate an immense amount of research from academia and international corporations, bringing the blockchain opportunity to a multitude of industries beyond just payment transactions. Companies are adapting and advancing the core technology to suit their needs. While some are exploring digital currency and the open-source, free-for-all ecosystem of public blockchains (of which Bitcoin and Ethereum are prime examples), far more are concentrating on how the technology underpinning those systems can add value to their businesses. Many are concocting “permissioned” or “private” blockchains, designed for a more centralized architecture where only authorized operator can join.
 
@@ -4579,7 +4764,7 @@ Semantic Interoperability: Where the data exchanged between two or more systems 
 
 
 Organizations are exploring the use of APIs in a number of domains for interoperability and modularity in complex systems.
-Second generation open source interoperability solutions (including Accenture-owned capabilities) are currently underway for permissioned systems to engage with two or more DLT platforms.
+Second generation open source interoperability solutions are currently underway for permissioned systems to engage with two or more DLT platforms.
 Blockchain Platform-as-a-Service (bPaaS) efforts can potentially enable an interoperable blockchain ecosystem as they aim to be protocol agnostic.
 Potential solution is sidechains. The sidechain concept has evolved into developments on payment and state channels.
 
@@ -4660,7 +4845,7 @@ Establish viable cryptocurrency exchanges
 Set up transactional mechanisms for clearing and settlement
  
  
-While cryptocurrencies and specifically the investment opportunity enabled have drawn the most attention in the blockchain ecosystem, cryptocurrencies have minimal impact on Accenture or our clients. As most cryptocurrencies exist on public blockchains, early enterprise use cases will have little alignment (see Enterprise Blockchains or Blockchain as a Service for more details).
+While cryptocurrencies and specifically the investment opportunity enabled have drawn the most attention in the blockchain ecosystem, cryptocurrencies have minimal impact on our clients. As most cryptocurrencies exist on public blockchains, early enterprise use cases will have little alignment (see Enterprise Blockchains or Blockchain as a Service for more details).
 
 As the cryptocurrencies market develops, it will be interesting to watch progress over the next few years, especially with introduction of Facebook Libra (see use case example on next slide). The bull case for cryptocurrency would include highly adopted, decentralized applications that consumers and corporations would be leveraging. One example is Storj as an alternative to AWS. While this is not an immediate consideration, our customers should be cognizant of this potential outcome.
 
@@ -5521,7 +5706,7 @@ Across industries, T&O leaders are coming to the realization that the traditiona
 
 The ultimate aim of adaptive learning is to enhance the learning experience and empower employees. These changes will lead to tangible results such as improved learning outcomes, re-skilling and higher retention rates, all of which are important accountability measures in education & training.
 
-Due to the culture change required to implement adaptive learning platforms at scale, the rate at which they have been implemented by organizations so far remains low. Nevertheless, Accenture expects transformative benefits from adaptive learning that will achieve mainstream adoption in two to five years.
+Due to the culture change required to implement adaptive learning platforms at scale, the rate at which they have been implemented by organizations so far remains low. Nevertheless, X expects transformative benefits from adaptive learning that will achieve mainstream adoption in two to five years.
 
 --------------------
 
@@ -6758,8 +6943,7 @@ By 2020, predictive and prescriptive analytics will attract 40% of enterprises' 
 
 Demand forecasting: analytical capabilities and tools to segment and assign the best forecasting profile to improve predictions of future sales by as much as 10-20 percent. Inventory optimization: reduce inventory by up to 20 percent and provide dynamic safety stock and replenishment order sizes, while ensuring customer service levels. Spare parts optimization: helps inventory reduction by 20-40 percent.
 
-Historically, companies have invested billions to personalize their customer experiences. Traditional investments have paved the way to the next level of personalization, which infuses tailored experiences with customer intelligence. Such intelligent personalization aims to address consumers’ demands for tailored experiences. Accenture Strategy research shows, for example, that 48 percent of consumers expect specialized treatment for being a good customer. Intelligent personalization also makes good business sense.
-
+Historically, companies have invested billions to personalize their customer experiences. Traditional investments have paved the way to the next level of personalization, which infuses tailored experiences with customer intelligence. Such intelligent personalization aims to address consumers’ demands for tailored experiences. 
 ------------------
 
 CONVERSATIONAL INTERFACES
