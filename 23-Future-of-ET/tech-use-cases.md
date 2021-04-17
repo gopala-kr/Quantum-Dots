@@ -3468,6 +3468,60 @@ At present, 3D printed electronics remains at the ‘’improving” stage. It h
 
 
 
+4D PRINTED MATERIALS
+
+Rapid innovation has taken place in the field of printing technology, expanding in recent years to include smart materials. Pilots for 4D printing, although in its infancy, suggest many compelling case studies. It is estimated that the 4D printing market was worth almost $65m in 2019 according to GlobalData, and is expected to grow at a CAGR of 33.2% of the next 6 years, to $360m in 2025.
+
+4D Printing refers to 3D printed materials that can change shape or properties in a predicable way over time based on external stimuli such as  exposure to water, air, heat, or an electric current. The concept of ‘shape-shifting’ was developed through collaborative efforts between academia and technology firms – this technology has many potential applications in industries such as automotive, aerospace & defense and medical. Dynamic and self-assembling materials are disrupting the way engineers think.
+
+Characteristics
+Ability to change shape/properties over time, based on external stimuli
+Commonly uses programmable carbon fiber, wood grain or textiles (programmable carbon fiber has high stiffness, low weight, and tensile strength, so is beneficial for many industrial applications)
+
+The growth of new technology at the intersection of smart materials and 3D printing is an exciting development. The 4D printing market is primed to grow thanks to scientific advancements (biology, chemistry, electronics etc.) and new printing techniques. Some key developments in recent years have caught the headlines: The Lawrence Livermore National Laboratory produced research on “field responsive mechanical metamaterials” (ferromagnetic particles injected into 3D lattice structures to demonstrate stiffening properties when exposed to magnetic fields); the City University of Hong Kong has developed technology for introducing shapeshifting capabilities to ceramic materials; researchers at Rutgers University have created “tuneable metamaterials” using shape-shifting polymers and 3D printing; DARPA’s Engineered Living Materials project is using 4D printing to develop “living biomaterials that combine the structural properties of traditional building materials with attributes of living systems”.
+
+4D printed materials is an improving technology segment, but looking forwards, Defence will likely be a key growth driver from an industry perspective. Healthcare will also be home to many 4D printing use cases – it could be used for tissue engineering, self-assembly human-scale biomaterials, or nanorobots for chemotherapy. It is clear that these initiatives are in their infancy and not ready for widespread use, but the potential for this technology in the medical field is significant. 
+
+Leaders within business, R&D, IT or with remits for product innovation should be exploring 4D printing opportunities today, and promoting learning opportunities internally. There are significant challenges when it comes to building 4D printing capabilities. R&D partnerships will help in the development of proofs of concept, while strategic partnerships will help when it comes to navigating a complex regulatory environment, to develop business cases and improve product specifications.
+
+
+
+-----------------
+
+E-TEXTILES FOR BIOMETRICS
+
+The emergence of e-textiles that can track and analyse biometric information opens up a world of possibility for a whole host of new applications, particularly in sports and recreation, healthcare and in military-related functions.
+
+Some examples of applications that are emerging in the military include E-textiles that could supply specific muscle compression to soldiers in response to specific biometric conditions, to ease pain or help to increase speed.
+
+Products in sports and fitness industries could give athletes performance enhancing muscle vibration technology or even release topical painkillers or moisturizers.
+In healthcare, E-textiles could release medication to patients in response to biometric conditions and play a role in detecting early warning signs of disease or medical emergency.
+
+In fashion/recreation, we could see clothing that changes color or luminesces based on biometric data, or even releases perfume/cologne or other pheromones if bodily biometrics signal romantic attraction.
+
+Opportunities aren’t limited to those that are clothing-related – in transportation, smart fabrics could be incorporated with car seats to monitor driver attention, health or other useful information.
+
+Innovation in e-textiles and other technologies such as the Internet-of-Things is creating a flurry of opportunities for companies in the smart fabrics and biometrics space. Biometrics are a plentiful data source – physical stress levels, breathing patterns, calorie/energy burn rate and many more variables can be tracked and analysed. Psycho-emotional data, which can indicate emotions or predispositions, can also be measured.
+
+There will be pressure on regulators to outline the scale of responsibilities for organizations in this area, and what the limits of the technology should be. Data security and privacy issues will be prevalent, particularly if companies opt to sell user data to marketing, insurance of healthcare providers. The measurement of emotions is an exciting new frontier for this market – be it providing the ability to share mood-related status on social media, or give customized retail recommendations based on predispositions when shopping – but a potentially controversial and risky one for companies to navigate. For these reasons, e-textiles for biometrics is an emerging technology segment.
+
+There have been limited numbers of commercial successes to-date, due to the immaturity of the technology and a lack of confidence in the accuracy of measurements, particularly in industries such as healthcare where the consequences for incorrect results are large. Markets like sports and fitness have seen more activity, as there is less risk. E-textiles and biometrics companies will benefit from partnerships, with companies in fashion or retail for example, in order to achieve scale. If they can successfully gain consumer trust and demonstrate consistently accurate results, these companies will succeed in the new markets.
+
+---------------
+
+FLEXIBLE BATTERIES
+
+Flexible batteries have the potential to achieve significant volume uplifts and weight savings compared to traditional batteries. They have longer operating lifetimes and quicker charging times, opening the door for wider adoption in products such as mobile devices, PCs, and the Internet-Of-Things.
+
+The batteries market has been dynamic in recent years. New form-factors have emerged – flexible, ultra-thin and stretchable devices – while manufacturers are competing to offer new solutions, such as for electric vehicles or energy grid applications. There is a growing focus on flexible batteries due to the proliferation of Internet-of-Things devices, wearables, environmental sensors and other technologies which require features and designs that traditional batteries cannot provide – such as size and power. This continues to push global battery suppliers to innovate. That said, currently the technology is nascent and todays implementations are only achieving modest performance improvements.
+
+Leaders in relevant industries should therefore be evaluating flexible battery technology and making system design changes in preparation where necessary. Cost is expected to be a key growth driver or inhibitor; flexible batteries will become more commercially competitive and productions volumes increase if competitive cost targets are met. The pace of innovation will of course be key for this emerging technology segment. Companies like Panasonic, LG Chem and 3M are working to develop silicon anode technology. Graphene could also improve the performance of such batteries; research at Lawrence Berkeley National Laboratory has shown potential gains in energy density using lithium sulphur graphene chemistry, for example.
+
+5-10 years down the road, flexible batteries are set to play a key role in building a more green and more efficient energy supply, in addition to supporting jobs and industry growth in battery manufacturing. Balancing high performance with the minimizing of environmental impact will be the key to success.
+
+-------------------
+
+
 
 
 
