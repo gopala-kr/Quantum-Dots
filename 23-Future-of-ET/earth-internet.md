@@ -410,6 +410,42 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 - [5G Ecosystem Landscape](https://tecknexus.com/5g-ecosystem-landscape/) - Sept - 2020
 
 ![EgiUs90WsAEvoGX](https://pbs.twimg.com/media/EgiUs90WsAEvoGX?format=jpg&name=large)
+
+-------------
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp1.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp2.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp3.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp4.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp5.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp6.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp7.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp8.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp9.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp10.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp11.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp12.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp13.png)
+
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp14.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp15.png)
+--------------
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp16.png)
+
 ---------------
 -------------------
 
