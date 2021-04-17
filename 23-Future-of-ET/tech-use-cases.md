@@ -4144,6 +4144,264 @@ In terms of use cases, training continues to remain as one of the most popular e
 
 
 
+AUGMENTED MEMORY AND COGNITION
+
+Augmented cognition is a form of human-systems interaction in which a tight coupling between user and computer is achieved via physiological and neurophysiological sensing of a user's cognitive state. This interactive paradigm seeks to revolutionize the manner in which humans engage with computers by leveraging this knowledge of cognitive state to precisely adapt user-system interaction in real time.
+
+Augmented cognition could potentially be very useful if applied to situations in which people are required to make quick decisions within a demanding or stressful work environment such as aerospace, homeland security and military operations.
+
+Augmented memory shows high potential in healthcare, in particular to ease the symptoms of brain disease and neurological disorders (e.g. amnesia).
+
+Augmented cognition is based on theoretical models of cognitive processes, but it is difficult to imagine how scientists could enhance processes that are still not fully understood (e.g. Working Memory).
+
+Skeptics say that augmented cognition is science fiction while researchers working in this field, on the contrary, affirm augmented cognition will be accomplished in a 5 to 10 years timeframe.
+Exposure to potential hackers of the human body.
+
+Human augmentation theory is grounded in the view that human information-processing capabilities are the weak link in the symbiotic relationship between humans and computers. Here there are several “bottlenecks” including sensory memory, Working Memory, attention, and executive function. As computational prowess continues to increase, human and computer  capabilities are ever more reliant on each other to achieve maximal performance. Demanding or stressful conditions call for expertise not from a specific human or computer system, but from a linked human–machine dyad. A dyad that is functionally a human and their computational system, which through shared experience and insight into how they both function, will jointly deliver solutions at a previously unimagined rate.
+
+Augmented cognition thus seeks to 1) enhance sensory perception by exploiting multiple sensory channels for increased input capacity and 2) support simultaneous processing of competing tasks by allocating data streams strategically to various multimodal sensory systems while maintaining multimodal information demands within working memory capacity.
+As wearable device sensors have become ubiquitous, there has been a rapid progression along the lines of detecting physical, emotional and cognitive states of humans. While invasive techniques provide better results, it is expected that the noninvasive technologies will grow at a quicker rate.
+
+--------------
+
+AUGMENTED HEALTH, AUGMENTED IMMUNITY
+
+Augmented Health refers to the use of all relevant physical, cyber, and social data obtained from wearables, AR/VR, Internet of Things (IoT), mobile applications, Electronic Medical Records (EMRs) to offer a more targeted and personalized medicine. The exploitation of all relevant data, relevant medical knowledge, AR/VR and AI techniques will extend and enhance human health and well-being.
+
+Augmented Immunity refers to advances in human genetics and immunotherapy  such as disease interception, gut microbiome, cell therapy and immuno-oncology.
+
+Repair/immunize biosystems from disease
+Extend or improve the limits of human perception with implant hardware ranging from microchips to magnets
+Transform big data into actionable smart data. Use low-cost sensors to continuously collect multimodal data about the patients physiological and psychological condition, activities (including meals, exercise and sleep), and about the surrounding environment
+
+Recent studies indicated that the volume of healthcare data has reached 150 exabytes in 2017. However, there are several challenges to be overcome in making sense of this large amounts of data. For instance: ensuring the reliability and quality of the data as well as proper interpretation of data that is diverse and multimodal.
+Ethical and legal issues will come hand in glove with Augmented Humanity. Technologies that so profoundly impact human health and performance will create a lot of controversy and debate.
+
+Augmented Health is an entirely new approach to human health compared to the current episodic system of periodic care primarily centered around healthcare establishments. It involves continuous monitoring, engagement, and health management, where rather than treating a patient for a disease, the focus shifts to involving the patient in preventing disease, predicting possible adverse outcomes and preventing them through proactive measures, and keeping them healthy and fit with lifestyle changes. Rather than chronic disease management, it takes a holistic approach to improving the overall quality of life.
+
+Innovative technologies to mimic the cellular environment and quantitative methods to study single-molecule to multicellular events are essential tools for the biomedical community.The revolution of cellular medicine has the ability to augment our immunity and longevity by amplifying the body's ability to fight disease, heal, and regenerate itself. Most augmented immunity therapies such as disease interception, gut microbiome, cell therapy and immuno-onocology are still embryonic and are expected to be transformational in the next five to ten years.
+
+---------------------
+
+AUGMENTED BIO-STRUCTURE, BIOPRINTING
+
+Augmented biostructure refers to the repair or replacement of human tissue (e.g., skin, cartilage, bones and blood vessels) as well as organs. The advances in 3D bioprinting is a major contributor to this biotech area. 3D bioprinting involves the utilization of 3D printing–like techniques to combine cells, growth factors, and biomaterials to fabricate biomedical parts that maximally imitate natural tissue and organs features. Bioprinting covers a broad range of biomaterials including synthetic and biological ones.
+
+Main opportunities are in life science R&D and human transplants. The latter is one of the ultimate transformative breakthroughs of healthcare's digital business era.
+The ability to precisely personalized human tissues substantially augments the array of therapeutic options for a wide range of patient injuries and diseases. Bioprinted organs using the patient's own cells are hoped to have the benefit of avoiding the rejection of implanted/transplanted tissue, and the costs of a lifetime of anti-rejection drugs.
+
+Creating transplantable organs has all the complexities of human tissue bioprinting and many others, such as functional vascular systems. Challenges include how to test how well the organs will integrate in the body (avoiding rejection issues) and how to test and prove the long-term viability and effect of the organs.
+
+Very complex scientific, technical, regulatory and adoption issues are also in play. Very profound potential business, funding, ethical and personal health impacts also arise when all of the other challenges are finally conquered.
+
+Bioprinting is still an embryonic market but has the potential to be disruptive. The real challenge isn't the bioprinting technology itself, but rather the scientific assumptions and analysis behind it. In order to improve the outcomes from 3D bioprinting, informatics groups must close the loop between the physical testing and informatics-based simulations.
+There is a current and currently bigger market for production of 3D printed tissues for life science research and drug testing. This business is providing some of the needed early revenue for startups, targeting human tissue and organs 3D bioprinting.
+
+Nevertheless, the impact on medicine is expected to be transformational in five to ten years. Bioprinted organs using the patient's own cells are hoped to have the benefit of avoiding the rejection of implanted/transplanted tissue, and the costs of a lifetime of anti-rejection drugs.
+
+-------------------
+
+HYPER-CONNECTIVITY
+
+Hyper-connectivity refers to the state of being constantly connected to people and systems through smart devices and (sometimes) software. New interaction designs — from gesture and expression to voice —  are transforming digital usage patterns and creating entirely new usage contexts. The continued hyper-connectivity of people, services and smart things will only increase as the smart device ecosystem grows, augmenting human potential.
+
+Conversational platforms operating across the smart ecosystem — The shift to voice interaction with services and knowledge bases is underway. By 2020, VPAs will facilitate 40% of mobile interactions, and the postapp era will begin to dominate.
+
+Moving computing power closer to edge devices. The architecture to support this is delivered by what is called "the fog" (a low-lying "cloud" closer to the ground/edge).
+Biometric authentication and payment methods via wearables. Authentication techniques, such as iris and gait recognition from wearables and vein analysis, are in the rapid prototype stage.
+
+The combination with tactile interfaces, such as touch and haptics, can bring well established interactive gestures, such as pinch, swipe and expand, to articulate a new human-machine interface blend between gestures and augmented reality.
+
+Load on the network — Hi-Fi sensor and rich-media streaming to the cloud from smartphones, wearables, connected homes and automobiles does not scale.
+
+Security and privacy — Not all consumers wish to store sensitive personal data about health and family matters in the cloud. Many will prefer to store personal information locally within a home or work environment for reasons related to data ownership, privacy, data theft and data loss.
+
+For the last 15 years, consumers have seen a transformation from the communication technologies that resulted in most people being ‘always-on’. Today we are heading towards more extreme forms of hyper-connectivity through increasingly more diverse sets of communication channels and human-machine interaction. The World Economic Forum in 2014 stated that Hyperconnectivity will be to the 21st Century what the internal combustion engine was to the 20th Century.
+
+A richer array of new devices is creating entirely new digital experiences that would otherwise have been pointless or impossible on smartphones. We see new experiences being woven into kitchen appliances, healthcare and other areas of consumers' lives. Car tech has unlocked entirely new insurance models for companies leveraging IoT, while connected-home products provide new levels of safety and security using cameras, facial recognition and smartwatch alerts. Thanks to haptic technology, for instance, users can have a physical experience, making the technology more interactive. This will revolutionize the gaming experience but also be useful in medicine and every-day life.
+
+Areas that will become relevant in the next 5 to 10 years include Connected Personal Hearing Devices, Spatial Computing, Electrovibration or Ultrahaptics and Speech-to-Speech Translation.
+
+--------------------------
+
+AUGMENTED MOBILITY (EXOSKELETONS)
+
+An exoskeleton is a wearable device powered by actuators that is worn on the entire body, or on just the upper or lower extremities. It uses sensors and mechanical or hydraulic systems to assist, enable or enhance human movement such as walking, lifting and repetitive work tasks.
+
+Rapid advancements in robotics and battery technology will drive growth in exoskeletons, especially for manufacturing, military, construction, healthcare and warehousing environments.
+
+Increased focus on worker safety will drive exoskeleton use in construction, manufacturing and warehousing environments.
+
+Augmentation of human strength and endurance will play significant role in adoption. Making hard tasks easy, saving time, and improving quality and motivation will reduce turnover and improve economic returns and outcomes.
+
+Cost and battery life are two limiting factors to broader adoption. Advances in 3D printing promise to reduce unit costs on devices that act as human prosthetics. Low-cost customization is key.
+
+Exoskeletons are highly customizable to specific use cases and operating environments. Without increased interoperability to drive multiuse applications for single devices, mass commercial or military adoption by target markets is still 10 years away.
+
+Because exoskeletons are worn, matching the size of the device and wearer matters for most applications, and often requires at least a semicustom fit. This limits scalability, keeping costs high. Adjustable or fabric-based systems that provide a one-size-fits-most, mass market approach remain years away from being available.
+
+Logistics and warehouse managers should review exoskeleton use cases for greater worker safety or for job functions involving extreme repetitive motions that can create health issues. Exoskeletons in industrial solutions will augment worker strength and endurance. Aerial arms, vests or full-suit-type exoskeletons can be used for tasks such as heavy or overhead loads, or high-frequency and long-duration lifting..
+
+Exoskeletons could help chief safety officers manage safety in better and more efficient ways, especially for rehabilitation use cases and for workers who repeatedly lift heavy objects. The ROI will often be a reduction in worker injuries, which in turn saves on medical expenses.
+
+Product usability and market success vary based on application. Military device adoption estimates are hard to verify, but exoskeleton use will likely follow robotics and drone adoption as all three are related to trends in higher-tech battlefields, medical evacuation and military logistics operating environments.
+
+Exoskeletons used in medical applications range from prosthetics that mitigate permanent mobility loss to wearable training devices for temporary injury rehabilitation. More modern prosthetics using electromyography (EMG) for control mechanisms and built on a 3D printer may be the biggest near term business impact areas. Prosthetics of this type can reduce costs from $20,000 to $200.
+
+------------------
+
+SMART FABRICS
+
+Smart fabric refers to a range of technologies that transform textiles used in clothing, accessories, upholstery and more into devices that can be deployed as sensors, switches, connectors, batteries or displays. The components and electronics may be embedded in the fabric or, in some cases, within the fibers themselves.
+
+Smart fabric exhibits characteristics such as lightness, breathability, waterproofing and heat resistance for use in energy generation and storage, electronic controllers, sports monitoring, and heating wraps.
+
+Smart fabric with sweat-sensing capabilities can be used to derive information such as adrenaline, engagement levels and health parameters.
+Smart  fabric with electromyography (recording electrical activity of the muscle) sensors could be used to measure muscle activity for professional athletes.
+
+Still on beta phase or first generation, not ready for wider market adoption
+A lack of standards, a complex manufacturing process, insufficient availability of miniaturized electronic components, low yield and high costs continue to be the main challenges preventing mass adoption of smart fabric.
+
+Other factors that impact smart fabric adoption include the high price of smart apparel, low longevity, achieving high-quality end products, cleaning without impacting electronic components, privacy concerns and exclusive marketing budgets to raise awareness.
+
+With the development of smart materials – materials that can either sense, react or adapt to their environmental conditions or to other stimuli – a new field  of  smart  fabrics  promises  to  cause  further  radical  changes  across  a  broad range of industries.
+
+Use cases are expected to extend beyond sports, professional athletes, healthcare and  personal care to wider industries, including automobiles, manufacturing, military, emergency services and engineering. Advancements in battery technology, sensors and electronic components will allow easy integration with the fabric without causing discomfort to end users.
+
+Sensor units, controllers, actuators, and other electronic components are usually incorporated into smart fabrics for proper functioning. The reducing costs of manufacturing such components and fabrics is predicted to allow growth in the global smart fabrics market.
+
+Global smart fabrics market is envisaged to be valued at a US$5.5 bn by the end of 2022, progressing from a US$2.2 bn attained in 2017, at a 19.6% CAGR, according to Transparency Market Research (TMR).
+
+-------------
+
+GENE EDITING, REGENERATIVE MEDICINE
+
+Gene editing (also called genome editing) is a group of technologies that give scientists the ability to change an organism's DNA. These technologies allow genetic material to be added, removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed.
+
+Most uses of genome editing have so far been in scientific research – for example to investigate models of human disease. However, the potential applications of these techniques are much wider than just research. Given that genome editing has the potential to alter any DNA sequence, whether in a bacterium, plant, animal or human being, it has an almost limitless range of possible applications in living things.
+
+Areas of research and possible applications include crops and livestock (e.g. increasing yield, introducing resistance to disease and pests, tolerance of different environmental conditions), industrial biotechnology (e.g. developing ‘third generation’ biofuels and producing chemicals, materials and pharmaceuticals), biomedicine (e.g. pharmaceutical development, xenotransplantation, gene and cell-based therapies, control of insect-borne diseases) and reproduction (e.g. preventing the inheritance of a disease trait).
+
+Some scientists have expressed concern that human germline editing has not only crossed the ethical redline; it is also fraught with many challenges. The recent research by Chinese scientists using CRISPR-Cas9 to edit the embryo genome was not completely successful and it had to be abandoned at its preliminary stage. There were off-target mutations in the genome, which can be deleterious as they can cause cell death and transformation.
+
+Embryo germline editing could be exploited in non-therapeutic research. For instance, it can be used to produce designer babies by eliminating undesired qualities and replacing them with desired ones. Due to the challenges and ethical concerns some scientists call for temporary moratorium should be called on the technology.
+
+Genome editing is of great interest in the prevention and treatment of human diseases. Currently, most research on genome editing is done to understand diseases using cells and animal models. Scientists are still working to determine whether this approach is safe and effective for use in people. It is being explored in research on a wide variety of diseases, including single-gene disorders such as cystic fibrosis, hemophilia, and sickle cell disease. It also holds promise for the treatment and prevention of more complex diseases, such as cancer, heart disease, mental illness, and human immunodeficiency virus (HIV) infection.
+
+Genome editing techniques make use of certain proteins that can cut DNA in a precise, targeted location. Although this family of proteins was discovered in the 1960s, it is only since around 2005 that the ability of some of them to make precisely targeted cuts at almost any position in the genome has been recognized and utilized by scientists.
+Among the recent genome editing technologies, CRISPR-based methods are particularly promising owing to their relative efficiency, low cost; and ease of use, and the prospect of making edits at multiple sites in the genome in a single procedure.
+
+--------------------------
+
+BRAIN COMPUTER INTERFACE (DECISIONS AT SPEED OF IOT)
+
+Brain Computer Interface (BCI) is a type of user interface whereby signals in the brain are interpreted, or written to, by a computer. Typically, data is either passively observed for research or used as commands to control an application or device. There are three approaches:
+
+Invasive, where electrodes directly connect to the brain.
+Partially invasive, where the skull is penetrated, but the brain is not.
+Noninvasive, where commercially available caps or headbands are worn to interact with signals from outside the skull.
+
+
+While invasive techniques provide better results, it is expected that the noninvasive BCIs will grow at a quicker rate as the method has no issues with infection and discomfort, and can be more easily accommodated by institutions, patients and consumers
+
+Marketers, customer experience professionals and interaction designers can use these devices now to add more quantitative signals on the state of mind to better understand how consumers use products and view messaging.
+
+Outside the medical domain, speech recognition, gaze tracking or muscle computer interfaces offer faster and more flexible interaction than brain-computer interfaces. The need to wear a headband or cap to recognize the signals is also a serious limitation in most consumer or business contexts.
+
+Latency is a major problem for BCI. Novel solutions look to improve the human-computer interface (HCI) with a mutual learning approach, where users alter their own wave patterns as well as machine learning optimizing device learning provides marked performance improvements.
+
+Currently, the best BCIs are used for limb prosthetics, and use 100 channels to distill the neural signals of the brain. The Defense Advanced Research Projects Agency (DARPA) looks to improve this to a million channels with their Neural Engineering System Design (NESD) and in 4Q17 DARPA awarded five research organizations funding to move this project forward. This project also writes to the brain.
+
+Noninvasive methods cannot use higher-frequency signals as the skull blocks and disperses electromagnetic waves meaning less fidelity of signal. A 2017 Stanford study showed that paralyzed patients could type via brain control with invasive methods but not with noninvasive approaches. While control today is not very smooth or continuous, it is possible to control virtual objects in multiple dimensions, play interactive games and control hardware.
+
+Brain-computer interfaces have moved to an emerging level of maturity in recognition of the gains made in large commercial scale deployments in China, VR headsets natively embedding the technology, a richer vendor landscape and broader applications in conjunction with deep neural network technologies.
+
+Grand View Research projects that the total BCI market will be worth $1.73 billion by 2022 and expected to grow at a rate of over 10.0% over the forecast period (2016 to 2024).
+
+------------
+
+AUGMENTED SENSING (SENSOR FUSION BASED)
+
+Augmented Sensing aka reverse electrovibration, also known as virtual touch, is an augmented reality (AR) technology that facilitates electronic transmission of the human tactile sense, allowing end users to perceive the textures and contours of remote objects. The field of study involving virtual touch is known as haptics. There are three major categories of haptic systems: graspable, wearable, and touchable.
+
+Many tech-giants are investing in the future of haptic feedback. More and more patents are being filed each year in this technology. Immersion Corporation holds maximum number of patents in this field followed by other big players like Samsung, Nokia, Sony, LG, Apple, Senseg, etc. Engineers keep experimenting with electrotactile stimulation for commercial purposes. Disney, Senseg, Nokia or Apple, are pushing haptic feedback with various levels of success by their own iterations.
+
+Most current  solutions are glove-free. Also, no specialized back-pressure-sensor-like devices are necessary. The technology delivers such a small amount of current into the user's body that it poses no health risk, which could open up fast adoption of technology and corresponding “killer apps”. 
+
+Key challenges for Augmented Sensing will be reducing the size of haptic actuators while maintaining bandwidth, force output, range of motion, and important degrees of freedom; powering haptic actuators in mobile and wearable devices; and enabling wireless communication with and control of haptic devices.
+
+Kinesthetic haptic devices have yet to find their “killer app,” since the high-degree-of-freedom devices that are most compelling are expensive and not amenable to commercialization.
+
+Availability and expressiveness of hardware. Commercially available actuators designed exclusively for haptic output are limited, which leads many researchers to develop their own haptic devices using off-the-shelf components.
+
+Popular Augmented Sensing applications for researchers have been medical simulation, rehabilitation, and computer-aided design. Attempts have also been made at developing force-feedback joysticks for gaming applications, but the use of kinesthetic feedback in these fields has not yet achieved widespread commercial success. A common application of kinesthetic feedback in a consumer product is in the dashboard control/navigation system in some high-end cars.
+
+Teleoperation of robots that are remote in distance or scale can enhance human performance or keep humans safe when performing tasks in dangerous environments. Applications include situations in which remote operation of a robot is desirable owing to challenges in access (especially distance and danger) and large differences in scale relative to typical human manipulation.
+
+Disney's system, called REVEL, imparts a low-level signal, creating an oscillating, weak electric field around the user’s skin. Signal variations correspond to texture variations in the distant object. The signals are generated in such a way that the resulting sensation in the fingers mimics the sensation of sliding the fingers over the object. No gloves or specialized back-pressure-sensor-like devices are necessary. 
+
+-------------------
+
+MIXED REALITY(HA)
+
+Mixed Reality (MR) is the merging of real and virtual worlds, where physical and graphical objects appear to interact and integrate naturally. MR includes an underlying group of technologies encompassing the spectrum of immersive displays and interactive systems that spans from the digitization of real environments, to augmented reality (AR) and virtual reality (VR). MR is an overarching technology that includes all immersive displays (mainly, head-mounted displays [HMDs]) and combines functionality that spans from the displaying of fully immersive virtual worlds, to ones that are augmented with matching graphics and overlays. 
+
+
+
+Potential use cases are training on use of equipment, entertainment experiences in which the user directly interacts with the content, maintenance of equipment using visually integrated instructions, or in-field service environments.
+
+Improvements in device technical constraints regarding size, power consumption, and heat generation, especially for standalone devices (i.e. HoloLens)
+5G will bring radical changes in MR as higher speed and lower latency will enhance user’s experience and the efficiency of MR applications.
+
+Complex rendering used in MR demands more processing power than Augmented Reality, this is a key reason why Mixed Reality applications and devices are still in the proof-of-concept phase and far from consumer availability.
+
+Integration with existing infrastructure and security paradigms can kill a potential MR project before it gets off the ground without proper planning and integration specialists, especially in industries such as manufacturing
+
+The value of real-time data collection and analysis will create pressure to deploy user-efficient systems and make the data available for MR use.
+
+MR will become a widely used human-machine interface technology in the coming years. Just as keyboard and mouse gave way to touch, future user experience technologies will integrate much deeper with how humans naturally interact with the real world. In similar situations in which AR or VR could be used, MR technologies will likely take a front seat as the preferred technology because it better integrates real-world objects and their virtual counterparts.
+
+During the next 10 years, MR and the user experiences that it enables will undergo a fundamental change above and beyond the capabilities of AR and VR. Today, MR capabilities focus on optimizing "hands-busy" work environments, and over time, MR will expand to include many types of experiences that can visually enhance everyday objects.
+
+New business models will emerge that change how customers buy products using MR or how they conduct operations by visually connecting the user's view of the real world with their virtual world counterparts. Once MR technology matures, its adoption will accelerate due to the transformative nature of its user experiences.
+
+The mixed reality market was estimated to be $46.8 million in 2017 and is estimated to reach $3.68 billion by 2025 at a CAGR of 72% from 2018 to 2025. The primary driving factors for the mixed reality market is its widespread adoption by different industrial verticals, especially the manufacturing industry. [ BIS Research ]
+
+-------------------
+
+VIRTUAL AGENTS(HA)
+
+Virtual Agents (VA) are software that are capable of complex reasoning and direct interaction to support humans and act on their behalf, enabling them also to augment time spent on more creative and productive activities. VA can advise users about the state of business processes, make recommendations and provide answers, and take action based on perceived user need. 
+
+Virtual agents allow for efficient service interaction for users that is faster and less expensive than traditional methods.
+By integrating with APIs, virtual agents can leverage dynamic data and knowledge management solutions to provide personalized solutions to users.
+
+Today, virtual agents can be accessed via mobile/voice interfaces, messaging apps, kiosks, IoT devices, physical robots, social networks and traditional web channels. Over time, more natural interfaces for end-users will drive growth in the market.
+
+Virtual agents can deliver analytics that show the positive and negative outcomes and factors of each individual customer engagement.
+
+Virtual agents require continuous modifications and updates. Virtual agents require consistent end-user feedback in order to be effective.
+Virtual agents are useless if  they are leveraging a weak or incomplete knowledge base.
+
+Customer pain points must be accurately identified to ensure the efficacy of the virtual agent.
+
+Security is critical and will largely depend on trusted data and identities to deliver secure interactions for customers.
+
+Virtual agents have witnessed an increase in growth/adoption due to advancements in the areas of NLP, NLG and machine learning. Most virtual agent applications are external and focus on the functions of customer service and sales. According to Forrester Research, 33% of US online adults who use smartphones, tablets, and computers say they use virtual agents. Growth will steadily continue. IDC has  predicted that, by 2020, 40% of commerce transactions will be enabled by cognitive/artificial intelligence personal shoppers and conversational commerce.
+
+As research advances in NLP, NLG and machine learning so will the growth, adoption and capabilities of virtual agents- specifically for internal enterprise use cases. Internal use cases for virtual agents, if implemented correctly will offer improved employee productivity- therefore improving customer satisfaction and overall revenue.
+
+In coming years, enterprises will more widely adopt and integrate virtual assistants with back-end systems such as CRM or ERP, and virtual assistants will find their place assisting employees with inward and outward functions. In some cases, the human maybe completely removed from the loop as virtual agents handle complex B2B transactions and negotiations.
+
+-----------------
+ 
+
+
+
+
+
+
+
 
 
 
