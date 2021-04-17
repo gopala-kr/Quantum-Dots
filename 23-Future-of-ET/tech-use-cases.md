@@ -3773,7 +3773,39 @@ Enterprises interested in quantum computing should leverage quantum computing as
 
 CIOs should start experimenting and looking for potential opportunities from quantum computing now, even though large-scale quantum computers are not expected in the short-term. They should also start looking for quantum experts. These opportunities will need to be fully integrated with traditional IT, and will require new cross-collaboration from research scientists, computational data scientists and quantum data scientists. 
 
+----------------
 
+QUANTUM OPTIMIZATION
+
+The application of quantum optimization, the method of finding the best solution among a set or particular options, leads to a plethora of potential use cases. From finding the most cost-effective way of shipping goods, or extracting resources, to optimizing portfolios or asset pricing in financial services, the pool of opportunity is vast. These solutions can be extremely powerful but are difficult to achieve using classical computing; quantum optimization is primed to be one of the most potent applications of quantum computing.
+
+
+Optimization solutions involve finding the best resolution to a problem from a set of possible options. The most advanced problems, seen as not solvable on classical computers, may be solvable using quantum computing. Instead of working through every possible solution in turn, quantum computers would be advanced enough to try each solution simultaneously. This could open exciting doors in many industries, such as supply chain and logistics or financial analysis.
+
+Characteristics
+Exploit essential features of quantum computation such as quantum superposition or quantum entanglement.
+Used to find the best option out of a range of possible solutions
+
+
+Compute the most efficient solution to a problem from a large set of potential options, far quicker than a classical computer.
+Quantum techniques such as annealing have shown business promise by optimizing the yields of financial assets or the calculation of credit ratings.
+Many possible use cases across many different industries from space exploration to traffic control and global financial models. Potential to affect many business metrics such as productivity, profitability and efficiency.
+
+
+Significant challenges when it comes to minimizing quantum errors or noise, and overcoming these will be key to the success of quantum optimization. Quantum error correction schemes are becoming more and more prominent.
+
+If a quantum system isn’t perfectly isolated from the environment but is in contact with it’s surroundings, coherence can decline over time, and quantum algorithms won’t work. Currently, only short coherence times are possible.
+
+Quantum computing development languages are very different to existing development languages because of the quantum nature of the system, meaning there is a lack of standard development languages. Recruiting and training enough skilled developers is also a challenge.
+
+
+Quantum computers will, at some stage in the future, be able to compute at speeds at least exponentially faster than classical computers. Grover’s algorithm, a popular example, can search data in the square root of the time taken by conventional computing. One of the earlier applications of quantum optimization might be routing optimization for delivery trucks, but financial services is also expected to benefit greatly. Monte Carlo simulations, for example, which are run regularly within the FS industry, require very high amounts of computing power.
+
+Quantum optimization is expected to be one of the most powerful applications of quantum computing, with applications across a large range of industries, but it is also one of the most nascent, with a maturity horizon of over 10 years. This explains why there are very few use cases, and why those use cases are essentially proof of concepts. Nevertheless, businesses should start experimenting, mapping use cases and getting the right talent now in order to be ready when the technology is available.
+
+ 
+ 
+ 
 
 -------------------
 
@@ -6705,6 +6737,201 @@ Security within IaaS is a quickly shifting landscape. IaaS vendors are offering 
 Firms increasingly prioritize cloud security investments to meet regulatory requirements, reduce security costs, and protect their critical data.
 
 -----------------
+
+
+PREDICTIVE SYSTEMS
+
+Stochastic models which make predictions based on large data sets, can encompass recommendations, predictive maintenance, and personalization applications.
+
+
+A technology that learns from experience (data)  to predict the future behavior of elements in order to drive better decisions. In industrial systems, for example, the value of predictive systems will be to predict and prevent potential issues to achieve near-zero break-down.
+
+
+By understanding likely future outcomes, organizations are able to make better decisions and anticipate threats and opportunities, being proactive rather than reactive (for example, predictive maintenance of equipment, demand prediction, fraud detection, and dynamic pricing).
+Predictive maintenance systems, combined with IoT, are revolutionizing maintenance for manufacturers and utilities
+
+
+Regulation like Europe’s GDPR are adding oversight and limitations to the use of consumer data – less data hampers companies’ ability to predict consumer behaviors and make recommendations
+
+
+By 2020, predictive and prescriptive analytics will attract 40% of enterprises' new investment in business intelligence and analytics.
+
+Demand forecasting: analytical capabilities and tools to segment and assign the best forecasting profile to improve predictions of future sales by as much as 10-20 percent. Inventory optimization: reduce inventory by up to 20 percent and provide dynamic safety stock and replenishment order sizes, while ensuring customer service levels. Spare parts optimization: helps inventory reduction by 20-40 percent.
+
+Historically, companies have invested billions to personalize their customer experiences. Traditional investments have paved the way to the next level of personalization, which infuses tailored experiences with customer intelligence. Such intelligent personalization aims to address consumers’ demands for tailored experiences. Accenture Strategy research shows, for example, that 48 percent of consumers expect specialized treatment for being a good customer. Intelligent personalization also makes good business sense.
+
+------------------
+
+CONVERSATIONAL INTERFACES
+
+A branch of AI which combines natural language recognition, processing, and generation in real time to imitate human-to-human conversation, as an interface for controlling and querying machines.
+
+Basic chatbots are in a mature phase, but true conversational interfaces which are dynamic and capable of imitating human conversation across languages are still emerging.
+
+
+Conversational interfaces use natural language processing (NLP) to allow computers to understand, analyze, and create meaning from human language. While there are a variety of interface brands, to date, there are two main categories of conversational interfaces: voice assistants and chatbots.
+
+
+CUIs will appear primarily in new applications. Enterprise IT leaders should be on the lookout for (and biased toward) CUIs to improve employee (and customer) effectiveness, as well as to cut operating expenses and time spent learning arcane computer semantics.
+The potential savings from automating voice communication are greater than the potential savings from automating text-based chat.
+
+Voice support is still not on par with text-based chatbots and assistants. Conversations taking place in voice tend to be different, with interruptions, confirmatory cues and tone-of-voice signaling being common, and still beyond the scope of most implementations.
+
+
+By 2020, at least 40% of people working in new applications will primarily interact with CUIs there, removing much of the perceived need to invest further in improving "computer literacy.“
+
+Conversational technology will be empathetic by nature and able to use real-time data analysis to create the sort of context-aware, memory-based conversations we have with each other. That means your customers can be treated on a completely individual basis by a machine that draws on reams of data to enrich the experience. From providing simple facts to answering questions and imparting knowledge, conversational AIs will be able to do everything a human customer service agent can, but faster and with immediate access to much more information.
+
+With only 4% of enterprises having deployed conversational interfaces but 38% planning to or actively experimenting (according to a recent Gartner survey), this market is set for growth
+
+------------------
+
+EXPLAINABLE AI
+
+A branch of AI which aims to make decision-making processes within AI systems more transparent and explainable, to ensure unbiased and compliant criteria are being used. This can be done through a combination of human analysis and computer programming.
+
+Explainable AI refers to AI techniques where the results of the solution can be understood by human experts. It contrasts with the concept of the "black box" in Machine Learning where even their designers cannot explain why the AI arrived at a specific decision. Explainable AI is an implementation of the social right to explanation.
+
+
+Deep learning offers a higher degree of accuracy, but due to the baked-in effect of social norms it is prone to bias. For this reason the demand for explainable and socially sustainable systems will increase.
+For applications that affect consumers, GDPR and like regulations, will drive research and deployment of explainable solutions.
+
+
+For most applications, there is a trade-off between accuracy and explainability, the major challenge that remains unsolved is how to improve both simultaneously. The more hidden layers in a deep neural network, the more accurate it becomes, but the harder it is to parse out decision-making criteria used.
+Transparency in AI varies. Statistical machine-learning techniques such as clustering are by design transparent. By contrast, advanced AI techniques that improve their accuracy over time or as they execute, such as deep learning, are opaque.  The output of a DNN can always be explained — but only after the fact. Furthermore, perfectly reasonable inputs may still result in apparently biased results because of social norms.
+
+
+We believe that a Responsible AI deployment should incorporate the concept of “Explainable AI” if a company aims for its AI to be honest, fair, transparent, accountable and human-centric and that ongoing investments from the public and private sectors are essential in order to make Explainable AI a reality now. The principles guiding Explainable AI efforts enable AI to flourish and we anticipate increased regulatory and legislative activity in this space in the months to come.
+
+Companies that deploy advanced AI systems will need a cadre of employees who can explain the inner workings of complex algorithms to nontechnical professionals. For example, algorithm forensics analysts would be responsible for holding any algorithm accountable for its results. When a system makes a mistake or when its decisions lead to unintended negative consequences, the forensics analyst would be expected to conduct an “autopsy” on the event to understand the causes of that behavior, allowing it to be corrected.
+
+For most applications, there is a trade-off between accuracy and explainability – companies must decide how critical these opposing considerations are on a deployment-by-deployment basis.
+
+---------------------
+
+AUTOMATED MACHINE LEARNING
+
+Automated machine learning (autoML), a defining feature of augmented data science, brings automation to the tasks of algorithm selection, feature selection, and hyperparameter tuning. This reduces the requirement for specialized skills to generate, operationalize and manage an advanced analytics model.
+
+
+Automated machine learning (AutoML) is the process of automating the process of applying Machine Learning to real-world problems. AutoML covers the complete pipeline from the raw dataset to the deployable machine learning model. The high degree of automation in AutoML allows non-experts to make use of machine learning models and techniques without requiring to become an expert in this field first.
+
+
+There is a strong need to help data scientists offload routine work and streamline processes in the face of an increasing number of machine learning projects combined with an ongoing shortage of those with the required skills.
+
+
+Most AutoML solutions can only automate certain parts of the process – the burden of acquiring data sets and labeling are still not automated and can be very time intensive.
+
+
+AutoML will not replace data scientists, as most machine learning problems require domain knowledge and human judgment in order to be set up and used correctly. Instead, autoML will be a way to augment data science teams, to increase productivity and boost the performance of models for individual business cases.
+
+Data is not instantly valuable -- it must be collected, cleansed, enriched and made analysis-ready. AutoML is an approach that can help all businesses use machine learning successfully. And potential business insights are hidden in places where only machine learning can reach at scale.
+
+--------------------
+
+DATA EFFICIENT AI
+
+Data efficient AI is an important piece of an overall AI strategy, because many problems and decisions do not have large data sets. In order to generate insights that augment decision making about these problems, data efficient AI systems can take small data sets, and combine  them with top-down rules or ‘common knowledge’ principles, to generate insight. For robots, navigating the real world and dealing with edge cases requires a generalized comprehension that’s nearly impossible to replicate in just large data sets.
+
+
+Data efficient AI is a form of Artificial Intelligence that derives insights from smaller data sets than traditional machine learning. Its goal is to give machines some ‘common sense’ understanding of the world, which humans naturally bring to decision making.
+
+
+There is a clear opportunity for extracting data from smaller data sets. In strategic decision making, there are not often large data sets to inform decisions, and in robotics, there is no data set large enough to inform a robot of the nearly infinite edge cases that exist. Data efficient AI can help to bridge these gaps.
+
+
+One major challenge in creating data-efficient systems is balancing manual inputs and machine learning techniques. For instance, how much of “practical physics” should be hard-coded into a machine, versus learned through observation. The more manual input the more efficient, but the less flexible.
+Another issue is reliability and responsibility. Any decisions made on small sets of data have a considerable margin of error, whether made by a human or by a machine – who bears that responsibility and what applications are best suited to this risk profile?
+
+
+Companies considering how to invest in AI capabilities should first understand that over the coming five years applications and machines will become less artificial and more intelligent. They will rely less on bottom-up big data and more on top-down reasoning that more closely resembles the way humans approach problems and tasks. This general reasoning ability will enable AI to be more broadly applied than ever, creating opportunities for early adopters even in businesses and activities to which it previously seemed unsuited.
+
+In the recent past, AI advanced through deep learning and machine learning, building up systems from the bottom by training them on mountains of data.In the future, however, we will have top-down systems that don’t require as much data and are faster, more flexible, and, like humans, more innately intelligent. A number of companies and organizations are already putting these more natural systems to work. 
+
+---------------------
+COMPUTER VISION
+
+A branch of AI which deals with how computers can be made to understand digital images and video at a high level and analyze the visual world.
+
+ 
+Computer vision is concerned with the automatic extraction, analysis and understanding of useful information from a single image or a sequence of images. The image data can take many forms, such as video sequences, views from multiple cameras, or multi-dimensional data from a medical scanner. 
+
+Vision enhances humans' abilities to interact with the digital and physical world. This has fueled broad interest in this discipline for applications such as autonomous vehicles; robotics; drones; augmented, mixed and virtual reality; security; biometrics; and more.
+New imaging and sensor technology will expand opportunity for computer vision vendors, as more sophisticated data means pushing comprehension into large data territory.
+
+
+For enterprises, there is no single, ultimate algorithm for computer vision. Different use cases (facial recognition, autonomous driving, etc.) require different systems trained on different data sets.
+Especially in the instance of connected homes, computer vision systems collect a lot of data on their users. This data must be managed in accordance with regional regulations regarding consumer data, like GDPR.
+
+
+Adopt best-of-breed CV algorithms based on your business needs and situation, for example, for facial recognition, edge tracking, 2D/print objects, 3D objects, fixed versus moving objects, lighting conditions and occlusion.
+
+The new wave of computer vision will require computers to act more like humans. It’s easy for a computer to process information, but this year, we’ll see computers processing information while reacting to the world around them — using cognition and language skills to process information more like a human would. Turning the insights extracted from eye-captured data into compelling new products and services is both the big opportunity and the big challenge.
+
+By 2020, 65% of enterprise-captured video/image content will be analyzed (at least partially) by machines rather than humans.
+
+-----------------
+
+UNSUPERVISED LEARNING
+
+No labels are given to the learning algorithm, leaving it to find the structures and patterns of the inputs on its own.
+
+Unsupervised learning is the training of an Artificial Intelligence (AI) algorithm using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance. Unsupervised learning algorithms can perform more complex processing tasks than supervised learning systems.
+
+While supervised learning succeeds by defining classifications, unsupervised learning succeeds because it is able to identify and separate emerging classifications without human intervention.
+
+Applications like drug or material discovery are made possible by unsupervised methods of learning, because they rely on the identification of outliers and the tests of untested inputs
+
+
+Unsupervised learning is impractical, and prohibitively complex, for simple enterprise applications. Because no labels are provided, the AI systems needs more layers of processing, and can take longer to self-generate classifications.
+
+-----------------
+
+REINFORCEMENT LEARNING
+
+Reinforcement learning is particularly well-suited to problems that include a long-term versus short-term reward trade-off. It has been applied successfully to various problems, including robot control, telecommunications, and autonomous cars. 
+
+
+A kind of training in which an algorithm is given a specific goal. Each move the algorithm makes toward the goal is either rewarded or punished. The feedback allows the algorithm to build the most efficient path toward the goal.
+
+Reinforcement learning has enabled the boom in collaborative robotics, where safe behaviors and performance task accuracy are improved through human reinforcement on the job
+
+
+Very few practical applications are available for reinforcement learning — search strategies, game playing, robotics and control engineering are examples.
+Deep reinforcement learning almost always requires deep expertise and, ideally, a simulation or controlled environment where the system can search for a range of policies that will ultimately yield the optimal evaluation
+Even trained in virtual environments, reinforcement learning has still not been able to match  human performance for most applications
+
+--------------------
+
+SUPERVISED LEARNING
+
+Supervised learning is typically the most effective learning paradigm for regression and classification algorithms.
+
+
+A type of ML in which an algorithm is presented with preclassified and sorted data (known in the field as “labeled data”) consisting of example inputs and desired outputs.
+
+
+So far most results from Deep Neural Networks have been achieved through supervised learning, not unsupervised.
+Improvements in GPUs have made CNN (convolutional neural nets, trained with supervised learning) learn more quickly and with less errors. While in the 1990s a robust CNN would have 12-20 layers of processing, now CNNs can have up to 150 layers. Each layer allows for a further degree of nuance in interpreting inputs and generating appropriate outputs.
+
+
+Supervised learning is the most time intensive method.
+For more complex applications, supervised learning and reinforcement learning both suffer due to a lack of common sense and world-understanding. This makes them reliant on virtual models of their environment which can be hard to program and imperfect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
