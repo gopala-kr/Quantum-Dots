@@ -8679,6 +8679,16 @@ Use Cases
 ---------
 ![datalakes-saponaws-image1](https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2019/11/27/datalakes-saponaws-image1.png)
 
+-----
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db1.png)
+-----
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db2.png)
+-----
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db3.png)
+-----
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db4.png)
+-----
+![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db5.png)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
