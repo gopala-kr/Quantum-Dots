@@ -5786,6 +5786,7 @@ A Smart Workspace leverages the increasing proliferation of connected and digita
 
 A growing enterprise focus on facility modernization, more agile work environments and employee experience value is driving the Smart Workspace market. Digitalization and programmability of the workplace will create new integration opportunities. Electronic whiteboards, for example, are becoming integrated with traditional collaboration and content software systems, providing more opportunities for experimentation.
 Data from meetings is better captured in a Smart Workspace, and is more widely searchable.
+
 Beacons and sensors placed in key locations can interact with mobile apps to deliver personalized information to workers, based on proximity. This can be used to improve employee learning or communicate safety procedures based on employee location.
 Smart Workspaces have the potential to improve employee productivity and cultural perception of the workplace. Customer experience can also be improved as employees make better use of the Smart Workspaces to serve clients.
 Cost reductions, as office utilization data can guide decisions about what types of workspaces are most conducive to employee effectiveness.
@@ -5793,7 +5794,8 @@ Cost reductions, as office utilization data can guide decisions about what types
 Employee privacy concerns.
 Organizational impacts create challenges - IT organizations need to work much more closely with real estate and facilities teams, in ways not previously imagined.
 The Smart Workspace market is emerging at an uneven pace as organizations prioritize potential solutions independently of one another.
-ACCENTURE POINT OF VIEW
+
+
 The Smart Workspace is fast becoming a key part of any digital workplace initiative. Several trends intersect at the Smart Workspace, most notably the IoT, AI-related technologies, digital signage/electronic whiteboards, indoor mapping, smart buildings and integrated workplace management systems.
 
 The Smart Workspace market is at an exciting stage, with many potential use cases. Vendors such as AgilQuest, Condeco, Estimote, Oblong Industries and Prysm are offering a range of solutions. Organizations can use these solutions to better understand how people participate in physical spaces, and use these insights to create new capabilities, concerning seating and room management, for example.
@@ -7101,108 +7103,6 @@ Improvements in GPUs have made CNN (convolutional neural nets, trained with supe
 
 Supervised learning is the most time intensive method.
 For more complex applications, supervised learning and reinforcement learning both suffer due to a lack of common sense and world-understanding. This makes them reliant on virtual models of their environment which can be hard to program and imperfect.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
