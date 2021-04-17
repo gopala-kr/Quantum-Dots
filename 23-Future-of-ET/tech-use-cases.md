@@ -6303,8 +6303,421 @@ The majority of the QKD options are in the point-to-point category. This means t
 Quantum Key Distribution (QKD) is a powerful solution to the key exchange problem and is not subject to the same weaknesses that current solutions are subject to. However, there are remaining challenges that must be kept in mind as QKD solutions are deployed into our ecosystems.
 
 --------------
+--------------
+ 
 
  
+ PAAS
+ 
+ Platform as a service (PaaS) is a cloud service that delivers application infrastructure (middleware) capabilities. There are multiple types of PaaS and PaaS capability can be delivered as a provider-managed public or virtual private service, or self-managed private service.
+
+
+Platform as a Service, often simply referred to as PaaS, is a type of a cloud offering that delivers application infrastructure (middleware) capabilities as a service. Gartner tracks multiple types of PaaS (xPaaS), including: application platform as a service (aPaaS), integration PaaS (iPaaS), API management PaaS (apimPaaS), function PaaS (fPaaS), business analytics PaaS (baPaaS), IoT PaaS and database PaaS (dbPaaS). PaaS capability can be delivered as a provider-managed or self-managed, multitenant or dedicated.
+
+Characteristics
+
+Solution packaged
+Shared/standard services
+Elastic resource scaling
+Self-service
+Elastic, term-based pricing (no perpetual license)
+Ubiquitous (authorized) network access
+Standard UI technologies
+Published service interface/API
+ 
+New types of specialized xPaaS offerings are continuing to emerge as more innovation and more business is shifting to the cloud.
+Emerging born-on-the-cloud xPaaS capabilities (such as fPaaS – Function PaaS) that are inherently cloud-only —  are increasing customers’ confidence and advancing adoption of PaaS overall. 
+
+
+Customers that are adopting IaaS or SaaS have increasingly ambitious plans for their cloud investments and require PaaS capabilities to extend their acquired services. While the PaaS market remains significantly smaller in revenue compared to the IaaS and SaaS markets, PaaS is increasingly becoming a selling factor for the other services.
+
+
+PaaS market remains short on standardization
+Need to established best practices and sustained leadership
+Slowing adoption by the more risk-averse organizations
+Self-managed private PaaS is often difficult to carry out, for organizational and cultural reasons. Enterprises would prefer a provider-managed virtual private PaaS as a suitable alternative.
+
+The leading PaaS providers, including Microsoft, Amazon Web Services (AWS), Google, SAP, Salesforce, IBM and Oracle are strengthening their integrated multi-xPaaS (comprehensive PaaS) service suites, building up their ability to support a broad spectrum of mainstream software initiatives. These and other innovations, plus the increasing synergy of IaaS and PaaS offerings (IaaS+PaaS), drive PaaS offerings forward.
+
+While the less-complete products and confused attempts at the use of PaaS still can create some disappointment, the overall confidence of PaaS in the mainstream market is steadily increasing, putting PaaS onto the path to mainstream maturity.According to Gartner, from 2018 through 2022 the PaaS market is projected to double in size, and nearly half of all PaaS offerings in 2019 will be public cloud only.
+
+IaaS+PaaS and SaaS+PaaS are becoming two differentiated cloud market segments, splitting the PaaS market focus into high productivity (for SaaS+PaaS) and high control (for IaaS+PaaS).
+
+The adoption of various PaaS capabilities by organizations is shifting from cautious and tactical cost-reduction initiatives to more strategic and challenging innovation projects. This trend is a result of multiple drivers, including the increasing maturity of some PaaS offerings, the increasing user familiarity with PaaS, the expectation that PaaS will be the prevailing application platform model going forward and significantly, stronger endorsement of PaaS by the traditionally conservative enterprise mega vendors such as IBM, Oracle and SAP. 
+
+Companies that delay strategic adoption of cloud platform technology and architecture, are at risk of losing loyalty of their customers. Users that delay adoption of cloud platform services (PaaS), will find themselves with expensive vendor lock-in and chaotic handling of their hybrid technology environment.
+
+--------------
+
+CONTAINERS
+
+Containers give developers the ability to create predictable environments that are isolated from other applications. With containers, developers and IT Ops teams spend less time debugging and diagnosing differences in environments, and more time shipping new functionality for users. This also means fewer software bugs, since developers can now make assumptions in dev and test environments they can be sure will hold true in production.
+
+Containers are able to run virtually anywhere, greatly easing development and deployment: on Linux, Windows, and Mac operating systems; on virtual machines or bare metal; on a developer’s machine or in data centers on-premises; and in the public cloud.
+
+By packaging applications and all their operating system dependencies in one easy package, containers make it possible to move applications between cloud environments, just so long as administrators plan the operating environment and application definitions in advance. 
+
+
+An Application Container is a standard unit of software designed to package and run an application or its components running on a shared operating system on a server. Containers run as resource-isolated processes, ensuring quick, reliable, and consistent deployments, regardless of environment.
+
+Characteristics 
+A container includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+Containers are able to run virtually anywhere, greatly easing development and deployment: on Linux, Windows, and Mac operating systems; on virtual machines or bare metal; on a developer’s machine or in data centers on-premises; and of course, in the public cloud.
+Containers virtualize CPU, memory, storage, and network resources at the OS-level, providing developers with a sandboxed view of the OS logically isolated from other applications.
+
+
+
+For Developers:
+
+Self-service; concentrate on building applications
+Use any technology stack or application framework
+Create and run any containers in self-defined environments (dev, prod, CI/CD, test, acceptance, performance)
+For IT Management:
+
+Run on any infrastructure, private, hybrid or public
+Increase resource usage and control infrastructure spend
+Centrally manage users, resource constraints and allocations
+Enable standardized practices and patterns, e.g. secrets management, load balancing, deployments
+For Business:
+
+Faster time to market for new services and products
+Lower IT costs
+Reduce deployment failure
+
+
+
+Customers need to be aware that containers introduce their own complexities. With containerized microservices – loosely coupled services within an application – the volume of objects and metrics to monitor increases substantially. Enterprise organizations adopting containers and microservices will need to invest in machine learning capabilities to effectively manage their IT infrastructure. The latter approach is sometimes termed “AIOps” for “artificial intelligence for IT operations”.
+
+
+As enterprises increasingly digitize their applications, they have greater requirements around agility, elasticity and automation. Innovative firms want to move to cloud-native infrastructures, but legacy technologies and processes can be a hindrance to transformation.
+
+Because they includes everything needed to run an application and run as resource-isolated processes, containers are highly portable, which enables applications to run in a consistent manner across the software development life cycle, as well as enabling to them to be portable across various on-premises and cloud environments. With their portability and reliability, and the benefits they provide developers in the context of digital transformation, it’s expected that containers will be one of the most widely adopted cloud tools.
+
+----------------
+
+IAAS
+
+Infrastructure as a Service (IaaS) is a standardized, highly automated offering in which computing resources owned by a service provider, complemented by storage and networking capabilities, are offered to customers on demand. Resources are scalable and elastic in near real time and metered by use. 
+
+
+IaaS is an instant computing infrastructure, provisioned and managed over the Internet. Quickly scale up and down with demand and pay only for what you use. Self-service interfaces, including an Application Programming Interface (API) and a Graphical User Interface (GUI), are exposed directly to customers. Resources may be single-tenant or multitenant, and are hosted by the service provider or on-premises in a customer's data center.
+
+ 
+
+Characteristics
+Resources are provided as a service
+Allows for dynamic scaling and elasticity
+Variable cost, usage based pricing model (pay per go and pay per use)
+Multitenant architecture
+Enterprise-grade infrastructure
+
+
+IaaS is increasingly used as a general substitute for data center infrastructure, and may drive improved operations, efficiency and cost savings
+It is typically used to host traditional business applications, and may even host complex enterprise applications, such as ERP
+Increased adoption in non-US markets as the market leaders open data centers in more countries
+Most enterprises have begun to adopt IaaS strategically — and have a broad range of workloads on IaaS, including production applications
+Public cloud IaaS now represents more than 15% of overall workloads
+Midmarket businesses are the most likely to believe that IaaS will replace nearly all of their data center infrastructures during the next five years
+
+
+
+Data security and privacy is a major concern for enterprises considering implementing cloud IaaS services
+Cloud IaaS is a distributed computing model with inherent ambiguity around where the data resides. This distributed model leads to a perception of higher risk and security 
+
+IT managers are often concerned about becoming "locked in" to a cloud provider, and want the ability to move applications and data between environments
+
+
+Cloud IaaS is one of the fastest-growing areas of cloud computing adoption. It is a maturing technology with mainstream adoption. Although most organizations use cloud IaaS for only a portion of their workloads, this percentage is growing rapidly. Gartner projects that by 2025, 80% of enterprises will have shuttered their physical data centers in favor of cloud infrastructure services, compared to just 10% today.
+
+An increasing number of cloud IaaS providers also offer a range of PaaS capabilities. When IaaS and PaaS are offered in a fully integrated environment, customers obtain much greater value than with cloud IaaS alone. In theory, it would be possible for an IT organization to build such a service; future technologies such as Microsoft Azure Stack may enable such internal offerings. 
+
+The benefits of IaaS have been driven primarily by the developer empowerment that comes from self-service, the flexibility offered by on-demand infrastructure, and the quality and efficiency of automation.
+
+Gartner projects revenue in the cloud IaaS market to increase to $81.5 billion by 2022, up from $41.4 billion in 2019. Presently the market is highly consolidated to a few vendors but with increase in multi-cloud adoption, this is likely to change.
+
+-------------------
+
+EDGE COMPUTING
+
+Edge Computing has become important because of the increasing requirement that data-intensive processing work be done as close to the location of need as possible, without latency (waiting time).  This may require full-fledged processing and data storage capacity be available at the edge of an enterprise network, rather than at the core of the network or remotely (e.g., in the cloud).
+
+Use-cases vary, depending on the industry being considered. For example, verticals such as telecom are especially relevant due to the immediacy of latency requirements and the ongoing development of 5G networks. In healthcare, the need to have immediate analysis and results available to medical professionals may point to having Edge-based processing available in the hospital itself, rather than being remotely available from a public cloud, for example. In other use-cases, Edge Computing is seen as a way of managing IoT sensor-generated data pertaining to automobiles or devices implemented in smart cities, for example. Autonomous vehicles gather a tremendous amount of data from their surroundings and other devices nearby. If a vehicle’s reaction time is dependent upon instructions from computing resources at the core of the network, the slightest delay could literally be a matter of life or death. Smart cities, with vital data being collected from security cameras and other devices, may also require on-the-spot processing to manage a variety of security threats and other urgent situations.
+
+With data-driven Digital transformation occurring in all sectors, the need for Edge Computing capabilities is only expected to grow over the next several years. 
+
+Edge Computing is the deployment of IT resources at peripheral or edge locations, relative to where an organization's central or core IT is located. This includes locations such as remote office/branch office and mobile access points. Distance is not a critical aspect of defining edge versus core; for example, if video surveillance (supported by IT infrastructure) for a large datacenter is segregated from the core IT equipment in that datacenter, yet resides in the same physical building, albeit outside of the purview of the core IT team, then that can be thought of as an edge use case, since it is not part of the core infrastructure.
+
+
+An "edge" is comprised of servers extended as far out as possible on a digital network, to reduce the time it takes for users to be expediently served.
+Edge Computing encompasses various networking technologies including peer-to-peer networking or ad hoc networking, as well as various types of cloud setups and other distributed systems.
+Another predominant type of Edge Computing is mobile Edge Networking or Computing, an architecture that utilizes the edge of the cellular network for operations.
+
+
+Edge computing has been touted as one of the lucrative, new markets made feasible by 5G networks. 5G requires a vast, new network of (ironically) wired, fiber optic connections to supply transmitters and base stations with instantaneous access to digital data (the backhaul).  As a result, an opportunity arises for a new class of computing service providers to deploy multiple µDCs adjacent to radio access network (RAN) towers, perhaps next to, or sharing the same building with, telco base stations. 
+These data centers could collectively offer cloud computing services to select customers at rates competitive with and features comparable to, hyperscale cloud providers such as Amazon, Microsoft Azure, and Google Cloud Platform.
+
+
+Regarding the physical infrastructure of edge data centers, widespread application of the topology and explicit application and networking architectures are not yet common outside of vertical applications, such as retail and manufacturing.
+Servers capable of providing cloud-like remote services to commercial customers, regardless of where they're located, need high-power processors and in-memory data, to enable multi-tenancy.  Probably without exception, they'll require access to high-voltage, three-phase electricity.  That's extremely difficult, if not impossible, to attain in relatively remote, rural locations.
+
+For widely distributed Internet-of-Things applications such as Mississippi's trials of remote heart monitors, a lack of sufficient power infrastructure could end up once again dividing the "have's" from the "have-not’s.”
+
+
+Think of Edge in terms of opportunities at multiple edges/endpoints: Edge Computing is evolving in tiers with opportunities at hardware to software, data hubs, and applications such as smart cities, autonomous transportation, and video orchestration.
+Focus on tooling to deliver and drive businesses of future: Software and hardware developers need new tools, frameworks, and support to build next generation edge apps, services, and deliver hyper-personalized experiences.
+
+Edge will continue to be an ecosystem play: Participate in building standards along with global standards bodies and industry specific consortiums globally for development of technology and advocacy/advisory.
+
+Partner with Silicon vendors  as they are championing Edge as next big opportunity after smartphones: Vendors like ARM are developing new architectures, solutions by embedding AL/ML  and are eyeing a bigger role in distributed computing and data centers.
+Aim to build and/ or source requisite skills and talent: Patents, developers, technologists, architects and UX specialists. Follow multi-pronged strategy like internal training & development acquisition, hackathon & crowdsourcing and collaboration with academia and industry, to fulfil skills/ talent needs.
+
+-----------------
+
+CLOUD-ENABLED AI SERVICES
+
+
+loud-enabled AI services help simplify Artificial Intelligence (AI) efforts by eliminating the complexity of architecting a Machine Learning (ML) system and by providing pre-trained systems tailored to specific use cases. In most AI services, the pre-trained algorithm is a shared resource, with broad, generalized training based on data gathered by the provider. 
+
+
+Cloud-enabled AI services run ML/AI within cloud-based infrastructure. These are purpose-built, multitenant, elastic, and wrapped in lightweight APIs and/or easy-to-use UIs. Examples of these services include NLP, sentiment analysis, image recognition and automated machine learning model creation.
+
+ 
+
+Characteristics
+Allows development teams to add conversational capabilities
+Identify people and assets in images or video feeds
+Automate the building of machine learning models
+
+
+Continued traction and acceptance of AI applications using cloud services by data scientists and developers, will move this technology to next level of maturity.
+Cloud service providers offer packaged APIs and tools that make it easier for developers to integrate AI capabilities into existing applications
+Availability of specialized hardware instances with AI-optimized chips and large amounts of data storage makes cloud an ideal environment for enterprises to build/deploy AI applications without the risks, costs and delays of conventional on-premises procurement.
+Pretrained AI cloud services often require no (or limited) data science expertise.
+Features like automated algorithm selection and training-set creation will offload some of the complexity of the project and leverage existing expertise on operating cloud services.
+
+
+Costly and Complex
+Public cloud services can reduce the complexity of on-premise implementation of AI services, reduce costs, and make ML and AI more readily available to modern enterprises. However, enterprises struggle to realize exactly how they can or should apply these technologies.
+Vendor lock-in is another concern for enterprises adopting AI cloud platforms. It may be difficult for clients to use another vendor's services or to use open source tools for other tasks.
+
+
+
+This is a time of innovation driving market differentiation. At the forefront are AI services and technologies that are transforming business strategy, customer interactions, and workforce management, enabled by enormous data stores. AI services built on a cloud platform can be easily accessed, are highly scalable, and invite continued innovation due to the relatively low cost of development and delivery.
+
+AI cloud services and resulting models allow businesses to unlock value in their data repositories that give more precision to business decisions, facilitate automation of business processes and accelerate workflows to enhance the responsiveness of the business to opportunities and risks surfacing in the business.
+
+The ability of language services to make business information available for the asking or text analytics to discover hidden value in text documents or video content analysis to identify where specific people or information appear in a video are just a few examples.
+
+
+---------------------
+
+HYBRID / MULTICLOUD SOLUTIONS
+
+Hybrid Cloud Solutions enable IT solutions to easily extend from data centers to public clouds or vice versa. One approach involves the vendor building or using infrastructure within a cloud provider's data centers. Another approach brings services that are available in a public cloud to a private location, used as-a-service experience consistent with public cloud consumption.
+
+
+Hybrid cloud computing comprises public and private cloud services that operate as separate entities but are integrated. It has self-service interfaces and is delivered as a shared service using internet technologies. Multi-Cloud computing is a special case of "hybrid cloud computing" and it refers to the deliberate use of cloud services from multiple public cloud providers. 
+
+Characteristics
+
+Cost Reduction
+Leverage Ecosystems
+Lightweight Applications
+Intelligent Capabilities
+Speed
+
+
+Hybrid Cloud Solutions allow enterprises to:
+
+Move workloads to public cloud and take advantage of that platform’s scalability, while keeping operational consistency with its on-premises environment, enabling it to maximize the organization’s existing IT skillsets & tools. (VMware Cloud on AWS), or
+Spin up the same cloud platform that the cloud provider runs in its public cloud inside the enterprise’s private, on-premises data center, thereby keeping a consistent set of tools and services available and making Hybrid Cloud management easier. (MS Asure Stack)
+Multicloud computing has the potential to lower the risk of cloud provider lock-in, specify functional requirements that a business unit may have and provide service resiliency and migration opportunities.
+
+
+Issues like cross-cloud storage performance remains critically limited because of insufficient WAN bandwidth and long latencies
+Provide freedom from data center and deployment model choices for any given application, but not from vendor lock-in
+Lack of common APIs among cloud service providers to support migration of a new application from one deployment model to another without changing the application
+
+
+Hybrid cloud articulates enterprises' desire for consistencies between their public and private cloud environments. Until recently, a choice made at provisioning time became a near-permanent choice for the life of that workload. Over the years, moments of short-lived excitement to tackle this inconsistency have occurred. Since that time, there's been a desire for consistency between public and private cloud worlds. 
+
+Hybrid solutions target the increasing desire for cloudlike operations, agility and operating expenditure (opex) models. Many organizations are challenged to execute on these desires, because they need to maintain private infrastructure for certain workloads and applications.
+
+In addition, customers are seeking to augment their cloud skills, tools, processes and knowledge by leveraging a managed service provider to reduce the complexity of adopting hybrid and multicloud. Managed hybrid cloud hosting is a versatile option for workloads that have operational, privacy, security, location, dependencies or other issues that complicate the use of public cloud.
+
+--------------------
+
+SERVERLESS COMPUTING
+
+Despite the name, serverless computing does not actually involve running code without servers. The name serverless is used because the business that owns the system does not have to purchase, rent or provision servers or virtual machines for the back-end code to run on.
+
+
+Serverless Computing is an architecture where code execution is fully managed by a cloud provider, instead of the traditional method of developing applications and deploying them on servers. It adds another layer of abstraction atop cloud infrastructure, so developers no longer need to worry about servers, including virtual ones in the cloud. Serverless is also known as Function as a Service (FaaS/fPaaS).
+
+Characteristics
+Function-as-a-Service
+Event-driven coding
+Scalable services
+Billing per invocation
+API gateway integration
+Support for DevOps and tooling
+
+
+Serverless computing can accelerate the development process. It allows a developer to create arbitrary business logic independent of a specific application, package it and deploy the package to a runtime for execution without having to understand or specify the underlying compute infrastructure. The developer merely interacts with the serverless service's API or development tools
+
+Some serverless providers offer function libraries to further accelerate development, with provisioning and autoscaling on-demand
+Serverless architecture helps developers assemble digital experiences from granular parts by chaining units of arbitrary compute together and changing their execution order without having to recompile or redeploy an entire application
+
+With “microbilling,” services like Function-as-a-Service charge fractions of cost for the compute resources. This model is the extreme of cloud’s pay-per-use economics and is popular as it reduces the upfront cost of experimentation and prototyping
+
+
+Developers may be relieved of many DevOps infrastructure management issues, but they have to manage new higher-level application operation issues
+No out-of-the-box local testing environments for many of these services, so teams start by editing and uploading in a repetitive cycle as they refine their code
+Neither an easy migration path for existing applications, nor it is easy to operate the hardware, management and orchestration software to support serverless
+
+
+The adoption of serverless computing in enterprise is still quite nascent, due to the immaturity of the technology for general purpose enterprise workloads as well as the fact that a majority of workloads today are "request-driven" rather than "event-driven."
+
+However, event-driven workloads will grow in importance as next generation front-ends will be driven by new technologies like IoT devices, AI-enabled user experience platforms and virtual reality applications.
+
+At their current capabilities, serverless offerings are not yet a true substitute for Virtual Machines (VMs) or containers for general purpose use cases. However, their mainstream adoption within the data center could be slowed by the fact that product innovation and DevOps teams are primarily driving the adoption of serverless models within the enterprise. Crucially, most of the deployments are happening outside the scope of I&O (Intelligence and Operations).
+
+The serverless model is emerging as the native cloud platform architecture in digital business and these delivery models will eventually expand to encompass mainstream workloads.
+
+The adoption is expected to increase, with many of the organizations planning to increase the frequency and scope of serverless technology application in their business within the coming year, and also some expecting to more than double their use year-over-year in each of the next five years.
+
+----------------------
+
+UCAAS
+
+Cloud Unified Communications (UC), also known as Unified Communications as a Service (UCaaS), is provided over multitenant or virtualized infrastructure that is owned, maintained and hosted by the service provider. The core functions include integrated Instant Message (IM) and presence, telephony, messaging, meeting solution (includes audio, web, video conferencing) and mobility.
+
+UCaaS can elevate the contact center experience by integrating customer contact across multiple channels. This allows a business to better see and analyze the customer journey, ensuring customer satisfaction and reducing churn. 
+
+
+Unified Communications as a Service (UCaaS) refers to a service model where providers deliver different telecom or communications software applications or services, generally over the global IP network. The core functions of UCaaS include integrated — IM and presence, telephony, messaging, meeting solution (which includes audio, web and video conferencing) and mobility.
+
+ 
+
+Characteristics
+Unified Messaging
+Presence Technology
+Online Meetings
+Collaboration Tools
+Conferencing (audio, Web and video)
+
+
+UCaaS involves the integration of real-time communication services (including voice, instant messaging and video conferencing) with less time-centric services (such as voicemail, email and text messaging) on a single platform that provides a consistent user interface and experience across multiple devices.
+UCaaS solutions enable organizations to support BYOD, mobility, remote work and other workplace transformation initiatives.
+
+Delivers continuity of operations through real-time proactive system monitoring, reporting and data traffic analysis; incident and problem resolution; fault tolerance with multi-site redundancy and high availability infrastructure Offers better integration with other SaaS offerings, such as Salesforce and ERP systems, allowing enterprises to leverage the best of clouds from one platform
+
+
+Most UCaaS solutions work well for standard knowledge workers but some solutions are limited when compared to an on-premises and hybrid PBX for supporting more demanding or unique use cases (for example, supporting power users, high survivability or specialized devices)
+
+Enterprises with locations outside the top 30 or so country markets may stay on-premises because they cannot find a UCaaS provider that adequately supports the countries they operate in UCaaS support in Eastern Europe, Latin America, the Middle East and Africa and parts of Asia/ Pacific is not consistently available
+
+
+UCaaS adoption increased across all market segments with users adopting solutions that span multiple countries and global geographic regions. From 2017 through 2022, the rate at which organizations deploy cloud telephony will more than double, from about 14% of users to 32% of users.  AD&D professionals are increasingly sourcing Unified Communications technology as a cloud service rather than on-premises. In addition, hybrid configurations are on the rise among enterprises for investment protection and migration planning for their current UC&C solutions.
+
+UCaaS providers are focusing on Microservice-based architectures built on public clouds to accelerate technology innovation, increase operational efficiency and reduce hurdles to global expansion.
+
+The market is increasingly dominated by mega-vendors that couple their UC offerings with a bundle of capabilities not directly related to the core UC functions (such as office productivity tools, network services, professional services, network infrastructure, etc.). However, for many enterprises, these broader, mega-bundled solutions are not as strong a UC offering as those from more focused best-of-breed competitors.
+
+Selling additional professional services to customers migrating from time-division multiplexing (TDM) voice to IP voice and unified communications and from on-premises platforms to hosted services represents opportunities for services providers.
+
+----------------------
+SAAS
+
+Software as a Service (SaaS) is the application service layer within cloud computing. The application software is owned, delivered and managed remotely by one or more providers. The provider delivers a solution based on uniform application definition and on a sharing model at one or more layers of the application stack. SaaS is purchased on a pay-for-use basis or as a subscription based on usage metrics.
+
+Software as a service (SaaS) is a model for the distribution of software where customers access software over the Internet.
+
+ 
+
+Characteristics
+Scalability
+Easy to use
+Saves Time/Costs
+Enhanced Security
+
+
+SaaS does not require a capital investment in hardware and licenses, which further reduces its initial costs.
+SaaS is a perfect choice for organizations that do not have the IT resources to deploy and maintain on-premises software. 
+Across nearly all categories of enterprise applications, new and add-on deals are SaaS. For systems of engagement — where collaboration, agility, speed, and usability are at a premium — SaaS has widespread and growing adoption
+
+As enterprises continue to migrate core apps to the cloud, SaaS is an option for immediate deployment and compatibility in a cloud environment, replacing or extending legacy apps that would not function correctly in the public cloud
+The largest and most mature SaaS markets are Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) and Office Suites like Microsoft Office 365
+
+
+Despite SaaS solutions having been in the market for two decades, many SaaS apps are still limited in what they expose for implementation and integration; use proprietary tools; and rely on a fragmented network of partners for implementation and integration.
+
+Concerns like security, privacy, and integration hold back enterprises to deploy core business applications especially in regulated industries like healthcare and financial services SaaS landscape is still highly fragmented; the typical company uses dozens if not hundreds of SaaS solutions. This multivendor environment means additional costs in areas like vendor management, contracting, integration, provisioning, end user support, upgrade management, testing, and workflow.
+
+Governance is a major challenge for SaaS. Usually the users access SaaS resources outside the knowledge and control of enterprise, introducing unapproved software that can lead to unnecessary risks. Shadow IT undermines the effort and poses a real challenge for an organization.
+ 
+
+The utilization of SaaS, and the maturity of many existing offerings, will continue to evolve rapidly for at least another 10 years. Gartner indicates that the SaaS market will reach $144bn by 2022.
+
+While SaaS gains mainstream acceptance, the range of applications and operational control technologies that leverage and underpin it are progressing at varying velocities and states of evolution.
+
+SaaS is a double-edged sword — while it brings incredible benefits, it also creates formidable challenges that take the roles and responsibilities of IT to new extremes. In many ways, the IT operational challenges, risks, support service model, and gaps in controls stand in the way of enterprises looking to make big gains from SaaS.
+SaaS is often considered as a single industry, but this is a false representation. In reality, SaaS is a single cloud tier, but it is broken into many different markets and segmented by the actual business process that a given solution satisfies.
+
+--------------
+
+CLOUD SECURITY
+
+Cloud security addresses the processes, technologies and services used to control the security, compliance and usage risks of public and private cloud-based systems.
+
+Cloud access security broker (CASBs) provide shadow IT discovery, a consolidated view of an organization’s cloud service landscape and details about the users who access data in cloud services from any device or location.  For sensitive data such as personally identifiable information, intellectual property, and data subject to regulatory compliance (e.g., HIPAA, PCI-DSS), Cloud Security Gateways (CSG) solutions can monitor data in transit.
+
+
+Cloud Security refers to a broad set of policies, technologies and controls deployed to protect data, applications and the associated infrastructure of cloud computing.
+
+ 
+
+Characteristics
+Top-of-the-Line Perimeter Firewall
+Intrusion Detection Systems with Event Logging
+Internal Firewalls for Individual Applications and Databases
+Encryption is a common cloud security mechanism, and customer-controlled keys are growing in significance.
+Software-defined host and network security approaches are becoming the norm in virtualized private clouds and infrastructure as a service (IaaS).
+
+
+Traditional security tools can’t effectively monitor data moves from and within the cloud. This can lead to a failure to identify fraudulent use of data, unauthorized downloads and malwares. Cloud security solutions offer the tools to keep cloud data and apps secure, especially when data moves between cloud workloads and apps.
+Cloud-specific security tools (e.g., CSPMs and CASBs) and cloud-relevant security services (e.g., SaaS-delivered IAM) are providing new control approaches for cloud (and especially multi-cloud) environments that otherwise are not conducive to centralized analysis of security configuration, user behavior or threat monitoring.
+Emerging cloud security technologies such as secure access service edge (SASE) will enable new digital business use cases (such as digital ecosystem and mobile workforce enablement) with increased ease of use, while at the same time reducing costs and complexity via vendor consolidation and dedicated circuit offload
+Organizations are using SaaS to fill gaps in enterprise identity and access management (IAM) portfolios and IAM staffing functions and to achieve faster time to value.
+
+
+Increasing cloud deployments and multiple cloud implementations are creating more challenges for cloud security, including data monitoring, anomaly detection and intercepting bad behaviors
+Lack of cross-platform security support
+Enterprises use cloud access service brokerage services for adding multifunctional and multi cloud security. It creates a dependency for the organization's cloud applications and creates performance, availability and functionality risks
+
+
+Cloud Security becomes more important as mission-critical apps move to the cloud and use of cloud services has become more mainstream. 
+
+As on-premises technology continues to be less effective at protecting data stored in the cloud against a new class of threats, improved cloud malware detection, monitoring, data loss prevention, and encryption will dictate which providers will lead.
+
+Security within IaaS is a quickly shifting landscape. IaaS vendors are offering security features, but they are usually not as fully featured or easily integrated with third-party solutions. As IaaS adoption increases, so too do the numbers of enterprises sourcing IaaS from multiple vendors; such native solutions are not interchangeable. The ability for third-party security solutions to integrate with native controls is still emerging.
+
+Firms increasingly prioritize cloud security investments to meet regulatory requirements, reduce security costs, and protect their critical data.
+
+-----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
  
