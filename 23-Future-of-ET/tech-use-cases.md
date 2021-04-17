@@ -870,7 +870,7 @@ Researchers from the NYU Tandon School of Engineering are working on a new appro
 
 R&D AT BIOGEN
 
-As a leading biotech company, Biogen is seeking to advance the development of new drugs for neurological and neurodegenerative diseases. Biogen has teamed up with Accenture Labs and 1QBit, a quantum software startup, to speed up the discovery of new drugs.
+As a leading biotech company, Biogen is seeking to advance the development of new drugs for neurological and neurodegenerative diseases. 
 
 -----------
 R&D AT AMGEN
@@ -1123,7 +1123,7 @@ Currently, Woodside runs more than 6,000 algorithms on the sensor data from its 
 
 Amazon’s NLP & AI platform, Alexa
 
-Accenture developed a solution for a European energy provider using Amazon’s NLP & AI platform, Alexa. An Alexa Voice skill was developed and tailored to allow energy customers to manage their energy account through Amazon’s voice service.
+Solution for a European energy provider using Amazon’s NLP & AI platform, Alexa. An Alexa Voice skill was developed and tailored to allow energy customers to manage their energy account through Amazon’s voice service.
 
 Developed key features suitable for use by energy customers using Alexa’s voice skill.
 Mobilised and delivered the solution to meet the Amazon Echo UK launch (end of Sep 16) achieving Amazon certification first time. 
@@ -1146,7 +1146,7 @@ Bluetooth 5 can also play a role in Beacon technology, which allows businesses, 
 
 Smart Grid Analytics Platform
 
-Smart Grid Analytics, Advanced Grid operations and Outage management are realizing the value of the investments in the Smart (digitized) Grid. Clients in Utilities have high expectations of the benefits from IoT solutions. With Smart Grid Analytics Platform Accenture could deliver the capital avoidance to 8%, OPEX reduction to 15%, leakage reduction to 10%, labor productivity to 20%-3%, energy bills to 10%, data & IT costs to 40% with annual savings of $50M.
+Smart Grid Analytics, Advanced Grid operations and Outage management are realizing the value of the investments in the Smart (digitized) Grid. Clients in Utilities have high expectations of the benefits from IoT solutions. With Smart Grid Analytics Platform  could deliver the capital avoidance to 8%, OPEX reduction to 15%, leakage reduction to 10%, labor productivity to 20%-3%, energy bills to 10%, data & IT costs to 40% with annual savings of $50M.
 
 
 ------------
@@ -1271,7 +1271,7 @@ Through the installation of 823,000 smart meters and creation of the SmartHours 
 
 IT As-a-service
 
-Utilities companies are looking at how technology can reduce costs, drive efficiencies, enhance competitive advantage and support emerging business models. Cloud helped one of the large utilities company to streamline its inventory system, meet compliance and eliminate legal risks. The objective is to optimize the configuration of existing software products, eliminate legal risks and minimize software licensing expenditures. Accenture introduced Softline system integrator which developed a concept for cloud service use, virtualization and thin clients. This concept is expected to increase the efficiency of the company's IT infrastructure by 30%, the efficiency of resource use by 40% and speed up making decisions online. And the company gained access to more powerful software inventory and analytical tools, ensured maximum coverage of IT assets by specialized software, and brought its regulatory documentation into compliance with the ISO standard and existing corporate policies.
+Utilities companies are looking at how technology can reduce costs, drive efficiencies, enhance competitive advantage and support emerging business models. Cloud helped one of the large utilities company to streamline its inventory system, meet compliance and eliminate legal risks. The objective is to optimize the configuration of existing software products, eliminate legal risks and minimize software licensing expenditures. introduction of Softline system integrator which developed a concept for cloud service use, virtualization and thin clients. This concept is expected to increase the efficiency of the company's IT infrastructure by 30%, the efficiency of resource use by 40% and speed up making decisions online. And the company gained access to more powerful software inventory and analytical tools, ensured maximum coverage of IT assets by specialized software, and brought its regulatory documentation into compliance with the ISO standard and existing corporate policies.
 
 ------------
 Surveillance
@@ -1378,14 +1378,13 @@ Sources: UK Government Office for Science
 Voice-Based Processing of Tax Payments
 
 A European Revenue Agency wanted to enable its citizens with voice-basedprocessing of tax payment. 
-Accenture developed a Virtual Agent for voice-based interactions capable of:
+
 
 User authentication
 End-to-end payment processing, including processing payment details
 Answering questions about the local tax policies
 Account PIN reset functionality
 
-Accenture Virtual Agent features:
 
 Bespoke Persona: Designing a friendly Virtual Agent persona to relate to the agency user base
 Telephony Integration: Integration with telephony using Twilio to enable users talk to the Virtual Agent on a call
@@ -1487,7 +1486,7 @@ Mobile Data, Replacing Wireless Networks: Instead of having a mobile data plan a
 
 GESI SUSTAINABILITY IMPACT QUANTIFICATION 
 
-GeSI, the Global e-Sustainability initiative, has a clear vision: to build a sustainable world through responsible, Information and Communication. Technology (ICT)-enabled transformation. They approached Accenture to quantify the sustainability impact of digital solutions using analytics and actual data and to define methodology to steer activities of digital industry to maximize positive impacts. To date, the client has committed to elevate positive impacts, flip negative impacts and innovate for all Sustainable Development Goals (SDGs).
+GeSI, the Global e-Sustainability initiative, has a clear vision: to build a sustainable world through responsible, Information and Communication. Technology (ICT)-enabled transformation. They approached to quantify the sustainability impact of digital solutions using analytics and actual data and to define methodology to steer activities of digital industry to maximize positive impacts. To date, the client has committed to elevate positive impacts, flip negative impacts and innovate for all Sustainable Development Goals (SDGs).
 
 
 --------------
@@ -1684,7 +1683,7 @@ Impact: Smaller batteries required to power vehicles. 25% reduction in consumpti
 
 Google launching AI-enabled automation tools
 
-Contact Center AI, Vision Product Search, and Document Understanding AI are a beta version solutions which natively integrate with automation solutions i.e. From UiPath, Accenture, Iron Mountain, and others. Google’s AI and machine learning products and services portfolio keeps growing.
+Contact Center AI, Vision Product Search, and Document Understanding AI are a beta version solutions which natively integrate with automation solutions i.e. From UiPath, , Iron Mountain, and others. Google’s AI and machine learning products and services portfolio keeps growing.
 
 
 
@@ -1769,7 +1768,7 @@ IBM’s Watson IoT services offer integrated capabilities, delivering services b
 ----------------
 Prescriptive Bid Analysis
 
-Effective contract auditing must be backed by a compliance monitoring mechanism. As per procurement community Suppliers know that contracts are difficult to verify and would be helpful to have something to auto detect non-compliance and highlight. Accenture created Contract compliance analytics which are powered by text analytics. Compliance Analysis that is compliant vs non-compliant transactions were done and the initial analysis showed the items that can be acted upon. Therefore, prioritization by Value at Risk, higher vs lower, favourable vs unfavourable is used to filter the critical ones and minimize the potential cost of non-compliant transactions.
+Effective contract auditing must be backed by a compliance monitoring mechanism. As per procurement community Suppliers know that contracts are difficult to verify and would be helpful to have something to auto detect non-compliance and highlight.  created Contract compliance analytics which are powered by text analytics. Compliance Analysis that is compliant vs non-compliant transactions were done and the initial analysis showed the items that can be acted upon. Therefore, prioritization by Value at Risk, higher vs lower, favourable vs unfavourable is used to filter the critical ones and minimize the potential cost of non-compliant transactions.
 
 --------------------
 ASSEMBLY ROBOTS
@@ -1990,7 +1989,7 @@ GoDaddy, the American Internet domain registrar and web hosting company, uses Ji
 ----------------
 Microsoft Office 365
 
-Accenture was looking to improve the efficiency of its IT services, without adding extra costs. Accenture had been using a suite of on-premises services that included Microsoft Office and Office Communicator, but came to realize that running services on-premises was an expensive option. Avanade and Accenture, in under 12 months, completed one of the biggest ever deployments of Microsoft Office 365, involving more than 290,000 users and 11,000 sites across 54 countries. 13,000 Microsoft SharePoint Online sites were created, 130 TBs of data moved with users experiencing additional functionality promptly.
+X was looking to improve the efficiency of its IT services, without adding extra costs. X had been using a suite of on-premises services that included Microsoft Office and Office Communicator, but came to realize that running services on-premises was an expensive option. Avanade and X, in under 12 months, completed one of the biggest ever deployments of Microsoft Office 365, involving more than 290,000 users and 11,000 sites across 54 countries. 13,000 Microsoft SharePoint Online sites were created, 130 TBs of data moved with users experiencing additional functionality promptly.
 
 --------------
 IBM Connections
@@ -2251,7 +2250,7 @@ Operating from New Zealand, Australia, and the United Kingdom, Smart Parking pro
 
 POSTAL ROUTE OPTIMIZATION
 
-Applied to a system or process, digital twins can eliminate the need for physical experimentation while optimizing performance under different conditions. For example, Accenture worked with Ireland’s An Post, a public postal service, to create a digital twin of its hundreds of vehicles, delivery routes, multiple sorting centers, and different processes to evaluate the impact of new technologies and test new approaches on throughput and timeliness.
+Applied to a system or process, digital twins can eliminate the need for physical experimentation while optimizing performance under different conditions. For example, X worked with Ireland’s An Post, a public postal service, to create a digital twin of its hundreds of vehicles, delivery routes, multiple sorting centers, and different processes to evaluate the impact of new technologies and test new approaches on throughput and timeliness.
 
 
 -----------
@@ -2314,7 +2313,7 @@ The result is more profitable rental properties and more information along with 
 TELCO REDUCE CALLS FOR TRAVEL FEATURE
 
 International/Global transactions were costing a Telco client $160m annually. They wanted to reduce cost due to care/retail assisted transactions, repeat call-in rate, post transaction credits, and transfer rates. 
-With the client, Accenture set out to process Global and International Rebranding. Policy: Removal of Proration and Feature Expiration. The need was identified to completely revamp the global roaming system to make it customer-friendly.
+With the client, set out to process Global and International Rebranding. Policy: Removal of Proration and Feature Expiration. The need was identified to completely revamp the global roaming system to make it customer-friendly.
 
 ------------
 
@@ -2333,7 +2332,7 @@ E-textiles have an important role to play in travel and safety industries. Lumos
 ROYAL CARIBBEAN DIGITAL NETWORK 
 
 Commanding over 21% of the worldwide cruise market, Royal Caribbean is a huge operation comprising over 25 large vessels, and when it decided to enable a Cruise Ship Digital Experience with a Digital Network Platform it was always going to be a major undertaking.
-Accenture was able to help Royal Caribbean target Digital Network Architecture for two dry dock ship revitalizations in 2018, as well as preparing “Beyond”, a new ship launch with state of the art Digital Network in 2019.
+X was able to help Royal Caribbean target Digital Network Architecture for two dry dock ship revitalizations in 2018, as well as preparing “Beyond”, a new ship launch with state of the art Digital Network in 2019.
 
 
 
@@ -2342,13 +2341,13 @@ Accenture was able to help Royal Caribbean target Digital Network Architecture f
 
 Travel Portal at Deutsche Telekom
 
-Deutsche Telekom wanted to create a portal (Tripdiscover) to offer potential customers personalized travel destination ideas and connect them with travel providers. The accelerated timeline and cost-effective delivery were possible due to Accenture’s choice of Google’s App Engine, a Platform-as-a-Service (PaaS) ecosystem, and by leveraging Accenture’s agile team structure and methodologies.
+Deutsche Telekom wanted to create a portal (Tripdiscover) to offer potential customers personalized travel destination ideas and connect them with travel providers. The accelerated timeline and cost-effective delivery were possible due to X’s choice of Google’s App Engine, a Platform-as-a-Service (PaaS) ecosystem, and by leveraging X’s agile team structure and methodologies.
 
 
 ------------
 HILTON DIGITAL ENTERPRISE STRATEGY
 
-Hilton, the Hotel & Resort brand with over 570 hotels worldwide, wanted to become a data-driven organization that better understands the wants and needs of customers and anticipates opportunities. Accenture worked with Hilton to enact changes in the form of seven recommendations across media, loyalty program and customer satisfaction score, resulting in over $150m incremental revenue potential.
+Hilton, the Hotel & Resort brand with over 570 hotels worldwide, wanted to become a data-driven organization that better understands the wants and needs of customers and anticipates opportunities. worked with Hilton to enact changes in the form of seven recommendations across media, loyalty program and customer satisfaction score, resulting in over $150m incremental revenue potential.
 
 ----------
 
@@ -2388,13 +2387,13 @@ Path analysis, a type of graph analytics, can be used to determine the shortest 
 
 Automatic Alert for Identifying Overdue Invoices
 
-Apps target those challenges that are faced by multiple clients, 30+ apps today, across 8 flywheel offerings, targeting business outcomes for clients. Accenture collaborated to create the apps Intelligent Collections, Payables Optimizer, Disputes Predictor and Provision Predictor for Finance and Accounting to optimize working capital. Intelligent Collections app provides descriptive analytics on accounts receivables and has the potential to increase in cash collection by 10 - 25%. Payables Optimizer app provides descriptive analytics on accounts payable and has the potential to reduce Travel and Expenses costs by 3-5%. Disputes Predictor uses binary logistic regression to analyze historical receivables and payments data and has the potential to reduce disputes by up to 10-20%. Provision Predictor app helps the CFO in giving better guidance on profit and loss numbers has the potential to improve provision prediction to 10-20%.
+Apps target those challenges that are faced by multiple clients, 30+ apps today, across 8 flywheel offerings, targeting business outcomes for clients.  collaborated to create the apps Intelligent Collections, Payables Optimizer, Disputes Predictor and Provision Predictor for Finance and Accounting to optimize working capital. Intelligent Collections app provides descriptive analytics on accounts receivables and has the potential to increase in cash collection by 10 - 25%. Payables Optimizer app provides descriptive analytics on accounts payable and has the potential to reduce Travel and Expenses costs by 3-5%. Disputes Predictor uses binary logistic regression to analyze historical receivables and payments data and has the potential to reduce disputes by up to 10-20%. Provision Predictor app helps the CFO in giving better guidance on profit and loss numbers has the potential to improve provision prediction to 10-20%.
 
 --------------------
 
 Duplicate Payments Analytics
 
-Finance & Accounting Analytics helps clients optimize working capital, improve cash collections & discount capture rates and reduce invoice dispute, across entire function. Accenture with the available apps like T&E Compliance Analytics utilized analytical models to automatically identify the non-compliance with travel and expense policies, infusing ethical behaviour and cost savings. And with the Payables Optimizer app prevented losses due to missed discounts and contractual penalties, identified and retrieved excess/duplicate payments from vendors, through right strategy. These eventually helped to reduce travel & expenses cost, improve compliance, improve discount capture by 10 - 20%, reduce duplicate payments by 15 -20%.
+Finance & Accounting Analytics helps clients optimize working capital, improve cash collections & discount capture rates and reduce invoice dispute, across entire function. with the available apps like T&E Compliance Analytics utilized analytical models to automatically identify the non-compliance with travel and expense policies, infusing ethical behaviour and cost savings. And with the Payables Optimizer app prevented losses due to missed discounts and contractual penalties, identified and retrieved excess/duplicate payments from vendors, through right strategy. These eventually helped to reduce travel & expenses cost, improve compliance, improve discount capture by 10 - 20%, reduce duplicate payments by 15 -20%.
 
 --------------
 
@@ -2466,12 +2465,7 @@ NEUTRALIZE ACTIVE THREATS
 
 A large retail organization used Attivo Networks’ ThreatDefend Deception Platform to determine active threats in networks acquired after M&A. The system detects confirmed interaction and engagement with decoys and traps deployed throughout the enterprise, and alerts on misconfigurations that may reflect risk exposure.
 
---------
 
-TELCO REDUCE CALLS FOR TRAVEL FEATURE
-
-International/Global transactions were costing a Telco client $160m annually. They wanted to reduce cost due to care/retail assisted transactions, repeat call-in rate, post transaction credits, and transfer rates. 
-With the client, Accenture set out to process Global and International Rebranding. Policy: Removal of Proration and Feature Expiration. The need was identified to completely revamp the global roaming system to make it customer-friendly.
 
 
 
@@ -2797,7 +2791,7 @@ Using optical character recognition and robotics technology from IBM, HSBC’s G
 
 ASSET TRADING
 
-The Aidmatrix Foundation, a non-profit organisation decided to move its IT infrastructure to the cloud, to lower operating costs and increase agility. The joint Accenture and Avanade team managed the design, development and migration of core applications to a Microsoft Azure platform. The transition achieved elastic scalability and accelerated time to market, enabled infrastructural cost savings and improved the client’s ability to store massive amounts of logistics data for analysis.
+The Aidmatrix Foundation, a non-profit organisation decided to move its IT infrastructure to the cloud, to lower operating costs and increase agility. The joint X and Avanade team managed the design, development and migration of core applications to a Microsoft Azure platform. The transition achieved elastic scalability and accelerated time to market, enabled infrastructural cost savings and improved the client’s ability to store massive amounts of logistics data for analysis.
 
 
 ----------------------
@@ -2829,7 +2823,7 @@ Recently, the firm is developing a private blockchain based on Ethereum. The pro
 
 Barclays – Agile Mobile App Factory
 
-Accenture implemented a Barclays Agile mobile App factory helping Barclays with Solution Design, iOS Development and Project Management. The commercial model is 100% capacity services to align with Agile approach, not fixed scope/price. The app factory was integrated with third-party suppliers for branding, design and legacy integration.
+ implemented a Barclays Agile mobile App factory helping Barclays with Solution Design, iOS Development and Project Management. The commercial model is 100% capacity services to align with Agile approach, not fixed scope/price. The app factory was integrated with third-party suppliers for branding, design and legacy integration.
 
 
 --------------------
@@ -3119,7 +3113,7 @@ SANTANDER TRADE RECOMMENDATION ENGINE
 
 The objective was to create a new Trade Club solution, giving Corporate Banking Clients a way to identify and originate trade opportunities with industry counterparts, while improving the effectiveness and productivity of Santander’s Relationship Directors and expanding competitiveness, growing revenue and primacy through market-leading innovative analytics capability.
 The building blocks of a new analytics engine were established, and confidence was also built in using GCP for the long-term solution. An excitement was fuelled around the re-imagining of the Trade Club and discussions are underway about how to move forward with a PoC/MVP.
-Identifying wow factor and discussing merits of building with Accenture vs In-house are both intensively discussed.
+
 
 --------------
 ---------------
@@ -3868,6 +3862,169 @@ Cloud computing is mainstream today, and there is a significant technology push 
 Businesses should be encouraged to investigate swarm computing today to fully exploit it tomorrow.
 
 -----------------
+
+
+
+MANAGED IOT CONNECTIVITY SERVICES
+
+Managed IoT connectivity services are a small component of an IoT solution but have a critical role due to the complexity of endpoints and connectivity types to manage.
+
+According to Gartner, by 2023, 10% of manged IoT worldwide connectivity will be provided through hyperscale cloud providers, up from less than 1% in 2019.
+
+
+
+Managed IoT connectivity services, also known as managed machine-to-machine (M2M) services, encompass connectivity hardware, software, and network and IT services that are generally bundled and managed by a third-party provider. These services enable enterprises to connect, monitor and control business assets and processes over a fixed or wireless connection. These services are key to informing and integrating purpose-built and stand-alone telematics systems, IoT platforms or legacy back-end IT (e.g., ERP, CRM) and OT systems (e.g., SIS, DCS).
+
+Key Features
+Sourcing and logistics management
+Connectivity management portal
+Service management and support
+SIM and subscription management
+Device management
+Application management
+Security management
+Multisourcing service integration (MSI)
+
+5G and edge computing, which are likely to accelerate growth in this market
+Connected vehicles; by 2023, over 60% of all new connected vehicles produced will feature an embedded SIM (eSIM) for cellular connectivity, up from less than 5% in 2019, according to Gartner.
+Broader opportunities for enterprises looking to offload the management of IoT solutions include cost reduction and increased time to value, access to new skills, improved user experience and achievement of more effective monitoring/management to guarantee a certain level of uptime and security.
+
+
+Global 3GPP LPWAN deployments require roaming and interoperability which still needs at least two years to mature
+Difficulty in choosing from the wide range of service activities supported, and picking the right expertise from a growing and fragmented provider landscape
+Pricing can be unclear and ill-defined
+Lack of use cases that link successful managed IoT deployments with ROI.
+
+The market for cellular-based-managed IoT connectivity services is mature for traditional 2G, 3G and 4G LTE networks, field-area networks (FANs) and satellite. LPWAN (low-power wide-area network) will be a key technology for managed IoT connectivity services providers in the near-future. It is expected that by 2022, 40% of global managed IoT connectivity vendors will offer worldwide 3GPP (3rd Generation Partnership Project) LPWA network (including NB-IoT (NarrowBand IoT) and LTE-M (Long Term Evolution for machine-type communications)) roaming coverage, up from 0% in 2019. The market for 3GPP LPWAN is likely to accelerate due to national deployments in large countries like China, specifically NB-IoT, or the US. Partnerships will also be key – by 2023, 80% of manufacturers that embed 3GPP connectivity services will use a partner revenue share model, up from 20% in 2019.
+
+Access to managed connectivity services will continue to be important when rolling out IoT solutions at scale – technology leaders will be required to look beyond network coverage to the quality and capability of vendor portals, security and broader deployment support services. Managed IoT connectivity services have the potential to transform the IoT into a measurable, recurring operational expense as opposed to a nonrecurring capital expense that would be managed internally.
+
+--------------
+
+IOT EDGE ARCHITECTURE
+
+There is a growing awareness of the technical challenges involved for both end- users and vendors when bringing data at the edge of IoT, alongside an understanding that edge processing and storage will be key elements of many IoT deployments.
+
+Edge capabilities are increasingly being used in end user product and technology evaluation,  and most major vendors involved in IoT enablement are looking to address the edge in one form or another.
+
+With the growth of analytics being applied to IoT data, many end users are looking to put more analytics capabilities closer to the point of data creation, giving vendors opportunities to offer more products with compute and storage capabilities  and IoT-specific edge networking solutions (e.g. embedding security, data and device management in IoT-specific edge networking solutions).
+
+IDC predicts that, by 2024, over 75% of infrastructure in edge locations will be consumed and operated via an as-a-service model, giving service provides the opportunity to focus on enabling infrastructure (e.g. collocated data-centers and matching IT resources to network access points).
+
+Although core data-centers will continue to make up the lion’s share of spending on compute/storage infrastructure in support of IoT workloads, spending on storage deployments at the edge is set to grow rapidly and more data will need to be stored for processing at the edge. A broad set of potential IoT configurations will fuel the adoption of IoT infrastructure at the edge. A well-defined and carefully designed IoT edge architecture is therefore a critical building block for the majority of IoT initiatives. The best examples balance technical elements, such as data analytics, security and scalability, against overall business requirements and integration complexity.
+
+Due to this - IoT deployments becoming more complex and businesses more data-driven - decision-makers must look to combine scalability with manageability. This becomes more and more challenging when dealing large volumes of data generated by connected devices, and with network limitations of bandwidth, latency and connectivity. Analytics needs to be brought to the data, rather than vice versa, and pushing analytics to the edge of IoT requires a flexible, knowledge-driven framework.
+
+Due to the challenges around deploying an advanced IoT edge architecture, the business case is not always there even if the use case for doing so is. Hence, IoT edge architecture is classified as an improving technology with a maturity horizon of 3-5 years. It is important to note that these dynamics can vary notably by industry vertical – investing in edge architecture in consumer IoT is less feasible than in industrial IoT, for example, where applications tend to require robust edge capabilities by necessity.
+
+IDC expects the IoT edge infrastructure market to grow at 20.3% between 2019 and 2024, from $2.5bn to $6.4bn.
+
+-----------------
+
+IOT PLATFORMS
+
+Organizations around the world are adopting IoT strategies to gain operational efficiencies, as well as to create better customer experiences and new product and service offerings. IoT platforms play a central role in such deployments, offering a standardized approach to build, deploy, manage, and secure IoT applications and devices.
+
+
+
+The IoT platform market is yet to consolidate but is growing in complexity – vertical IoT platforms are emerging alongside horizontal ones, including multifunctional software platforms which connect and manage IoT devices as well as analyze IoT data. These IoT platforms are playing a key role in the deployment of IoT strategies, offering a standardized approach to build and deploy managed and secure IoT applications and devices.
+
+Enterprises are leveraging IoT platforms that drive specific business solutions such as predictive maintenance, remote asset tracking and consumption efficiency, and suppliers should focus on providing examples of specific use cases to customers rather than purely demonstrating technology.
+
+An effective IoT platform can handle the complexity of IoT solutions and provide customer value, if providers can address the top issues which inhibit IoT developments; security, privacy, initial and ongoing costs, lack of skills and proof of ROI. Openness will be also key for IoT platform success – collaborative models with open and fully documented APIs/open source tools that use industry standards will have the strongest chance to thrive. Building an ecosystem of partners around an IoT platform will also be key for suppliers, as partners can provide technology functionality, vertical industry expertise, service capabilities and go-to-market opportunities.
+
+According to IDC,  the global IoT software platform market is set to grow at a compound annual growth rate (CAGR) of 28.6% between 2018 and 2023, from $1.5 billion to $5.3 billion.
+
+--------------------
+
+IOT SECURITY
+
+The IoT security market is maturing rapidly to meet the challenge of new cybersecurity threats in a multitude of industries, brought about by the increasing proliferation of connected devices.
+
+Amidst the proliferation of IoT devices, IoT security is too often an afterthought when developing hardware or software that may contain vulnerabilities. Concerns persist regarding the integration of IoT with traditional systems and practices, often deepened by the vertical and use-case-specific nature of IoT security deployments. By 2021, according to Gartner, IoT risk and security needs will increase total IoT project costs by 10%, up from 3% in 2018. The market for security technology for IoT is expanding with providers offering hardware and software through the IoT stack as well as different service delivery formats.
+
+IDC expects worldwide IoT security market to grow from $12.9 billion in 2018 to $21.3 billion in 2023, at a CAGR of 10.5%. Physical IoT security and safety is the largest segment, representing approximately three quarters of the total.
+
+Although IoT security spending is increasing, it is playing catch-up to emerging threat vectors. Successful IoT security deployments require collaboration among multiple organizational roles, from infrastructure and operations to application deployment and delivery, to business insights, to security. And with an evolving landscape, enterprises must be prepared for unexpected threats – by conducting risk assessments and simulating IoT-specific breaches. IoT security is about securing the IoT network and IoT devices, so multiple control layers and products will also be required. Analytics is also key for IoT security - more sophisticated analytics can deliver automation that will help security professionals.
+
+In the short-term, IoT security will remain the main barrier to entry to the IoT. In the longer-term, however, emerging security technologies will in fact enable the IoT.
+
+------------------
+
+DIGITAL TWIN
+
+The digital twin is building momentum continually as the idea of modelling people, physical assets and processes gain traction. According to Gartner, over 40% of enterprises expect to deploy digital twins within three years – digital twins could become the dominant design pattern for digital solutions within the next decade.
+
+
+
+A digital twin is a virtual representation of an entity such as an asset, person or process and is developed to support business objectives. The three types of digital twins are discrete, composite and organizational. Digital twin class elements include the model, rules, relations and data properties. Digital twin instance elements include the model, data, unique one-to-one association, and monitorability.
+
+Key Features
+Digital twins for people: Digital twins are the evolution of trends including customer 360-degrees, patient electronic health records, and fitness monitors. Their near-term uses include health monitoring and employee safety, particularly in response to the pandemic.
+
+Digital twins for physical assets: Digital twins adoption aligns to Internet of Things (IoT) trends. For owner/operators, near-term use includes lowering maintenance costs and increasing asset uptime for equipment users in factories, hospitals, utilities, etc. For product original equipment manufacturers (OEMs), near-term uses include product differentiation, business model differentiation through new product service models, and obtaining customer data.
+
+Digital twins for processes: Digital twins are being developed to model IT organizations, financial exchanges, and processes such as purchase orders.
+
+Digital twin capabilities are being positioned as competitive differentiators by several industrial companies, (including ABB, GE, Hitachi and Siemens) as well as systems integrators/consultancies and manufacturers. By 2021, according to Gartner, half of large industrial companies will use digital twins, resulting in those organizations gaining a 10% improvement in effectiveness.
+
+ 
+
+There are many upsides to digital twins but application is complex – these complexities vary based on the use case, the vertical industry and the business objective. Some digital twins may be simple and based on clearly defined functional or technical parameters, while others may be far more complicated requiring new capabilities across the enterprise and with business partners. If correctly designed, digital twins could lower maintenance costs and increase asset uptime in industry, or help manufacturers manage warranty costs, support channel partners and better understand customer experience. 
+
+That said, the market is very much in its infancy. Gartner’s CIO Survey 2020 shows that 6% of enterprises have implemented digital twins, although less than 1% of assets have digital twins. According to Gartner, the digital twin has moved past the Peak of Inflated Expectations, because of enterprise confusion driven by conflicting vendor marketing and implementation challenges.
+
+--------------------
+
+5G
+
+5G, the next-generation standard after 4G, is envisioned to offer ultra high-speed internet, low latency and high device connection density as its key features. High-density connections offer long battery life for IoT applications (up to 1,000,000 devices per square km).
+
+
+
+5G, the next-generation standard after 4G, is envisioned to offer ultra high-speed internet, low latency and high device connection density as its key features. High-density connections offer long battery life for IoT applications (up to 1,000,000 devices per square km).
+
+5G is the next-generation cellular standard after 4G (Long Term Evolution [LTE], LTE Advanced and LTE-A Pro). It is currently being defined across several global standards bodies — the International Telecommunication Union (ITU), the Third Generation Partnership Project (3GPP) and the European Telecommunications Standards Institute (ETSI). The official ITU specification, International Mobile Telecommunications-2020 (IMT-2020), targets maximum downlink and uplink throughputs of 20 Gbps and 1 Gbps respectively, latency below 5 (milliseconds) and massive scalability.
+
+
+Standardized 5G networks promise to combine the benefits of 2G, 3G, 4G/LTE, wired technology, and Wi-Fi into a single platform that offers density, high speed, and reliable connections at low power. Many IoT deployments require real-time communication with very low latency and need to accommodate large volumes of data traffic, for which 5G is highly suitable. 5G networks are expected to serve as a boost for IoT cellular connections, helping cellular providers maintain a competitive advantage over LPWAN alternatives.
+
+However, commercial rollouts have been limited. The state of 5G in 2020 varies considerably by country, but it continues to be immature overall. The current focus is heavily on high-speed data, coverage won’t be ubiquitous for several years and real-world performance will be variable. Gartner expects that in 2020, 3% of mobile communications service providers (CSPs) will launch 5G networks commercially - innovation opportunities might not appear until 2023. 5G deployments are not straightforward – the use of higher frequencies for spectrum, as well as massive capacity, will require dense deployments with higher frequency reuse. 5G technologies are being developed and deployed in parallel with many other technologies, such as autonomous vehicles (AV). AV systems generate huge amounts of data, requiring careful management to extract optimal value without excessive cost, while safety performances are attracting scrutiny from regulators, creating opportunities for 5G technology to expand and enhance native AV safety systems.
+
+Technology leaders should therefore look to include 5G in their innovation roadmaps and pilot applications, while planning how to mange the risks of immaturity and studying the early experiences from rollouts across the globe.
+
+----------------
+
+IOT SERVICES
+
+Research continues to demonstrate that enterprises’ lack internal resources skilled in IoT technologies and knowledge of how to apply and how to operationalize the integration of IT, OT and IoT. Provision of IoT services therefore plays a vital role in the market.
+
+The continuing proliferation of connected devices means that the market for IoT services will carry on growing at a fast pace, as providers leverage IoT to improve customer experiences. By 2021, over 65% of midsize to large enterprises will use external IoT services for at least half of the IoT solution build effort, up from 35% today, according to Gartner.
+
+
+
+IoT services encompass support, maintenance and professional services to provide a range of business and technical expertise in support of IoT plan, build and run services. Various frameworks, methodologies, and assets are within scope for IoT services. IoT services must be viewed within the broader remit of “digital services.” The core outcomes of IoT services lie in the enablement of data acquisition and data contribution to broader digital business strategies.
+
+Key Features
+There is a broad mix of providers, industrial equipment OEMs, traditional IT ISVs, IT and OT system integrators, niche IoT providers (hardware and software), offering a catalog of IoT services that spans:
+
+Advisory and consulting services that address business and technology issues.
+IoT-specific development and integration of legacy IT and OT, or ensuring that legacy enterprise applications benefit from IoT data acquisition.
+Installation and product support services aimed at the Microsoft Azure IoT Edge.
+
+As the IoT market matures, professional services companies are becoming better positioned to enable IoT implementations, as focus shifts from the technologies developed (eg. sensors, connectivity, analytics) to the services (eg. consulting, SI) provided. These players can position themselves as a controlling part of the IoT ecosystem as focus shifts further from consulting and SI towards managed IoT services.
+
+From a buyer perspective, the proliferation of technology and connected devices is putting the onus on enterprises to develop or acquire in-house IoT skills and analytics expertise – companies should continue to make significant IoT investments in the next 1-3 years as adoption of IoT-enabled solutions continues at pace.
+
+Service providers should address key customer concerns in order to help enterprises capitalize on the IoT services opportunity:
+
+Resistance to change within client organizations.
+Reliance on legacy systems that are incompatible with new requirements.
+Lack of understanding of ROI.
+IDC predicts that spending on IoT services will reach $30.8 billion by 2021, from $12.1 billion in 2016, at a CAGR of 20.7%.
+
+-----------------------
+
 
 
 
