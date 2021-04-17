@@ -4026,8 +4026,121 @@ IDC predicts that spending on IoT services will reach $30.8 billion by 2021, fro
 -----------------------
 
 
+HAPTICS
 
+XR-based haptics technology allows users to interact with virtual objects in a completely new way. They can essentially touch these virtual objects by wearing specialized gloves and enjoy a greater first hand experience. Haptics is yet to fully evolve, and may take several years before it reaches mainstream adoption.
 
+Just as AR and VR appeal to our visual and audio senses, Haptics technology appeals to our sense of touch. The technology makes use of sensor-based wearable devices such as gloves and suits that allow users to touch any virtual object and get a perception of it being real. The perception includes attributes like texture, temperature, and pressure. Haptics technology provides a more holistic user-experience when used in conjunction with AR or VR.
+
+With the advancements in XR haptics companies are aiming to use the sense of ‘touch’ to make virtual things feel more real – to replicate natural interactions. Most existing touch-based technologies have been devised only to make things noticeable – e.g. phone vibrations.
+
+The rise of new haptics technology will add a new dimension to XR and make the user experience more holistic. According to IDTech, the XR haptics market will reach $4.8 billion by 2030. In addition to being more engaging, the technology will enhance the overall utility of XR by enabling new use cases. For example, with haptics gloves users can now replicate their exact hand movements on a robot’s mechanical arm which is thousands of miles away. The multiplicity in form factors such as suit, gloves, and even ‘mid-air’ allows for greater flexibility and more enriching experience.
+
+It’s important to note that this technology is quite nascent and existing applications are few. Hence, it may still take about 5-10 years before getting into the mainstream adoption. Further, the high cost of these devices is also acting as a barrier to adoption.
+
+-------------
+
+MIXED REALITY
+
+Mixed Reality (MR) combines the best of both augmented and virtual reality. The resulting experience is highly engaging and allows the users to interact with virtual objects in the physical world.
+
+Mixed Reality (MR) is a technology similar to Augmented Reality (AR) which overlays computer-generated digital objects onto the real world. However, one main difference is that MR allows users to interact with both physical and virtual objects while AR allows only viewing. For example, both AR and MR have the capability to display a virtual 3D box on an actual table. But MR allows users to pick up the box and open it. MR allows an intermingling of the physical and virtual worlds quite well.
+
+The global MR market opportunity is expected to reach $3.7 billion by 2025, growing at a CAGR of more than 40%.
+
+Research indicates 82% of enterprises expect to use MR within the next 3 years. Major players such as Airbus, Renault Trucks, ThyssenKrupp, and BAE systems have either adopted or planning to adopt MR solutions.
+
+Mixed Reality gives enterprises an opportunity to solve some of their core business issues – such as improving operational efficiency and providing quality training.
+Externally, MR can serve as a powerful technology for marketing and customer engagement. Consumers can define their own rules using MR and see a world where the virtual and real elements interact in a pre-defined way.
+
+Technological – It is tough to create a perfect virtual world that exactly aligns with the real world such that users find it deceptively real.
+Most MR devices are still at an infancy level – including a poor battery life, small field of view, and are often uncomfortable when used for long.
+
+Most existing MR devices support interaction either using remotes or speech. Mid-air hand gestures often cause fatigue on repeated use. The ways to interact with the environment need to evolve in case of MR.
+Cybersecurity concerns for connected MR devices.
+
+A blend of AR and VR, Mixed Reality (MR) is fast becoming the favorite of enterprises as it enables them to see and do things in ways that were not possible in a purely real world. According to a recent survey, 87% of executives are currently exploring, piloting, or deploying MR in their company workflows. Another 68% believe that MR will be vital to achieving their companies’ strategic goals over the next 18 months. Further, the global market is expected to reach $5.3 billion by 2024, growing at a CAGR of 72% between 2018-2024.
+
+MR is more complex than other XR technologies including AR and VR, and this leads to technological barriers it may have to overcome to reach mainstream adoption. This includes a more accurate alignment of real and virtual worlds, longer battery life, high-speed connectivity such as 5G to support mission-critical remote applications, and faster processing for standalone operations.
+
+Having said that, MR can prove to be the most useful of all XR technologies given its ability to interact with the virtual and real objects and manipulate them. This allows enterprises and consulting firms to bring to life a range of new applications that can help generate new business and make the existing businesses operate more efficiently.
+
+-----------------
+
+XR PLATFORMS & CONTENT
+
+Extended Reality (XR) software, platforms and content are essentially the key ingredients of any XR application that make them engaging and relevant for the end user. Technological advancements in these components are as critical as advancements in devices such as HMDs. Investments in these areas can fuel rapid adoption of the XR technologies.
+
+Extended Reality (XR) software, platforms and content are essentially the key ingredients of any XR application that make them engaging and relevant for the end user. Technological advancements in these components are as critical as advancements in devices such as HMDs. Investments in these areas can fuel rapid adoption of the XR technologies.
+
+The availability of SDKs (Software Development Kits) such as ARCore and ARKit has opened up the market to a large number of developers who can now build a variety of XR apps with even little technical expertise.
+
+Traditional content companies have an opportunity to develop unique content for the new AR and VR platforms. One company, for example, recreated the entire Apollo Moon Landing experience in the form of VR content, and is monetizing the same.
+
+New opportunities exist across several sectors. For example – companies in Education sector can use these platforms to redesign their annual curriculum to make them more engaging and student friendly.
+
+The user interface of certain SDKs can be more user-friendly, since they require developers to have greater coding skills. This raises the entry barrier for people with limited technical background.
+
+At the moment, platforms like ARCore and ARKit support only a limited number of devices.
+
+Software and platforms form the foundation of any XR application and advancements in these are as crucial as advancements in devices. The presence of ARCore and ARKit as two major software platforms has worked well for the AR community since these common set of frameworks has allowed development of apps that work across many devices and are interoperable within their ecosystems. Also, the open-source nature of ARCore allows a large community of developers to contribute to the codes and enhance their functionalities and security. According to IDC, the global AR software market is expected to grow from $700 million to $25 billion during 2019-2023. While the VR software market will grow from $3 billion to $19 billion during the same period.
+
+There are, however, some challenges impeding the growth in platforms. For example, ARCore needs more coding expertise than ARKit, given its UI. There is even a dearth of good web-based platforms such as Amazon Sumerian. Also, there are few high-quality content for VR applications – most of which are available mainly for educational and training purposes and remain inaccessible to masses. Further, developing such content is costly and time-consuming.
+
+Issues like these can be resolved if more companies jump into the bandwagon, creating more high-quality and affordable content – fueling the demand. From a maturity standpoint, it may take them another 3-5 years before these platforms and content become pervasive.
+
+---------
+
+AUGMENTED REALITY
+
+Augmented reality (AR) is the real-time use of information in the form of text, graphics, audio, and other virtual enhancements integrated with real-world objects and presented using a Head-Mounted Display (HMD). AR acts as a digital extension of the user’s senses, serves as an interface between humans and the physical world and provides a digital filter to enhance the user's surroundings with relevant or actionable information.
+
+Augmented reality (AR) is a type of interactive, reality-based display environment that takes the capabilities of computer-generated display, sound, text and effects to enhance the user's real-world experience. AR combines real and computer-based scenes and images to deliver a unified yet enhanced view of the world.
+
+AR is broadly applicable across many markets, including gaming, industrial design, digital commerce, marketing, mining, engineering, construction, energy and utility, automotive, logistics, manufacturing, healthcare, education, customer support, and field service.
+
+Augmented reality (AR) provides a digital filter to enhance the user's surroundings with relevant, interesting and/or actionable information.
+Augmented reality (AR) can provide value by enhancing training, maintenance and collaboration efforts.
+AR offers brands, retailers and marketers the ability to seamlessly combine physical campaigns with their digital assets.
+
+Hardware limitations such as the slow development of transparent displays, battery life constraints and processing power for Head-Mounted Display (HMD)
+Speed of network connectivity, especially for mission-critical applications, which is likely to get resolved when 5G becomes more pervasive.
+The high cost of developing and deploying AR solutions as the adoption rate is still quite low.
+Security and privacy issues as AR solutions may involve use of personal data and location sharing.
+
+Although Augmented Reality (AR) solutions look promising in terms of their offerings, the actual progress is limited. The use cases for businesses and consumers need to be defined more clearly for industries. The existing applications are few and cater to mostly the enterprise segments. Consumer applications are generally limited to social media/gaming industries. Having said that, solution providers are working towards creating compelling applications and devices to exploit this opportunity. And IDC believes that the worldwide spending on AR will go up from $3.5 billion in 2019 to $102 billion in 2023.
+
+While advancements in devices such as HMDs are vital to the success of AR, the good news is that there are numerous smartphone/tablet apps that support complex AR applications. For example, civic bodies in the US are testing a smartphone application to view assets below the street just like a virtual X-ray. On the software/framework front, companies like Google and Apple have already developed their XR platforms – ARCore and ARKit, to drive interoperability.
+
+As more vendors flock to AR, a variety of use cases can be brought to life. Similarly, a drop in the device cost will also fuel the adoption by enterprises and consumers. It’s time that companies should start looking at AR as a revenue generating opportunity rather than just a cost saving / efficiency-driving technology.
+
+--------------
+
+VIRTUAL REALITY
+
+Virtual reality (VR) provides a computer-generated 3D environment that surrounds a user and responds to an individual's actions in a natural way, usually through immersive Head-Mounted Displays (HMDs). Technologies such as cloud graphics processing and mobile video games, as well as the proliferation of broadband access, will allow application developers to integrate VR more easily into their products.
+
+Virtual reality (VR) is an immersive technology that creates a fully virtual environment that users can experience through devices like a head-mounted display (HMDs). Users can experience the virtual environment through movements and gestures, and the environment responds to these actions such that users perceive it as a real world.
+
+Progress in VR opens up opportunities for the entire XR ecosystem – including device makers, chip-makers, developers, UX/design companies, and content providers.
+A lower cost of device along with high content quality can fuel greater adoption.
+
+As businesses integrate VR applications with their existing products and services, it can give rise to new revenue streams. VR can be used to gather customer insights and unlock business value. For e.g., Kellogg uses a VR solution to track customer eye movement as they enter a retail store, helping the company to plan its product placement.
+
+Success of VR systems depends on the quality of the UX or app. It needs more high quality content such as games, movies, music, and software that must be envisioned and built proactively. The current approach to content creation is still experimental.
+
+Battery life for untethered devices is currently inadequate, as is processing power for graphically intensive applications.
+Lack of high-speed connectivity such as 5G for low-latency applications.
+
+The inconsistency between technology and human biology leading to issues like motion sickness even though there is no real motion. Further, these devices carry health warnings for pregnant, elderly, and heart patients.
+
+In its decade-long existence VR has already managed to find a place higher up on the maturity curve. The growing number of use cases and applications will likely enable the technology to approach maturity/main-scale adoption in next 3-5 years. According to IDC, the worldwide spending on VR is expected to go up from $13 billion in 2019 to $58 billion in 2023. There is a full-blown ecosystem to supply various components of VR – including devices, content, and software/platform. However, these players are at different maturity levels slowing down the overall growth.
+
+There are a few bottlenecks in VR which companies will need to overcome though. First, most sophisticated VR headsets today need to be tethered to a PC to run high-end graphics and these headsets serve as mere displays. This could limit the use of VR for remote applications requiring greater movement. Battery life and high-speed connectivity like 5G are some of the other challenges that need to be overcome for a standalone VR.
+
+In terms of use cases, training continues to remain as one of the most popular enterprise applications. VR-led trainings appeal to a variety of learning styles, offer experiences that promote retention, eliminate risk and safety concerns, and save significant time and budget. For consumers, VR will be most appealing in gaming and education, as it continues to provide graphics and sensory-rich experience to users at a relatively affordable cost.
+
+--------------
 
 
 
