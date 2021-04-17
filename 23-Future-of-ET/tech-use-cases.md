@@ -4668,6 +4668,352 @@ Distributed execution will have an impact on all industries and public-sector or
 
 Today, distributed execution programming is an immature subsystem of the blockchain ecosystem. The industry is still looking for a scripting language that is "Turing complete," as well as easy to create and provably correct. Organizations are looking at proven methods of using distributed execution to automate complex agreements in a trust less runtime environment.
 
+-----------
+------------------
+
+VIRTUAL AGENTS
+
+
+Virtual Agents are software capable of direct interaction to support humans and act on their behalf, with increasingly complex reasoning. They bundle advanced analytics, machine learning and Natural-Language Processing (NLP) to support customers, partners or employees. Growth of Virtual Agents is due to advances in the areas of AI, NLP, Natural Language Generation (NLG) and Natural Language Processing (NLP), and machine learning.
+
+
+
+A virtual agent is a contact-centre-type capability that uses a virtual character, created through natural language understanding and generation, animation & artificial intelligence, acting as a virtual  service agent.
+
+
+Ability to deploy Virtual Agent across contact channels (web, mobile, social, contact centre, SMS, instant messaging platforms, IVR, physical robots)
+Backed by powerful dialog and knowledge management systems
+
+Real-time, actionable reporting that combines voice of the customer feedback with conversational and predictive analytics & supervised machine learning
+Flexible options to integrate with the systems and software important to your business.
+
+Efficient service interaction that is faster and less expensive
+By integrating with APIs, Virtual Agents can leverage dynamic data and knowledge management solutions to deliver personalized solutions
+Enable consistent service levels and shared customer context across traditional web channels, mobile/voice interfaces, messaging apps, kiosks, IoT devices, physical robots and social networks
+
+Utilize analytics that show the positive and negative outcomes of each customer engagement
+Virtual agents are increasingly becoming part of larger offerings. ERP, CRM Vendors and customer service providers (CSPs) increasingly incorporate both middleware and core conversational platform technology into their offerings.
+
+To ensure efficacy, customer pain points must be accurately identified and targeted – today, Virtual Agents are only effective within limited scopes
+Out-of-the-box support for specific industries is still limited, especially if you also need to support other languages than English 
+Requires continuous modifications and improvement, which requires consistent end-user feedback
+
+Useless if leveraging a weak or incomplete knowledge base
+Highly dependent on customer trust, thus critical to use only trusted data and identities
+
+Virtual agents are not a new technology and in fact have been around for more than 50 years. Today, virtual agents are primarily single-purpose and the scope of their function is limited, while adoption increases thanks to advances in NLP, NLG and machine learning. 
+
+Also, virtual agents are increasingly becoming part of larger offerings, i.e. ERPs and CRM, hence in coming years, enterprises will more widely adopt and integrate virtual assistants with their back-end systems and virtual assistants will find their place assisting employees with inward and outward functions. In some cases, humans may be completely removed from the loop as virtual agents handle complex B2B transactions and negotiations. 
+
+RPA platforms are also being directly embedded with ML and AI-driven chatbots. Vendors like NICE and Pegasystems have chatbots that apply text analytics to agent-assisted interactions to help judge the customer’s true intent.  Proprietary virtual agents are also sold by some of the service providers as an element included in their broader customer experience offerings (i.e. Teleperformance, Genesys).   
+
+Most virtual agent applications are external and focus on the functions of customer service and sales. According to Forrester Research, 33% of US online adults who use smartphones, tablets and computers say they use personal virtual agents, driving adoption in business contexts as well. IDC has predicted that, by 2020, 40% of commerce transactions will be enabled by cognitive/artificial intelligence personal shoppers and conversational commerce.                                                                           
+
+As research advances in NLP, NLG and machine learning, so will the growth, adoption and capabilities of virtual agents- specifically for internal enterprise use cases. If implemented correctly, these cases will offer improved employee productivity- therefore improving customer satisfaction and overall revenue. 
+
+Straightforward implementation will be more common as the technology matures. For example, in December 2019 Microsoft has announced Power Virtual Agents – an offering that enables anyone to create chatbots using a guided, no-code graphical interface, without the need for data scientists or developers. 
+
+
+
+----------------
+
+AI-ENABLED AUTOMATION TOOLS
+
+With Robotic Process Automation (RPA) as the foundation for automating routine processes, enterprises can orchestrate the automation of complex tasks that require little or no human oversight by applying AI advancements such as machine learning, natural language processing, speech recognition and image recognition. By integrating a continuum of technologies, enterprises  manage and optimize processes.
+
+Today, robotic process automation (RPA) is the first step for most organizations in implementing process automation solutions.
+
+The integration of analytics and machine learning to RPA will drive the growth of AI-enabled process automation, able to optimize the process and to make reasonable decisions in ambiguous situations.
+ 
+
+Dynamically manage and optimize processes through learning from feedback
+Handle more complex processing autonomously
+Make processing decisions contextually
+Processing decisions will be made contextually and deliver more accurate predictions
+Perform tasks that previously required humans, possibly exceeding human performance levels
+
+By applying machine learning to RPA, bots will be able to handle complex processing autonomously
+Enterprises will be able to automate complex processes that require a deeper level of analytics involving both structured and unstructured data, leveraging multiple sets of data and knowledge
+Bots will be able to learn from historical data and predict and prevent anomalies, eliminating time, effort and cost needed to handle them
+Advances in NLP will help systems automatically convert human inputs in the form of voice or text into machine-readable instructions
+Software will be taught rather than programmed, moving to unsupervised learning in the future
+
+Realizing business benefits is dependent on finding use cases where "mostly correct" processing is sufficient
+AI-enabled automation tools are not a clearly defined product category, making implementations mostly experimental.
+
+Robotic Process Automation (RPA) is “low hanging fruit” for firms looking for early wins in automating time-intensive manual tasks.
+
+The integration of analytics and machine learning to RPA is what is driving and will continue to drive the growth of AI-enabled process automations. The fusion of analytics and machine learning with traditional automation solutions will improve the pace and scale of complex problem solving, risk analysis and business decision-making at an enterprise level, while enabling employees to achieve significant productivity gains—as much as 30-40%—even in functions that are already automated. AI automation spending is estimated to surpass RPA by 2021, at $2.7 billion vs. RPA at $1.2 billion.
+
+According to IDC, the major RPA vendors have introduced marketplaces that extend capabilities through partnerships that include AI and are integrated with these AI-based solutions. They are also building their own AI capabilities and packaging them together with RPA to automate discrete process roles.     
+
+Advances in machine learning will be critical for solution maturation. According to Gartner, by 2021, AI-related services will enter mainstream adoption, with 30% adoption by large companies. Most service providers will use intelligent automation service techniques, lowering the annual cost of commodity services by 15% to 25%.
+
+-----------
+
+ROBOTIC DESKTOP AUTOMATION (RDA)
+
+Robotic Desktop Automation (RDA) is a type of automation that focuses on increasing the productivity of individual users by automating and integrating processes on the desktop. It requires human triggers and works through the User Interfaces or programmable interfaces of applications.
+
+Similarly to RPA, RDA will increasingly include AI-enabled features by leveraging AI and ML. Those will i.e. include identifying patterns based on customer behavior, improving decision making (next-best-action), and conversational interfaces.
+
+RDA (or attended RPA) is automation that focuses on increasing the productivity of individual users by automating and integrating processes on the desktop. RDA is especially useful when a user must be involved, and must deal with multiple systems, duplicated data entries and older legacy systems not connected or only loosely integrated. Typically, RDA is used to automate some processes alongside the user's regular, manual use of the same applications.
+
+
+Automation through simulating user actions on the application UI, or through programmable interfaces provided by the application
+Augments regular use through cross-application process shortcuts
+Low cost
+No special infrastructure
+Fast implementation, even by users
+Does not require changes to applications
+Automation of multiple processes in a single project
+Consistency across users requires an automation distribution solution
+
+RDA is a mature technology that is relatively simple to implement and offers quick results with a low set-up cost
+RDA brings immediate savings, especially in standard interactions-heavy B2C industries
+RDA is especially useful when users must deal with multiple systems, duplicated data entries and older legacy systems
+RDA can be a great door opener for RPA and further digital transformation, not just a band-aid on legacy corporate inefficiencies
+
+
+Automation is limited in terms of throughput as it is dependent on the user
+RDA automations can be fragile as they are sensitive to underlying application changes and poor data quality
+Must target established, high-volume, repetitive and non-ambiguous processes to create significant value
+Deploying consistent, high-quality processes across a large number of user desktops is challenging as desktop environments are notoriously hard to standardize
+Competes in the same space as user-assisting Virtual Agents, creating c
+
+RDA market is counted by analyst companies as a part of rapidly growing RPA marketplace. According to Everest Group, the global RPA independent software vendor market surpassed US$ 1billion in 2018, with over 2/3 of the revenue coming from software licenses. RDA licenses accounted for over 30% of the total RPA software market. While growth is being driven by both unattended and attended RPA (RDA) market segments, RDA witnessed increased traction in 2018 (RPA software market noted 90-100% YoY growth, whereas RDA – 12-130%).
+
+RDA has evolved from screen scraping in the front office where disparate sets of information were integrated to support call centre agents. Large number of processes flowing across various unconnected domains (back-office ERP, CRM, Billing, Core Banking systems etc.) await automation. RPA-related engagement carries a relatively low cost of licenses and implementation and offers quick results.
+
+RDA is focused on swift deployments on desktop level, typically customer contact agents. In RDA, activities are being automated, while in RPA (back-office) processes are automated. Leading RDA providers like NICE and Pega offer both RDA and RPA solutions. More and more RDA solutions are being sold into back-office operations, further blurring the line between RDA and RPA, with the first becoming rather an RPA functionality than separate line of software. RDA’s process of maturing will take the simple robot tasks to be enhanced with virtual agent interaction, ML-based exception frameworks, more sophisticated human and robot interactions, and real-time guidance for humans.
+
+---------------
+
+ROBOTIC PROCESS AUTOMATION (RPA)
+
+
+Robotic Process Automation (RPA) is the use of an on-server application to replicate the activities involved in the interactions between a human being and a UI interface of a computer. Main feature of RPA is the ability to repeat the actions of a human user at high volumes and no errors. It is cost effective and improves productivity, compliance and auditability. RPA can be easily configured (code free) with minimal disruption to existing IT systems. As core RPA capabilities are mature, the software is increasingly being infused with AI, i.e. text analytics, natural language understanding, and conversational intelligence to help companies expand the automation use cases outside the isolated tasks.
+
+Robotic process automation (RPA) is the application of technology that allows employees in a company to configure computer software or a “robot” to use existing applications for processing a transaction, manipulating data, triggering responses and communicating with other digital systems.
+
+
+
+RPA is useful for automating repeatable tasks that can be captured in a detailed step-by-step process and executed without user intervention
+Process execution simulates a human user using an application through mouse clicks and typing
+User-friendly configuration tools, no coding required in most cases
+Non-disruptive, requiring no changes to the applications used
+
+Drive efficiency benefits, along with improvements in quality, scalability and resiliency in a cost-effective way with potential investment payback in up to 3 months
+Improve productivity with average handling times reduced by up to 40% and 24/7 monitoring, and overall throughput increased up to 6-7x
+Eliminate human errors and improve compliance/auditability
+Reduce processing costs by up to 80%
+Efficiently implement RPA across processes with re-usable process elements
+AI-based capabilities will grow the value RPA delivers, i.e. by adding next-best-action recommendations, intelligent workload balancing, predictive SLA monitoring, and IT infrastructure monitoring.
+
+
+Common standards across the enterprise can become fragmented and difficult to impose
+Centralized change and automation delivery management can be challenging to implement across business silos
+Repeatability and volume requirements of the tasks to be automated can be surprisingly high
+Need very stable applications, as surprisingly small changes to the underlying applications' interfaces or their data may break the automation
+Rapid RPA implementations must be supported by proper governance and security structures
+RPA may reduce the pressure to change the legacy applications and hence indirectly contribute to growing technological debt.
+
+RPAs are more relevant for high volume, highly transactional process functions such as: purchase order issuing, creation of online access credentials, or business processes that require access to multiple existing systems. RPA can be easily configured (code free) and with minimal disruption to existing IT systems. With no application integration required, simplified training, scaling, and auditing, RPA offers low-risk, high-value automation.
+
+RPA is a mature technology that is seeing rapid adoption by organizations as they look for ways to cut costs and quickly link legacy applications together. More than 70% of organizations will adopt RPA solutions over the next two years.
+
+Forrester expects RPA software market to reach US $4.2bn in 2023, up from US $1.7 bn in 2019. RPA services market totaled US $3.9 bn in 2018, and will be more than triple by 2023, reaching US $12 bn.
+
+Finance & Accounting, Customer Care, and Help Desk are seeing more demand for RPA. ROI from RPA is entirely dependent on the applicability of each use case in organizations.
+
+Although RPA initially focused on high volume, rules-based processes, the future of the technology is tied to intelligent automation or fusing RPA with machine learning/cognitive capabilities. Consequently, bots will become self-learning and will be dedicated to complex functions.
+
+According to IDC, by June 2019, the major RPA vendors have introduced marketplaces that extend capabilities through partnerships that include AI and are integrated with these AI-based solutions. They are also building their own AI capabilities and packaging them together with RPA to automate discrete process roles.
+
+------------
+
+BUSINESS PROCESS MANAGEMENT (BPM) SUITES
+
+Business Process Management (BPM) provides companies with an integrated approach to process management from design to execution and control, using process models, modeling software, and repositories.
+The primary goal of BPM  today is to drive digital transformation, passing the traditional focus on cost reduction in the enterprise.  While core BPM capabilities are mature and stable, BPM is ageing as a standalone product – vendors are increasingly competing on value-added elements, i.e. integrated developer environments (IDEs) for API connectivity, UI creation, organizational models, task design, and reporting which enables to construct full and complex process applications.
+
+
+
+
+Business process management (BPM) is the discipline of improving an end-to-end business process by analyzing it, modelling how it works in different scenarios, executing improvements, monitoring the improved process and continually optimizing it.
+
+Business Process Management Suites (BPMS) are both design-time and run-time applications that give users model-driven tools to design and orchestrate the execution of business processes and business rules.
+
+
+Business Process Management provides transparency, increases efficiency and improves agility
+Business Process Management helps to coordinate people, machines and things
+Business Process Management can also give organizations the tools and skills they need to quickly respond to marketplace developments and capitalize on emerging opportunities before competitors
+
+Intelligent Business Process Management Systems (iBPMSs) are evolving to meet the needs of dynamic/real-time processes.
+
+BPM enables effective enterprise performance through improvements of specific work activities within a particular department, across the enterprise, or between organizations.
+Enables organizations to standardize, optimize, automate & innovate business processes.
+Can yield significant quantitative & qualitative results through a more agile connection between people, process & technology.
+BPM helps to establish process governance & management.
+
+Cross-organizational and cross-functional BPM efforts make it difficult to ensure ownership and ongoing focus.
+Broad skill needs, insufficient training and lack of career path guidance make business process management roles challenging to staff and execute.
+Complex and expensive BPM software due to the reliability and performance requirements of critical processes.
+New interfaces like voice and chat place new demands on the BPM software vendors.
+Core BPM capabilities are mature and stable, and BPM is ageing as a standalone product. Vendors are increasingly competing on value-added elements (iBPM suites).
+
+
+
+Traditionally, BPM platforms have focused on orchestrating structured processes - those core capabilities are now mature and stable. However, the demand to address the need for non-routine work is increasing and can be augmented by some degree of automation. As a result, Intelligent Business Process Management System (iBPMSs) bring in capabilities such as validation (process simulation, including "what if" scenarios), verification (logical compliance), optimization, ability to gain insight into process performance, enhanced support for human collaboration, streaming analytics and real-time decision management.
+
+With the increasing adoption by enterprise of lean/agile methodologies and digitally-driven frameworks the role of BPM is shifting towards that of digital process automation and vendors competing on capabilities which strongly broaden the traditional BPM functionality.
+
+Advances in technology such as cloud computing, service-oriented architecture and software-as-a-service have created more flexible, configured application environments that can deliver tremendous value if properly used.
+
+-------------
+
+RULE ENGINES
+
+Rule engines are valuable for applications where business rules usually change more often than the rest of the application. Therefore, rules are managed separately from the logic. Rules can be modified instantly as business conditions change, without editing the rest of the application, and can be shared between multiple applications. Rule engines automate decisions for rapid business actions. 
+
+Rule engines’ core capabilities are mature and are not emphasized by vendors as a differentiation or market advantage. Those capabilities are increasingly delivered as part of broader Decision Management Suites (DMS) or modern, intelligent Business Process Management (iBPM) suites.
+
+Allow professional and nonprofessional developers to rapidly build and maintain applications.
+Business experts can easily write and maintain the business rules and logic in a business rule management system (BRMS).
+Business rule management systems can help ensure that applications remain current and well-aligned with business objectives as market conditions change.
+Automate decisions for rapid business actions, determining appropriate actions to be taken at a given time.
+Express complex logic and actions in a language that is executable and that everyone can understand.
+Make business decisions and processes transparent and auditable.
+
+Growing rulesets become increasingly difficult and costly to maintain, requiring strong regression testing.
+Rules are negatively impacted by unmanaged changes to integrated systems and data.
+Complex rules often require coding to be expressed fully, reducing the benefit of investing in a rule engine.
+
+Rule engines have been successful in organizations dealing with complex, often compliance-related rules and provide a useful resource for more advanced automation. In many cases, they can be used to replace the need for custom-built software. Rule engines can be purchased independently or come embedded in a BRMS. A rule engine enables IT and/or business staff to define rules using decision trees, decision tables, programming-like code or other representation techniques.
+
+While rule engines and event processing systems have existed for decades (companies like ILOG SA, Blaze AdvisorTM and PegaSystems Inc. have been developing business rule engines since the late 1980s) and manage customer interactions, business processes, and applications, BRMS have received attention as an important software category to help automate businesses.
+
+Rule engines’ core capabilities are mature and are not emphasized by vendors as a differentiation or market advantage. Those capabilities are increasingly delivered as part of broader Decision Management Suites (DMS) or modern, intelligent Business Process Management (iBPM) suites.
+
+Rule engines are increasingly being embedded into broader automation platforms or iBPMS offerings – i.e. IBM Operational Decision Manager (ODM), the vendor’s business rules management system (BRMS), is now an element of IBM Digital Business Automation Platform. ODM is supported by the IBM Decision Composer, an automated, cloud-based low-code tool to model, author, validate, share and run business. Pega offers its business rules engine either as part of a stand-alone business rules platform, or as a core element of the business process management platform.
+
+-----------------
+
+DECISION MANAGEMENT SUITES(DMS)
+
+
+Rule engines’ core capabilities are mature and are not emphasized by vendors as a differentiation or market advantage. Those capabilities are increasingly delivered as part of broader Decision Management Suite (DMS) or intelligent Business Process Management (iBPM) suites. DMS products have evolved beyond business rule management systems (BRMS) by providing better support for analytics and decision modeling – they allow to take data from multiple sources and develop analytics-based models to predict and react to specified business rules.
+
+Decision Management Suites are a software product which supports conventional development and runtime tools for applications which include complicated decisions or frequently changing logic. DMS allows to take data from multiple sources and develop analytics-based models to predict and react to specified business rules, and measure the outcomes. Modern DMS are successors of Business Rule Engines (BRE), and can be used as standalone products or as part of iBPM suites.
+
+Comprise several elements, including rule engines, analytics, and automation capabilities.
+Embrace low-code approach.
+
+Rules are usually expressed declaratively (if, then statements) or as mappings between values.
+Can ideally be maintained without programming skills, enabling e.g. direct maintenance of discount rules by product management.
+Can either be tied to an application program or run independently.
+
+
+Business experts can easily write and maintain the business logic, rules, and decision flow and easily adjust those to changing market conditions.
+Express complex logic and actions in a language that is executable and that everyone can understand.
+Data analytics-based models enable predicting and measure the business impact of the settled rules and decision strategy.
+Make business decisions and processes transparent and auditable.
+
+Allow professional and citizen developers to rapidly build and maintain applications.
+Automate decisions for rapid business actions, determining appropriate actions to be taken at a given time.
+
+
+As Digital Decisioning Platforms combine rules management, analytics, and business process automation components, not all DMS vendors cover each segment equally well.
+According to Forrester Research, few vendors pursue digital decisioning use cases as their primary mission – most of them focus on discrete parts of digital decisioning use cases.
+
+Rules are negatively impacted by unmanaged changes to integrated systems and data.
+Growing rulesets become increasingly difficult and costly to maintain, requiring strong regression testing.
+
+
+
+Decision Management Suites (DMS) are successors of Rule Engines, enriched with strong analytic and automation capabilities. DMS products have evolved beyond business rule management systems (BRMS) by providing the ability to include data from multiple sources and develop analytics-based models to predict and react to specified business rules.
+
+A mature mix of algorithms based on both rules and analytics models enables companies to develop mature decision models, implement business rules and decision flows, deliver context-aware predictions, and hence enter the ongoing cycle of improvement iterations.
+
+Major DMS product vendors examples include: FICO, IBM, InRule, and Pegasystems. FICO and InRule are DMS-concentrated vendors, whereas IBM and Pega offer those software both as a standalone product, or as part of broader automation offerings.
+
+--------------
+
+INTELLIGENT BUSINESS PROCESS MANAGEMENT(IBPM) SUITES
+
+Just like its evolutionary predecessor (BPM), intelligent Business Process Management (iBPM) suites provide tools to design and orchestrate model-driven process discovery, analysis, modelling, execution and monitoring of business rules and processes, and continuous improvements. And while those core BPM capabilities are mature and stable, BPM is ageing as a standalone product, as vendors increasingly compete on value-added elements, i.e. integrated developer environments (IDEs) for API connectivity, UI creation, organizational models, task design, and reporting which enables to construct full and complex process applications. 
+
+Business process management (BPM) is the discipline of improving an end-to-end business process by analyzing it, modelling how it works in different scenarios, executing improvements, monitoring the improved process and continually optimizing it. BPMs are both design-time and run-time applications that give users model-driven tools to design and orchestrate the execution of business processes and business rules.
+
+Intelligent Business Process Management Suites (iBPMS) are legacy BPM successors which embraced a number of modern-day capabilities: low-code development to deliver more agile working environment and real-time collaboration, process discovery, analytics, visualization and monitoring, build-in integration platform and process workflow.
+
+Characteristics
+Transparency, increased efficiency and improved agility. It helps to coordinate people, machines and things.
+Gartner lists several critical capabilities of iBPM suites: interaction management, high-productivity app authoring, monitoring and business alignment, rule and decision management, analytics, interoperability, intelligent mobility, process  discovery and optimization, and context and behavior history.
+
+
+Enable companies to establish mature process governance and management.
+Grow enterprise performance through improvements of specific work activities within a particular department, across the enterprise, or between organizations.
+Enable organizations to standardize, optimize, automate & innovate business processes.
+iBPM suites are adapting low-code approach which makes it easier for citizen developers and business people to leverage.
+iBPM suites are increasingly being offered as a part of broader automation platforms which means scaling enterprise automation portfolios will be less complex.
+
+iBPM suites and Low-code Application Platforms (LCAPs) are converging on feature parity, which may obscure the best choice.
+iBPM suites may turn out to be overly complexed for some of the basic BPM needs. Companies should carefully analyze how intelligent their desired solution supposed to be.
+Cross-organizational and cross-functional BPM efforts make it difficult to ensure ownership and ongoing focus.
+
+
+Traditionally, BPM platforms have focused on orchestrating structured processes - those core capabilities are now mature and stable and are no longer emphasized as differentiators, as vendors now compete on value-added elements, i.e. integrated developer environments (IDEs) for API connectivity, UI creation, organizational models, task design, and reporting which enables to construct full and complex process applications.
+
+Also, iBPM-class solutions are being offered as parts of broader natively integrated automation platforms, which enable relatively easy scaling, i.e. IBM consolidated its broad automation portfolio – including BPM – into IBM Automation Platform offering. This model follows ecosystem-centric business and application architecture models, as companies have to face rapid changes in customers’ demands and market context. Gartner lists the following DigitalOps Toolbox elements: RPA, iBPMS, process discovery and process mining, low-code, and rule engines.
+
+Overall, iBPM suites market growth rate is modest. According to Gartner, a growing share of inquiries regarding iBPMS and business process automation are coming from small organizations. According to IDC, process-centric application platforms will reach 5.9% CAGR during the 2018-2023 period, compared to 36% of RPA platforms.
+
+
+---------------
+
+AUTOMATION PLATFORMS
+
+
+As established tools like BPM or RPA evolve and mature, IT vendors increasingly position their automation offerings as easy to scale, natively integrated platform suites rather than standalone products.
+
+Automation Platform offerings are comprised of increasingly intelligent and natively integrated solutions, which enables relatively easy scaling – a form of single platform with an integrated offering. This follows ecosystem-centric business and application architecture models, as companies have to face rapid changes in customers’ demands and market context. 
+
+
+Automation Platforms are broad automation portfolio offerings comprising of several key elements. As the traditional automation solutions tended to deliver many overlapping products, automation platforms’ main differentiation is based on their holistic approach and the ease of scaling automation thanks to APIs and native integration among the offering elements.
+
+Characteristics
+Automation Platforms are natively integrated and relatively easy to scale
+Automation Platforms offering provides a unified go-to-market execution.
+Automation Platforms bring the ability to automate workflows related to their core functions.
+
+Native integration and modern, cloud-native architecture enable companies to scale their automation portfolios easier than ever before.
+Automation Platform offerings come with increasingly consistent interfaces and common data models.
+Standardized design and end-user experiences are additionally leveraged by adopting the low-code to enable less tech-savvy employees.
+
+Automation Platforms are not a clearly defined product category, but rather a suite of strongly integrated – but not overlapping – products.
+As Automation Platform offerings are broad, choosing the right area or business case to start with may prove challenging.
+Choosing the best offering for specific industry or business area may also be problematic, as major Automation Platform vendors grew out of different segments of automation portfolio (i.e. Appian – out of BPM, Pega – out of RPA)
+
+Automation Platform offerings are comprised of increasingly intelligent and natively integrated solutions, which enables relatively easy scaling through APIs, consistent interfaces and common data models. Platform approach and native integration are clear market directions, which derive their growing popularity from the wide spreading cloud-first application distribution model. Research house IDC predicts that architectures supporting deployment portability will become the de facto software deployment paradigm.
+
+Gartner listed hyperautomation as a no.1 technology trend for 2020. This trend refers to the combination of multiple machine learning, packaged software and automation tools to deliver work; not only to the breadth of the palette of tools, but also to all the steps of automation itself (discover, analyze, design, automate, measure, monitor, reassess). Gartner claims that 2020 onwards, many vendors will provide a single platform with an integrated offering. This will be followed with vendors consolidating their automation portfolios under a single executive and engineering teams and developing a unified go-to-market execution. Automation Platforms are a Business Process Automation offerings following that pattern.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
