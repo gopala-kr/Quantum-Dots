@@ -4999,6 +4999,391 @@ Automation Platform offerings are comprised of increasingly intelligent and nati
 
 Gartner listed hyperautomation as a no.1 technology trend for 2020. This trend refers to the combination of multiple machine learning, packaged software and automation tools to deliver work; not only to the breadth of the palette of tools, but also to all the steps of automation itself (discover, analyze, design, automate, measure, monitor, reassess). Gartner claims that 2020 onwards, many vendors will provide a single platform with an integrated offering. This will be followed with vendors consolidating their automation portfolios under a single executive and engineering teams and developing a unified go-to-market execution. Automation Platforms are a Business Process Automation offerings following that pattern.
 
+--------------------------
+
+
+OPERATIONAL IN-MEMORY DBMS
+
+An operational in-memory database management system (IMDBMS) is a DBMS (including both relational and NoSQL) used for transactions where all necessary data is stored in memory (DRAM) on a server — not simply an in-memory disk-block cache. It has all the necessary structure in memory and all DBMS operations, such as select, update and delete, are performed in memory. An operational IMDBMS can scale vertically (in a single server) or horizontally (in a cluster of servers).
+
+The increasing maturity of technology and growing acceptance for operational IMDBMSs, such as SAP HANA and Microsoft SQL Server is creating opportunities in the IMDBMS space. IBM and Oracle both have analytic IMDBMS offerings today, and can be expected to release in-memory versions in the near future.
+Declining costs of in-memory infrastructure required for IMDBMS offerings is also driving the market.
+
+Growing quantities of DBMS vendors are offering IMDBMS, accelerating the adoption of these offerings. Consolidation, which drives down the total cost of ownership (TCO), is also key. Furthermore, hybrid transactional/analytic processing (HTAP) is combining operational and analytic processing in the same physical database, driving new real-time applications.
+
+High acquisition costs for some required servers.
+The need for new persistence models that support the high levels of availability required to meet transaction service level agreements. For high availability, IMDBMSs require new infrastructure models, which not all enterprises are well positioned to adopt.
+
+
+Operational In-Memory DMBS has the potential to make a considerable impact on business value in several ways. It can speed up transactions by two or three orders of magnitude, according to Gartner. Hybrid transactional/analytical processing (HTAP) enables an entirely new set of real-time applications (such as real-time repricing and power grid rerouting, planning and forecasting) since latency issues do not prevent the use of transaction data for analytics. The value of operational IMDMBS is also magnified by consolidation because most organizations have few applications, if any, that require so much speed. A cluster of small servers running an operational IMDBMS is often enough to support most or all of an organization’s applications, reducing costs for cooling, power and support and maintenance resources. This results in a lower total cost of ownership (TCO), offsetting any higher total cost of acquisition from more expensive servers.
+
+ 
+
+Operational IMDBMSs from vendors such as Microsoft and SAP are already in-market, while players such as Oracle and IBM are likely to follow suit soon. The speed at which these providers roll out offerings will dictate how long it takes for the IMDBMS market to reach high levels of adoption. Newer market entrants, such as MemSQL and VoltDB, are also providing operational IMDBMS functionality at attractive price points, often with more flexible implementations. 
+
+ 
+
+However, to achieve greater market adoption, IMDBMSs require new infrastructure models. DRAM can be volatile because data is lost if the power is lost. Solid-state drives (SSDs) and hard-disk drives (HDDs) must be synchronous with transactions to achieve consistency, and can degrade performance. Non-volatile RAM (NVRAM) has very high delivery speeds and is well suited for high availability and disaster recovery scenarios, but is immature and expensive.
+
+------------------
+
+VISUAL DATA DISCOVERY
+
+Visual Data Discovery is a BI platform architectural style that blends data from multiple sources into a proprietary in-memory store that is tightly coupled with an interactive visualization layer. It contrasts with the traditional BI platform that relies on a more modular architecture dependent on three distinct technologies to integrate, store and present data.
+
+The market has dramatically shifted towards visual data discovery architecture over the past four to five years, driven by growth of roles such as the business analyst.
+A majority of new BI deployments now leverage a visual  data discovery architecture over the traditional BI platform architecture.
+New sales models are making it easier for individuals to try visual data discovery, build analytic views and easily share them more broadly across their organizations.
+Ease of use is a clear advantage of visual data discovery, while the rise of self-service data preparation technology is making the technology more and more relevant, particularly for complex and disparate data sources.
+
+
+
+Visual data discovery architecture is fairly manual and will see increasing competition from the augmented data discovery architecture.
+Visual data discovery tools do not offer all of the features of traditional BI platforms, particularly with respect to governance and manageability. 
+
+
+Visual Data Discovery is a combination of the in-memory analytics and interactive visualization technologies. Growing buyer interest in visual data discovery technologies has meant that most traditional BI platform vendors have refocused on visual data discovery as a key component of their go-to-market offerings.
+
+ 
+
+It is now a very mature technology, presenting many opportunities for users. Ease-of-use and self-service are key selling points, for example. However, users should make an effort to provide manual processes to more closely manage end-user-created analytic content. Analytic programs need both visual and augmented data discovery – augmented data discovery can be used to automate the analysis process, while visual data discovery can be used to communicate those findings.
+
+ 
+
+Finally, visual data discovery is typically being used for more-agile rapid prototyping, making it possible for end users to blend datasets together quickly. This is not only offering more self-service, but also offering deeper diagnostic analytic capability to most organizations.
+
+
+-------------------
+
+DATA QUALITY TOOLS
+
+Data quality tools are packaged software tools that provide critical capabilities to enable an organization to address its data quality issues and deliver fit-for-purpose information to its business consumers. Functionality typically includes profiling, parsing, standardization, cleansing, matching, enrichment and monitoring.
+
+Organizations with more mature information management processes are making the connection between the quality of data and good decision making, process efficiencies, reduced risk and increased revenue.
+Growing interest in decision science, advanced analytics and digital business initiatives is also making data quality more and more relevant. Automation or machine-learning support for data quality is often necessary given the volume, complexity and speed of movement of the data in question, creating opportunities for these types of vendors.
+Considerable investment and interest in information governance and master data management (MDM) initiatives is also driving adoption of data quality tools.
+
+
+The important data quality roles such as Chief Data Officers (CDOs), data stewards, data quality analysts, data architects, and data quality developers, are still not available in organizations. Many organizations do not know what would be the best place in the organization structure for such key roles.
+Most organizations do not annually measure the financial impact that poor quality data can have in their businesses.
+
+
+According to Gartner, the data quality tools market is one of the fast growing enterprise infrastructure software markets. Data quality issues are considered significant inhibitors to gaining value from investments in digital business and analytics, making them often top-of-mind for executives. Organizations are increasingly identifying data-related issues, including poor quality, as a root cause of their inability to optimize the performance of people and processes, manage risk and reduce cost. Furthermore, a Gartner study of over 350 companies on data quality usage and adoption indicated that organizations estimated an average of $9.7 million loss annually as a result of data quality issues.
+
+ 
+
+Data quality tools have a vast range of functional capabilities (data profiling, parsing, matching, merging etc.) so users must consider how readily an offering can be embedded into business process workflows or technology-enabled programs or initiatives such as governance, MDM, analytics and IoT. Roles such as ‘information steward’ are becoming increasingly important when it comes to managing the goals, rules, processes and metrics associated with data quality improvement initiatives.
+
+ 
+
+Data quality tools are at a very mature stage, and there exist many comprehensive product offerings from a range of vendors, and use cases across industries. Best practises include the effective uses of data quality tools to proactively measure, monitor and track data quality flaws, as well as to provide automated and machine-learning support for remediation of data quality flaws.
+
+----------------
+
+DATA VIRTUALIZATION
+
+
+Data virtualization technology consists of the execution of distributed queries against multiple data sources, federation of query results into virtual views, and consumption of these views by applications, query/reporting tools or other infrastructure components. It is a specific style of data integration supported by features from tools in the data integration tool market.
+
+
+Data virtualization can be used for broad data integration needs (some vendors are pushing data virtualization as a potential replacement for ETL and other forms of batch data integration) and provide a data access layer between applications, processes and data stores.
+
+It can also be a flexible and agile operation for data integration that allows users to quickly connect to heterogeneous data sources for faster time to data delivery.
+
+‘Third-party’ API layers can be built for accessing data stores, in particular to deliver virtualised data services (services that formulate an integrated view of data from multiple datasets and enable this view to be accessed via a service interface).
+
+There may be some confusion between broader data virtualization offerings, more frequently being offered by vendors, and the more narrow semantic virtual tiers and data preparation solutions.
+
+Data virtualization is a mature technology and users may be challenged when choosing between a plethora or new or incumbent vendors.
+
+According to Gartner, 25% of organizations surveyed use virtualization in a significant manner. Data Virtualization enables many use cases, across many industries, often specifically related to connecting to data instead of always connecting the data. Businesses that identify a demand for rapid accessibility to newly added data for experimental or pilot data integration for analytics, and to a lesser extent operations and transactional data use cases, will be able to use data virtualization as a flexible and agile operation for data integration.  This allows businesses to quickly connect to heterogeneous data sources for faster time to data delivery.
+
+ 
+
+Data virtualization is a mature technology with proven use in data and analytics. It’s value is often inherent to new users (e.g. data engineers, data miners, data analysts) where data virtualization can provide a flexible way of integrating siloed data sources to provide data services stand-alone virtualization tools are now being introduced by vendors and incumbent data integration tool vendors adding data virtualization to their broader portfolio of data delivery styles to break into a lucrative market, creating a competitive and dynamic environment.
+
+
+----------------
+
+MULTI-DOMAIN MDM
+
+
+Multiple-Domain MDM (master data management) encompasses multiple instances of single-domain-centric or use-case-centric MDM technologies. This scenario describes a dedicated technology stack (for example, a single instance) per data domain mastered, whether from the same vendor or different vendors.
+
+
+Multi-domain MDM solutions provide the enterprise with the capability to achieve a consistent, trusted semantic view of some or all of its key master data domains.
+Many opportunities emerge from strategic, enterprise-level information governance, management of consistent business data objects across organizational units, alignment of business data definitions and the effective execution of information stewardship. Prominent examples include better data quality, improvements to internal procedures, improved product management and optimization of sales and marketing.
+
+Finally, multi-domain MDM solution support more advanced, enterprise information strategies that seek to support market differentiation using information as a business driver.
+
+Market adoption has been slower than expected because organizations have demonstrated varying levels of coherence in what they mean by ‘multi-domain’, while MDM vendors have demonstrated little consistency in what constitutes a ‘multi-domain MDM solution’.
+
+Organizations are challenged when it comes to assessing the extent to which their organizational culture and design supports multi-domain MDM capabilities and whether effective information governance, and enterprise metadata management can be established across different business areas and data domains in the enterprise.
+Vendors may struggle to meet the necessary complexity across different data domains and provinces for desired use cases, implementation styles and industries.
+Governance maturity, political or cultural readiness, and the ability to establish organizational leadership across multiple business areas spanning multiple data domains, are also pivotal issues.
+
+
+Master data management (MDM) is a technology-enabled business discipline in which business and IT work together to ensure the uniformity, accuracy, stewardship, governance, semantic consistency and accountability of the enterprise's official shared master data assets. Master data is a consistent and uniform set of identifiers and extended attributes that describes the  core entities of an enterprise, such as existing or prospective customers, suppliers, sites or products. Multi-Domain MDM is an enabling technology that supports the management of any number of master data domains across the full spectrum of MDM implementation styles, which can be achieved via either implementation of a single, integrated offering, or a portfolio MDM offering. It provides much opportunity for business, but comes with many caveats.
+
+ 
+
+Even organizations able to articulate their multi-domain requirements and identify truly multi-domain MDM solutions, may find that MDM alone cannot deliver the promised additional benefits. Realization of multi-domain benefits will come from an assessment of requirements on a business process basis, along with the resultant organizational and process changes that the enabling technology will ultimately support. In other words, technology adoption alone does not ensure success, because greater effort is needed in terms of design, governance, business process and organizational change management. As increasing numbers of multi-domain MDM solutions come to market, users need to explore and fully validate their business and IT readiness, as well as their MDM maturity, to ensure that the right kind of technology is matched to their organizational culture and business goals.
+
+-----------------
+
+INFORMATION GOVERNANCE
+
+
+Information Governance (IG), also known as Data and Analytics Governance, is the specification of decision rights and an accountability framework to ensure appropriate behaviour in the valuation, creation, storage, access, use, archiving and deletion of information. IG includes the principles, guidelines, standards, procedures and metrics that ensure the effective and appropriate use of information in enabling an organization to achieve its goals.
+
+Data and analytics leaders are increasingly concerned with how to govern data and analytic assets such as master data, application data, algorithms, analytics models, KPIs, external social data, records and content.
+
+Growing numbers of Chief Data Officers (CDOs) are putting data and analytics governance at the centre of business priorities as a key enabler of many data and analytics initiatives. IG is now understood to serve as an additional means to drive value, not solely to mitigate risk through compliance.
+IG can reduce the cost and risks associated with data and analytics, increase the value of that information and support improved decision making.
+
+IG is technically complex, organizationally challenging and often politically sensitive.
+It can be difficult to get executive-level sponsorship for governance programs, since too many organizations equate the work with compliance.
+There is no clear product or market for IG platforms, only tools and newer solutions that address some of the requirements.
+
+IG today is becoming more about enablement, rather than compliance. Business drivers for IG programs are shifting away from regulatory compliance and a need to decrease litigation costs. Digital businesses today are more focused on the business value of data and the idea of ‘governing the least amount of information with the least effort but maximum business impact’, combined with a need to mitigate risk associated with unmanaged data. IG therefore needs to be designed by the business, for the business.
+
+ 
+
+Effective governance can lead to changes in business behaviour so that data and analytics enables better decision making and improved business outcomes. IG helps enterprises to utilize information assets to create business value, gain efficiency and service customers better. It can also help reduce the cost of litigation and speed up responses to regulators. Consistent, transparent and accurate information is foundational to every business process, including ERP, CRM, BI and the management of all corporate documents. Organizations should be aware, however, that IG is complex and organizationally challenging. With no clear market for IG platforms, and a habit amongst users to equate IG directly with compliance, there is some way to go before IG reaches maturity.
+
+
+--------------------
+
+GEOSPATIAL AND LOCATION INTELLIGENCE
+
+
+Geospatial and Location Intelligence (GLI) includes applications, infrastructure and tools, and best practices that enable access to and utilization of geospatial and location data of people, things and information for location-referenced information analysis.
+
+Location is one of the most important pieces of information for contextualizing a range of data types, including transactional, social, mobile, user and sensor data. Analyzing business data in the context of location can allow users to uncover spatial trends, dependencies and patterns that are otherwise undetectable.
+GLI can be used to better understand and engage customers and citizens, optimize asset usage, and improve operational efficiencies.
+The IoT is driving greater adoption, broader utilization, and new GLI technologies and services. New initiatives, such as Industry 4.0, smart cities, smart mobility and smart shopping are also using location-referenced information as a core component.
+
+The emergence of newer GLI tools is also key, which eliminate the need for GIS (Geographic Information System) specialization skills and offer self-service capabilities for nontechnical users to more easily analyze location data.
+
+
+
+Differences and changes in data protection and privacy laws and regulations across different geographies can impede the implementation of GLI.
+A lack of resources and properly trained employees required to perform location analysis and interpret results can limit an organization’s ability to leverage GLI.
+Interoperability issues across vendor platforms caused by different standards for diversified types of geospatial and other location data, as well as disparate methodologies of data acquisition and transmission, pose challenges when sharing data and functionality across solutions.
+
+
+
+Interest in GLI will continue to grow as organizations increasingly comprehend the value of location to better understand and engage customers, optimize asset usage, and improve operational efficiencies. Companies like Uber, Lyft, Didi and Grab use their ride-sharing apps to shape real world behaviour, creating new gathering points to change how we get around efficiently. Companies like Snap generate revenue from on-demand revenue geo-filters while Twitter and Facebook target advertising by location. According to Gartner’s 2017 business intelligence (BI) and analytics spending intentions survey, GLI was one of the reported top areas for investment.
+
+ 
+
+GLI can uncover previously unseen spatial/location relationships, resulting in improved operational efficiencies and decision making. While there is increasing interest in GLI, creating a single solution that offers all the capabilities is extremely challenging and this concept will likely cease to exist, with vendors increasingly specializing in either macro (e.g. focused on spatial analytics for use cases such as store planning, environmental analysis and traffic planning) or micro (e.g. focused on close proximity use cases, such as in-store real-time customer engagement experiences) location intelligence. Some vendors will continue focusing on expert GIS users, while other emerging providers and analytics and BI platform vendors will offer GLI capabilities for business users.
+
+------------------
+TEXT ANALYTICS
+
+
+Text Analytics is the process of deriving analytical findings from textual data sources. This process can include determining and classifying the subjects of texts, summarizing texts, extracting key entities from texts, and identifying the tone or sentiment of texts.
+
+Opportunities for Text Analytics are increasing due to growing data volumes and the need to make sense of the underlying context of the data.
+Text Analytics has become increasingly important when handling unstructured data, which has grown in volume and prominence as written communications have shifted from print to digital forms.
+
+There is a growing desire to complement insights gleaned from analysis of structured numerical data with text-based facts for more-robust predictive modelling.
+
+
+The Text Analytics market is fragmented and far from saturated. Text Analytics is also known as text mining, natural-language processing or entity extraction, and these alternatives often receive more individual hype than the areas as whole.
+The technology is still maturing and differentiation between the many overlapping vendors is nuanced.
+The diversity of available uses cases means that it is challenging to incorporate solutions into an organization’s wider digital platform.
+Text Analytics needs specialist skills to utilize and gain benefit.
+
+
+Text Analytics, when combined with various other analytic capabilities, can be of significant benefit to an organization in many ways, including but not limited to:
+
+Processing unstructured data for analysis
+Discovery and insight (ie. indexing reports)
+Voice of the customer analysis (ie. call centre notes)
+Automated document matching and classification
+Medical records analysis
+Market research (ie. surveys)
+Analysis of insurance claim narratives
+Analysis of brand loyalty (ie. analysing Twitter feeds)
+Litigation (forensic analysis of a body of documents to gather an audit trail)
+Future technological advances could lead to highly automated solutions capable of accurate and deep understanding of contexts. Currently, however, Text Analytics has many challenges, such as a fragmented market, such a diverse set of use cases and the specialist skill-sets required.
+
+-----------------------------
+
+
+EVENT STREAM PROCESSING
+
+An event stream is a sequence of event objects arranged in some order, typically by time. Event Stream Processing (ESP) is any kind of computing performed on event streams. The purpose of some ESP systems is to ingest, process and store event streams for later use.
+
+
+The growth of the IoT market, the proliferation of connected devices and the increasing number of digital interactions is resulting in event streams that are more ubiquitous, creating a wealth of opportunity for ESP.
+
+Further, vendors are increasingly bringing out new products, many of them open source or partly open source.
+Alongside the data deluge, businesses are demanding continuous intelligence for better situation awareness and faster, more precise decisions.
+ESP technology is maturing rapidly and is set to eventually be adopted by multiple departments within every large company, embedded in SaaS solutions and off-the-shelf package applications.
+
+The ESP market is highly specialized, divided between vendors predominantly offering products for analytics and those offering products for data ingestion and movement, creating challenges for customers with broader requirements.
+Incumbent on-premises vendors are being disrupted by rapidly maturing cloud-native offerings, which are in turn being disrupted by edge-based deployments, particularly for IoT, resulting in a dynamic but volatile market landscape.
+Identifying employees with the necessary skillsets for highly technical and data-intensive ESP tasks.
+
+
+Companies now have access to more streaming data than ever, from internal sources (such as sensors, meters, control systems and transactional sources) and from external sources (such as social computing platforms, news and weather feeds, other data brokers, government agencies and business partners).
+
+ 
+
+The main purpose of ESP is stream data integration or stream analytics, which can be used to improve the quality of decision making by presenting information that could otherwise be overlooked. It can enable smarter anomaly detection and faster responses to threats and opportunities, and help shield business people from data overload by eliminating irrelevant information and presenting only alerts and distilled versions of the more important information.
+
+
+ESP is one of the key enablers of continuous intelligence and other aspects of digital business, and will be essential for businesses able to navigate a complicated market landscape and deal with skill-set gaps. Much of the growth in ESP usage during the next 10 years will come from three areas where it is already somewhat established: IoT, customer experience management and fraud detection applications. Between 2018 and 2023, Gartner estimates that revenue for ESP platforms will grow 15% year over year. The overall growth rate of ESP usage will be even higher when considering no-cost, open-source event stream processing software.
+
+-----------------
+
+CITIZEN DATA SCIENCE
+
+
+Citizen Data Science is an emerging set of capabilities and practices that allows business users to extract advanced analytic insights from data without the need for extensive data science expertise. Central to enabling citizen data science are rapidly progressing augmented analytics capabilities that streamline data preparation, provide user guidance for data science operations (correlations, clustering, predictions), augment user insight through automated modelling and pattern detection, and enable collaboration and sharing.
+
+
+Citizen Data Science tools can guide the user through the end-to-end modelling process by automating manual and bias prone tasks, such as feature selection. Citizen Data Science tools also augment the user’s discovery capabilities by automatically generating and prioritizing statistically meaningful insights for users.
+Insights from data science and machine learning can be made more accessible and pervasive in the enterprise. Citizen Data Scientists can be leveraged to fill the data science and machine learning talent gap that is currently being experienced due to the shortage and high cost of data scientists.
+
+
+Businesses are often challenged to ensure that Citizen Data Scientists are deployed at exactly the right stages of projects, and in the correct fashion. Training business users in Citizen Data Science techniques can still be challenging for companies, and requires time and investment, and there may be some push-back from some business users.
+Citizen Data Scientists are often not allowed to work fully independently of IT experts, resulting in overlap and sometimes duplication of work, which is less effective.
+
+
+Current business intelligence (BI) and analytics approaches enable users to carry out manual data preparation, data exploration and pattern detection in some cases. Creating data science and machine learning models, however, requires expert data scientists who are often expensive to hire and difficult to find. Citizen Data Science has the potential to form the foundation of next-generation analytics, making insights from data science and machine learning more accessible and pervasive in the enterprise. Incorporating citizen data scientists into specific phases of the analytics life cycle can enable more scalable and focused use of data science and machine learning resources across the organization. Citizen Data Scientists can be used in the exploratory phase of a project to enable more skilled scientists to focus their expertise on more cutting-edge model building phases, or act as ‘business translators’.
+
+ 
+
+Data and analytics users should look for opportunities for Citizen Data Science to complement and collaborate with existing user-orientated modern analytics and BI and expert data science initiatives.
+
+ 
+
+Citizen Data Science will likely be a key driver of analytics adoption over the next several decades. According to Gartner, by 2020 more than 40% of data science tasks will be automated, resulting in increased productivity and broader usage by Citizen Data Scientists. By 2024, Gartner also predicts, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations.
+
+-------------------
+
+SERVWARE
+
+Servware is converged data and analytics services and software in the form of customizable assets containing business domain content and analytics expertise. It is protected by intellectual property (IP), from a single vendor, and comes as a packaged product (platform or application).
+
+
+Servware allows for an organization’s domain analytics to be used to monetize its own expertise and insight, and monetize analytical IP.
+By favoring pre-packaged servware over custom-built solutions, businesses will see a reduced need for in-house skills.
+Businesses using servware will see an improved agility that comes with faster implementations and shorter development cycles. Servware also incorporates ready-to-use models and domain-specific data sources to support immediate data interrogation.
+
+Opportunity for reduced total cost of ownership (TCO) for data and analytics, as servware is often based on a pay-per-use or subscription pricing model. SaaS-based packaged analytic applications can also be funded with operating expenditure instead of capital expenditure.
+Servware applies an array of analytics techniques, including advanced and specialized analytics, for specific use case.
+
+
+Servware disrupts familiar vendor-buyer relationships, causing uncertainty for analytics leaders concerning business models, pricing options and support. Data and analytics leaders face a more complex future in evaluating analytics providers and their offerings, business models and support.
+Servware, by accelerating the shift of analytics to business units, can loosen analytics leaders’ control and fragment alignment of strategic business goals.
+Business users often lack the analytics expertise, policy awareness and enterprise-wide perspective that can be essential in optimizing a servware solution.
+
+
+The convergence of services and software means that the traditional model of delivering data and analytics is changing considerably. Vendors are more frequently adding software applications to their services, as services and software are more suited to addressing specific business needs when combined. Servware can therefore be viewed as packaged intellectual property, coming in the form of both data and analytics platforms and applications. Servware is often prioritized over traditional data and analytics service when speed is a deciding factor and the solution is considered tactical or low-risk. Many service providers are now actively developing and offering servware to the market.
+
+
+
+Moving forwards, data and analytics leaders should be looking to explore the impact of servware on their data and analytics operating models, and establish business-based, cross-functional teams to increase the data and analytics performance of their business units. Businesses should also be defining domain requirements, running proofs-of-concept comparisons against current solutions with servware, and establishing a ‘co-development’ relationship with servware vendors to generate analytics IP that can be monetized together. Servware can disrupt vendor practices and create prospects for organizations to differentiate competitively. Data and analytics leaders should embrace this disruption to leverage converged solutions across the organization.
+
+-----------------
+
+DATA AS A SERVICE
+
+Data as a Service (DaaS) is a design approach that delivers data on demand via consistent, prebuilt access with the aid of standard processing and connectivity protocols, one component of an overall information architecture. Originating data remains local to its storage platform and, following various steps to access, format, evaluate and contextualize it across any deployment option, it is presented as output for use in a subsequent process or delivery endpoint.
+
+
+Service-enabled approaches can be used to access disparate data from various solutions and combine for delivery to a new use case - data aggregation companies are existing as third-party data providers.
+
+The growing trend for collaborative and open data, alongside data marketplaces and data brokers who curate and sell data, is boosting DaaS growth. Advancements in automation and machine learning is also driving further adoption.
+
+DaaS provides opportunities for overcoming the binding of data to specific applications. DaaS can also support other data integration styles, such as bulk/batch or data visualization, or participate in message queue management. DaaS can be used to perform simple data delivery, but it can also include complex data contextualization.
+DaaS architectures offer several benefits to developers, who may otherwise have to learn specialized data techniques and protocols, enabling faster time to value for business and more users to have access. It can also be used to migrate complex data warehouses and silos to more federated structures that obscure their complexity with a more simplified interface. DaaS also makes coordination between business units and between business partners more seamless.
+
+
+There are many challenges associated with the difficulty of building DaaS in-house.
+The complexity of DaaS – it is made up of disparate governance frameworks that need to be resolved, varying levels of detail, in various integrated and non-integrated models – makes obtaining successful results challenging for many businesses.
+
+
+DaaS is complex and can range from a simple access API coupled with simple filtering, all the way up to the rationalizing of multiple data assets and the application of context. As such, successful implementations are difficult and cannot be achieved by just placing data in the cloud or creating data lakes. Well designed DaaS environments provision data that is integrated, enriched, well-described and reliably accessible before endpoint delivery. Data sources must also have well-embedded security, privacy and quality controls; DaaS should not just solely be equated with technology implementation. Despite these challenges, analysts do predict healthy growth for the DaaS market. According to TechNavio, the DaaS market is expected to reach $1.3bn by 2020, growing at a strong CAGR of nearly 44%, driven by demand for data management and increasing need to enterprise mobility.
+
+
+Some vendors offer tools for simplifying and unifying database and content data store access but DaaS is ultimately a style of architecture, not any one technology. Data and analytics leaders should consider DaaS-style architecture as an option to expand and complement the existing data management strategy and infrastructure. DaaS has many potential benefits and can help to address the growing variety of data, the increased demand for data from more users while evolving from traditional, physically manifested hub-and-spoke data management and integration approaches, such as delivering master data and supporting analytic extracts and B2B use cases for sharing data. Larger scale adoption could be limited by the challenging nature of DaaS, in terms of user skills and training and the difficulty of building DaaS in-house.
+
+
+---------------
+
+PERSONAL ANALYTICS
+
+Personal analytics is the analysis of contextually relevant data to provide personalized insight, predictions and/or recommendations for the benefit of individual users. Personal analytics can take the form of software agents acting on behalf of users with a varying amount of autonomy. Examples include virtual personal health assistants, financial advice assistants and shopping assistants.
+
+
+Individuals are increasingly engaging with technology and generating greater and greater amounts of data, including photos, social interactions, purchases, preferences and health indicators, creating opportunities for personal analytics vendors.
+Opportunities are also being created due to a growing user willingness to combine and share personal data, in exchange for visible personal benefits derived from advanced analytics, via more mature life-logging applications.
+
+
+Privacy concerns are always particularly prevalent when personal data is concerned, creating a challenging market environment for personal analytics vendors.
+Integrating personal ecosystems of sensors and data feeds associated with individual users, is also complex.
+The business models required to support product development and marketing are immature and not fully understood.
+
+Personal analytics includes a nascent, non-standardized collection of proprietary algorithms which offer varying levels of functionality and broadly focus on self-reflection, personal improvement and benefit. Personal analytics, when combined with chatbot functionality, is also a market driver for emerging technologies such as virtual personal assistants. The analytics layer leverages personal data to generate contextual and relevant insights, applying rules and preferences to generate recommendations or actions.
+
+ 
+
+The speed of adoption for personal analytics will largely depend on the ability of analytics tools to address key user pain points, including disease/symptom diagnosis or personal financial management, which go beyond the services offered today such as calendaring/reservations, geolocation and recommendation services. The integration of advanced analytics to drive decisions, change behaviours and execute tasks automatically, will be key.
+
+ 
+
+Data and analytics leaders should be developing personal analytics tools, applications and APIs for customers as a way of deepening brand interactions consistently across different touchpoints and channels. Leaders should also prepare for a future where customers use many different types of personal analytics on different devices where there is no single solution that meets everyone’s needs – analytics solutions of the future must be device-agnostic and machine learning approaches must provide differentiation. As the proliferation of connected devices continues at pace, and as the amount of data generated increases exponentially, the opportunities for personal analytics will also grow rapidly. How best to address privacy concerns regarding the use of personal data is a key challenge, and must be anticipated and tackled by technology leaders.
+
+-------------------
+
+GRAPH ANALYTICS
+
+Graph analytics consists of models that determine the “connectedness” across data points to create data nodes/clusters and their demarcation points. Nodes are connected explicitly or implicitly, indicating the levels of influence, frequency of interaction, or probability. Graph analytics is typically portrayed via a visualization for business user consumption.
+
+
+Strong desire in the market to find insights within exponentially large quantities of heterogeneous data, and the demand to analyze it, is providing opportunities for graph analytics and driving adoption.
+
+Expanded capabilities, increased computational power and adoption of graph databases are presenting an ideal framework for storing, manipulating and analyzing graphs.
+While relational analytics is typically ideal for structured, static data in columns and rows in tables, graph analytics is better suited for exploring fluid and indirect relationships between entities across multi-structured data, delivering insights that are difficult to reach with SQL-based relational analytics.
+Graph analytics processing is a core technology which underlies many other advanced technologies, such as virtual personal assistants, smart advisors and other smart machines. Growth of these technologies is therefore providing further opportunities for graph analytics.
+
+
+A lack of broad awareness among potential users is creating challenges for extensive adoption of graph analytics.
+The unique methods required to store and process data within many graph databases, combined with the need for new skills and graph-specific knowledge, can also limit adoption. Examples of knowledge and experience needed include the Resource Description Framework (RDF), SPARQL Protocol and RDF Query Language (SPARQL), and emerging languages such as Apache TinkerPop or the recently open-sourced Cypher.
+
+
+The commercialization of graph analytics is at a fairly early stage, with a small number of emerging players. Analytics experts are beginning to claim specialization in graph analytics, while some traditional analytics vendors are offering capabilities that enable users to build interactive network graphs as an additional feature of their products. Platforms such as Cambridge Semantics, Digital Reasoning, Ayasdi and Maana use graph analytics to identify important findings.
+
+ 
+
+Data and analytics leaders should be looking to evaluate opportunities to incorporate graph analytics into analytics portfolios and strategies, which will enable businesses to address the high-value use cases which are not fully addressed by SQL-based queries and visualizations - including computing and visualizing shortest paths or the relationship between and influence of two nodes or entities of interest in a network, for example. Graph analytics can also be used to enhance pattern analysis. Users can interact directly with the graph elements to find insights, while the analytics results and output can also be stored for repeated use in a graph database. Graph analytics can be an effective tool for both assessing risk and responding to it, for example for fraud analysis, route optimization, clustering and outlier detection. A recent, and quite prominent, example of identification of networks in relationships is the research by the International Consortium of Investigative (ICIJ) research which revealed the Panama Papers.
+
+ 
+
+Graph analytics is effectively utilized across a range of industries. There is a lot of potential for increased uptake however growth can be hindered by a lack of awareness among potential users, or a deficiency in relevant skills or knowledge.
+
+------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
