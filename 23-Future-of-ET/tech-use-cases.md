@@ -3525,6 +3525,203 @@ Leaders in relevant industries should therefore be evaluating flexible battery t
 
 
 
+SWARM ROBOTICS
+
+Swarm robotics, the concept that takes inspiration from bees and other social insects represents the next stage of robotic deployments and promises to revolutionize the applications of robots in unstructured environments through collective intelligence and sensing.
+
+Multiple drones or mobile robots acting in concert are opening new applications for automation, covering larger areas, delivering more useful sensor data, and interacting with their environments in new ways. Unlike other planning algorithms that are centralized or rely on a single computer to handle delegating tasks, swarms are decentralized, i.e., each robot makes its own decision making the system resilient to failure.
+
+For businesses, swarm robots are a building block for enabling Industrial Internet of Things, predictive analysis, and ultimately, more efficient operations.
+
+Relatively simple individual rules can produce a large set of complex swarm’s behaviours. A key-component is the communication between the members of the group that build a system of constant feedback. The swarm behaviour involves constant change of individuals in cooperation with others, as well as the behaviour of the whole group.
+ 
+The idea of using a set of devices — nanobots working inside the human body, microbots working inside machinery or standard-size robots working in mines or farms — appeals to the entertainment industry, the military, aerial applications and so forth.
+
+The bionic aero vehicles inspired from swarm intelligence technology will become applicable in a few years. It can be foreseen that machine bees or cockroaches with reconnaissance equipment and bombs will possibly show up in military arsenal.
+
+Much of the research done on swarm robotics is still in the laboratories. In 10 years from now analysts expect more and more swarm systems having an actual application. The swarm intelligence market is expected to be valued at USD 447.2 Million by 2030, growing at a CAGR of 40.47% from 2020 to 2030 driven by the increasing usage of swarm intelligence for solving big data problems, the rising adoption of swarm-based drones in the military, and need for swarm intelligence in the transportation business.
+
+------------
+
+HUMANOIDS
+
+Humanoid robots, also known as legged robots, typically possess physical appearance like that of a human. For applications such as personal assistants/ elderly care, a human mimicking form or humanoid is preferable. Such a robot would replicate physical as well as emotional characteristics as emulated by a human worker under the same environment and stimuli to appear almost ‘human like’.
+
+
+
+Humanoids find higher adoption and likeability for applications such as customer service and store counters in countries like US and Japan where technology adoption is favorable
+
+Humanoid form factor increases the trust users have in their machine and may lead to higher adoption in sensitive applications such as healthcare/elderly care providers and personal home assistants
+
+With increased Artificial General Intelligence (AGI) these systems will be highly autonomous and better at blending in with human workers as they learn human-robot interaction skills
+
+There is an increasing demand for humanoid robots in the retail industry as personal assistants and for customer service. In healthcare, humanoids find applications in precision applications like patient care, surgery, medical training etc. In addition to this, the rapidly aging population as well as increasing number of rehabilitation centres drives the demand for humanoids to provide a helping hand to the elderly. Other drivers include rising spending power, high speed innovations and rising trend of autonomous rescue operations.
+
+Apart from these, they will have significant military implementations -  combat soldiers will be replaced by robots to save human lives in combat and other high-risk operations such as firefighting, disaster rescue etc.
+
+Key drivers for adoption of humanoids will be increasing mobile processing capabilities with quantum processors and improving artificial intelligence algorithms for humanoid robots to boost their performance.
+
+Significant capital investments in research and development and high cost of humanoid robots are some of the factors expected to hinder the growth of the humanoid robot market in the short term
+
+The market for humanoid robots is expected to reach US$5.5 billion by 2024 according to Global Market Insights
+
+
+--------------------
+
+AUTONOMOUS VEHICLES
+
+A significant amount of investment has been made into the development of autonomous vehicle perception systems, with companies racing to develop a system that is deemed safe enough for human intervention free commercial deployment. Self-driving cars and trucks clearly have the potential to reduce climate-change emissions as well as make roads safer for occupants, Machine to Machine communication will enable better traffic optimization as well as overall better route planning and travel experience. The potential for autonomous vehicles opens commute as a time for productivity which people lose to traffic presently.
+
+Autonomous systems of the future would provide for an engaging travel experience like what we get in railways presently without the last mile challenges. Companies such as Tesla which are collecting data through real world experimental vehicles may lead future passenger transport industry when autonomous vehicles may become the only transit option.
+
+The main implications of self-driving vehicles will be in economic, business and societal dimensions. The interest of non-automotive companies highlights the opportunity to turn self-driving cars into mobile computing systems that offer an ideal platform for the consumption and creation of digital content, including location-based services, vehicle-centric information and communications technologies.
+
+Continued advancements in sensing, positioning, imaging, guidance, mapping and communications technologies, combined with artificial intelligence (AI) algorithms and high-performance computing capabilities has accelerated interest in autonomous vehicles.
+
+The technology is applied to wide use cases, including autonomous livery and autonomous trucks in transportation, unmanned vehicles in federal/central government and autonomous vehicles in the resource industry.
+
+The adoption of autonomous vehicle technology will develop in three distinct phases — automated driver assistance, semi-autonomous and fully driverless vehicles. Each phase will require increasing levels of technical sophistication and reliability that rely less on human driving intervention.
+
+Within Gartner’s  IoT Forecast Database, Level 3-and-above-capable autonomous driving net additions will rise from 137,000 in 2018 to 2.5 million in 2028 (a CAGR of 34%). Consumer vehicles will account for a majority of net additions, but commercial autonomous net additions will grow quickly from 2% in 2018 up to 13% by 2028.
+
+---------------
+
+SOCIAL & EMOTION RESPONSE ROBOTS
+
+The recognition and understanding of human emotions is crucial for robotic systems to behave in appropriate ways according to the situation and smoothly integrate with all the different aspects of human life. In the new normal post the COVID-19 pandemic, robot deployment across service and assistance touch points will accelerate leading to renewed interest in making these systems as “human enough” as a normal human worker.
+
+The idea of using emotion in the design of robots is not new, and the last three years have shown a great increase in the acceptability and usability of the concept of emotion, especially in designing software agents. The concept of Artificial Emotion is principally used in making robots respond emotionally to situations experienced in the world or to enhance interactions with humans
+
+According to the WEF 's 2019 report on emerging technologies, the field of social robotics has reached a tipping point. For instance, there are about 15,000 Peppers (by Softbank Robotics) deployed worldwide that are used to perform services such as hotel check-ins, shopping assistance, and airport customer care. Moreover, social robots are gaining traction among in toys, as vendors continue to incorporate social behaviors into them. For instance, Sony sold around 11,000 units of its new AIBO robotic dog equipped with a sophisticated set of features that enable it to develop new behaviors based on past interactions
+
+Gartner predicts that by 2022, personal devices will know more about an individual’s emotional state than their own family. While 5% of big-box retail stores will adopt camera-based or biosensor-based emotional recognition to understand moods of visitors, enhancing the retail experience and optimizing in-store digital display ads or real-time location-triggered ads
+
+The Social Robots market is estimated to grow at a CAGR of about 14% over the forecast period 2020 to 2025, expanding from US 5.6 billion in 2018. Revenues are expected to grow to US$19 billion by the end of 2025, with over 65 million robots sold every year
+
+---------------
+
+EXOSKELETONS
+
+Exoskeletons are best known for improving mobility among paraplegics. However, they are becoming increasingly useful for applications such as military, construction and industrial where supplementing human effort reduces time and cost.
+
+It opens a new avenue of human + machine as next generations of exoskeletons can be integrated with smart Cobots for optimum efficiency. Advances in material science provides for use of flexible materials that can make exoskeletons easier to fit, and improve maneuverability leading towards true wearable like augmentation of human capability.
+
+Over the past years, Exoskeletons have primarily been in demand for military, healthcare (both surgery and rehabilitation) and industrial workloads. As we progress in adoption of the technology the big bulky mechanized suits will reduce in size as well as complexity. Leading to higher adoption and faster setup.
+
+In the next decade, exoskeletons will be able to identify wearers through implants or other forms of identification and download configuration and preference/operational data to optimize the experience. Future versions may be able to interact with implants for real-time assessment of the wearer, as well as with implanted/embedded fixtures for better alignment or connectivity to the wearer’s body.
+
+Emerging work to interface prostheses directly with the neural network of the human wearing it will likely appear with exoskeletons as well but will require some advances in computing interfaces. Current actuator sensing based exoskeletons are not adept at understanding movement intent and often confuse the movement. Advances in brain computer interfaces such as Neuralink will be able to provide better intent information.
+
+According to BIS research, Advanced prosthetics and exoskeletons market was valued at US$2.11 billion in 2018, and is expected to reach US$3.82 billion by 2024, registering a CAGR of 10.42% during the forecast period of 2019 to 2024.
+
+-------------------
+
+DRONES & UNMANNED AERIAL VEHICLES
+
+Drone technology has been used by defense organizations and tech-savvy consumers for quite some time. However, the benefits of this technology extends well beyond just these sectors. With the rising accessibility of drones, enterprises are beginning to understand the true potential for drones, particularly UAV’s. Increasing work efficiency and productivity, decreasing workload and production costs, improving accuracy, refining service and customer relations, and resolving security issues on a vast scale are a few of the top uses drones offer industries globally.
+
+Drones are especially attractive for autonomous inspections, used in sparsely populated environments where valuable assets are physically distributed and are costly or dangerous to inspect. This includes maintenance of solar and wind-power generation equipment, offshore rigs, oil and gas pipelines, power distribution lines, process manufacturing plants and agricultural and construction work sites.
+
+Drones may replace human surveyors, inspectors, drivers and cameramen who previously had to perform costly jobs in unsafe conditions — they offer productivity improvements by reducing and/or redeploying head count, while improving real-time data capture and worker safety. The greater diagnostic capability of drones coupled with the increased availability/reliability of surveillance resources can reduce operating costs, missed opportunity costs and the risk of catastrophic events, while improving project management and resource allocation.
+
+The market for drones and UAV’s is expected to expand at a CAGR of 13.8% to US$42.8 billion by 2025 from US$22.5 billion in 2020. The Energy sector is the largest industry on the commercial drone market in 2020 and will continue to be so in 2025, it is followed by Agriculture and Construction. However, the Transportation & Warehousing industry will be the fastest growing due to the changing consumer demands fueled by the global pandemic.
+
+
+---------------------
+
+SENSOR FUSION
+
+Sensor fusion is a process that aggregates and "fuses" many disparate sensor inputs to increase sensor data accuracy and/or sensing coverage for the system to develop insights and decisions. A sensor fusion solution usually includes a set of sensors, a hardware sensor hub, a fusion engine and a software sensor fusion stack. It provides the ability to bring together inputs from multiple radars, lidars and cameras to form a single model or image of the environment around the robot.
+
+The navigation system plays an important role and challenging competence for autonomous robots. In navigation application, a mobile robot must interpret its sensors data to extract environment information, with which the robot can determine its position. Since autonomous robots operate in an uncertain and constantly changing environment, a steady stream of rich and reliable information on the environment is needed for navigation and path planning.
+
+To construct a reliable navigation system, sensor fusion is considered to improve the position estimation generated by differential encoder system.During the past few years, sensor fusion has evolved to include lidar, radar and visual sensing for autonomous cars, SLAM (simultaneous localization and mapping) for drones and robots, and six degrees of freedom (6DoF) visual and 3D audio immersion for (head mounted displays) HMDs. These advancements have enabled robots to better navigate unstructured environments.
+
+Sensor Fusion has high adoption in the automotive and consumer electronics industry. It is used in a variety of automotive applications which includes advanced driver assistance systems, camera systems, measuring and controlling the speed of vehicles and safety systems for autonomous vehicles
+
+As miniaturization of technology continues sensor fusion is required to reduce cost, system complexity and the number of components involved to increase accuracy and confidence of sensing
+
+Sensor Fusion System market is expected to grow at a CAGR of 19.4% over the next five years to reach US$7.6 billion in 2024, from US$2.6 billion in 2019. Increase in demand for sensor fusion in automotive applications for safety features and consumer electronics and growing trend of miniaturization in electronics are expected to drive the growth of the sensor fusion market.
+
+---------------
+COMPUTER VISION
+
+Data is viewed potentially as one of the most important and unique strategic business assets that organizations control. Computer vision has the potential to generate value from around 80% of dark data assets — including uneventful surveillance video, video meetings and unsearchable text and graphics. Key use cases today include the use of advanced analytics for video surveillance automation, health and safety compliance (PPE detection, COVID-19 mitigation, etc.), visual search, shopper and shelf analysis, automotive applications, OCR and quality assurance/production line automation in manufacturing. Increasingly, in the future, organizations that can value and leverage their computer vision assets strategically will gain strategic advantages to peers. 
+
+
+
+Computer vision technology enables a robot to use a camera or scanner to transform multidimensional inputs into data it can process, “perceiving” its surroundings and mimicking sight. Computer vision coupled with machine learning and/or artificial intelligence gives the robot increased technical abilities and the opportunity to perform more complex tasks. This data can be communicated rapidly via 5G technologies to enable fast reactions to the surroundings and humans working close by
+
+
+The world is marching towards an era where, instead of replacing workers, robots will assist by guiding workers through their workflow and completing repetitive tasks, taking away mundane travel time to give back to the worker for high-value work. Cooperative orchestration between automation systems and human workers through computer vision technologies will be critical to achieving the highest levels of productivity improvement in the future
+
+
+The global machine vision market was valued at US$9.9 billion in 2019 and is projected to reach US$14.7 billion by 2025, growing at a CAGR of 6.5% between 2020 and 2025.
+As computer vision matures , obots will be equipped with multiple tooling sets and have the capability for more general-purpose applications based on their environment.
+
+--------------
+
+MARINE ROBOTICS
+
+Underwater robots are applied for continuous oceanic surveillance as they are designed to work in challenging environments where the safety and accessibility of divers is compromised. The major purpose for the use of underwater robotics is the necessity for continuous surveillance at submerged ocean areas.
+
+Increasing undersea mineral exploration activity, applications of underwater robots identified in military application, increasing use of advanced robotics technology in oil & gas industry and growing investments in defense sectors across different countries are the factors fueling the marine robotics market
+
+Marine robots are mostly deployed in extreme conditions and can be further categorized according to specific purposes. Their size, shape and payload depends on activity, for e.g. high-resolution cameras for ocean mapping and oil rig surveillance, heavy toolkit for undersea drilling and exploration etc.
+
+Marine Robotics has grown from nascent navigation and control algorithms for underwater and surface vehicles, to powered autonomous underwater vehicles routinely able to dive beyond 6000 meters. We have seen underwater gliders cross the Atlantic Ocean and unmanned surface platforms (Wave Gliders) cross the Pacific as a proof of their capability
+AUVs are providing many new lucrative opportunities. E.g. a new way of maintaining offshore power cables. Researchers are using ocean robots to make underwater cable surveys faster and cheaper. Other commercial uses include deep sea mining, asset location, debris assessment, site clearance and exploration
+
+The global underwater robotics market is expected to grow from USD 2.30 Billion in 2017 to US$ 7.08 Billion by 2025 at a CAGR of 15.1% during the forecast period 2018-2025.
+
+--------------------
+
+COBOTS
+
+Autonomous things cannot match the human brain’s breadth of intelligence and dynamic general-purpose learning. While there are successful use cases of Cobots working alongside humans, the more complex use cases that involve virtual machines will change the overall nature of human-machine collaboration. In turn, new human skills are needed to maintain, train and manage these autonomous things. The future will require human machine collaboration-based workspaces and Cobots are necessary to enable this. 
+
+The development of Internet of Things (IoT) and technological enhancements have fuelled the adoption of automated technologies in industries. The high demand and use of smart devices, wireless, and cloud technology will influence the future of industrial robots like collaborative robots in terms of range of utility and mode of operation. With rising competition, vendors are offering attractive options such as services and control modules through smart devices and Wi-Fi technology for collaborative robots from remote locations. These devices are flexible and convenient and allow a single human operator to control multiple Cobots simultaneously.
+
+Collaborative Robot (Cobot) Market is expected to grow from US$981 million in 2020 to USD 7.8 billion by 2026, at a CAGR of 41.8%. Collaborative robots are increasingly being adopted by various industries due to advantages such as increased productivity and effective employee utilization, as well as improved workplace safety. Smaller sized businesses are expected to quickly adopt collaborative robots, as many of these SMEs are yet to adopt robotic automation in their production processes. Cobots are being adopted by large manufacturing companies as well for increased cost savings and improving the ergonomic work conditions for workers.
+
+Facilitation of automation, reduction of barriers in manufacturing, an introduction of advanced robotic technologies and attributes such as user friendliness and safety are some of the factors driving the global Cobots market.
+
+
+-----------------
+
+ASSEMBLY ROBOTS & ROBOTIC ARMS
+
+
+
+The industry is focused on improving the business value for industrial automation. Robotic arms with integrated sensing and vision augmented by artificial intelligence and deep learning empower industrial robots to improve themselves and keep pace with the human workers around them. Future robots will even figure out their own environment and programming required through trial and error methods.
+
+We’re already seeing companies like Fanuc working on robots that can teach themselves, so this aspect of the future is already becoming a reality. The need for increased automation will also be fueled by workforce dynamic changes accelerated by the Covid-19 outbreak. 
+
+For applications with short product life where hard automation is costly to reconfigure, such as car components, robotic assembly lowers costs while boosting quality and capacity. Unlike dedicated automation equipment, robots are flexible, off-the-shelf machines that can be reconfigured or redeployed as needed. Perhaps of greatest importance, robots are a mature technology, making them a low-risk, high-return investment.
+
+Industry 4.0 will play an increasingly important role in global manufacturing. As obstacles like system complexities and data incompatibility are overcome, manufacturers will integrate robots into factory-wide networks of machines and systems. Robot groups will operate on real-time data collected by sensors. This will fuel demand for cloud robotics in which robots will be connected to optimize work flow. The cloud network would allow these connected robots to perform the same activities while optimizing parameters of the robot’s movement such as speed, angle or force.
+
+Global industrial robot market is expected to grow from US$ 48.7 billion in 2019 to US$ 75.6 billion by 2024, at a CAGR of 9.2%. Technological advancements and decreasing costs are making industrial robots more affordable to SMEs and are enabling seamless integration and programming. Shortage of labor and increasing manufacturing requirements is driving the need and acceptance for automation
+
+----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
