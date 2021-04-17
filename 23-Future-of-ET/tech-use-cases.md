@@ -5371,6 +5371,512 @@ Graph analytics is effectively utilized across a range of industries. There is a
 ------------------
 
 
+ENTERPRISE SOCIAL NETWORKING APPLICATIONS
+
+Enterprise social networking applications enable, track and organize open conversations and sharing of information between individual workers and groups within an organization. Enterprise social graphs are used to keep track of the network of relationships between application users, while news feeds and activity streams are used to deliver personalized updates about events or conversations to individuals.
+
+
+The popularity of consumer social networking platforms is driving adoption within business.
+There is a strong supply side with several options available for businesses. Many enterprise software vendors deliver social networking applications.
+A large range of app functionality (e.g. video streaming, chat, bot framework).
+A broad array of use cases and activities that can be supported by these applications (e.g. project completion, decision making, knowledge capture, innovation acceleration, strategic alignment and employee engagement).
+
+
+The market is a fragmented one, with a host of vendor offerings.
+Some deployments fail because they lack a clearly defined and appropriate purpose to make them relevant to the work activities of targeted participants.
+Other potential challenges include organizational culture clashes, privacy issues, questions about workers’ productivity and content quality.
+
+
+Enterprise social networking applications have a lot of potential within the enterprise. They can improve communication, provide the ability to influence behavior and discovery, not to mention provide the opportunity to gain insight into specific activities around which social interaction occurs. Valuable information can be created, shared and refined through self-selection, collaboration, social incentives and decentralized control, as opposed to top-down resource allocation and instruction.
+
+Most organizations have now moved from tools such as micro-blogging and wikis to broader applications with multiple capabilities. The sheer number of solutions available is likely to provide a headache for decision-makers. Some vendors are providing social and collaborative capabilities within specific business applications designed for this purpose (e.g. Salesforce Chatter, SAP Jam Collaboration), while other offerings form part of more general-purpose applications (e.g. Microsoft Office 365, G Suite by Google Cloud). Some products offer very basic social networking functionality, including content collaboration platforms (e.g. Box, Dropbox), collaborative work management (e.g. Asana, Smartsheet, Trello, Wrike) and workstream collaboration (e.g. Slack, Cisco Webex Teams).
+
+--------------------
+
+CLOUD OFFICE
+
+Cloud Office refers to a collection of the most broadly used suites of SaaS-based personal productivity, horizontal collaboration and communication tools. These suites generally include email, IM, file sharing, conferencing, document management and editing, search and discovery, and collaboration.
+
+
+A growing preference in the market for cloud deployments has created opportunities for Cloud Office vendors.
+Customer demands for cost reduction, redeployment of IT staff, greater simplicity and more user functionality.
+
+Migrations from on-premise deployments to cloud or hybrid can be challenging.
+Some organizations struggle to realize all of the potential value that Cloud Office suites can provide.
+
+
+Cloud Office adoption in the enterprise is growing as technologies are becoming better understood. According to Gartner, 30-40% of enterprises have made the move, although many face challenges. The volume of cloud office projects can lead to frustration, migrations can prove difficult and some organizations fail to realize the potential value that these suites can provide.
+
+Microsoft Office 365 and Google G Suite are the biggest vendor examples. Both Microsoft and Google are investing heavily to attract enterprises to their cloud office offerings and are responsible for the majority of enterprise deployments. Other vendor offerings include IBM Connections Cloud, Amazon WorkDocs/WorkMail/Chime and Zoho Office Suite. Vendors generally can provide the most attractive new features (e.g. mobile apps, content discovery tools, AI) from cloud deployments only.
+
+Looking forward, Cloud Office solutions will become more and more difficult for businesses to ignore. The wide scope of Cloud Office workloads means that this technology has the potential to affect everyone in the organization, and these suites support a wide variety of collaboration styles including video, conversational and social as well as email and IM.
+
+---------------------
+
+BRING YOUR OWN THING
+
+Just as bring-your-own-device (BYOD) drove the mass adoption of interaction models based on smartphones, tablets and personal computers, bring-your-own-thing (BYOT) will stimulate adoption and stabilize new business models around the engagement with physical products like wrist bands, personal assistants, smart watches, and many others.
+
+Bring-your-own-thing (BYOT) refers to individuals bringing personal IoT devices or wearables into the working environment for reasons of convenience or productivity. Initially, BYOT will involve objects such as fitness bands, smart lights, air filters, wireless webcams, voice assistants, smart ear buds, remote-controlled power sockets, consumer virtual reality headsets, drones, or coffee machines. In the long term, it could include highly sophisticated devices, such as self-driving cars and domestic robots.
+
+
+Opportunity for the organization to formally adopt new devices to improve quality of life or productivity.
+The emergence of technologies such as Amazon’s “Alexa For Business” will make it more practical for technology and service providers to create more enterprise-oriented versions of consumer products to provide alternatives to BYOT.
+Future technologies such as embedded AI will enable “things” to become more intelligent and will increase the demand for BYOT.
+
+Many BYOT security challenges can’t be managed technologically because there are no tools equivalent to the enterprise mobile management products used in the “bring your own device” and “bring your own application” domains.
+As employees will add their own objects to a smart workspace environment, organizations will need to adjust BYOT policies accordingly.
+
+Bring-your-own-thing (BYOT) is immature and few consumer things are found in workplaces today. However, as individuals adopt smart homes and use technologies such as voice assistants to control personal IoT, more BYOT devices will enter the workplace. BYOT will pose new security risks for organizations, as “things” can be an attack pathway into devices such as smartphones or corporate wireless networks. Also, information may leak through the use of public services such as voice assistants to control things.
+
+In the short term, technologies such as smartwatches, air filters, personal smart lighting, smart ear buds, or fitness bands might help workers be more effective or productive, albeit in a somewhat indirect way. In the longer term, some BYOT devices will enable new working practices. Overall, BYOT will be a diverse domain and will continue to grow through 2025 as the range and capabilities of consumer IoT devices grow.
+
+---------------------
+
+DESKTOP AS A SERVICE
+
+
+Desktop as a Service (DaaS) is a cloud-based way of hosting employees workstations, giving them the flexibility to work when and where they need to. DaaS is an essential component of a comprehensive business continuity strategy and, in addition, it is crucial for organizations with remote-based workers that need to ensure employees can access critical information whether they are at home or on the road.
+
+
+Desktop as a service (DaaS) - also called hosted desktop services - is frequently delivered as a cloud service along with the apps needed for use on the virtual desktop.
+
+In the desktop-as-a-service delivery model, the cloud computing provider manages the back-end responsibilities of data storage, backup, security and upgrades.
+
+Typically, an end user's personal data is copied to and from their virtual desktop during logon and logoff, and access to the desktop is device, location and network-independent.
+
+
+The adoption of Cloud Office (especially Microsoft Office 365) and SaaS increases the viability of a DaaS solution as an organization’s data and services become increasingly externalized.
+
+Long-term cost of the service remains high
+DaaS can create application performance challenges, especially when dependent on access to on-premises data and services.
+
+In the past, DaaS has suffered from the challenges associated with the technologies that power it, namely server-based computing (SBC) and Virtual Desktop Infrastructure (VDI). However, with more organizations looking to deliver user-centric services across different devices and locations with an ever-increasing consumption of cloud services, DaaS is now being considered a strategic solution.
+
+The DaaS market has definitely picked up momentum in 2019 with Microsoft expected to launch their own DaaS solution - Windows Virtual Desktop. But Microsoft won’t be the only DaaS choice, some of the more well-known desktop-as-a-service providers include Amazon, Desktone (a VMware company) and Citrix.
+
+There are at least five reasons why companies should consider DaaS solutions when reformulating their IT strategy:
+
+Short-term employees
+Third parties and contractors 
+Remote workers
+Business continuity plans
+Merger and acquisition (M&A)
+
+--------------
+
+ADAPTIVE LEARNING PLATFORMS
+
+
+Adaptive learning is the purposeful use of data, algorithms and content to provide the right support in real time and help each individual employee to improve their workplace performance.
+
+
+Adaptive learning tools are defined as education technologies that can respond to a learner’s interactions in real-time by automatically providing the employee with individual support. The platform collects specific information about individuals’ behaviors by tracking how they answer questions, and then responds to each learner by changing the learning experience to better suit that individual’s needs, based on their unique and specific behaviors and answers.
+
+
+For macro-adaptive platforms, content and delivery are tailored to a specific audience or segment based on preferences or learner profiles.
+For micro-adaptive platforms, learning delivery is continuously tailored based on assessment of employee mastery of the content.
+
+Adaptive learning platforms supplement and augment, versus replace, the work of faculty
+A tool to enhance the learning experience
+Transform the learner from passive receptor of information to collaborator in the educational process
+
+
+Difficult to implement at scale as it requires an organizational cultural change
+Dependent on large-scale collection of learning data
+
+Across industries, T&O leaders are coming to the realization that the traditional approach to workplace learning simply can’t keep up with business needs. In addition, while one-size-fits-all programs may be an easy way to provide training to large groups, they can’t address the changing needs of the individual employee. People all come to their roles with different backgrounds, knowledge and experience. Therefore, if they are expected to perform at their best, all employees deserve a more personalized approach.
+
+The ultimate aim of adaptive learning is to enhance the learning experience and empower employees. These changes will lead to tangible results such as improved learning outcomes, re-skilling and higher retention rates, all of which are important accountability measures in education & training.
+
+Due to the culture change required to implement adaptive learning platforms at scale, the rate at which they have been implemented by organizations so far remains low. Nevertheless, Accenture expects transformative benefits from adaptive learning that will achieve mainstream adoption in two to five years.
+
+--------------------
+
+INTERNAL TALENT MARKETPLACE
+
+The Internal Talent Marketplace uses ‘gig economy’ principles in the enterprise, relying on marketplace platforms to match internal employees and, in some cases, a pool of contingent workers, to short-term project and work opportunities, without recruiter involvement. Some key features include marketing, matching algorithms and feedback functionality.
+
+
+Easier to connect workers directly with role vacancies.
+Increased flexibility and agility in the workplace, without requiring changes to employment categories.
+Reduces the pressure on large enterprises caused by heavy management and control structures.
+Establishes trust through feedback mechanisms, while allowing for worker-led innovation and for workers to fully take control of their own careers.
+
+
+A lack of organizational readiness is a key barrier to adoption. Traditional hierarchical structures are often too rigid for the more agile and lean concepts behind the Internal Talent Marketplace. Companies must ask whether they are allowing workers to explore growth opportunities and build a portfolio of work that they can use to market themselves for further work opportunities.
+Segmenting jobs and allowing for employees to bid for and win such jobs represents a significant change to management practices and company culture.
+There are many technical challenges associated with the Internal Talent Marketplace – adoption depends on the performance of matching algorithms within the platforms. Accurate detection and tagging of skillsets, knowledge, experience, cognitive skills and other competencies and attributes is difficult and time-consuming
+
+
+The gig economy and the need for business agility has opening up new ways of working and challenged established notions of employment. Preferences on how individual workers manage their careers and build their portfolio of work experiences are changing.
+
+Market readiness levels for Internal Talent Marketplace solutions are low, and few providers have built the relevant functionality. Freelancer-related solutions have advanced more quickly but are focused exclusively on external networks in most cases. Some organizations have experimented with self-forming teams, adaptive structures and more innovative career development methods. Some have mirrored crowdfunding campaigns to gain organizational support for ideas, allowing employees to contribute work hours as payment into such projects.
+
+Fundamentally, proven practices have not yet been established and careful measurement of the impact on worker engagement and productivity along with team performance will be very important. Stakeholders should pay particular attention to the data science skills required from both the technology provider and buyer organizations, and working out more granular and context-specific understanding of skills, knowledge, experience, cognitive skills and competencies will be essential for creating effective user experiences in these platforms.
+
+-----------------------
+
+SMART BADGES
+
+Smart Badges are pocket-sized integrated circuit cards, including wristbands or other wearables, with built-in sensors and the ability to transmit data wirelessly. Key examples include infrared sensors, accelerometers, microphones and scanners.
+
+
+Smart Badges, unlike smart cards or smart IDs, are wearable solutions that aim to provide more advanced features, such as location-based contextual services and analytics.
+These features can improve workplace communication and operational efficiency, in addition to employee well-being and performance.
+The potential for integration with technology such as mobile payments will provide further opportunities for providers and the enterprise.
+
+Privacy and data protection are key challenges. Some companies may be slow to let employees know about Smart Badge initiatives, explain clearly in advance what is being tracked and analyzed, and make participation optional.
+Still in nascent stages of development.
+
+
+Smart Badges are emerging as a new type of endpoint device for the connected worker. Common modern-day use cases include security authentication within organizations, such as access control (E Ink technology, for example, uses customizable context on smart badge display for visitors or particular events), but the market is showing signs of providing value beyond purely authentication.
+
+Some key use cases in this vein include:
+
+Restaurants; Smart Badges do not have to be swiped like standard POS systems, saving time.
+Healthcare; Smart Badges can provide location-contextual services to staff, such as alerting the nearest available staff member on where to go when help is needed.
+Event management; gives organizers insight into what occurs at their events, and helps to provide more personalized experiences.
+Retail; can improve customer experience by employees being able to immediately check price or inventory using the Smart Badge.
+Construction; use of sensors that alert management or monitoring services in case of a fall or similar.
+Companies can analyze aggregated data from Smart Badges to propose improvements to organizational communication and evaluate efficiency (by analyzing employee movement data, for example). Employees can use this information for personal evaluation and comparison to benchmarks. Looking forwards, a key benefit (and challenge) will be the ability for solutions to easily integrate with sources of data across the enterprise and other third-party systems.
+
+-----------------
+
+IMMERSIVE WORKSPACES
+
+Immersive Workspaces are collaborative work environments that leverage visual reality (VR), augmented reality (AR) or mixed reality (MR) technologies.
+
+Remote collaboration can help to reduce costs such as travel expenses.
+An Immersive Workspace can improve the connection between office-based workers and remote workers.
+Increased employee engagement and effectiveness of training through the ability to mirror real-life situations. Some solutions are building gamification into learning.
+Lots of potential in design work in particular; users can collaborate from anywhere and view the same thing, annotate and manipulate designs in real time, and overlay digital designs on physical objects.
+
+
+Immersive Workspaces are at a very early stage of development, with limited functionality.
+It is difficult to pick a winning solution, in terms of technology and platform.
+
+
+The Immersive Workspace, although at an early stage of development, has the potential to provide opportunities for more natural collaboration, knowledge sharing, onboarding and training thanks to immersive technologies and sensory elements. Immersive Workspaces are starting to appear within platforms such as Oculus VR, which can create 3D virtual offices and desktops in a virtual reality (VR) world. Using augmented reality (AR), digital objects such as monitors can be placed on walls in virtual representations of physical objects, creating new visualization and productivity opportunities. According to Tractica, enterprise spending on VR/AR will be approximately 35% greater than consumer spending on VR/AR entertainment by 2020, excluding hardware-related revenues. Furthermore, ABI Research expects the enterprise VR training market to grow to $6.3bn by 2022, from $216m in 2018.
+
+Clearly the market is at very early stages of development, with limited functionality; immersive technologies are being deployed by large enterprise in pilots and proofs of concept (POCs). Many organizations are likely evaluating the market and testing virtual desktop applications through VR ecosystems (e.g. HTC Vive, Oculus VR) with employees testing immersive technologies such as VR conferencing. The Oculus Virtual Desktop, for example, turns the user’s desktop into a 720-degree ‘command center’ that provides better access to information needed to do the job. Glancing further into the future, providers of virtual meeting, conferencing and training solutions should be looking to add Immersive Workspace capabilities to their products. Enterprise stakeholders, on the other hand, need to identify meaningful use cases, design a compelling use experience and choose the most appropriate technology.
+
+------------------
+
+SMART WORKSPACES
+
+A Smart Workspace leverages the increasing proliferation of connected and digitalized devices, known as the Internet of Things (IoT), to deliver new ways of working, collaborating, scheduling resources, sharing information and coordinating facility services. Any location where people work can be a Smart Workspace.
+
+A growing enterprise focus on facility modernization, more agile work environments and employee experience value is driving the Smart Workspace market. Digitalization and programmability of the workplace will create new integration opportunities. Electronic whiteboards, for example, are becoming integrated with traditional collaboration and content software systems, providing more opportunities for experimentation.
+Data from meetings is better captured in a Smart Workspace, and is more widely searchable.
+Beacons and sensors placed in key locations can interact with mobile apps to deliver personalized information to workers, based on proximity. This can be used to improve employee learning or communicate safety procedures based on employee location.
+Smart Workspaces have the potential to improve employee productivity and cultural perception of the workplace. Customer experience can also be improved as employees make better use of the Smart Workspaces to serve clients.
+Cost reductions, as office utilization data can guide decisions about what types of workspaces are most conducive to employee effectiveness.
+
+Employee privacy concerns.
+Organizational impacts create challenges - IT organizations need to work much more closely with real estate and facilities teams, in ways not previously imagined.
+The Smart Workspace market is emerging at an uneven pace as organizations prioritize potential solutions independently of one another.
+ACCENTURE POINT OF VIEW
+The Smart Workspace is fast becoming a key part of any digital workplace initiative. Several trends intersect at the Smart Workspace, most notably the IoT, AI-related technologies, digital signage/electronic whiteboards, indoor mapping, smart buildings and integrated workplace management systems.
+
+The Smart Workspace market is at an exciting stage, with many potential use cases. Vendors such as AgilQuest, Condeco, Estimote, Oblong Industries and Prysm are offering a range of solutions. Organizations can use these solutions to better understand how people participate in physical spaces, and use these insights to create new capabilities, concerning seating and room management, for example.
+
+Adoption rates are likely to vary based on the ability of organizations to support flexible working models that optimize aspects of the work environment, and how well organizations are able to manage employee privacy concerns. Alongside privacy, security and identity/access management will play a critical role, and anonymizing data is key to help promote adoption of new services. Technological advancements outside the enterprise, in consumer electronics and appliances or smart homes/cities, for example, will also determine adoption levels. Increasing numbers of Smart Workspaces will likely also trigger more forms of consumerization, or BYOx, as employees add their own objects to Smart Workspace environments, and organizations will need to update their policies accordingly.
+
+------------
+
+MEETING SOLUTIONS
+
+
+Meeting Solutions are real-time collaborative tools that support interactions between participants over a network. Enterprise offerings are available for workers in meeting spaces, at their desks or when mobile, with integrated voice, video, messaging and content sharing.
+
+
+A strong array of core features, most notably video, audio, content sharing.
+Ease of use, and consistent experience across mobile, desktop and meeting space.
+Potential for additional business value via new technologies such as meeting virtual personal assistants, natural-language processing and meeting transcription.
+Can lead to a more efficient use of resources, for example by removing the need for separate audio conferencing expenses, reducing the costs associated with business travel or improving the time taken to interview job candidates.
+Potential to increase engagement and visibility of remote workers, and facilitate the delivery of remote training at scale.
+
+While many IT users prefer a one-size-fits-all approach for strategic meeting platforms, not all vendor solutions are strong enough or broad enough to fulfil this.
+
+
+The Meeting Solutions market emerged from two formerly distinct markets, web conferencing and group video systems, in response to buyer preferences for converged solutions. What exists now is a richer and more flexible experience compared to limited alternatives such as traditional conference bridges or video communications. These solutions provide an upgrade path from legacy video conferencing silos, enabling faster decision making during internal collaboration.
+
+Many vendors have offerings in this space; some segment their products lines to target and scale to a specific use case, while others offer broad solutions that work for each purpose. Future innovation is likely to come from vendors putting meetings at the center of a platform experience with integrations to other collaboration tools, new methods of intelligence and automation processes, or industry specialization. Cloud office vendors likely have the most potential to dominate the market over the next five years, by integrating content creation products and AI with their meeting solutions, while other vendors focus on particular processes or industries.
+
+-----------------
+
+COLLABORATIVE WORK MANAGEMENT
+
+Collaborative Work Management (CWM) technology supports planning and work execution in teams by combining task and activity planning with conversations, notifications and information sharing along with reporting, analytics and automation.
+
+
+CWM technology is multi-faceted; supporting structured and preplanned work while also supporting flexible and open-ended collaboration and replanning where necessary.
+CWM technology is multi-functional; supporting task scheduling and resource allocation (e.g. timelines and budgets) while also supporting conversations, notifications, dynamic reports and information sharing during execution, ensuring that plans are carried out and amended as needed.
+CWM technology often includes sophisticated analysis for optimization, integration, as well as automation of repeated tasks or sequences of tasks.
+It can potentially be used by everyone, empowering employees to collaboratively carry out the planning, execution, optimization and increasingly automation of day-to-day work. The user-centric design and persistent interaction capabilities of CWM will appeal to agile work teams that want to coordinate and stay connected at all times.
+
+Some CWM solutions are niche and overly targeted at professional planners and process modelers.
+
+The use of CWM comes with many benefits – project management, process modelling and even automation is brought closer to everyday work, enabling users to coordinate activities and communicate effectively. Teams can work more flexibly than they could when using classic project management or process modelling tools which relied on predefined roles and workflows. The ability to combine preplanned and structured tasks with tasks involving more variability and creativity is an advantage of CWM technologies; dynamism is key, allowing users to ease the burden of managing non-routine work. CWM is increasingly important for increasing business agility.
+
+The CWM market is dominated by specialist products, such as those from Asana, Smartsheet, Basecamp, Redbooth, Trello, Workfront and Wrike. However, conventional project management and business process management vendors are adding more flexible, dynamic and collaborative capabilities.
+
+CWM technologies are similar to, but separate, from Workstream Collaboration tools. Workstream Collaboration creates a persistent, shared conversational workspace that helps groups initiate, organize and complete work – integrating direct and group messages, alerts, notifications, activity streams, files, tasks, bots, and real-time audio and video into searchable groups or channels. These solutions solve the problem of fragmented team communication, while AI-related services are adding greater levels of collaboration automation. Cloud office vendors such as Microsoft (Teams) and Google (Hangouts Chat) compete in the market with Workstream Collaboration specialists (e.g. Slack, Atlassian) and unified communications vendors (e.g. Cisco, Atos, RingCentral).
+
+-------------------
+
+CONTENT COLLABORATION PLATFORMS
+
+Content Collaboration Platforms (CCPs) enable content-centric productivity and collaboration for individuals and teams, either inside or outside the organization. Key functionalities of a CCP include mobile access to content stores, file synchronization, sharing and file search functions.
+
+
+Benefits including increased productivity, application rationalization, cost savings and digital workplace transformation can all be achieved using a CCP. CCP’s are more secure than email or legacy FTP services for file transfers, or personal services.
+
+File synchronization and sharing capabilities are at the core of CCP products, and are now commodities. Integration with cloud office productivity and collaboration suites (e.g. Microsoft Office 365, Google G Suite) is commonly available, while some products offer native collaborative authoring (e.g. Box Notes, Dropbox Paper). CCP vendors are increasingly integrating their products with workstream collaboration platforms (e.g. Slack, Microsoft Teams, Workplace by Facebook, Cisco Webex Teams) for more conversationally driven collaboration styles.
+
+A CCP can help organizations gain more control of unstructured data and meet GDPR requirements on personal data.
+Emerging capabilities are also transforming CCP capabilities - e.g. APIs to build new applications and automate processes, or machine learning functions to automate content tagging and classification.
+
+The market is a fragmented one, with a host of vendor offerings.
+Some deployments fail because they lack a clearly defined and appropriate purpose to make them relevant to the work activities of targeted participants.
+Other potential challenges include organizational culture clashes, privacy issues, questions about workers’ productivity and content quality.
+
+CCPs, formerly known as enterprise file synchronization and sharing (EFSS) products, have gained a greater range of functionality in recent years. Now supported is collaborative document creation, teamwork, content management and workflow automation, either natively or through integration with third-party tools. Deployments can be in public, private or hybrid cloud, or on-premises. There are many benefits for organizations using a CCP – enabling more modern and collaborative real-time workplaces, more agile data infrastructure and centralized governance, and perhaps most notably, reducing or avoiding inherent security and compliance risks associated with using personal cloud services.
+
+Fundamentally, CCPs are central to digital workplace initiatives and also increasingly relevant for strategic initiatives on digital transformation. Choosing the correct solution is essential for organizations partaking in these initiatives. For example, organizations looking to leverage cloud storage agility could look to vendors such as Box, Dropbox, Google and Microsoft. Those with more stringent data control requirements or a large storage infrastructure should focus on hybrid solutions (e.g. Citrix, Syncplicity by Axway, Egnyte) that allow for greater control over the data and use existing storage investments. Strong requirements for data protection, strict regulations or complex data manipulation requirements could lead to private cloud or on-premises deployments.
+
+---------------------
+
+ON PREMISE ENTERPRISE PLATFORMS
+
+On-premise Enterprise Systems are installed and run on computers on the premises of the organization, rather than at a remote facility such as a server farm or cloud. Off-premises software is commonly called “software as a service" 
+
+----------
+
+BLOCKCHAIN POWERED ERP
+
+Blockchain pushes the existing benefits of ERP systems by providing secure data sharing across multiple organizations and enabling optimization of all operations of several different organizations. A cross-continent ledger sharing architecture enables frictionless business in a unified ecosystem and allows them to control their resources and growth far better. Even though Blockchain ERP technologies offer new ways to exchange value, represent digital assets and implement trust mechanisms, successful enterprise production examples remain rare.
+
+
+By 2020, 90% of ERP vendors will enhance their offerings with blockchain-inspired capabilities, but these will be largely immature and unproven.
+By 2022, 15% of firms involved in B2B commerce will use ERP-based blockchain platforms to transfer value from or to themselves in collaboration with trading partners, rather than have banking or other financial institutions conduct the transfer.
+
+Designing a standard blockchain-ERP system that is confidential and secure is a big task. Thus, companies need to agree on standards and practices for seamless connectivity through such blockchain-based ERP models. Moreover, the user must overcome the slower processing rate to avoid interaction failure between IoT devices and other systems.
+80% of the world's corporate data resides in silos. Integrating such amount of data and bringing it to a common platform remains a challenge for companies.
+
+
+Blockchain continues to generate interest, but from the perspective of ERP is more hype than reality. It is unlikely that blockchain will become a significant part of ERP deployments anytime in the next several years, but tangential applications are possible. Some large organizations are already using blockchain technologies for tracking items outside of ERP processes
+
+Consistency and standard definitions of data are important to support blockchain within ERP systems, across shared systems to track financial transfers or associated contractual terms in smart contracts
+
+Blockchain itself is not a business model but an enabler for efficient and trusted ERP. In a few years, it will be included in integrated solutions by software vendors like Oracle, SAP, and Microsoft for ERP, asset and inventory management, HR, and finance software or service offerings
+Blockchain services are expected to grow on a worldwide basis at a CAGR of 71.3% from 2017 through 2022. In effect, by 2025, the business value added by blockchain will grow to slightly over $176 billion, and then surge to exceed $3.1 trillion by 2030.
+
+--------------------
+SOFTWARE DEFINED ENTERPRISE SYSTEMS
+
+Moving beyond cloud native ERP, Microservices/ Software defined ERP systems are architecture patterns in which the system is composed of small, independently deployable units communicating with each other using language-agnostic APIs and protocols. A supplemental benefit is the ability to choose and update implementation technology on a per-service basis
+
+Microservices ERP, typically through PaaS or containers are used to build and deliver service-oriented business applications with three primary objectives: agility of delivery, flexibility of deployment and scalability
+
+The term microservices architecture has already built the momentum among technology architects due to the likes of Netflix and Amazon. This has driven improved support for microservices use cases in both commercial and open-source tools and platforms.
+Infrastructure as code (IaC) standardizes the setup of infrastructure so there is consistency in the infrastructure deployment process and hence lowers risk in deployment
+
+
+Businesses expect faster development and configuration speed to deliver. Therefore before use of microservices in business, companies need to build maturity into Agile development and DevOps practices before committing to build use cases
+
+Majority of organizations have manual IT processes and methods which need to be automated to transition for IaC. Significant time and skill is required by IT operations into the foreseeable future for transitioning manual processes into infrastructure as code or even automation
+
+
+By 2022, at least 30% of current ERP SaaS customers will implement an adaptive application governance and support model, thereby minimizing improvement bottlenecks, moreover 30% of large enterprises will have moved to a platform and product-centric approach with standardized ERP capabilities at the platform core.
+
+At present, the market for microservices ERP and platforms is fragmented. A few vendors aspire to provide a full, opinionated platform stack that covers a majority of the outer architecture capabilities. However, most platform and framework providers focus on a subset of features, and legions of open-source projects and startup vendors are providing niche solutions for independent capabilities. As a result of this state of the market, application leaders looking to adopt microservices for ERP must plan to compose their overall architecture and evolve it over time as the market and available capabilities mature.
+
+The ideal situation for enterprise IT may be a 100% cloud-native application portfolio built using containers and microservices. But most enterprises are still a long way off this ideal position, and the success of their digital transformation efforts may depend largely on how quickly and effectively they can modernize their applications, and house them alongside any remaining legacy apps.
+
+-------------
+
+INTELLIGENT ENTERPRISE SYSTEMS
+
+
+i-ERP applications use machine learning and advanced analytics built on a large, curated data set to forecast, track, learn, route, analyze, predict, report, and manage these resources and business processes. They feature an assistive and conversational user experience, by automating a set of high-volume repeatable tasks and augmenting (via human-machine interaction) the performance of less frequent, more novel tasks. They are capable of processing, analyzing, and acting on massive volumes of data in real time, using in-memory computing (IMC) technologies. As a system that learns, an i-ERP application must allow for ongoing reconfiguration to enable process refinements and user experience adaptation..
+
+
+Driven by the need to innovate and turn data into value, 50% of ERP applications will combine templatized industry/line-of-business best practices and artificial intelligence by 2021
+
+IDC predicts that, by 2019, 60% of organizations will measure the changes and impact of resource optimization across people, processes, and new i-ERP technology
+
+Skills for supporting new applications — both packaged i-ERP and custom-built applications — must be designed around augmentation of capabilities and decision making while increasing efficiency. There will be strong competition for IT staff that has demonstrable experience in human machine interfaces, and there will be a rise in the demand for programming skills that will assist with this transition and/or integration. There is a huge skill gap for the companies to be ready for that change.
+
+
+The evolution of intelligence in delivery is driving organizations to measure the change and impact of resource optimization across people, processes, and new i-ERP systems and applications.
+
+Public cloud ERP providers are engaged in a multipronged approach to provide AI for their consumers. Some are providing AI platforms to allow customers to build their own applications and services to best fit their needs. Others are building AI features into the applications, dictating the usage of AI for their customers while providing a clear path for adoption.
+
+i-ERP and i-apps are rapidly changing the business processes such that they can immediately change a business outcome when deployed. However, technology vendors must continue to invest in SaaS and cloud-enabled software and innovation such as artificial intelligence, machine learning, natural language process, and advanced analytics to help the enterprise be successful in the digital economy
+
+By 2022, 40% of intelligent applications will be part of an intelligent suite of applications. Driven by i-ERP, 65% of the G2000 organizations will have refreshed their systems by 2023  through a process of rationalization, modernization, and transformation.
+
+-------------------
+
+EMBEDDED DECISION ARCHITECTURE (RISK MANAGEMENT & DECISION SYSTEMS)
+
+
+An embedded decision architecture ERP system moves towards real time ERP by  incorporating event-centric processing rules and decisions. It uses decision models (such as decision tables) and more-complex algorithms (such as neural nets) to process  contextual data coming from various trusted sources and provide for a high rate of events to be analyzed for business events to drive machinery decisions in real time, resulting in a higher consistency of quality in products.
+
+
+By 2022, 50% of organizations will invest in new intelligent applications with capabilities to facilitate enterprise wide end-to-end workflows, removing white space between existing applications.
+
+Decision support systems will provide real-time visibility into the enterprise and opens the avenue for predictive and proactive mitigation of risk
+AI and machine learning can provide insights into how Overall Equipment Effectiveness (OEE) can be improved that aren’t apparent today
+
+Enterprises need to identify core decision areas that need machine learning to be plugged in. There has to be a risk reward for each investment in the automated decision making architecture
+
+Human+Machine need to supplement each other in decision making, with machine handling all repeatable asks in day to day operations while delegating complex queries to user. Skill shortage may arise in such a scenario
+
+As machine learning will be built into the core of enterprise systems, there has to be a governing mechanism to ensure correctness or validity of decision support systems and its recommendations
+
+Companies have turned to structured machine learning to speed up/streamline business processes including financial closing, fraud detection, inventory transaction processing, and automated purchase orders. Software application end users spend roughly 80% of their time on lower-level tasks like invoice matching, transactional processing, and repeat purchase orders. Artificial intelligence can be leveraged to automate many of these tasks, freeing up valuable organizational resources to focus on higher-level strategic tasks. Increasingly, software vendors are going beyond offering a standalone intelligence product and instead embedding intelligence into workflows within software systems.
+
+By 2021, 90% of new packaged enterprise applications will have embedded decision architecture that automatically detects and evaluates conditions and makes decisions about how to respond. Software vendors must work to embed intelligence within the business workflows to unleash the full power of artificial intelligence. Vendors are using embedded intelligence to guide decision making and automate lower level-tasking within the applications
+
+The worldwide enterprise resource management (ERM) applications market is forecast to reach $88.1 billion by 2022, growing at a five-year CAGR of 7.5%.
+
+---------------
+
+IOT ENABLED ERP, THINGS AS CUSTOMERS
+
+
+IoT enabled ERP solutions help companies improve business outcomes, such as the collection of data from sensors on manufacturing equipment. They integrate with one or more existing applications (e.g. field service management and enterprise asset management) to extend and enhance the execution of specific business processes. It provides for higher ecosystem visibility, improved situational awareness, process efficiency and decision making.
+
+
+By 2024, at least 50% of enterprise applications in production will be IoT-enabled.
+By 2023, at least 35% of midsize to large enterprises will leverage a hybrid cloud-to-edge computing deployment model for at least one IoT project..
+Linking the associated IoT endpoints to the business processes flowing through ERP systems represents a new opportunity for both users and vendors. Initiatives such as Industry 4.0 and the Smart Manufacturing Leadership Coalition will help to accelerate the development of new use cases.
+
+As per the market analysts at McKinsey, 40% to 60% of the total value lies in the ability to achieve interoperability between different IoT systems. With numerous vendors, OEMs, and service providers, it becomes really difficult to maintain interoperability between different IoT systems.
+
+IoT workstreams have traditionally focused on dedicated hardware and systems, with little general interfacing to ERP systems. As IoT opportunities increase, however, we are seeing ERP vendors, and some niche PaaS providers, build IoT workflows into their ERP products — for example, Oracle’s JD Edwards Enterprise One Internet of Things Orchestrator, SAP HANA Cloud Platform for the Internet of Things/SAP Vora, Infor Intelligence Open Network, and IFS’s partnership with Microsoft for the Azure cloud platform.
+
+IoT solutions are providing new opportunities to extend and augment business management systems. Modern ERP systems, such as Microsoft Dynamics 365 can take advantage of powerful, secure and easily scalable cloud platforms like Microsoft Azure. Building on this platform, the Azure IoT suite can be quickly deployed through easily adaptable preconfigured solutions for predictive maintenance, remote monitoring and stream analytics, allowing businesses to rapidly arrive at proof of concept and scale to production.
+
+-----------------
+
+CITIZEN INTEGRATION TOOLS
+
+Business users are increasingly performing self-service tasks to integrate data and applications using integration software as a service (iSaaS). Easy-to-use, configurable technologies that enable citizen integrators to build and consume integration flows using cloud-based integration platforms allow business users to solve simple integration issues through direct, "hands-on" involvement.
+
+
+
+By 2021, at least 50% of large organizations will have incorporated citizen integrator capabilities into their strategic integration infrastructure.
+By 2022, at least 65% of large and global organizations will have implemented a hybrid integration platform..
+
+
+Main challenge in citizen integration is the ability to integrate with different types of endpoints - the location where a service or application resides. The diversity of characteristics of such endpoints is growing especially with the advent of compute-enabled things such as sensors in IoT scenarios, apps in cars, or home appliances.
+Citizen integrators seek to perform integration tasks as a whole, and generally do not differentiate the processes of integrating data and applications, thus spurring application leaders to re-evaluate traditional integration practices.
+
+
+Demand for seamless integration patterns has driven iSaaS providers to offer citizen integrator tools that combine data and application integration for shared and sustainable benefits to support Hybrid Integration Provider  capabilities.
+
+Citizen IT should focus on areas that can provide maximum value at minimal risk. For citizen integrators, exporting and reimporting via spreadsheets can be a viable option for many cases, yet not an overly secure one. For more-complex needs, new-generation integration platforms have become available that offer more-secure and easier ways to build integration flows between applications.
+
+For Citizen integrators and Tools, the net balance needs to be positive. Augmenting small development teams with citizen developers and integrators is an effective tactic for midsize enterprises to improve capacity and quickly deliver simple but useful features. But to mitigate risk, CIOs must ensure that proper boundaries and operational processes are in place.
+
+------------------
+
+CLOUD NATIVE ERP
+
+Cloud-native ERP solutions allow enterprises to outsource ERP operations, handing the upgrades and maintenance issues over. Cloud-native ERP uses Software as a Service (SaaS), delivered through the web, to provide one set of program code that is delivered exclusively in the cloud. Priority reasons for shift to cloud ERP remain top business agility, faster deployment, cost, and the ability to remotely maintain the system.
+
+
+By 2021, at least 40% of new service-centric ERP deployments in large enterprises will be cloud SaaS.
+By 2025, at least 50% of large enterprises in service-centric industries will successfully implement an "all in" cloud SaaS strategy and demand for operational ERP deployments delivered as cloud services will account for more than 65% of total market spending.
+
+Changing technology adoption scale: Organizations struggle to balance new technologies, ERP investments and changing business needs. ERP strategies must become more flexible and agile to support increasingly dynamic business needs as digital business models evolve
+Multicloud or platform integration and underlying security remains a key concern for buyers as well as loss of control over data and compliance issues arising out of data distribution over multiple geographies leads to high risk of failure or regulations.
+
+A 2018 Gartner cloud ERP adoption survey found that 47% of participating organizations had already moved at least one ERP function to the cloud . It also found that 55% plan to move all their ERP functions to the cloud in the next two to three years. Additionally, most participants found that implementing a cloud ERP suite took less time than setting up an on-premises ERP suite, which means that a two-tier ERP deployment can be simpler than it once was
+The adoption of SaaS ERP solutions will continue to increase among large and global organizations. Vendors will target customers in that market segment by offering single tenant private cloud deployments. These solutions have more update flexibility for customers to upgrade on their own timeline.
+Overall, the ERP software market is expected to grow from $27 billion in 2017 to $35.3 billion in 2022, producing a solid five-year CAGR of 5.5% while the five-year CAGR for cloud ERP software is an exceptional 21.7% through 2022 as on-premise declines by 0.9% in the same forecast period.
+
+-----------------
+
+SOCIALLY INTEGRATED ERP
+
+
+Social ERP apps mirror the functionality of online social networking tools. The interface acts like Facebook, but it is secured and maintained within the ERP solution. Social ERP tools facilitate collaboration and communication among employees and partners and enables them to proactively solve business problems together.
+
+
+Personalization of customer profiles and interests based on their social presence
+Social initiatives differ from traditional ERP deployments in that workers engage with social media platforms in a “pull” approach, as opposed to traditional business software deployments that are “pushed” onto employees. The “pull” approach – or any approach where an employee has to opt-in – rarely sees 100% adoption amongst a workforce. However, given that traditional ERP systems are deployed internally with a “push” approach, an integrated social media platform would automatically be adopted by all ERP end users, ensuring maximum employee utilization and uniformity.
+
+Companies need to address security concerns while integrating social media into ERP. Using social media can compromise the ability to ensure that critical and potentially damaging information is not accessed by unauthorized people, in addition, the preservation of content from conversations for legal and regulatory purposes is at risk.
+Integration of social media tools do not guarantee that workers will share information with others, increasing the degree of intellectual capital entering an ERP solution.
+
+While delivering social software that improves communication, information sharing and collaboration in the context of a work activity can lead to better results; it also creates a gap when people have to work across the organization with other groups, departments and divisions, or even outside the enterprise. The need for some sort of "activity hub" that acts as common ground for these types of interactions is one of the missing pieces in this market.
+
+The proliferation of social media applications means that there are now more options available that can help businesses ensure early adoption. By including social media-type functionality into the features and experience of the ERP user, vendors can make information exchanges and collaboration as gratifying and rewarding as collecting ‘likes’ and ‘followers’.
+
+Organizations recognize the need for improved collaboration and as the next generation of ERP systems emerges, social media applications are proving their value in connecting businesses internally and externally with customers and suppliers. Research shows that organizations with social ERP are 2.5 times more likely to have real-time collaboration across divisions and departments and will have seen profit margins improved by up to 22%.
+
+
+-------------------
+2 TIER ERP
+
+A two-tier ERP strategy is the use of different ERP systems at different layers of the organization. One system potentially serves as the shared-service global backbone (the hub), often for such processes as financials, HR and procurement. A second-tier ERP solution supports geographical or divisional needs (spokes), such as smaller operations — with functionality such as sales, field service and local manufacturing and operations capabilities. Further complex designs may lead to rise of N-tier ERP systems.
+
+
+Enabling lower cost delivery through the application of “regional or local” ERP solutions where a highly capable higher cost solution is not required.
+Organizations are in constant need for more distributed applications and N-tier ERP helps to take advantage of low-cost hardware and the power of internet as a platform for application delivery
+The move to n-tier ERP is driven by scalability requirements - the applications needed to support higher transaction volumes, and the increasing use of web/internet technology make the browser the primary interface for application presentation
+
+Visibility to transaction level detail at Tier 2 is more difficult (subsidiaries, product lines, etc.). Higher levels of maturity are required for application and data integration.
+
+Master data management can be a concern for organizations deploying 2 tiers of ERP. Capable MDM is required to maintain single version of truth
+Stronger governance is required to manage demand and service providers across multiple tiers.
+
+Two-tier ERP provides companies with the flexibility to preserve the technology supporting the core enterprise while accommodating cloud ERP platforms capable of supporting different business models (including digital and innovative modes), different geographies or shorter release cycles.
+
+Different parts of a business run and change at different speeds and with different capabilities. Forcing all entities to use the same ERP applications may be inappropriate and lead to frustration and undesirable tensions.
+
+Postmodern ERP offers more flexibility in the deployment of business capabilities because they are no longer tied to a single megasuite. Two-tier strategies are facilitated by the advent of cloud ERP, which, for example, minimizes the burden and overhead of setting up multiple data centers.
+By 2022, at least 70% of global enterprises will have revisited their single-instance ERP approach because it is not responsive enough to meet requirements for digital business transformation.
+
+-------------
+IN MEMORY COMPUTING
+
+ERP system where all the data is loaded in the main memory, and the transactional processing, planning, reporting and analytics are performed against this dataset in real time. In-memory computing (IMC) provides ERP systems with a hybrid transaction/analytical processing architecture where sophisticated analytics can be performed, in real time, directly on the ERP data.
+
+
+In-Memory Computing is an architecture style where applications can assume all the data that is required for processing is located in the main memory (usually based on DRAM technology) of their computing environments, without compromising data availability, consistency, integrity and durability. IMC-style applications typically experience faster performance and greater processing scalability than those implemented using conventional technologies — even when working on large datasets or event streams.
+
+
+The expected availability of IMC platforms in the form of cloud services will make IMC accessible to even midsize organizations that currently cannot afford the cost and complexity of aggregating multiple IMC technologies to empower their digital transformation ambitions
+Distinct IMC-enabling application infrastructure software is converging to become unified IMC platforms, thus reducing the barriers to adoption for user organizations and independent software vendors
+
+Use of IMC technologies requires a profound reconsideration of some fundamental assumptions in the traditional system or application design and architecture. Ample empirical evidence shows that applications built according to traditional paradigms must be significantly re-engineered or even completely redesigned to fully deliver the potential business value of IMC
+
+IMC is expected to blur the boundaries between ERP, FP&A and financial close capabilities like financial consolidation, planning and forecasting as they leverage live transaction data. Companies have a challenge of replacing existing products and modules by IMC-enabled equivalents
+
+
+IMC is a key building block of the digital enterprise. The elimination of disk latency, batch processing, and the onerous extraction and synchronization of analytics has enabled large amounts of data to be sifted, correlated and updated in seconds, with no real latency or historical reconciliation issues.
+
+Simplification of ERP platform should also eliminate some of the need for expensive infrastructure investment for vendors and users alike. Adoption will increase as prices fall, and the range of vendors increases.
+
+Using IMC to accelerate analytics processes — such as complex, strategic financial planning and profitability analyses — is likely to deliver moderate to high benefits in near-term. Enabling more-sophisticated analytics directly against transactional data is likely to deliver high benefits. Allied with AI-enabled platforms, IMC may provide several new possibilities for business execution that will go further than simple financial management
+
+In Memory Data Grid adoption will continue to grow because of the ever-increasing need for greater scalability and performance, driven by digital transformation initiatives and by the increasing vendor focus on analytics and hybrid transaction/analytical processing (HTAP).
+IMDG market is expected to grow to US$2.15B by 2022 from US$1.1B in 2018.
+
+------------------------
+
+
+
+
+
+
+
 
 
 
