@@ -5870,7 +5870,444 @@ In Memory Data Grid adoption will continue to grow because of the ever-increasin
 IMDG market is expected to grow to US$2.15B by 2022 from US$1.1B in 2018.
 
 ------------------------
+------------
 
+FRAUD DETECTION
+
+
+Fraud detection applications have continued to mature as adoption grows across market sectors. Demand for fraud detection is highest in markets where money can be lost and criminals can profit, such as banking, insurance, e-commerce and gaming. Several other sectors can benefit substantially from fraud detection, including government benefit programs, collection agencies and traditional treasury applications.   
+
+
+Fraud detection ensures the safety and reliability of information, assets, accounts and transactions belonging to consumers and businesses. It performs real-time, near-real-time or batch analysis of activities submitted by human and electronic actors.
+
+Fraud protection systems examine access, endpoint profile, behavior and transaction patterns, and compare them with those expected for the individual, role and peer group. Transactions are flagged if they exceed organizational risk tolerance. Online fraud detection market is growing in complexity and demand, and its tools are being used for risk-based authentication and new account fraud prevention.
+
+ 
+Augmenting identity proofing processes to deter new account fraud.
+Protecting the integrity of the login process to prevent account takeover (ATO).
+Monitoring payment transactions to detect suspicious activity.
+ 
+
+Fraud detection continues to grow in banking/payments and large e-commerce markets due to increasing fraud attacks across all channels, including digital and traditional.
+Strong authentication systems which have rolled out across the world, have been circumvented and beaten by hackers, thereby strengthening the need for background fraud detection systems that can spot transaction anomalies after a user has been authenticated
+The use of vendor solutions for online fraud detection is evolving beyond the traditional use cases of preventing account takeover and assessing the integrity of a payment transaction, as the range of digital brand/customer interactions increases.
+ 
+
+As fraud detection operates in the context of an application, it cannot detect rogue and potentially fraudulent processes that are external to the application.
+Sectors such as government, collection agencies, administration (treasury) and other have been slow in embracing fraud detection as there has been a lack of incentives (i.e., fraud costs are built into the programs) or because of a lack of off-the-shelf fraud detection software for these markets.
+
+Adoption of fraud detection is increasing in countries and industries that previously relied primarily on strong user authentication to control access to sensitive applications and functions. The solutions need to be implemented across all channels, as criminals will gravitate to the least protected channel.
+
+Clients need comprehensive fraud management strategy by viewing fraud detection, identity proofing and authentication capabilities as a cohesive toolset. Future-proofing fraud management processes is also important. This can be achieved by defining the orchestration layer as the key strategic component, then implementing a suite of interchangeable components that can deliver core capabilities around that.
+
+The lines between online fraud detection, identity proofing and user authentication use cases are increasingly blurring with regard to the techniques that can be applied to increase trust in an identity assertion and identify malicious or anomalous activity.
+
+-------------
+
+APPLICATION SECURITY AS A SERVICE
+
+Application security as a service has gained significant momentum as most application security solution vendors offer their capabilities in the cloud. Continued rapid acceptance and use of the products is expected, particularly as organizations adopt DevSecOps approaches more broadly. It also promotes use of multiple technologies at different points throughout the software development life cycle (SDLC) to more completely test the application.
+
+
+Application security as a service is a group of various application security testing technologies delivered over cloud. It blends static application security testing (SAST), dynamic application security testing (DAST), software composition analysis (SCA) and often interactive application security testing (IAST) or secure coding training into a single offering. The individual tools are integrated within a single enterprise console and reporting framework.
+
+ 
+
+High benefits could be derived from Application Security as a service as organizations look for application security services to be delivered through the cloud to support an increasing number of application development projects in an era of shorter-development cycles and cloud-based applications
+These solutions can thus be a significant enabler in implementing DevSecOps initiatives, and they promise substantial benefits to the organization in terms of more consistent testing and smoother operations.
+
+Organizations that lack application security skills and resources or that wish to offload the work are considering application security as a service instead of relying on point solutions.
+ 
+
+The effort to integrate multiple AST types into the software delivery lifecycle (SDLC) is complicated when multiple disparate tools are used.
+As application security technologies are at varying levels of maturity, the application security as a service suites may be particularly strong in one technology but lacking in another.
+ 
+
+Application security as a service enables use of multiple testing technologies at different points throughout the software development life cycle (SDLC) to more completely test the application.
+
+Many vendors have expanded their offerings through new development or acquisition. One-stop-shop application security testing is increasingly the preferred choice for organizations.
+
+Application Security as a service makes it easier for organizations to leverage multiple AST tools because they are managed and operated through a single platform and support comes from a single vendor.
+
+---------------
+MANAGED DETECTION AND RESPONSE
+
+
+Managed Detection & Response (MDR) solutions continue to gain market awareness as an alternative to using an managed security service provider (MSSP). Both large and midsize enterprises are evaluating MDR solutions as means to fill the gaps in their existing capabilities or as a turnkey solution respectively. MDR providers are starting to stake out new territory in response to buyer demands and increasing competition, such as, focusing on specific verticals with niche expertise.
+
+
+Managed detection and response (MDR) solutions leverage a combination of technologies deployed at the host and network layers, as well as advanced analytics, threat intelligence, and human expertise to deliver 24/7 monitoring, detection and response to threats against customers. MDR providers undertake incident validation and investigation, and remote response services such as threat disruption and containment.
+
+
+MDR is more focused on threat detection, rather than compliance
+Services are delivered using the provider's own set of tools and technologies
+Managed detection and response relies heavily on security event management and advanced analytics
+While some automation is used, managed detection and response usually involves human intervention
+Managed detection and response service providers also perform incident validation and remote response
+
+
+Demand from midsize enterprises has been particularly strong, as MDR services are viewed as a better fit than procuring security event monitoring services from an MSSP.
+Managed endpoint detection and response (EDR) is becoming primarily associated with MDR services. Containment and disruption of threats is becoming a popular response offering and differentiator among managed detection and response (MDR) providers.
+
+Skilled workforce is the biggest challenge faced by MDR providers as well as enterprises.
+Cloud service coverage (SaaS and IaaS) is generally immature with a majority of MDR providers.
+Unavailability of log management monitoring, monitoring of cloud delivered services and adoption of direct monitoring of SaaS and IaaS are some of the challenges
+
+Organizations of all sizes, particularly those that are less mature and have not invested in threat detection and response capabilities across people, processes and technology, are at risk of being impacted due to the increasingly hostile external threat environment.
+
+Enterprises lacking in- house security resources, as well as enterprises looking to augment their threat detection and response capabilities, should consider MDR services. According to Gartner, the MDR market grew 20% year over year to approximately $600 million in 2018
+
+Threat detection capabilities are still heavily weighted toward the end of the cyber kill chain, with most MDR providers starting at the installation or command and control stages.
+
+MDR providers are not racing to compete with MSSPs here, but customers are pushing the MDR providers to help with other essential security operations functions. Pure-play MDR providers are expanding into complementary areas to fill other gaps in customer security operations capabilities, like vulnerability management and cloud security.
+
+---------------
+
+API SECURITY
+
+API Security is gaining importance as API attacks and breaches are increasing as well as the number of web APIs inherent in architecting or integrating modern applications. API security incidents occur frequently, particularly in the form of data leaks. Many organizations don’t even have an inventory of the APIs they provide, or the APIs they use which makes the issue of API Security even more complicated. 
+
+
+API Security is defense of web APIs from exploits, abuse, access violations and denial of service (DoS), including Layer 7 DoS. Some web application firewall (WAF) solutions have begun to add API protection, side by side with web application protection. Startups focused on API threat protection have emerged recently. In addition, some API threat protection is provided by API gateway products, including as part of full life cycle API management solutions.
+
+
+Enterprises are realizing that the impact of an API breach is substantial, if not mission critical. Thus, there is increased awareness and product feature coverage for API Security
+
+Very few established vendors are using machine learning to detect potentially harmful API usage patterns.
+There is a need to design and execute an effective API security strategy that includes API security testing and the creation and application of reusable API security policies.
+
+API security market is still immature and widely available solutions provide insufficient API protection, such as simply applying the same attack signatures that they apply to traditional web applications.
+
+API threat protection technologies are making progress, but still lack in areas such as automated discovery and API classification.
+Modern application architecture trends complicate API security even more since there is rarely a single “gateway” point at which protection can be enforced.
+
+
+API Security requires existing API protection infrastructure to enable discovery and categorizations of APIs that need to be protected. A layered security model including volumetric distributed denial of service (DDoS) and bot detection at the edge (typically cloud-based) layer should be implemented.
+
+Gartner estimates that API abuses will move from an infrequent to the most-frequent attack vector by 2022 resulting in data breaches for enterprise web applications.  Although data breaches are a significant concern, API protection is not only needed for APIs delivering data. Transactional APIs, such as in financial services or ad tracking, must also be protected.
+
+Rules should be adaptable based on the client identity and the nature of the API itself. Static rate limits or IP white/blacklists are rarely useful in production or at scale.
+
+--------------
+
+IDENTITY AS A SERVICE (IDAAS)
+
+
+Identity as a Services (IDaaS) has witnessed a significant growth over the past few years. With increase in remote working environments, cloud-based delivery of identity services is gaining prominence. Cloud-based authentication capabilities are becoming mainstream with many organizations comfortable consuming multifactor authentication (MFA) and other authentication services.
+
+
+Identity as a Service (IDaaS) refers to cloud-delivered identity services and most IDaaS offerings are strongest in access management (AM) functionality. Other elements of IAM, like identity governance and administration (IGA) and privileged access management (PAM), are also being offered through cloud delivery models, however, they are not at the same maturity level as AM.
+
+
+Provisioning of users to cloud applications and password reset functionality
+User authentication, singe sign-on and authorization supporting federation standards
+Identity access log monitoring and reporting
+
+Continued adoption of cloud applications is forcing many organizations to assess the location of their authoritative user data and driving adoption of IDaaS solutions.
+IDaaS vendors can't map and re-engineer business processes and navigate organization structures single-handedly. They need strong implementation partners that understand their clients' business and help with fitting IAM processes and tools to the clients' organizational DNA.
+
+Organizations build and deploy new types of applications and services faster than ever. IAM teams are challenged to keep up and support other teams.
+Many organizations still have a significant on-premises footprint and use privileged access management (PAM) tools to manage that. Often, privileged access to cloud services is managed by the same on-premises PAM instance.
+
+Identity as a Service (IDaaS) has been undergoing a transformation in the past two to three years, with every IDaaS solution offering an application portal and some kind of multifactor authentication (MFA) capability.
+
+IDaaS for consumer platforms will further evolve and drive integration with other marketing technology solutions as well as fraud management and identity analytics to automate and drive better contextual data mining that can provide more-compelling business insights.
+
+IDaaS can provide standard, consistent IAM functions to support cloud-based applications and users for multiple lines of business with disparate IAM infrastructures inside an enterprise.
+
+For organizations that manage frequent acquisition and divestiture activities, agile IDaaS solutions enable faster completion as compared to software-delivered IAM solutions.
+
+According to Gartner, SaaS-delivered, converged IAM platforms will be the preferred adoption method for IGA, AM and PAM in over 45% of new IAM deployments by 2023.
+
+--------------
+
+DECEPTION TOOLS
+
+
+Deception Tools can augment or potentially replace threat detection and response (TDR) approaches in important ways, capable of providing low false positive, high-quality data and telemetry that is very valuable and immediately actionable. They force a paradigm shift by approaching threat detection as a “right data” problem, rather than a “big data” problem like SIEM, UEBA or NTA vendors posit.
+
+
+Deception tools are centrally managed systems for organizations to create, distribute, and manage an entire deceptive environment and its architectural elements. Fake assets such as documents, users, devices, applications, services, and infrastructure that can fool automated hacking tools, or even humans depending on their sophistication, are used to entice, engage and detect an attacker. Modern deception tools use analytics and automation methods to make them easier to deploy and manage as compared to simple honeypot systems of the past.
+
+
+Decoys like fake networks, fake VLANs and fake subnets
+Lures: Fake servers or fake laptops
+Honeytokens: Fake data, folders, files, identities or users
+
+Deception systems can service many different buyer types and needs, from augmenting a more robust detection practice at more mature firms to highly targeted vertical specialization needs, such as IoT and medical devices.
+
+Deception tools can be an alternative threat detection solution for smaller organizations not equipped to manage big data platform tools such as SIEM and/or UEBA.
+
+Vendors are still struggling to position their solution within organizations' technology stack and defense/detection arsenal, or lack the incentives for clients to initiate a deception project.
+
+The regulatory landscape does not offer drivers for deception initiatives unlike PCI Security Standards Council clearly spelling requirements for log management
+Security professionals are reluctant to engage in these initiatives because of misunderstanding and misperception of the complexity and their history with honeypots.
+
+Deception tools market is still in its early stages but is emerging as a viable and valuable complement to more traditional threat detection solutions. They offer high-fidelity sensors that look real and useful, but are fake and created only for attackers to touch and engage with them.
+
+According to Gartner, 25% of all threat detection and response projects will include deception features and functionality, either embedded in their current vendor’s threat detection technology stack or through pure-play deception platforms in next three years.
+
+Contrary to more traditional approaches to security, where the defender has to be right 100% of the time and the attacker just needs to be lucky once, deception tools can turn this model upside down. Now the attacker has to be right 100% of the time or trip a mine, and the defender just needs to be lucky once and a mine trips.
+
+Low maturity organizations not equipped to manage big data based platforms such as SIEM and/or UEBA should look at deception tools as their main detection tool. Medium maturity organizations already equipped with SIEM, UEBA or NTA solutions should look at deception tools as a complement to detect attacker movements. High maturity, forward leaning organizations should look at deception tools for advanced use cases such as generation local threat intelligence.
+
+---------------
+
+TRADITIONAL ENTERPRISE IDENTITY
+
+
+Identity governance and administration (IGA) is at the center of most IAM initiatives. The IGA market has reached the point of maturity where mainstream products can fulfill all of the most common use cases. The basic functionality associated with core capabilities is delivered in a relatively consistent manner by products in the market. IGA provides hands-on identity governance capabilities to the business owners of applications for direct accountability of access to their business information.
+
+
+Identity governance and administration (IGA) is a fundamental building block of an organization's IAM strategy. Core capabilities of IGA include: Identity analytics and reporting, entitlements management, access requests, workflow, access certification, role and policy management, access certification, auditing and fulfillment.
+
+
+Identity life cycle i.e. maintaining digital identities, their relationships with the organization and their attributes
+Entitlement management, maintaining the link between identities and access rights
+Access requests - enabling users, or others acting on behalf of a user
+
+IAM technologies are needed to manage customer identities, preferences, and profiles across channels, maintain customer privacy preference across locations, hosting models, and partners and provide adaptive, secure access to sensitive data for employees and partners.
+
+IGA is a mature market in terms of tools delivered as on-premises software; however, adoption of IGA tools delivered as a service is picking up rapidly.
+As organizations adopt more SaaS applications and migrate other workloads to the cloud, interest in deploying IGA capabilities in a cloud environment is increasing as well.
+
+As customer-obsessed firms use digital technologies to create new sources of value for customers and to increase operational agility, vital business processes will traverse different user populations, hosting models, and access channels.
+
+In the past two years, new identity types such as actual robots, machines, and robotic process automation (RPA) bots have emerged which introduce new challenges for identity governance and require the same level of management as traditional human identities.
+
+IoT further complicates these requirements because it explodes the number and types of devices and amount of data. This will have an enormous impact on the interface design of IAM systems and the architecture of modern solutions that integrate with IAM systems.
+
+To move away from clunky monolithic IAM solutions, vendors are breaking existing platforms into microservices- and API based offerings that can simplify integration, thus enabling organizations to adapt flexibly to evolving business requirements.
+
+Features such as identity analytics, and indirect fulfillment via IT service management (ITSM) tools are becoming mainstream, and they should be used together with cloud-delivered approaches to reduce the overall complexity.
+
+Improvements in advanced analytics techniques, including machine learning, will result in an emphasis on analytics-led authentication tools, on the model of existing online fraud detection tools.
+
+Decentralized identity technology is emerging and many technology companies are building an open, decentralized trust fabric for identities.
+
+------------------
+
+SIEM
+
+Security information and event management (SIEM) tools are central to threat detection technology even though they traditionally address the response phase after the detection. The security operations centers (SOCs) continue to be built with SIEM as the foundation for threat detection and response services. SIEM solution buyer requirements are driving demand for more sophisticated case and incident management features, as well as ways to measure, track, report on and improve the mean time to detect (MTTD) and mean time to respond (MTTR) to threats.
+
+
+Security information and event management (SIEM) technology supports threat detection and security incident response through the real-time collection and historical analysis of events from a wide variety of event and contextual data sources. It also delivers compliance reporting and incident investigation through analysis of historical data from these sources.
+
+
+Collect log data from many different types of operating systems, databases, network security devices and applications
+Extract information (e.g. the reporting device, the ID of the user involved, source and target device addresses and ports, event descriptions, etc.)
+Interpreting alerts from log activity and creating correlated log data
+Notification and alerts based on specific data points found during the log collection and correlation phases
+Reporting and dashboards for security metrics and ensuring compliance 
+
+ 
+
+SIEM is moving towards cloud-based consumption model with predictable pricing models. This helps in targeting small and midsize business segment, which does not have, nor does it plan to have, the required expertise to manage SIEM 
+Use of advanced analytics to supplement the lack of this skill set in organizations and addition of automation features helps augment the capabilities.
+The need for early targeted attack detection and response is driving the expansion of new and existing SIEM deployments Advanced users seek SIEM with advanced profiling, analytics and response features.
+
+ 
+
+Increasing data volume remains a challenge and adoption of big data technologies, such as Hadoop, NoSQL, Elasticsearch and Kafka to replace legacy data management capabilities is need of the hour.
+
+More sophisticated analytics methods, such as machine learning are required to tackle the constantly evolving hostile threat environment.
+Vendors face differentiation as one of the challenges in enhanced analytics detection along with differentiating competitively based on the results provided from their solutions.
+
+Tools such as UEBA and Central Log Management (CLM) often used on top of SIEM tools are extending their capabilities to directly compete with SIEM.
+
+SIEM of the future would be smarter with the growth in the use of algorithms, data science, and advanced analytics, such as machine learning. SIEM products will witness enhancements as vendors will integrate support for behavior analytics as well as integrations with third party technologies.
+
+SIEM tool must have access to non-security data sources that would provide additional business context for security event monitoring (such as user directories, configuration management databases (CMDBs) and vulnerability assessment products).
+
+The integration of tools such as endpoint detection and response (EDR) and network traffic analysis (NTA) with a SIEM solution which is a centralized point of monitoring and investigation for smaller organizations could also be a natural progression for smaller and less mature security operations team.
+
+They require an ongoing investment in resources (budget, expertise and staffing) for both technology operations and security event monitoring to realize their true value.
+
+--------------
+
+DISASTER RECOVERY  AS A SERVICE(DRAAS)
+
+Disaster recovery as a service (DRaaS) has made managed recovery in the cloud an extremely attractive option due to lack of skilled talent base. Enterprises often lack recovery data center, experienced IT staff and specialized skill sets needed to manage a disaster recovery (DR) program on their own. Also, as average numbers of virtualized x86 instances per customer are increasing, large enterprises are also investing in DRaaS solutions.
+
+
+Disaster recovery as a service (DRaaS) is a productized, cloud-based service where the service provider is responsible for managing virtual machine (VM) replication, VM activation and recovery exercise orchestration.
+
+
+Management of server image and production data replication to the cloud
+Disaster recovery (DR) run book creation
+Automated failover and failback between on-premises and the cloud
+Network element and functionality configuration as needed during and for recovery operations
+
+DRaaS is increasingly a preferred selection by larger organizations, as many vendors have reported an increase in the size of their largest or most complex customer environments, and an increased volume of servers per client
+Growth for DRaaS will be strongest in areas where customers have limited public cloud options in highly regulated industries and where business processes consist of IT systems beyond virtualized x86 environments (such as bare-metal servers, as well as legacy Unix platforms for those providers that support it).
+Demand for DRaaS solutions is higher as complexity of IT environments increases and the availability of experienced workforce decreases.
+
+ 
+
+The number and diversity of approaches exhibited by DRaaS options on the market cause confusion for potential customers.
+The level of complexity in the market is challenging. Each of the choices has different restoration capabilities, service support models, prices and pricing approaches, service levels, networking capabilities, and regional capabilities.
+
+COTS products used by many DRaaS providers are becoming more intuitive and include more options, creating more complicated “build versus buy” decisions, especially as hyperscale clouds become a preferred location for development.
+ 
+Early adopters of DRaaS were typically small organizations that either didn’t have secondary sites or were eliminating redundant data centers in favor of cloud-based solutions. In current scenario DRaaS is considered when planning disaster recovery for virtualized Windows- or Linux-based production applications.
+
+It is used as an alternative to acquisition of additional servers and storage equipment for building out a dedicated or co-located recovery site.
+
+DRaaS should be looked upon as just one possible alternative for addressing in-house recovery and continuity requirements and it should not be assumed that cloud-based recovery services will subsume the use of traditional DR providers or self-managed DR in future. DRaaS worldwide revenue is projected to reach  $3.7 billion by 2022. 
+
+-----------------------
+THREAT INTELLIGENCE PLATFORM
+
+
+As threat intelligence expands beyond traditional security operations use cases, investment in threat intelligence platforms (TIPs) is increasing. End users are continuing to actively investigate opportunities to improve their ability to predict, prevent, detect and respond to issues presented by the prevailing threat landscape. Threat intelligence products and services are proving to be a credible option for all four of these high-level requirements.
+
+
+Threat intelligence platforms (TIPs) are used to collect, correlate, categorize, share and integrate security threat data in real time to support the prioritization of actions and aid in attack prevention, detection and response. They also integrate and complement existing security technologies and processes like SIEM, incident response and vulnerability management. TIPs facilitate the sharing of machine-readable threat intelligence (MRTI) among multiple stakeholders and disparate groups at wire speed and support the extensive use of open standards like STIX/TAXII.
+
+
+Accumulation of data from multiple sources like network, endpoints, systems, etc.
+Standardization, enhancement and risk scoring of data
+Integration with existing security systems
+Analysis and sharing threat intelligence through reports and dashboards
+
+
+Client interest in industry-led (ISAC’s), government (CERTs) and commercial TI has continued to increase and expand. They are now taking a more proactive community information-sharing approach to security.
+
+Larger security teams with well-funded security programs, are the best candidates for a threat intelligence platform use cases
+Finance and Government verticals are the main consumers of threat intelligence services from an industries perspective
+ 
+
+The value of these services is sometimes constrained by the customer’s ability to afford, absorb, contextualize and, especially, use the information provided by the services.
+Smaller organizations lack the funding, security maturity level or knowledge of the solution to take full advantage of cloud-based threat intelligence platforms.
+The value of these services is sometimes constrained by the customer’s ability to afford, absorb, contextualize and, especially, use the information provided by the services.
+
+The utilization of threat intelligence has expanded beyond traditional security operations use cases and is even being leveraged by other functions within the organization, such as fraud, risk management, human resources and marketing.
+
+Threat intelligence platforms can assist with a number of existing IT security use cases, like threat detection and prevention, anti-phishing, incident response and fraud and threat analytics, as well as new use cases like TI sharing.
+
+Numerous threat intelligence sources and formats are already in use, or there is a desire to increase usage to help orchestrate and automate the use of threat intelligence to help prioritize responses to the prevailing threat landscape.
+
+Assessment of security skills, resources and maturity of the security organization is a prerequisite to investment in threat intelligence platforms to ensure there are viable use cases. The threat intelligence market remains large, with a sprawling number of vendors delivering a range of capabilities.
+
+----------------
+
+USER AND ENTITY BEHAVIOR ANALYTICS (UEBA)
+
+User and Entity Behavior Analytics (UEBA) solutions get more traction and are deployed more widely in organizations, fueled by the demonstrated value of UEBA tools running in production in large environments for many advanced use cases. UEBA will reach organizations that simply do not have the proper skill set to manage the underlying complexity of the advanced analytics of UEBA tools.
+
+
+User and Entity Behavior Analytics (UEBA) solutions use analytics to build the profiles and behaviors of users and/or entities (hosts, applications, network traffic and data repositories) across time and peer group horizons. Activity that is anomalous to these standard baselines is presented as suspicious, and packaged analytics applied to these anomalies can help discover threats and potential incidents.
+
+
+A need for organizations to dig deeper into data beyond real-time and shorter-term analysis to longer analysis horizons enhances their requirement for UEBA
+The overall spending on UEBA is growing as the market is shifting to embedded UEBA, due to the proliferation of vendors offering UEBA features embedded in their solutions.
+The primary use case involves the detection of different categories of threats, achieved through visibility into and analysis of often-correlated user and other entity behavior.
+
+UEBA also monitors unusual cloud resource access and usage, and supports better detection from existing security technology investments like CASB and IAM
+
+Data is lacking on comparative effectiveness of various analytic algorithms (implemented in vendor tools) versus current, real-world threats and problems.
+Stand-alone UEBA vendors will face pressure to align with one or two specific security markets, like SIEM platforms, IAM tools, and security incident response platforms (SIRPs).
+
+UEBA deployment time and ongoing operations can be more time-consuming and labor-intensive than promised. Adding custom or edge use cases can be arduous, requiring expertise in data science and analytics
+
+Advanced analytics and the type of machine learning used by vendors with UEBA functionality are key to their success and competitiveness.
+
+Examples of where UEBA is being applied to specific use cases include SIEM Tools, Network Traffic Analysis, Agent-Based Employee Monitoring and Endpoint Detection and Response, Data-Centric Audit and Protection, Cloud Access Security Brokers and Identity Access Governance and Privileged Access Management.
+
+UEBA capabilities are embedded in a wide range of adjacent security technologies, such as cloud access security brokers and identity governance and administration systems, whereas UEBA and security information and event management systems continue to converge.
+
+Vendors are elevating their messaging away from the technical aspects of UEBA features and moving into describing their value proposition aligned to one or more use cases.
+
+---------------
+SOFTWARE-DEFINED SECURITY
+
+
+Software-defined security is now a mainstream concept and security vendors are increasingly shifting more of the policy management out of individual hardware elements into a software-based and programmable management plane for flexibility in specifying security policy, regardless of location. In many cases, SDSec replaces many vendor-specific consoles with a single policy management engine, simplifying and unifying policies across disparate products and services, displacing legacy approaches.
+
+
+Software-defined security (SDSec) is an umbrella term covering several security processes and controls that benefit when the security policy management is abstracted from the underlying security policy enforcement points, and becomes programmable along with the rest of the software-defined infrastructure. Organizations can use security software, through the SDN controller, to implement, control and manage threats from one single place.
+
+The push towards automation and orchestration is resulting in increased demand for rich APIs for automation, management and control that can be managed by SDSec solutions.
+There are multiple areas where SDSec is being applied: software-defined perimeters (also referred to as zero trust network access), software-defined segmentation (micro segmentation/zero trust network segmentation), software-defined data protection, cloud security posture management platforms and cloud workload protection platforms.
+SDSec can be used to target specific security trouble spots such as access control and event monitoring.
+
+The Open Networking Foundation (ONF) launched a study to determine how to make SDN more secure, and industry players are starting to incorporate security functionality into their solutions. Still, it is immature and will likely hamper adoption of SDN until addressed in a robust way.
+While the technology is mainstream, SDSec solutions are expensive and also complicate the underlying architecture.
+
+Software-defined security has controls designed independently of the physical infrastructure. Virtualizing in this way provides the flexibility and agility to control and quarantine small parts of the network/device.
+
+Software-defined doesn’t mean "software only“ and security hardware will still be needed in some cases for deep inspection at demarcation points and for processor intensive workloads such as SSL/TLS in-line inspection.
+
+Cloud-based consoles are favored for security policy management, removing the need to manage on-premises physical and virtual appliances.
+
+SDSec-based offerings will bring speed and agility to the enforcement of security policy regardless of the location of the user, the information or the workload.
+
+---------------
+ARTIFICIAL INTELLIGENCE FOR SECURITY
+
+
+Artificial Intelligence is being used to enhance cybersecurity defense by investing in machine learning-based tools to augment security analysts. As attackers are beginning to use machine learning (ML) and other AI techniques to power their attacks, enterprise architecture and technology also needs to leverage advanced technology to protect the systems and networks.
+
+
+
+Artificial Intelligence for Security (AI)  uses machine learning to help automate threat detection and response which can ease the burden on employees, and potentially help identify threats more efficiently than other software-driven approaches. The relationship between modern cybersecurity solutions and AI has become inextricable.
+
+
+ 
+
+Security industry is facing a deluge of cyberattacks just as the number of devices being connected to the internet is exploding. At the same time, there’s a massive shortage of skilled cyber workers.
+
+AI/ML techniques are ideal for achieving cyber hygiene and shrinking the attack surface at scale, which requires an automated understanding of the intended state of an application.
+
+The market for AI in cyber security is primarily driven by increasing data frauds and cyber-attacks worldwide. Also, increasing number of internet and social media users, digitalization of banking and finance sectors create immense opportunities for the industry players to develop advance AI systems to provide cybersecurity.
+ 
+
+
+Even attackers use artificial intelligence in malicious attacks to assault security controls and machine learning for identity deception in phishing attacks.
+Gartner estimates that 30% of all AI cyberattacks will use training-data poisoning, AI model theft or adversarial samples to attack AI-powered systems.
+AI solutions are still immature and require a great deal of human input before they can be effectively deployed to achieve quantifiable results.
+
+AI and machine learning will automate the response side and will help companies deal with "adversaries that are constantly changing techniques.“ AI will play a role in threat management, helping companies automate detection and incident response. Applying AI and ML in threat intelligence tools helps in identifying patterns to develop more robust and proactive security management systems.
+
+Attacks need to be detected in real time, which requires comprehensive monitoring of physical and virtual infrastructure environments whether they are in the cloud or in an internal data center.
+
+AI’s lack of causal reasoning is why human intelligence, especially from experienced security analysts and incident responders, is still critical. Highly-trained security teams play an important role in detecting, identifying and protecting against a wide range of cybersecurity threats, and will continue to do so for a long time.
+
+--------------
+QUANTUM CRYPTOLOGY
+
+Quantum cryptology or Quantum Key Distribution (QKD) provides a quantum-safe mechanism for key delivery that is independent of advances in cryptoanalysis and computing capabilities, whether classical or quantum and is thus not dependent on algorithmic security. The various QKD protocols are designed to ensure that any attempt by an eavesdropper to observe the transmitted photons will indeed perturb the transmission.
+
+
+Quantum cryptology, also called quantum encryption or Quantum Key Distribution (QKD), applies principles of quantum mechanics to encrypt messages in a way that it is never read by anyone outside of the intended recipient. It takes advantage of quantum’s multiple states, coupled with its "no change theory," which means it cannot be unknowingly interrupted. Performing these tasks requires a quantum computer, which have the immense computing power to encrypt and decrypt data. A quantum computer could quickly crack current public-key cryptography.
+
+
+Quantum Cryptology is becoming increasingly important because quantum computing is now a reality and conventional methods of encryption no longer apply.
+It may be possible to build entire encryption systems that are considered unbreakable, using quantum technology.
+For high-value transactions like inter-bank communication and election result transmission, the benefits of QKD are sometimes worth the cost.
+By using satellites equipped with high-quality optical links, satellite-QKD can achieve ultra-long-distance quantum communication in the 1000-km range. The significant potential of satellite-QKD for the creation of global quantum networks thus makes it a particularly interesting field of research.
+
+
+Quantum cryptology is promising but extremely immature. The distance over which a quantum key can be transmitted has extreme limitations.
+It lacks features such as identity verification, which make it a poor solution for a firm's eCommerce and general needs.
+The system is very complex and changing the underlying protocols for encryption and authentication is highly time intensive.
+ 
+
+Quantum cryptography has been demonstrated in the laboratory by IBM and others, but over relatively short distances. Recently, over longer distances, fiber optic cables with incredibly pure optic properties have successfully transmitted photon bits up to 60 kilometers.
+
+While conventional, public-key cryptography can be cracked or circumvented in a number of ways, QKD offers companies and government agencies the ability to share confidential, mission-critical data with each other in a fully secure, unbreakable way.
+
+The majority of the QKD options are in the point-to-point category. This means that they manufacture QKD devices as chassis to be installed in a client’s infrastructure.
+
+Quantum Key Distribution (QKD) is a powerful solution to the key exchange problem and is not subject to the same weaknesses that current solutions are subject to. However, there are remaining challenges that must be kept in mind as QKD solutions are deployed into our ecosystems.
+
+--------------
+
+ 
+
+ 
+ 
 
 
 
