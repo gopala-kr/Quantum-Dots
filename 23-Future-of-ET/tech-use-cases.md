@@ -4396,6 +4396,284 @@ In coming years, enterprises will more widely adopt and integrate virtual assist
 -----------------
  
 
+ASSET TOKENIZATION
+
+Tokenization, the process of creating a token, is not blockchain dependent. Tokens and tokenization have been around for decades. However, the ability to apply the concept in a shared data/DLT/blockchain construct is unlocking tremendous new value. The most obvious manifestation is with ‘currency.’ But across businesses and organizations, this opens the door up to new digital assets or units deemed valuable by enterprises and the industries in which they operate. For example, the ability to create digital twins of objects (i.e. creating tokenized versions of real-world assets) is massively valuable.  This can enable more efficient, smart transactions across ecosystems, saving both time and money, while also creating the foundation for new products and services.
+
+A token is a representation of value, assets, identity or information, as well as an output of the contractual agreements defined by the underlying company/institution (unilateral), industry (multilateral) or community protocol. Tokenization is the process of turning the tokens into digital assets. This digital representation can be placed on a blockchain to support more efficient transactions such as asset tracking or trading and selling with the use of smart contracts.
+
+Enables easier liquidation and splitting of assets, delivering greater efficiency.
+Unleashes new investment models, creating new ways for greater participation in the creation of products and services.
+
+Tokenization combined smart contracts can reduce costs and transaction time by eliminating the need for unnecessary intermediaries (or augment the use of intermediaries for high-value efforts.
+
+The ability to create digital twins of objects through tokenization will enable new products and services, while improving the consumer experience.
+
+Regulatory and legal uncertainties of tokenization in certain industries will be a barrier to implementation
+Technical challenges with ensuring standardization/consistence of on-chain tokens and corresponding off-chain assets (for asset-backed tokens).
+
+-------------
+
+ETHEREUM
+
+Ethereum enables the creation of completely automated (if not autonomous) digital applications and businesses, with significant advances that allow the technology to be leveraged by public users or private enterprise.
+
+The Ethereum code base has been adapted by enterprise clients, allowing for the creation of permissioned blockchains with smart contracts (more information available in the enterprise blockchains profile).
+Ethereum is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. This added smart contract functionality allows users to easily build applications, organizations or even cryptocurrencies on top of the Ethereum network. It is also the core differentiator between Ethereum and Bitcoin, or other public blockchain networks.
+
+Characteristics
+ 
+Decentralized platform: the applications run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
+
+Smart contracts: aim to provide greater security than traditional contracts and bring down the associated costs.
+
+Custom built blockchain: an enormously powerful shared global infrastructure that can move value around and represent the ownership of property.
+
+Enterprise Clients: Ethereum code base has also been adapted by enterprise clients, allowing for the creation of permissioned blockchains with smart contracts.
+
+Enables the creation of completely automated (if not autonomous) digital applications and businesses, the potential next wave of disruptors
+Development of cryptocurrencies and enabling ICOs (initial coin offerings), effectively the origin of the crypto investing boom
+Significant advancements allow for the technology to be leveraged by public users or private enterprises
+
+Yet to demonstrate successful production level applications
+The DAO attack in 2016 highlighted the risk of development without guardrails
+Inability to rollback transactions
+Demonstrating the potential risk and value of a hard fork to solve issues
+Difficult to scale and gain widespread adoption.
+
+Although Bitcoin is the most adopted and proven blockchain platform in production, the Ethereum platform has recently gained credibility and attention. Ethereum is seeing adoption of both its technology and crypto asset and is seeing increased engagement on open sourced and enterprise projects.
+
+Accenture is helping clients develop on enterprise grade instances of the Ethereum network, and helping to set the standards for development as a founding member of the Ethereum Enterprise Alliance.
+
+The rise of Ethereum has helped accelerate an immense amount of research from academia and international corporations, bringing the blockchain opportunity to a multitude of industries beyond just payment transactions. Companies are adapting and advancing the core technology to suit their needs. While some are exploring digital currency and the open-source, free-for-all ecosystem of public blockchains (of which Bitcoin and Ethereum are prime examples), far more are concentrating on how the technology underpinning those systems can add value to their businesses. Many are concocting “permissioned” or “private” blockchains, designed for a more centralized architecture where only authorized operator can join.
+
+--------------
+
+BITCOIN
+
+
+Bitcoin is an open-source, peer-to-peer, digital decentralized cryptocurrency that can increase the speed of transactions and decrease overall cost compared to traditional payment methods. Bitcoin remains the most mature and wide-scaled application of blockchain technology. Bitcoin is an open network and has a high degree of resiliency and security.
+
+Bitcoin, built on blockchain technology, is a cryptocurrency and worldwide payment system. In 2017, Bitcoin has gained publicity and media attention as a cryptoasset, able to be traded on cryptocurrency exchanges. However, the technological value remains as the introduction of blockchain technology in 2009.
+
+Characteristics
+ 
+
+First cryptocurrency: created by the legendary Satoshi Nakamoto to prove the Blockchain technology
+Decentralized digital currency: the system works without a central bank or single administrator
+Peer-to-peer network: transactions take place between users directly, without an intermediary
+Immutable transactions: verified by network nodes through the use of cryptography
+Publicly available transactions: recorded in a public distributed ledger called a blockchain
+Solves for double spend
+
+Open network with minimal barriers to entry, allowing both individuals and corporations to easily participate
+Solves the trust issue between two parties transacting due to its peer-to-peer validation system.
+High degree of resiliency and security, as its decentralized and redundant nature prevents single point of failure attacks and the cryptography provides a high degree of protection for the data and transactions
+Decrease in overall cost compared to traditional payment methods
+Recent advancements in the lightning network,  a payment protocol layer on top of Bitcoin, increases  transaction volumes and begins to address bitcoin scalability issues.
+
+Lack of understanding of the key business implications as an asset or coin
+Limited mainstream growth
+Scaling transaction speed (latency) and storage
+Highly intensive compute process (called mining) to validate transactions
+Difficult for the casual user
+Uncertain regulations contribute to stifled mainstream growth
+Accessible to everyone with zero transaction privacy and does not align with enterprise requirements. 
+
+Bitcoin remains the most mature and wide-scaled application of blockchain technology, having been in production for eight years with a near-flawless operational track record with regard to the foundational protocols.
+
+Bitcoin has achieved considerable adoption, with an approximately 420 million transactions since July 2018 and spanning an average of 467,000 unique addresses. Bitcoin’s popularity is also helping to drive user growth across blockchain wallet, now  reaching an  estimated 39 million users globally.
+
+Mainstream companies like PayPal, Dell, Overstock, Stripe, Square and Expedia are providing mechanisms to enable bitcoin transactions.
+
+Other financial (JPMorgan and Fidelity) and tech companies (Facebook) have recently entered the crypto space, including AT&T which has started to accept Bitcoin as a bill payment option. These initiatives could create more demand and help encourage greater adoption of bitcoin as well as other cryptocurrencies and digital assets.
+
+However, bitcoin transaction volumes are still a small portion of the global economy and have slowed down as the value of the currency has increased. As speculation on Bitcoin as an asset increases, it casts doubt on the application of Bitcoin as a payment protocol.
+
+For enterprises, the transparency and speed (albeit improving) of public blockchains such as Bitcoin, currently do not meet enterprise requirements. Private enterprises require confidential transactions and system accountability. Therefore, enterprises are adopting  private blockchains or distributed ledgers, to enable permissioned user access and ensure roles and responsibilities are clear for issue resolution (review DLT/Blockchain slide for more information).
+
+
+
+-------------------
+
+BLOCKCHAIN PAAS
+
+For existing and new business ecosystems the table stakes to experiment with and test new DLT applications are reduced by Blockchain Platform as a Service (bPaaS). bPaas is a set of Blockchain software services  offered to subscribers on the cloud by a vendor. It currently offers the easiest go-to market blockchain strategy for enterprises, leveraging current cloud providers’ tools and neatly incorporating into existing architecture.
+
+Blockchain platform as a service (bPaaS) is a set of blockchain software platform services that includes some or all of the distributed ledger, node or consensus mechanisms, and other ancillary services to manage a network of distributed ledgers on the vendor's cloud infrastructure.
+
+Characteristics
+ 
+Set of blockchain software platform services: offered on the cloud by a vendor for subscribers.
+Services include: distributed ledger, node or consensus mechanisms, and other ancillary services to manage a network of distributed ledgers on the vendor's cloud infrastructure.
+
+bPaaS offers the easiest go-to market blockchain strategy for enterprises, leveraging the security, infrastructure, and advanced tools offered
+Enterprises can leverage current cloud providers tools, easily incorporating into existing architecture
+bPaaS platforms will make it easier for companies to both test and deploy distributed ledgers, allowing enterprises to blockchain networks in days instead of months
+Advantage of using bPaaS systems is that the table stakes to experiment with and test new DLT applications for existing and new business ecosystems are reduced.
+bPaaS eases the management of decentralized networks for its users
+
+Interoperability for distributed ledger across competing platforms is at early stage of evolution.
+Enclosed to infrastructure services only at present
+Uncertain market direction because of its vague operation and DNA consensus protocols.
+
+Blockchain PaaS offers the easiest method for enterprises to experiment and develop with blockchain technology. They can leverage existing relationships and develop in familiar environments with minimal risk. While blockchain PaaS offerings are in the early stages, we expect rapid development as cloud providers use blockchain offerings as a way to attract and retain enterprise customers.
+
+Due to the rapidly evolving landscape, platforms are likely to undergo major changes over the next two to five years, creating concern for any enterprise planning to lock into one offering at this stage. Enterprises should capitalize on the easy toolset and development opportunities to increase their blockchain capabilities. They should also run evaluations of multiple platforms and test each according to their requirements.
+
+BPaaS eases the management of decentralized networks. Recent cloud-service offering from enterprise cloud vendors (e.g. IBM Bluemix and Microsoft Azure) — and small technology startups — such as BlockApps, BlockCypher and WanCloud.
+
+Each bPaaS vendor attempts to add unique elements around security, interoperability, analytics and performance to differentiate their offerings.
+
+The underlying DNA of DLT is that Blockchain will continue to evolve and enterprises should stay abreast of these developments and advancements. Rapid market use and adoption of a specific application suite and consensus proof protocol could result in market success for one or more of the bPaaS services.
+
+
+
+-----------
+
+INTEROPERABILITY
+
+Most blockchains are technologically siloed or not interconnected. This is due to lack of standards regarding the structure of distributed ledgers and platform components. However, DLT  solutions cannot exist in a vacuum. This brings about the desire for interoperability, or the ability for blockchains to interact and connect to each other. The ability to link and interact in an end-to-end, seamless solution is required if companies hope to reap the full value of DLT.
+
+The blockchain platform market is starting to stabilize, but interoperability and integration standards are still not yet established and current platforms are still undergoing major changes.
+
+To enable a blockchain ecosystem, standards are required on public encryption, digital signature, hash algorithms and consensus protocols.
+
+Interoperability is the ability of two or more components or systems to exchange information and to use the information that has been exchanged.
+
+Characteristics
+Syntactic Interoperability: Where two or more systems are able to communicate and exchange data. It allows different software components to cooperate, even if the interface and the programming language are different.
+Semantic Interoperability: Where the data exchanged between two or more systems is understandable to each system. The information exchanged should be meaningful, since semantic interoperability requires useful results defined by the users of the systems involved in the exchange.
+
+
+Organizations are exploring the use of APIs in a number of domains for interoperability and modularity in complex systems.
+Second generation open source interoperability solutions (including Accenture-owned capabilities) are currently underway for permissioned systems to engage with two or more DLT platforms.
+Blockchain Platform-as-a-Service (bPaaS) efforts can potentially enable an interoperable blockchain ecosystem as they aim to be protocol agnostic.
+Potential solution is sidechains. The sidechain concept has evolved into developments on payment and state channels.
+
+
+Lack of potential solutions since there are very few blockchain instances running in production.
+Short cut solutions demands introducing standardized APIs to enable interoperability on the blockchain, running contrary to the principles of shared ledger features (eliminating data reconciliation).
+The competitive dynamics of DLT platform providers and the accelerated pace to scale, hinders effective collaboration across DLT solutions
+Blockchain interoperability benefits can be challenging to demo to business stakeholders.
+
+Although third parties are working to implement interoperability mechanisms, efforts at establishing blockchain interoperability are still at a very early stage. The International Organization of Standardization and the International Securities Association for Institutional Trade Communication have noted this as a high importance area and established working groups to address these challenges.
+
+Many consortia have also acknowledged this future issue, hoping to design standards in advance of the majority of enterprise development. Interoperability between different consensus mechanisms, tools, frameworks and smart contract capabilities remain limited but a key challenge to address prior to mainstream development.
+
+While some forms of interaction and communication are possible today, no best practice has yet emerged that achieves ‘interoperability’ and eliminates the use of messaging (and data reconciliation) such that we can maintain the efficiencies and simplicity that drives blockchain value.
+
+We expect the consortia to lead the way with standard setting, and major blockchain PaaS providers to be heavily engaged in the discussion. Lines are expected to blur as features and functionality become more interchangeable, and interoperability and protocol/data standards become more prevalent. There will likely be a convergence in private and public architectural deployment styles, with all distributed ledgers having similar functional characteristics. According to Gartner, "market differentiation will lie in the inherent capabilities of consensus mechanisms (for example, based on the efficiency of the distributed ledger), interoperability and user experience.”
+
+
+----------------------
+
+ENTERPRISE BLOCKCHAINS / DLT
+
+The emergence of Distributed Ledger Technology (DLT) / Blockchain solutions offers a new approach to data that allows multiple stakeholders to confidently and securely share access to the same information via a shared ledger. This offers enterprises and governments and the ecosystems in which they interact promising, innovative applications to enable business transformation.
+
+Distributed ledger technology (DLT) is a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time. Unlike traditional databases, distributed ledgers have no central data store or administration functionality. In addition to the distributed underpinning of the technology, it requires consensus mechanisms and protocols to make changes to the data. DLT/Blockchain features also enable an audit of transactions (provenance), tamper evidence for data integrity, and smart contracts.
+
+
+Deployment Patterns
+
+Central Infrastructure Leader. This model is where an existing operator of an ecosystem governs a platform on behalf of a set of participants
+
+Consortium. This type of blockchain is managed by multiple trusted organizations and to get access, there needs to be consensus by multiple participants in the consortium.
+
+Shared ERP. This early model is where existing large platform providers such as ERP systems that have traditionally managed their business as an install base, with separate implementations at each client, are realizing that they can add a shared data capability and convert their install bases into networks.
+
+Opportunity to create and sell new products and services to an ecosystem.
+Augment intermediaries role to offer new high value services (vs simply passing data)
+Early developments are being realized across many different industries, ranging from financial services, supply chain, energy, food, and identity etc.
+Vertical Solutions and Consortia have formed to help understand, develop and implement use cases dependent upon cross-industry and competitor partnerships.
+
+Unable to leverage the network effect and digital currencies of public blockchain networks
+Difficulty connecting between two different blockchains or connecting blockchains to existing shared systems.
+Development and management costs must be covered by the participating institutions
+ 
+ 
+ The ability for enterprises to leverage the benefits of blockchain technology without the risks and downsides of public, permissionless blockchains has led to the rise of enterprise applications with Distributed Ledger Technology. While Financial Services led the way, nearly every industry is testing and/or adopting the technology with supply chain and identity cases having the most momentum.
+
+Most attractive to enterprise is the ability to permission networks, providing a means for controlled standards development. They also provide a mechanism to edit or modify data in accord with evolving regulatory standards, and correct errors as necessary. Many new features not existing in the original blockchain are now possible/available: confidentiality, performance, simplified consensus, permissioned/private etc.
+
+The key benefits around enterprise applications stem from the evolution from public blockchains to permissioned DLT. Early developments are being realized across many different industries, ranging from financial services, supply chain, energy, food, etc. already solid enough for enterprise adoption.
+
+The picture will continue to evolve in the coming years, with new solutions entering the market, consolidations and failures etc. Nevertheless, solutions are already solid enough for enterprise adoption. Careful consideration must be used to evaluate potential use cases to ensure proper fits. Similarly, selecting the right solution for the test case is pivotal to a successful implementation.
+
+-------------
+
+CRYPTOCURRENCIES (AND ICOS)
+
+Cryptocurrencies intend to make it easier to transfer funds directly between two parties in a transaction, without the need for a trusted third party (e.g.  bank or credit card company).
+
+A cryptocurrency is a digital asset designed to work as a medium of exchange that uses cryptography to secure its transactions, control the creation of additional units and to verify the transfer of assets. Bitcoin was the first cryptocurrency, though there are now more than 2200 in existence. To distribute cryptocurrencies, companies often hold Initial Coin Offerings (ICOs) as a way of raising capital.
+
+A cryptocurrency is a digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.
+
+
+Cryptocurrencies can be divided into three groups: 
+
+Digital currencies have no intrinsic value, but exist as a store of ‘accepted’ value (e.g., Bitcoin)
+Utility tokens or app coins provide users with future access to a product or service (e.g., Filecoin)
+Tokenized securities provide owners with a share of a company or business (e.g. tZERO)
+
+Enables crowdfunding of projects with immediate ownership or value provided to the investor
+Creating a new asset class and store of value (from land to metals to paper currency to electronic currency)
+Creates wide-range of decentralized networks and products.
+
+Consider legal or regulatory requirements that protect against financial crimes
+Regulate the stability of accounting and financial markets liquidity of the products and services exchanged
+Establish viable cryptocurrency exchanges
+Set up transactional mechanisms for clearing and settlement
+ 
+ 
+While cryptocurrencies and specifically the investment opportunity enabled have drawn the most attention in the blockchain ecosystem, cryptocurrencies have minimal impact on Accenture or our clients. As most cryptocurrencies exist on public blockchains, early enterprise use cases will have little alignment (see Enterprise Blockchains or Blockchain as a Service for more details).
+
+As the cryptocurrencies market develops, it will be interesting to watch progress over the next few years, especially with introduction of Facebook Libra (see use case example on next slide). The bull case for cryptocurrency would include highly adopted, decentralized applications that consumers and corporations would be leveraging. One example is Storj as an alternative to AWS. While this is not an immediate consideration, our customers should be cognizant of this potential outcome.
+
+Of note, Gartner has made 3  predictions around cryptocurrency adoption:
+
+By 2023, two countries will have seen their national election campaigns won by a nonmainstream party funded through cryptocurrency.
+By 2025, public blockchain will provide a core interoperable foundation for global, decentralized identity management.
+By 2023, at least one country with hyperinflation will use cryptocurrencies over its local currency.
+
+--------------
+
+DISTRIBUTED EXECUTION / SMART CONTRACTS
+
+Distributed execution, commonly referred to as “smart contracts”, is a new way to improve complex, multi-stakeholder transactions where changes must be verified by numerous parties across siloed systems. It lowers cost by the elimination of third parties. While smart contracts gained prominence through the Ethereum blockchain, alternative distributed ledger technology is starting to incorporate the technology.  It is an event-driven program which runs on a distributed ledger and can execute code in conjunction with an action upon a digital asset. Distributed execution can be seen as embedded business logic within the blockchain. Distributed execution are Logic-driven, simplified contracts to provide a clear statement of events, actions and triggers.
+
+Distributed execution is composed of a programmable contract defined within computer code which can facilitate, verify, execute and enforce the negotiation Distributed execution can be seen as embedded business logic within the blockchain. Easily written in standard programs and coding languages, Distributed Execution increases auditability of contracts by legal and compliance and prevents contract tampering or change. While smart contracts gained prominence through the Ethereum blockchain, alternative distributed ledger technology is starting to incorporate the technology.
+
+Embedded business logic: within the blockchain.
+Composed of a programmable contract: defined with computer code which can facilitate, verify, execute and enforce the negotiation or performance of contract terms automatically on a distributed ledger.
+
+Logic-driven, simplified contracts to provide a clear statement of events, actions and triggers
+Lower cost contracts by the elimination of third parties
+Increased security preventing contract tampering or change
+Increased auditability of contracts by legal and compliance
+Automated action triggering (such as payments) based on contractual clauses
+Often easily written in standard programs and coding languages
+
+
+Inability of the owner of a smart contract to revoke the program
+Premature phase of Technology makes it not available on all blockchain platforms
+If not secured and receptive, programming languages will lack ability to implement smart contracts.
+Deploying Smart Contracts is complex, costly and risky without exhaustive tests.
+
+Distributed execution is typically coupled with "smart assets" enabled by AI and IoT. Smart assets can be viewed as digital property that has embedded within it a concept of ownership as well as dynamic behaviour.
+
+Distributed execution will have an impact on all industries and public-sector organizations, as it changes how decision rights are provided and how decisions are enacted. This will help drive the programmable economy in which distributed execution facilitates, verifies or executes the terms of contracts – therefore enabling algorithmic businesses and decentralized autonomous organizations. Distributed execution gives organizations the potential to eliminate complex legal documents and automate business processes. According to Gartner, by 2021, less than 2% of global organizations will have adopted complex (bundled) smart contracts, yet 20% of organizations will be subject to them. Moreover, by 2022, ratified unbundled (that is, defined impact) smart contracts will be in use by more than 25% of global organizations.
+
+Today, distributed execution programming is an immature subsystem of the blockchain ecosystem. The industry is still looking for a scripting language that is "Turing complete," as well as easy to create and provably correct. Organizations are looking at proven methods of using distributed execution to automate complex agreements in a trust less runtime environment.
+
+
+
+
+
+
+
 
 
 
