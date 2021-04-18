@@ -1,3 +1,6 @@
+![tc1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc1.png)
+
+-------------
 - [https://internet-map.net/](https://internet-map.net/)
 - [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
 - [Wired World: 35 Years of Submarine Cables](https://www.visualcapitalist.com/wired-world-35-years-of-submarine-cables-in-one-map/)
@@ -446,6 +449,48 @@ technology](https://www.designboom.com/technology/nasa-nokia-internet-on-the-moo
 --------------
 ![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp16.png)
 
+------------
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc2.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc3.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc4.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc5.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc6.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc7.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc8.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc9.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc10.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc11.png)
+
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc12.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc1.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc14.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc15.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc16.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc17.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc18.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc19.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc20.png)
+------------
+![tc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc21.png)
 ---------------
 -------------------
 
