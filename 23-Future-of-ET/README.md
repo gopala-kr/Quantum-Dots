@@ -1248,6 +1248,10 @@
 
 ![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp1.png)
 
+--------
+
+![284aa84a9411_906x514](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe942d7af-dfa6-4d73-9492-284aa84a9411_906x514.png)
+
 -----------
 ---------------
 
@@ -3092,11 +3096,10 @@ Data Center and Cloud Networking
 
 --------
 ![Hype-Cycle-for-Cloud-Computing-2012](https://cdn.ttgtmedia.com/rms/onlineImages/Hype-Cycle-for-Cloud-Computing-2012.jpg)
-------------
-![I37IBmaqAs16wVWrwwXzkoNrRqpdoWrY5RGnamA1w7xQZY](https://lh3.googleusercontent.com/proxy/I37IBmaqAs16wVWrwwXzkoNrRqpdoWrY5RGnamA1w7xQZYjlT9zPWMbAC0czN9x0S8Zj3qW1or1IaA4jSrJaQpUsVAPDVBkR1Mc0m_8IQybmsQmOWNPNZifPXFI5bXhT_cmIDYvXpaLSDFo94tbMduqKsp6fh3ijPuqNXi7Z)
 
 ---------------
-![PUB-35143-Infrastructure-3200x2133](https://www.hpe.com/content/dam/hpe/shared-publishing/storage/resourceLandscape/PUB-35143-Infrastructure-3200x2133.jpg)
+![PUB-35143-Infrastructure](https://www.hpe.com/content/dam/hpe/shared-publishing/storage/resourceLandscape/PUB-35143-Infrastructure-3200x2133.jpg)
+
 ---------------
 ![jpg?width=3588&name=Figure1%20(29)](https://info.keyfactor.com/hs-fs/hubfs/Figure1%20(29).jpg?width=3588&name=Figure1%20(29).jpg)
 
@@ -3223,10 +3226,7 @@ Low-Code Application Platforms
 
 ----------
 ![frame](https://voximplant.com/assets/images/2020/01/21/frame-6.jpg)
--------
-![aiops-blog-image](https://blogs.bmc.com/wp-content/uploads/2019/12/aiops-blog-image.jpg)
--------
-![evolve-your-aiops-stage](https://blogs.bmc.com/wp-content/uploads/2019/12/evolve-your-aiops-stage.jpg)
+
 -----------
 
 #### IT4IT/DevOps Landscape
@@ -3361,6 +3361,7 @@ Typical Business Process
 
 ----
 ![ts_img1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ts_img1.svg)
+
 --------
 
 ERP Development from Scratch (Technologies)
@@ -3381,7 +3382,7 @@ ERP Development from Scratch (Technologies)
   - React
   - Vue.js
 
-Example: Tesla doesnt' use any vendor provided Off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
+Example: Tesla doesnt' use any vendor provided off-the-shelf ERP solutions, [they have built their own in-house ERP system called Warp which is used to plan, procure and produce cars.](https://www.quora.com/Why-did-Tesla-choose-to-develop-an-in-house-ERP-solution-as-opposed-to-buying-off-the-shelf-solutions-What-does-that-mean-for-companies-like-SAP-who-develop-off-the-shelf-ERP-solutions) 
 
 Tesla tech stack
 
@@ -3430,10 +3431,14 @@ Software Engineering & Application Development Technologies
 ![map](https://raw.githubusercontent.com/AlaaAttya/software-architect-roadmap/master/images/map.png)
 
 --------------------
-![intro](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png)
+
+
+
+![SD_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/SD_roles.png)
 
 --------
-![SD_roles](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/SD_roles.png)
+
+![intro](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/intro.png)
 
 ----------
 ![frontend](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/frontend.png)
@@ -3475,8 +3480,12 @@ Software Engineering & Application Development Technologies
 ![java-developer-roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap/master/java-developer-roadmap.png)
 
 -------
-![SAPCloudPlatformBackendDeveloperRoadmap2021](https://raw.githubusercontent.com/Consolvis/SAP-Cloud-Platform-Backend-Developer-Roadmap/main/SAPCloudPlatformBackendDeveloperRoadmap2021.png)
+![SAPCloudPlatformBackendDeveloperRoadmap2021](https://blogs.sap.com/wp-content/uploads/2020/12/SAPBusinessTechnologyPlatformDeveloperRoadmap2021-Teil1.png)
 
+-------
+![SAPBusinessTechnologyPlatformDeveloperRoadmap2021](https://blogs.sap.com/wp-content/uploads/2020/12/SAPBusinessTechnologyPlatformDeveloperRoadmap2021-Teil2.png)
+-------
+![SAPBusinessTechnologyPlatformDeveloperRoadmap2021](https://blogs.sap.com/wp-content/uploads/2020/12/SAPBusinessTechnologyPlatformDeveloperRoadmap2021-Teil3.png)
 
 -----------
 ------------
@@ -3549,11 +3558,6 @@ ERP Development from Scratch (Cost Breakdown)
 
 <table id="tablepress-32" class="tablepress tablepress-id-32"><thead><tr class="row-1 odd"><th class="column-1">Stage</th><th class="column-2">Cost</th></tr></thead><tbody class="row-hover"><tr class="row-2 even"><td class="column-1">Development</td><td class="column-2">$430 000</td></tr><tr class="row-3 odd"><td class="column-1">Interconnection (APIs)</td><td class="column-2">$46 200</td></tr><tr class="row-4 even"><td class="column-1">Data Migration</td><td class="column-2">$32 200</td></tr><tr class="row-5 odd"><td class="column-1">Tests</td><td class="column-2">$16 000</td></tr><tr class="row-6 even"><td class="column-1">Deployment and Training</td><td class="column-2">$11 200</td></tr></tbody><tfoot><tr class="row-7 odd"><th class="column-1">Total</th><th class="column-2">$535 600</th></tr></tfoot></table>
 
----------
-![digital_transformation1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/digital_transformation1.png)
-
-------
-![SAP_Implementation_process](https://manufacturing-software-blog.mrpeasy.com/wp-content/uploads/2017/01/SAP_Implementation_process-data_diagram.png)
 -------
 ![screen-shot-2019-01-07-at-6.30.36-am](https://www.abvt.com.au/wp-content/uploads/2019/01/screen-shot-2019-01-07-at-6.30.36-am.png)
 -----
@@ -3572,33 +3576,25 @@ ERP Development from Scratch (Cost Breakdown)
 - [Reinventing SAP on AWS: Scale & Simplify SAP Operations on AWS](https://www.slideshare.net/AmazonWebServices/reinventing-sap-on-aws-scale-simplify-sap-operations-on-aws)
 
 ![innovationblogpost](https://d2908q01vomqb2.cloudfront.net/17ba0791499db908433b80f37c5fbc89b870084b/2020/12/11/innovationblogpost-1024x535.png)
---------
-![675215952](https://image.slidesharecdn.com/sap-solutions-on-aws-overvie-545b0c90-abc8-4316-aadf-56f62d88f78e-675215952-171002141601/95/sap-solutions-on-aws-overview-2-1024.jpg?cb=1507112528)
--------
-![74936i569C29830EA2AED6](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/74936i569C29830EA2AED6?v=1.0)
+
 ----------
 ![SAP-2-image-2](https://www.microsoft.com/en-us/us-partner-blog/wp-content/uploads/sites/11/2020/03/SAP-2-image-2.png)
 ----------
 ![SAP_roadmap](https://bluesoft.com/wp-content/uploads/2020/04/SAP_roadmap-1.png)
-------------
-![sapjourney](https://azurecitadel.com/specialised/sapjourney/images/sapjourney.jpg)
--------
-![sap-eco-apps-on-azure-1](https://scheer-nederland.com/wp-content/upload_folders/scheer-nederland.com/sap-eco-apps-on-azure-1.png)
----------
-![slide_4](https://images.slideplayer.com/41/11146190/slides/slide_4.jpg)
+
 ---------
 ![final-project-picture](https://lims0195.files.wordpress.com/2014/04/final-project-picture.png)
 -----------
 ![ERPplatform](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/ERPplatform.png)
 -------
 
-Client Demo/Transformation Journey Tools/:
+##### Client Demo/Transformation Journey Tools:
 
 - [SAP Model Company](https://open.sap.com/courses/mod1/items/6mTiNGLr0l1XPvsjF70ljM) | ***[Industry Solution Navigator](https://d.dam.sap.com/a/1tb93Xw/17072019_14719_SAP_Model_Company_Recommender.pdf)*** | [Demos](https://www.youtube.com/c/SAPIndustries/playlists)
 - [SAP Transformation Navigator](https://open.sap.com/courses/tn1) | [LoB Solution Navigator](https://go.support.sap.com/transformationnavigator/#/welcome)
 - [Developer Insights 2020 Survey Results](https://developers.sap.com/insights-survey-results.html)
 - [LearningHubLiveSessions](https://cdn.training.sap.com/cdn/pdf/LearningHubLiveSessions.pdf)
-- [LH Editions](SAP Learning Hub, solution editions) | [LH Catalogue](https://url.sap/p8vl2j)
+- [LH Catalogue](https://url.sap/p8vl2j)
 - [User Enablement - Interactive](https://blogs.sap.com/2017/03/12/key-and-end-user-enablement/)
 - [SAP Cheat Sheet-2020](https://blogs.sap.com/2020/11/12/sap-cheat-sheet-special-edition-sap-teched-in-2020/)
 - [SAP (HANA) Cheat Sheet](https://blogs.sap.com/2020/05/09/sap-hana-cheat-sheet/)
@@ -3823,8 +3819,7 @@ SAP Portfolio
 ![BTP_decouple2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_decouple2.png)
 -----
 ![BTP_Future](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_Future.png)
---------
-![BTP_S41](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S41.png)
+
 -----
 ![BTP_S42](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/BTP_S42.png)
 ------
@@ -3986,10 +3981,6 @@ SAP Portfolio
 ----------
 ![btp14](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp14.PNG)
 ---------
-![ap2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap2.jpg)
-------
-![ap1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/ap1.jpg)
----------
 ![btp15](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp15.PNG)
 ------
 ![techedbusinesstechnologyplatform](https://www.constellationr.com/sites/default/files/uploads/sap-intelligent-enterprise-techedbusinesstechnologyplatform.png)
@@ -4082,10 +4073,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	A&D Space
 	                  - 	Account Servicing
 	                  - 	Accounting & Financial Reporting Standards
-	                  - 	ACI InterACT Universal Banker
-	                  - 	ACI Payment Systems Base24-EPS
-	                  - 	ACI Universal Payment BASE24-Classic
-	                  - 	ACPS - EPDS
 	                  - 	ACPS Product Lifecycle Management
 	                  - 	Active Directory (AD)
 	                  - 	Active Directory Management
@@ -4161,8 +4148,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Agribusiness
 	                  - 	Agro chemicals
 	                  - 	Air Freight
-	                  - 	Akumina
-	                  - 	Alcoholic Beverages
 	                  - 	Alibaba Cloud Algorithmic Service Platform (AIMaster)
 	                  - 	Alibaba Cloud API Elastic Algorithm Service
 	                  - 	Alibaba Cloud DataHub
@@ -4179,8 +4164,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Alibaba Cloud Quick BI
 	                  - 	Alibaba Data Lake Analytics
 	                  - 	Alibaba MaxCompute
-	                  - 	ALIP Development
-	                  - 	ALIP Life & Annuity Functional
 	                  - 	Allegro Class Events
 	                  - 	Allegro Coal Logistics
 	                  - 	Allegro Credit
@@ -5032,25 +5015,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Drug Discovery & Research Solutions
 	                  - 	DTC Sales Transformation
 	                  - 	DTC Service Transformation
-	                  - 	Duck Creek Author
-	                  - 	Duck Creek Billing Product
-	                  - 	Duck Creek Claims
-	                  - 	Duck Creek Claims Components Application Architecture
-	                  - 	Duck Creek Claims Components Event Processor
-	                  - 	Duck Creek Claims Components Forms and Correspondence
-	                  - 	Duck Creek Claims Components Integration
-	                  - 	Duck Creek Claims Components Organization and Auto Assignment
-	                  - 	Duck Creek Claims Components Pattern Analysis
-	                  - 	Duck Creek Claims Components Reporting and Supervisor Dashboard
-	                  - 	Duck Creek Claims Components Service Portal
-	                  - 	Duck Creek Claims Components Task Assistant
-	                  - 	Duck Creek Claims Configuration
-	                  - 	Duck Creek EXAMPLE
-	                  - 	Duck Creek Insurance Products
-	                  - 	Duck Creek Platform Product
-	                  - 	Duck Creek Policy
-	                  - 	Duck Creek Product Studio
-	                  - 	Duck Creek TAC
 	                  - 	Dynamic & Online Pricing Strategy
 	                  - 	Dynamic Application Security Testing (DAST)
 	                  - 	Dynatrace Administration
@@ -5647,9 +5611,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	IPSoft Amelia
 	                  - 	Iron & Steel
 	                  - 	ISO Security Standards
-	                  - 	ISO27002
-	                  - 	Issue Management
-	                  - 	Istio
 	                  - 	IT Capability Assessment
 	                  - 	IT Disaster Recovery Planning
 	                  - 	IT Governance
@@ -5661,10 +5622,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	IT Strategy
 	                  - 	IT Supplier Management Strategy and Assessment
 	                  - 	ITIL Strategy and Assessment
-	                  - 	IXO IOT Applications
-	                  - 	IXO IOT Devices
-	                  - 	JaCoCo
-	                  - 	Jasmine
 	                  - 	Java 2 Micro Edition (J2ME)
 	                  - 	Java API for RESTful Web Services (JAX-RS)
 	                  - 	Java API for XML Binding (JAXB)
@@ -6650,14 +6607,9 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Oracle WebCenter Portal
 	                  - 	Oracle x86
 	                  - 	Oracle-BI (OBIA)
-	                  - 	Order Fulfillment Planning
-	                  - 	Order Management
-	                  - 	Order Management Systems (OMS)
-	                  - 	Order to Cash
 	                  - 	Organization Strategy
 	                  - 	Organizational Analytics
 	                  - 	Organizational Design & Architecture
-	                  - 	OSIsoft PI
 	                  - 	OT (Operational Technology) Security
 	                  - 	OT Anomaly & SIEM
 	                  - 	OT Anomaly & SIEM Operations
@@ -6697,9 +6649,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Partner Relationship Management (PRM)
 	                  - 	Passenger Rail Operations
 	                  - 	Password Management Operations
-	                  - 	Patient Flow
-	                  - 	Patient Satisfaction
-	                  - 	Patient Services
 	                  - 	Payer Claims Payment Integrity
 	                  - 	Payer Claims Processing
 	                  - 	Payer Eligibility & Enrollment
@@ -6775,17 +6724,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	Performance & Scalability Design
 	                  - 	Performance Monitoring
 	                  - 	Performance Testing Strategy
-	                  - 	Personal and Unsecured Lending
-	                  - 	Personal Banking
-	                  - 	Personal Insurance
-	                  - 	Petrochemicals
-	                  - 	Pharma Distributors and Wholesalers
-	                  - 	Pharma R&D Clinical Systems
-	                  - 	Pharma R&D IT Strategy
-	                  - 	Pharmaceuticals
-	                  - 	Pharmacovigilance
-	                  - 	Pharmacovigilance & Drug Safety Surveillance
-	                  - 	Pharmacovigilance & Safety Reporting
 	                  - 	Phone Banking
 	                  - 	PHP Programming Language
 	                  - 	Physical Cash and Checks
@@ -8071,19 +8009,12 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ------------
 ![gcp-data](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cloud/gcp-data3.png)
 
---------------------
-
-![db1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db1.png)
--------
-![db2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db2.png)
-
------------
-
-![db3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/db3.png)
----------
-![SAP-HANA-Platform](https://www.zarantech.com/blog/wp-content/uploads/2017/04/SAP-HANA-Platform.png)
 ----------
-![52f31bf41bd150a4225b09a3234e16ba](https://i.pinimg.com/originals/52/f3/1b/52f31bf41bd150a4225b09a3234e16ba.png)
+![/data-lifecycle-1](https://cloud.google.com/architecture/images/data-lifecycle-1.svg)
+
+---------
+![SAP-HANA-Platform](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dbaas.png)
+
 -----------
 ![Database-security-features-Comparison](https://www.researchgate.net/profile/Awad-Awadelkarim/publication/315736923/figure/tbl9/AS:667868656070671@1536243704735/Database-security-features-Comparison.png)
 ----------
@@ -8148,7 +8079,10 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 [Back to top](#contents)
 
-![connectors_MI](https://www.1eq.com/html/version7.1/resources/images/connectors_MI.png)
+![connectors_MI](https://www.cetrixcloudservices.com/hs-fs/hubfs/2018/2018_Blog_images/Fig%202.%20Enterprise%20service%20bus%20integration%20.png?width=600&name=Fig%202.%20Enterprise%20service%20bus%20integration%20.png)
+
+--------
+![business-connectivity](https://www.innovativearchitects.com/KnowledgeCenter/business-connectivity/images/ESB.png)
 
 ------------
 ![dg9](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/dg9.png)
@@ -8194,9 +8128,7 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 ![gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-18-1024.jpg?cb=1492757773)
 -------------
 ![gartner-why-you-need-a-hybrid-integration](https://image.slidesharecdn.com/massimopezzini04-19-170421064415/95/gartner-why-you-need-a-hybrid-integration-platform-and-how-you-build-one-20-1024.jpg?cb=1492757773)
--------
 
-![sap1](https://www.sothis.tech/wp-content/uploads/2020/02/sap1.png)
 ----------
 ![figure01](https://developer.ibm.com/developer/default/articles/cl-ipaas-next-generation-of-esb1/images/figure01.png)
 ----------
@@ -8322,14 +8254,13 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 -----
 ![Comparison-of-different-IoT-protocols-Source-cisco](https://www.researchgate.net/publication/275255760/figure/tbl1/AS:669334150082563@1536593105880/Comparison-of-different-IoT-protocols-Source-cisco.png)
----------
-![article-inline_image-shrink_1000_1488](https://media-exp1.licdn.com/dms/image/C5612AQGJeInAsIsLQQ/article-inline_image-shrink_1000_1488/0?e=1611792000&v=beta&t=7Ap4lZn8y--GWmJYZUoMMq2Bu5x6MIe2svk5jRW2GJs)
+
 -------
 ![Simon_ford_arm_and_the_open_internet_of_things12](https://www.postscapes.com/wp-content/uploads/2018/03/Simon_ford_arm_and_the_open_internet_of_things12.png)
 -------
 ![smarthomes-usecase-big1](https://www.c2m.net/ui/images/vertcl-benfts/smarthomes-usecase-big1.gif)
 ------
-![testBed](https://iotanalytics.unsw.edu.au/images/testBed.png)
+![testBed](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/iot2.png)
 ------
 ![accesstwine4smarthome](https://eu.access-company.com/tl_files/img/products/twine4sh/accesstwine4smarthome-1.jpg)
 --------
@@ -8718,8 +8649,7 @@ Use Cases
 ![composite-bi-bw-sap-hana-edw-architecture](https://cdn.visualbi.com/wp-content/uploads/composite-bi-bw-sap-hana-edw-architecture.jpg)
 ---------------
 ![modificationDate](https://wiki.scn.sap.com/wiki/download/attachments/484941719/SAC%20Overview.jpg?version=1&modificationDate=1554808239000&api=v2)
-----------------
-![LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU](https://media-exp1.licdn.com/dms/image/C5612AQEdHaDNbtuMUg/article-inline_image-shrink_1000_1488/0/1539148820380?e=1616025600&v=beta&t=LXidpLZYCXV0C1hir0y6QcrlAnhzchkDKJQBh78vJKU)
+
 -------------
 ![Snag_2f541c9c](https://saphanajourney.com/wp-content/uploads/2021/01/Snag_2f541c9c-2048x1044.png)
 ---------
@@ -8981,6 +8911,7 @@ AIOps
 
 -----------------
 ![AIOps-Platform](https://www.orb-data.com/wp-content/uploads/2020/06/AIOps-Platform.png)
+
 --------
 ![PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic](https://blogs.gartner.com/smarterwithgartner/files/2017/11/PR_050_326127-Steps-to-AI-Ops-Excellence-Infographic.png)
 -----
@@ -9001,8 +8932,7 @@ AIOps
 
 -----------
 -----------
-![anomalousspandetectionlowres](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-2-1024.jpg?cb=1570373728)
---------
+
 ![anomalous](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-3-1024.jpg?cb=1570373728)
 ---------
 ![191006145419](https://image.slidesharecdn.com/2019-09-29-aiops-anomalousspandetectionlowres-191006145419/95/aiops-anomalous-span-detection-in-distributed-traces-using-deep-learning-4-1024.jpg?cb=1570373728)
@@ -9149,12 +9079,12 @@ RPA
 -------
 ![MLOpsFlow](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/MLOpsFlow.jpg)
 -----------
-![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg)
+![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg?hl=da)
 ---------
 
 #### ML pipeline using CI/CD
 
-![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/solutions/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
+![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg?hl=da)
 --------------
 ![MLOps_Train_Deploy_TestModel](https://github.com/awslabs/amazon-sagemaker-mlops-workshop/blob/master/imgs/MLOps_Train_Deploy_TestModel.jpg)
 --------------
