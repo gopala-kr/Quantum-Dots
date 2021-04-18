@@ -1170,6 +1170,13 @@
 [Back to top](#contents)
 
 - [Global Company Dataset with over 7+ Million Company profiles](https://www.peopledatalabs.com/company-dataset)
+- [The Global Innovation Index (GII)](https://www.globalinnovationindex.org/Home)
+- [Global Innovation Index 2020 - Who Will Finance Innovation?](https://www.wipo.int/global_innovation_index/en/2020/)
+- [Startup Ecosystems in 2020: Ranking 1,000 Cities and 100 Countries](https://about.crunchbase.com/blog/top-startup-ecosystems-in-2020-ranking-1000-cities-and-100-countries/)
+- [Startup Index of Nations & Regions](https://www.marshall.usc.edu/faculty-research/centers-excellence/center-global-innovation/startup-index-nations-regions)
+- [MIT 50 Smartest Companies](https://www.technologyreview.com/lists-tr50/what-are-the-50-smartest-companies/)
+- [Ranked: The 50 Most Innovative Companies](https://www.visualcapitalist.com/top-50-most-innovative-companies-2020/)
+- [Largest Companies by Market Cap](https://companiesmarketcap.com/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1227,6 +1234,20 @@
 -------
 ![832c8b673bfe561fa828f6a290c21bfb](https://i.pinimg.com/originals/83/2c/8b/832c8b673bfe561fa828f6a290c21bfb.png)
 
+--------
+----------
+![g116](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g116.png)
+
+------
+![g1](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g1.png)
+
+-------
+![g25](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g25.png)
+
+-------
+
+![csp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/csp1.png)
+
 -----------
 ---------------
 
@@ -1258,6 +1279,52 @@
 ---------
 ![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
+----------------
+--------------
+#### [Industrial Disruption Index](https://www.slideshare.net/accenture/gauging-business-disruption-with-the-disruptability-index-accenture-190659233)
+
+- [How Likely Is Your Industry to Be Disrupted? This 2×2 Matrix Will Tell You](https://hbr.org/2018/01/how-likely-is-your-industry-to-be-disrupted-this-2x2-matrix-will-tell-you)
+
+-------------
+![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/6/DISRUPTABILITY+INDEX+2.0.jpg)
+------------
+![DISRUPTABILITY+INDEX+2.0.jpg](https://slideplayer.com/slide/17561877/103/images/7/DISRUPTABILITY+INDEX+2.0.jpg)
+-------
+![/DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/8/DISRUPTABILITY+INDEX+2.0.jpg)
+
+---------
+![Bramblet_Disruptability_Post2_Img1](https://i0.wp.com/insuranceblog.accenture.com/wp-content/uploads/2020/06/Bramblet_Disruptability_Post2_Img1.png?ssl=1)
+----------
+
+![W180109_ABBOSH_THE_FOUR](https://hbr.org/resources/images/article_assets/2018/01/W180109_ABBOSH_THE_FOUR.png)
+-----
+![Accenture-infographic-360-live.pngla=en](https://www.accenture.com/t20180409T173206Z__w__/dk-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Local/dk-en/Accenture-infographic-360-live.pngla=en)
+
+
+------------
+![ccenture-Good-Things-Come-Graph1](https://www.accenture.com/t20190717T085956Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/Blogs/Images/42/Accenture-Good-Things-Come-Graph1.pngla=en)
+
+-------------------
+
+
+![Good-Things-Come-Graph2](https://www.accenture.com/t20190717T085958Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/Blogs/Images/42/Accenture-Good-Things-Come-Graph2.pngla=en)
+
+-----------
+![Disruptability-Index-Industry-Sector-Matrix-mobile](https://www.accenture.com/_acnmedia/Thought-Leadership-Assets/Images/disruptability-index/Accenture-Disruptability-Index-Industry-Sector-Matrix-mobile.jpg)
+
+
+---------
+![New-Energy-Blog-Disruption-v2](https://www.accenture.com/t20180524T145350Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/Global/Dualpub_188/Accenture-New-Energy-Blog-Disruption-v2.jpg)
+
+------------
+![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/15/DISRUPTABILITY+INDEX+2.0.jpg)
+--------
+![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/16/DISRUPTABILITY+INDEX+2.0.jpg)
+--------
+![/DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/22/DISRUPTABILITY+INDEX+2.0.jpg)
+
+--------
+![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/23/DISRUPTABILITY+INDEX+2.0.jpg)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
