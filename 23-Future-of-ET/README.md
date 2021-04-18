@@ -137,7 +137,8 @@
     - Mars Economics
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
-- **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)**
+- **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)** 
+    - Digitize -> Digitalize -> Digitally Transform -> Digitally Disrupt
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
   - **[Digital Transformation Technologies](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/Tech)** -- Analysis on Gartner-2019-20-21 Hype Cycles
     - ERP 
@@ -232,6 +233,7 @@
     - Unified Communications and Collaboration 
     - User Experience 
   - **[Digital Technology Skills and Practices](#technology-skills-and-practices)**
+  - **[Technology Applied - Use Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/tech-use-cases.md)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
@@ -989,6 +991,8 @@
 ![waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt](https://upload.wikimedia.org/wikipedia/commons/e/e4/Kondratiev-waves_IT_and_Health_with_phase_shift_acc_to_Goldschmidt-AJW_2004.jpg)
 
 -----------
+#### The Great Accelerations
+
 ![GreatAccelerationEarthSystemTrends](https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthropocene-GreatAccelerationEarthSystemTrends-1750-2010.png)
 
 ----------
@@ -1007,7 +1011,7 @@
 ![great_accel](https://futureearth.org/wp-content/uploads/2015/01/great_accel-12graph-ES.png)
 
 --------
-![economy-killing-earth-18](https://static.secure.website/wscfus/8025341/7632127/economy-killing-earth-18.png)
+![economy-killing-earth-18](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/velocity.png)
 -----
 ![big_picture_2](https://static.secure.website/wscfus/8025341/uploads/big_picture_2.png)
 
