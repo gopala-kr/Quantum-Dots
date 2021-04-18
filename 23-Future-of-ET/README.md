@@ -1954,8 +1954,7 @@
 -----------
 ![three_months_strategic_it_enterprise_architecture_roadmap_slide01](https://www.slideteam.net/media/catalog/product/cache/960x720/t/h/three_months_strategic_it_enterprise_architecture_roadmap_slide01.jpg)
 
---------
-![1512134615206](https://ppeaem.cebglobal.com/content/cebglobal/us/en/information-technology/architecture/ea-in-a-box/_jcr_content/content-left/columncontainer/columns_par2/cebimagebox/image.img.jpg/1512134615206.jpg)
+
 
 ----------
 ![Diagram-2-2017-05-2](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png)
@@ -2098,6 +2097,8 @@ Typical Team Structure
 ![rfp1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rfp1.png)
 ----
 ![rfp3](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rfp3.png)
+-------
+![Long-Hard](https://blogs.gartner.com/hank-barnes/files/2018/09/Long-Hard-Slog.png)
 ------
 ![rfp4](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/rfp4.png)
 --------
