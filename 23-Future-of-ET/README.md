@@ -68,7 +68,7 @@
     - **[Telecommunication](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Media & Entertainment**
+    - **[Media & Entertainment](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/met)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **Travel & Hospitality**
@@ -1236,6 +1236,8 @@
 
 --------
 ----------
+![nt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/nt1.png)
+-----------
 ![g116](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g116.png)
 
 ------
