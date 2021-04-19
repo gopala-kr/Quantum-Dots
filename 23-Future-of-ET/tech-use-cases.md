@@ -6946,6 +6946,7 @@ By 2020, predictive and prescriptive analytics will attract 40% of enterprises' 
 Demand forecasting: analytical capabilities and tools to segment and assign the best forecasting profile to improve predictions of future sales by as much as 10-20 percent. Inventory optimization: reduce inventory by up to 20 percent and provide dynamic safety stock and replenishment order sizes, while ensuring customer service levels. Spare parts optimization: helps inventory reduction by 20-40 percent.
 
 Historically, companies have invested billions to personalize their customer experiences. Traditional investments have paved the way to the next level of personalization, which infuses tailored experiences with customer intelligence. Such intelligent personalization aims to address consumers’ demands for tailored experiences. 
+
 ------------------
 
 CONVERSATIONAL INTERFACES
