@@ -1,4 +1,6 @@
 ![tc1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/tc1.png)
+-------
+![nt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/nt1.png)
 
 -------------
 - [https://internet-map.net/](https://internet-map.net/)
