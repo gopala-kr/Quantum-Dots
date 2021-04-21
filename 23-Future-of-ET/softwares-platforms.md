@@ -280,9 +280,4 @@
 --------------
 ![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42137.png)
 --------------
-![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42138.png)
---------------
-![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42139.png)
---------------
-![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42140.png)
---------------
+------------
