@@ -277,7 +277,6 @@
 ![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42135.png)
 --------------
 ![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42136.png)
---------------
-![421](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sp/42137.png)
+
 --------------
 ------------
