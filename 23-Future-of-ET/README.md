@@ -7533,29 +7533,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	User Interface Development Solutions
 	                  - 	User Interface Usability Test & Tools
 	                  - 	User Provisioning
-	                  - 	User Research
-	                  - 	Utilities Asset Investment Planning
-	                  - 	Utilities Connected Energy Services
-	                  - 	Utilities Customer Analytics
-	                  - 	Utilities Customer Platforms and Customer Solutions
-	                  - 	Utilities Customer Strategy
-	                  - 	Utilities Customer Transformation
-	                  - 	Utilities Distributed Energy Resources (DER)
-	                  - 	Utilities Electrical Power Quality
-	                  - 	Utilities Emergency Management
-	                  - 	Utilities Field Worker Transformation
-	                  - 	Utilities Intelligent Customer Services
-	                  - 	Utilities Marketing and Sales
-	                  - 	Utilities Retail
-	                  - 	Utilities Retail Market Interaction
-	                  - 	Value Added Postal Services
-	                  - 	Value Architecture & Realization
-	                  - 	Value at Risk (VaR)
-	                  - 	Value Based Care
-	                  - 	Veeva
-	                  - 	Veeva CRM
-	                  - 	Veeva Vault
-	                  - 	Veracode Application Security Suite
 	                  - 	Versa Software Defined Wide Area Network
 	                  - 	Vidado AI Platform
 	                  - 	Video and Content Analytics
@@ -7757,23 +7734,6 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 	                  - 	XML Schemas
 	                  - 	XPath and XQuery
 	                  - 	Zafin Solutions
-	                  - 	ZBO Category Ownership
-	                  - 	ZBO Control & Monitoring
-	                  - 	ZBO Planning & Budgeting
-	                  - 	ZBO Value Targeting
-	                  - 	ZBO Visibility
-	                  - 	ZBS Budgeting
-	                  - 	ZBS Category Ownership
-	                  - 	ZBS Change Management
-	                  - 	ZBS Control & Monitoring
-	                  - 	ZBS Execution Value Realization
-	                  - 	ZBS Value Targeting
-	                  - 	ZBS Visibility
-	                  - 	ZBSC Category Ownership
-	                  - 	ZBSC Control & Monitoring
-	                  - 	ZBSC Planning & Budgeting
-	                  - 	ZBSC Value Targeting
-	                  - 	ZBSC Visibility
 	                  - 	Zero Based Budgeting (ZBB)
 	                  - 	Zero Based Marketing (ZBM)
 	                  - 	Zero Based Organization (ZBO)
@@ -9250,6 +9210,88 @@ RPA
 ![OSA_Security_Landscape_V010](http://www.opensecurityarchitecture.org/cms/images/OSA_images/OSA_Security_Landscape_V010.png)
 ------------------
 ![osa_metamodel_v003](https://www.opensecurityarchitecture.org/cms/images/OSA_images/osa_metamodel_v003.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+#### xOps - DevOps, DataOps, MLOps, ModelOps..... All Ops
+
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops1.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops2.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops3.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops4.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops5.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops6.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops7.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops8.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops9.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops10.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops11.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops12.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops13.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops14.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops15.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops16.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops17.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops18.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops19.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops20.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops21.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops22.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops23.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops24.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops25.png)
+
+----
+![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops26.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
