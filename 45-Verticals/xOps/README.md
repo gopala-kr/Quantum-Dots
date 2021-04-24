@@ -1,6 +1,12 @@
+
+-------------------
+#### xOPS - DevOps/DevSecOps, DataOps, MLOps/ModelOps, ChatOps, AIOps..  AllITOps
+
+
 ![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops105.png)
 -----------
 ![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops106.png)
+
 -----------
 
 ![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops107.png)
@@ -69,7 +75,33 @@
 
 ![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops130.png)
 -----------------
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops131.png)
+-----------
 
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops132.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops133.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops134.png)
+-----------
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops135.png)
+-----------
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops136.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops137.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops138.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops139.png)
+-----------
+
+![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops140.png)
+-----------------
 ![ops105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops141.png)
 
 -----------
