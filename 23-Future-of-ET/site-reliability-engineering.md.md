@@ -15,7 +15,53 @@
 10.  All Other Ops
 
 -----------
+![sre1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre1.png)
+--------
+![sre2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre2.png)
+--------
+![sre3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre3.png)
+-----
+![sre4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre4.png)
+--------
+![sre6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre6.png)
+-------
+![sre7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre7.png)
+-----------
+![sre8](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre8.png)
 
+------------
+--------------
+
+![ops144](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops144.png)
+
+----------
+![ops145](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops145.png)
+
+--------
+![ops146](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops146.png)
+
+------------
+----------
+
+![ops201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops201.png)
+---------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops202.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops203.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops204.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops205.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops206.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops207.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops208.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops209.png)
+------------
+![ops202](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops210.png)
 
 ------------
 ---------------
