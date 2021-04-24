@@ -1,18 +1,32 @@
 
 -------------------
-#### Site Reliability Engineering (SRE) - Best Practices
+#### [Site Reliability Engineering (SRE) - Best Practices](https://sre.google/sre-book/table-of-contents/)
 
 -----------------
-1.  SRE
-2.  xOps
-3.  DevNetOps
-4.  DevOps
-5.  DevSecOps
-6.  DataOps
-7.  MLOps/ModelOps
-8.  ChatOps
-9.  AIOps..  
-10.  All Other Ops
+
+        - SRE
+        - xOps
+        - DevNetOps
+        - DevOps
+        - DevSecOps
+        - DataOps
+        - MLOps/ModelOps
+        - ChatOps
+        - AIOps..  
+        - All Other Ops
+
+-------------------
+
+![sre100](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre100.png)
+
+--------------
+
+![image](https://user-images.githubusercontent.com/4322266/115967461-637c7680-a550-11eb-8702-f197cbabbfdb.png)
+
+
+--------------
+
+![image](https://user-images.githubusercontent.com/4322266/115967363-ebae4c00-a54f-11eb-9e48-eaac4aa9610e.png)
 
 -----------
 ![sre1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre1.png)
@@ -29,7 +43,34 @@
 -----------
 ![sre8](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre8.png)
 
+---------
+![sre28](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre28.png)
 
+-----------
+![sre23](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre23.png)
+----------
+![sre21](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre21.png)
+------
+![sre22](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre22.png)
+
+-----------
+![sre24](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre24.png)
+
+------
+![sre25](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre25.png)
+----------
+![sre26](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre26.png)
+-------
+![sre27](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre27.png)
+
+---------
+![sre29](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre29.png)
+----------
+![sre30](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre30.png)
+-------
+![sre31](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre31.png)
+----------
+![sre32](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre32.png)
 
 ------------
 --------------
@@ -41,6 +82,9 @@
 
 --------
 ![ops146](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops146.png)
+
+
+
 
 --------
 ---------
@@ -609,6 +653,229 @@
 ![ops301](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops321.png)
 --------
 ![ops301](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops322.png)
+
+-------------
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre51.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre52.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre53.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre54.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre55.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre56.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre57.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre58.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre59.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre60.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre61.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre62.png)
+----------------
+![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre63.png)
+
+-----------
+-----------
+
+        - Agile Architecture
+        - Agile Budgeting
+        - Agile Development Methodologies
+        - Agile Metrics
+        - Agile Management Tools
+        - Agile Portfolio Management
+        - Agile Project Management
+        - Agile Tools and Methodologies
+        - Application Design and Architecture
+        - Application Development
+        - Application and Infrastructure
+        - Application Performance Monitoring
+        - Application Security
+        - Architecture Concepts
+        - Back-End Technologies
+        - Behavior Driven Development
+        - Big Data & Analytics
+        - Big Data Technologies
+        - Business Analysis
+        - Business Intelligence
+        - Change Management
+        - CI/CD Methods
+        - Cloud Development
+        - Cloud Fundamentals
+        - Cloud Security Fundamentals
+        - Coding Principles
+        - Communication Skills
+        - Communications Strategy
+        - Compliance & PCI
+        - Conflict Management
+        - Creating Security Controls & Policies
+        - Cultural Stewardship
+        - Data Analytics
+        - Data Architecture
+        - Data Modeling
+        - Database Knowledge
+        - Database System Architecture
+        - Delegation and Prioritzation
+        - Development Lifecycle
+        - Development Languages
+        - Design Patterns
+        - Design Thinking
+        - DevOps Practices
+        - DevSecOps Practices 
+        - Digital Content Management
+        - Digital Marketing
+        - Digital Media Production
+        - Distributed Systems and Messaging
+        - Emerging Technology Research
+        - Enterprise Architecture
+        - Event Driven Architecture
+        - Extreme Programming (XP)
+        - Facilitation & Coaching
+        - Financial Awareness (P&L/COGS)
+        - Financial Management
+        - Forecasting
+        - Front-End Technologies
+        - GCP
+        - Governance
+        - IaaS, SaaS, PaaS Solutions
+        - IC Agile Coaching Track / Certification
+        - Information Architecture 
+        - Infrastructure Solutions
+        - Infrastructure & Housing
+        - IT Service Management
+        - IT Strategic Planning
+        - IT Strategy and Management
+        - Leadership & Influence
+        - Lean Six Sigma
+        - Lean User Experience 
+        - Lean Methodology
+        - Lean Portfolio Management
+        - Marketing & Branding
+        - Message Driven Services
+        - Microservices
+        - Network Fundamentals 
+        - Network Security 
+        - Operational KPIs
+        - Pair Programming
+        - Performance Engineering & Scalability
+        - Performance Optimization
+        - Process Management
+        - Project Management
+        - Product Development
+        - Product Lifecycle Management 
+        - Product Ownership
+        - Product Thinking
+        - Project Cost & Budgeting
+        - Project Risk Analysis
+        - Rapid Experimentation
+        - Regulatory Compliance
+        - Relentless Improvement Mindset
+        - Release Management 
+        - Reporting, Metrics, & Dashboards
+        - Requirements Gathering
+        - Research & Analytics
+        - Risk Management
+        - Roadmap Creation
+        - Robustness & Maintainability 
+        - Scaling Lean and Agile
+        - Scalability
+        - Security Engineering and Cybersecurity
+        - Security Fundamentals
+        - Scrum/Kanban
+        - SAFe Agile
+        - Software Architecture
+        - Software Development Lifecycle
+        - Software Engineering
+        - Software Quality Assurance
+        - SOLID Principles
+        - Stakeholder Management
+        - Strategic Planning
+        - Strategy and Investment
+        - Storage Solutions
+        - Systems & Solutions Architecture
+        - Systems Thinking
+        - Technology Architecture
+        - Technology Research and Industry Trend Analysis
+        - Test Driven Development
+        - Troubleshooting (Dianostics of Agile Processes)
+        - User Experience
+        - UI/UX Concepts
+        - User Story Definition
+        - Value Realization
+        - Value Stream Mapping
+        - Vendor Management
+        - Video Streaming
+        - Virtualization
+        - VMG Basic Platform Architecture
+        - Web Security
+        - XUnit Framework
+
+--------------------
+
+        - Angular
+        - Ansible
+        - Apigee
+        - Artifactory
+        - AWS
+        - Azure
+        - C/C++
+        - Clarity
+        - Confluence
+        - Containers & Orchestration
+        - DDC
+        - DNS
+        - Docker
+        - Edge Computing
+        - GitHub
+        - GitLab
+        - GitOps
+        - Golang
+        - Google Suite
+        - GPG
+        - Hadoop
+        - HTTP
+        - iDaaS
+        - Java/J2EE
+        - JavaScript
+        - jBPM
+        - Jenkins
+        - Jira
+        - JSON/XML
+        - Kubernetes
+        - Linux
+        - Logging
+        - Monitoring
+        - Miro
+        - OpenStack
+        - Oracle
+        - Pega ADM
+        - Pega CSA
+        - Pega DSM
+        - PeopleSoft ERP
+        - Perl
+        - Planbox
+        - PKI
+        - Protobuf 
+        - Python
+        - Spark
+        - Spring Cloud
+        - SQL/noSQL
+        - SSH
+        - TLS/SSL
+        - TCP/IP
+        - Unix
+--------------------
+------------------
+![sre98](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre98.png)
+--------
+![sre99](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre99.png)
 
 ---------
 -------------
