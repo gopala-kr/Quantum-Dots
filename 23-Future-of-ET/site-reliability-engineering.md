@@ -16,7 +16,19 @@
         - All Other Ops
 
 -------------------
+![sre53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/xOps/sre53.png)
 
+---------
+![sre54](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/xOps/sre54.png)
+
+---------
+
+![sre55](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/xOps/sre55.png)
+
+-----------
+![sre56](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/xOps/sre56.png)
+
+---------------
 ![sre100](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre100.png)
 
 --------------
@@ -28,7 +40,9 @@
 
 ![image](https://user-images.githubusercontent.com/4322266/115967363-ebae4c00-a54f-11eb-9e48-eaac4aa9610e.png)
 
+-------------
 -----------
+
 ![sre1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre1.png)
 --------
 ![sre2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre2.png)
@@ -667,8 +681,6 @@
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre55.png)
 ----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre56.png)
-----------------
-![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre57.png)
 ----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre58.png)
 ----------------
