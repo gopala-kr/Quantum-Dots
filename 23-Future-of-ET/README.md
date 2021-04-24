@@ -68,6 +68,9 @@
     - **[Telecommunication](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
+    - **[Softwares & Platforms](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/softwares-platforms.md)**
+        - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
+        - *Product/Services:*
     - **[Media & Entertainment](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/met)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -329,10 +332,10 @@
       - Cyber Risk
   - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
   - **[Digital Workplace Services](#digital-workplace-services)**
-  - **[Software Development Practices & Tools]()**
+  - **[Software Development Practices & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
     - Software Design Patterns
-  - **[DevOps Methodology & Tools]()**
-  - **[DevSecOps Practices & Tools]()**
+  - **[DevOps Methodology & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
+  - **[DevSecOps Practices & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
   - **[Database Technology](#database-technology)**
     - DB History
     - DB Types
