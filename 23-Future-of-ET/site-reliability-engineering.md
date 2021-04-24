@@ -1,6 +1,6 @@
 
 -------------------
-#### Site Reliability Engineer (SRE) - Best Practices
+#### Site Reliability Engineering (SRE) - Best Practices
 
 -----------------
 1.  SRE
@@ -127,6 +127,29 @@
 ![ops230](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops236.png)
 ---------
 ![ops230](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops237.png)
+
+---------------
+----------
+![ops239](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops239.png)
+
+----------
+![ops240](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops240.png)
+--------
+![ops241](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops241.png)
+------
+![ops242](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops242.png)
+----------
+![ops243](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops243.png)
+----------
+![ops244](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops244.png)
+--------
+![ops245](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops245.png)
+---------
+![ops246](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops246.png)
+----------
+![ops247](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops247.png)
+----------
+![ops248](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops248.png)
 
 ------------
 ---------------
@@ -389,8 +412,31 @@
 
 ------------
 ---------------
+![ops249](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops249.png)
+--------
+![ops250](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops250.png)
+--------
+![ops251](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops251.png)
 
-#### xOps - DevOps, DataOps, MLOps, ModelOps..... All Ops
+------
+![ops252](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops252.png)
+----------
+![ops254](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops254.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops255.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops256.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops257.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops258.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops259.png)
+---------
+![ops255](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops260.png)
+
+--------------
+----------
 
 ![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops1.png)
 
