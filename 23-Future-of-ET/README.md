@@ -4098,10 +4098,64 @@ SAP Portfolio
 -------
 ![gh25](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh25.png)
 ----
-[gh24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh24.png)
+![gh24](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/gh24.png)
 
--------
+---------
 ----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml1.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml2.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml3.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml4.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml5.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml6.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml7.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml8.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml9.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml10.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml11.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml12.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml13.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml14.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml15.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml16.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml17.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml18.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml19.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml10.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml21.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml22.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml23.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml24.png)
+----------
+![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml25.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Tech_Google](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Google.png)
 -----------
 ![Tech_Microsoft](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_Microsoft.png)
@@ -4166,7 +4220,10 @@ SAP Portfolio
 Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
 
-![Skills_Map](https://user-images.githubusercontent.com/4322266/115991885-42fffb00-a5e8-11eb-8c76-a2ccd219d4c3.png)
+![image](https://user-images.githubusercontent.com/4322266/115992709-b277e980-a5ec-11eb-8f5d-539e8db1dad8.png)
+
+----------
+
 
 -------------
 
