@@ -41,6 +41,49 @@
          - SRE defines prescriptive ways to measure values.
          - SRE fundamentally believes that systems operation is a software problem
 
+---------------------
+
+
+Site Reliability Engineers are often considered the link between software development and operations.
+
+- Site Reliability: Engineering
+  - Nine principles of Site Reliability Engineering
+  - Tenets of SRE
+  - DevOps vs SRE
+  - Service Level Indicators
+  - Service Level Objectives
+  - Service Level Agreements
+  - Managing Service Risk
+  - Measuring Service Risk
+  - Risk Tolerence
+  - Error Budgets
+- Site Reliability: Tools & Automation
+- OS Deployment Strategies
+  - Upgrading & Maintaining Systems
+  - Deploying Modern Systems
+  - Maintaining & Managing Modern Systems
+- Backup & Recovery
+  - Business Continuity & Disaster Recovery
+  - Enterprise Backup Strategies
+  - Windows/Linux Client Backup and Recovery Tools
+- Monitoring Distributed Systems
+- Site Reliability Engineering: Scenario Planning
+- Build & release enginereing best practices
+- Automation and simplicity best practices for SRE
+- SRE postmortem culture best practices
+- Cloud and contaitner architectures for the SRE
+- Troubleshooting
+- Emergency response and incident handling
+- Testing for reliability, load balancing
+- Overload and cascading failures
+- Distributed reliability
+- Data pipelines and integrity
+- Deploying products at scale
+- Scaling the SRE team
+- Interupts and overloads
+- Communication and collaboration
+- Managing software reliability metrics
+- The SRE engagement model
 
 -------------------------
 
