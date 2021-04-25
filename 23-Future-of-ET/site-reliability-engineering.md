@@ -43,104 +43,29 @@
 --------------
 ![sre72](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre72.png)
 
-------------
 
-![image](https://user-images.githubusercontent.com/4322266/115967461-637c7680-a550-11eb-8702-f197cbabbfdb.png)
+---------------
+---------------
+![sre109](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre109.png)
 
+------
+![sre110](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre110.png)
 
---------------
-
-![image](https://user-images.githubusercontent.com/4322266/115967363-ebae4c00-a54f-11eb-9e48-eaac4aa9610e.png)
-
-------------
-
-![image](https://user-images.githubusercontent.com/4322266/115989854-ff07f880-a5dd-11eb-8f2a-96cac384835f.png)
-
--------
-
-![image](https://user-images.githubusercontent.com/4322266/115989943-72116f00-a5de-11eb-9fea-ac4bc1295687.png)
-
--------------
-
-![image](https://user-images.githubusercontent.com/4322266/115989977-92412e00-a5de-11eb-8be4-2570f408ac0e.png)
-
-----------
-
-![image](https://user-images.githubusercontent.com/4322266/115990015-b13fc000-a5de-11eb-8b72-c1e56bbe7af7.png)
-
-------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990046-d5030600-a5de-11eb-8f0b-5ba197839fc4.png)
-
-------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990067-f19f3e00-a5de-11eb-8bd0-b7ef72e15354.png)
-
---------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990106-2f9c6200-a5df-11eb-9dfa-ee2e4981eb03.png)
-
-----------
-
-![image](https://user-images.githubusercontent.com/4322266/115990533-58255b80-a5e1-11eb-83c9-dfc2fc62c132.png)
-
----------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990545-70957600-a5e1-11eb-99f2-70bac8ea2934.png)
+-----------
+![sre140](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre140.png)
 
 -----------
 
+![sre141](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre141.png)
 
-![image](https://user-images.githubusercontent.com/4322266/115990564-87d46380-a5e1-11eb-9181-d48f70e057c5.png)
+-----
+
+![sre142](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre142.png)
 
 ---------
-
-![image](https://user-images.githubusercontent.com/4322266/115990576-a33f6e80-a5e1-11eb-8210-5efd545d856a.png)
-
-----------
-
-![image](https://user-images.githubusercontent.com/4322266/115990589-b9e5c580-a5e1-11eb-89f1-5267f28ea951.png)
+![sre115](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre115.png)
 
 ---------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990615-d3870d00-a5e1-11eb-94d8-49b445978a01.png)
-
----------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990639-e6014680-a5e1-11eb-970b-1736647be583.png)
-
--------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990646-f87b8000-a5e1-11eb-9926-34b7690d7396.png)
-
------------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990658-0af5b980-a5e2-11eb-81cd-159943b9f06f.png)
-
--------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990672-1e088980-a5e2-11eb-8b51-c3db2747b283.png)
-
--------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990693-311b5980-a5e2-11eb-84e3-e6a9ea8c3309.png)
-
--------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990703-409aa280-a5e2-11eb-87a7-5f5f674eaf34.png)
-
------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990717-4ee8be80-a5e2-11eb-8223-bb9a22e19f33.png)
-
---------------
-
-![image](https://user-images.githubusercontent.com/4322266/115990724-5f009e00-a5e2-11eb-9f8e-39f878f57c10.png)
-
-
----------------
----------------
-
 ![sre1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre1.png)
 --------
 ![sre2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre2.png)
@@ -183,6 +108,88 @@
 ![sre31](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre31.png)
 ----------
 ![sre32](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre32.png)
+
+
+-------
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre111.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre113.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre114.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre116.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre117.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre118.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre119.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre120.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre121.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre122.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre123.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre124.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre125.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre126.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre127.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre128.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre129.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre130.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre131.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre132.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre133.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre134.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre135.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre136.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre137.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre138.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre139.png)
+
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre143.png)
+
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre144.png)
+
+--------
+-----------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre101.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre102.png)
+
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre103.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre104.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre105.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre106.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre107.png)
+--------
+![sre111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre108.png)
 
 ------------
 --------------
@@ -772,14 +779,6 @@
 ----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre52.png)
 ----------------
-![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre53.png)
-----------------
-![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre54.png)
-----------------
-![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre55.png)
-----------------
-![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre56.png)
-----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre58.png)
 ----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre59.png)
@@ -792,197 +791,9 @@
 ----------------
 ![sre51](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre63.png)
 
------------
------------
-
-        - Agile Architecture
-        - Agile Budgeting
-        - Agile Development Methodologies
-        - Agile Metrics
-        - Agile Management Tools
-        - Agile Portfolio Management
-        - Agile Project Management
-        - Agile Tools and Methodologies
-        - Application Design and Architecture
-        - Application Development
-        - Application and Infrastructure
-        - Application Performance Monitoring
-        - Application Security
-        - Architecture Concepts
-        - Back-End Technologies
-        - Behavior Driven Development
-        - Big Data & Analytics
-        - Big Data Technologies
-        - Business Analysis
-        - Business Intelligence
-        - Change Management
-        - CI/CD Methods
-        - Cloud Development
-        - Cloud Fundamentals
-        - Cloud Security Fundamentals
-        - Coding Principles
-        - Communication Skills
-        - Communications Strategy
-        - Compliance & PCI
-        - Conflict Management
-        - Creating Security Controls & Policies
-        - Cultural Stewardship
-        - Data Analytics
-        - Data Architecture
-        - Data Modeling
-        - Database Knowledge
-        - Database System Architecture
-        - Delegation and Prioritzation
-        - Development Lifecycle
-        - Development Languages
-        - Design Patterns
-        - Design Thinking
-        - DevOps Practices
-        - DevSecOps Practices 
-        - Digital Content Management
-        - Digital Marketing
-        - Digital Media Production
-        - Distributed Systems and Messaging
-        - Emerging Technology Research
-        - Enterprise Architecture
-        - Event Driven Architecture
-        - Extreme Programming (XP)
-        - Facilitation & Coaching
-        - Financial Awareness (P&L/COGS)
-        - Financial Management
-        - Forecasting
-        - Front-End Technologies
-        - GCP
-        - Governance
-        - IaaS, SaaS, PaaS Solutions
-        - IC Agile Coaching Track / Certification
-        - Information Architecture 
-        - Infrastructure Solutions
-        - Infrastructure & Housing
-        - IT Service Management
-        - IT Strategic Planning
-        - IT Strategy and Management
-        - Leadership & Influence
-        - Lean Six Sigma
-        - Lean User Experience 
-        - Lean Methodology
-        - Lean Portfolio Management
-        - Marketing & Branding
-        - Message Driven Services
-        - Microservices
-        - Network Fundamentals 
-        - Network Security 
-        - Operational KPIs
-        - Pair Programming
-        - Performance Engineering & Scalability
-        - Performance Optimization
-        - Process Management
-        - Project Management
-        - Product Development
-        - Product Lifecycle Management 
-        - Product Ownership
-        - Product Thinking
-        - Project Cost & Budgeting
-        - Project Risk Analysis
-        - Rapid Experimentation
-        - Regulatory Compliance
-        - Relentless Improvement Mindset
-        - Release Management 
-        - Reporting, Metrics, & Dashboards
-        - Requirements Gathering
-        - Research & Analytics
-        - Risk Management
-        - Roadmap Creation
-        - Robustness & Maintainability 
-        - Scaling Lean and Agile
-        - Scalability
-        - Security Engineering and Cybersecurity
-        - Security Fundamentals
-        - Scrum/Kanban
-        - SAFe Agile
-        - Software Architecture
-        - Software Development Lifecycle
-        - Software Engineering
-        - Software Quality Assurance
-        - SOLID Principles
-        - Stakeholder Management
-        - Strategic Planning
-        - Strategy and Investment
-        - Storage Solutions
-        - Systems & Solutions Architecture
-        - Systems Thinking
-        - Technology Architecture
-        - Technology Research and Industry Trend Analysis
-        - Test Driven Development
-        - Troubleshooting (Dianostics of Agile Processes)
-        - User Experience
-        - UI/UX Concepts
-        - User Story Definition
-        - Value Realization
-        - Value Stream Mapping
-        - Vendor Management
-        - Video Streaming
-        - Virtualization
-        - VMG Basic Platform Architecture
-        - Web Security
-        - XUnit Framework
-
---------------------
-
-        - Angular
-        - Ansible
-        - Apigee
-        - Artifactory
-        - AWS
-        - Azure
-        - C/C++
-        - Clarity
-        - Confluence
-        - Containers & Orchestration
-        - DDC
-        - DNS
-        - Docker
-        - Edge Computing
-        - GitHub
-        - GitLab
-        - GitOps
-        - Golang
-        - Google Suite
-        - GPG
-        - Hadoop
-        - HTTP
-        - iDaaS
-        - Java/J2EE
-        - JavaScript
-        - jBPM
-        - Jenkins
-        - Jira
-        - JSON/XML
-        - Kubernetes
-        - Linux
-        - Logging
-        - Monitoring
-        - Miro
-        - OpenStack
-        - Oracle
-        - Pega ADM
-        - Pega CSA
-        - Pega DSM
-        - PeopleSoft ERP
-        - Perl
-        - Planbox
-        - PKI
-        - Protobuf 
-        - Python
-        - Spark
-        - Spring Cloud
-        - SQL/noSQL
-        - SSH
-        - TLS/SSL
-        - TCP/IP
-        - Unix
 --------------------
 ------------------
+
 ![sre46](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre46.png)
 
 -----------
