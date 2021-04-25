@@ -16,6 +16,9 @@
         - All Other Ops
 
 -------------------
+![sre44](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre44.png)
+
+-----------
 ![sre53](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/xOps/sre53.png)
 
 ---------
@@ -31,7 +34,16 @@
 ---------------
 ![sre100](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre100.png)
 
+-----------
+![sre92](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre92.png)
+
+---------
+![sre91](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre91.png)
+
 --------------
+![sre72](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre72.png)
+
+------------
 
 ![image](https://user-images.githubusercontent.com/4322266/115967461-637c7680-a550-11eb-8702-f197cbabbfdb.png)
 
@@ -40,8 +52,94 @@
 
 ![image](https://user-images.githubusercontent.com/4322266/115967363-ebae4c00-a54f-11eb-9e48-eaac4aa9610e.png)
 
+------------
+
+![image](https://user-images.githubusercontent.com/4322266/115989854-ff07f880-a5dd-11eb-8f2a-96cac384835f.png)
+
+-------
+
+![image](https://user-images.githubusercontent.com/4322266/115989943-72116f00-a5de-11eb-9fea-ac4bc1295687.png)
+
 -------------
+
+![image](https://user-images.githubusercontent.com/4322266/115989977-92412e00-a5de-11eb-8be4-2570f408ac0e.png)
+
+----------
+
+![image](https://user-images.githubusercontent.com/4322266/115990015-b13fc000-a5de-11eb-8b72-c1e56bbe7af7.png)
+
+------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990046-d5030600-a5de-11eb-8f0b-5ba197839fc4.png)
+
+------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990067-f19f3e00-a5de-11eb-8bd0-b7ef72e15354.png)
+
+--------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990106-2f9c6200-a5df-11eb-9dfa-ee2e4981eb03.png)
+
+----------
+
+![image](https://user-images.githubusercontent.com/4322266/115990533-58255b80-a5e1-11eb-83c9-dfc2fc62c132.png)
+
+---------------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990545-70957600-a5e1-11eb-99f2-70bac8ea2934.png)
+
 -----------
+
+
+![image](https://user-images.githubusercontent.com/4322266/115990564-87d46380-a5e1-11eb-9181-d48f70e057c5.png)
+
+---------
+
+![image](https://user-images.githubusercontent.com/4322266/115990576-a33f6e80-a5e1-11eb-8210-5efd545d856a.png)
+
+----------
+
+![image](https://user-images.githubusercontent.com/4322266/115990589-b9e5c580-a5e1-11eb-89f1-5267f28ea951.png)
+
+---------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990615-d3870d00-a5e1-11eb-94d8-49b445978a01.png)
+
+---------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990639-e6014680-a5e1-11eb-970b-1736647be583.png)
+
+-------------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990646-f87b8000-a5e1-11eb-9926-34b7690d7396.png)
+
+-----------------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990658-0af5b980-a5e2-11eb-81cd-159943b9f06f.png)
+
+-------------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990672-1e088980-a5e2-11eb-8b51-c3db2747b283.png)
+
+-------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990693-311b5980-a5e2-11eb-84e3-e6a9ea8c3309.png)
+
+-------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990703-409aa280-a5e2-11eb-87a7-5f5f674eaf34.png)
+
+-----------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990717-4ee8be80-a5e2-11eb-8223-bb9a22e19f33.png)
+
+--------------
+
+![image](https://user-images.githubusercontent.com/4322266/115990724-5f009e00-a5e2-11eb-9f8e-39f878f57c10.png)
+
+
+---------------
+---------------
 
 ![sre1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre1.png)
 --------
@@ -885,9 +983,15 @@
         - Unix
 --------------------
 ------------------
+![sre46](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre46.png)
+
+-----------
 ![sre98](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre98.png)
 --------
 ![sre99](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre99.png)
+
+----------
+![sre47](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre47.png)
 
 ---------
 -------------
