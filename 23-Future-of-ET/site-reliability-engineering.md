@@ -60,11 +60,14 @@
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 - [https://devopsinstitute.com/](https://devopsinstitute.com/certifications/)
 - [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos#syllabus)
+- [DevOps and Site Reliability Engineering](https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering)
+- [Site Reliability Engineering (SRE) Foundation](https://cloudacademy.com/learning-paths/site-reliability-engineering-sre-foundation-1759/)
+- [DevOps Foundations: Site Reliability Engineering](https://www.linkedin.com/learning/devops-foundations-site-reliability-engineering/what-you-should-know)
+- [Site Reliability Engineering: Service-Level Agreements and Objectives](https://www.linkedin.com/learning/site-reliability-engineering-service-level-agreements-and-objectives/why-measure-service-performance)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [epcim/awesome-sysadmin2](https://github.com/epcim/awesome-sysadmin2)
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-- [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
-- [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [http://highscalability.com/](http://highscalability.com/)
 - [How Does Google Do Planet-Scale Engineering For A Planet-Scale Infrastructure?](http://highscalability.com/blog/2016/7/18/how-does-google-do-planet-scale-engineering-for-a-planet-sca.html)
 - [Site Reliability Engineering in Enterprise-Scale Organizations](https://medium.com/capital-one-tech/site-reliability-engineering-in-enterprise-scale-organizations-3357887d2c8e)
@@ -73,8 +76,45 @@
 - [DevOps vs SRE: Enabling Efficiency and Resiliency](https://harness.io/blog/devops/sre-vs-devops/)
 - [Develop a Site Reliability Engineering (SRE) strategy](https://docs.microsoft.com/en-us/learn/paths/az-400-develop-sre-strategy/)
 - [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
+- [awesome-cloud](https://medium.com/awesome-cloud)
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)
+- [GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+- [ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
+- [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre227.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre228.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre229.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre230.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre231.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre232.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre233.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre234.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre235.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre236.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre237.png)
 
 ------------
+------------
+
 ![sre44](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre44.png)
 
 -----------
@@ -318,6 +358,61 @@
 
 ----------
 ![devops](https://roadmap.sh/roadmaps/devops.png)
+
+------------
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre201.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre202.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre203.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre204.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre205.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre206.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre207.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre208.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre209.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre210.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre211.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre212.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre213.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre214.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre215.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre216.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre217.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre218.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre219.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre220.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre221.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre222.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre223.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre224.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre225.png)
+--------------
+![sre201](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre226.png)
+
 
 --------
 ---------
