@@ -4219,10 +4219,31 @@ SAP Portfolio
 
 Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 
+-----------
 
-![image](https://user-images.githubusercontent.com/4322266/115992709-b277e980-a5ec-11eb-8f5d-539e8db1dad8.png)
+![image](https://user-images.githubusercontent.com/4322266/115993092-d0dee480-a5ee-11eb-97b2-99d944aab63c.png)
+
 
 ----------
+
+![image](https://user-images.githubusercontent.com/4322266/115993116-f4099400-a5ee-11eb-99c0-03610aa0d60c.png)
+
+---------------
+
+![image](https://user-images.githubusercontent.com/4322266/115993141-17ccda00-a5ef-11eb-9dbf-6d2a27d72de6.png)
+
+--------------
+
+
+![image](https://user-images.githubusercontent.com/4322266/115993174-3f23a700-a5ef-11eb-889d-f894543459f8.png)
+
+-------------
+
+![image](https://user-images.githubusercontent.com/4322266/115993203-65e1dd80-a5ef-11eb-84c3-9cb3570a0d67.png)
+
+-------------
+
+![image](https://user-images.githubusercontent.com/4322266/115993226-85790600-a5ef-11eb-9a1e-b8f02d851c55.png)
 
 
 -------------
