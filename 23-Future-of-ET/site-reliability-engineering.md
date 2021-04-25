@@ -4,6 +4,46 @@
 
 -----------------
 
+       WIKI: A site reliability engineer (SRE) will spend up to 50% of their time doing "ops" related work such as handling issues, 
+       spending time on-call, and manual intervention. Since the software system that an SRE oversees is expected to be highly automatic 
+       and self-healing, the SRE should spend the other 50% of their time on development tasks such as adding new features, such as 
+       for scaling or automation. A site reliability engineer is usually either a software engineer with a good administration background 
+       or a skilled system administrator with knowledge of coding and automation.
+
+       DevOps vs SRE
+
+       Coined around 2008, DevOps is a philosophy of cross-team empathy and business alignment. It's also been associated with a practice 
+       that encompasses automation of manual tasks, continuous integration and continuous delivery. SRE and DevOps share the same foundational 
+       principles. SRE is viewed by many (as cited in the Google SRE book) as a "specific implementation of DevOps with some idiosyncratic 
+       extensions". SREs, being developers themselves, will naturally bring solutions that help remove the barriers between development teams 
+       and operations teams.
+
+       DevOps defines five key pillars of success:
+       - Reduce organizational silos
+       - Accept failure as normal
+       - Implement gradual changes
+       - Leverage tooling and automation
+       - Measure everything
+
+       SRE satisfies the DevOps pillars as follows:
+       - Reduce organizational silos
+         - SRE shares ownership with developers to create shared responsibility
+         - SREs use the same tools that developers use, and vice versa
+       - Accept failure as normal
+         - SREs embrace risk
+         - SRE quantifies failure and availability in a prescriptive manner using Service Level Indicators (SLIs) and Service Level Objectives (SLOs)
+         - SRE mandates blameless post mortems
+       - Implement gradual changes
+         - SRE encourages developers and product owners to move quickly by reducing the cost of failure
+       - Leverage tooling and automation
+         - SREs have a charter to automate manual tasks (called "toil") away
+       - Measure everything
+         - SRE defines prescriptive ways to measure values.
+         - SRE fundamentally believes that systems operation is a software problem
+
+
+-------------------------
+
         - SRE
         - xOps
         - DevNetOps
@@ -16,6 +56,25 @@
         - All Other Ops
 
 -------------------
+- [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
+- [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+- [https://devopsinstitute.com/](https://devopsinstitute.com/certifications/)
+- [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos#syllabus)
+- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
+- [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops)
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [http://highscalability.com/](http://highscalability.com/)
+- [How Does Google Do Planet-Scale Engineering For A Planet-Scale Infrastructure?](http://highscalability.com/blog/2016/7/18/how-does-google-do-planet-scale-engineering-for-a-planet-sca.html)
+- [Site Reliability Engineering in Enterprise-Scale Organizations](https://medium.com/capital-one-tech/site-reliability-engineering-in-enterprise-scale-organizations-3357887d2c8e)
+- [Hiring Site Reliability Engineers](https://www.usenix.org/system/files/login/articles/login_june_07_jones.pdf)
+- [Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
+- [DevOps vs SRE: Enabling Efficiency and Resiliency](https://harness.io/blog/devops/sre-vs-devops/)
+- [Develop a Site Reliability Engineering (SRE) strategy](https://docs.microsoft.com/en-us/learn/paths/az-400-develop-sre-strategy/)
+- [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
+
+------------
 ![sre44](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/sre44.png)
 
 -----------
@@ -202,8 +261,63 @@
 --------
 ![ops146](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops146.png)
 
+------------------
+------------
+![OiFm27eP6bMfSiClKQ](https://miro.medium.com/max/945/1*3Hn-OiFm27eP6bMfSiClKQ.png)
+---------
+![Site-Reliability-Optimization](https://www.crestdatasys.com/wp-content/uploads/2020/01/Site-Reliability-Optimization.png)
 
+---------
+![pasted-image-0-5](https://relevant.software/wp-content/uploads/2020/10/pasted-image-0-5.png)
+---------
+![EXdGihdyR1f1hrVQ9mboYifUTHNARE9an4nDeofO](https://relevant.software/wp-content/uploads/2020/09/EXdGihdyR1f1hrVQ9mboYifUTHNARE9an4nDeofO.jpeg)
 
+-------
+![9LKhtHciCI44nSIA4quoaUcRthRN7uiTDKGUh03F](https://relevant.software/wp-content/uploads/2020/09/9LKhtHciCI44nSIA4quoaUcRthRN7uiTDKGUh03F.jpeg)
+
+---------
+![comSRE1](https://www.businessprocessincubator.com/wp-content/uploads/2020/03/www.capgemini.comSRE1-7079bfb0d0a040e29734f0c50002e340d1632a69.png)
+------
+![2020](https://www.capgemini.com/wp-content/uploads/2020/10/Manoj-blog.png?w=960)
+
+--------
+![SRE-SLAs-SLOs-SLIs-pictoral-representation1](https://www.capgemini.com/wp-content/uploads/2020/10/SRE-SLAs-SLOs-SLIs-pictoral-representation1.png?w=960)
+
+--------
+![SREFoundationBlueprint](https://3s1scc2ywmvgoa139sc9r819-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/SREFoundationBlueprint.png)
+--------
+![ObservabilityGraph](https://www.instana.com/media/ObservabilityGraph-01.svg)
+
+-------
+![New-Application-Delivery-Organization-Graphic](https://www.instana.com/media/New-Application-Delivery-Organization-Graphic.png)
+
+-----------
+![5f7df8c34cb587a81e5e5e1e_key](https://uploads-ssl.webflow.com/5ec0224560bd6abed09a51b1/5f7df8c34cb587a81e5e5e1e_key%20stakeholders.png)
+----------
+![pDwdJiV19BHJT6bh83aLiA](https://miro.medium.com/max/2774/1*pDwdJiV19BHJT6bh83aLiA.png)
+------
+![DkZ1PjcX4AEUPh6](https://pbs.twimg.com/media/DkZ1PjcX4AEUPh6.jpg)
+
+----------
+![MergingDev-OpsMarket](https://blogs.gartner.com/christopher-little/files/2019/07/MergingDev-OpsMarket.jpg)
+
+--------
+![DOTC-vendors](https://blogs.gartner.com/christopher-little/files/2019/01/DOTC-vendors.jpg)
+
+--------
+![oss](https://blogs.gartner.com/manjunath-bhat/files/2019/02/oss.png)
+
+---------
+![DXGZDZUHmbA](https://miro.medium.com/max/1092/1*wTp-r9QJvF-DXGZDZUHmbA.jpeg)
+
+----------
+![DevOps_Tools_Landscape_to_Build_Your_Continuous_Delivery_and_Deployment_Pipeline](https://www.devops-certification.org/devops_images/DevOps_Tools_Landscape_to_Build_Your_Continuous_Delivery_and_Deployment_Pipeline.png)
+
+----------
+![C81yfqiV0AAu0](https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg)
+
+----------
+![devops](https://roadmap.sh/roadmaps/devops.png)
 
 --------
 ---------
