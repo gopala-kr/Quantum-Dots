@@ -68,22 +68,42 @@ Site Reliability Engineers are often considered the link between software develo
   - Windows/Linux Client Backup and Recovery Tools
 - Monitoring Distributed Systems
 - Site Reliability Engineering: Scenario Planning
-- Build & release enginereing best practices
-- Automation and simplicity best practices for SRE
-- SRE postmortem culture best practices
-- Cloud and contaitner architectures for the SRE
-- Troubleshooting
-- Emergency response and incident handling
-- Testing for reliability, load balancing
-- Overload and cascading failures
-- Distributed reliability
-- Data pipelines and integrity
-- Deploying products at scale
-- Scaling the SRE team
-- Interupts and overloads
-- Communication and collaboration
-- Managing software reliability metrics
-- The SRE engagement model
+- Build & Release Engineering Best Practices
+  - Release Engineering
+  - Release Management
+- Best Practices for the SRE: Automation
+- Best Practices for the SRE: Use Cases for Automation
+- SRE Simplicity: Software System Complexity
+- SRE Simplicity: Simple Software Systems
+- SRE Postmortums: Blameless Postmortem Culture Creation
+- Cloud and Containers for the SRE
+  - Cloud Architectures & Solutions
+  - Implementing Container Solutions
+- SRE Troubleshooting Processes
+- SRE Troubleshooting: Tools
+- SRE Emergency & Incident Response
+  - Responding to Emergencies
+  - Incident Response
+- SRE Testing Tasks: Software Reliability & Testing, Testing Considerations
+- SRE Load Balancing Techniques: 
+  - Front-end Load Balancing
+  - Data Center Load Balancing
+- SRE: Managing Overloads
+- SRE: Managing Cascading Failures
+- Distributed Reliability: 
+  - SRE Critical State Management
+  - SRE Distributed Periodic Scheduling
+- SRE Data Pipelines & Integrity: Data Pipelines & Design
+- SRE Products at Scale: Product Launches
+- SRE Team Management
+  - Scaling the Team
+  - Managing Operational Loads
+  - Operational Overload
+- SRE Collaboration & Communication
+- SRE Metric Management: Software Reliability Metrics
+- Software Reliability Monitoring and Reporting
+- SRE Engagement: Production Readiness Review
+- SRE Engagement: The SRE Engagement Model
 
 -------------------------
 
