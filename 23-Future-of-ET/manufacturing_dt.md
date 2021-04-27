@@ -19,3 +19,11 @@
 ![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en10.png)
 ----------
 ![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en11.png)
+----------
+![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en12.png)
+----------
+![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en13.png)
+----------
+![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en14.png)
+----------
+![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en15.png)
