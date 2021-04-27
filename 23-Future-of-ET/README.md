@@ -1740,8 +1740,6 @@
 ![gdpr_stack](https://dalbanger.files.wordpress.com/2017/03/gdpr_stack.jpg)
 ------------
 ![subtractive_mfg_circa_2017](https://www.ame.org/files/subtractive_mfg_circa_2017.png)
----------
-![audit_drb](https://dalbanger.files.wordpress.com/2017/05/audit_drb.png)
 
 ------
 ![20technical](https://www.leanix.net/hs-fs/hubfs/Blog/enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png?width=750&name=enterprise%20architect%20vs%20solution%20architect%20vs%20technical%20architect.png)
@@ -1845,31 +1843,6 @@
 
 ![image](https://user-images.githubusercontent.com/4322266/115992119-a179a900-a5e9-11eb-80ae-c12c072e3938.png)
 
-----------
-
-![image](https://user-images.githubusercontent.com/4322266/115992167-e1d92700-a5e9-11eb-88e2-e2c16fc7b8ea.png)
--------------
-
-
-![image](https://user-images.githubusercontent.com/4322266/115992193-fddcc880-a5e9-11eb-99ac-1e549605fc82.png)
-
------------
-
-![image](https://user-images.githubusercontent.com/4322266/115992215-206ee180-a5ea-11eb-9555-bc811e2af13d.png)
-
----------
-
-![image](https://user-images.githubusercontent.com/4322266/115992233-3a102900-a5ea-11eb-9078-d9110bff72d0.png)
-
--------------------
-
-![image](https://user-images.githubusercontent.com/4322266/115992250-50b68000-a5ea-11eb-97cf-bbed3e6222c2.png)
-
------------
-
-![image](https://user-images.githubusercontent.com/4322266/115992268-65931380-a5ea-11eb-82d3-ea77cb0aecce.png)
-
-
 --------------
 ----------------------
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea41.png)
@@ -1969,7 +1942,10 @@
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea14.png)
 ----------------------
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea15.png)
+
 ----------------------
+--------------
+
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea16.png)
 ----------------------
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea17.png)
