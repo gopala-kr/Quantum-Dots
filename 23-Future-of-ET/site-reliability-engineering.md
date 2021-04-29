@@ -919,6 +919,45 @@ Site Reliability Engineers are often considered the link between software develo
 
 --------------
 ----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops1.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops2.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops3.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops4.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops5.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops6.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops7.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops8.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops9.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops10.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops11.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops12.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops13.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops14.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops15.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops16.png)
+----------
+![devops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/devops17.png)
+
+
+
+------------
+--------------
+
 
 ![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops1.png)
 
