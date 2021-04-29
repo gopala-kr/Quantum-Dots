@@ -82,7 +82,7 @@
       - Hospitality Services
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Energy, Chemicals & Industrial**
+    - **[Energy, Chemicals & Industrial](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/en)**
       - Integrated Oil & Gas (Upstream, Midstream, Downstream, Field Services)
       - Biofuels
       - Renewables
@@ -1492,6 +1492,8 @@
 -------------
 ![thenewciomindsetitdigitaltransformationplatformecosystemcommunity](https://zdnet4.cbsistatic.com/hub/i/2016/09/30/64cf155c-7083-40da-8b1d-410c4c666f9c/thenewciomindsetitdigitaltransformationplatformecosystemcommunity.png)
 
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 #### Digital Transformation of Earth Organizations
@@ -1682,7 +1684,6 @@
 - [Directory of Open Professions Certified People](https://www.opengroup.org/openprofessions/candidate/certifiedIndividuals.html)
 
 
-
 --------------------
 ![EA-1920x883](https://itpeernetwork.intel.com/wp-content/uploads/sites/38/2019/03/EA-1920x883.png)
 
@@ -1755,6 +1756,19 @@
 ![SVGZ-Five-enterprise-architecture-practices-Ex1](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Five%20enterprise%20architecture%20practices%20that%20add%20value%20to%20digital%20transformations/SVGZ-Five-enterprise-architecture-practices-Ex1.svgz)
 ----
 ![SVGZ-Five-enterprise-architecture-practices-Ex2](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Five%20enterprise%20architecture%20practices%20that%20add%20value%20to%20digital%20transformations/SVGZ-Five-enterprise-architecture-practices-Ex2.svgz)
+
+
+----------
+---------------
+
+![ea102](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea102.png)
+
+-----------
+![ea103](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea103.png)
+
+------------
+![ea104](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea104.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2037,6 +2051,8 @@
 ---------
 ![Agile-MBSE-Sys-Arch-Tetrad](https://pivotpt.com/.res/images/mbse/Agile-MBSE-Sys-Arch-Tetrad.png)
 
+
+
 -----------
 ------------
 
@@ -2267,6 +2283,9 @@
 - [The Boeing Company: Organizational Complexity](https://markisaacsonblog.wordpress.com/2017/10/09/the-boeing-company-organizational-complexity/)
 - [The Complete Guide To How Every Organization Must Evolve To The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/04/complete-guide-organization-evolve-future-work/?sh=65ff689c6257)
 
+
+------------
+![ea101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea101.png)
 
 ----------
 ![og1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/og1.png)
@@ -2719,6 +2738,10 @@ and consumption ](https://www.ibm.com/downloads/cas/OZ67LAAX)
 -----
 ![riNmHYG0FHQlJhvTsaDxRA](https://miro.medium.com/max/1024/1*riNmHYG0FHQlJhvTsaDxRA.png)
 -----------------
+
+![ea105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea105.png)
+
+------------
 
 [Back to top](#contents)
 
