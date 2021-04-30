@@ -74,7 +74,7 @@
     - **[Media & Entertainment](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/met)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Travel & Hospitality**
+    - **[Travel & Hospitality](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/crg)**
       - Aviation
       - Tourism
       - Freight/Cargo(Air/Ship/Ground)
