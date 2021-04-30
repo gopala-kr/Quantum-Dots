@@ -184,6 +184,7 @@ of mobility services](https://www.accenture.com/_acnmedia/PDF-134/Accenture-Unlo
 - [See, Attend and Brake: An Attention-based Saliency Map Prediction Model for End-to-End Driving](https://arxiv.org/pdf/2002.11020v1.pdf)
 - [Cybersecurity for Industrial Control Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/2002/2002.04124.pdf)
 - [Survey on 3D LiDAR Localization for Autonomous Vehicles](https://arxiv.org/pdf/2006.00648v2.pdf)
+- [Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses](https://arxiv.org/pdf/2104.01789v2.pdf)
 
 ---------
 
