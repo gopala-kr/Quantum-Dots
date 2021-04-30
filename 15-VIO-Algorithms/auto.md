@@ -191,9 +191,9 @@
 ----------
 ![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av145.png)
 ----------
-![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av106.png)
+![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av146.png)
 ----------
-![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av107.png)
+![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av147.png)
 ----------
 ![av1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av108.png)
 ----------
