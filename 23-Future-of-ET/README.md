@@ -125,7 +125,6 @@
     - Neuroscience + HBP + IT + AI ==> BCI --> Neurotech Chips (High BW Connectivity) --> Telepathy --> Telekinesis 
     - Nuclear FusionTech
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
-- **[Product and Platform Engineering Management - Operating Model](#product-and-platform-engineering-management---Operating Model)**
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
 - **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
@@ -141,6 +140,7 @@
     - Mars Economics
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
+- **[Product and Platform Engineering Management - Operating Model](#product-and-platform-engineering-management-operating Model)**
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)** 
     - Digitize -> Digitalize -> Digitally Transform -> Digitally Disrupt
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
@@ -1057,12 +1057,16 @@
 -----
 ![0GC4Lpjy4UGNeFRfnBIhpA](https://miro.medium.com/max/3544/1*0GC4Lpjy4UGNeFRfnBIhpA.png)
 --------
+![ppem6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem6.png)
+
+----------
 ![ProductManagementFramework](https://www.theproductcrowd.com/wp-content/uploads/2018/10/ProductManagementFramework.png)
 --------
 ![manager-clipart-marketing-department-13](https://webstockreview.net/images/manager-clipart-marketing-department-13.png)
 
 -------
 ![1466660849837](https://www.researchgate.net/profile/Zia_Babar/publication/300250183/figure/fig2/AS:376017010085912@1466660849837/Business-Process-Architecture-BPA-for-a-DevOps-approach.png)
+
 ------
 ![sustainability](https://www.mdpi.com/sustainability/sustainability-11-04501/article_deploy/html/images/sustainability-11-04501-g003.png)
 
@@ -1331,6 +1335,43 @@
 -----------------
 ![edge1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/edge1.png)
 
+---------------
+-----------
+
+![pd222](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd222.png)
+-------
+![pd228](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd228.png)
+-----
+![pd224](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd224.png)
+
+----------
+![pd227](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd227.png)
+
+--------
+![pd226](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd226.png)
+
+
+--------
+------
+![pd286](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd286.png)
+
+--------
+![pd282](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd282.png)
+
+--------
+![pd283](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd283.png)
+
+---------
+![pd279](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd279.png)
+
+--------
+![pd292](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd292.png)
+
+------
+![pd265](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd265.png)
+
+---------
+![pd239](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd239.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1412,36 +1453,56 @@
 --------
 ![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/23/DISRUPTABILITY+INDEX+2.0.jpg)
 
+-------------
+![ppem0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem0.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Product and Platform Engineering Management - Operating Model
 
-![ppem0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem0.png)
--------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem1.png)
+
+----------
+
+![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
+
 -----------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem2.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem3.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem4.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem5.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem6.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem7.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem8.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem9.png)
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem12.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem10.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem11.png)
+
+
 -----------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem12.png)
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem9.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem26.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem38.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem39.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem40.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem41.png)
+
+
+-------------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem1.png)
+
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem3.png)
+
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem5.png)
+
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem7.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem8.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem13.png)
 -----------
@@ -1450,8 +1511,7 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem15.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem16.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem17.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem18.png)
 -----------
@@ -1460,16 +1520,13 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem20.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem21.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem22.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem23.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem24.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem25.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem26.png)
+
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem27.png)
 -----------
@@ -1490,24 +1547,16 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem35.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem36.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem37.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem38.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem39.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem40.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem41.png)
+
+
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem42.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem43.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem44.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem45.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem46.png)
 -----------
@@ -1534,8 +1583,7 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem57.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem58.png)
------------
-![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem59.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem60.png)
 -----------
@@ -1551,23 +1599,8 @@
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem66.png)
 
-
---------
----------
-
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1001.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1002.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1003.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1004.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1005.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pod1006.png)
----------
-![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1007.png)
+-----------
+![dt3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt3.png)
 
 ---------
 ![pd0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd0.png)
@@ -1657,8 +1690,7 @@
 --------
 ![thedigitaltransformationoflearningcommunitysocialmicrolearning](https://zdnet4.cbsistatic.com/hub/i/2017/09/06/38ee383b-a02c-4e19-9ff9-3ac1d10ae8f8/thedigitaltransformationoflearningcommunitysocialmicrolearning.png)
 
-----------
-![dt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt1.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1666,11 +1698,18 @@
 ![thenewciomindsetitdigitaltransformationplatformecosystemcommunity](https://zdnet4.cbsistatic.com/hub/i/2016/09/30/64cf155c-7083-40da-8b1d-410c4c666f9c/thenewciomindsetitdigitaltransformationplatformecosystemcommunity.png)
 
 ----------
+![dt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt1.png)
 
-![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
 
------------
-![dt3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt3.png)
+---------
+![pd300](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd300.png)
+
+-------
+
+![pd145](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd145.png)
+
+----------
+![pd146](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd146.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5178,10 +5217,42 @@ Enterprise Tech Platforms/Products/Skills/Certifications/Practices List:
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### IoT Platforms Integration with ERP
+### IoT Platforms Integration with ERP
 
 
 [Back to top](#contents)
+
+
+
+
+![pd228](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd228.png)
+
+---------
+![pd229](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd229.png)
+
+----------
+![pd225](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd225.png)
+
+--------
+![pd223](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd223.png)
+
+-----
+![pd299](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd299.png)
+
+-------
+![pd234](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd234.png)
+
+---------
+![pd233](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd233.png)
+
+-------
+![pd231](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd231.png)
+
+--------
+![pd230](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd230.png)
+
+---------------
+-------------
 
 ![01gXB9zbj6RrYH1Mawsvkfz](https://i.pcmag.com/imagery/articles/01gXB9zbj6RrYH1Mawsvkfz-6..1571879883.jpg)
 
@@ -5315,10 +5386,12 @@ IIoT Platform
 --------
 ![Tech_4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/Tech_4.0.png)
 
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Enterprise Data Warehouse and Data Lake
+### Enterprise Data Warehouse and Data Lake
 
 [Back to top](#contents)
 
@@ -5494,7 +5567,7 @@ IIoT Platform
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Enterprise Analytics
+### Enterprise Analytics
 
 - BI Reporting & Dashboards
 - Planning & Forecasting
@@ -5679,7 +5752,7 @@ Use Cases
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
+### [Practical DataOps](https://link.springer.com/chapter/10.1007/978-1-4842-5104-1_9)
 
 - [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
 
@@ -5805,7 +5878,7 @@ Use Cases
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### AI in Enterprise Processes
+### AI in Enterprise Processes
 
 [Back to top](#contents)
 
@@ -6020,7 +6093,7 @@ RPA
 -------------------
 -------------
 
-#### Practical MLOps
+### Practical MLOps
 
 - [End-to-End Machine Learning Workflow](https://ml-ops.org/content/end-to-end-ml-workflow)
 - [Iterative-Incremental Process in MLOps](https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops)
@@ -6052,7 +6125,7 @@ RPA
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct](https://cloud.google.com/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg?hl=da)
 ---------
 
-#### ML pipeline using CI/CD
+### ML pipeline using CI/CD
 
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg?hl=da)
 --------------
@@ -6390,7 +6463,7 @@ RPA
 
 ---------
 -------------
-#### xOps - DevOps, DataOps, MLOps, ModelOps..... All Ops
+
 
 ![ops1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/xOps/ops1.png)
 
@@ -6542,6 +6615,54 @@ RPA
 ![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en42.png)
 ----------
 ![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en43.png)
+
+---------
+---------
+
+
+![pd262](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd262.png)
+
+--------
+![pd241](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd241.png)
+
+-----------
+![pd240](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd240.png)
+
+----------
+![pd270](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd270.png)
+
+-----------
+![pd273](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd273.png)
+
+----------
+![pd276](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd276.png)
+
+-------
+![pd275](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd275.png)
+
+--------
+![pd274](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd274.png)
+
+------
+![pd268](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd268.png)
+
+---------
+![pd247](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd247.png)
+
+----------
+![pd248](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd248.png)
+
+-----
+![pd215](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd215.png)
+
+----------
+![pd214](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd214.png)
+
+-----------
+![pd213](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd213.png)
+
+---------
+![pd167](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd167.png)
 
 
 
