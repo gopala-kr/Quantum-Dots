@@ -140,7 +140,7 @@
     - Mars Economics
 - **[Technology Progress and Evolution](#technology-progress-and-evolution)**
 - **[Technology Industry Value Chain](#technology-industry-value-chain)**
-- **[Product and Platform Engineering Management - Operating Model](#product-and-platform-engineering-management-operating Model)**
+- **[Product and Platform Engineering Management](#product-and-platform-engineering-management)**
 - **[Digitalization of Earth Organizations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/digital-transformation.md)** 
     - Digitize -> Digitalize -> Digitally Transform -> Digitally Disrupt
   - **[Evolution of Information Technologies](#evolution-of-information-technologies)**
@@ -1367,8 +1367,7 @@
 --------
 ![pd292](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd292.png)
 
-------
-![pd265](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd265.png)
+
 
 ---------
 ![pd239](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd239.png)
@@ -1412,6 +1411,10 @@
 
 - [How Likely Is Your Industry to Be Disrupted? This 2×2 Matrix Will Tell You](https://hbr.org/2018/01/how-likely-is-your-industry-to-be-disrupted-this-2x2-matrix-will-tell-you)
 
+
+-------------
+![ppem0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem0.png)
+
 -------------
 ![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/6/DISRUPTABILITY+INDEX+2.0.jpg)
 ------------
@@ -1453,20 +1456,18 @@
 --------
 ![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/23/DISRUPTABILITY+INDEX+2.0.jpg)
 
--------------
-![ppem0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem0.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Product and Platform Engineering Management - Operating Model
+### Product and Platform Engineering Management
 
 
-----------
+[Back to top](#contents)
 
-![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
 
------------
+
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem12.png)
 
 -----------
@@ -1475,6 +1476,8 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem11.png)
 
 
+----------
+![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem9.png)
 -----------
@@ -1581,6 +1584,10 @@
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem56.png)
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem57.png)
+
+-----------
+![dt3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt3.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem58.png)
 
@@ -1599,8 +1606,6 @@
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem66.png)
 
------------
-![dt3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt3.png)
 
 ---------
 ![pd0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd0.png)
@@ -1646,6 +1651,9 @@
 
 --------
 ![Digital-Culture-Stages-1024x564](https://go.forrester.com/wp-content/uploads/Digital-Culture-Stages-1024x564.gif)
+
+----------
+![dt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt1.png)
 
 -----------
 ![digi_cap](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digi_cap.png)
@@ -1697,19 +1705,43 @@
 
 ![thenewciomindsetitdigitaltransformationplatformecosystemcommunity](https://zdnet4.cbsistatic.com/hub/i/2016/09/30/64cf155c-7083-40da-8b1d-410c4c666f9c/thenewciomindsetitdigitaltransformationplatformecosystemcommunity.png)
 
-----------
-![dt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt1.png)
-
-
----------
-![pd300](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd300.png)
-
 -------
 
 ![pd145](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd145.png)
 
 ----------
 ![pd146](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd146.png)
+
+--------
+![pd241](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd241.png)
+
+------------
+![pd167](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd167.png)
+
+-------
+![pd240](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd240.png)
+
+------
+![pd214](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd214.png)
+
+--------
+![pd213](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd213.png)
+
+------
+![pd276](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd275.png)
+
+-------
+![pd274](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd274.png)
+
+------
+![pd265](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd265.png)
+
+---------
+
+![pd262](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd262.png)
+
+---------
+![pd300](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd300.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2306,7 +2338,6 @@
 #### SAFe Principles
 
 
--------
 ![githubusercontent](https://camo.githubusercontent.com/2dbfd8a298c83993841d4d193f4e42a31fd2ba5141c926708ba66c1f28b38dae/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f457069635f4630365f5745422d322e706e67)
 
 ------
@@ -2327,8 +2358,7 @@
 ---------
 ![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe4.jpg)
 
----------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe24.png)
+
 ---------
 ![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe25.png)
 ---------
@@ -6545,7 +6575,7 @@ RPA
 -----------------
 ------------------
 
-##### [Digital Transformation  - Manufacturing Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/manufacturing_dt.md)
+### [Digital Transformation  - Manufacturing Industry](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/manufacturing_dt.md)
 
 ----------
 ![en1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/en/en10.png)
