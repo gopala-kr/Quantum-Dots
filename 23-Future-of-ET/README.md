@@ -41,7 +41,7 @@
       - Rail & Transit
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://www.godigit.com/guides/types-of-insurance)*
-    - **Government & Public Services**
+    - **[Government & Public Services](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/gps)**
       - Defence, Border Services, Education, Pensions, Revenue, Postals
       - Back-Office, Public Health, Safety, Cities & Infrastructure
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
@@ -93,17 +93,17 @@
       - Construction, Infrastructure, Logistics & Industrial Equipments
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Consulting Services**
+    - **[Consulting Services](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/mteb)**
       - Management Consulting, Technology & Engineering Consulting, Business Process Outsourcing(BPO)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Consumer & Retail Tech**
+    - **[Consumer & Retail Tech](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/retail)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Healthcare**
+    - **[Healthcare](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/health)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **Life Sciences**
+    - **[Life Sciences](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/life)**
       - Pharmaceuticals - Dist & Wholesalers, Medtech, Biotech
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -125,6 +125,7 @@
     - Neuroscience + HBP + IT + AI ==> BCI --> Neurotech Chips (High BW Connectivity) --> Telepathy --> Telekinesis 
     - Nuclear FusionTech
     - Travel --> Urbon Drone Mobility + Intracity Tunnels + Hyperloop + P2P Space
+- **[Product and Platform Engineering Management - Operating Model](#product-and-platform-engineering-management---Operating Model)**
 - **[Global Organizations](#global-organizations)**
 - **[Earth Workforce](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-workforce.md)**
 - **[Economics of Earth Industries, Organizations, Products, Services & Workforce]()**
@@ -1330,18 +1331,6 @@
 -----------------
 ![edge1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/edge1.png)
 
--------------
-
------------
----------------
-
-![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
-
-------------------
-
-![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
-
-[Back to top](#contents)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1363,9 +1352,22 @@
 ---------
 ![key-categories-of-the-technology-industry](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2021/key-categories-of-the-technology-industry.png?sfvrsn=240fe65e_2)
 
-----------------
---------------
-#### [Industrial Disruption Index](https://www.slideshare.net/accenture/gauging-business-disruption-with-the-disruptability-index-accenture-190659233)
+-----------------
+
+![ie_era](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/ie_era.PNG)
+
+------------------
+
+![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
+
+[Back to top](#contents)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+### [Industrial Disruption Index](https://www.slideshare.net/accenture/gauging-business-disruption-with-the-disruptability-index-accenture-190659233)
+
+[Back to top](#contents)
 
 - [How Likely Is Your Industry to Be Disrupted? This 2×2 Matrix Will Tell You](https://hbr.org/2018/01/how-likely-is-your-industry-to-be-disrupted-this-2x2-matrix-will-tell-you)
 
@@ -1410,6 +1412,169 @@
 --------
 ![DISRUPTABILITY+INDEX+2.0](https://slideplayer.com/slide/17561877/103/images/23/DISRUPTABILITY+INDEX+2.0.jpg)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Product and Platform Engineering Management - Operating Model
+
+![ppem0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem0.png)
+-------------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem1.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem2.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem3.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem4.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem5.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem6.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem7.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem8.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem9.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem10.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem11.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem12.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem13.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem14.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem15.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem16.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem17.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem18.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem19.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem20.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem21.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem22.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem23.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem24.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem25.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem26.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem27.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem28.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem29.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem30.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem31.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem32.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem33.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem34.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem35.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem36.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem37.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem38.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem39.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem40.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem41.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem42.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem43.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem44.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem45.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem46.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem47.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem48.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem49.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem50.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem51.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem52.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem53.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem54.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem55.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem56.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem57.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem58.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem59.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem60.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem61.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem62.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem63.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem64.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem65.png)
+-----------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem66.png)
+
+
+--------
+---------
+
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1001.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1002.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1003.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1004.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1005.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pod1006.png)
+---------
+![pd1001](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd1007.png)
+
+---------
+![pd0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd0.png)
+
+
+[Back to top](#contents)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1434,6 +1599,8 @@
 
 -------------
 --------------
+
+[Back to top](#contents)
 
 ![digital_transformation_with_an_online_community](https://dionhinchcliffe.files.wordpress.com/2016/11/digital_transformation_with_an_online_community.png)
 
@@ -1481,18 +1648,29 @@
 ![digitalcap11](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/digitalcap11.png)
 
 --------
+
 ![ltech](https://camo.githubusercontent.com/82ab1510c3b9d99f1f5655a4ba1b244c26a988827fa4d46056003238663399b8/68747470733a2f2f6a6f736862657273696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f6c447472656e64732e6a7067)
+
 --------
 ![cltech](https://camo.githubusercontent.com/225cdfea268a0fd370eb53553c71bd700ef0799439ca43bc845d9f202efc88ff/68747470733a2f2f6a6f736862657273696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f65766f6c7574696f6e2e6a7067)
 
 --------
 ![thedigitaltransformationoflearningcommunitysocialmicrolearning](https://zdnet4.cbsistatic.com/hub/i/2017/09/06/38ee383b-a02c-4e19-9ff9-3ac1d10ae8f8/thedigitaltransformationoflearningcommunitysocialmicrolearning.png)
 
--------------------
--------------
+----------
+![dt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt1.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![thenewciomindsetitdigitaltransformationplatformecosystemcommunity](https://zdnet4.cbsistatic.com/hub/i/2016/09/30/64cf155c-7083-40da-8b1d-410c4c666f9c/thenewciomindsetitdigitaltransformationplatformecosystemcommunity.png)
 
+----------
 
+![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
+
+-----------
+![dt3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt3.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1857,8 +2035,67 @@
 
 ![image](https://user-images.githubusercontent.com/4322266/115992119-a179a900-a5e9-11eb-80ae-c12c072e3938.png)
 
+------
 --------------
-----------------------
+
+![40_partitioning1](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/40_partitioning1.png)
+----
+![40_partitioning5](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/40_partitioning5.png)
+-------
+![24_stakeholders](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/24_stakeholders.png)
+--------
+![32_planning](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/32_planning.png)
+------
+![32_relationships](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/32_relationships.png)
+---------
+![34_contentfwk5](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk5.png)
+------
+![37_bb_evolution](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/37_bb_evolution.png)
+------
+![41_archrepos](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+##### Enterprise Architecture Example :
+
+![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
+-----------
+![impact-automotive-business-models-19-1024](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-19-1024.jpg?cb=1445406367)
+
+-----
+![etom_business_architecture_ntt_data](https://www.eenewsautomotive.com/images/01-edit-photo-uploads/2014/2014-10-october/ntt-data/etom_business_architecture_ntt_data.jpg)
+
+----
+![150805030430](https://image.slidesharecdn.com/04392cc8-5c49-4214-9b4d-5fd7e5d5d116-150805030430-lva1-app6892/95/it-in-banking-v0-2-8-1024.jpg?cb=1438744070)
+
+----------
+![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
+----------
+![ibm-reference-soa-for-banking](https://www.dragon1.com/images/ibm-reference-soa-for-banking.png)
+-----------------
+
+![Screen-Shot-2020-01-22-at-9-03-11-AM](https://www.teradata.com/getattachment/Blogs/Analytics-in-the-Hybrid-Cloud-An-Architect%E2%80%99s-Perspective/Screen-Shot-2020-01-22-at-9-03-11-AM.png)
+-----------
+![os-img-13](https://bryteflow.com/wp-content/uploads/2020/01/os-img-13.png)
+------
+![enterprise-architecture-blueprint-hospital](https://www.dragon1.com/images/enterprise-architecture-blueprint-hospital.png)
+--------
+![dragon1-enterprise-architecture-blueprint-template-medium](https://www.dragon1.com/images/dragon1-enterprise-architecture-blueprint-template-medium.png)
+---------
+![A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman](https://cdn2.hubspot.net/hubfs/2570476/Landing%20Pages/A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman.png)
+
+----------
+![d108b826c61c61e5bd30810e062bc9c4](https://i.pinimg.com/originals/d1/08/b8/d108b826c61c61e5bd30810e062bc9c4.jpg)
+---------
+![Agile-MBSE-Sys-Arch-Tetrad](https://pivotpt.com/.res/images/mbse/Agile-MBSE-Sys-Arch-Tetrad.png)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea41.png)
 ----------------------
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea42.png)
@@ -1996,8 +2233,9 @@
 ----------------------
 ![ea41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/ea33.png)
 
-----------
--------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![safe16](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe16.png)
 
 ----------
@@ -2023,25 +2261,26 @@
 -----------
 ![safe12](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe15.png)
 
------------
-----------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### SAFe Principles
 
 
-
 -------
-![safe3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe3.jpg)
+![githubusercontent](https://camo.githubusercontent.com/2dbfd8a298c83993841d4d193f4e42a31fd2ba5141c926708ba66c1f28b38dae/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f457069635f4630365f5745422d322e706e67)
+
+------
+![githubusercontent](https://camo.githubusercontent.com/49e4647197303709ef98f9255fd6a827ef061d62584d63c551d26e8c3decc58e/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f466967757265322e706e67)
 
 ----------
+![githubusercontent](https://camo.githubusercontent.com/ca10af1f444f5e83079bbb8ac21307434066f65a309b48a01c377d836715d88d/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f4170706c79696e675f534146655f746f5f48617264776172655f4465765f4630315f5745422d322e706e67)
 
-![safe1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe1.jpg)
+--------
+![githubusercontent](https://camo.githubusercontent.com/0e0197c2cd01b6d8389d5ac06a6cfb694100b48ca4561bd91cd9f878507635cc/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f4170706c79696e675f534146655f746f5f48617264776172655f4465765f4630352d332e706e67)
 
 --------
 ![safe7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe7.jpg)
-
---------
-![safe23](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe23.png)
 
 -----------
 ![safe6](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe5.jpg)
@@ -2050,26 +2289,29 @@
 ![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe4.jpg)
 
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe24.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe24.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe25.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe25.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe26.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe26.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe28.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe28.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe29.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe29.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe30.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe30.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe31.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe31.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe33.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe33.png)
 ---------
-![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe32.jpg)
+![safe4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/safe32.png)
 
 ---------
 ![githubusercontent](https://camo.githubusercontent.com/4f56160a5ec276518501760aa5423be62226fe46dc299c230c9b1be0190bf17d/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f416368696576696e675f42415f42455f5465616d735f4630332d5745422e706e67)
+
+-------
+![githubusercontent](https://camo.githubusercontent.com/ff5cc69b843775d7684cc63d614082afb95183b5ededeae71fd5cc59f1c3c254/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4170706c6965642d456e74657270726973652d576f726b666c6f775f4630312e706e67)
 
 -----------
 ![githubusercontent](https://camo.githubusercontent.com/51e672e04895d02f88313b89e99d47f777384490ca3318e8a26fe8d0cec52b60/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31322f534146655f526571756972656d656e74735f4d6f64656c5f4630315f5745422e706e67)
@@ -2102,66 +2344,14 @@
 
 ![githubusercontent](https://camo.githubusercontent.com/b08de80879b74aa28866dced350f9e31deeae6c05efd4166acf01d84c922d36a/68747470733a2f2f7777772e7363616c65646167696c656672616d65776f726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f57686174735f4e65775f496e5f534146655f352e315f4630395f5745422d322e706e67)
 
-------
---------------
 
-![40_partitioning1](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/40_partitioning1.png)
-----
-![40_partitioning5](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/40_partitioning5.png)
--------
-![24_stakeholders](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/24_stakeholders.png)
---------
-![32_planning](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/32_planning.png)
-------
-![32_relationships](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/32_relationships.png)
----------
-![34_contentfwk5](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk5.png)
-------
-![37_bb_evolution](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/37_bb_evolution.png)
-------
-![41_archrepos](https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### Enterprise Architecture Example :
-
-![111-cs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/111-cs.PNG)
------------
-![impact-automotive-business-models-19-1024](https://image.slidesharecdn.com/theautomobilebecomestheautomobile-151021054246-lva1-app6891/95/the-automobile-becomes-the-automobile-how-does-the-mobility-revolution-impact-automotive-business-models-19-1024.jpg?cb=1445406367)
-
------
-![etom_business_architecture_ntt_data](https://www.eenewsautomotive.com/images/01-edit-photo-uploads/2014/2014-10-october/ntt-data/etom_business_architecture_ntt_data.jpg)
-
-----
-![150805030430](https://image.slidesharecdn.com/04392cc8-5c49-4214-9b4d-5fd7e5d5d116-150805030430-lva1-app6892/95/it-in-banking-v0-2-8-1024.jpg?cb=1438744070)
-
-----------
-![integrationlifecycle](https://stephengbennetthome.files.wordpress.com/2018/11/integrationlifecycle.png?w=1100)
-----------
-![ibm-reference-soa-for-banking](https://www.dragon1.com/images/ibm-reference-soa-for-banking.png)
------------------
-
-![Screen-Shot-2020-01-22-at-9-03-11-AM](https://www.teradata.com/getattachment/Blogs/Analytics-in-the-Hybrid-Cloud-An-Architect%E2%80%99s-Perspective/Screen-Shot-2020-01-22-at-9-03-11-AM.png)
------------
-![os-img-13](https://bryteflow.com/wp-content/uploads/2020/01/os-img-13.png)
-------
-![enterprise-architecture-blueprint-hospital](https://www.dragon1.com/images/enterprise-architecture-blueprint-hospital.png)
---------
-![dragon1-enterprise-architecture-blueprint-template-medium](https://www.dragon1.com/images/dragon1-enterprise-architecture-blueprint-template-medium.png)
----------
-![A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman](https://cdn2.hubspot.net/hubfs/2570476/Landing%20Pages/A%20Framework%20for%20Enterprise%20Architecture%20by%20John%20Zachman.png)
-
-----------
-![d108b826c61c61e5bd30810e062bc9c4](https://i.pinimg.com/originals/d1/08/b8/d108b826c61c61e5bd30810e062bc9c4.jpg)
----------
-![Agile-MBSE-Sys-Arch-Tetrad](https://pivotpt.com/.res/images/mbse/Agile-MBSE-Sys-Arch-Tetrad.png)
-
-
-
------------
-------------
-
+- [SAFe](https://www.scaledagile.com/enterprise-solutions/what-is-safe/)
 - [LeanX](https://www.leanix.net/en/enterprise-architecture)
 - [disruptivedigital](https://disruptivedigital.wordpress.com/)
 
