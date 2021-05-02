@@ -1281,8 +1281,8 @@
 ----------
 ![42111](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/sp/42111.png)
 
----------------
--------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Conceptual-Digital-Innovation-Platform-Framework](https://www.thedigitaltransformationpeople.com/wp-content/uploads/2017/05/Louis-Bouwer-Figure-4-Conceptual-Digital-Innovation-Platform-Framework.jpg)
 
@@ -1298,8 +1298,9 @@
 -------
 ![832c8b673bfe561fa828f6a290c21bfb](https://i.pinimg.com/originals/83/2c/8b/832c8b673bfe561fa828f6a290c21bfb.png)
 
---------
-----------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![nt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/nt1.png)
 -----------
 ![g116](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g116.png)
@@ -1335,8 +1336,8 @@
 -----------------
 ![edge1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ea/edge1.png)
 
----------------
------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![pd222](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd222.png)
 -------
@@ -1350,9 +1351,37 @@
 --------
 ![pd226](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd226.png)
 
+------
+![pd101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd101.png)
+
+----------
+![pd102](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd102.png)
+
+---------
+![pd104](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd104.png)
 
 --------
-------
+![pd105](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd105.png)
+
+-----------
+![pd106](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd106.png)
+
+-----------
+![pd107](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd107.png)
+
+--------
+
+![pd98](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd98.png)
+
+-------
+![pd95](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd95.png)
+
+---------
+![pd24](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd24.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![pd286](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd286.png)
 
 --------
@@ -1367,10 +1396,96 @@
 --------
 ![pd292](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd292.png)
 
+---------
+![pd239](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd239.png)
+
+------------
+---------------
+![av131](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av131.png)
+
+-----------
+![av101](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av101.png)
+
+---------
+![av6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av6.png)
+
+----------
+![av134](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av134.png)
+
+------
+![av133](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av133.png)
+
+----------
+![av20](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av20.png)
+-------
+![av16](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av16.png)
+---------
+![av19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av19.png)
+-----------
+
+![av124](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av124.png)
+---------------
+![av118](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av118.png)
+--------
+![av156](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av156.png)
+-------
+![av157](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av157.png)
+
+
+----------
+![av7](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av7.png)
+
+--------
+![auto](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av14.png)
+
+--------
+![av13](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av13.png)
 
 
 ---------
-![pd239](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd239.png)
+![av114](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av114.png)
+
+-------
+![av17](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av17.png)
+
+
+--------
+![av152](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av152.png)
+
+-----------
+![av115](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av115.png)
+
+-----------
+---------
+
+![sdc1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc1.png)
+
+-----------
+![sdc2](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc2.png)
+
+-----------
+![sdc5](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc5.png)
+
+---------
+![sdc6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc6.png)
+
+--------
+![sdc7](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc7.png)
+
+--------
+![sdc8](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc8.png)
+
+---------
+![sdc15](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc15.png)
+
+--------
+![sdc19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc19.png)
+
+----------
+![sdc11](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc11.png)
+
+---------
+![sdc14](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc14.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1478,8 +1593,13 @@
 
 ----------
 ![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem9.png)
+
+-----------
+![pd18](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd18.png)
+
 -----------
 ![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem26.png)
 -----------
@@ -1610,6 +1730,54 @@
 ---------
 ![pd0](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd0.png)
 
+-----------------
+
+![pd23](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd23.png)
+
+----------
+![pd22](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd22.png)
+
+---------------
+-----------------
+
+![pd13](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd13.png)
+
+---------
+![pd89](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd89.png)
+
+------
+![pd87](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd87.png)
+
+---------
+![pd86](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd86.png)
+
+----------
+![pd75](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd75.png)
+
+---------
+![pd25](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd25.png)
+
+-----------
+![pd31](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd31.png)
+
+---------
+![pd32](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd32.png)
+
+--------
+![pd34](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd34.png)
+
+--------
+![pd35](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd35.png)
+
+-----------
+![pd40](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd40.png)
+
+
+-----------
+
+![pd3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd3.png)
+
+-----------
 
 [Back to top](#contents)
 
@@ -4663,6 +4831,9 @@ SAP Portfolio
 ----------
 ![ml1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/sml/ml25.png)
 
+------------
+
+![pd124](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd124.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6321,6 +6492,9 @@ RPA
 ------------------
 ![osa_metamodel_v003](https://www.opensecurityarchitecture.org/cms/images/OSA_images/osa_metamodel_v003.png)
 
+--------
+![pd41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd41.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -6694,6 +6868,26 @@ RPA
 ---------
 ![pd167](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd167.png)
 
+-------------
+![pd212](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd212.png)
+
+-----------
+![pd170](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd170.png)
+
+-------
+![pd180](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd180.png)
+
+--------
+![pd186](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd186.png)
+
+--------
+![pd191](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd191.png)
+
+---------
+![pd196](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd196.png)
+
+---------
+![pd200](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd200.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
