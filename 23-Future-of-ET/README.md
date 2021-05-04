@@ -1781,6 +1781,19 @@
 ![pd3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd3.png)
 
 
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem101.png)
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem102.png)
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem103.png)
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem104.png)
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem105.png)
+-------------
+![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem106.png)
+
 [Back to top](#contents)
 
 
