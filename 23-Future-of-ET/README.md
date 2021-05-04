@@ -1376,8 +1376,7 @@
 -------
 ![pd95](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd95.png)
 
----------
-![pd24](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd24.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1409,18 +1408,19 @@
 ---------
 ![av6](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av6.png)
 
-----------
-![av134](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av134.png)
-
 ------
 ![av133](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av133.png)
+----------
+![av134](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av134.png)
+---------
+![av19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av19.png)
+
 
 ----------
 ![av20](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av20.png)
 -------
 ![av16](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av16.png)
----------
-![av19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av19.png)
+
 -----------
 
 ![av124](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av124.png)
@@ -1456,6 +1456,10 @@
 ![av115](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/av115.png)
 
 -----------
+--------
+![sdc19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc19.png)
+
+
 ---------
 
 ![sdc1](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc1.png)
@@ -1478,8 +1482,7 @@
 ---------
 ![sdc15](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc15.png)
 
---------
-![sdc19](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc19.png)
+
 
 ----------
 ![sdc11](https://github.com/gopala-kr/Quantum-Dots/blob/master/15-VIO-Algorithms/mb/sdc11.png)
@@ -1777,7 +1780,6 @@
 
 ![pd3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd3.png)
 
------------
 
 [Back to top](#contents)
 
