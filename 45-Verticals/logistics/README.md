@@ -77,3 +77,6 @@
 ![af1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/logistics/af39.png)
 
 ---------
+![afl1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/logistics/afl1.png)
+
+---------------
