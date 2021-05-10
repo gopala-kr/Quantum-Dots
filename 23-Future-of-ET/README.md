@@ -1303,7 +1303,33 @@
 
 ![nt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/nt1.png)
 -----------
+![g102](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g102.png)
+--------
+![g101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g101.png)
+--------
+![g111](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g111.png)
+--------
+![g112](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g112.png)
+
+---------
+![g113](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g113.png)
+-------
+![g114](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g114.png)
+----------
+![g115](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g115.png)
+
+
+
+--------------
 ![g116](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g116.png)
+
+------
+![g117](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g117.png)
+--------
+![g118](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g118.png)
+
+--------
+![g121](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g121.png)
 
 ------
 ![g1](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g1.png)
