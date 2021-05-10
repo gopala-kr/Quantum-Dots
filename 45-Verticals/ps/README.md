@@ -9,6 +9,14 @@
 ---------
 ![p43](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p43.png)
 
+
+---------
+![p43](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p45.png)
+---------
+![p43](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p46.png)
+---------
+![p43](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p47.png)
+
 ------------
 ![p1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p1.png)
 ------------
