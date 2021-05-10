@@ -41,7 +41,7 @@
       - Rail & Transit
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://www.godigit.com/guides/types-of-insurance)*
-    - **[Government & Public Services](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/gps)**
+    - **[Government & Public Services](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/ps)**
       - Defence, Border Services, Education, Pensions, Revenue, Postals
       - Back-Office, Public Health, Safety, Cities & Infrastructure
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
@@ -74,7 +74,7 @@
     - **[Media & Entertainment](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/met)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
-    - **[Travel & Hospitality](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/crg)**
+    - **[Travel & Hospitality](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/logistics)**
       - Aviation
       - Tourism
       - Freight/Cargo(Air/Ship/Ground)
