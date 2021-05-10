@@ -1302,6 +1302,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![nt1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/nt1.png)
+
+------
+![g1](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g1.png)
 -----------
 ![g102](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g102.png)
 --------
@@ -1331,11 +1334,13 @@
 --------
 ![g121](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/5G/g121.png)
 
-------
-![g1](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g1.png)
-
 -------
 ![g25](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/5G/g25.png)
+------
+![p54](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p54.png)
+
+-----------
+![p55](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p55.png)
 
 -------
 
@@ -2150,6 +2155,11 @@
 
 ---------
 ![d1e8f9bccc0c5643514abe8cc938e819](https://i.pinimg.com/originals/d1/e8/f9/d1e8f9bccc0c5643514abe8cc938e819.png)
+
+------------
+![p48](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p48.png)
+-----------
+![p49](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p49.png)
 
 [Back to top](#contents)
 
@@ -5894,6 +5904,8 @@ Use Cases
 - Network Analytics - [NETSCOUT Systems](https://www.youtube.com/channel/UCDHjK6_cTdEYqoddyzMFi5A) | [Riverbed](https://www.youtube.com/c/riverbed/playlists)
 - App Analytics - [BMC](https://www.youtube.com/c/bmcsoftware/playlists) | [AppDynamics](https://www.youtube.com/channel/UCTL2V4fqMMERSWQa1kT4EMw) | [New Relic](https://www.youtube.com/user/NewRelicInc) | [Dynatrace](https://www.youtube.com/channel/UCcYJ-5q_AfmjQ4XTjTS0o3g) | [OverOps](https://www.youtube.com/c/OverOps/playlists) | [Elastic](https://www.youtube.com/c/OfficialElasticCommunity/playlists)
 
+---------
+![p52](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p52.png)
 ------------
 ![fin_bi](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/fin_bi.png)
 
