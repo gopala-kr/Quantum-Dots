@@ -22,7 +22,7 @@
 --------------
 ![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol9.png)
 --------------
-![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol0.png)
+![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol10.png)
 --------------
 ![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol11.png)
 --------------
@@ -42,7 +42,7 @@
 --------------
 ![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol19.png)
 --------------
-![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evto20.png)
+![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol20.png)
 --------------
 ![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol21.png)
 --------------
@@ -62,7 +62,7 @@
 --------------
 ![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol29.png)
 --------------
-![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evto30.png)
+![evtol](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/evtol/evtol30.png)
 
 --------------
 ---------------
