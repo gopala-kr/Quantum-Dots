@@ -55,5 +55,27 @@
 ------------
 ![md1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/md12.png)
 
+--------------
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me1.png)
+
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me2.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me3.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me4.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me5.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me6.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me7.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me8.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me9.png)
+------------
+![me1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/met/me10.png)
 ---------
 -----------
