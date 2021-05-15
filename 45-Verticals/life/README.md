@@ -104,5 +104,21 @@
 --------
 ![life1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/life53.png)
 
+------------
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med1.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med2.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med3.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med4.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med5.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med6.png)
+------------------
+![med1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/life/med7.png)
+
 --------
 --------
