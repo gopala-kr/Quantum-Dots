@@ -1930,6 +1930,13 @@
 -----------
 ![ai61](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai61.png)
 
+----------
+![h2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h2.png)
+-------
+![h3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h3.png)
+--------
+![h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h4.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
