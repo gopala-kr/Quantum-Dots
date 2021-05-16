@@ -40,6 +40,17 @@
 ![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h118.png)
 -------------
 ![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h119.png)
+-------------
+![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h120.png)
+-------------
+![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h121.png)
+-------------
+![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h122.png)
+-------------
+![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h123.png)
+-------------
+![h1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h124.png)
+
 
 -------------
 -------------
