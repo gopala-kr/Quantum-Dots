@@ -58,11 +58,19 @@
 ------------
 ![cfo_a](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/cfo_a.png)
 
-------------
-![iflow63](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow63.PNG)
-
+---------
+----------
+![fin_man](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/fin_man.png)
+------
+![hr](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/hr.png)
 -------
-![iflow51](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow51.PNG)
+![mktng](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/mktng.png)
+------
+![scm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/scm1.png)
+------
+![scm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/scm2.png)
+------
+![scm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/scm3.png)
 
 ---------
 -----------
