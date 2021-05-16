@@ -1,4 +1,5 @@
-
+![pd98](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd98.png)
+----------
 ![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
 
 ------------
@@ -77,6 +78,11 @@
 
 ![dt101](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/dt101.png)
 
+---------
+![dt2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/dt2.png)
+
+--------
+![ppem1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem1.png)
 
 ---------------------------
 -------------------------------------------------
