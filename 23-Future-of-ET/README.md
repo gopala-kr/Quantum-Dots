@@ -47,13 +47,13 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Finance](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-finance.md)**
-      - **Capital Markets**
+      - **[Capital Markets](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/finance)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://en.wikipedia.org/wiki/Financial_services)*
-      - **Banking**
+      - **[Banking](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/finance)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://en.wikipedia.org/wiki/Financial_services)*
-      - **Insurance**
+      - **[Insurance](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/finance)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://en.wikipedia.org/wiki/Financial_services)*
       - **Real Estate**
@@ -1549,6 +1549,9 @@
 
 ![experience_economy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/experience_economy.PNG)
 
+-------
+![sp502](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/finance/sp502.png)
+
 --------------
 ![sm2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sm/sm2.png)
 
@@ -1566,6 +1569,14 @@
 
 ---------
 ![sm7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/sm/sm7.png)
+
+-----------
+
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai16.png)
+
+--------------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai21.png)
+
 
 [Back to top](#contents)
 
@@ -1891,12 +1902,6 @@
 [Back to top](#contents)
 
 ----------
------------
-
-![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai16.png)
-
---------------
-![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai21.png)
 -----------
 ![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai22.png)
 -----------
