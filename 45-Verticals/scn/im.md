@@ -1,4 +1,71 @@
 
+![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
+
+------------
+![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
+
+-------
+![in45](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/4.0/in45.png)
+
+---------------
+![btc238](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btc238.PNG)
+
+------
+![iflow61](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow61.PNG)
+-----------
+![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
+-------
+![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
+-------
+![WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og](https://post-phinf.pstatic.net/MjAxOTAyMTRfOTMg/MDAxNTUwMTExODI1MTcx.e4f0CIjB6K7IwlUa8u4pFHz08MBhnS1jWyLwyBdk9fog.WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og.JPEG/img01.jpg?type=w1200)
+--------------
+![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
+
+[Back to top](#contents)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![IT Roles 2020](https://i.imgur.com/NIVCU4P.png)
+
+------------
+
+##### Business Functional Roles
+
+![btp_roles1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
+
+-----------
+![iflow58](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow58.PNG)
+
+-----
+![iflow56](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow56.PNG)
+
+-------
+![iflow62](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow62.PNG)
+
+------
+![ceo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/ceo_office.png)
+
+----------
+![cfo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cfo_office.png)
+
+-----------
+![coo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/coo_office.png)
+
+------
+![cmo_office](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/prcs/cmo_office.png)
+
+------------
+![cfo_a](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/cfo_a.png)
+
+------------
+![iflow63](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow63.PNG)
+
+-------
+![iflow51](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow51.PNG)
+
+---------
+-----------
 
 ![dt101](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/dt101.png)
 
