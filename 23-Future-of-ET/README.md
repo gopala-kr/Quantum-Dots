@@ -67,7 +67,7 @@
         - *Product/Services:*
     - **[Telecommunication](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/earth-internet.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
-        - *Product/Services:*
+        - *[Product/Services:](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/comm)*
     - **[Softwares & Platforms](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/softwares-platforms.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
@@ -94,7 +94,7 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Consulting Services](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/mteb)**
-      - Management Consulting, Technology & Engineering Consulting, Business Process Outsourcing(BPO)
+      - Advisory, Management Consulting, Technology & Engineering Consulting, Business Process Outsourcing(BPO)
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Consumer & Retail Tech](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/retail)**
@@ -6564,6 +6564,62 @@ RPA
 -----------
 ![big_data_engineer](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/big_data_engineer.svg)
 
+----------
+-------------
+
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai1.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai2.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai3.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai4.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai5.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai6.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai7.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai8.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai9.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai10.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai11.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai12.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai13.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai14.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai15.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai16.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai17.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai18.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai19.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai20.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai21.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai22.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai23.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai24.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai25.png)
+------
+![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/airf/ai26.png)
+
+
 -------------------
 -------------
 
@@ -7288,6 +7344,94 @@ RPA
 
 ---------
 ![pd200](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd200.png)
+
+-------------------------------
+-----------------------------
+![cmb1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/comm/cmb1.png)
+--------
+![cmb68](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/comm/cmb68.png)
+
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg14.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg15.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg16.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg17.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg18.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg19.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg20.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg21.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg22.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg23.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg24.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg25.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg26.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg27.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg28.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg29.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg30.png)
+
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg31.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg32.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg33.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg34.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg35.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg36.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg37.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg38.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg39.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg40.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg41.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg42.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg43.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg44.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg45.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg46.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg47.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg48.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg49.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg50.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg51.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg52.png)
+----------------
+![cg1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/industrial/cg53.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
