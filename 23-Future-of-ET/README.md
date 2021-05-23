@@ -2757,6 +2757,38 @@
 - [LeanX](https://www.leanix.net/en/enterprise-architecture)
 - [disruptivedigital](https://disruptivedigital.wordpress.com/)
 
+
+Overview
+SAFe Homepage - https://www.scaledagileframework.com/
+SAFe Implementation Roadmap - https://www.scaledagileframework.com/implementation-roadmap/
+SAFe LPM Competency - https://www.scaledagileframework.com/lean-portfolio-management/
+
+Strategy & Investment Funding
+SAFe Strategic Themes - https://www.scaledagileframework.com/strategic-themes/
+Beginners guide to OKR - https://felipecastro.com/en/okr/what-is-okr/
+SAFe Portfolio Vision - https://www.scaledagileframework.com/portfolio-vision/
+Brainstorming TOWS Matrix - https://brungerblog.wordpress.com/2016/03/20/tows-matrix-for-marketing-brainstorming 
+SAFe Lean Budgets  https://www.scaledagileframework.com/lean-budgets/
+SAFe Lean Budget Guardrails - https://www.scaledagileframework.com/guardrails/
+SAFe Portfolio Kanban - https://www.scaledagileframework.com/portfolio-kanban/
+
+Lean Agile Operations
+SAFe Coordinate Value Streams - https://www.scaledagileframework.com/value-stream-coordination/
+Scrum Agile PMO - https://www.scrum.org/resources/blog/agile-pmo
+SAFe LACE - https://www.scaledagileframework.com/lace/
+SAFe Agile Contracting - https://www.scaledagileframework.com/agile-contracts/
+
+Lean Governance
+SAFe Epics - https://www.scaledagileframework.com/portfolio-backlog/
+SAFe WSJF - https://www.scaledagileframework.com/wsjf/
+SIQ WSJF - https://www.solutionsiq.com/resource/blog-post/visualizing-wsjf/
+SAFe Metrics - https://www.scaledagileframework.com/metrics/
+SAFe Value Stream KPIs - https://www.scaledagileframework.com/value-streams/#VKPI
+Lean Compliance - https://www.scaledagileframework.com/compliance/ & https://www.scaledagileframework.com/wp-content/uploads/delightful-downloads/2017/10/White_Paper_Compliance_04-08-17-1.pdf 
+
+
+--------
+
 ![EN-Finance-BCMap-Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/EN-Finance-BCMap-Poster_Landing_Page_Preview.png?)
 ------------
 ![EA_24Views_Manuf_Industry_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EA_24Views_Manuf_Industry_Poster_Landing_Page_Preview.png?)
