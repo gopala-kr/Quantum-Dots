@@ -1577,6 +1577,47 @@
 --------------
 ![ai1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/aiops/ai21.png)
 
+-------
+![tech_wave17](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave17.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave1.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave2.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave3.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave4.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave5.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave6.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave7.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave8.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave9.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave10.png)
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave11.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave12.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave13.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave15.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave14.png)
+
+------------
+![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave16.png)
+
 
 [Back to top](#contents)
 
@@ -2092,10 +2133,13 @@
 ![iflow61](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow61.PNG)
 -----------
 ![1_UL_Digital_Enterprise_Enter](https://industrie-4-0.ul.com/wp-content/themes/CRS-Multilanguage/resources/digital_enterprise/1_UL_Digital_Enterprise_Enter-the-Factory.jpg)
+
 -------
 ![applsci-09-05431-g008](https://www.mdpi.com/applsci/applsci-09-05431/article_deploy/html/images/applsci-09-05431-g008.png)
+
 -------
 ![WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og](https://post-phinf.pstatic.net/MjAxOTAyMTRfOTMg/MDAxNTUwMTExODI1MTcx.e4f0CIjB6K7IwlUa8u4pFHz08MBhnS1jWyLwyBdk9fog.WHYjNNTOVAT29mB3XNI5raJwHFbVG64TDiclTc7fP2og.JPEG/img01.jpg?type=w1200)
+
 --------------
 ![Industries2](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Industries2.PNG)
 
@@ -2142,6 +2186,63 @@
 -------
 ![iflow51](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow51.PNG)
 
+-----------
+![tech_wave48](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave48.png)
+
+------
+![tech_wave40](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave40.png)
+
+----------
+![tech_wave41](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave41.png)
+
+---------
+![tech_wave42](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave42.png)
+
+-----------
+![tech_wave43](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave43.png)
+
+----------
+![tech_wave44](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave44.png)
+
+----------
+![tech_wave47](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave47.png)
+-----
+![tech_wave45](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave45.png)
+
+---------
+![tech_wave46](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave46.png)
+
+----------
+![tech_wave36](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave36.png)
+----------
+![tech_wave38](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave38.png)
+
+----------
+![tech_wave37](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave37.png)
+
+--------
+![tech_wave30](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave30.png)
+
+---------
+![tech_wave31](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave31.png)
+
+---------
+![tech_wave32](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave32.png)
+
+-------
+![tech_wave29](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave29.png)
+
+--------
+![tech_wave23](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave23.png)
+
+---------
+![tech_wave24](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave24.png)
+
+---------
+![tech_wave25](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave25.png)
+
+--------
+![tech_wave26](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave26.png)
 
 [Back to top](#contents)
 
