@@ -952,6 +952,9 @@
 ---------
 ![2030](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/2030.jpg)
 
+----------
+![f24](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/f24.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1170,6 +1173,15 @@
 ![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
 ----------
 ![tabs](https://fas.org/irp/nic/rand/graphics/tabs.1.gif)
+
+-----
+![tom131](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom131.png)
+
+--------
+![tom132](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom132.png)
+
+------------
+![f23](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/f23.png)
 
 ------------
 -----------------
@@ -1618,6 +1630,23 @@
 ------------
 ![tech_wave1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave16.png)
 
+--------
+![tom40](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom40.png)
+
+-----------
+
+![tom57](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom57.png)
+
+---------
+
+![tom126](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom126.png)
+
+---------
+
+![f25](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/f25.png)
+
+---------
+![f26](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/f26.png)
 
 [Back to top](#contents)
 
@@ -1881,6 +1910,14 @@
 
 ![pd3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/pd3.png)
 
+-----
+![tom166](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom166.png)
+
+-------
+![tom168](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom168.png)
+
+----------
+![tom171](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom171.png)
 
 -------------
 ![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem101.png)
@@ -1982,6 +2019,12 @@
 ![h3](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h3.png)
 --------
 ![h4](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/health/h4.png)
+
+---------
+![tom186](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom186.png)
+
+---------
+![tom203](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom203.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2149,6 +2192,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![IT Roles 2020](https://i.imgur.com/NIVCU4P.png)
+
+----------
+![tom59](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom59.png)
 
 ------------
 
