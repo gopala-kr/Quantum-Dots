@@ -1919,6 +1919,9 @@
 ----------
 ![tom171](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom171.png)
 
+-------
+![tom7](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tom7.png)
+
 -------------
 ![ppem101](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ppem/ppem101.png)
 -------------
