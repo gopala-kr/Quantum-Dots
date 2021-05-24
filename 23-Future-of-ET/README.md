@@ -56,8 +56,6 @@
       - **[Insurance](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/finance)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *[Product/Services:](https://en.wikipedia.org/wiki/Financial_services)*
-      - **Real Estate**
-      - **FinTech**
     - **HighTech**
       - **[Semiconductor](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/semicon-electron-automo.md)**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
