@@ -330,9 +330,80 @@
       - Operational Risk
       - Cyber Risk
   - **[IT Infrastructure Modeling](#it-infrastructure-modeling)**
+    - Networking
+    - Compute Services
+    - Persistency, Storage
+    - Database Services
+    - Integration Services
+    - Security & IAM
+    - Management & Automation
+    - Development Services
+    - Platform Services
+    - App Services
+    - Mobile Services
+    - Analytics & BigData
+    - AI Services
+    - IoT Services
+    - AR/VR Services
+    - Enterprise Application Services
+    - Blockchain Services
+    - Quantum Compute Services
+    - Space/Satellite Services(Ground Operantions)
+    - Industrial Services
   - **[Digital Workplace Services](#digital-workplace-services)**
   - **[Software Development Practices & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
-    - Software Design Patterns
+    - [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/software-architecture.md)
+    - [Architectural Styles](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/architectural-style.md)
+      - [NLayer Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/nlayer-architecture.md)
+      - [Clean Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/clean-architecture.md)
+      - [Onion Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/onion-architecture.md)
+      - [Hexagonal Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/hexagonal-architecture.md)
+      - [Vertical Slice Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/vertical-slice-architecture.md)
+      - [Event Driven Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/event-driven-architecture.md)
+      - [Service Oriented Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/service-oriented-architecture.md)
+      - [Component Based Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-style/component-based-architecture.md)
+    - [Architectural Design Principles](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-design-principles/index.md)
+    - [Architectural Patterns](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/architectural-patterns.md)
+      - [Domain Driven Design](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/domain-driven-design/index.md)
+      - [Data Driven Design](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/data-driven-design.md)
+      - [CQRS](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/cqrs.md)
+      - [Event Sourcing](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/event-sourcing.md)
+      - [Microservices](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/microservices/index.md)
+      - [Serverless Architectural Pattern](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/serverless.md)
+      - [MicroKernel Architectural Pattern](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/micro-kernel.md)
+      - [Modular Monolith Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/architectural-patterns/modular-monolith.md)
+    - [Design Patterns](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/design-patterns/index.md)
+    - [Cloud Design Patterns](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/cloud-design-patterns/index.md)
+    - [Object Oriented Design](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/object-oriented-design.md)
+    - [Distributed Systems Design](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/distributed-systems-design.md)
+    - [Scalable Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/scalable-software-architecture.md)
+    - [Clean Code](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/clean-code.md)
+    - [Design Best Practices](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/design-best-practices/index.md)
+    - [Anti Patterns](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/anti-patterns/index.md)
+    - [Messaging Patterns](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/messaging.md)
+      - [Kafka](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/kafka.md)
+      - [RabbitMQ](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/rabbitmq.md)
+      - [Azure Service Bus](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-service-bus.md)
+      - [NATS](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/nats.md)
+      - [ZeroMQ](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/messaging/zeromq.md)
+    - [Distributed Transactions](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/distributed-transactions.md)
+    - [Concurrency](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/concurrency.md)
+    - [Eventual Consistency](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/eventual-consistency.md)
+    - [RESTful API Design](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/rest.md)
+    - [Caching](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/caching.md)
+    - [Aspect Oriented Programming](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/aop.md)
+    - [Packaging](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/packaging.md)
+    - [Refactoring](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/refactoring.md)
+    - [Azure Application Architecture](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-application-architecture.md)
+      - [Azure Active Directory](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-active-directory.md)
+      - [Azure Functions](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-functions.md)
+      - [Azure Service Bus](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-service-bus.md)
+      - [Azure Template](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-template.md)
+      - [Azure Identity](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/azure/azure-identity.md)
+    - [Modeling](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/modeling/index.md)
+    - [Event Storming](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/event-storming.md)
+    - [Engineering Blogs](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/engineering-blogs.md)
+    - [Others](docs/others.md)
   - **[DevOps Methodology & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
   - **[DevSecOps Practices & Tools](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)**
   - **[Database Technology](#database-technology)**
