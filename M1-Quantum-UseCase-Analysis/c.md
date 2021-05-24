@@ -350,7 +350,7 @@ https://www.businessinsider.in/science/7-awesome-ways-quantum-computers-will-cha
 
 OPTIMIZATION IN ENERGY EXPLORATION 
 
-Quantum computing could be used to improve oil exploration. BP and ExxonMobil have projects ongoing on this topic. ![image](https://user-images.githubusercontent.com/4322266/110026419-834da600-7d28-11eb-8017-59ee52dbe610.png)
+Quantum computing could be used to improve oil exploration. BP and ExxonMobil have projects ongoing on this topic. 
 
 https://www.spglobal.com/marketintelligence/en/news-insights/trending/x4cbur85qkeeniymgckgag2
 
@@ -358,7 +358,7 @@ https://www.spglobal.com/marketintelligence/en/news-insights/trending/x4cbur85qk
 
 GENOME SEQUENCING
 
-Quantum computing could be used to accelerate the sequencing of DNA genes, disrupting the healthcare industry.![image](https://user-images.githubusercontent.com/4322266/110026503-a0827480-7d28-11eb-8b79-9892ecb43181.png)
+Quantum computing could be used to accelerate the sequencing of DNA genes, disrupting the healthcare industry.
 
 
 https://www.technologynetworks.com/informatics/news/the-power-of-quantum-computing-harnessed-for-dna-study-298183
@@ -367,7 +367,7 @@ https://www.technologynetworks.com/informatics/news/the-power-of-quantum-computi
 
 CANCER TREATMENT 
 
-Quantum computing could be used to the optimization of treatment in radiotherapy and better and faster detection of brain tumors, which could be done in seconds instead of hours or weeks. This could mean reduced exposure to X-rays by simulating and optimizing the movement of waves in the human body.![image](https://user-images.githubusercontent.com/4322266/110026573-b5f79e80-7d28-11eb-991c-4ff4ae078f08.png)
+Quantum computing could be used to the optimization of treatment in radiotherapy and better and faster detection of brain tumors, which could be done in seconds instead of hours or weeks. This could mean reduced exposure to X-rays by simulating and optimizing the movement of waves in the human body.
 
 
 https://news.microsoft.com/innovation-stories/quantum-computing-mri-cancer-treatment/
@@ -376,7 +376,7 @@ https://news.microsoft.com/innovation-stories/quantum-computing-mri-cancer-treat
 
 SPACE EXPLORATION 
 
-NASA has partnered with Google to research quantum computational methods for exoplanet detection from analysis of telescopic observations, alongside analysis of optimization and planning problems.![image](https://user-images.githubusercontent.com/4322266/110026660-d45d9a00-7d28-11eb-8d7f-c9a397cdf356.png)
+NASA has partnered with Google to research quantum computational methods for exoplanet detection from analysis of telescopic observations, alongside analysis of optimization and planning problems.
 
 https://www.nas.nasa.gov/projects/quantum.html
 
@@ -388,13 +388,12 @@ https://nas.nasa.gov/assets/pdf/Quantum_Computer_Fact_Sheet_Fall2015.pdf
 
 QUANTUM SAFE NETWORKING
 
-QuantLR used Ultimately Secure Quantum Key Distribution (QKD) solutions to secure data communication at a lower cost. QuantLR successfully deployed a POC showing that QKD is ready for mass deployment at a cost reduction of 90% over all previously deployed solutions.![image](https://user-images.githubusercontent.com/4322266/111231713-a0fcf400-85e1-11eb-8aa4-699254fac1b3.png)
-
+QuantLR used Ultimately Secure Quantum Key Distribution (QKD) solutions to secure data communication at a lower cost. QuantLR successfully deployed a POC showing that QKD is ready for mass deployment at a cost reduction of 90% over all previously deployed solutions.
 
 ------------------------
 QUANTUM KEY DISTRIBUTION
 
-Battelle installed commercial Quantum Key Distribution (QKD) system in the US connecting its headquarters in Columbus, Ohio to production facility in Dublin, Ohio. The QKD hardware used was Cerberis model from ID Quantique. Combined with ID Quantique’s Centauris encryptor, this provides a 1Gbps link with Layer2 encryption. The link between facilities requires dedicated dark (unlit) fiber.![image](https://user-images.githubusercontent.com/4322266/111231734-a9edc580-85e1-11eb-820c-17bcaa8c45bd.png)
+Battelle installed commercial Quantum Key Distribution (QKD) system in the US connecting its headquarters in Columbus, Ohio to production facility in Dublin, Ohio. The QKD hardware used was Cerberis model from ID Quantique. Combined with ID Quantique’s Centauris encryptor, this provides a 1Gbps link with Layer2 encryption. The link between facilities requires dedicated dark (unlit) fiber.
 
 
 
@@ -403,7 +402,7 @@ Battelle installed commercial Quantum Key Distribution (QKD) system in the US co
 ENCRYPTION FOR ELECTRONIC VOTING
 
 Estonia has deployed i-voting system that allows citizens to vote at their convenience. The system uses public key infrastructure for secure digital authentication and signing. The infrastructure also allows forwarding data by using an encrypting key pair: a public encryption key and a private decryption key.
- ![image](https://user-images.githubusercontent.com/4322266/111231762-b540f100-85e1-11eb-90dc-7cc82518af9f.png)
+
 
 
 
@@ -413,33 +412,32 @@ Estonia has deployed i-voting system that allows citizens to vote at their conve
 
 QUANTUM NETWORKS
 
-KPN has implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam, the Netherlands. It is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.![image](https://user-images.githubusercontent.com/4322266/111231775-bbcf6880-85e1-11eb-97d3-f762710cab4c.png)
+KPN has implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam, the Netherlands. It is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.
 
 --------------
 
 Secure mobile communications
 
-Mitsubishi Electric has developed the world’s first “one-time pad software,” an advanced encryption technique for mobile phones to ensure that telephone conversations remain confidential. Additionally, the company is involved in implementing their technology in a project being conducted by the National Institute of Information and Communications Technology to test the viability of mobile communications over a quantum secure network.![image](https://user-images.githubusercontent.com/4322266/111231815-cc7fde80-85e1-11eb-81ce-1c83a13c1826.png)
+Mitsubishi Electric has developed the world’s first “one-time pad software,” an advanced encryption technique for mobile phones to ensure that telephone conversations remain confidential. Additionally, the company is involved in implementing their technology in a project being conducted by the National Institute of Information and Communications Technology to test the viability of mobile communications over a quantum secure network.
 
 -------------------------
 
 
 Digital sign
 
-Blackberry: Launched a solution which will allow software to be digitally signed using a scheme that will be hard to break with a quantum computer. The Solution is actually the product of a partnership between BlackBerry and Isara Corporation, a company whose mission is to build quantum-safe security solutions. BlackBerry is using Isara’s cryptographic libraries to help sign and protect code as security evolves.![image](https://user-images.githubusercontent.com/4322266/111231871-e7525300-85e1-11eb-9d86-8dcd159f485e.png)
+Blackberry: Launched a solution which will allow software to be digitally signed using a scheme that will be hard to break with a quantum computer. The Solution is actually the product of a partnership between BlackBerry and Isara Corporation, a company whose mission is to build quantum-safe security solutions. BlackBerry is using Isara’s cryptographic libraries to help sign and protect code as security evolves.
 
 --------------------------
 
 Cryptographic algorithims
 
-KPN: Dutch landline and mobile telecommunications company implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam. KPN is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.![image](https://user-images.githubusercontent.com/4322266/111231895-f33e1500-85e1-11eb-98ea-bd931ba4808f.png)
+KPN: Dutch landline and mobile telecommunications company implemented end-to-end quantum key distribution (QKD) in its network between KPN datacenters in The Hague and Rotterdam. KPN is collaborating with ID Quantique, a Swiss company specialized in quantum encryption.
 
 --------------------
 
 Visibility and incident management
 
-Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption solution, using state of the art Layer 2 encryption combined with Quantum Key Distribution (QKD). The Cerberis solution secures a point-to-point Gigabit Ethernet link used to send ballot information for the federal and cantonal elections from the central ballot counting station to the Geneva government data center. ![image](https://user-images.githubusercontent.com/4322266/111231930-ffc26d80-85e1-11eb-8d8d-561e87578c61.png)
-
+Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption solution, using state of the art Layer 2 encryption combined with Quantum Key Distribution (QKD). The Cerberis solution secures a point-to-point Gigabit Ethernet link used to send ballot information for the federal and cantonal elections from the central ballot counting station to the Geneva government data center. 
 
 
 
