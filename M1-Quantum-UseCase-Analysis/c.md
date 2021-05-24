@@ -342,7 +342,7 @@ https://www.businessinsider.in/science/7-awesome-ways-quantum-computers-will-cha
 
 TRAFFIC OPTIMIZATION
 
-The management and optimization of traffic (road, rail, air, etc.), the operation of vehicle fleets and the management of autonomous vehicles are promising fields where the inherent qualities of Quantum could well express their potential. Several companies are evaluating this around the optimization of filling of airline fleets in near real time and in a global way.![image](https://user-images.githubusercontent.com/4322266/110026346-6f09a900-7d28-11eb-91e2-49790d44713c.png)
+The management and optimization of traffic (road, rail, air, etc.), the operation of vehicle fleets and the management of autonomous vehicles are promising fields where the inherent qualities of Quantum could well express their potential. Several companies are evaluating this around the optimization of filling of airline fleets in near real time and in a global way.
 
 https://www.businessinsider.in/science/7-awesome-ways-quantum-computers-will-change-the-world/articleshow/47006938.cms
 
