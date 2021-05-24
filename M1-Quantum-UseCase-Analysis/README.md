@@ -458,8 +458,7 @@ Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption
 ![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/QC_mapping.png)
 ------------
 ![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/pov.png)
-------------
-![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q2b.png)
+
 ------------
 ![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc21.png)
 ------------
@@ -502,10 +501,7 @@ Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption
 ---------------
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc40.png)
 ---------------
-![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc41.png)
----------------
-![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc42.png)
----------------
+
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc43.png)
 ---------------
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc44.png)
@@ -513,8 +509,6 @@ Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc45.png)
 ---------------
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc46.png)
-
-
 
 
 
