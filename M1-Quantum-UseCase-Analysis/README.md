@@ -4,8 +4,6 @@
 ----------
 
 
-----------
-
 
 ![qcu](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/verta/zmfa/qcu.png)
 
@@ -453,6 +451,68 @@ Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption
 - https://www.scientificamerican.com/article/googles-quantum-computer-achieves-chemistry-milestone/
 - https://www.newscientist.com/article/2253089-google-performed-the-first-quantum-simulation-of-a-chemical-reaction/
 
+
+---------
+-----------------
+
+![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/QC_mapping.png)
+------------
+![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/pov.png)
+------------
+![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q2b.png)
+------------
+![QC_mapping](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc21.png)
+------------
+![qc22](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc22.png)
+----------------
+![qc23](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc23.png)
+-------------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc24.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc25.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc26.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc27.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc28.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc29.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc30.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc31.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc32.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc33.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc34.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc35.png)
+---------------
+
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc36.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc37.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc38.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc39.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc40.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc41.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc42.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc43.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc44.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc45.png)
+---------------
+![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc46.png)
 
 
 
