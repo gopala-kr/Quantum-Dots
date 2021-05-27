@@ -2365,6 +2365,10 @@
 -----------
 ![es1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/es1.png)
 
+-----------
+![es1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/es2.png)
+
+
 [Back to top](#contents)
 
 --------------------
