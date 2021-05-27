@@ -2362,6 +2362,9 @@
 --------
 ![tech_wave26](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/tech_wave26.png)
 
+-----------
+![es1](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/es1.png)
+
 [Back to top](#contents)
 
 --------------------
