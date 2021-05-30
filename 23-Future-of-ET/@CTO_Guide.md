@@ -1,5 +1,7 @@
 ---------------------------
 
+#### Chief Technology Officer vs Coder Thinker Organizer
+
 -  [The CTO Series - An ongoing series of interviews with digital media CTOs](https://medium.com/the-cto-series)
 -  [Learnings from 80 startup CTOs](https://medium.com/@fesja/learnings-from-80-startup-ctos-88ddb5f9c024#.zh5okn2zv)
 -  [7 Habits of Highly Successful CTOs](https://medium.com/cto-school/7-habits-of-highly-successful-ctos-52bb90e3b1d2#.ln9f973p9)
@@ -241,13 +243,43 @@
  * [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) *(GitHub)*
  * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) *(GitHub)*
  * [Awesome.re](https://github.com/sindresorhus/awesome) *(GitHub)*
- * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Senior Software Engineer](https://staffeng.com)
  * [Socal CTO](https://www.socalcto.com/2011/09/startup-cto.html)
  * [Curated list of CTO resources](https://github.com/92bondstreet/cto) *(GitHub)*
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
  
+
+-------------
+------------
+
+
+- [CIO Profiles](https://www.nextiva.com/blog/top-cios.html)
+
+![tech_cio](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio.png)
+-------------
+![ET_CIO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/ET_CIO.png)
+--------------
+![tech_cio_analytics](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_analytics.png)
+-----------------
+![tech_cio_arc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_arc.png)
+---------
+![tech_cio_bit](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_bit.png)
+
+------------
+![tech_cio_infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_infrastructure.png)
+--------------
+![tech_cio_mc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_mc.png)
+-----------------
+![tech_cio_ppsm](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_ppsm.png)
+---------------
+![tech_cio_se](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_se.png)
+----------------
+![tech_cio_sec](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_sec.png)
+---------------
+
+![tech_cio_ta](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/cio/tech_cio_ta.png)
+
 
 ---------
 ----------------
