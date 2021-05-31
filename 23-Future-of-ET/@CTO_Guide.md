@@ -1,5 +1,6 @@
 ---------------------------
 
+
 #### Chief Technology Officer vs Coder Thinker Organizer
 
 -  [The CTO Series - An ongoing series of interviews with digital media CTOs](https://medium.com/the-cto-series)
