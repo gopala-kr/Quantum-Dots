@@ -70,6 +70,7 @@
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Media & Entertainment](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/met)**
+        - **Gaming**
         - *[Capability Map](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/scn/im.md)*
         - *Product/Services:*
     - **[Travel & Hospitality](https://github.com/gopala-kr/Quantum-Dots/tree/master/45-Verticals/logistics)**
@@ -237,6 +238,7 @@
   - **[Digital Technology Skills and Practices](#technology-skills-and-practices)**
   - **[Technology Applied - Use Cases](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/tech-use-cases.md)**
   - **[Enterprise Architecture Modeling](#enterprise-architecture-modeling)**
+     - [UW: Enterprise Architecture](https://itconnect.uw.edu/work/enterprise-architecture/)
      - **EA Standards & Frameworks**
        - TOGAF, Zachman, DODAF, MODAF, NAF, FEAF, Gartner, FEAF,PEAF, SABSA, IAF, Dragon1, ArchiMate, SAFe
      - **EA Tools**
@@ -2458,6 +2460,41 @@
 ![p49](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/ps/p49.png)
 
 [Back to top](#contents)
+
+-----------------
+-----------------------
+
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto2.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/ct3.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto4.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/ct5.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto6.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto7.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto8.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto9.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto10.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto11.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto12.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto13.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/ct014.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto15.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto16.png)
+-----------------------
+![cto2](https://github.com/gopala-kr/Quantum-Dots/blob/master/45-Verticals/tom/cto17.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
