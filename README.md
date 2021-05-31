@@ -11,7 +11,7 @@
 
 -------------
 - [[Week-23-31](https://github.com/gopala-kr/Quantum-Dots/tree/master/23-Future-of-ET)] - Oct-20 - Apr-21: Tech Industry Review (Horizontal + Vertical)
-- [[Week-32-33](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - Sep-20 - Apr-21: VIO Frameworks & Algorithms Review 
+- [[Week-32-33](https://github.com/gopala-kr/Quantum-Dots/tree/master/15-VIO-Algorithms)] - Sep-20 - Apr-21: VIO Frameworks & Algorithms Review :green_circle:
 
 ----------------------
 - [[Mar-2021](https://github.com/gopala-kr/Quantum-Dots/tree/master/M1-Quantum-UseCase-Analysis)] - Quantum Computing Use Case Analysis  :green_circle:
