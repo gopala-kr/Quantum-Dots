@@ -1,0 +1,64 @@
+Critical Capabilities for Robotic Process Automation (G00736358)
+Published: 18 Aug 2021
+"© 2014 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. or its affiliates. This publication may not be reproduced or distributed in any form without Gartner's prior written permission. If you are authorized to access this publication, your use of it is subject to the Usage Guidelines for Gartner Services posted on gartner.com. The information contained in this publication has been obtained from sources believed to be reliable. Gartner disclaims all warranties as to the accuracy, completeness or adequacy of such information and shall have no liability for errors, omissions or inadequacies in such information. This publication consists of the opinions of Gartner's research organization and should not be construed as statements of fact. The opinions expressed herein are subject to change without notice. Although Gartner research may include a discussion of related legal issues, Gartner does not provide legal advice or services and its research should not be construed or used as such. Gartner is a public company, and its shareholders may include firms and funds that have financial interests in entities covered in Gartner research. Gartner's Board of Directors may include senior managers of these firms or funds. Gartner research is produced independently by its research organization without input or influence from these firms, funds or their managers. For further information on the independence and integrity of Gartner research, see "Guiding Principles on Independence and Objectivity."
+
+This Critical Capabilities data constitutes Gartner's intellectual property.  Gartner prohibits any and all external use of this data which is intended to be used for internal use only within your enterprise.
+
+
+Weightings for Critical Capabilities in Use Cases  
+Use Cases / Critical Capabilities
+
+Gartner ,Automation Design and Development,UI Apps Creator For Automation,UI Integration,Self Healing Bots/Robots,Serverless Automation and API,Orchestrator/Control Panel,Process Discovery and Mining,Intelligent Document Processing,Auto-ML/NLP,SDLC and Multipersona Support,Hosting and Cloud Capabilities,DR and High Availability,Security & Compliance,Platform Ecosystem
+Automate via UI Integration,0.22,0.03,0.19,0.10,0,0.10,0.01,0,0.02,0.10,0.05,0.05,0.08,0.05
+Augment Knowledge Workers,0.08,0.05,0.15,0.03,0.02,0.02,0.02,0.10,0.35,0.03,0.02,0,0.04,0.09
+Accelerate Citizen Automation,0.15,0.10,0.09,0.02,0,0.06,0.20,0.05,0.09,0.07,0,0,0.07,0.10
+Automate Document Processing,0.10,0,0.09,0.03,0.09,0.10,0,0.25,0.15,0.05,0,0.04,0,0.10
+Create Headless Bots,0.04,0,0.10,0.07,0.40,0.04,0,0,0,0.05,0.25,0,0.05,0
+
+Custom
+
+
+Product Ratings on Critical Capabilities
+Vendors / Critical Capabilities
+
+Appian,4.2,4.3,3.8,4.0,3.8,4.0,3,3.9,4.3,4.3,3.9,4.5,4.1,4.4
+Automation Anywhere,4.5,4,4.4,4.4,3.5,4.3,3.9,4.1,4.2,4.3,4.3,3.9,4,4.5
+Blue Prism,4.3,3.8,4.4,4.3,3.3,4.4,3.6,3.4,3.9,4.1,4.3,3.7,4.3,4.5
+Cyclone Robotics,4,3.7,4.3,4.2,3.4,4.1,2.6,2.9,3.7,3.6,3.5,3.9,3.9,4
+EdgeVerve Systems,4.1,3.9,4.4,4.0,3.4,4.0,3.8,3.6,3.9,3.9,3.5,4,4,3.8
+IBM,3.8,3,4.0,3.5,3.4,3.8,3.7,3.2,4.4,3.8,3.5,3.8,3.6,4
+Kryon,4.2,3,4.3,3.6,3.5,3.9,4.0,3.1,3.5,3.8,3.7,3.4,3.6,3.7
+Laiye,3.9,3.5,4.3,4.1,3.3,3.9,3,3,4.3,4,3.9,3.8,3.2,4.2
+Microsoft,4.0,4.1,4.2,3.7,3.8,3.6,3.7,4.0,4.6,4.4,4.5,4.4,4.6,4.3
+NICE,4.3,3.8,4.6,4.4,3.5,4.2,3.9,3,4.2,4.3,4,4.4,4.2,4.5
+NTT,4.0,2.6,4.2,3.6,3,4.1,3.1,2.9,3,4,3,2.9,3.9,4.4
+Nintex,3.8,2.2,4.3,2.6,3.4,3.8,2,2.4,2.5,3.2,3,2,3.6,4.5
+Pegasystems,4.0,4.0,4.4,4.4,4.0,4.5,3.6,3.7,4,4.3,4.3,4,4.2,4.5
+SAP,4.2,3,4.5,3.5,3.7,3.9,3.8,3.6,3.7,3.6,3.8,3.7,4.4,4.5
+Samsung SDS,4.2,2,3.3,2.4,2,3.8,2.4,2.7,3,3,2.7,3.2,3.4,3.5
+Servicetrace,4.1,3.5,4.7,4.4,3.6,4.6,3.9,3,4.2,4.6,3.9,3,4.5,2.8
+UiPath,4.4,4.1,4.5,4.3,3.7,4.4,4.0,3.9,4,4.3,4.2,4.4,4,4.5
+WorkFusion,4,3.7,4.3,4,3.6,4.2,3,4.2,4.8,4.2,4,3.6,4.1,4.2
+
+
+Product Scores in Use Cases
+Vendors / Use Cases
+,Automate via UI Integration,Augment Knowledge Workers,Accelerate Citizen Automation,Automate Document Processing,Create Headless Bots
+Appian,4.09,4.12,3.93,4.08,3.9
+Automation Anywhere,4.32,4.25,4.21,4.2,3.99
+Blue Prism,4.26,4.04,4.05,3.93,3.9
+Cyclone Robotics,3.98,3.76,3.61,3.65,3.66
+EdgeVerve Systems,4.05,3.94,3.95,3.85,3.67
+IBM,3.77,3.93,3.74,3.73,3.55
+Kryon,3.9,3.67,3.78,3.62,3.7
+Laiye,3.95,3.97,3.7,3.75,3.68
+Microsoft,4.13,4.29,4.09,4.11,4.08
+NICE,4.33,4.14,4.13,3.93,3.93
+NTT,3.84,3.46,3.58,3.5,3.34
+Nintex,3.51,3.14,3.13,3.2,3.37
+Pegasystems,4.25,4.11,4.06,4.09,4.19
+SAP,4.03,3.91,3.92,3.89,3.85
+Samsung SDS,3.36,3.08,3.09,3.1,2.61
+Servicetrace,4.23,4.0,3.98,3.76,4.0
+UiPath,4.34,4.17,4.21,4.16,4.05
+WorkFusion,4.09,4.33,3.93,4.2,3.89
