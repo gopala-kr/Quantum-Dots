@@ -10,7 +10,7 @@ for Uncertainty
 - [Introduction_to_the_IT_Job_Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Introduction_to_the_IT_Job_Architecture.pptx)
 - [Sample_IT_Career_Pathing_Guide](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Sample_IT_Career_Pathing_Guide.pptx)
 - [Sample_Job_Family_Guide_Product_Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Sample_Job_Family_Guide_Product_Management.docx)
-- []()
+- [Leadership_Vision_for_2021_Enterprise_Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/751787_Leadership_Vision_for_2021_Enterprise_Architecture.pptx)
 - []()
 - []()
 - []()
