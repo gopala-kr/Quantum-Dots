@@ -12,7 +12,7 @@ for Uncertainty
 - [Sample_Job_Family_Guide_Product_Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Sample_Job_Family_Guide_Product_Management.docx)
 - [Leadership_Vision_for_2021_Enterprise_Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/751787_Leadership_Vision_for_2021_Enterprise_Architecture.pptx)
 - [Leadership_Vision_for_2022_Infrastructure_and_Operations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/756412_Leadership_Vision_for_2022_Infrastructure_and_Operations.pptx)
-- []()
+- [AI_Use-Case_Prism_for_Smart_Cities](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/AI_Use-Case_Prism_for_Smart_Cities_733818.pdf)
 - []()
 - []()
 - []()
