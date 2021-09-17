@@ -5,7 +5,7 @@ Trust, Growth and Change](https://github.com/gopala-kr/Quantum-Dots/blob/master/
 for Uncertainty
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/4_Critical_CSP_Scena_754195_ndx.pdf)
 - [Leadership_Vision_for_2022_Technology_Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/730839_Leadership_Vision_for_2022_Technology_Innovation.pptx)
-- []()
+- [Leadership_Vision_for_2021_Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/734696_Leadership_Vision_for_2021_Applications.pptx)
 - []()
 - []()
 - []()
