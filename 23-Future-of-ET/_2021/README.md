@@ -31,7 +31,7 @@ for Uncertainty
 -----------
 ![A-hierarchy-of-resources](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/A-hierarchy-of-resources.png)
 --------
-![]()
+![A-list-of-quantum-technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/A-list-of-quantum-technologies.png)
 --------
 ![]()
 --------
