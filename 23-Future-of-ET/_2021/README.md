@@ -16,9 +16,11 @@ for Uncertainty
 - [AI_for_the_Board](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/AI_for_the_Board_745161.pptx) [Doc](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/AI_for_the_Board_745161_ndx.pdf)
 - [Applying AI in Business Domains](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_in_Busin_745077_ndx.pdf)
 - [Applying AI in Industries](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_in_Indus_726651_ndx.pdf)
-- []()
-- []()
-- []()
+- [Applying AI — A Framework for the Enterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_%E2%80%94_A_Fram_725152_ndx.pdf)
+- [Applying AI — Key Trends and Futures](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_%E2%80%94_Key_Tr_745081_ndx.pdf)
+- [CIOs Need an IT Financial Plan, Not Just an IT Budget](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/CIOs_Need_an_IT_Fina_749534_ndx.pdf)
+
+
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
 
