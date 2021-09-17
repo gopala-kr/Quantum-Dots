@@ -7,7 +7,7 @@ for Uncertainty
 - [Leadership_Vision_for_2022_Technology_Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/730839_Leadership_Vision_for_2022_Technology_Innovation.pptx)
 - [Leadership_Vision_for_2021_Applications](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/734696_Leadership_Vision_for_2021_Applications.pptx)
 - [Examples_of_IT_Job_Architecture_Designs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Examples_of_IT_Job_Architecture_Designs.pptx)
-- []()
+- [Introduction_to_the_IT_Job_Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Introduction_to_the_IT_Job_Architecture.pptx)
 - []()
 - []()
 - []()
