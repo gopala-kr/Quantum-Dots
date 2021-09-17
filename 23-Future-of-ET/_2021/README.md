@@ -35,7 +35,7 @@ for Uncertainty
 --------
 ![A-pyramid-showing-several-different-types-of-technology-strategies-content](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/A-pyramid-showing-several-different-types-of-technology-strategies-content.png)
 --------
-![]()
+![ABI-and-DSML](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/ABI-and-DSML.png)
 --------
 ![]()
 --------
