@@ -26,3 +26,6 @@ for Uncertainty
 ![3DP-technology-and-service-providers](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-technology-and-service-providers.png)
 
 -----------
+![A-chart-showing-a-2-axis-approach-to-scoring-technologies](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/A-chart-showing-a-2-axis-approach-to-scoring-technologies.png)
+
+-----------
