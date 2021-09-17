@@ -9,10 +9,16 @@ for Uncertainty
 - [Examples_of_IT_Job_Architecture_Designs](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Examples_of_IT_Job_Architecture_Designs.pptx)
 - [Introduction_to_the_IT_Job_Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Introduction_to_the_IT_Job_Architecture.pptx)
 - [Sample_IT_Career_Pathing_Guide](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Sample_IT_Career_Pathing_Guide.pptx)
+- [Sample_Job_Family_Guide_Product_Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/742824_Sample_Job_Family_Guide_Product_Management.docx)
 - []()
 - []()
-
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
 
