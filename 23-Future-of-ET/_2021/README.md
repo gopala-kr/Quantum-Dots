@@ -80,7 +80,7 @@ for Uncertainty
 --------
 ![20Security%20Capabilities%20for%20Different%20Types%20of%20PaaS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203_%20PaaS%20Security%20Capabilities%20for%20Different%20Types%20of%20PaaS.png)
 --------
-![]()
+![Asset%20Management%20Tools%20Relationship](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%204.%20Asset%20Management%20Tools%20Relationship.png)
 --------
 ![]()
 --------
