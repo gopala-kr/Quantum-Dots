@@ -68,7 +68,7 @@ for Uncertainty
 --------
 ![Sourcing%20Strategies%20to%20Enable%20Operating%20Models%20Today](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Key%20Criteria%20Impacting%20CSP%20Sourcing%20Strategies%20to%20Enable%20Operating%20Models%20Today.png)
 --------
-![]()
+![20Covered%20in%20Magic%20Quadrants](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Major%20Salesforce%20Products%20Covered%20in%20Magic%20Quadrants.png)
 --------
 
 ![]()
