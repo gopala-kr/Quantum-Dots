@@ -78,7 +78,7 @@ for Uncertainty
 --------
 ![Future%20Support%20for%20Different%20Feature%20Categories](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203_%20Level%20of%20Current%20and%20Future%20Support%20for%20Different%20Feature%20Categories.png)
 --------
-![]()
+![20Security%20Capabilities%20for%20Different%20Types%20of%20PaaS](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203_%20PaaS%20Security%20Capabilities%20for%20Different%20Types%20of%20PaaS.png)
 --------
 ![]()
 --------
