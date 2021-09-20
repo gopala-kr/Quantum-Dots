@@ -64,7 +64,7 @@ for Uncertainty
 --------
 ![Figure%202.%20Software%20Adoption%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202.%20Software%20Adoption%20Driven%20by%20COVID-19.png)
 --------
-![]()
+![Portfolio%20Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Functional%20Activity%20Map%20for%20IT%20Score%20for%20Program%20and%20Portfolio%20Management.png)
 --------
 ![]()
 --------
