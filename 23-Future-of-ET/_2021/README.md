@@ -74,7 +74,7 @@ for Uncertainty
 ![.%20Applications%20for%20Wearable%20Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203.%20Applications%20for%20Wearable%20Technology.png)
 --------
 
-![]()
+![0Example%20Business%20Capabilitie](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203_%20Example%20Business%20Capabilities.png)
 --------
 ![]()
 --------
