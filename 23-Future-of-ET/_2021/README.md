@@ -49,7 +49,7 @@ for Uncertainty
 --------
 ![20Delivery](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2012_%20Integrating%20Testing%20Into%20a%20Continuous%20Integration_Continuous%20Delivery%20(CI_CD)%20Pipeline.png)
 --------
-![]()
+![20API](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2014_%20Web%20App%20and%20API%20Attack%20Pattern.png)
 --------
 ![]()
 --------
