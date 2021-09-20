@@ -47,7 +47,7 @@ for Uncertainty
 --------
 ![20Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2011_%20Application%20Security%20Reference%20Architecture.png)
 --------
-![]()
+![20Delivery](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2012_%20Integrating%20Testing%20Into%20a%20Continuous%20Integration_Continuous%20Delivery%20(CI_CD)%20Pipeline.png)
 --------
 ![]()
 --------
