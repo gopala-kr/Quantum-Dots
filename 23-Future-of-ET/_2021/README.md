@@ -45,7 +45,7 @@ for Uncertainty
 --------
 ![Figure](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2010_%20Kubernetes%20Components%20and%20Common%20Threats.png)
 --------
-![]()
+![20Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2011_%20Application%20Security%20Reference%20Architecture.png)
 --------
 ![]()
 --------
