@@ -54,7 +54,7 @@ for Uncertainty
 ![0Fully%20Assessing%20All%20Strategic%20Factors](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201_%20Create%20Leverage%20in%20Your%20Salesforce%20Deal%20by%20Fully%20Assessing%20All%20Strategic%20Factors.png)
 --------
 
-![]()
+![20Infrastructure](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201_%20Edge%20Computing%20Infrastructure%20Stack.png)
 --------
 ![]()
 --------
