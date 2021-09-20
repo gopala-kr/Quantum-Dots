@@ -62,7 +62,7 @@ for Uncertainty
 --------
 ![Portfolio%20Management%20Toward%20Other%20IT%20Po](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201_%20The%20Position%20of%20Application%20Portfolio%20Management%20Toward%20Other%20IT%20Portfolio%20Management%20Disciplines.png)
 --------
-![]()
+![Figure%202.%20Software%20Adoption%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202.%20Software%20Adoption%20Driven%20by%20COVID-19.png)
 --------
 ![]()
 --------
