@@ -43,7 +43,7 @@ for Uncertainty
 --------
 ![20and](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201.%20Gartner%20MOST%20Framework%20for%20Managing%20AI%20Trust%2C%20Risk%20and%20Security.png)
 --------
-![]()
+![Figure](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%2010_%20Kubernetes%20Components%20and%20Common%20Threats.png)
 --------
 ![]()
 --------
