@@ -58,7 +58,7 @@ for Uncertainty
 --------
 ![Roadmap%20Is%20a%20Part%20of%20the%20I%26T%20Strategic%20Plan](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201_%20I%26T%20Strategic%20Roadmap%20Is%20a%20Part%20of%20the%20I%26T%20Strategic%20Plan.png)
 --------
-![]()
+![PaaS%20Security%20Reference%20Architecture](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%201_%20PaaS%20Security%20Reference%20Architecture.png)
 --------
 ![]()
 --------
