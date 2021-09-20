@@ -71,7 +71,7 @@ for Uncertainty
 ![20Covered%20in%20Magic%20Quadrants](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Major%20Salesforce%20Products%20Covered%20in%20Magic%20Quadrants.png)
 --------
 
-![]()
+![.%20Applications%20for%20Wearable%20Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%203.%20Applications%20for%20Wearable%20Technology.png)
 --------
 
 ![]()
