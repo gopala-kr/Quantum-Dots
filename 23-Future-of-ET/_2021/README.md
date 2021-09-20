@@ -66,7 +66,7 @@ for Uncertainty
 --------
 ![Portfolio%20Management](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Functional%20Activity%20Map%20for%20IT%20Score%20for%20Program%20and%20Portfolio%20Management.png)
 --------
-![]()
+![Sourcing%20Strategies%20to%20Enable%20Operating%20Models%20Today](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%202_%20Key%20Criteria%20Impacting%20CSP%20Sourcing%20Strategies%20to%20Enable%20Operating%20Models%20Today.png)
 --------
 ![]()
 --------
