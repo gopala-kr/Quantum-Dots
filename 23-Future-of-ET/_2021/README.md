@@ -27,6 +27,12 @@ Master Data Management, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/mas
 - [Hype Cycle for Frontline Worker Technologies,
 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Front_747410_ndx.pdf)
 - [Hype Cycle for Blockchain, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Block_747513_ndx.pdf)
+- [Hype Cycle for Innovation Management
+Techniques, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Innov_748297_ndx.pdf)
+- [Hype Cycle for Smart City Technologies and
+Solutions, 2021
+](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Smart_747414_ndx.pdf)
+
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
