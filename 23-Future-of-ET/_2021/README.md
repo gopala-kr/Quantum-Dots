@@ -22,6 +22,10 @@ for Uncertainty
 - [Hype Cycle for Cloud Computing, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Cloud_747400_ndx.pdf)
 - [Hype Cycle for Data Science and Machine
 Learning, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Data__747536_ndx.pdf)
+- [Hype Cycle for Data and Analytics Governance and
+Master Data Management, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Data__747541_ndx.pdf)
+- [Hype Cycle for Frontline Worker Technologies,
+2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Front_747410_ndx.pdf)
 - [Hype Cycle for Blockchain, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Block_747513_ndx.pdf)
 
 ------------
