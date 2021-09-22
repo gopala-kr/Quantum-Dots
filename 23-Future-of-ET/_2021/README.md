@@ -32,6 +32,10 @@ Techniques, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Futur
 - [Hype Cycle for Smart City Technologies and
 Solutions, 2021
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Smart_747414_ndx.pdf)
+- [Hype Cycle for Smart City and Sustainability in
+China, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Smart_747462_ndx.pdf)
+- [Hype Cycle for the Digital Workplace, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_the_D_747500_ndx.pdf)
+- [Hype Cycle for the Future of Applications, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_the_F_747572_ndx.pdf)
 
 
 ------------
