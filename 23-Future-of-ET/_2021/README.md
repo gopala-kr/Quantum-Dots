@@ -99,12 +99,12 @@ China, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-
 --------
 ![Asset%20Management%20Tools%20Relationship](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Figure%204.%20Asset%20Management%20Tools%20Relationship.png)
 --------
-![]()
+![Hyperautomationcontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hyperautomationcontent.png)
 --------
-![]()
+![IT-_-Business-Shared-Responsibilitycontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/IT-_-Business-Shared-Responsibilitycontent.png)
 --------
-![]()
+![two-(CY-2)-and-current-year-plus-5-(CY%2B5)-conten](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/IT-spending-is-split-into-IT-Run%2C-IT-Change%2C-Parallel-Run-and-Depreciation%2C-covering-a-time-period-of-current-year-less-two-(CY-2)-and-current-year-plus-5-(CY%2B5)-content.png)
 --------
 
-![]()
+![will-face%2C-and-set-out-the-key-elements-of-successful-leadership](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/In-our-Leadership-Vision-for-2022-we-call-out-the-trends-that-enterprise-architects-and-their-teams-will-face%2C-and-set-out-the-key-elements-of-successful-leadership.png)
 --------
