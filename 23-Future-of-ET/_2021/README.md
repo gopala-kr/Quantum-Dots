@@ -19,6 +19,7 @@ for Uncertainty
 - [Applying AI — A Framework for the Enterprise](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_%E2%80%94_A_Fram_725152_ndx.pdf)
 - [Applying AI — Key Trends and Futures](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Applying_AI_%E2%80%94_Key_Tr_745081_ndx.pdf)
 - [CIOs Need an IT Financial Plan, Not Just an IT Budget](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/CIOs_Need_an_IT_Fina_749534_ndx.pdf)
+- [Hype Cycle for Cloud Computing, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Cloud_747400_ndx.pdf)
 - [Hype Cycle for Blockchain, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Hype_Cycle_for_Block_747513_ndx.pdf)
 
 ------------
