@@ -69,6 +69,10 @@ Ultramobiles, Worldwide, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/
 - [Predicts 2021: Disruptive Potential During the Next
 Decade of Quantum Computing
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Predicts_2021_Disru_737256_ndx.pdf)
+- [Predicts 2020: Resilience in Industrie 4.0 for
+Advanced Manufacturing Builds on Data and
+Collaboration Models](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Predicts_2020_Resil_465232_ndx.pdf)
+
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
