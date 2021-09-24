@@ -60,7 +60,8 @@ Collaboration Models](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-F
 - [The Innovation Leader’s Guide to Navigating the
 Cloud-Native Container Ecosystem
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/The_Innovation_Leade_745135_ndx.pdf)
-
+- [The Chief Data Scientist Role Is Key to Evolving
+Advanced Analytics and AI](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/The_Chief_Data_Scien_746089_ndx%20(2).pdf)
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
