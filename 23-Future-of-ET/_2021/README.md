@@ -48,7 +48,8 @@ Homes
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Top_4_Technologies_T_741919_ndx.pdf)
 - [Top 5 Strategic Technology Trends in
 Manufacturing Industries for 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Top_5_Strategic_Tech_745972_ndx.pdf)
-
+- [Worlds Collide as Augmented Analytics Draws
+Analytics, BI and Data Science Together](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Worlds_Collide_as_Au_752904_ndx.pdf)
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
