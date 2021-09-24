@@ -39,6 +39,9 @@ China, 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-
 - [Tool: Build an Elevator Pitch for Your Evolved PMO](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Tool_Build_an_Eleva_756659_ndx.pdf)
 - [Tool: Future of Work Leader Job Description](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Tool_Future_of_Work_754538_ndx.pdf)
 - [Toolkit: Data Literacy Organizational Assessment](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Toolkit_Data_Litera_720205_ndx.pdf)
+- [Toolkit: Frameworks and Templates for IT Job
+Architecture Design and Career Paths Development](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Toolkit_Frameworks__742824_ndx.pdf)
+
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
