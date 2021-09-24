@@ -51,7 +51,11 @@ Manufacturing Industries for 2021](https://github.com/gopala-kr/Quantum-Dots/blo
 - [Worlds Collide as Augmented Analytics Draws
 Analytics, BI and Data Science Together](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Worlds_Collide_as_Au_752904_ndx.pdf)
 - [forecast_IT_Services_IoT_2019-2025](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/forecast_IT_Services_IoT_2019-2025_750954.xlsx)
-- 
+- [Hype Cycle for Drones and Mobile Robots,
+2020
+](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/hype_cycle_for_drones_and_mo_441649%20(2).pdf)
+
+
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
 
