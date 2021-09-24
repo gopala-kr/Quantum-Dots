@@ -64,6 +64,9 @@ Cloud-Native Container Ecosystem
 Advanced Analytics and AI](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/The_Chief_Data_Scien_746089_ndx%20(2).pdf)
 - [The 2021 Supply Chain Technology Themes](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/The_2021_Supply_Chai_746014_ndx.pdf)
 - [Software Market View, 2020-2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Software_Market_View_754588_ndx.pdf)
+- [Semiconductor Forecast Fully-Equipped PCs and
+Ultramobiles, Worldwide, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Semiconductor_Foreca_750688_ndx.pdf)
+
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
