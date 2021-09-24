@@ -54,7 +54,9 @@ Analytics, BI and Data Science Together](https://github.com/gopala-kr/Quantum-Do
 - [Hype Cycle for Drones and Mobile Robots,
 2020
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/hype_cycle_for_drones_and_mo_441649%20(2).pdf)
-
+- [Predicts 2020: Resilience in Industrie 4.0 for
+Advanced Manufacturing Builds on Data and
+Collaboration Models](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/predicts_2020_resilience_in__465232.pdf)
 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
