@@ -50,7 +50,8 @@ Homes
 Manufacturing Industries for 2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Top_5_Strategic_Tech_745972_ndx.pdf)
 - [Worlds Collide as Augmented Analytics Draws
 Analytics, BI and Data Science Together](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Worlds_Collide_as_Au_752904_ndx.pdf)
-
+- [forecast_IT_Services_IoT_2019-2025](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/forecast_IT_Services_IoT_2019-2025_750954.xlsx)
+- 
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
 
