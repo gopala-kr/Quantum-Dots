@@ -181,11 +181,12 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 -----------
 ![Hype-Cycle-for-Hybrid-Infrastructure-Services%2C-2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Hype-Cycle-for-Hybrid-Infrastructure-Services%2C-2021-content.png)
 -----------
-![]()
+![Hype-Cycle-for-Managing-Operational-Technology%2C-2021_content](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Hype-Cycle-for-Managing-Operational-Technology%2C-2021_content.png)
 -----------
 ![]()
 -----------
 ![]()
 -----------
+![]()
 --------------
 -------------------
