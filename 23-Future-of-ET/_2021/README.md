@@ -148,3 +148,15 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 
 ![will-face%2C-and-set-out-the-key-elements-of-successful-leadership](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/In-our-Leadership-Vision-for-2022-we-call-out-the-trends-that-enterprise-architects-and-their-teams-will-face%2C-and-set-out-the-key-elements-of-successful-leadership.png)
 --------
+-----------
+![Downloadable_graphic_Hype_Cycle_for_Agile_and_DevOps_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_Agile_and_DevOps_2021.png)
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+
+--------------
+-------------------
