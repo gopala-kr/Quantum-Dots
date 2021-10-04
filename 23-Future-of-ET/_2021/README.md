@@ -155,7 +155,7 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 -----------
 ![Downloadable_graphic_Hype_Cycle_for_Cloud_Computing_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_Cloud_Computing_2021.png)
 -----------
-![]()
+![Downloadable_graphic_Hype_Cycle_for_Digital_Workplace_Infrastructure_and_Operations_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_Digital_Workplace_Infrastructure_and_Operations_2021.png)
 -----------
 ![]()
 -----------
