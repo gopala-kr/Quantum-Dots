@@ -177,7 +177,7 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 -----------
 ![Downloadable_graphic_Hype_Cycle_for_the_Internet_of_Things_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_the_Internet_of_Things_2021.png)
 -----------
-![]()
+![Hype-Cycle-for-Edge-Computing%2C-2021content](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Hype-Cycle-for-Edge-Computing%2C-2021content.png)
 -----------
 ![]()
 -----------
