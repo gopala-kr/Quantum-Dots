@@ -163,7 +163,7 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 -----------
 ![Downloadable_graphic_Hype_Cycle_for_Hybrid_Infrastructure_Services_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_Hybrid_Infrastructure_Services_2021.png)
 -----------
-![]()
+![Downloadable_graphic_Hype_Cycle_for_Managing_Operational_Technology_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Downloadable_graphic_Hype_Cycle_for_Managing_Operational_Technology_2021.png)
 -----------
 ![]()
 -----------
