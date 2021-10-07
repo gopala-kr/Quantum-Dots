@@ -209,5 +209,9 @@ Report
 
 -----------
 ![Detail-of-the-Core-Principles-Of-Composability](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Detail-of-the-Core-Principles-Of-Composability%2C-Applied-to-Business-Architecturecontent.png)
+
+----------
+![Prism2/Differences-between-traditional-and-composable-thinking-ar](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Differences-between-traditional-and-composable-thinking-are-described-in-detailcontent.png)
+
 --------------
 -------------------
