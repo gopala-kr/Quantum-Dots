@@ -206,5 +206,8 @@ Report
 
 ---------
 ![Composable-application-development-pipeline-is-depicted-as-creator-curator-composercontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Composable-application-development-pipeline-is-depicted-as-creator-curator-composercontent.png)
+
+-----------
+![Detail-of-the-Core-Principles-Of-Composability](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Detail-of-the-Core-Principles-Of-Composability%2C-Applied-to-Business-Architecturecontent.png)
 --------------
 -------------------
