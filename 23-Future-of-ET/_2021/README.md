@@ -201,5 +201,7 @@ Report
 --------
 ![Accessibility-Description](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Accessibility-Description-(Required)content%20(1).png)
 
+----------
+![Business-decisions-today-are-more-complex_](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Business-decisions-today-are-more-complex_.png)
 --------------
 -------------------
