@@ -77,7 +77,11 @@ Products](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/
 - [Market Share: PCs, Ultramobiles and Mobile
 Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Market_Share_PCs_U_757324_ndx.pdf)
 
+------------
+- [5 Ways Artificial Intelligence and Machine Learning
+Deliver Business Impacts](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/5_Ways_Artificial_In_745276_ndx.pdf)
 
+------------
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
 
