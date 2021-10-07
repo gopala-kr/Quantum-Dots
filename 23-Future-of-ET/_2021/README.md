@@ -203,5 +203,8 @@ Report
 
 ----------
 ![Business-decisions-today-are-more-complex_](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Business-decisions-today-are-more-complex_.png)
+
+---------
+![Composable-application-development-pipeline-is-depicted-as-creator-curator-composercontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Composable-application-development-pipeline-is-depicted-as-creator-curator-composercontent.png)
 --------------
 -------------------
