@@ -219,5 +219,8 @@ Report
 ------------
 ![he-four-design-principles-of-composability-are-modularity%2C-autonomy%2C-](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/The-four-design-principles-of-composability-are-modularity%2C-autonomy%2C-orchestration%2C-discoverycontent.png)
 
+------------
+![This-illustrating-diagram-depicts-Gartner%E2%80%99s-2021-Agile-and-DevOps](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/This-illustrating-diagram-depicts-Gartner%E2%80%99s-2021-Agile-and-DevOps-hype-cycle-content.png)
+
 --------------
 -------------------
