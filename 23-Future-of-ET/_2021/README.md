@@ -83,7 +83,7 @@ Deliver Business Impacts](https://github.com/gopala-kr/Quantum-Dots/blob/master/
 - [Becoming Composable: A Gartner Trend Insight
 Report
 ](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Becoming_Composable_753614_ndx.pdf)
-
+- [Building an Edge Computing Strategy](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Building_an_Edge_Com_753920_ndx.pdf)
 ------------
 ------------
 ![3DP-business%](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/3DP-business%2C-organizations-across-manufacturing-industry-verticals-are-able-to-develop-six-capabilitie.png)
