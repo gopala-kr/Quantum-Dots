@@ -216,5 +216,8 @@ Report
 -------------
 ![Infographic-detailing-18-methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Infographic-detailing-18-methods.png)
 
+------------
+![he-four-design-principles-of-composability-are-modularity%2C-autonomy%2C-](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/The-four-design-principles-of-composability-are-modularity%2C-autonomy%2C-orchestration%2C-discoverycontent.png)
+
 --------------
 -------------------
