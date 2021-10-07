@@ -213,5 +213,8 @@ Report
 ----------
 ![Prism2/Differences-between-traditional-and-composable-thinking-ar](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Differences-between-traditional-and-composable-thinking-are-described-in-detailcontent.png)
 
+-------------
+![Infographic-detailing-18-methods](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Infographic-detailing-18-methods.png)
+
 --------------
 -------------------
