@@ -195,6 +195,8 @@ Deliver Business Impacts](https://github.com/gopala-kr/Quantum-Dots/blob/master/
 
 ----------
 ![24-most-significant-technologies-for-digital-workplace](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/24-most-significant-technologies-for-digital-workplace-infrastructure-%26-operations-leaders-in-2021--content.png)
+--------
+![Accessibility-Description](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Accessibility-Description-(Required)content%20(1).png)
 
 --------------
 -------------------
