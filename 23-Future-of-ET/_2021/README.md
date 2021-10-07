@@ -80,6 +80,9 @@ Phones, All Countries, 2Q21 Update](https://github.com/gopala-kr/Quantum-Dots/bl
 ------------
 - [5 Ways Artificial Intelligence and Machine Learning
 Deliver Business Impacts](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/5_Ways_Artificial_In_745276_ndx.pdf)
+- [Becoming Composable: A Gartner Trend Insight
+Report
+](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/Prism2/Becoming_Composable_753614_ndx.pdf)
 
 ------------
 ------------
