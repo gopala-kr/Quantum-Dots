@@ -253,7 +253,7 @@ Report
 ------------
 ![Downloadable_graphic_Hype_Cycle_for_Unified_Communications_and_Collaboration_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_Unified_Communications_and_Collaboration_2021.png)
 ------------
-![]()
+![innovations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/New-innovations.png)
 ------------
 ![]()
 ------------
