@@ -259,8 +259,8 @@ Report
 ------------
 ![This-Hype-Cycle-describes-AI-innovations-at-different-phases-of-their-hype%2C-maturity](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/This-Hype-Cycle-describes-AI-innovations-at-different-phases-of-their-hype%2C-maturity-and-adoption-%E2%80%99content.png)
 ------------
-![]()
-------------
+![This-graph-shows-the-relative-growth%2C-size-and-penetration-of-Remote-Employees-in-20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/This-graph-shows-the-relative-growth%2C-size-and-penetration-of-Remote-Employees-in-2025-for-countries.png)
+
 
 
 --------------
