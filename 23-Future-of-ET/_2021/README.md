@@ -229,7 +229,7 @@ Report
 -----------------
 ![Downloadable_Graphic_Hype_Cycle_for_Business_Process_Services_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_Graphic_Hype_Cycle_for_Business_Process_Services_2021.png)
 ------------
-![]()
+![Downloadable_Graphic_Hype_Cycle_for_Manufacturing_Digital_Transformation_and_Innovation_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_Graphic_Hype_Cycle_for_Manufacturing_Digital_Transformation_and_Innovation_2021.png)
 ------------
 ![]()
 ------------
