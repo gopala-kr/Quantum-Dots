@@ -243,7 +243,7 @@ Report
 ------------
 ![Downloadable_graphic_Hype_Cycle_for_Enterprise_Information_Management_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_Enterprise_Information_Management_2021.png)
 ------------
-![]()
+![Downloadable_graphic_Hype_Cycle_for_IO_Automation_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_IO_Automation_2021.png)
 ------------
 ![]()
 ------------
