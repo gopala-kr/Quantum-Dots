@@ -231,7 +231,7 @@ Report
 ------------
 ![Downloadable_Graphic_Hype_Cycle_for_Manufacturing_Digital_Transformation_and_Innovation_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_Graphic_Hype_Cycle_for_Manufacturing_Digital_Transformation_and_Innovation_2021.png)
 ------------
-![]()
+![Downloadable_graphic_Hype_Cycle_for_Analytics_and_Business_Intelligence_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_Analytics_and_Business_Intelligence_2021.png)
 ------------
 ![]()
 ------------
