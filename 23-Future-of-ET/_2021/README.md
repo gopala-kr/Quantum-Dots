@@ -247,7 +247,7 @@ Report
 ------------
 ![Downloadable_graphic_Hype_Cycle_for_Identity_and_Access_Management_Technologies_2021](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_Identity_and_Access_Management_Technologies_2021.png)
 ------------
-![]()
+![Downloadable_graphic_Hype_Cycle_for_Open](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/Downloadable_graphic_Hype_Cycle_for_Open-Source_Software_2021.png)
 ------------
 ![]()
 ------------
