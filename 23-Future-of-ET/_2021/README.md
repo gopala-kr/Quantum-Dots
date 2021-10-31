@@ -255,7 +255,7 @@ Report
 ------------
 ![innovations](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/New-innovations.png)
 ------------
-![]()
+![The-Hype-Cycle-for-Data-Management%2C-2021%2C-plots-38-innovations-from-the-Innovation](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/The-Hype-Cycle-for-Data-Management%2C-2021%2C-plots-38-innovations-from-the-Innovation-Trigger-through-the-Plateau-of-Productivity-content.png)
 ------------
 ![]()
 ------------
