@@ -262,6 +262,8 @@ Report
 ![This-graph-shows-the-relative-growth%2C-size-and-penetration-of-Remote-Employees-in-20](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/HC21/This-graph-shows-the-relative-growth%2C-size-and-penetration-of-Remote-Employees-in-2025-for-countries.png)
 
 
+-----------
+- [THE STEEP COST OF CAPTURE](https://interactions.acm.org/archive/view/november-december-2021/the-steep-cost-of-capture?)
 
 --------------
 -------------------
