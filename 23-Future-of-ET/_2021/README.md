@@ -266,7 +266,7 @@ Report
 - [THE STEEP COST OF CAPTURE](https://interactions.acm.org/archive/view/november-december-2021/the-steep-cost-of-capture?)
 - [What If Alexa Could Read Your Mind?
 Image courtesy of Cognixion](https://www.designnews.com/industry/what-if-alexa-could-read-your-mind?)
-
+- [Autonomous Mobile Robotics Week Focuses on AMR Adoption Opportunities & Challenges](https://www.roboticsbusinessreview.com/rbr-webinars/autonomous-mobile-robotics-week-focuses-on-amr-adoption-opportunities-challenges/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_247)
 
 --------------
 -------------------
