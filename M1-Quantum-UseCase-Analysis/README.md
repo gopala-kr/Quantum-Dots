@@ -591,7 +591,11 @@ Swiss Canton of Geneva: Implemented for the first time IDQ’s hybrid encryption
 ---------------
 ![qc24](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/qc46.png)
 
+------------
+[[Predicts 2021: Disruptive Potential During the Next
+Decade of Quantum Computing](github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/Predicts_2021_Disru_737256_ndx.pdf)]
 
+![A-list-of-quantum-technologies-and-representative-list-of-providerscontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/A-list-of-quantum-technologies-and-representative-list-of-providerscontent.png)
 
 -------------
 -----------------
