@@ -8,3 +8,4 @@ for Reinforcement Learning Problems](https://bair.berkeley.edu/blog/2021/11/19/t
 - [DeepMind’s AI helps untangle the mathematics of knots](https://www.nature.com/articles/d41586-021-03593-1)
 - [Majority Report: 2022 Predictions on How AI Will Impact Global Industries](https://blogs.nvidia.com/blog/2021/12/07/2022-predictions-ai-global-industries/)
 - [Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs](https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/)
+- [Why we must rethink AI benchmarks](https://bdtechtalks.com/2021/12/06/ai-benchmarks-limitations/)
