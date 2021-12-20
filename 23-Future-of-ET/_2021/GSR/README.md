@@ -1,0 +1,1 @@
+- [General and Scalable Parallelization for Neural Networks](https://ai.googleblog.com/2021/12/general-and-scalable-parallelization.html)
