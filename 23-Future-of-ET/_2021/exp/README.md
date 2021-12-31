@@ -3,3 +3,5 @@
 ![A-bar-chart-showing-vendor-product-scores-for-the-API-based-integration-use-casecontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/_2021/exp/A-bar-chart-showing-vendor-product-scores-for-the-API-based-integration-use-casecontent.png)
 ---------------
 ![]()
+---------------
+![]()
