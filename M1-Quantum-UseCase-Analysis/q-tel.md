@@ -1,3 +1,5 @@
+![A-list-of-quantum-technologies-and-representative-list-of-providerscontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/A-list-of-quantum-technologies-and-representative-list-of-providerscontent.png)
+--------
 ![q1](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q12.PNG)
 -------------
 ![q1](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q2.PNG)
@@ -24,4 +26,5 @@
 ------------
 ![q1](https://github.com/gopala-kr/Quantum-Dots/blob/master/M1-Quantum-UseCase-Analysis/qc/q13.PNG)
 ------------
+
 
