@@ -10,3 +10,4 @@
 - [Circular Economy - Sustainable Materials Management](https://www.coursera.org/learn/circular-economy)
 - [Oil & Gas Industry Operations and Markets](https://www.coursera.org/learn/oilandgas)
 - [Energy Production, Distribution & Safety](https://www.coursera.org/specializations/energy-industry)
+- [Sustainable Cities and Communities](https://www.coursera.org/specializations/sustainable-cities)
