@@ -9,3 +9,4 @@
 - [Supply Chain Excellence](https://www.coursera.org/learn/supply-chain-excellence)
 - [Circular Economy - Sustainable Materials Management](https://www.coursera.org/learn/circular-economy)
 - [Oil & Gas Industry Operations and Markets](https://www.coursera.org/learn/oilandgas)
+- [Energy Production, Distribution & Safety](https://www.coursera.org/specializations/energy-industry)
