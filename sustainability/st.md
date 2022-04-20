@@ -4,3 +4,4 @@
 - [Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)
 - [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship)
 - [Geospatial and Environmental Analysis](https://www.coursera.org/learn/spatial-analysis)
+- [Supply Chain Excellence](https://www.coursera.org/learn/supply-chain-excellence)
