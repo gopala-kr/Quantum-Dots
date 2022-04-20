@@ -11,3 +11,4 @@
 - [Oil & Gas Industry Operations and Markets](https://www.coursera.org/learn/oilandgas)
 - [Energy Production, Distribution & Safety](https://www.coursera.org/specializations/energy-industry)
 - [Sustainable Cities and Communities](https://www.coursera.org/specializations/sustainable-cities)
+- [Exploring Renewable Energy Schemes](https://www.coursera.org/learn/exploring-renewable-energy)
