@@ -7,3 +7,4 @@
 - [Geospatial and Environmental Analysis](https://www.coursera.org/learn/spatial-analysis)
 - [Supply Chain Excellence](https://www.coursera.org/learn/supply-chain-excellence)
 - [Circular Economy - Sustainable Materials Management](https://www.coursera.org/learn/circular-economy)
+- [Oil & Gas Industry Operations and Markets](https://www.coursera.org/learn/oilandgas)
