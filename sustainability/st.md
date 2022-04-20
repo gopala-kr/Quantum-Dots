@@ -2,3 +2,4 @@
 - [New Models of Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
 - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants)
 - [Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)
+- [Geospatial and Environmental Analysis](https://www.coursera.org/learn/spatial-analysis)
