@@ -30,6 +30,11 @@
 - [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364.pdf)
 - [Artificial intelligence for Sustainable Energy: A Contextual Topic Modeling and Content Analysis](https://arxiv.org/ftp/arxiv/papers/2110/2110.00828.pdf)
 - [The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink](https://arxiv.org/ftp/arxiv/papers/2204/2204.05149.pdf)
-
+- [Artificial Intelligence
+and Climate Change
+Opportunities,
+considerations, and policy
+levers to align AI with
+climate change goals](https://eu.boell.org/sites/default/files/2021-04/Artificial%20Intelligence%20and%20Climate%20Change_FINAL_14042021.pdf)
 
 ---------------------
