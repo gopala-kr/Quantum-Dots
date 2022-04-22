@@ -27,5 +27,7 @@
 
 -------------------
 - [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364.pdf)
+- [Artificial intelligence for Sustainable Energy: A Contextual Topic Modeling and Content Analysis](https://arxiv.org/ftp/arxiv/papers/2110/2110.00828.pdf)
+
 
 ---------------------
