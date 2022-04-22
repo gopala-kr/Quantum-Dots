@@ -37,5 +37,7 @@ considerations, and policy
 levers to align AI with
 climate change goals](https://eu.boell.org/sites/default/files/2021-04/Artificial%20Intelligence%20and%20Climate%20Change_FINAL_14042021.pdf)
 - [The AI Gambit — Leveraging Artificial Intelligence to Combat Climate Change: Opportunities, Challenges, and Recommendations](https://www.researchgate.net/publication/350140929_The_AI_Gambit_-_Leveraging_Artificial_Intelligence_to_Combat_Climate_Change_Opportunities_Challenges_and_Recommendations)
+- [How are cities pledging net zero? A computational approach to analyzing subnational climate strategies](https://arxiv.org/ftp/arxiv/papers/2112/2112.11207.pdf)
+
 
 ---------------------
