@@ -24,3 +24,8 @@
 - [Electric Vehicles and Mobility](https://www.coursera.org/learn/electric-vehicles-mobility)
 - [Transformation of the Global Food System](https://www.coursera.org/learn/transformation-global-food-system)
 - [Corporate Sustainability. Understanding and Seizing the Strategic Opportunity](https://www.coursera.org/learn/corp-sustainability)
+
+-------------------
+- [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364.pdf)
+
+---------------------
