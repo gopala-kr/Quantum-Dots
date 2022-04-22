@@ -26,6 +26,7 @@
 - [Corporate Sustainability. Understanding and Seizing the Strategic Opportunity](https://www.coursera.org/learn/corp-sustainability)
 
 -------------------
+- [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433.pdf)
 - [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/pdf/2111.00364.pdf)
 - [Artificial intelligence for Sustainable Energy: A Contextual Topic Modeling and Content Analysis](https://arxiv.org/ftp/arxiv/papers/2110/2110.00828.pdf)
 
