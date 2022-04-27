@@ -116,6 +116,13 @@
 ![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci65.png)
 --------
 ![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci66.png)
-
+--------
+![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci67.png)
+--------
+![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci68.png)
+--------
+![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci69.png)
+--------
+![sci61](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci70.png)
 --------------
 ---------------
