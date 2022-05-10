@@ -1,6 +1,6 @@
 ![sci1](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci1.png)
 ---------------
-![sci1](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci2.png)
+![sci1](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci2_.png)
 ---------------
 ![sci1](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/sci3.png)
 ---------------
