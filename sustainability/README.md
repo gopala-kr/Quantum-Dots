@@ -5,7 +5,11 @@
 ![energy-transitions](https://www.visualcapitalist.com/wp-content/uploads/2022/04/energy-transitions.jpg)
 
 ------------
+![Coal-Production-2024-06](https://www.visualcapitalist.com/wp-content/uploads/2022/02/Coal-Production-2024-06.jpg)
+
+------------
 ![coal-power-electricity-phase-out-chart](https://www.visualcapitalist.com/wp-content/uploads/2022/04/coal-power-electricity-phase-out-chart.jpg)
+
 -------
 ![All](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/All.png)
 
