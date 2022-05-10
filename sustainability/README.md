@@ -17,12 +17,19 @@
 ![coal-power-electricity-phase-out-chart](https://www.visualcapitalist.com/wp-content/uploads/2022/04/coal-power-electricity-phase-out-chart.jpg)
 
 -------
+![worlds-biggest-crude-oil-reserves-by-country-1](https://www.visualcapitalist.com/wp-content/uploads/2019/03/worlds-biggest-crude-oil-reserves-by-country-1.jpg)
+
+--------
 ![COTW-OilDiscoveries-21](https://www.visualcapitalist.com/wp-content/uploads/2019/11/COTW-OilDiscoveries-21.png)
 
 -----------
 ![All](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/All.png)
 
 ------------
+![standard-oil-timeline](https://www.visualcapitalist.com/wp-content/uploads/2017/11/standard-oil-timeline.jpg)
+
+
+-----------
 ![Carbon-Emissions-20-Companies-Correctio](https://www.visualcapitalist.com/wp-content/uploads/2019/10/Carbon-Emissions-20-Companies-Correction.jpg)
 
 ------------
@@ -39,6 +46,9 @@
 
 -----------------
 ![solar-power-by-country-new](https://elements.visualcapitalist.com/wp-content/uploads/2021/11/solar-power-by-country-new.jpg)
+
+---------------
+![co_emissions2](https://www.visualcapitalist.com/wp-content/uploads/2017/06/co_emissions2.jpg)
 
 ------------------
 
@@ -64,6 +74,9 @@
 
 -----------
 ![VCE-Chinas-Plan-to-Go-Green-v1.8.](visualcapitalist.com/wp-content/uploads/2021/07/VCE-Chinas-Plan-to-Go-Green-v1.8.jpg)
+
+------------
+![hhi-natural-resources-competition](https://www.visualcapitalist.com/wp-content/uploads/2018/12/hhi-natural-resources-competition.jpg)
 
 ----------
 ------------
@@ -99,7 +112,23 @@
 -----------
 ![Hydrogen_Part2_V6](https://www.visualcapitalist.com/wp-content/uploads/2019/05/Hydrogen_Part2_V6.jpg)
 
+------------
+![mining-for-climate-action-infographic-1200](https://www.visualcapitalist.com/wp-content/uploads/2019/03/mining-for-climate-action-infographic-1200.jpg)
 
+---------
+![chart-lithium-ion-growth](https://www.visualcapitalist.com/wp-content/uploads/2018/10/chart-lithium-ion-growth.jpg)
+--------
+![raw-materials-green-revolution](https://www.visualcapitalist.com/wp-content/uploads/2018/01/raw-materials-green-revolution.jpg)
+
+------------
+![future-ships-infographic](https://www.visualcapitalist.com/wp-content/uploads/2017/12/future-ships-infographic.jpg)
 
 -------
 --------------
+
+![black-market-illicit-oil](https://www.visualcapitalist.com/wp-content/uploads/2017/05/black-market-illicit-oil.jpg)
+
+---------------
+![worlds-deepest-oil-well2](https://www.visualcapitalist.com/wp-content/uploads/2017/03/worlds-deepest-oil-well2.jpg)
+
+----------
