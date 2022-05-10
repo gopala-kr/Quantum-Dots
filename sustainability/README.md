@@ -1,8 +1,14 @@
 #### Sustainability
 
 ---------------
+![economic-risks-global-2020](https://www.visualcapitalist.com/wp-content/uploads/2020/01/economic-risks-global-2020.jpg)
+
+-------------
 
 ![energy-transitions](https://www.visualcapitalist.com/wp-content/uploads/2022/04/energy-transitions.jpg)
+
+-----------
+![1200px-wide](https://www.visualcapitalist.com/wp-content/uploads/2019/08/1200px-wide.jpg)
 
 ------------
 ![Coal-Production-2024-06](https://www.visualcapitalist.com/wp-content/uploads/2022/02/Coal-Production-2024-06.jpg)
@@ -11,7 +17,13 @@
 ![coal-power-electricity-phase-out-chart](https://www.visualcapitalist.com/wp-content/uploads/2022/04/coal-power-electricity-phase-out-chart.jpg)
 
 -------
+![COTW-OilDiscoveries-21](https://www.visualcapitalist.com/wp-content/uploads/2019/11/COTW-OilDiscoveries-21.png)
+
+-----------
 ![All](https://github.com/gopala-kr/Quantum-Dots/blob/master/sustainability/sci/All.png)
+
+------------
+![Carbon-Emissions-20-Companies-Correctio](https://www.visualcapitalist.com/wp-content/uploads/2019/10/Carbon-Emissions-20-Companies-Correction.jpg)
 
 ------------
 ![The-Clean-Energy-Employment-Shift](https://www.visualcapitalist.com/wp-content/uploads/2022/03/The-Clean-Energy-Employment-Shift.jpg)
@@ -72,6 +84,22 @@
 
 -----------
 ![us-energy-consumption-2019](https://www.visualcapitalist.com/wp-content/uploads/2020/05/us-energy-consumption-2019.png)
+
+------------
+![lithium-ion-supply-chain-china-vs-us-full](https://www.visualcapitalist.com/wp-content/uploads/2019/12/lithium-ion-supply-chain-china-vs-us-full.jpg)
+
+-----------
+![sustainable-energy-policies-index](visualcapitalist.com/wp-content/uploads/2019/10/sustainable-energy-policies-index.jpg)
+
+----------
+![commodity-super-cycle-chart](https://www.visualcapitalist.com/wp-content/uploads/2019/08/commodity-super-cycle-chart.jpg)
+
+-------------
+![AFPM-HowMuchOilEV-Infographic-1.1](https://www.visualcapitalist.com/wp-content/uploads/2019/05/AFPM-HowMuchOilEV-Infographic-1.1.jpg)
+-----------
+![Hydrogen_Part2_V6](https://www.visualcapitalist.com/wp-content/uploads/2019/05/Hydrogen_Part2_V6.jpg)
+
+
 
 -------
 --------------
