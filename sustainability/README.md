@@ -13,3 +13,6 @@
 ![The-Clean-Energy-Employment-Shift](https://www.visualcapitalist.com/wp-content/uploads/2022/03/The-Clean-Energy-Employment-Shift.jpg)
 
 -----
+![EV-Battery-Manufacturing-Capacity-by-Region-2021-1](https://www.visualcapitalist.com/wp-content/uploads/2022/02/EV-Battery-Manufacturing-Capacity-by-Region-2021-1.jpg)
+
+------
