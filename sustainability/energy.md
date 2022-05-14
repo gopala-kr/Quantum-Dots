@@ -1,0 +1,1 @@
+- [2022 renewable energy industry outlook](https://www2.deloitte.com/us/en/pages/energy-and-resources/articles/renewable-energy-outlook.html)
