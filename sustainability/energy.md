@@ -1,3 +1,3 @@
 - [2022 renewable energy industry outlook](https://www2.deloitte.com/us/en/pages/energy-and-resources/articles/renewable-energy-outlook.html)
 - [Economic Survey 2021-22: Directions for energy](https://www.orfonline.org/expert-speak/economic-survey-2021-22-2/)
-
+- [2021 energy industry CEO survey](https://recordtrend.com/kpmg/2021-energy-industry-ceo-survey-from-kpmg/)
