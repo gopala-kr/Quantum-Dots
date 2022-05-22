@@ -41,5 +41,9 @@ climate change goals](https://eu.boell.org/sites/default/files/2021-04/Artificia
 
 --------------
 - [Three pillars of sustainability: in search of conceptual origins](https://link.springer.com/article/10.1007/s11625-018-0627-5)
+- [Report of the World Commission on Environment and
+Development: Our Common Future
+](https://sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf)
+
 
 ---------------------
