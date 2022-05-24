@@ -21,3 +21,6 @@
 ![ESG-1024x530](https://www.safetystratus.com/wp-content/uploads/2021/08/ESG-1024x530.png)
 
 ----------
+![ESG-4-Areas-Infographic_final](communications.ghd.com/images/ESG-4-Areas-Infographic_final.gif)
+
+------------
