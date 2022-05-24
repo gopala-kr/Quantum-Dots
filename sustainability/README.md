@@ -4,7 +4,7 @@
 - [Business Schools Respond to a Flood of Interest in E.S.G.](https://www.nytimes.com/2021/11/13/business/dealbook/business-schools-esg.html)
 - [why-sdgs-are-important-for-startups](https://gruenderatelier.de/why-sdgs-are-important-for-startups/)
 - [sdgs-global-startup-competition](https://www.unwto.org/sdgs-global-startup-competition)
-- []()
+- [startus-insights.com/innovators-guide/top-startups-scaleups-advancing-the-17-united-nations-sustainable-development-goals-sdgs/](https://www.startus-insights.com/innovators-guide/top-startups-scaleups-advancing-the-17-united-nations-sustainable-development-goals-sdgs/)
 
 
 --------------
