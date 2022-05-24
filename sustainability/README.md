@@ -6,7 +6,7 @@
 - [sdgs-global-startup-competition](https://www.unwto.org/sdgs-global-startup-competition)
 - [startus-insights.com/innovators-guide/top-startups-scaleups-advancing-the-17-united-nations-sustainable-development-goals-sdgs/](https://www.startus-insights.com/innovators-guide/top-startups-scaleups-advancing-the-17-united-nations-sustainable-development-goals-sdgs/)
 - [startup.google.com/accelerator/sdg/](https://startup.google.com/accelerator/sdg/)
-
+- [17 Govtech startups working towards 17 Sustainable Development Goals](https://apolitical.co/solution-articles/en/govtech-startups-sustainable-development-goals)
 --------------
 ![SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize](https://cdn.startus-insights.com/wp-content/uploads/2021/07/SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize.png)
 -------------
