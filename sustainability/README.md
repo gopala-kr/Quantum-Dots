@@ -10,6 +10,9 @@
 - [11 startups addressing global problems](https://blog.google/outreach-initiatives/entrepreneurs/11-startups-addressing-global-problems/)
 - [Resources for Startups to Advance the SDGs](https://medium.com/startingupgood/resources-for-startups-to-advance-the-sdgs-aa4eed028690)
 - [17 Companies Helping Meet the 17 UN Sustainable Development Goals](https://fi.co/insight/17-companies-helping-meet-the-17-un-sustainable-development-goals)
+- [Solutions driven Startups to be rewarded for UN SDG aligned solutions](https://www.fastcompany.co.za/inspiration/solutions-driven-startups-to-be-rewarded-for-un-sdg-aligned-solutions-2bad61eb-8803-441b-a27f-032a5ef517fe)
+
+
 --------------
 ![SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize](https://cdn.startus-insights.com/wp-content/uploads/2021/07/SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize.png)
 -------------
