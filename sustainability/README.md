@@ -18,3 +18,6 @@
 ![Zz01OGVkYmE5ZTQ2ZjQxMWVjOTg5MzA2MWI3NmNjN2RjYw](https://images-cdn.welcomesoftware.com/Zz01OGVkYmE5ZTQ2ZjQxMWVjOTg5MzA2MWI3NmNjN2RjYw==)
 
 ---------------
+![ESG-1024x530](https://www.safetystratus.com/wp-content/uploads/2021/08/ESG-1024x530.png)
+
+----------
