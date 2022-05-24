@@ -9,6 +9,7 @@
 - [17 Govtech startups working towards 17 Sustainable Development Goals](https://apolitical.co/solution-articles/en/govtech-startups-sustainable-development-goals)
 - [11 startups addressing global problems](https://blog.google/outreach-initiatives/entrepreneurs/11-startups-addressing-global-problems/)
 - [Resources for Startups to Advance the SDGs](https://medium.com/startingupgood/resources-for-startups-to-advance-the-sdgs-aa4eed028690)
+- [17 Companies Helping Meet the 17 UN Sustainable Development Goals](https://fi.co/insight/17-companies-helping-meet-the-17-un-sustainable-development-goals)
 --------------
 ![SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize](https://cdn.startus-insights.com/wp-content/uploads/2021/07/SDGs-Startups-Meta-Article-Innovation-Map-StartUs-Insights-noresize.png)
 -------------
