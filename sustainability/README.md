@@ -28,3 +28,6 @@
 ![ESG-4-Areas-Infographic_final](communications.ghd.com/images/ESG-4-Areas-Infographic_final.gif)
 
 ------------
+![screen-shot-2021-03-29-at-10.42.04-1024x949](kurtosys.com/uploads/2021/03/2195aa7fba328740d04fea75e3498cba/screen-shot-2021-03-29-at-10.42.04-1024x949.png)
+
+-------------
