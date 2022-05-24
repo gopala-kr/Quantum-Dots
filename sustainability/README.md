@@ -11,3 +11,7 @@
 
 -------------
 ![esg/ESG%20Highlight%20EN](https://www.aia.com/content/dam/group/en/esg/ESG%20Highlight%20EN.png)
+
+----------
+![Zz1lMWFiNzZkMGM4Y2ExMWViYjkwYjY3YzI1YjE4YzI4Nw](https://images-cdn.welcomesoftware.com/Zz1lMWFiNzZkMGM4Y2ExMWViYjkwYjY3YzI1YjE4YzI4Nw==)
+----------
