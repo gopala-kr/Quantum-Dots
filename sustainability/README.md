@@ -42,6 +42,8 @@
 - [The net-zero transition: What it would cost, what it could bring](mckinsey.com/business-functions/sustainability/our-insights/the-net-zero-transition-what-it-would-cost-what-it-could-bring)
 - [Quantum computing just might save the planet](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/quantum-computing-just-might-save-the-planet)
 - [The big choices for oil and gas in navigating the energy transition](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-big-choices-for-oil-and-gas-in-navigating-the-energy-transition)
+- [Climate risk and response: Physical hazards and socioeconomic impacts](mckinsey.com/business-functions/sustainability/our-insights/climate-risk-and-response-physical-hazards-and-socioeconomic-impacts)
+
 
 ----------
 
