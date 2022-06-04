@@ -37,12 +37,18 @@
 - [Global Energy Perspective 2022](https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2022)
 - [McKinsey Platform for Climate Technologies](https://www.mckinsey.com/business-functions/sustainability/how-we-help-clients/mckinsey-platform-for-climate-technologies)
 - [Delivering the climate technologies needed for net zero](https://www.mckinsey.com/business-functions/sustainability/our-insights/delivering-the-climate-technologies-needed-for-net-zero)
-- [McKinsey partners with Stripe, Alphabet, Shopify, and Meta on $925 million carbon removal commitment](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-partners-with-stripe-alphabet-shopify-and-meta-on-$925-million-carbon-removal-commitment)
 - [McKinsey launches new climate technology effort to accelerate decarbonization](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-launches-new-climate-technology-effort-to-accelerate-decarbonization)
 - [The net-zero transition: What it would cost, what it could bring](mckinsey.com/business-functions/sustainability/our-insights/the-net-zero-transition-what-it-would-cost-what-it-could-bring)
 - [Quantum computing just might save the planet](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/quantum-computing-just-might-save-the-planet)
 - [The big choices for oil and gas in navigating the energy transition](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-big-choices-for-oil-and-gas-in-navigating-the-energy-transition)
 - [Climate risk and response: Physical hazards and socioeconomic impacts](mckinsey.com/business-functions/sustainability/our-insights/climate-risk-and-response-physical-hazards-and-socioeconomic-impacts)
+- [McKinsey partners with Stripe, Alphabet, Shopify, and Meta on $925 million carbon removal commitment](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-partners-with-stripe-alphabet-shopify-and-meta-on-$925-million-carbon-removal-commitment)
+- [Emissions reduction goals and opportunities in the Asia–Pacific region](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/nature-risk-is-the-next-challenge-that-demands-a-global-solution)
+- [Nature risk is the next challenge that demands a global solution](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/nature-risk-is-the-next-challenge-that-demands-a-global-solution)
+- [How Big Business Is Taking the Lead on Climate Change](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/how-big-business-is-taking-the-lead-on-climate-change)
+- [Unlocking innovation to lead in the energy transition: Nine questions for executives](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/unlocking-innovation-to-lead-in-the-energy-transition-nine-questions-for-executives)
+- [Beyond decarbonization: Scaling investment in natural capital and carbon removals](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/beyond-decarbonization-scaling-investment-in-natural-capital-and-carbon-removals)
+- [Building Resilient Cities: Addressing Climate Risk and Reaching Net Zero](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/building-resilient-cities-addressing-climate-risk-and-reaching-net-zero)
 
 
 ----------
