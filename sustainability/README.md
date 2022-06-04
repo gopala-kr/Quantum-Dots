@@ -54,7 +54,18 @@
 - [This surprising change can help the auto industry tackle emissions goals](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/this-surprising-change-can-help-the-auto-industry-tackle-emissions-goals)
 - [Climate change hits the poor hardest. Here’s how to protect them](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/climate-change-hits-the-poor-hardest-heres-how-to-protect-them)
 - [The fashion industry can reduce emissions across the entire value chain](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/the-fashion-industry-can-reduce-emissions-across-the-entire-value-chain)
+- [Refashioning clothing’s environmental impact](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/refashioning-clothings-environmental-impact)
 - [Three things China can do to fight climate change](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/three-things-china-can-do-to-fight-climate-change)
+- [Here’s how the mining industry can respond to climate change](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/here-is-how-the-mining-industry-can-respond-to-climate-change)
+- [Renewable hybrid energy systems as a game changer in India](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/renewable-hybrid-energy-systems-as-a-game-changer-in-india)
+- [Seamless urban mobility](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/seamless-urban-mobility)
+- [The transport sector’s radical new dynamics](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/the-transport-sector-radical-new-dynamics)
+- [Decarbonizing the grid: Stabilizing the future of renewables](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/decarbonizing-the-grid-stabilizing-the-future-of-renewables)
+- [How blockchain can help the utility industry develop clean power](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/how-blockchain-can-help-the-utility-industry-develop-clean-power)
+- [How AI can unlock a $127B opportunity by reducing food waste](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/how-ai-can-unlock-a-127b-opportunity-by-reducing-food-waste)
+- [Three steps to future-proofing infrastructure assets from climate change](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/three-steps-to-future-proofing-infrastructure-assets-from-climate-change)
+- [Five minutes in the city of the future](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/emissions-reduction-goals-and-opportunities-in-the-asia-pacific-region)
+- [Decarbonizing industry will take time and money—but here’s how to get a head start](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/decarbonizing-industry-will-take-time-and-money-but-heres-how-to-get-a-head-start)
 
 
 ----------
