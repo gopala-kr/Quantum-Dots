@@ -33,6 +33,7 @@
 - [Innovate to net zero](https://www.mckinsey.com/business-functions/sustainability/our-insights/innovate-to-net-zero)
 - [Innovating to net zero: An executive’s guide to climate technology](https://www.mckinsey.com/business-functions/sustainability/our-insights/innovating-to-net-zero-an-executives-guide-to-climate-technology)
 - [Decarbonizing the world’s industries: A net-zero guide for nine key sectors](https://www.mckinsey.com/business-functions/sustainability/our-insights/decarbonizing-the-world-industries-a-net-zero-guide-for-nine-key-sectors)
+- [Climate math: What a 1.5-degree pathway would take](mckinsey.com/business-functions/sustainability/our-insights/climate-math-what-a-1-point-5-degree-pathway-would-take)
 - [Global Energy Perspective 2022](https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2022)
 - [McKinsey Platform for Climate Technologies](https://www.mckinsey.com/business-functions/sustainability/how-we-help-clients/mckinsey-platform-for-climate-technologies)
 - [Delivering the climate technologies needed for net zero](https://www.mckinsey.com/business-functions/sustainability/our-insights/delivering-the-climate-technologies-needed-for-net-zero)
