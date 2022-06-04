@@ -49,6 +49,12 @@
 - [Unlocking innovation to lead in the energy transition: Nine questions for executives](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/unlocking-innovation-to-lead-in-the-energy-transition-nine-questions-for-executives)
 - [Beyond decarbonization: Scaling investment in natural capital and carbon removals](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/beyond-decarbonization-scaling-investment-in-natural-capital-and-carbon-removals)
 - [Building Resilient Cities: Addressing Climate Risk and Reaching Net Zero](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/building-resilient-cities-addressing-climate-risk-and-reaching-net-zero)
+- [How climate change affects people and populations: A research preview](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/how-climate-change-affects-people-and-populations-a-research-preview)
+- [Time is running out for business leaders who don’t have a ‘net zero’ strategy](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/time-is-running-out-for-business-leaders-net-zero-strategy)
+- [This surprising change can help the auto industry tackle emissions goals](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/this-surprising-change-can-help-the-auto-industry-tackle-emissions-goals)
+- [Climate change hits the poor hardest. Here’s how to protect them](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/climate-change-hits-the-poor-hardest-heres-how-to-protect-them)
+- [The fashion industry can reduce emissions across the entire value chain](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/the-fashion-industry-can-reduce-emissions-across-the-entire-value-chain)
+- [Three things China can do to fight climate change](mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/three-things-china-can-do-to-fight-climate-change)
 
 
 ----------
