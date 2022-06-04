@@ -41,6 +41,7 @@
 - [McKinsey launches new climate technology effort to accelerate decarbonization](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinsey-launches-new-climate-technology-effort-to-accelerate-decarbonization)
 - [The net-zero transition: What it would cost, what it could bring](mckinsey.com/business-functions/sustainability/our-insights/the-net-zero-transition-what-it-would-cost-what-it-could-bring)
 - [Quantum computing just might save the planet](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/quantum-computing-just-might-save-the-planet)
+- [The big choices for oil and gas in navigating the energy transition](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-big-choices-for-oil-and-gas-in-navigating-the-energy-transition)
 
 ----------
 
