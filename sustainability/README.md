@@ -31,6 +31,7 @@
 #### McKinsey Sustainability
 
 - [Innovate to net zero](https://www.mckinsey.com/business-functions/sustainability/our-insights/innovate-to-net-zero)
+- [Decarbonizing the world’s industries: A net-zero guide for nine key sectors](https://www.mckinsey.com/business-functions/sustainability/our-insights/decarbonizing-the-world-industries-a-net-zero-guide-for-nine-key-sectors)
 - [Global Energy Perspective 2022](https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2022)
 - [McKinsey Platform for Climate Technologies](https://www.mckinsey.com/business-functions/sustainability/how-we-help-clients/mckinsey-platform-for-climate-technologies)
 - [Delivering the climate technologies needed for net zero](https://www.mckinsey.com/business-functions/sustainability/our-insights/delivering-the-climate-technologies-needed-for-net-zero)
