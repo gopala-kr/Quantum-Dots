@@ -66,7 +66,9 @@
 - [Three steps to future-proofing infrastructure assets from climate change](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/three-steps-to-future-proofing-infrastructure-assets-from-climate-change)
 - [Five minutes in the city of the future](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/emissions-reduction-goals-and-opportunities-in-the-asia-pacific-region)
 - [Decarbonizing industry will take time and money—but here’s how to get a head start](https://www.mckinsey.com/business-functions/sustainability/our-insights/sustainability-blog/decarbonizing-industry-will-take-time-and-money-but-heres-how-to-get-a-head-start)
-
+- [The role of space in driving sustainability, security, and development on Earth](https://www.mckinsey.com/~/media/mckinsey/industries/aerospace%20and%20defense/our%20insights/the%20role%20of%20space%20in%20driving%20sustainability%20security%20and%20development%20on%20earth/the-role-of-space-in-driving-sustainability-security-and-development-on-earth-vf.pdf)
+- [Sustainability in semiconductor operations: Toward net-zero production](https://www.mckinsey.com/industries/semiconductors/our-insights/sustainability-in-semiconductor-operations-toward-net-zero-production)
+- [Building a green business: Lessons from sustainability start-ups](https://www.mckinsey.com/business-functions/sustainability/our-insights/building-a-green-business-lessons-from-sustainability-start-ups)
 
 ----------
 
@@ -80,6 +82,8 @@
 --------
 ![svgz-netzeroinnovation-ex](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/innovating%20to%20net%20zero%20an%20executives%20guide%20to%20climate%20technology/svgz-netzeroinnovation-ex1.svgz)
 
+---------------
+![mck_tech%20sustainability%20gbb_ex1](mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/building%20a%20green%20business%20lessons%20from%20sustainability%20start%20ups/svgz_mck_tech%20sustainability%20gbb_ex1.svgz)
 
 ------------------------------
 
