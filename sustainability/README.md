@@ -10,6 +10,48 @@
 
 
 #### Industries
+- Natural Resources
+  - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
+  - [Global Resources Company](https://coronadoglobal.com/wp-content/uploads/2022/05/2021-Coronado-Sustainability-Report-FINAL.pdf)
+  - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
+- Chemicals
+  - [Nitto Denko Corporation](https://www.nitto.com/share/ebook/2021/en/?utm_source=Click&utm_medium=ebook_en&utm_campaign=ebook_en)
+  - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
+  - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
+  - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
+- Energy
+  - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
+  - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
+  - [ENI S.p.A.](https://www.eni.com/assets/documents/eng/reports/2021/Annual-Report-2021.pdf)
+  - [ENEOS Holdings, Inc](https://www.hd.eneos.co.jp/english/csr/report/pdf/eneos_en_2020_f.pdf)
+  - [Idemitsu Kosan Co.,Ltd](https://sustainability-cms-idss-s3.s3-ap-northeast-1.amazonaws.com/pdf/en/2021_integrated/idss_ir_2021_e_a3.pdf)
+  - [Abu Dhabi National Oil Company (ADN)](https://www.adnocdistribution.ae/media/3800/adnoc-distribution-esg-report-2020-english.pdf)
+  - [Baker Hughes Company](https://www.bakerhughes.com/sites/bakerhughes/files/2021-06/baker-hughes-corporate-responsiblity-report-2020.pdf)
+  - [Chevron Corporation](https://www.chevron.com/-/media/shared-media/documents/chevron-sustainability-report-2021.pdf)
+  - [Halliburton Company](https://ir.halliburton.com/static-files/2a9fb08b-82df-478e-8301-109f95e103ee)
+  - [BP plc](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2021.pdf)
+- Utilities
+  - [Enbridge, Inc.](https://www.enbridge.com/~/media/Enb/Documents/Reports/Sustainability%20Report%202020/Enbridge_SR_2020)
+  - [EDF](https://www.edf.org/sites/default/files/content/EDF-SC-FY20-GHG-Report.pdf)
+  - [ENGIE](https://www.engie.com/sites/default/files/assets/documents/2021-05/RI-Engie2021-ENG-vdef.pdf)
+  - [Enel S.p.A.](https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2020/sustainability-report_2020.pdf)
+  - [Chubu Electric](https://www.chuden.co.jp/english/resource/corporate/ecsr_report_2021_all.pdf)
+  - [The Kansai Electric Power CO., INC](https://www.kepco.co.jp/english/corporate/list/report/pdf/e2021_a4.pdf)
+  - [Exelon](https://www.exeloncorp.com/sustainability/Documents/dwnld_Exelon_CSR%20(1).pdf)
+  - [Wisconsin Energy Corporation](https://www.wecenergygroup.com/csr/cr2020/wec-corporate-responsibility-report-2020.pdf)
+  - [Xcel Energy](https://s25.q4cdn.com/680186029/files/doc_downloads/irw/Sustainability/2020-Sustainability-Report-Full.pdf)
+  - [Eversource Energy](https://www.eversource.com/content/docs/default-source/community/2020-sustainability-report.pdf)
+  - [Duke Energy Corporation](https://sustainabilityreport.duke-energy.com/)
+  - [Entergy Services, Inc.](https://integratedreport.entergy.com/)
+  - [Sempra Energy](https://www.sempra.com/sites/default/files/content/files/node-report/2022/sempra_sustainability-report_2021_5.18.22.pdf)
+- Automotive
+  - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
+  - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
+  - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
+  - [Metrolinx](https://www.metrolinx.com/en/aboutus/sustainability/default.aspx)
+  - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
+  - [EXOR-Stellantis](https://www.exor.com/sites/default/files/2022/page-documents/Exor%202021%20Sustainability%20Report.pdf)
+  - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
 
 ------------
 #### Technologies
@@ -84,11 +126,31 @@
 ![svgz-netzeroinnovation-ex](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/innovating%20to%20net%20zero%20an%20executives%20guide%20to%20climate%20technology/svgz-netzeroinnovation-ex1.svgz)
 
 ---------------
-![mck_tech%20sustainability%20gbb_ex1](mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/building%20a%20green%20business%20lessons%20from%20sustainability%20start%20ups/svgz_mck_tech%20sustainability%20gbb_ex1.svgz)
+![mck_tech%20sustainability%20gbb_ex1](https://www.mckinsey.com/~/media/mckinsey/business%20functions/sustainability/our%20insights/building%20a%20green%20business%20lessons%20from%20sustainability%20start%20ups/svgz_mck_tech%20sustainability%20gbb_ex1.svgz)
 
 ------------------------------
 
 #### BCG Sustainability
+
+- [Social Impact and Sustainability](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/overview)
+- [BCG’s Approach to Corporate Sustainability](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/approach-to-sustainability)
+- [How Tech Offers a Faster Path to Sustainability](https://www.bcg.com/en-in/publications/2021/how-technology-helps-sustainability-initiatives)
+- [It’s Time for Institutional Investors to Embrace the S in ESG](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/insights)
+- [Sustainability in Retail Is Possible—But There’s Work to Be Done](https://www.bcg.com/en-in/publications/2022/sustainability-in-retail)
+- [The Five Digital Building Blocks of a Corporate Sustainability Agenda](https://www.bcg.com/en-in/publications/2022/building-blocks-of-corporate-sustainability-agenda)
+- [Rich Lesser on Climate, Hard Truths, and Hope](https://www.bcg.com/en-in/podcasts/the-so-what/climate-hope-and-the-hard-truths-with-rich-lesser)
+- [From Compliance to Courage in ESG](https://www.bcg.com/en-in/publications/2022/compliance-to-courage-in-esg)
+- [The Secrets of Sustainability Front-Runners](https://www.bcg.com/en-in/publications/2021/keys-to-being-a-leader-in-sustainable-business-model-innovation)
+- [BCG-WEF Project: The Net-Zero Challenge](https://www.bcg.com/en-in/about/partner-ecosystem/world-economic-forum/ceo-guide-net-zero)
+- [In the Face of Climate Change, Leaders Act](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/climate)
+- [CO2 AI by BCG: AI for Sustainability](https://www.bcg.com/en-in/beyond-consulting/bcg-gamma/co2-ai-for-sustainability)
+- [Directors Can Up Their Game on Environmental, Social, and Governance Issues](https://www.bcg.com/en-in/featured-insights/bcg-insead-esg-issues-survey-series)
+- [Economic Resilience Is Built on Societal Well-Being](https://www.bcg.com/en-in/publications/2021/prioritizing-societal-well-being-seda-report)
+- [Want to Boost the Global Economy by $5 Trillion? Support Women as Entrepreneurs](https://www.bcg.com/en-in/publications/2019/boost-global-economy-5-trillion-dollar-support-women-entrepreneurs)
+- [Fighting Hunger and Other Complex Problems with Smart Simplicity](https://www.bcg.com/en-in/publications/2020/fighting-hunger-other-complex-problems-with-smart-simplicity)
+- [Agribusiness Can Lead the Shift to Sustainable Farming](https://www.bcg.com/en-in/publications/2022/agribusiness-and-the-shift-to-sustainable-farming)
+- [The True Cost of Food](https://www.bcg.com/en-in/publications/2020/evaluating-agricultures-environmental-costs)
+- [The Time Is Ripe for Food Traceability](https://www.bcg.com/en-in/publications/2021/food-traceability)
 
 
 ------------------------------
@@ -101,9 +163,6 @@
 
 -----------------
 ------------------
-
-
-
 
 
 
