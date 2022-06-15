@@ -10,16 +10,16 @@
 
 
 #### Industries
-- Natural Resources
+- **Natural Resources**
   - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
   - [Global Resources Company](https://coronadoglobal.com/wp-content/uploads/2022/05/2021-Coronado-Sustainability-Report-FINAL.pdf)
   - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
-- Chemicals
+- **Chemicals**
   - [Nitto Denko Corporation](https://www.nitto.com/share/ebook/2021/en/?utm_source=Click&utm_medium=ebook_en&utm_campaign=ebook_en)
   - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
   - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
   - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
-- Energy
+- **Energy**
   - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
   - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
   - [ENI S.p.A.](https://www.eni.com/assets/documents/eng/reports/2021/Annual-Report-2021.pdf)
@@ -30,7 +30,7 @@
   - [Chevron Corporation](https://www.chevron.com/-/media/shared-media/documents/chevron-sustainability-report-2021.pdf)
   - [Halliburton Company](https://ir.halliburton.com/static-files/2a9fb08b-82df-478e-8301-109f95e103ee)
   - [BP plc](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2021.pdf)
-- Utilities
+- **Utilities**
   - [Enbridge, Inc.](https://www.enbridge.com/~/media/Enb/Documents/Reports/Sustainability%20Report%202020/Enbridge_SR_2020)
   - [EDF](https://www.edf.org/sites/default/files/content/EDF-SC-FY20-GHG-Report.pdf)
   - [ENGIE](https://www.engie.com/sites/default/files/assets/documents/2021-05/RI-Engie2021-ENG-vdef.pdf)
@@ -44,7 +44,15 @@
   - [Duke Energy Corporation](https://sustainabilityreport.duke-energy.com/)
   - [Entergy Services, Inc.](https://integratedreport.entergy.com/)
   - [Sempra Energy](https://www.sempra.com/sites/default/files/content/files/node-report/2022/sempra_sustainability-report_2021_5.18.22.pdf)
-- Automotive
+- **Industrial**
+  - [Bridgestone Corporation](https://www.bridgestoneamericas.com/content/dam/bscorpcomm-sites/bridgestone-americas/press/2021/bridgestone-releases-sustainability-report-2020/bridgestone-sustainability-report-2020-21.pdf)
+  - [Caterpillar Inc.](https://s7d2.scene7.com/is/content/Caterpillar/CM20220511-3628c-87ee2)
+  - [Siemens AG](https://assets.new.siemens.com/siemens/assets/api/uuid:4806da09-01c7-40b1-af91-99af4b726653/sustainability2021-en.pdf)
+  - [Stanley Black & Decker, Inc](https://www.stanleyblackanddecker.com/sites/stanleyblackanddecker.com/files/stanleyblackdecker-2020-esg-highlights.pdf)
+  - [Stericycle, Inc](https://www.stericycle.com/content/dam/stericycle/global/documents/Stericycle-Corporate-Social-Responsibility-Report-2021.pdf.coredownload.inline.pdf)
+  - [United Parcel Service Oasis Supply Corporation](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NYSE_UPS_2020.pdf)
+  - [Vinci](https://www.vinci.com/publi/vinci/extract/2021_annual_report_extract-sustainability.pdf)
+- **Automotive**
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
   - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
@@ -52,7 +60,7 @@
   - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
   - [EXOR-Stellantis](https://www.exor.com/sites/default/files/2022/page-documents/Exor%202021%20Sustainability%20Report.pdf)
   - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
-- Aerospace & Defense
+- **Aerospace & Defense**
   - [Airbus Group](https://www.airbus.com/sites/g/files/jlcbta136/files/2021-10/Full%20-Report-Airbus-SE-Annual-Report-2020.pdf)
   - [Boeing INC](https://www.boeing.com/resources/boeingdotcom/principles/sustainability/assets/data/2021_Boeing_Sustainability_Report.pdf)
 
