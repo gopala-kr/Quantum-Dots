@@ -110,7 +110,7 @@
   - [Softbank Group Corp.](https://group.softbank/system/files/pdf/sustainability/report/sustainability-report_fy2020_01_en.pdf)
   - [Telecom Italia Group](https://www.gruppotim.it/content/dam/gt/sostenibilit%C3%A0/doc-bilanci/Sustainability-Report-2021.pdf)
   - [Telefónica Group](https://www.telefonica.com/en/shareholders-investors/financial-reports/historical-archive-annual-reports/2020/#:~:text=In%20economic%20terms%2C%20we%20have,100%25%20in%20our%20main%20markets.)
-  - [Telstra]([https://exchange.telstra.com.au/sustainability-2021/](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf))
+  - [Telstra](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf)
   - [Telus](https://downloads.ctfassets.net/rz9m1rynx8pv/4b0g0vtonuABwWlk271He4/c0877d06aa938fa67a4216e601fa21e0/TELUS_Sustainability_2021_APR_1_FINAL.pdf)
   - [The Walt Disney Company](https://impact.disney.com/app/uploads/2022/02/2021-CSR-Report.pdf)
   - [T-Mobile USA, Inc.](https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/T-Mobile_CSR20_10921.pdf)
