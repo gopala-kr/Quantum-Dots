@@ -95,6 +95,9 @@
 - **Retail**
   - [Best Buy Co Inc.](https://corporate.bestbuy.com/sustainability/)
   - [CVS Health](https://www.cvshealth.com/sites/default/files/cvs-health-esg-report-appendix-2021.pdf#page=04)
+  - [Fast Retailing](https://www.fastretailing.com/eng/sustainability/report/pdf/sustainability2022_en_print.pdf#page=1&pagemode=thumbs&zoom=80)
+  - [Grocery Retailer](https://basiq.ro/papers/2018/76_Dabija_Bejan.pdf)
+  - [H&M](https://hmgroup.com/wp-content/uploads/2022/03/HM-Group-Annual-and-Sustainability-Report-2021.pdf)
 - **High Tech**
   - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
   - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
