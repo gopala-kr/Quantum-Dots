@@ -145,6 +145,7 @@
   - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
 - **Software & Platforms**
   - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
+  - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
 ------------
 #### Technologies
 
