@@ -97,6 +97,7 @@
   - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
   - [Fujifilm Holdings Corporation](https://www.fujifilm.com/files-holdings/en/sustainability/data/2021/sustainability_data_management_pdf_01.pdf)
   - [Intel Corporation](https://csrreportbuilder.intel.com/pdfbuilder/pdfs/CSR-2020-21-Full-Report.pdf)
+  - [Johnson Controls International Plc](https://www.johnsoncontrols.com/2021sustainability)
 - **Communications & Media**
   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
