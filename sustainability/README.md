@@ -151,6 +151,7 @@
   - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
   - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
   - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
+  - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
 ------------
 #### Technologies
 
