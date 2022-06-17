@@ -99,6 +99,7 @@
   - [Grocery Retailer](https://basiq.ro/papers/2018/76_Dabija_Bejan.pdf)
   - [H&M](https://hmgroup.com/wp-content/uploads/2022/03/HM-Group-Annual-and-Sustainability-Report-2021.pdf)
   - [IKEA AB](https://gbl-sc9u2-prd-cdn.azureedge.net/-/media/aboutikea/newsroom/publications/documents/ikea-sustainability-report-fy21.pdf?rev=6d09c40ec452441091b10d9212718192&hash=1A1FDACCB00D35EE9D64428D85CA6C4E)
+  - [Loblaw Companies Limited](https://www.loblaw.ca/en/responsibility#2019-csr-report)
 - **High Tech**
   - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
   - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
