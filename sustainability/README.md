@@ -93,6 +93,8 @@
   - [The Hershey Company](https://www.thehersheycompany.com/content/dam/hershey-corporate/documents/pdf/hershey_2020_sustainability_report_.pdf)
   - [Unilever](https://www.unilever.com/files/92ui5egz/production/e582e46a7f7170fd10be32cf65113b738f19f0c2.pdf)
 - **Retail**
+  - [Walmart, Inc.](https://corporate.walmart.com/esgreport/)
+  - [Amazon](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
   - [Best Buy Co Inc.](https://corporate.bestbuy.com/sustainability/)
   - [CVS Health](https://www.cvshealth.com/sites/default/files/cvs-health-esg-report-appendix-2021.pdf#page=04)
   - [Fast Retailing](https://www.fastretailing.com/eng/sustainability/report/pdf/sustainability2022_en_print.pdf#page=1&pagemode=thumbs&zoom=80)
@@ -102,6 +104,11 @@
   - [Loblaw Companies Limited](https://www.loblaw.ca/en/responsibility#2019-csr-report)
   - [McDonalds Corporation](https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/impact-strategy-and-reporting.html)
   - [NIKE](https://purpose.nike.com/fy21-nike-impact-report)
+  - [Ross Stores, Inc.](https://corp.rossstores.com/wp-content/uploads/2022/01/ROS-010_Ross-2020-Corporate-Social-Responsibility-Report_Programmed-Interactive-PDF.pdf)
+  - [Seven & i Holdings Co. Ltd](https://www.7andi.com/en/sustainability/report/2021.html)
+  - [Signet](https://s26.q4cdn.com/755441662/files/doc_downloads/2022/Signet_FY2022_Sustainability_Report_060622.pdf)
+  - [The Wendy's Company](https://www.wendys.com/sites/default/files/2022-04/Wendy%27s%202021%20Corporate%20Responsibility%20Report.pdf)
+  - [Walgreens Boots Alliance, Inc.](https://www.walgreensbootsalliance.com/sites/www/files/asset/Walgreens-Boots-Alliance-2021-ESG-Report_2.pdf)
 - **High Tech**
   - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
   - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
