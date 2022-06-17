@@ -100,6 +100,7 @@
   - [Johnson Controls International Plc](https://www.johnsoncontrols.com/2021sustainability)
   - [Sony Group Corporation](https://www.sony.com/en/SonyInfo/csr/library/reports/SustainabilityReport2021_E.pdf)
   - [Tokyo Electron Ltd.](https://www.tel.com/sustainability/report/fjb87t0000000po8-att/sustainability_report_2021_all_e.pdf)
+  - [Toshiba Corporation](https://www.global.toshiba/content/dam/toshiba/migration/corp/sustainableAssets/sustainability/en/report/pdf/report21_en.pdf)
 - **Communications & Media**
   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
