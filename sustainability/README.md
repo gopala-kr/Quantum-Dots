@@ -146,6 +146,10 @@
 - **Software & Platforms**
   - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
   - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
+  - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
+  - [Microsoft Corporation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4RwfV)
+  - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
+  - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
 ------------
 #### Technologies
 
