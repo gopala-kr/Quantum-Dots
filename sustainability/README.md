@@ -92,6 +92,9 @@
   - [Shiseido Company, Limited](https://corp.shiseido.com/en/sustainability/pdf/2020.pdf)
   - [The Hershey Company](https://www.thehersheycompany.com/content/dam/hershey-corporate/documents/pdf/hershey_2020_sustainability_report_.pdf)
   - [Unilever](https://www.unilever.com/files/92ui5egz/production/e582e46a7f7170fd10be32cf65113b738f19f0c2.pdf)
+- **High Tech**
+  - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
+
 - **Communications & Media**
   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
