@@ -143,6 +143,8 @@
   - [Verizon Communications, Inc.](https://www.verizon.com/about/sites/default/files/Verizon-2021-ESG-Report.pdf)
   - [Virgin Media O2](https://news.virginmediao2.co.uk/responsible-business/)
   - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
+- **Software & Platforms**
+  - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
 ------------
 #### Technologies
 
