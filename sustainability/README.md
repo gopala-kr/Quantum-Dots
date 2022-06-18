@@ -156,6 +156,9 @@
   - [Banco de Sabadell, S.A.](https://www.grupbancsabadell.com/corp/en/sustainability/commitment-to-sustainability.html)
   - [Banco Santander, S.A.](https://www.santander.com/en/press-room/press-releases/2021/09/santander-bank-polska-presents-the-new-esg-report)
   - [Bank of America](https://about.bankofamerica.com/en/making-an-impact/esg-reporting)
+  - [Bank of Ireland](https://www.csrhub.com/CSR_and_sustainability_information/Bank-of-Ireland)
+  - [Barclays](https://home.barclays/sustainability/esg-resource-hub/reporting-and-disclosures/)
+  
 ------------
 #### Technologies
 
