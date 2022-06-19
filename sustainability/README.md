@@ -190,7 +190,22 @@
   - [Temasek Holdings (Private) Limited](https://www.temasek.com.sg/en/sustainability)
   - [UBS AG](https://www.ubs.com/global/en/sustainability-impact.html)
   - [Wells Fargo & Compan](https://www.wellsfargo.com/about/corporate-responsibility/goals-and-reporting/)
-
+- **Insurance**
+  - [Aflac Incorporated](https://www.aflac.com/about-aflac/corporate-citizenship/corporate-social-responsibility-report/default.aspx)
+  - [Allianz](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf)
+  - [American International Group, Inc. – AIG ](https://www.aig.com/esgreports/home)
+  - [Assicurazioni Generali S.p.A.](https://www.generali.com/info/download-center/sustainability/bilanci)
+  - [AXA](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/4f303cec-a12d-480b-accb-7b56f706f60e_axa-ri2020-en-accessible.pdf)
+  - [MS&AD Insurance Group Holdings, Inc.](https://www.ms-ad-hd.com/en/csr/report.html)
+  - [Prudential Financial, Inc.](https://www.prudentialesg.com/sustainability/default.aspx)
+  - [QBE Insurance Group, Ltd.](https://www.qbe.com/sustainability)
+  - [State Farm Insurance](https://esg.statefarm.com/data/docs/2020/2020_SF_ESG_Snapshot.pdf)
+  - [The Travelers Companies, Inc.](https://sustainability.travelers.com/)
+  - [Tokio Marine Holdings, Inc.](https://www.tokiomarinehd.com/en/sustainability/pdf/sustainability_web_2020.pdf)
+  - [United Services Automobile Association](https://www.usaa.com/inet/wc/about-usaa-environmental-commitment?akredirect=true)
+  - [Zurich Insurance Group, Ltd.](https://www.zurich.com/en/sustainability/reporting-and-news/news/zurich-sustainability-report-2020)
+  - [BERKSHIRE HATHAWAY INC.](https://www.berkshirehathaway.com/sustainability/sustainability.html)
+  - [MetLife](https://www.metlife.com/sustainability/)
 
 ------------
 #### Technologies
