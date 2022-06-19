@@ -222,9 +222,15 @@
   - [Sanofi](https://www.sanofi.com/en/investors/reports-and-publications/financial-and-csr-reports)
   - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
 - **Health**
-  - []()
-  - []()
-  - []()
+  - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
+  - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
+  - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
+  - [Health Care Service Corporation](https://www.hcsc.com/our-impact/environment)
+  - [Highmark](https://www.highmark.com/about/corporate-responsibility/sustainability.html)
+  - [Kaiser Permanente](https://about.kaiserpermanente.org/community-health/improving-community-conditions/environmental-stewardship)
+  - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
+- **Public Services**
+
 
 ------------
 #### Technologies
