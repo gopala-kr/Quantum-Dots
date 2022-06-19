@@ -179,7 +179,19 @@
   - [The Siam Commercial Bank Public Company Limited](https://www.scb.co.th/content/dam/scb/about-us/sustainability/documents/2021/x-3-year-sustainability-target-en.pdf)
   - [Truist Financial Corporation](https://ir.truist.com/corporate-social-responsibility)
   - [UniCredit Group](https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/sustainability-reports/2021/UC_INTEGRATO_2021_ENG.pdf)
-  
+- **Capital Markets**
+  - [Credit Suisse](https://reports.credit-suisse.com/en/2021SR/report/sustainability-report-2021)
+  - [HSBC](https://www.hsbc.com/who-we-are/esg-and-responsible-business)
+  - [Mizuho Financial Group, Inc.](https://www.mizuhogroup.com/investors/financial-information/annual)
+  - [Morgan Stanley](https://www.morganstanley.com/about-us/sustainability-reports-research)
+  - [S&P Global, Inc.](https://www.spglobal.com/en/who-we-are/corporate-responsibility/reports-commitments/)
+  - [Societe Generale](https://www.societegenerale.com/en/responsability/csr-ambition/csr-commitments)
+  - [Sumitomo Mitsui Financial Group, Inc.](https://www.smfg.co.jp/english/sustainability/report/backnumber/)
+  - [Temasek Holdings (Private) Limited](https://www.temasek.com.sg/en/sustainability)
+  - [UBS AG](https://www.ubs.com/global/en/sustainability-impact.html)
+  - [Wells Fargo & Compan](https://www.wellsfargo.com/about/corporate-responsibility/goals-and-reporting/)
+
+
 ------------
 #### Technologies
 
