@@ -4,11 +4,12 @@
 -------------------
 - **Climate & Net Zero** : Reducing global anthropogenic greenhouse gas emissions to ‘net zero’ 
 i.e. balance between emissions and emissions reductions
-- **Clean Energy Transition** :Shifting energy production away from sources that release GHG, to 
+- **Clean Energy Transition** : Shifting energy production away from sources that release GHG, to 
 Clean sources like Nuclear power, hydro, wind and solar etc.
 - **Circular Economy** : Transforming full value chains to create a system in which waste is 
 designed out entirely and the goal is net positivity—adding instead of 
 extracting resources—through restorative models.
+- **Responsible Value Chains** : Ethical and inclusive sourcing, End-to-end transparency and visibility
 
 ---------------------
 
