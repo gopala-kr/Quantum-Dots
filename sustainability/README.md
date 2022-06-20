@@ -33,6 +33,21 @@ processes with Resource Recovery
 - Net Zero - Value chains must be reinvented as Net Zero. 
 - Trust - bring traceability and transparency into their value chains.
 
+------------
+**Sustainability Measurement, Analytics And Performance**
+
+The businesses that leap at the opportunity to embed sustainability data, 
+decision-making and performance into everything they do will be the first 
+to benefit from the set of growth opportunities that are only available to 
+those who take stepwise actions toward becoming Sustainable, fast.
+
+- Risk - Incurring higher costs if their ESG ratings are poor.
+- Regulation - Governments are falling short of meeting their Paris Agreement 
+targets (by 2030) and progress towards UN SDGs, 
+creating urgency.
+- Return - Organizations that prioritize ESG will likely see increased returns (97% 
+of Investors expect to redeploy capital in response to ESG).
+
 ---------------------
 
 #### Functions
