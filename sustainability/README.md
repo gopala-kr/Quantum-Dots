@@ -13,6 +13,16 @@ extracting resources—through restorative models.
 - **Sustainable Investing** : Sustainable investing balances traditional investing with environmental, 
 social, and governance-related (ESG) insights to improve long-term outcomes.
 
+------------
+**Net Zero Transitions**
+
+74 countries—accounting for more than 80 percent of global GDP and 
+almost 70 percent of global CO2 emissions - & More than 3,000 companies 
+have made net-zero commitments as part of the United Nation’s “Race to 
+Zero” campaign.
+
+-----------------
+
 ---------------------
 
 #### Functions
