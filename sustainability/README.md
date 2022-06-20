@@ -10,6 +10,8 @@ Clean sources like Nuclear power, hydro, wind and solar etc.
 designed out entirely and the goal is net positivity—adding instead of 
 extracting resources—through restorative models.
 - **Responsible Value Chains** : Ethical and inclusive sourcing, End-to-end transparency and visibility
+- **Sustainable Investing** : Sustainable investing balances traditional investing with environmental, 
+social, and governance-related (ESG) insights to improve long-term outcomes.
 
 ---------------------
 
