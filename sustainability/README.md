@@ -227,7 +227,7 @@ of Investors expect to redeploy capital in response to ESG).
   - [The Siam Commercial Bank Public Company Limited](https://www.scb.co.th/content/dam/scb/about-us/sustainability/documents/2021/x-3-year-sustainability-target-en.pdf)
   - [Truist Financial Corporation](https://ir.truist.com/corporate-social-responsibility)
   - [UniCredit Group](https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/sustainability-reports/2021/UC_INTEGRATO_2021_ENG.pdf)
-- **Capital Markets** -  Brand Identity
+- **Capital Markets** -  Brand Identity, • Business Planning & Regulatory Reporting 
   - [Credit Suisse](https://reports.credit-suisse.com/en/2021SR/report/sustainability-report-2021)
   - [HSBC](https://www.hsbc.com/who-we-are/esg-and-responsible-business)
   - [Mizuho Financial Group, Inc.](https://www.mizuhogroup.com/investors/financial-information/annual)
