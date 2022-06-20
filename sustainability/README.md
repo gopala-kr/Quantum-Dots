@@ -230,7 +230,7 @@ of Investors expect to redeploy capital in response to ESG).
   - [Truist Financial Corporation](https://ir.truist.com/corporate-social-responsibility)
   - [UniCredit Group](https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/sustainability-reports/2021/UC_INTEGRATO_2021_ENG.pdf)
 - **Capital Markets** 
-  -  Brand Identity, Business Planning & Regulatory Reporting, Sustainable Products - Loans, Bonds, Abs • Credit For Lending Products • Client Portfolio Screening
+  -  Brand Identity, Business Planning & Regulatory Reporting, Sustainable Products - Loans, Bonds, Abs, Credit For Lending Products • Client Portfolio Screening
   - [Credit Suisse](https://reports.credit-suisse.com/en/2021SR/report/sustainability-report-2021)
   - [HSBC](https://www.hsbc.com/who-we-are/esg-and-responsible-business)
   - [Mizuho Financial Group, Inc.](https://www.mizuhogroup.com/investors/financial-information/annual)
