@@ -15,6 +15,7 @@ social, and governance-related (ESG) insights to improve long-term outcomes.
 
 
 ------------
+
 **Net Zero Transitions**
 
 74 countries—accounting for more than 80 percent of global GDP and 
