@@ -22,6 +22,16 @@ have made net-zero commitments as part of the United Nation’s “Race to
 Zero” campaign.
 
 -----------------
+**Sustainable Value Chain**
+
+Organizations must redesign the way they work to build trust through 
+transparency, to embrace circularity, and to achieve net zero carbon 
+emissions to achieve greater resiliency
+
+- Circularity -Shift from linear production processes to having closed-loop 
+processes with Resource Recovery
+- Net Zero - Value chains must be reinvented as Net Zero. 
+- Trust - bring traceability and transparency into their value chains.
 
 ---------------------
 
