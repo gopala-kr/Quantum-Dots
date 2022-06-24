@@ -68,18 +68,16 @@ of Investors expect to redeploy capital in response to ESG).
   - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
 ### Chemicals
   - **Sustainability Solutions**
+    - Sustainability Reporting
+    - Carbon Neutrality And Carbon Capture
+    - Green Chemistry / Sustainable Chemicals 
+    - Circular Economy
+    - Brand Identity
   - **Sustainability Reporting in Automotive Industry**
-• Sustainability Reporting
-• Carbon Neutrality And 
-Carbon Capture
-• Green Chemistry / 
-Sustainable Chemicals 
-• Circular Economy
-• Brand Identity
-  - [Nitto Denko Corporation](https://www.nitto.com/share/ebook/2021/en/?utm_source=Click&utm_medium=ebook_en&utm_campaign=ebook_en)
-  - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
-  - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
-  - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
+    - [Nitto Denko Corporation](https://www.nitto.com/share/ebook/2021/en/?utm_source=Click&utm_medium=ebook_en&utm_campaign=ebook_en)
+    - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
+    - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
+    - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
 ### Energy
   - **Sustainability Solutions**
   - **Sustainability Reporting in Automotive Industry**
