@@ -208,7 +208,6 @@ of Investors expect to redeploy capital in response to ESG).
     - Sustainable Products - Loan, Bonds, Abs ,
     - Credit For Lending Products
     - Client Portfolio Screening
-  - Brand Identity, Business Planning & Regulatory Reporting, Sustainable Products - Loans, Bonds, Abs , Credit For Lending Products, Client Portfolio Screening
   - [Banco de Sabadell, S.A.](https://www.grupbancsabadell.com/corp/en/sustainability/commitment-to-sustainability.html)
   - [Banco Santander, S.A.](https://www.santander.com/en/press-room/press-releases/2021/09/santander-bank-polska-presents-the-new-esg-report)
   - [Bank of America](https://about.bankofamerica.com/en/making-an-impact/esg-reporting)
@@ -254,7 +253,16 @@ of Investors expect to redeploy capital in response to ESG).
   - [Temasek Holdings (Private) Limited](https://www.temasek.com.sg/en/sustainability)
   - [UBS AG](https://www.ubs.com/global/en/sustainability-impact.html)
   - [Wells Fargo & Compan](https://www.wellsfargo.com/about/corporate-responsibility/goals-and-reporting/)
-- **Insurance**
+### Insurance
+  - **Sustainability Solutions**
+    - Brand Identity
+    - Sustainable Products - Pay As You Drive (Payd), Green 
+    - Behavior Discounts , Energy Generation Benefits 
+    - Responsible Investing 
+    - ESG impacts on Risk management and underwriting
+    - Integrate ESG issues into repairs, replacements and other 
+claims services
+    - Products and services with a positive impact on ESG issues
   - [Aflac Incorporated](https://www.aflac.com/about-aflac/corporate-citizenship/corporate-social-responsibility-report/default.aspx)
   - [Allianz](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf)
   - [American International Group, Inc. – AIG ](https://www.aig.com/esgreports/home)
