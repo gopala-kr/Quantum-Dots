@@ -69,7 +69,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Circular Economy
     - Decarbonizations
     - Brand Identity
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Natural Resources Industry**
     - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
     - [Global Resources Company](https://coronadoglobal.com/wp-content/uploads/2022/05/2021-Coronado-Sustainability-Report-FINAL.pdf)
     - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
@@ -80,7 +80,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Green Chemistry / Sustainable Chemicals 
     - Circular Economy
     - Brand Identity
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Chemicals Industry**
     - [Nitto Denko Corporation](https://www.nitto.com/share/ebook/2021/en/?utm_source=Click&utm_medium=ebook_en&utm_campaign=ebook_en)
     - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
     - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
@@ -94,7 +94,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Carbon Capture & Storage
     - Sustainable Supply Chain
     - Brand Identity
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Energy Industry**
     - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
     - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
     - [ENI S.p.A.](https://www.eni.com/assets/documents/eng/reports/2021/Annual-Report-2021.pdf)
@@ -113,7 +113,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Energy Efficiency Innovations
     - Transport Electrification
     - Brand Identity
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Utilities Industry**
     - [Enbridge, Inc.](https://www.enbridge.com/~/media/Enb/Documents/Reports/Sustainability%20Report%202020/Enbridge_SR_2020)
     - [EDF](https://www.edf.org/sites/default/files/content/EDF-SC-FY20-GHG-Report.pdf)
     - [ENGIE](https://www.engie.com/sites/default/files/assets/documents/2021-05/RI-Engie2021-ENG-vdef.pdf)
@@ -160,12 +160,12 @@ of Investors expect to redeploy capital in response to ESG).
     - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
 - **Aerospace & Defense**
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Aerospace & Defense Industry**
   - [Airbus Group](https://www.airbus.com/sites/g/files/jlcbta136/files/2021-10/Full%20-Report-Airbus-SE-Annual-Report-2020.pdf)
   - [Boeing INC](https://www.boeing.com/resources/boeingdotcom/principles/sustainability/assets/data/2021_Boeing_Sustainability_Report.pdf)
 - **Travel**
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Travel Industry**
   - [Amadeus IT Group](https://corporate.amadeus.com/documents/en/resources/corporate-information/corporate-documents/global-reports/2020/amadeus-global-report-2020.pdf)
   - [Marriott International, Inc.](https://serve360.marriott.com/wp-content/uploads/2020/12/2020-Serve360-Report.pdf)
 ### Consumer Goods & Services
@@ -231,7 +231,7 @@ of Investors expect to redeploy capital in response to ESG).
      - [Walgreens Boots Alliance, Inc.](https://www.walgreensbootsalliance.com/sites/www/files/asset/Walgreens-Boots-Alliance-2021-ESG-Report_2.pdf)
 ### High Tech
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in High Tech Industry**
   - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
   - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
   - [Fujifilm Holdings Corporation](https://www.fujifilm.com/files-holdings/en/sustainability/data/2021/sustainability_data_management_pdf_01.pdf)
@@ -242,7 +242,7 @@ of Investors expect to redeploy capital in response to ESG).
   - [Toshiba Corporation](https://www.global.toshiba/content/dam/toshiba/migration/corp/sustainableAssets/sustainability/en/report/pdf/report21_en.pdf)
 ### Communications & Media
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Communications & Media Industry**
   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
   - [Comcast Corporation](https://update.comcast.com/wp-content/uploads/sites/33/dlm_uploads/2022/05/2022_CarbonFootprintData_Report_R5.pdf)
@@ -269,7 +269,7 @@ of Investors expect to redeploy capital in response to ESG).
   - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
 ### Software & Platforms
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Software & Platforms Industry**
   - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
   - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
   - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
@@ -360,7 +360,7 @@ claims services
     - [MetLife](https://www.metlife.com/sustainability/)
 ### Life Sciences
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Life Sciences Industry**
   - [Astellas Pharma Inc.](https://www.astellas.com/en/system/files/ehs-report2021_en_final-0.pdf)
   - [Astrazeneca](https://www.astrazeneca.com/content/dam/az/Sustainability/2022/pdf/Sustainability_Report_2021.pdf)
   - [Bayer AG](https://www.bayer.com/en/sustainability/sustainability-reports)
@@ -377,7 +377,7 @@ claims services
   - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
 ### Health
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Health Industry**
   - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
   - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
   - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
@@ -387,7 +387,7 @@ claims services
   - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
 ### Public Services
   - **Sustainability Solutions**
-  - **Sustainability Reporting in Automotive Industry**
+  - **Sustainability Reporting in Public Services Industry**
 
 
 ------------
