@@ -289,15 +289,22 @@ of Investors expect to redeploy capital in response to ESG).
    - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
 ### Software & Platforms
   - **Sustainability Solutions**
+   - Energy Footprint
+   - E-waste & Materials
+   - Human & Employee rights
+   - Data Security and Privacy
+   - Diversity, equity and Inclusion
+   - Responsible datacenter supply chains
+   - Brand Identity
   - **Sustainability Reporting in Software & Platforms Industry**
-  - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
-  - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
-  - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
-  - [Microsoft Corporation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4RwfV)
-  - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
-  - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
-  - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
-  - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
+   - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
+   - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
+   - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
+   - [Microsoft Corporation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4RwfV)
+   - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
+   - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
+   - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
+   - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
 ### Banking
   - **Sustainability Solutions**
     - Brand Identity
