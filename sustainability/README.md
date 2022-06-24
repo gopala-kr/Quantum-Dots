@@ -208,7 +208,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Sustainable Products - Loan, Bonds, Abs ,
     - Credit For Lending Products
     - Client Portfolio Screening
-  - **Sustainability Reporting**
+  - **Sustainability Reporting in Banking Industry**
     - [Banco de Sabadell, S.A.](https://www.grupbancsabadell.com/corp/en/sustainability/commitment-to-sustainability.html)
     - [Banco Santander, S.A.](https://www.santander.com/en/press-room/press-releases/2021/09/santander-bank-polska-presents-the-new-esg-report)
     - [Bank of America](https://about.bankofamerica.com/en/making-an-impact/esg-reporting)
@@ -244,7 +244,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Responsible Investing 
     - Green Treasury 
     - Client Portfolio Screening
-  - **Sustainability Reporting**
+  - **Sustainability Reporting in Capital Markets Industry**
     - [Credit Suisse](https://reports.credit-suisse.com/en/2021SR/report/sustainability-report-2021)
     - [HSBC](https://www.hsbc.com/who-we-are/esg-and-responsible-business)
     - [Mizuho Financial Group, Inc.](https://www.mizuhogroup.com/investors/financial-information/annual)
@@ -265,7 +265,7 @@ of Investors expect to redeploy capital in response to ESG).
     - Integrate ESG issues into repairs, replacements and other 
 claims services
     - Products and services with a positive impact on ESG issues
-   - **Sustainability Reporting**
+   - **Sustainability Reporting Insurance Industry**
     - [Aflac Incorporated](https://www.aflac.com/about-aflac/corporate-citizenship/corporate-social-responsibility-report/default.aspx)
     - [Allianz](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf)
     - [American International Group, Inc. – AIG ](https://www.aig.com/esgreports/home)
