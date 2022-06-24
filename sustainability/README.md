@@ -242,31 +242,37 @@ of Investors expect to redeploy capital in response to ESG).
   - [Toshiba Corporation](https://www.global.toshiba/content/dam/toshiba/migration/corp/sustainableAssets/sustainability/en/report/pdf/report21_en.pdf)
 ### Communications & Media
   - **Sustainability Solutions**
+    - Sustainability Reporting
+   - Emission Reduction
+   - Sustainability Measurement
+   - Circular Economy & Waste
+   - Smart buildings/Smart Factories
+   - Brand Identity
   - **Sustainability Reporting in Communications & Media Industry**
-  - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
-  - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
-  - [Comcast Corporation](https://update.comcast.com/wp-content/uploads/sites/33/dlm_uploads/2022/05/2022_CarbonFootprintData_Report_R5.pdf)
-  - [Cox Enterprises, Inc.](https://www.coxenterprises.com/corporate-responsibility/our-collective-impact)
-  - [Deutsche Telekom AG](https://www.telekom.com/en/company/digital-responsibility/cdr)
-  - [Educational Testing Service](https://plc.pearson.com/sites/pearson-corp/files/pearson/esg-reports/Pearson_2018_Sustainability_Report.pdf)
-  - [Etisalat](https://www.xylem.com/siteassets/sustainability/2021/xylem-sustainability-report-2021.pdf)
-  - [Hutchison-H3G](https://www.ckh.com.hk/en/esg/esg_sustainability-report.php)
-  - [KDDI Corporation](kddi.com/extlib/files/english/corporate/csr/csr_report/2021/pdf/report2021_en.pdf)
-  - [Liberty Global](https://www.libertyglobal.com/wp-content/uploads/2021/07/Liberty-Global-2020-Corporate-Responsibility-Report.pdf)
-  - [Lumen Technologies](https://s24.q4cdn.com/287068338/files/doc_downloads/2020/GR210222_258_ESG_Final_210419.pdf)
-  - [NBN Co, Ltd.](https://www.nbnco.com.au/content/dam/nbn/documents/about-nbn/reports/sustainability-reports/nbn-sustainability-report-2021.pdf)
-  - [Nippon Telegraph and Telephone Corporation](https://group.ntt/en/csr/data/pdf/NTT%20Group%20Sustainability%20report%202021%20DataBook_220610.pdf)
-  - [Oi, S.A.](https://www.o-i.com/wp-content/uploads/2022/04/O-I_SustainabilityReport_032222.pdf)
-  - [Softbank Group Corp.](https://group.softbank/system/files/pdf/sustainability/report/sustainability-report_fy2020_01_en.pdf)
-  - [Telecom Italia Group](https://www.gruppotim.it/content/dam/gt/sostenibilit%C3%A0/doc-bilanci/Sustainability-Report-2021.pdf)
-  - [Telefónica Group](https://www.telefonica.com/en/shareholders-investors/financial-reports/historical-archive-annual-reports/2020/#:~:text=In%20economic%20terms%2C%20we%20have,100%25%20in%20our%20main%20markets.)
-  - [Telstra](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf)
-  - [Telus](https://downloads.ctfassets.net/rz9m1rynx8pv/4b0g0vtonuABwWlk271He4/c0877d06aa938fa67a4216e601fa21e0/TELUS_Sustainability_2021_APR_1_FINAL.pdf)
-  - [The Walt Disney Company](https://impact.disney.com/app/uploads/2022/02/2021-CSR-Report.pdf)
-  - [T-Mobile USA, Inc.](https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/T-Mobile_CSR20_10921.pdf)
-  - [Verizon Communications, Inc.](https://www.verizon.com/about/sites/default/files/Verizon-2021-ESG-Report.pdf)
-  - [Virgin Media O2](https://news.virginmediao2.co.uk/responsible-business/)
-  - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
+   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
+   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
+   - [Comcast Corporation](https://update.comcast.com/wp-content/uploads/sites/33/dlm_uploads/2022/05/2022_CarbonFootprintData_Report_R5.pdf)
+   - [Cox Enterprises, Inc.](https://www.coxenterprises.com/corporate-responsibility/our-collective-impact)
+   - [Deutsche Telekom AG](https://www.telekom.com/en/company/digital-responsibility/cdr)
+   - [Educational Testing Service](https://plc.pearson.com/sites/pearson-corp/files/pearson/esg-reports/Pearson_2018_Sustainability_Report.pdf)
+   - [Etisalat](https://www.xylem.com/siteassets/sustainability/2021/xylem-sustainability-report-2021.pdf)
+   - [Hutchison-H3G](https://www.ckh.com.hk/en/esg/esg_sustainability-report.php)
+   - [KDDI Corporation](kddi.com/extlib/files/english/corporate/csr/csr_report/2021/pdf/report2021_en.pdf)
+   - [Liberty Global](https://www.libertyglobal.com/wp-content/uploads/2021/07/Liberty-Global-2020-Corporate-Responsibility-Report.pdf)
+   - [Lumen Technologies](https://s24.q4cdn.com/287068338/files/doc_downloads/2020/GR210222_258_ESG_Final_210419.pdf)
+   - [NBN Co, Ltd.](https://www.nbnco.com.au/content/dam/nbn/documents/about-nbn/reports/sustainability-reports/nbn-sustainability-report-2021.pdf)
+   - [Nippon Telegraph and Telephone Corporation](https://group.ntt/en/csr/data/pdf/NTT%20Group%20Sustainability%20report%202021%20DataBook_220610.pdf)
+   - [Oi, S.A.](https://www.o-i.com/wp-content/uploads/2022/04/O-I_SustainabilityReport_032222.pdf)
+   - [Softbank Group Corp.](https://group.softbank/system/files/pdf/sustainability/report/sustainability-report_fy2020_01_en.pdf)
+   - [Telecom Italia Group](https://www.gruppotim.it/content/dam/gt/sostenibilit%C3%A0/doc-bilanci/Sustainability-Report-2021.pdf)
+   - [Telefónica Group](https://www.telefonica.com/en/shareholders-investors/financial-reports/historical-archive-annual-reports/2020/#:~:text=In%20economic%20terms%2C%20we%20have,100%25%20in%20our%20main%20markets.)
+   - [Telstra](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf)
+   - [Telus](https://downloads.ctfassets.net/rz9m1rynx8pv/4b0g0vtonuABwWlk271He4/c0877d06aa938fa67a4216e601fa21e0/TELUS_Sustainability_2021_APR_1_FINAL.pdf)
+   - [The Walt Disney Company](https://impact.disney.com/app/uploads/2022/02/2021-CSR-Report.pdf)
+   - [T-Mobile USA, Inc.](https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/T-Mobile_CSR20_10921.pdf)
+   - [Verizon Communications, Inc.](https://www.verizon.com/about/sites/default/files/Verizon-2021-ESG-Report.pdf)
+   - [Virgin Media O2](https://news.virginmediao2.co.uk/responsible-business/)
+   - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
 ### Software & Platforms
   - **Sustainability Solutions**
   - **Sustainability Reporting in Software & Platforms Industry**
