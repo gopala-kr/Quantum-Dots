@@ -123,32 +123,40 @@ of Investors expect to redeploy capital in response to ESG).
 - **Travel**
   - [Amadeus IT Group](https://corporate.amadeus.com/documents/en/resources/corporate-information/corporate-documents/global-reports/2020/amadeus-global-report-2020.pdf)
   - [Marriott International, Inc.](https://serve360.marriott.com/wp-content/uploads/2020/12/2020-Serve360-Report.pdf)
-- **Consumer Goods & Services**
-  - [AB-Inbev](https://www.ab-inbev.com/assets/pdfs/ABINBEV_ESG_2021_Final.pdf)
-  - [Archer Daniels Midland Company](https://www.adm.com/globalassets/sustainability/sustainability-reports/pdfs/4019111_11_archer-daniels-midland_esg_clean-compressed.pdf)
-  - [British American Tobacco](https://www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DOAWWEKR/$file/BAT_ESG_Report_2021.pdf?open&v=1)
-  - [Cargill Incorporated](https://www.cargill.com/doc/1432194192294/2021-cargill-annual-report.pdf)
-  - [Coca-Cola](https://www.coca-colacompany.com/sustainability)
-  - [COTY, Inc.](https://www.coty.com/sites/default/files/coty_sustainability_report_2021.pdf)
-  - [DANONE](https://www.danone.com/content/dam/danone-corp/danone-com/investors/en-sustainability/reports-and-data/cross-topic/danonedashboard2022.pdf)
-  - [Dyson Ltd](https://www.dyson.com/inside-dyson/community/sustainability)
-  - [Essity](https://masdpstatic.azureedge.net/essity/8fe54e3f-ec63-442f-91b4-600d6449b2c2%2FEssity_Annual%20and%20Sustainability%20Report%202021_220302.pdf)
-  - [Ferrero SPA](https://www.ferrerosustainability.com/int/sites/ferrerosustainability_int/files/2021-10/ferrero_sr20.pdf)
-  - [General Mills, Inc.](https://www.generalmills.com/news/stories/2021-global-responsibility-report)
-  - [Henkel AG & Co KGaA](https://www.henkel.com/resource/blob/1616952/56b3f141043a2c60ca1743c8255f5f26/data/2021-sustainability-report.pdf)
-  - [Kimberly-Clark Corporation](https://www.kimberly-clark.com/-/media/kimberly/pdf/sustainability-reports/2020/k-c-2020-global-sustainability-report.pdf)
-  - [KKR & Co. Inc.](https://kkresg.com/assets/uploads/pdfs/KKR-2020-ESG-Impact-and-Citizenship-Report.pdf)
-  - [L'Oreal](https://www.loreal-finance.com/en/annual-report-2021/responsible-beauty/)
-  - [Mars, Incorporated](https://www.mars.com/sites/g/files/jydpyr316/files/2021-07/SIGP-Scorecard-2020_072729.pdf)
-  - [Molson Coors Beverage Company](https://www.molsoncoors.com/sites/molsonco/files/ESG-Report-2021-EN.pdf)
-  - [Mondelez International, Inc.](https://www.mondelezinternational.com/Snacking-Made-Right/Reporting-and-Disclosure)
-  - [Nestlé](https://www.nestle.com/sites/default/files/2022-03/creating-shared-value-sustainability-report-2021-en.pdf)
-  - [PepsiCo, Inc. ](https://www.pepsico.com/docs/default-source/default-document-library/2020_sustainability_report_summary.pdf?sfvrsn=e61ca1f0_4)
-  - [Philip Morris International](https://pmidotcom3-prd.s3.amazonaws.com/docs/default-source/pmi-sustainability/pmi-integrated-report-2021.pdf?sfvrsn=646e6ab6_4)
-  - [Procter & Gamble Company](https://in.pg.com/sustainability-reports/)
-  - [Shiseido Company, Limited](https://corp.shiseido.com/en/sustainability/pdf/2020.pdf)
-  - [The Hershey Company](https://www.thehersheycompany.com/content/dam/hershey-corporate/documents/pdf/hershey_2020_sustainability_report_.pdf)
-  - [Unilever](https://www.unilever.com/files/92ui5egz/production/e582e46a7f7170fd10be32cf65113b738f19f0c2.pdf)
+### Consumer Goods & Services
+   - **Sustainability Solutions**
+     - Brand Identity
+     - Sustainability Reporting
+     - Sustainability Packaging Commitments
+     - Responsible Supply Chain
+     - Purpose Driven Brands & New Product Development
+     - Net Zero Carbon Supply Chain
+   - **Sustainability Reporting in Consumer Goods & Services Industry**
+    - [AB-Inbev](https://www.ab-inbev.com/assets/pdfs/ABINBEV_ESG_2021_Final.pdf)
+    - [Archer Daniels Midland Company](https://www.adm.com/globalassets/sustainability/sustainability-reports/pdfs/4019111_11_archer-daniels-midland_esg_clean-compressed.pdf)
+    - [British American Tobacco](https://www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DOAWWEKR/$file/BAT_ESG_Report_2021.pdf?open&v=1)
+    - [Cargill Incorporated](https://www.cargill.com/doc/1432194192294/2021-cargill-annual-report.pdf)
+    - [Coca-Cola](https://www.coca-colacompany.com/sustainability)
+    - [COTY, Inc.](https://www.coty.com/sites/default/files/coty_sustainability_report_2021.pdf)
+    - [DANONE](https://www.danone.com/content/dam/danone-corp/danone-com/investors/en-sustainability/reports-and-data/cross-topic/danonedashboard2022.pdf)
+    - [Dyson Ltd](https://www.dyson.com/inside-dyson/community/sustainability)
+    - [Essity](https://masdpstatic.azureedge.net/essity/8fe54e3f-ec63-442f-91b4-600d6449b2c2%2FEssity_Annual%20and%20Sustainability%20Report%202021_220302.pdf)
+    - [Ferrero SPA](https://www.ferrerosustainability.com/int/sites/ferrerosustainability_int/files/2021-10/ferrero_sr20.pdf)
+    - [General Mills, Inc.](https://www.generalmills.com/news/stories/2021-global-responsibility-report)
+    - [Henkel AG & Co KGaA](https://www.henkel.com/resource/blob/1616952/56b3f141043a2c60ca1743c8255f5f26/data/2021-sustainability-report.pdf)
+    - [Kimberly-Clark Corporation](https://www.kimberly-clark.com/-/media/kimberly/pdf/sustainability-reports/2020/k-c-2020-global-sustainability-report.pdf)
+    - [KKR & Co. Inc.](https://kkresg.com/assets/uploads/pdfs/KKR-2020-ESG-Impact-and-Citizenship-Report.pdf)
+    - [L'Oreal](https://www.loreal-finance.com/en/annual-report-2021/responsible-beauty/)
+    - [Mars, Incorporated](https://www.mars.com/sites/g/files/jydpyr316/files/2021-07/SIGP-Scorecard-2020_072729.pdf)
+    - [Molson Coors Beverage Company](https://www.molsoncoors.com/sites/molsonco/files/ESG-Report-2021-EN.pdf)
+    - [Mondelez International, Inc.](https://www.mondelezinternational.com/Snacking-Made-Right/Reporting-and-Disclosure)
+    - [Nestlé](https://www.nestle.com/sites/default/files/2022-03/creating-shared-value-sustainability-report-2021-en.pdf)
+    - [PepsiCo, Inc. ](https://www.pepsico.com/docs/default-source/default-document-library/2020_sustainability_report_summary.pdf?sfvrsn=e61ca1f0_4)
+    - [Philip Morris International](https://pmidotcom3-prd.s3.amazonaws.com/docs/default-source/pmi-sustainability/pmi-integrated-report-2021.pdf?sfvrsn=646e6ab6_4)
+    - [Procter & Gamble Company](https://in.pg.com/sustainability-reports/)
+    - [Shiseido Company, Limited](https://corp.shiseido.com/en/sustainability/pdf/2020.pdf)
+    - [The Hershey Company](https://www.thehersheycompany.com/content/dam/hershey-corporate/documents/pdf/hershey_2020_sustainability_report_.pdf)
+    - [Unilever](https://www.unilever.com/files/92ui5egz/production/e582e46a7f7170fd10be32cf65113b738f19f0c2.pdf)
 - **Retail**
   - [Walmart, Inc.](https://corporate.walmart.com/esgreport/)
   - [Amazon](https://sustainability.aboutamazon.com/pdfBuilderDownload?name=amazon-sustainability-2020-report)
