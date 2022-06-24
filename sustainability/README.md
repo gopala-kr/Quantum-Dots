@@ -62,10 +62,17 @@ of Investors expect to redeploy capital in response to ESG).
 
 ### Natural Resources
   - **Sustainability Solutions**
+    - Strong Governance
+    - Zero Based Targets
+    - Ethical Sourcing
+    - Renewable Energy
+    - Circular Economy
+    - Decarbonizations
+    - Brand Identity
   - **Sustainability Reporting in Automotive Industry**
-  - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
-  - [Global Resources Company](https://coronadoglobal.com/wp-content/uploads/2022/05/2021-Coronado-Sustainability-Report-FINAL.pdf)
-  - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
+    - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
+    - [Global Resources Company](https://coronadoglobal.com/wp-content/uploads/2022/05/2021-Coronado-Sustainability-Report-FINAL.pdf)
+    - [Rio Tinto LTD](https://www.riotinto.com/sustainability)
 ### Chemicals
   - **Sustainability Solutions**
     - Sustainability Reporting
