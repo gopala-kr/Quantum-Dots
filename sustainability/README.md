@@ -101,14 +101,22 @@ of Investors expect to redeploy capital in response to ESG).
   - [Stericycle, Inc](https://www.stericycle.com/content/dam/stericycle/global/documents/Stericycle-Corporate-Social-Responsibility-Report-2021.pdf.coredownload.inline.pdf)
   - [United Parcel Service Oasis Supply Corporation](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NYSE_UPS_2020.pdf)
   - [Vinci](https://www.vinci.com/publi/vinci/extract/2021_annual_report_extract-sustainability.pdf)
-- **Automotive**
-  - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
-  - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
-  - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
-  - [Metrolinx](https://www.metrolinx.com/en/aboutus/sustainability/default.aspx)
-  - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
-  - [EXOR-Stellantis](https://www.exor.com/sites/default/files/2022/page-documents/Exor%202021%20Sustainability%20Report.pdf)
-  - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
+### Automotive
+  - **Sustainability Solutions**
+    - Brand Identity
+    - Sustainability Reporting
+    - Supply Chain 
+    - Decarbonization
+    - Circular Economy
+    - Zero Emission Vehicles
+  - **Sustainability Reporting in Automotive Industry**
+    - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
+    - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
+    - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
+    - [Metrolinx](https://www.metrolinx.com/en/aboutus/sustainability/default.aspx)
+    - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
+    - [EXOR-Stellantis](https://www.exor.com/sites/default/files/2022/page-documents/Exor%202021%20Sustainability%20Report.pdf)
+    - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
 - **Aerospace & Defense**
   - [Airbus Group](https://www.airbus.com/sites/g/files/jlcbta136/files/2021-10/Full%20-Report-Airbus-SE-Annual-Report-2020.pdf)
   - [Boeing INC](https://www.boeing.com/resources/boeingdotcom/principles/sustainability/assets/data/2021_Boeing_Sustainability_Report.pdf)
