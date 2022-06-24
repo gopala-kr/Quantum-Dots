@@ -388,20 +388,20 @@ claims services
 ### Life Sciences
   - **Sustainability Solutions**
   - **Sustainability Reporting in Life Sciences Industry**
-  - [Astellas Pharma Inc.](https://www.astellas.com/en/system/files/ehs-report2021_en_final-0.pdf)
-  - [Astrazeneca](https://www.astrazeneca.com/content/dam/az/Sustainability/2022/pdf/Sustainability_Report_2021.pdf)
-  - [Bayer AG](https://www.bayer.com/en/sustainability/sustainability-reports)
-  - [Bristol Myers Squibb](https://www.bms.com/about-us/sustainability/goals-and-key-indicators/sustainability-2020-goals.html)
-  - [Cardinal Health, Inc.](https://www.cardinalhealth.com/content/dam/corp/web/documents/Report/cardinal-health-fy21-corporate-citizenship-report.pdf)
-  - [Eisai Co, Ltd.](https://www.eisai.com/sustainability/index.html)
-  - [F. Hoffmann-La Roche Ltd.](roche.com/about/sustainability/#15cbe619-ff56-4fd5-a0ba-bbce92cd85c7)
-  - [GlaxoSmithKline plc](https://www.gsk.com/media/7462/annual-report-2021.pdf)
-  - [Johnson & Johnson](https://www.jnj.com/caring)
-  - [Merck](https://www.merckgroup.com/en/sustainability-report/2020/)
-  - [Novartis AG](https://www.novartis.com/sites/novartis_com/files/novartis-in-society-report-2020.pdf)
-  - [Pfizer, Inc.](https://www.pfizer.com/sites/default/files/investors/financial_reports/annual_reports/2021/files/Pfizer_ESG_Report.pdf)
-  - [Sanofi](https://www.sanofi.com/en/investors/reports-and-publications/financial-and-csr-reports)
-  - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
+   - [Astellas Pharma Inc.](https://www.astellas.com/en/system/files/ehs-report2021_en_final-0.pdf)
+   - [Astrazeneca](https://www.astrazeneca.com/content/dam/az/Sustainability/2022/pdf/Sustainability_Report_2021.pdf)
+   - [Bayer AG](https://www.bayer.com/en/sustainability/sustainability-reports)
+   - [Bristol Myers Squibb](https://www.bms.com/about-us/sustainability/goals-and-key-indicators/sustainability-2020-goals.html)
+   - [Cardinal Health, Inc.](https://www.cardinalhealth.com/content/dam/corp/web/documents/Report/cardinal-health-fy21-corporate-citizenship-report.pdf)
+   - [Eisai Co, Ltd.](https://www.eisai.com/sustainability/index.html)
+   - [F. Hoffmann-La Roche Ltd.](roche.com/about/sustainability/#15cbe619-ff56-4fd5-a0ba-bbce92cd85c7)
+   - [GlaxoSmithKline plc](https://www.gsk.com/media/7462/annual-report-2021.pdf)
+   - [Johnson & Johnson](https://www.jnj.com/caring)
+   - [Merck](https://www.merckgroup.com/en/sustainability-report/2020/)
+   - [Novartis AG](https://www.novartis.com/sites/novartis_com/files/novartis-in-society-report-2020.pdf)
+   - [Pfizer, Inc.](https://www.pfizer.com/sites/default/files/investors/financial_reports/annual_reports/2021/files/Pfizer_ESG_Report.pdf)
+   - [Sanofi](https://www.sanofi.com/en/investors/reports-and-publications/financial-and-csr-reports)
+   - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
 ### Health
   - **Sustainability Solutions**
    - Sustainability Reporting
