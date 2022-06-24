@@ -231,15 +231,22 @@ of Investors expect to redeploy capital in response to ESG).
      - [Walgreens Boots Alliance, Inc.](https://www.walgreensbootsalliance.com/sites/www/files/asset/Walgreens-Boots-Alliance-2021-ESG-Report_2.pdf)
 ### High Tech
   - **Sustainability Solutions**
+    - Regulatory Reporting
+    - R&D /Engineering
+    - Green Sourcing & Procurement
+    - De-Carbonization Strategy
+    - Sustainable Supply Chain & Logistics
+    - Green Labelling of Products
+    - E-waste management
   - **Sustainability Reporting in High Tech Industry**
-  - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
-  - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
-  - [Fujifilm Holdings Corporation](https://www.fujifilm.com/files-holdings/en/sustainability/data/2021/sustainability_data_management_pdf_01.pdf)
-  - [Intel Corporation](https://csrreportbuilder.intel.com/pdfbuilder/pdfs/CSR-2020-21-Full-Report.pdf)
-  - [Johnson Controls International Plc](https://www.johnsoncontrols.com/2021sustainability)
-  - [Sony Group Corporation](https://www.sony.com/en/SonyInfo/csr/library/reports/SustainabilityReport2021_E.pdf)
-  - [Tokyo Electron Ltd.](https://www.tel.com/sustainability/report/fjb87t0000000po8-att/sustainability_report_2021_all_e.pdf)
-  - [Toshiba Corporation](https://www.global.toshiba/content/dam/toshiba/migration/corp/sustainableAssets/sustainability/en/report/pdf/report21_en.pdf)
+    - [Cisco System, Inc.](https://www.cisco.com/c/dam/m/en_us/about/csr/esg-hub/_pdf/csr-report-2020.pdf)
+    - [Diebold Nixdorf, Incorporated](https://www.dieboldnixdorf.com/-/media/diebold/files/about-us/dn_csr-report-2020.pdf)
+    - [Fujifilm Holdings Corporation](https://www.fujifilm.com/files-holdings/en/sustainability/data/2021/sustainability_data_management_pdf_01.pdf)
+    - [Intel Corporation](https://csrreportbuilder.intel.com/pdfbuilder/pdfs/CSR-2020-21-Full-Report.pdf)
+    - [Johnson Controls International Plc](https://www.johnsoncontrols.com/2021sustainability)
+    - [Sony Group Corporation](https://www.sony.com/en/SonyInfo/csr/library/reports/SustainabilityReport2021_E.pdf)
+    - [Tokyo Electron Ltd.](https://www.tel.com/sustainability/report/fjb87t0000000po8-att/sustainability_report_2021_all_e.pdf)
+    - [Toshiba Corporation](https://www.global.toshiba/content/dam/toshiba/migration/corp/sustainableAssets/sustainability/en/report/pdf/report21_en.pdf)
 ### Communications & Media
   - **Sustainability Solutions**
     - Sustainability Reporting
