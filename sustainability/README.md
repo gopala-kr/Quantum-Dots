@@ -201,7 +201,13 @@ of Investors expect to redeploy capital in response to ESG).
   - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
   - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
   - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
-- **Banking**
+### Banking
+  - **Sustainability Solutions**
+    - Brand Identity
+    - Regulatory Reporting
+    - Sustainable Products - Loan, Bonds, Abs ,
+    - Credit For Lending Products
+    - Client Portfolio Screening
   - Brand Identity, Business Planning & Regulatory Reporting, Sustainable Products - Loans, Bonds, Abs , Credit For Lending Products, Client Portfolio Screening
   - [Banco de Sabadell, S.A.](https://www.grupbancsabadell.com/corp/en/sustainability/commitment-to-sustainability.html)
   - [Banco Santander, S.A.](https://www.santander.com/en/press-room/press-releases/2021/09/santander-bank-polska-presents-the-new-esg-report)
@@ -229,8 +235,15 @@ of Investors expect to redeploy capital in response to ESG).
   - [The Siam Commercial Bank Public Company Limited](https://www.scb.co.th/content/dam/scb/about-us/sustainability/documents/2021/x-3-year-sustainability-target-en.pdf)
   - [Truist Financial Corporation](https://ir.truist.com/corporate-social-responsibility)
   - [UniCredit Group](https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/en/sustainability/sustainability-reports/2021/UC_INTEGRATO_2021_ENG.pdf)
-- **Capital Markets** 
-  - Brand Identity, Business Planning & Regulatory Reporting, Sustainable Products - Loans, Bonds, Abs, Credit For Lending Products, Client Portfolio Screening
+### Capital Markets
+  - **Sustainability Solutions**
+    - Brand Identity
+    - Regulatory Reporting
+    - Sustainable Products - Funds, Bonds, Abs , Mbs,
+    - Credit For Corporate Lending Products
+    - Responsible Investing 
+    - Green Treasury 
+    - Client Portfolio Screening
   - [Credit Suisse](https://reports.credit-suisse.com/en/2021SR/report/sustainability-report-2021)
   - [HSBC](https://www.hsbc.com/who-we-are/esg-and-responsible-business)
   - [Mizuho Financial Group, Inc.](https://www.mizuhogroup.com/investors/financial-information/annual)
