@@ -107,20 +107,26 @@ of Investors expect to redeploy capital in response to ESG).
     - [BP plc](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2021.pdf)
 ### Utilities
   - **Sustainability Solutions**
+    - Distributed Energy Resources
+    - Renewable Energy Transition
+    - Low Carbon Strategy
+    - Energy Efficiency Innovations
+    - Transport Electrification
+    - Brand Identity
   - **Sustainability Reporting in Automotive Industry**
-  - [Enbridge, Inc.](https://www.enbridge.com/~/media/Enb/Documents/Reports/Sustainability%20Report%202020/Enbridge_SR_2020)
-  - [EDF](https://www.edf.org/sites/default/files/content/EDF-SC-FY20-GHG-Report.pdf)
-  - [ENGIE](https://www.engie.com/sites/default/files/assets/documents/2021-05/RI-Engie2021-ENG-vdef.pdf)
-  - [Enel S.p.A.](https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2020/sustainability-report_2020.pdf)
-  - [Chubu Electric](https://www.chuden.co.jp/english/resource/corporate/ecsr_report_2021_all.pdf)
-  - [The Kansai Electric Power CO., INC](https://www.kepco.co.jp/english/corporate/list/report/pdf/e2021_a4.pdf)
-  - [Exelon](https://www.exeloncorp.com/sustainability/Documents/dwnld_Exelon_CSR%20(1).pdf)
-  - [Wisconsin Energy Corporation](https://www.wecenergygroup.com/csr/cr2020/wec-corporate-responsibility-report-2020.pdf)
-  - [Xcel Energy](https://s25.q4cdn.com/680186029/files/doc_downloads/irw/Sustainability/2020-Sustainability-Report-Full.pdf)
-  - [Eversource Energy](https://www.eversource.com/content/docs/default-source/community/2020-sustainability-report.pdf)
-  - [Duke Energy Corporation](https://sustainabilityreport.duke-energy.com/)
-  - [Entergy Services, Inc.](https://integratedreport.entergy.com/)
-  - [Sempra Energy](https://www.sempra.com/sites/default/files/content/files/node-report/2022/sempra_sustainability-report_2021_5.18.22.pdf)
+    - [Enbridge, Inc.](https://www.enbridge.com/~/media/Enb/Documents/Reports/Sustainability%20Report%202020/Enbridge_SR_2020)
+    - [EDF](https://www.edf.org/sites/default/files/content/EDF-SC-FY20-GHG-Report.pdf)
+    - [ENGIE](https://www.engie.com/sites/default/files/assets/documents/2021-05/RI-Engie2021-ENG-vdef.pdf)
+    - [Enel S.p.A.](https://www.enel.com/content/dam/enel-com/documenti/investitori/sostenibilita/2020/sustainability-report_2020.pdf)
+    - [Chubu Electric](https://www.chuden.co.jp/english/resource/corporate/ecsr_report_2021_all.pdf)
+    - [The Kansai Electric Power CO., INC](https://www.kepco.co.jp/english/corporate/list/report/pdf/e2021_a4.pdf)
+    - [Exelon](https://www.exeloncorp.com/sustainability/Documents/dwnld_Exelon_CSR%20(1).pdf)
+    - [Wisconsin Energy Corporation](https://www.wecenergygroup.com/csr/cr2020/wec-corporate-responsibility-report-2020.pdf)
+    - [Xcel Energy](https://s25.q4cdn.com/680186029/files/doc_downloads/irw/Sustainability/2020-Sustainability-Report-Full.pdf)
+    - [Eversource Energy](https://www.eversource.com/content/docs/default-source/community/2020-sustainability-report.pdf)
+    - [Duke Energy Corporation](https://sustainabilityreport.duke-energy.com/)
+    - [Entergy Services, Inc.](https://integratedreport.entergy.com/)
+    - [Sempra Energy](https://www.sempra.com/sites/default/files/content/files/node-report/2022/sempra_sustainability-report_2021_5.18.22.pdf)
 ### Industrial
   - **Sustainability Solutions**
     - Brand Identity
