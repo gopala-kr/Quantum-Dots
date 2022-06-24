@@ -404,14 +404,21 @@ claims services
   - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
 ### Health
   - **Sustainability Solutions**
+   - Sustainability Reporting
+   - Energy Efficiency
+   - Waste Management
+   - Green Building Designs
+   - Consumer & Human Experience
+   - Ethical Insurance
+   - Brand Identity
   - **Sustainability Reporting in Health Industry**
-  - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
-  - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
-  - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
-  - [Health Care Service Corporation](https://www.hcsc.com/our-impact/environment)
-  - [Highmark](https://www.highmark.com/about/corporate-responsibility/sustainability.html)
-  - [Kaiser Permanente](https://about.kaiserpermanente.org/community-health/improving-community-conditions/environmental-stewardship)
-  - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
+   - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
+   - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
+   - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
+   - [Health Care Service Corporation](https://www.hcsc.com/our-impact/environment)
+   - [Highmark](https://www.highmark.com/about/corporate-responsibility/sustainability.html)
+   - [Kaiser Permanente](https://about.kaiserpermanente.org/community-health/improving-community-conditions/environmental-stewardship)
+   - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
 ### Public Services
   - **Sustainability Solutions**
   - **Sustainability Reporting in Public Services Industry**
