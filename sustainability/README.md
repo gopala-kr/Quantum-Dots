@@ -536,6 +536,7 @@ claims services
 - [ESG Investing](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/esg-investing/)
 - [Supply Chain](https://www.bain.com/consulting-services/operations/supply-chain/)
 - [[Global Sustainability Innovation Center]([bain.com/consulting-services/sustainability-corporate-responsibility/global-sustainability-innovation-center/](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/global-sustainability-innovation-center/))](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/global-sustainability-innovation-center/)
+- [Energy and natural resources companies accelerate progress toward net zero, hasten shift to alternative ventures in search of new growth](https://www.bain.com/about/media-center/press-releases/2022/energy-and-natural-resources-companies-accelerate-progress-toward-net-zero-hasten-shift-to-alternative-ventures-in-search-of-new-growth/)
 -----------------
 ------------------
 
