@@ -546,6 +546,8 @@ claims services
 - [Startups promise to track emissions — how well is unclear](https://www.bain.com/about/media-center/bain-in-the-news/2022/startups-promise-to-track-emissions/)
 - [How Enterprise Technology can Accelerate Net-zero Ambitions](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/how-enterprise-technology-can-accelerate-net-zero-ambitions/)
 - [What are scope 3 emissions and why should your business care?](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/what-are-scope-3-emissions-and-why-should-your-business-care/)
+- [Traceability, the Next Supply Chain Revolution](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2021/traceability-the-next-supply-chain-revolution/)
+
 
 -----------------
 ------------------
