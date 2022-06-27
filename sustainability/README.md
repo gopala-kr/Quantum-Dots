@@ -529,7 +529,7 @@ claims services
 #### Bain Sustainability
 
 - [Sustainability & Responsibility](https://www.bain.com/consulting-services/sustainability-corporate-responsibility)
-
+- [The ESG Imperative in M&A](https://www.bain.com/insights/esg-imperative-m-and-a-report-2022/)
 
 
 -----------------
