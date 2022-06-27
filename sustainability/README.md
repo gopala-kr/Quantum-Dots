@@ -541,7 +541,7 @@ claims services
 - [New research from Bain & Company and CDP shows 64% of public companies by market cap report environmental data, compared to less than 1% of private companies](https://www.bain.com/about/media-center/press-releases/2022/closing-public-private-environmental-transparency-gap/)
 - [Nature Emerges as a New Asset Class](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/nature-emerges-as-a-new-asset-class/)
 - [Food system transformation: why the time is now](https://www.bain.com/about/media-center/press-releases/2022/food-system-transformation-why-the-time-is-now/)
-
+- [Pushing Beyond Net-zero: Bain & Company is Going Carbon Net-negative](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/pushing-beyond-net-zero-bain--company-is-going-carbon-net-negative/)
 
 -----------------
 ------------------
