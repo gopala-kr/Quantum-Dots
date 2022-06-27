@@ -531,6 +531,7 @@ claims services
 - [Sustainability & Responsibility](https://www.bain.com/consulting-services/sustainability-corporate-responsibility)
 - [The ESG Imperative in M&A](https://www.bain.com/insights/esg-imperative-m-and-a-report-2022/)
 - [Climate Change](bain.com/consulting-services/sustainability-corporate-responsibility/climate-change/https://www.bain.com/consulting-services/sustainability-corporate-responsibility/climate-change/)
+- [Circular Economy](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/circular-economy/)
 
 -----------------
 ------------------
