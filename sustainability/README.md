@@ -547,7 +547,7 @@ claims services
 - [How Enterprise Technology can Accelerate Net-zero Ambitions](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/how-enterprise-technology-can-accelerate-net-zero-ambitions/)
 - [What are scope 3 emissions and why should your business care?](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/what-are-scope-3-emissions-and-why-should-your-business-care/)
 - [Traceability, the Next Supply Chain Revolution](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2021/traceability-the-next-supply-chain-revolution/)
-
+- [Beyond COP26: What’s next for CEOs?](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2021/beyond-cop26-whats-next-for-ceos/)
 
 -----------------
 ------------------
