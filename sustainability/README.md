@@ -534,6 +534,7 @@ claims services
 - [Circular Economy](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/circular-economy/)
 - [Sustainable Food and Nature Systems](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/sustainable-food-system-transformation/)
 - [ESG Investing](https://www.bain.com/consulting-services/sustainability-corporate-responsibility/esg-investing/)
+- [Supply Chain](https://www.bain.com/consulting-services/operations/supply-chain/)
 -----------------
 ------------------
 
