@@ -544,6 +544,8 @@ claims services
 - [Pushing Beyond Net-zero: Bain & Company is Going Carbon Net-negative](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/pushing-beyond-net-zero-bain--company-is-going-carbon-net-negative/)
 - [Three Reasons Why Many Brands Are Late to the Sustainability Game](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/three-reasons-why-many-brands-are-late-to-the-sustainability-game/)
 - [Startups promise to track emissions — how well is unclear](https://www.bain.com/about/media-center/bain-in-the-news/2022/startups-promise-to-track-emissions/)
+- [How Enterprise Technology can Accelerate Net-zero Ambitions](https://www.bain.com/about/media-center/bain-in-the-news/middle-east/2022/how-enterprise-technology-can-accelerate-net-zero-ambitions/)
+
 
 -----------------
 ------------------
