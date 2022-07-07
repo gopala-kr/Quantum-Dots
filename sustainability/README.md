@@ -50,6 +50,11 @@ creating urgency.
 - Return - Organizations that prioritize ESG will likely see increased returns (97% 
 of Investors expect to redeploy capital in response to ESG).
 
+
+-----------------------
+- [The Materiality of ESG Factors Specialization](https://www.coursera.org/specializations/materiality-esg-factors)
+
+
 ---------------------
 
 ## Functions
