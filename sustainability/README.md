@@ -57,6 +57,8 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainable Investing](https://pll.harvard.edu/course/sustainable-investing?delta=0#:~:text=Sustainable%20Investing%2C%20a%20course%20from,measure%20and%20manage%20impact%20investments.)
 - [Sustainability and Impact Investments](https://pll.harvard.edu/course/sustainability-and-impact-investments?delta=2)
 - [ESG and Sustainable Investing](https://www.udemy.com/course/esg-and-sustainable-investing-101/)
+- [Sustainable Energy](https://www.edx.org/course/sustainable-energy)
+
 
 ---------------------
 
