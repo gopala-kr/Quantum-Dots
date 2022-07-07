@@ -53,7 +53,7 @@ of Investors expect to redeploy capital in response to ESG).
 
 -----------------------
 - [The Materiality of ESG Factors Specialization](https://www.coursera.org/specializations/materiality-esg-factors)
-
+- [The Economics of Energy Transition](https://www.edx.org/professional-certificate/delftx-the-economics-of-energy-transition)
 
 ---------------------
 
