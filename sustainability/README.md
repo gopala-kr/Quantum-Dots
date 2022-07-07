@@ -69,6 +69,8 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainability Leadership and Corporate Responsibility](https://www.london.edu/executive-education/leadership/sustainability-leadership-and-corporate-responsibility)
 - [ESGBERT: Language Model to Help with Classification Tasks Related to Companies Environmental, Social, and Governance Practices](https://arxiv.org/ftp/arxiv/papers/2203/2203.16788.pdf)
 - [ESG2Risk: A Deep Learning Framework from ESG News to Stock Volatility Prediction](https://arxiv.org/pdf/2005.02527.pdf)
+- [ESG, Risk, and (tail) dependence](https://arxiv.org/pdf/2105.07248.pdf)
+
 
 ---------------------
 
