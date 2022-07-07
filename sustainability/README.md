@@ -71,6 +71,8 @@ of Investors expect to redeploy capital in response to ESG).
 - [ESG2Risk: A Deep Learning Framework from ESG News to Stock Volatility Prediction](https://arxiv.org/pdf/2005.02527.pdf)
 - [ESG, Risk, and (tail) dependence](https://arxiv.org/pdf/2105.07248.pdf)
 - [ESG-Valued Portfolio Optimization and Dynamic Asset Pricing](https://arxiv.org/pdf/2206.02854.pdf)
+- [Fund Characteristics and Performances of Socially Responsible Mutual
+Funds: Do ESG Ratings Play a Role?](https://arxiv.org/ftp/arxiv/papers/1806/1806.09906.pdf)
 
 ---------------------
 
