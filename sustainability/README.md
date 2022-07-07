@@ -64,7 +64,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [Environmental and Natural Resources Economics](https://www.edx.org/course/environmental-and-natural-resources-economics)
 - [Geographic Information Systems (GIS)](https://www.coursera.org/specializations/gis)
 - [Supply Chain Excellence](https://www.coursera.org/learn/supply-chain-excellence)
-
+- [SUSTAINABLE CAPITALISM AND ESG](https://executive.law.berkeley.edu/online-programs/sustainable-capitalism-and-esg/)
 
 ---------------------
 
