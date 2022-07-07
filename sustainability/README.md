@@ -67,7 +67,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [SUSTAINABLE CAPITALISM AND ESG](https://executive.law.berkeley.edu/online-programs/sustainable-capitalism-and-esg/)
 - [sustainable-capitalism-and-esg](https://execed.stern.nyu.edu/products/sustainable-finance-and-esg-investing)
 - [Sustainability Leadership and Corporate Responsibility](https://www.london.edu/executive-education/leadership/sustainability-leadership-and-corporate-responsibility)
-
+- [ESGBERT: Language Model to Help with Classification Tasks Related to Companies Environmental, Social, and Governance Practices](https://arxiv.org/ftp/arxiv/papers/2203/2203.16788.pdf)
 
 ---------------------
 
