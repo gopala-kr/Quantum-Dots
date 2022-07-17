@@ -82,7 +82,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [Digital Supply Chain – From Design to Operate](https://open.sap.com/courses/dscm1)
 - [How Social Enterprises Enhance Corporate Supply Chains](https://open.sap.com/courses/sewf1-tl)
 - [Improving Confidence in Sustainability Performance Data](https://open.sap.com/courses/ima1-tl)
-
+- [Climate Change, Risks, and Challenges (Short Track Version)](https://open.sap.com/courses/wwf1-tl)
 
 ---------------------
 
