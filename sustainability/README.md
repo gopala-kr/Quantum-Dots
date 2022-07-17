@@ -79,7 +79,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [The Business Opportunities of a Digitally Transformed Economy](https://open.sap.com/courses/dit2)
 - [Sustainability: Learning from Leading Companies](https://open.sap.com/courses/tcb1-tl)
 - [Creating Trustworthy and Ethical Artificial Intelligence](https://open.sap.com/courses/aie1-tl)
-
+- [Digital Supply Chain – From Design to Operate](https://open.sap.com/courses/dscm1)
 
 ---------------------
 
