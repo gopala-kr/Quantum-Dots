@@ -86,6 +86,9 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainability Through Digital Transformation](https://open.sap.com/courses/sbi2-1)
 - [Sustainability and Business Innovation](https://open.sap.com/courses/sbi1-1)
 - [How the Internet of Things and Smart Services Will Change Society](https://open.sap.com/courses/iot1)
+- [Digital Transformation and Its Impact](https://open.sap.com/courses/dit1)
+
+
 ---------------------
 
 ## Functions
