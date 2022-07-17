@@ -88,7 +88,9 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainability and Business Innovation](https://open.sap.com/courses/sbi1-1)
 - [How the Internet of Things and Smart Services Will Change Society](https://open.sap.com/courses/iot1)
 - [Digital Transformation and Its Impact](https://open.sap.com/courses/dit1)
-
+- [2022 CxO
+Sustainability
+Report](www2.deloitte.com/content/dam/Deloitte/global/Documents/2022-deloitte-global-cxo-sustainability-report.pdf)
 
 ---------------------
 
