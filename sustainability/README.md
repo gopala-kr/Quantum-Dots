@@ -91,7 +91,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [2022 CxO
 Sustainability
 Report](www2.deloitte.com/content/dam/Deloitte/global/Documents/2022-deloitte-global-cxo-sustainability-report.pdf)
-
+- [Who is setting the pace for personal sustainability?](www2.deloitte.com/uk/en/insights/topics/strategy/sustainable-action-climate-change.html)
 ---------------------
 
 ## Functions
