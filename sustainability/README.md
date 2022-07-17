@@ -80,6 +80,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainability: Learning from Leading Companies](https://open.sap.com/courses/tcb1-tl)
 - [Creating Trustworthy and Ethical Artificial Intelligence](https://open.sap.com/courses/aie1-tl)
 - [Digital Supply Chain – From Design to Operate](https://open.sap.com/courses/dscm1)
+- [How Social Enterprises Enhance Corporate Supply Chains](https://open.sap.com/courses/sewf1-tl)
 
 ---------------------
 
