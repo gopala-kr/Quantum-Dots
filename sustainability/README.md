@@ -75,6 +75,8 @@ of Investors expect to redeploy capital in response to ESG).
 - [Sustainable Software Engineering](https://open.sap.com/courses/sustainablesoftware2022-hpi)
 - [Helping Business Thrive in a Circular Economy](https://open.sap.com/courses/ce1)
 - [clean-IT: Towards Sustainable Digital Technologies](https://open.sap.com/courses/cleanit2021-hpi)
+- [Business Success with Climate Action](https://open.sap.com/courses/clim1)
+
 
 ---------------------
 
