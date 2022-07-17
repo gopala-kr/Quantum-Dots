@@ -73,6 +73,7 @@ of Investors expect to redeploy capital in response to ESG).
 - [ESG-Valued Portfolio Optimization and Dynamic Asset Pricing](https://arxiv.org/pdf/2206.02854.pdf)
 - [Fund Characteristics and Performances of Socially Responsible Mutual Funds: Do ESG Ratings Play a Role?](https://arxiv.org/ftp/arxiv/papers/1806/1806.09906.pdf)
 - [Sustainable Software Engineering](https://open.sap.com/courses/sustainablesoftware2022-hpi)
+- [Helping Business Thrive in a Circular Economy](https://open.sap.com/courses/ce1)
 
 ---------------------
 
