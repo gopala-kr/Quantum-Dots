@@ -53,7 +53,7 @@ of Investors expect to redeploy capital in response to ESG).
 
 -----------------------
 - [Climate 21](https://www.climate21podcast.com)
-- [The Materiality of ESG Factors Specialization](https://www.coursera.org/specializations/materiality-esg-factors)
+- [The Materiality of ESG Factors](https://www.coursera.org/specializations/materiality-esg-factors)
 - [The Economics of Energy Transition](https://www.edx.org/professional-certificate/delftx-the-economics-of-energy-transition)
 - [Sustainable Investing](https://pll.harvard.edu/course/sustainable-investing?delta=0#:~:text=Sustainable%20Investing%2C%20a%20course%20from,measure%20and%20manage%20impact%20investments.)
 - [Sustainability and Impact Investments](https://pll.harvard.edu/course/sustainability-and-impact-investments?delta=2)
@@ -302,54 +302,54 @@ Report](www2.deloitte.com/content/dam/Deloitte/global/Documents/2022-deloitte-gl
 ### Communications & Media
   - **Sustainability Solutions**
     - Sustainability Reporting
-   - Emission Reduction
-   - Sustainability Measurement
-   - Circular Economy & Waste
-   - Smart buildings/Smart Factories
-   - Brand Identity
+    - Emission Reduction
+    - Sustainability Measurement
+    - Circular Economy & Waste
+    - Smart buildings/Smart Factories
+    - Brand Identity
   - **Sustainability Reporting in Communications & Media Industry**
-   - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
-   - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
-   - [Comcast Corporation](https://update.comcast.com/wp-content/uploads/sites/33/dlm_uploads/2022/05/2022_CarbonFootprintData_Report_R5.pdf)
-   - [Cox Enterprises, Inc.](https://www.coxenterprises.com/corporate-responsibility/our-collective-impact)
-   - [Deutsche Telekom AG](https://www.telekom.com/en/company/digital-responsibility/cdr)
-   - [Educational Testing Service](https://plc.pearson.com/sites/pearson-corp/files/pearson/esg-reports/Pearson_2018_Sustainability_Report.pdf)
-   - [Etisalat](https://www.xylem.com/siteassets/sustainability/2021/xylem-sustainability-report-2021.pdf)
-   - [Hutchison-H3G](https://www.ckh.com.hk/en/esg/esg_sustainability-report.php)
-   - [KDDI Corporation](kddi.com/extlib/files/english/corporate/csr/csr_report/2021/pdf/report2021_en.pdf)
-   - [Liberty Global](https://www.libertyglobal.com/wp-content/uploads/2021/07/Liberty-Global-2020-Corporate-Responsibility-Report.pdf)
-   - [Lumen Technologies](https://s24.q4cdn.com/287068338/files/doc_downloads/2020/GR210222_258_ESG_Final_210419.pdf)
-   - [NBN Co, Ltd.](https://www.nbnco.com.au/content/dam/nbn/documents/about-nbn/reports/sustainability-reports/nbn-sustainability-report-2021.pdf)
-   - [Nippon Telegraph and Telephone Corporation](https://group.ntt/en/csr/data/pdf/NTT%20Group%20Sustainability%20report%202021%20DataBook_220610.pdf)
-   - [Oi, S.A.](https://www.o-i.com/wp-content/uploads/2022/04/O-I_SustainabilityReport_032222.pdf)
-   - [Softbank Group Corp.](https://group.softbank/system/files/pdf/sustainability/report/sustainability-report_fy2020_01_en.pdf)
-   - [Telecom Italia Group](https://www.gruppotim.it/content/dam/gt/sostenibilit%C3%A0/doc-bilanci/Sustainability-Report-2021.pdf)
-   - [Telefónica Group](https://www.telefonica.com/en/shareholders-investors/financial-reports/historical-archive-annual-reports/2020/#:~:text=In%20economic%20terms%2C%20we%20have,100%25%20in%20our%20main%20markets.)
-   - [Telstra](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf)
-   - [Telus](https://downloads.ctfassets.net/rz9m1rynx8pv/4b0g0vtonuABwWlk271He4/c0877d06aa938fa67a4216e601fa21e0/TELUS_Sustainability_2021_APR_1_FINAL.pdf)
-   - [The Walt Disney Company](https://impact.disney.com/app/uploads/2022/02/2021-CSR-Report.pdf)
-   - [T-Mobile USA, Inc.](https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/T-Mobile_CSR20_10921.pdf)
-   - [Verizon Communications, Inc.](https://www.verizon.com/about/sites/default/files/Verizon-2021-ESG-Report.pdf)
-   - [Virgin Media O2](https://news.virginmediao2.co.uk/responsible-business/)
-   - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
+    - [AT&T Inc.](https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/2019-2020-Summary.pdf)
+    - [British Telecommunications plc](https://www.bt.com/bt-plc/assets/documents/digital-impact-and-sustainability/our-report/report-archive/2021/bt-dis-report.pdf)
+    - [Comcast Corporation](https://update.comcast.com/wp-content/uploads/sites/33/dlm_uploads/2022/05/2022_CarbonFootprintData_Report_R5.pdf)
+    - [Cox Enterprises, Inc.](https://www.coxenterprises.com/corporate-responsibility/our-collective-impact)
+    - [Deutsche Telekom AG](https://www.telekom.com/en/company/digital-responsibility/cdr)
+    - [Educational Testing Service](https://plc.pearson.com/sites/pearson-corp/files/pearson/esg-reports/Pearson_2018_Sustainability_Report.pdf)
+    - [Etisalat](https://www.xylem.com/siteassets/sustainability/2021/xylem-sustainability-report-2021.pdf)
+    - [Hutchison-H3G](https://www.ckh.com.hk/en/esg/esg_sustainability-report.php)
+    - [KDDI Corporation](kddi.com/extlib/files/english/corporate/csr/csr_report/2021/pdf/report2021_en.pdf)
+    - [Liberty Global](https://www.libertyglobal.com/wp-content/uploads/2021/07/Liberty-Global-2020-Corporate-Responsibility-Report.pdf)
+    - [Lumen Technologies](https://s24.q4cdn.com/287068338/files/doc_downloads/2020/GR210222_258_ESG_Final_210419.pdf)
+    - [NBN Co, Ltd.](https://www.nbnco.com.au/content/dam/nbn/documents/about-nbn/reports/sustainability-reports/nbn-sustainability-report-2021.pdf)
+    - [Nippon Telegraph and Telephone Corporation](https://group.ntt/en/csr/data/pdf/NTT%20Group%20Sustainability%20report%202021%20DataBook_220610.pdf)
+    - [Oi, S.A.](https://www.o-i.com/wp-content/uploads/2022/04/O-I_SustainabilityReport_032222.pdf)
+    - [Softbank Group Corp.](https://group.softbank/system/files/pdf/sustainability/report/sustainability-report_fy2020_01_en.pdf)
+    - [Telecom Italia Group](https://www.gruppotim.it/content/dam/gt/sostenibilit%C3%A0/doc-bilanci/Sustainability-Report-2021.pdf)
+    - [Telefónica Group](https://www.telefonica.com/en/shareholders-investors/financial-reports/historical-archive-annual-reports/2020/#:~:text=In%20economic%20terms%2C%20we%20have,100%25%20in%20our%20main%20markets.)
+    - [Telstra](https://1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Telstras-Bigger-Picture-2021-Sustainability-Report-1.pdf)
+    - [Telus](https://downloads.ctfassets.net/rz9m1rynx8pv/4b0g0vtonuABwWlk271He4/c0877d06aa938fa67a4216e601fa21e0/TELUS_Sustainability_2021_APR_1_FINAL.pdf)
+    - [The Walt Disney Company](https://impact.disney.com/app/uploads/2022/02/2021-CSR-Report.pdf)
+    - [T-Mobile USA, Inc.](https://www.t-mobile.com/content/dam/t-mobile/assets/pdf/T-Mobile_CSR20_10921.pdf)
+    - [Verizon Communications, Inc.](https://www.verizon.com/about/sites/default/files/Verizon-2021-ESG-Report.pdf)
+    - [Virgin Media O2](https://news.virginmediao2.co.uk/responsible-business/)
+    - [Vodafone Group plc](https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports)
 ### Software & Platforms
-  - **Sustainability Solutions**
-   - Energy Footprint
-   - E-waste & Materials
-   - Human & Employee rights
-   - Data Security and Privacy
-   - Diversity, equity and Inclusion
-   - Responsible datacenter supply chains
-   - Brand Identity
-  - **Sustainability Reporting in Software & Platforms Industry**
-   - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
-   - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
-   - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
-   - [Microsoft Corporation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4RwfV)
-   - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
-   - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
-   - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
-   - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
+   - **Sustainability Solutions**
+     - Energy Footprint
+     - E-waste & Materials
+     - Human & Employee rights
+     - Data Security and Privacy
+     - Diversity, equity and Inclusion
+     - Responsible datacenter supply chains
+     - Brand Identity
+   - **Sustainability Reporting in Software & Platforms Industry**
+     - [Amazon](https://sustainability.aboutamazon.com/amazon-sustainability-2020-report.pdf)
+     - [Google Inc.](https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GOOG_2020.pdf)
+     - [Meta Platforms, Inc.](https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Report-3.pdf)
+     - [Microsoft Corporation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4RwfV)
+     - [Rakuten Group, Inc.](https://global.rakuten.com/corp/sustainability/)
+     - [SAP SE](https://www.sap.com/integrated-reports/2021/en.html)
+     - [Snap](https://storage.googleapis.com/snap-inc/citizen-snap/2022_CitizenSnap_Report.pdf?lang=en-US)
+     - [Oracle Inc](https://www.oracle.com/in/corporate/citizenship/sustainability/)
 ### Banking
   - **Sustainability Solutions**
     - Brand Identity
@@ -414,7 +414,7 @@ Report](www2.deloitte.com/content/dam/Deloitte/global/Documents/2022-deloitte-gl
     - Integrate ESG issues into repairs, replacements and other 
 claims services
     - Products and services with a positive impact on ESG issues
-   - **Sustainability Reporting Insurance Industry**
+  - **Sustainability Reporting Insurance Industry**
     - [Aflac Incorporated](https://www.aflac.com/about-aflac/corporate-citizenship/corporate-social-responsibility-report/default.aspx)
     - [Allianz](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/sustainability/documents/Allianz_Group_Sustainability_Report_2021-web.pdf)
     - [American International Group, Inc. – AIG ](https://www.aig.com/esgreports/home)
@@ -433,37 +433,37 @@ claims services
 ### Life Sciences
   - **Sustainability Solutions**
   - **Sustainability Reporting in Life Sciences Industry**
-   - [Astellas Pharma Inc.](https://www.astellas.com/en/system/files/ehs-report2021_en_final-0.pdf)
-   - [Astrazeneca](https://www.astrazeneca.com/content/dam/az/Sustainability/2022/pdf/Sustainability_Report_2021.pdf)
-   - [Bayer AG](https://www.bayer.com/en/sustainability/sustainability-reports)
-   - [Bristol Myers Squibb](https://www.bms.com/about-us/sustainability/goals-and-key-indicators/sustainability-2020-goals.html)
-   - [Cardinal Health, Inc.](https://www.cardinalhealth.com/content/dam/corp/web/documents/Report/cardinal-health-fy21-corporate-citizenship-report.pdf)
-   - [Eisai Co, Ltd.](https://www.eisai.com/sustainability/index.html)
-   - [F. Hoffmann-La Roche Ltd.](roche.com/about/sustainability/#15cbe619-ff56-4fd5-a0ba-bbce92cd85c7)
-   - [GlaxoSmithKline plc](https://www.gsk.com/media/7462/annual-report-2021.pdf)
-   - [Johnson & Johnson](https://www.jnj.com/caring)
-   - [Merck](https://www.merckgroup.com/en/sustainability-report/2020/)
-   - [Novartis AG](https://www.novartis.com/sites/novartis_com/files/novartis-in-society-report-2020.pdf)
-   - [Pfizer, Inc.](https://www.pfizer.com/sites/default/files/investors/financial_reports/annual_reports/2021/files/Pfizer_ESG_Report.pdf)
-   - [Sanofi](https://www.sanofi.com/en/investors/reports-and-publications/financial-and-csr-reports)
-   - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
+    - [Astellas Pharma Inc.](https://www.astellas.com/en/system/files/ehs-report2021_en_final-0.pdf)
+    - [Astrazeneca](https://www.astrazeneca.com/content/dam/az/Sustainability/2022/pdf/Sustainability_Report_2021.pdf)
+    - [Bayer AG](https://www.bayer.com/en/sustainability/sustainability-reports)
+    - [Bristol Myers Squibb](https://www.bms.com/about-us/sustainability/goals-and-key-indicators/sustainability-2020-goals.html)
+    - [Cardinal Health, Inc.](https://www.cardinalhealth.com/content/dam/corp/web/documents/Report/cardinal-health-fy21-corporate-citizenship-report.pdf)
+    - [Eisai Co, Ltd.](https://www.eisai.com/sustainability/index.html)
+    - [F. Hoffmann-La Roche Ltd.](roche.com/about/sustainability/#15cbe619-ff56-4fd5-a0ba-bbce92cd85c7)
+    - [GlaxoSmithKline plc](https://www.gsk.com/media/7462/annual-report-2021.pdf)
+    - [Johnson & Johnson](https://www.jnj.com/caring)
+    - [Merck](https://www.merckgroup.com/en/sustainability-report/2020/)
+    - [Novartis AG](https://www.novartis.com/sites/novartis_com/files/novartis-in-society-report-2020.pdf)
+    - [Pfizer, Inc.](https://www.pfizer.com/sites/default/files/investors/financial_reports/annual_reports/2021/files/Pfizer_ESG_Report.pdf)
+    - [Sanofi](https://www.sanofi.com/en/investors/reports-and-publications/financial-and-csr-reports)
+    - [Takeda Pharmaceutical](https://www.takeda.com/495b0f/siteassets/system/corporate-responsibility/sustainable-value-report/takeda-2021-annual-integrated-report.pdf)
 ### Health
   - **Sustainability Solutions**
-   - Sustainability Reporting
-   - Energy Efficiency
-   - Waste Management
-   - Green Building Designs
-   - Consumer & Human Experience
-   - Ethical Insurance
-   - Brand Identity
+    - Sustainability Reporting
+    - Energy Efficiency
+    - Waste Management
+    - Green Building Designs
+    - Consumer & Human Experience
+    - Ethical Insurance
+    - Brand Identity
   - **Sustainability Reporting in Health Industry**
-   - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
-   - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
-   - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
-   - [Health Care Service Corporation](https://www.hcsc.com/our-impact/environment)
-   - [Highmark](https://www.highmark.com/about/corporate-responsibility/sustainability.html)
-   - [Kaiser Permanente](https://about.kaiserpermanente.org/community-health/improving-community-conditions/environmental-stewardship)
-   - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
+    - [Anthem, Inc.](https://www.anthemcorporateresponsibility.com/assets/images/pdf/Anthem_ESG_Report_2020.pdf)
+    - [ANZ Health](https://www.anz.com.au/content/dam/anzcom/shareholder/ANZ-2020-ESG-Supplement.pdf)
+    - [Cigna Corporation](https://www.cigna.com/about-us/corporate-responsibility/report/)
+    - [Health Care Service Corporation](https://www.hcsc.com/our-impact/environment)
+    - [Highmark](https://www.highmark.com/about/corporate-responsibility/sustainability.html)
+    - [Kaiser Permanente](https://about.kaiserpermanente.org/community-health/improving-community-conditions/environmental-stewardship)
+    - [UK Health](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939944/PHE_annual_sustainability_report_2020.pdf)
 ### Public Services
   - **Sustainability Solutions**
   - **Sustainability Reporting in Public Services Industry**
