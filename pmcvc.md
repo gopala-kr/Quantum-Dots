@@ -12,7 +12,7 @@
 - [Google’s new AI can hear a snippet of song—and then keep on playing](https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/)
 - [I Was There When: AI mastered chess](https://www.technologyreview.com/2022/10/06/1060824/i-was-there-when-ai-mastered-chess/)
 - [AI and data fuel innovation in clinical trials and beyond](https://www.technologyreview.com/2022/10/06/1060590/ai-and-data-fuel-innovation-in-clinical-trials-and-beyond/)
-- []()
+- [DeepMind’s game-playing AI has beaten a 50-year-old record in computer science](https://www.technologyreview.com/2022/10/05/1060717/deepmind-uses-its-game-playing-ai-to-best-a-50-year-old-record-in-computer-science/)
 - []()
 - []()
 - []()
