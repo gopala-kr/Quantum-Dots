@@ -10,7 +10,7 @@
 - [Machine learning operations offer agility, spur innovation](https://www.technologyreview.com/2022/10/12/1060890/machine-learning-operations-offer-agility-spur-innovation/)
 - [Who’s going to save us from bad AI?](https://www.technologyreview.com/2022/10/10/1061016/whos-going-to-save-us-from-bad-ai/)
 - [Google’s new AI can hear a snippet of song—and then keep on playing](https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/)
-- []()
+- [I Was There When: AI mastered chess](https://www.technologyreview.com/2022/10/06/1060824/i-was-there-when-ai-mastered-chess/)
 - []()
 - []()
 - []()
