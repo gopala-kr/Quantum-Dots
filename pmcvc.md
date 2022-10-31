@@ -15,7 +15,7 @@
 - [DeepMind’s game-playing AI has beaten a 50-year-old record in computer science](https://www.technologyreview.com/2022/10/05/1060717/deepmind-uses-its-game-playing-ai-to-best-a-50-year-old-record-in-computer-science/)
 - [The White House just unveiled a new AI Bill of Rights](https://www.technologyreview.com/2022/10/04/1060600/white-house-ai-bill-of-rights/)
 - [Get ready for the next generation of AI](https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/)
-- []()
+- [Meta’s new AI can turn text prompts into videos](https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/)
 - []()
 - []()
 - []()
