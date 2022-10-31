@@ -1,2 +1,3 @@
+- [Responsible AI has a burnout problem](https://www.technologyreview.com/2022/10/28/1062332/responsible-ai-has-a-burnout-problem/)
 - [How scientists want to make you young again](https://www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again/)
 - [Inside the enigmatic minds of animals](https://www.technologyreview.com/2022/10/24/1061064/book-review-animal-minds/)
