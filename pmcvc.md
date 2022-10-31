@@ -16,6 +16,6 @@
 - [The White House just unveiled a new AI Bill of Rights](https://www.technologyreview.com/2022/10/04/1060600/white-house-ai-bill-of-rights/)
 - [Get ready for the next generation of AI](https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/)
 - [Meta’s new AI can turn text prompts into videos](https://www.technologyreview.com/2022/09/29/1060472/meta-text-to-video-ai/)
-- []()
+- [How AI is helping birth digital humans that look and sound just like us](https://www.technologyreview.com/2022/09/29/1060425/seeing-double-ai-births-digital-humans/)
 - []()
 - []()
