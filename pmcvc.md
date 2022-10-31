@@ -4,3 +4,4 @@
 - [How scientists want to make you young again](https://www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again/)
 - [Inside the enigmatic minds of animals](https://www.technologyreview.com/2022/10/24/1061064/book-review-animal-minds/)
 - [A bias bounty for AI will help to catch unfair algorithms faster](https://www.technologyreview.com/2022/10/20/1061977/ai-bias-bounty-help-catch-unfair-algorithms-faster/)
+- [Alex Hanna left Google to try to save AI’s future](https://www.technologyreview.com/2022/10/19/1061075/alex-hanna-google-ai-research/)
