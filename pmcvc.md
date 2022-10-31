@@ -19,3 +19,4 @@
 - [How AI is helping birth digital humans that look and sound just like us](https://www.technologyreview.com/2022/09/29/1060425/seeing-double-ai-births-digital-humans/)
 - [How DeepMind thinks it can make chatbots safer](https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/)
 - [How one vineyard is using AI to improve its winemaking](https://www.technologyreview.com/2022/09/26/1060049/audio-postcard-real-time-farming-ai/)
+- [This startup’s AI is smart enough to drive different types of vehicles](https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/)
