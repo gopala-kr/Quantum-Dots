@@ -24,3 +24,6 @@
 - [There’s no Tiananmen Square in the new Chinese image-making AI](https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/)
 - [What does GPT-3 “know” about me? ](https://www.technologyreview.com/2022/08/31/1058800/what-does-gpt-3-know-about-me/)
 - [I Was There When: AI helped create a vaccine](https://www.technologyreview.com/2022/08/26/1058743/i-was-there-when-ai-helped-create-a-vaccine-covid-moderna-mrna/)
+- [The outgoing White House AI director explains the policy challenges ahead](https://www.technologyreview.com/2022/08/23/1058412/white-house-ai-director-challenges/)
+
+
