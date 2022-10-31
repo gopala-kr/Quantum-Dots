@@ -20,3 +20,4 @@
 - [How DeepMind thinks it can make chatbots safer](https://www.technologyreview.com/2022/09/27/1060094/how-deepmind-thinks-it-can-make-chatbots-safer/)
 - [How one vineyard is using AI to improve its winemaking](https://www.technologyreview.com/2022/09/26/1060049/audio-postcard-real-time-farming-ai/)
 - [This startup’s AI is smart enough to drive different types of vehicles](https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/)
+- [An AI used medical notes to teach itself to spot disease on chest x-rays](https://www.technologyreview.com/2022/09/15/1059541/ai-medical-notes-teach-itself-spot-disease-chest-x-rays/)
