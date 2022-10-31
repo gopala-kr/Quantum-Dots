@@ -1,4 +1,5 @@
 - [Responsible AI has a burnout problem](https://www.technologyreview.com/2022/10/28/1062332/responsible-ai-has-a-burnout-problem/)
 - [Machine learning could vastly speed up the search for new metals](https://www.technologyreview.com/2022/10/25/1062104/machine-learning-new-metals/)
+- [Do AI systems need to come with safety warnings?](https://www.technologyreview.com/2022/10/24/1062071/do-ai-systems-need-to-come-with-safety-warnings/)
 - [How scientists want to make you young again](https://www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again/)
 - [Inside the enigmatic minds of animals](https://www.technologyreview.com/2022/10/24/1061064/book-review-animal-minds/)
