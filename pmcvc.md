@@ -23,3 +23,4 @@
 - [An AI used medical notes to teach itself to spot disease on chest x-rays](https://www.technologyreview.com/2022/09/15/1059541/ai-medical-notes-teach-itself-spot-disease-chest-x-rays/)
 - [There’s no Tiananmen Square in the new Chinese image-making AI](https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/)
 - [What does GPT-3 “know” about me? ](https://www.technologyreview.com/2022/08/31/1058800/what-does-gpt-3-know-about-me/)
+- [I Was There When: AI helped create a vaccine](https://www.technologyreview.com/2022/08/26/1058743/i-was-there-when-ai-helped-create-a-vaccine-covid-moderna-mrna/)
