@@ -3,3 +3,4 @@
 - [Do AI systems need to come with safety warnings?](https://www.technologyreview.com/2022/10/24/1062071/do-ai-systems-need-to-come-with-safety-warnings/)
 - [How scientists want to make you young again](https://www.technologyreview.com/2022/10/25/1061644/how-to-be-young-again/)
 - [Inside the enigmatic minds of animals](https://www.technologyreview.com/2022/10/24/1061064/book-review-animal-minds/)
+- [A bias bounty for AI will help to catch unfair algorithms faster](https://www.technologyreview.com/2022/10/20/1061977/ai-bias-bounty-help-catch-unfair-algorithms-faster/)
