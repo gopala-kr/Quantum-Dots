@@ -9,7 +9,7 @@
 - [The messy morality of letting AI make life-and-death decisions](https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/)
 - [Machine learning operations offer agility, spur innovation](https://www.technologyreview.com/2022/10/12/1060890/machine-learning-operations-offer-agility-spur-innovation/)
 - [Who’s going to save us from bad AI?](https://www.technologyreview.com/2022/10/10/1061016/whos-going-to-save-us-from-bad-ai/)
-- []()
+- [Google’s new AI can hear a snippet of song—and then keep on playing](https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/)
 - []()
 - []()
 - []()
