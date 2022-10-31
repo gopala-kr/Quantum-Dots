@@ -7,3 +7,4 @@
 - [Alex Hanna left Google to try to save AI’s future](https://www.technologyreview.com/2022/10/19/1061075/alex-hanna-google-ai-research/)
 - [Why AI shouldn’t be making life-and-death decisions](https://www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/)
 - [The messy morality of letting AI make life-and-death decisions](https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/)
+- [Machine learning operations offer agility, spur innovation](https://www.technologyreview.com/2022/10/12/1060890/machine-learning-operations-offer-agility-spur-innovation/)
