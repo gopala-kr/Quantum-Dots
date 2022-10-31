@@ -5,3 +5,4 @@
 - [Inside the enigmatic minds of animals](https://www.technologyreview.com/2022/10/24/1061064/book-review-animal-minds/)
 - [A bias bounty for AI will help to catch unfair algorithms faster](https://www.technologyreview.com/2022/10/20/1061977/ai-bias-bounty-help-catch-unfair-algorithms-faster/)
 - [Alex Hanna left Google to try to save AI’s future](https://www.technologyreview.com/2022/10/19/1061075/alex-hanna-google-ai-research/)
+- [Why AI shouldn’t be making life-and-death decisions](https://www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/)
