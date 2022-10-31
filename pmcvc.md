@@ -22,3 +22,4 @@
 - [This startup’s AI is smart enough to drive different types of vehicles](https://www.technologyreview.com/2022/09/26/1060023/wayve-ai-driverless-vehicles-cars-vans-scale-up/)
 - [An AI used medical notes to teach itself to spot disease on chest x-rays](https://www.technologyreview.com/2022/09/15/1059541/ai-medical-notes-teach-itself-spot-disease-chest-x-rays/)
 - [There’s no Tiananmen Square in the new Chinese image-making AI](https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/)
+- [What does GPT-3 “know” about me? ](https://www.technologyreview.com/2022/08/31/1058800/what-does-gpt-3-know-about-me/)
