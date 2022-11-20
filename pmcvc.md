@@ -26,4 +26,12 @@
 - [I Was There When: AI helped create a vaccine](https://www.technologyreview.com/2022/08/26/1058743/i-was-there-when-ai-helped-create-a-vaccine-covid-moderna-mrna/)
 - [The outgoing White House AI director explains the policy challenges ahead](https://www.technologyreview.com/2022/08/23/1058412/white-house-ai-director-challenges/)
 
+-----------------------
+
+- [/prakashsellathurai/Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management)
+- [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
+
+----------------------
+
 
