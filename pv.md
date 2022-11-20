@@ -55,6 +55,8 @@
 ---------
 ![Leader-personas](https://cdn.productfocus.com/wp/wp-content/uploads/2021/03/Leader-personas-1500x1035.png)
 
+--------
+![Leadership-framework](https://cdn.productfocus.com/wp/wp-content/uploads/2022/07/Leadership-framework.jpg)
 
 -----------------
 ------------------
