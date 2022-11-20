@@ -52,6 +52,8 @@
 ----------
 ![Personas](https://cdn.productfocus.com/wp/wp-content/uploads/2019/11/Personas-1500x1035.jpg)
 
+---------
+![Leader-personas](https://cdn.productfocus.com/wp/wp-content/uploads/2021/03/Leader-personas-1500x1035.png)
 
 
 -----------------
