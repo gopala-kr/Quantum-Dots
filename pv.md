@@ -32,7 +32,8 @@
 ![Lifecycles](https://cdn.productfocus.com/wp/wp-content/uploads/2019/10/Lifecycles-1500x1035.jpg)
 ------------
 ![Taxonomy](https://cdn.productfocus.com/wp/wp-content/uploads/2018/08/Taxonomy-1500x1035.jpg)
-
+---------
+![Maturity-model-centre-test-1500x1355](https://cdn.productfocus.com/wp/wp-content/uploads/2018/02/Maturity-model-centre-test-1500x1355.jpg)
 
 -----------------
 ------------------
