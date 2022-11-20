@@ -28,4 +28,32 @@
 
 ----------------------
 
+![YS6OpuzIL842Ifb](https://miro.medium.com/max/4800/0*-YS6OpuzIL842Ifb)
+-------
+![1jos_L49YuYg](https://miro.medium.com/max/4800/1*gGVJu8NG6-1jos_L49YuYg.webp)
 
+----------
+![TtHzO53bt3goUAaQbRIeig](https://miro.medium.com/max/4800/1*TtHzO53bt3goUAaQbRIeig.webp)
+----------
+![Op9qE5k9cO33l5KxGQ](https://miro.medium.com/max/4800/1*Dzy-Op9qE5k9cO33l5KxGQ.webp)
+----------
+![5cRxVz0Tu6tJboYkKgp](https://miro.medium.com/max/4800/1*5cRxVz0Tu6tJboYkKgp-XA.webp)
+----------
+![waJ5arNO0DSMnhnbnVqYNw](https://miro.medium.com/max/4800/1*waJ5arNO0DSMnhnbnVqYNw.webp)
+
+-----------
+![lgJqv1Nxkr5YjgiyKfa5_A](https://miro.medium.com/max/4800/1*lgJqv1Nxkr5YjgiyKfa5_A.webp)
+------
+![CAcs_opPi1smTVuT8LYxqQ](https://miro.medium.com/max/4800/1*CAcs_opPi1smTVuT8LYxqQ.webp)
+------
+![sJJgjN3uwunx5xVoCky9aQ](https://miro.medium.com/max/4800/1*sJJgjN3uwunx5xVoCky9aQ.webp)
+------
+![]()
+------
+![]()
+------
+![]()
+------
+![]()
+
+---------------
