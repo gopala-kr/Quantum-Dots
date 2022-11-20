@@ -43,6 +43,9 @@
 ![Dashboard](https://cdn.productfocus.com/wp/wp-content/uploads/2018/08/Dashboard-1500x1035.jpg)
 
 ----------
+![Buying-cycle-](https://cdn.productfocus.com/wp/wp-content/uploads/2018/08/Buying-cycle-1-1500x1035.jpg)
+
+----------
 ![Personas](https://cdn.productfocus.com/wp/wp-content/uploads/2019/11/Personas-1500x1035.jpg)
 
 
