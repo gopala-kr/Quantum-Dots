@@ -45,6 +45,10 @@
 ----------
 ![Buying-cycle-](https://cdn.productfocus.com/wp/wp-content/uploads/2018/08/Buying-cycle-1-1500x1035.jpg)
 
+-----------
+![Business-case](https://cdn.productfocus.com/wp/wp-content/uploads/2020/09/Business-case.jpg)
+
+
 ----------
 ![Personas](https://cdn.productfocus.com/wp/wp-content/uploads/2019/11/Personas-1500x1035.jpg)
 
