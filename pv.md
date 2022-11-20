@@ -28,6 +28,10 @@
 
 ----------------------
 ![PML-1500x1035](https://cdn.productfocus.com/wp/wp-content/uploads/2017/07/PML-1500x1035.jpg)
+
+------
+![Product-Activities-Framework](https://cdn.productfocus.com/wp/wp-content/uploads/2022/08/Product-Activities-Framework-I001-2207.jpg)
+
 --------
 ![Lifecycles](https://cdn.productfocus.com/wp/wp-content/uploads/2019/10/Lifecycles-1500x1035.jpg)
 ------------
