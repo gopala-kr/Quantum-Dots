@@ -1,6 +1,6 @@
 
 
-- [/prakashsellathurai/Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management)
+- [prakashsellathurai/Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management)
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management)
@@ -23,7 +23,7 @@
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors)
 - [upstarter/awesome-wealthtech](https://github.com/upstarter/awesome-wealthtech)
 - [Ssisakhti/product_management](https://github.com/Ssisakhti/product_management_interview)
-
+- [mconsultingprep.com/](https://mconsultingprep.com/)
 
 
 ----------------------
