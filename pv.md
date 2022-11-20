@@ -35,6 +35,10 @@
 ---------
 ![Maturity-model-centre-test-1500x1355](https://cdn.productfocus.com/wp/wp-content/uploads/2018/02/Maturity-model-centre-test-1500x1355.jpg)
 
+----------
+![Personas](https://cdn.productfocus.com/wp/wp-content/uploads/2019/11/Personas-1500x1035.jpg)
+
+
 -----------------
 ------------------
 ![IVR5aoEKKISeCF](https://miro.medium.com/max/4800/0*8-IVR5aoEKKISeCF.gif)
