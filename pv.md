@@ -27,6 +27,23 @@
 
 
 ----------------------
+![yQ2sTKITIu8cQ](https://miro.medium.com/max/4800/1*ZhtKgVoi-yQ2sTKITIu8cQ.png)
+---------------
+![eCcyjYfgtjPI88O4uWRUZg](https://miro.medium.com/max/4800/1*eCcyjYfgtjPI88O4uWRUZg.png)
+-----------
+![g0Q3Sl7Z0oeBpv6B](https://miro.medium.com/max/4800/0*g0Q3Sl7Z0oeBpv6B)
+---------------
+![YS0h0_MWyl6kG0_OcILGag](https://miro.medium.com/max/4800/1*YS0h0_MWyl6kG0_OcILGag.png)
+--------
+![0v08FZYFnbUMUuoh4UipvQ](https://miro.medium.com/max/4800/1*0v08FZYFnbUMUuoh4UipvQ.png)
+------------
+![Im1dL7NEw](https://miro.medium.com/max/4800/1*mcF_qVCfMyd1-Im1dL7NEw.png)
+---------
+![KdFEabL_Qni15DE3xYwIxw](https://miro.medium.com/max/4800/1*KdFEabL_Qni15DE3xYwIxw.png)
+--------
+![882yTrCCgSkxxTbvndkODg](https://miro.medium.com/max/4800/1*882yTrCCgSkxxTbvndkODg.webp)
+
+--------------------
 
 ![YS6OpuzIL842Ifb](https://miro.medium.com/max/4800/0*-YS6OpuzIL842Ifb)
 -------
