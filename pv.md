@@ -67,6 +67,8 @@
 
 -----------------
 ------------------
+![Product_Management_vs_ProductDevelopment_2](https://bonezonepub.com/wp-content/uploads/2017/01/Product_Management_vs_ProductDevelopment_2.jpg)
+------------
 ![IVR5aoEKKISeCF](https://miro.medium.com/max/4800/0*8-IVR5aoEKKISeCF.gif)
 ----------------
 ![yQ2sTKITIu8cQ](https://miro.medium.com/max/4800/1*ZhtKgVoi-yQ2sTKITIu8cQ.png)
