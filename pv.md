@@ -116,7 +116,7 @@
 ------
 ![S8XHWoPrVjn6nPHtQ](https://miro.medium.com/max/4800/1*HhU4-S8XHWoPrVjn6nPHtQ.png)
 ------
-![]()
+![image-28](https://www.digitalproductjobs.com/content/images/2022/02/image-28.png)
 
 ----------
 ------
