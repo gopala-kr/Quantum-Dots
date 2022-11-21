@@ -177,6 +177,13 @@
 ---
 ![private-equity-career-path-hierarchy](https://mergersandinquisitions.com/wp-content/uploads/2019/04/private-equity-career-path-hierarchy.jpg)
 
+-------
+![table-1-2048x847](https://www.harveycareers.com/wp-content/uploads/2020/09/table-1-2048x847.png)
+
+---------
+![Screen-Shot-2019-05-06-at-4.35.46-PM](https://wsp-blog-images.s3.amazonaws.com/uploads/2019/05/06163713/Screen-Shot-2019-05-06-at-4.35.46-PM.png)
+
+
 ----------
 ----------
 ![e1600232158658](https://mconsultingprep.com/wp-content/uploads/2020/09/Fig-1.1-e1600232158658-2048x957.png)
