@@ -156,7 +156,7 @@
 ------
 ![bYLX2kOBU6_T5_ULlnGeNQ](https://miro.medium.com/max/4800/1*bYLX2kOBU6_T5_ULlnGeNQ.webp)
 ------
-![]()
+![Career-Growth-as-a-Senior-Engineer-CodeCapsule.com-cropped](https://codecapsule.com/wp-content/uploads/2021/06/Career-Growth-as-a-Senior-Engineer-CodeCapsule.com-cropped.png)
 ------
 ![project-management-roles-by-industry](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q3/pm-career-path/project-management-roles-by-industry.png)
 ------
@@ -164,3 +164,5 @@
 ------
 ![yN38lZd](https://i.imgur.com/yN38lZd.png)
 ---------------
+
+-----------------
