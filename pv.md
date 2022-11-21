@@ -158,7 +158,7 @@
 ------
 ![]()
 ------
-![]()
+![project-management-roles-by-industry](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q3/pm-career-path/project-management-roles-by-industry.png)
 ------
 ![c%2FScreen%20Shot%202021-09-08%20at%2012.27.54](https://162950647-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M7hDnLLoVYXnODyaFd3-41739140%2Fuploads%2Fgit-blob-12f170496cf8bbf662d54a10290c2200f027f4cc%2FScreen%20Shot%202021-09-08%20at%2012.27.54.png?alt=media)
 ------
