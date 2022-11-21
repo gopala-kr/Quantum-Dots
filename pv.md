@@ -164,5 +164,6 @@
 ------
 ![yN38lZd](https://i.imgur.com/yN38lZd.png)
 ---------------
+![Entrepreneur-is-Just-French-for-Product-Manager-and-Product-Marketing-Manager-2](https://spicecatalyst.com/wp-content/uploads/Entrepreneur-is-Just-French-for-Product-Manager-and-Product-Marketing-Manager-2.jpg)
 
 -----------------
