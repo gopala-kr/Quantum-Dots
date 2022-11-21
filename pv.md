@@ -106,12 +106,27 @@
 ![CAcs_opPi1smTVuT8LYxqQ](https://miro.medium.com/max/4800/1*CAcs_opPi1smTVuT8LYxqQ.webp)
 ------
 ![sJJgjN3uwunx5xVoCky9aQ](https://miro.medium.com/max/4800/1*sJJgjN3uwunx5xVoCky9aQ.webp)
+
+
+------
+----------------
+![6142ee89e5d33cd4d3ada893_Best](https://assets-global.website-files.com/607405e57d7f7c7003ed0d0f/6142ee89e5d33cd4d3ada893_Best%20Product%20Management%20Books%20Guide.png)
+------
+![product-manager-career-path](https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/product-manager-career/product-manager-career-path.png)
+------
+![S8XHWoPrVjn6nPHtQ](https://miro.medium.com/max/4800/1*HhU4-S8XHWoPrVjn6nPHtQ.png)
 ------
 ![]()
+
 ------
 ![]()
+
 ------
 ![]()
+
+------
+![]()
+
 ------
 ![]()
 
