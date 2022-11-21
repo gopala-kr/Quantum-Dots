@@ -118,6 +118,15 @@
 ------
 ![image-28](https://www.digitalproductjobs.com/content/images/2022/02/image-28.png)
 
+-----------
+![product-engineering-career2](https://i0.wp.com/rajiv.com/wp-content/uploads/2021/11/96813-product-engineering-career2.png?ssl=1)
+
+----------
+![PM-Career-Path](https://www.productleadership.com/wp-content/uploads/2021/08/PM-Career-Path.jpg)
+
+--------
+![codecapsule](https://i0.wp.com/codecapsule.com/wp-content/uploads/2021/07/skills-map-senior-dev-career-progression-lowres-codecapsule.com_.jpeg?fit=1500%2C540&ssl=1)
+
 ----------
 ------
 ![CDW6X4BuQSE_PZUWPK95ug](https://miro.medium.com/max/4800/1*CDW6X4BuQSE_PZUWPK95ug.webp)
