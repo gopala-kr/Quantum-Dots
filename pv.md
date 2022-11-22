@@ -180,6 +180,21 @@
 -------
 ![word-image-55](https://www.altexsoft.com/media/2020/02/word-image-55.png)
 
+----------
+![word-image-52](https://content.altexsoft.com/media/2020/02/word-image-52.png.webp)
+
+--------
+![word-image-20](https://www.altexsoft.com/media/2020/03/word-image-20.png)
+
+------------
+![word-image-5](https://content.altexsoft.com/media/2020/02/word-image-53.png.webp)
+
+-----------
+![word-image-5](https://content.altexsoft.com/media/2020/02/word-image-51.png.webp)
+
+------------
+![word-image-22](https://content.altexsoft.com/media/2020/03/word-image-22.png.webp)
+
 --------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
