@@ -168,6 +168,10 @@
 ---------------
 ![Entrepreneur-is-Just-French-for-Product-Manager-and-Product-Marketing-Manager-2](https://spicecatalyst.com/wp-content/uploads/Entrepreneur-is-Just-French-for-Product-Manager-and-Product-Marketing-Manager-2.jpg)
 
+-----------
+![DJShc5aFoHG3SEx](https://miro.medium.com/max/4800/0*DJShc5aFoHG3SEx-.webp)
+
+--------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
 
