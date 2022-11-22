@@ -195,6 +195,12 @@
 ------------
 ![word-image-22](https://content.altexsoft.com/media/2020/03/word-image-22.png.webp)
 
+---------
+![product-career-hierarchy](https://productfolio.com/wp-content/uploads/product-career-hierarchy-1024x406.png)
+
+------------
+![product-manager-spotify-tribe-model](https://www.myagilepartner.com/blog/wp-content/uploads/2019/04/product-manager-spotify-tribe-model.png)
+
 --------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
