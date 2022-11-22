@@ -171,6 +171,9 @@
 -----------
 ![DJShc5aFoHG3SEx](https://miro.medium.com/max/4800/0*DJShc5aFoHG3SEx-.webp)
 
+----------
+![KpPNzbVUYDQgw12XqBJ](https://miro.medium.com/max/4800/1*KpPNzbVUYDQgw12XqBJ-Vg.png)
+
 --------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
