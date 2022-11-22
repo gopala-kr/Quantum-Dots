@@ -176,6 +176,10 @@
 
 ------
 ![pillars_template_roles](https://productlogic.files.wordpress.com/2014/05/pillars_template_roles.png)
+
+-------
+![word-image-55](https://www.altexsoft.com/media/2020/02/word-image-55.png)
+
 --------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
