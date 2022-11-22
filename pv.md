@@ -174,6 +174,8 @@
 ----------
 ![KpPNzbVUYDQgw12XqBJ](https://miro.medium.com/max/4800/1*KpPNzbVUYDQgw12XqBJ-Vg.png)
 
+------
+![pillars_template_roles](https://productlogic.files.wordpress.com/2014/05/pillars_template_roles.png)
 --------------
 --------------
 ![Corporate-Finance-Salaries](https://www.signalhire.com/blog/wp-content/uploads/2022/04/Corporate-Finance-Salaries.jpg)
