@@ -186,7 +186,8 @@
 
 ---------
 ![Screen-Shot-2019-05-06-at-4.35.46-PM](https://wsp-blog-images.s3.amazonaws.com/uploads/2019/05/06163713/Screen-Shot-2019-05-06-at-4.35.46-PM.png)
-
+--------------
+![leffingwell3_fig02](https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/IMAGES/leffingwell3_fig02.jpg)
 
 ----------
 ----------
