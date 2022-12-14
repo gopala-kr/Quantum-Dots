@@ -248,5 +248,7 @@
 ---------
 ![picture](https://www.svb.com/contentassets/45c85d2ad15f410f9c4cc8c3d03b0488/untitled-picture.jpg)
 
+---------
+![7bXc5EcQ6RqKaAKfGsl_RQ](https://miro.medium.com/max/4800/1*7bXc5EcQ6RqKaAKfGsl_RQ.webp)
 
 ---------
