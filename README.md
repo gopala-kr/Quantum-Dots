@@ -21,7 +21,7 @@
 ##### 2022
 
 - [Sustainability & Technology](https://github.com/gopala-kr/Quantum-Dots/tree/master/sustainability)
-
+- [A Look back at 2022 - Breakthroughs in Science and Technology](https://github.com/gopala-kr/Quantum-Dots/blob/master/r2022.md)
 
 -------------
 
