@@ -65,6 +65,11 @@
 - [The Curse of Culture](https://stratechery.com/2016/the-curse-of-culture/)
 - [The Leader’s Guide to Corporate Culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture)
 - [Leading Change When Business Is Good](https://hbr.org/2004/12/leading-change-when-business-is-good)
+- [Leaders as Decision Architects](https://hbr.org/2015/05/leaders-as-decision-architects)
+- [Ethical Breakdowns](https://hbr.org/2011/04/ethical-breakdowns)
+- [Managing Yourself: Keeping Your Colleagues Honest](https://hbr.org/2010/03/managing-yourself-keeping-your-colleagues-honest)
+- [Building a Visionary Company](https://cmr.berkeley.edu/search/articleDetail.aspx?article=4735)
+
 
 -------------------
 
