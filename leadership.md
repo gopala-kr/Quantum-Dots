@@ -61,7 +61,10 @@
 - [Choosing Strategies for Change](https://hbr.org/2008/07/choosing-strategies-for-change)
 - [Power Play by Jeffrey Pfeffer](https://hbr.org/2010/07/power-play)
 - [Influence without authority: The use of alliances, reciprocity, and exchange to accomplish work](https://www.sciencedirect.com/science/article/abs/pii/0090261689900338)
-
+- [The Network Secrets of Great Change Agents](https://hbr.org/2013/07/the-network-secrets-of-great-change-agents)
+- [The Curse of Culture](https://stratechery.com/2016/the-curse-of-culture/)
+- [The Leader’s Guide to Corporate Culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture)
+- [Leading Change When Business Is Good](https://hbr.org/2004/12/leading-change-when-business-is-good)
 
 -------------------
 
