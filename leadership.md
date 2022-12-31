@@ -86,5 +86,10 @@
 - [Cool_Vendors_in_AI_C_766711_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_AI_C_766711_ndx.pdf)
 - [Cool_Vendors_in_AI_C_776792_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_AI_C_776792_ndx.pdf)
 - [Cool_Vendors_in_Conv_767086_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_Conv_767086_ndx.pdf)
+- [Critical_Capabilitie_768369_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Critical_Capabilitie_768369_ndx.pdf)
+- [Executive_Guide_to_Autonomic_Systems](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_Executive_Guide_to_Autonomic_Systems1.pptx)
+- [Executive_Guide_to_Metaverse](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_Executive_Guide_to_Metaverse.pptx)
+- [Executive_Guide_to_Privacy-Enhancing_Computation](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_Executive_Guide_to_Privacy-Enhancing_Computation.pptx)
+- [IT_Budget_Excel_Spreadsheet](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_IT_Budget_Excel_Spreadsheet.xlsb)
 ------------------
 
