@@ -22,3 +22,10 @@
 - [Fostering Ethical Conduct Through Psychological Safety](https://sloanreview.mit.edu/article/fostering-ethical-conduct-through-psychological-safety/)
 
 ------------
+
+- [Help your employees find purpose—or watch them leave](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/help-your-employees-find-purpose-or-watch-them-leave)
+- [Unlock the Power of Purpose](https://sloanreview.mit.edu/article/unlock-the-power-of-purpose/)
+- [Cultivate a Learning Culture Within Your Organization](https://www.ccl.org/articles/leading-effectively-articles/cultivate-and-sustain-a-learning-culture-within-your-organization/)
+- [How to Change a Culture:Lessons From NUMMI](https://www.asenta.es/src/uploads/2019/06/How-to-change-a-Culture-Lessons-from-Nummi.pdf)
+
+-------------
