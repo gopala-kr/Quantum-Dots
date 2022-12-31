@@ -6,3 +6,11 @@
 - [What Self-Awareness Really Is (and How to Cultivate It)](https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it)
 
 -----------
+
+
+- [Why You Should Collaborate Across Boundaries](https://www.ccl.org/articles/leading-effectively-articles/boundary-spanning-the-leadership-advantage/)
+- [The Surprising Power of Questions](https://hbr.org/2018/05/the-surprising-power-of-questions)
+- [The six signature traits of inclusive leadership](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-six-signature-traits-inclusive-leadership-020516.pdf)
+- [Small Actions Make Great Leaders](https://hbr.org/2022/06/small-actions-make-great-leaders)
+
+-------------
