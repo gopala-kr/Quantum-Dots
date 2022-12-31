@@ -102,6 +102,10 @@
 - [Hype_Cycle_for_Natur_770245_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Hype_Cycle_for_Natur_770245_ndx.pdf)
 - [IT_Budget_Practitioners_Guide](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Budget_Practitioners_Guide.pptx)
 - [IT_Key_Metrics_Data__752516_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__752516_ndx.pdf)
-
+- [IT_Key_Metrics_Data__752519_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__752519_ndx.pdf)
+- [IT_Key_Metrics_Data__779682_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779682_ndx.pdf)
+- [IT_Key_Metrics_Data__779683_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779683_ndx.pdf)
+- [IT_Key_Metrics_Data__779691_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779691_ndx.pdf)
+- [IT_Key_Metrics_Data__779693_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779693_ndx.pdf)
 ------------------
 
