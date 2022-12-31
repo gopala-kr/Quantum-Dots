@@ -124,10 +124,18 @@
 - [Maverick-_Research__767568_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__767568_ndx.pdf)
 - [Maverick_Research_T_769086_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick_Research_T_769086_ndx.pdf)
 - [Maverick_Stories_Da_774036_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick_Stories_Da_774036_ndx.pdf)
+- [Metaverses_Will_Be_the_Place_With_Empathy_767568](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Metaverses_Will_Be_the_Place_With_Empathy_767568%20(1).pptx)
+- [Predicts_2022_4_Tec_726304_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Predicts_2022_4_Tec_726304_ndx.pdf)
+- [Predicts_2023_Enter_763034_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Predicts_2023_Enter_763034_ndx.pdf)
+- [Preparing_the_Enterp_770755_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Preparing_the_Enterp_770755_ndx.pdf)
+- [maverick_research_being_huma_464191](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/maverick_research_being_huma_464191.pdf)
+- [Web3_and_the_Metaver_765430_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Web3_and_the_Metaver_765430_ndx.pdf)
+- [Top_Trends_in_Buildi_761112_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Trends_in_Buildi_761112_ndx.pdf)
+- [Top_Strategic_Techno_775990_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_775990_ndx.pdf)
 
 ------------------
-
 ----
+
 ![etaverse-effect-creates-a-viewpoint%](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-metaverse-effect-creates-a-viewpoint%2C-which-is-open-and-interoperable%2C-ethical%2C-inclusive%2C-unbiased%2C-sustainable-and-fair-_content.png)
 
 ----
