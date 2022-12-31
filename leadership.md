@@ -117,7 +117,13 @@
 - [Market_Guide_for_IT__749138_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Market_Guide_for_IT__749138_ndx.pdf)
 - [Market_Share_Analysi_765406_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Market_Share_Analysi_765406_ndx.pdf)
 - [Maverick-_Predicts_2_757914_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Predicts_2_757914_ndx.pdf)
-
+- [Maverick-_Research__464191_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__464191_ndx.pdf)
+- [Maverick-_Research__728513_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__728513_ndx.pdf)
+- [Maverick-_Research__748515_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__748515_ndx.pdf)
+- [Maverick-_Research__760389_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__760389_ndx.pdf)
+- [Maverick-_Research__767568_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Research__767568_ndx.pdf)
+- [Maverick_Research_T_769086_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick_Research_T_769086_ndx.pdf)
+- [Maverick_Stories_Da_774036_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick_Stories_Da_774036_ndx.pdf)
 
 ------------------
 
