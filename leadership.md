@@ -29,3 +29,13 @@
 - [How to Change a Culture:Lessons From NUMMI](https://www.asenta.es/src/uploads/2019/06/How-to-change-a-Culture-Lessons-from-Nummi.pdf)
 
 -------------
+
+- [Why Hard-Nosed Executives Should Care About Management Theory](https://hbr.org/2003/09/why-hard-nosed-executives-should-care-about-management-theory)
+- [What’s a Business For?](https://hbr.org/2002/12/whats-a-business-for)
+- [A Friedman doctrine‐- The Social Responsibility Of Business Is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)
+- [Creating a Purpose-Driven Organization](https://hbr.org/2018/07/creating-a-purpose-driven-organization)
+- [The CEOs of nearly 200 companies just said shareholder value is no longer their main objective](https://www.cnbc.com/2019/08/19/the-ceos-of-nearly-two-hundred-companies-say-shareholder-value-is-no-longer-their-main-objective.html)
+- [How to Write a Mission Statement That Doesn't Suck](https://www.youtube.com/watch?v=LJhG3HZ7b4o)
+- [How to Live a Purpose-Driven Life | Dr. Robert Quinn | Talks at Google](https://www.youtube.com/watch?v=HeG4DikTl3Y)
+
+-------------
