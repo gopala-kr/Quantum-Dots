@@ -57,5 +57,11 @@
 - [Curing the Addiction to Growth](https://hbr.org/2017/01/curing-the-addiction-to-growth)
 - [What Is Disruptive Innovation?](https://hbr.org/2015/12/what-is-disruptive-innovation)
 - [Two Routes to Resilience](https://hbr.org/2012/12/two-routes-to-resilience)
+- [Leading Change: Why Transformation Efforts Fail](https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2)
+- [Choosing Strategies for Change](https://hbr.org/2008/07/choosing-strategies-for-change)
+- [Power Play by Jeffrey Pfeffer](https://hbr.org/2010/07/power-play)
+- [Influence without authority: The use of alliances, reciprocity, and exchange to accomplish work](https://www.sciencedirect.com/science/article/abs/pii/0090261689900338)
 
+
+-------------------
 
