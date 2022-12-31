@@ -74,4 +74,13 @@
 - [Mastering Strategic Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Mastering%20Strategic%20Management.pdf)
 
 -------------------
+-------------------------------
+- [2023_IT_Budget_Kit](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/2023_IT_Budget_Kit.zip)
+- [Artificial_Intellige_758933_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Artificial_Intellige_758933_ndx.pdf)
+- [Building_a_Digital_F_761111_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Building_a_Digital_F_761111_ndx.pdf)
+- [Building_a_Digital_F_761113_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Building_a_Digital_F_761113_ndx.pdf)
+- [CTOs_Guide_to_Conta_763328_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/CTOs_Guide_to_Conta_763328_ndx.pdf)
+- [Cloud-Native_Implementation_Roadmap](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cloud-Native_Implementation_Roadmap%20(1).pptx)
+
+------------------
 
