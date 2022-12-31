@@ -53,3 +53,9 @@
 - [Evolution and Revolution as Organizations Grow](https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow)
 - [The Rise and Fall of the J. Peterman Company](https://hbr.org/1999/09/the-rise-and-fall-of-the-j-peterman-company)
 - [And Now the Hard Part](https://www.fastcompany.com/48871/and-now-hard-part)
+- [How to Deal with the Worst Organizational Bureaucracy](https://www.themuse.com/advice/how-to-deal-with-the-worst-organizational-bureaucracy)
+- [Curing the Addiction to Growth](https://hbr.org/2017/01/curing-the-addiction-to-growth)
+- [What Is Disruptive Innovation?](https://hbr.org/2015/12/what-is-disruptive-innovation)
+- [Two Routes to Resilience](https://hbr.org/2012/12/two-routes-to-resilience)
+
+
