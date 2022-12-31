@@ -126,4 +126,23 @@
 - [Maverick_Stories_Da_774036_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick_Stories_Da_774036_ndx.pdf)
 
 ------------------
+------------
 
+![content](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/-content.png)
+----
+![Spendingcontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/4-Step-Roadmap-to-Smarter-Spendingcontent.png)
+----
+![DBMS](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/A-Gartner-Magic-Quadrant-graphic-showing-the-Niche-Players%2C-Visionaries%2C-Challengers-and-Leaders-in-the-cloud-DBMS-market-target.png)
+----
+![AI-Next%2C-AI-Techniques-and-](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/A-circular-diagram-showing-the-relationship-between-the-four-Core-Topics-of-the-AI-Key-Initiative_-AI-Next%2C-AI-Techniques-and-Foundations%2C-AI-Solutions-and-AI-Governancetarget.png)
+----
+![-based-on-which-CIOs-should-make-decisions-to-prioritize-IT-cost-o](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/A-cost-optimization-evaluation-table-based-on-which-CIOs-should-make-decisions-to-prioritize-IT-cost-optimization-initiatives-content.png)
+----
+![learning-and-awareness](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/A-diagram-showing-autonomy%2C-learning-and-awareness-%E2%80%94-the-three-key-elements-of-an-autonomic-system-content.png)
+----
+![80%99s-Maverick-predictions%](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/A-graphic-summarizing-Gartner%E2%80%99s-Maverick-predictions%2C-which-look-further-out-than-Gartner%E2%80%99s-other-Strategic-Planning-Assumptions-content.png)
+----
+![ccording-to-the-2022-Gartner-CEO](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-CEO.png)
+
+------------------------------------
+---------------------------
