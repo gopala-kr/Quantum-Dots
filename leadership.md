@@ -69,7 +69,9 @@
 - [Ethical Breakdowns](https://hbr.org/2011/04/ethical-breakdowns)
 - [Managing Yourself: Keeping Your Colleagues Honest](https://hbr.org/2010/03/managing-yourself-keeping-your-colleagues-honest)
 - [Building a Visionary Company](https://cmr.berkeley.edu/search/articleDetail.aspx?article=4735)
-
+- [Level 5 Leadership: The Triumph of Humility and Fierce Resolve](https://hbr.org/2001/01/level-5-leadership-the-triumph-of-humility-and-fierce-resolve-2)
+- [How Will You Measure Your Life?](https://hbr.org/2010/07/how-will-you-measure-your-life?autocomplete=true)
+- [Mastering Strategic Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Mastering%20Strategic%20Management.pdf)
 
 -------------------
 
