@@ -107,5 +107,11 @@
 - [IT_Key_Metrics_Data__779683_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779683_ndx.pdf)
 - [IT_Key_Metrics_Data__779691_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779691_ndx.pdf)
 - [IT_Key_Metrics_Data__779693_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779693_ndx.pdf)
+- [IT_Key_Metrics_Data__779694_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779694_ndx.pdf)
+- [IT_Key_Metrics_Data__779696_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779696_ndx.pdf)
+- [IT_Key_Metrics_Data__779713_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779713_ndx.pdf)
+- [Ignition_Guide_to_In_778541_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Ignition_Guide_to_In_778541_ndx.pdf)
+- [Leadership_Vision_fo_751788_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Leadership_Vision_fo_751788_ndx.pdf)
+
 ------------------
 
