@@ -192,8 +192,7 @@
 ![Digital-Business-Acceleration-Survey](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-Digital-Business-Acceleration-Survey%2C-it-has-been-observed-that-more-organizations-are-using-digital-initiatives-to-optimize-than-transform-content.png)
 ----
 ![r-Tech-Buying-Behavior-Sur](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-Tech-Buying-Behavior-Survey%2C-improving.png)
-----
-![y-of-Archite](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Actual-History-of-Architecting-Humanstarget.png)
+
 ----
 ![An-illustration-of-autonomic-syst](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/An-illustration-of-autonomic-systems-as-the-culmination-of-a-trend-that-started-with-automation%2C-matured.png)
 ----
@@ -429,14 +428,12 @@
 ![s-that-in-every-region%2C-the-perc](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-chart-mentions-that-in-every-region%2C-the-percentage-spent-on-internal-staff-compared-with.png)
 ----
 ![lp-tackle-are-AI-core-technolog](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-challenges-that-profiled-Cool-Vendors-in-AI-(2022)-help-tackle-are-AI-core-technologies%2C-computer-vision%2C-responsible-AI-and-governance%2C-and-conversational-and-natural-language-technologies--target.png)
-----
-![The-Mete-Equationcontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-Mete-Equationcontent.png)
+
 ----
 ![ervability-maturity-path-involves-levels-of-monitoring-mat](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-IBM-observability-maturity-path-involves-levels-of-monitoring-maturity--Each-level-builds-on-the-previous-(steps-are-additive)-and-g.png)
 ----
 ![Hype-Cycle-for-Natural-Language-Techno](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-Hype-Cycle-for-Natural-Language-Technologies%2C-2022%2C.png)
-----
-![e-Future-of-Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-Future-of-Architected-Humanstarget.png)
+
 ----
 ![Structured-cost-optimization-initiatives-that-should-](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Structured-cost-optimization-initiatives-that-should-be-used-in-the-overall-cost-management-framework-are-shown-here-content.png)
 ----
@@ -450,6 +447,11 @@
 ![consumer-orien](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Some-of-today%E2%80%99s-consumer-oriented-metaspheres-.png)
 ----
 ![al-media-analytics-tool_-date-range-%E2%80](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Social-media-analytics-tool_-date-range-%E2%80%94-9-March-2019-to-8-March-2021%3B-multiple-scenarios-for-digital-humans-today-and-tomorrowtarget.png)
+----
+![y-of-Archite](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Actual-History-of-Architecting-Humanstarget.png)
+
+----
+![e-Future-of-Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-Future-of-Architected-Humanstarget.png)
 
 ------------------
 -----------------------
