@@ -145,4 +145,24 @@
 ![ccording-to-the-2022-Gartner-CEO](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-CEO.png)
 
 ------------------------------------
+----
+![artner-CIO-and-Technology-E](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-CIO-and-Technology-Executive-Survey%2C-the-two-most-important-technol.png)
+----
+![Digital-Business-Acceleration-Survey](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-Digital-Business-Acceleration-Survey%2C-it-has-been-observed-that-more-organizations-are-using-digital-initiatives-to-optimize-than-transform-content.png)
+----
+![r-Tech-Buying-Behavior-Sur](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/According-to-the-2022-Gartner-Tech-Buying-Behavior-Survey%2C-improving.png)
+----
+![y-of-Archite](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Actual-History-of-Architecting-Humanstarget.png)
+----
+![An-illustration-of-autonomic-syst](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/An-illustration-of-autonomic-systems-as-the-culmination-of-a-trend-that-started-with-automation%2C-matured.png)
+----
+![iew-of-the-most-commonly-used-PE](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/An-overview-of-the-most-commonly-used-PEC-techniques-layered-per-applicability-level-%E2%80%94-be-it-on-the-data%2C-software-or-hardware-content.png)
+----
+![IO-and-Technology-Executive-Survey](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/As-per-2023-Gartner-CIO-and-Technology-Executive-Survey%2C-49%25-of-.png)
+----
+![-Top-Strategic-Technology-Tren](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Autonomic-systems-comes-under-the-accelerating-growth-theme-of-our-Top-Strategic-Technology-Trends-for-2022-content.png)
+----
+![-digital-futurecontent](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Build-the-digital-futurecontent.png)
+
+
 ---------------------------
