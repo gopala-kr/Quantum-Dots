@@ -97,5 +97,11 @@
 - [How_Products_and_Ser_748302_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_Products_and_Ser_748302_ndx.pdf)
 - [How_to_Assess_Window_750386_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_to_Assess_Window_750386_ndx.pdf)
 - [How_to_Contain_Spend_760446_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_to_Contain_Spend_760446_ndx.pdf)
+- [How_to_Design_Strate_778532_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_to_Design_Strate_778532_ndx.pdf)
+- [Hype_Cycle_for_Emerg_769926_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Hype_Cycle_for_Emerg_769926_ndx.pdf)
+- [Hype_Cycle_for_Natur_770245_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Hype_Cycle_for_Natur_770245_ndx.pdf)
+- [IT_Budget_Practitioners_Guide](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Budget_Practitioners_Guide.pptx)
+- [IT_Key_Metrics_Data__752516_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__752516_ndx.pdf)
+
 ------------------
 
