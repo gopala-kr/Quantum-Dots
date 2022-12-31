@@ -91,5 +91,11 @@
 - [Executive_Guide_to_Metaverse](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_Executive_Guide_to_Metaverse.pptx)
 - [Executive_Guide_to_Privacy-Enhancing_Computation](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_Executive_Guide_to_Privacy-Enhancing_Computation.pptx)
 - [IT_Budget_Excel_Spreadsheet](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Download_the_IT_Budget_Excel_Spreadsheet.xlsb)
+- [Enterprise_Architect_758930_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Enterprise_Architect_758930_ndx.pdf)
+- [Forecast_AI_Semicon_763796_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Forecast_AI_Semicon_763796_ndx.pdf)
+- [How_Automation_Will__780296_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_Automation_Will__780296_ndx.pdf)
+- [How_Products_and_Ser_748302_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_Products_and_Ser_748302_ndx.pdf)
+- [How_to_Assess_Window_750386_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_to_Assess_Window_750386_ndx.pdf)
+- [How_to_Contain_Spend_760446_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/How_to_Contain_Spend_760446_ndx.pdf)
 ------------------
 
