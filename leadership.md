@@ -112,6 +112,12 @@
 - [IT_Key_Metrics_Data__779713_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/IT_Key_Metrics_Data__779713_ndx.pdf)
 - [Ignition_Guide_to_In_778541_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Ignition_Guide_to_In_778541_ndx.pdf)
 - [Leadership_Vision_fo_751788_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Leadership_Vision_fo_751788_ndx.pdf)
+- [Magic_Quadrant_for_C_763557_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Magic_Quadrant_for_C_763557_ndx.pdf)
+- [Market_Definitions_a_770613_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Market_Definitions_a_770613_ndx.pdf)
+- [Market_Guide_for_IT__749138_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Market_Guide_for_IT__749138_ndx.pdf)
+- [Market_Share_Analysi_765406_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Market_Share_Analysi_765406_ndx.pdf)
+- [Maverick-_Predicts_2_757914_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Maverick-_Predicts_2_757914_ndx.pdf)
+
 
 ------------------
 
