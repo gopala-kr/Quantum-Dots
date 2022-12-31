@@ -39,3 +39,12 @@
 - [How to Live a Purpose-Driven Life | Dr. Robert Quinn | Talks at Google](https://www.youtube.com/watch?v=HeG4DikTl3Y)
 
 -------------
+- [2004 Founders’ IPO Letter: Google](https://abc.xyz/investor/founders-letters/2004-ipo-letter/)
+- [How Levi's Trashed a Great American Brand While Bob Haas pioneered benevolent management, his company came apart at the seams.](https://money.cnn.com/magazines/fortune/fortune_archive/1999/04/12/258131/)
+- [Microsoft reorganizes into 3 main divisions](https://www.nbcnews.com/id/wbna9409924#.WmpeVZM-eHo%20%20)
+- [Ballmer: Three-layered plan will lead to ‘One Microsoft’](https://www.pcworld.com/article/447737/ballmer-threelayered-plan-will-lead-to-one-microsoft.html)
+- [One Microsoft: will Ballmer's big reset mean better products or more broken promises?](https://www.theverge.com/2013/7/12/4516806/one-microsoft-ballmer-reset-windows-windows-phone-xbox)
+- [Ballmer’s ‘One Microsoft’: One decade too late?](https://www.geekwire.com/2013/ballmers-big-microsoft-reorg-coming-decade-late/)
+- [Why Microsoft’s Reorganization Is a Bad Idea](https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/)
+- [Getting Reorgs Right](https://hbr.org/2016/11/getting-reorgs-right)
+
