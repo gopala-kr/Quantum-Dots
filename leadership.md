@@ -47,4 +47,9 @@
 - [Ballmer’s ‘One Microsoft’: One decade too late?](https://www.geekwire.com/2013/ballmers-big-microsoft-reorg-coming-decade-late/)
 - [Why Microsoft’s Reorganization Is a Bad Idea](https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/)
 - [Getting Reorgs Right](https://hbr.org/2016/11/getting-reorgs-right)
-
+- [Beware the Next Big Thing](https://hbr.org/2014/05/beware-the-next-big-thing)
+- [Structure That’s Not Stifling](https://hbr.org/2018/05/structure-thats-not-stifling)
+- [Do You Have a Well-Designed Organization?](https://hbr.org/2002/03/do-you-have-a-well-designed-organization)
+- [Evolution and Revolution as Organizations Grow](https://hbr.org/1998/05/evolution-and-revolution-as-organizations-grow)
+- [The Rise and Fall of the J. Peterman Company](https://hbr.org/1999/09/the-rise-and-fall-of-the-j-peterman-company)
+- [And Now the Hard Part](https://www.fastcompany.com/48871/and-now-hard-part)
