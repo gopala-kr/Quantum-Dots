@@ -81,6 +81,10 @@
 - [Building_a_Digital_F_761113_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Building_a_Digital_F_761113_ndx.pdf)
 - [CTOs_Guide_to_Conta_763328_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/CTOs_Guide_to_Conta_763328_ndx.pdf)
 - [Cloud-Native_Implementation_Roadmap](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cloud-Native_Implementation_Roadmap%20(1).pptx)
-
+- [Cloud_Market_View_2020-2021_770673](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cloud_Market_View_2020-2021_770673%20(1).pptx)
+- [Cloud_Market_View_2_770673_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cloud_Market_View_2_770673_ndx.pdf)
+- [Cool_Vendors_in_AI_C_766711_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_AI_C_766711_ndx.pdf)
+- [Cool_Vendors_in_AI_C_776792_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_AI_C_776792_ndx.pdf)
+- [Cool_Vendors_in_Conv_767086_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Cool_Vendors_in_Conv_767086_ndx.pdf)
 ------------------
 
