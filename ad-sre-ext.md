@@ -58,5 +58,9 @@
 -------------
 ![1*9c6T1w_QXjOb8F-d20koaA](https://miro.medium.com/max/1400/1*9c6T1w_QXjOb8F-d20koaA.png)
 
+-----------
+![1544578081448](https://res.infoq.com/presentations/netflix-devops/en/slides/sl5-1544578081448.jpg)
+
+
 ----------------
 -------------------
