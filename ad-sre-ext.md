@@ -2,6 +2,13 @@
 
 -------------------------
 -------------------
+![ContinuousDeliveryToolLandscape](http://www.jamesbowman.me/post/cdlandscape/ContinuousDeliveryToolLandscape-fullsize.jpeg)
+
+-----------
+![C81yfqiV0AAu0](https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg)
+
+
+---------------
 
 ![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
 ---------------
@@ -37,14 +44,19 @@
 ------------
 ![devops-pipeline-polestar-solutions](https://www.polestarllp.com/blg-img/devops-pipeline-polestar-solutions.webp)
 
-------------
-![1627289938923](https://aviyel.com/cdn-cgi/image/format=auto/assets/uploads/files/1627289938923-image.png)
+
 
 --------------
 ![e1613664546213](https://www.opsmx.com/blog/wp-content/uploads/2021/02/CICD-Pipeline-e1613664546213.png)
 
 ----------------
 ![azure_java_azure_devops_pipeline](https://stacks.amido.com/img/azure_java_azure_devops_pipeline.png)
+
+---------------
+![9y_HWzlTmc9ck8o5T2_fdg](https://miro.medium.com/max/1400/1*9y_HWzlTmc9ck8o5T2_fdg.png)
+
+-------------
+![1*9c6T1w_QXjOb8F-d20koaA](https://miro.medium.com/max/1400/1*9c6T1w_QXjOb8F-d20koaA.png)
 
 ----------------
 -------------------
