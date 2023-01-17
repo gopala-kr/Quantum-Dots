@@ -3,6 +3,10 @@
 -------------------------
 ---------------
 ![Screen%20Shot%202021-01-26%20at%201.15.58%20PM](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.15.58%20PM.png)
+
+--------------
+![lift%26shift](https://blog.container-solutions.com/hs-fs/hubfs/lift%26shift.jpg?width=4504&name=lift%26shift.jpg)
+
 ---------------
 ![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
 ---------------
@@ -60,6 +64,8 @@
 
 ----------------
 -------------------
+![chapt%2010%203.png?width=973&name=chapt%2010%203](https://insights.crosscountry-consulting.com/hs-fs/hubfs/chapt%2010%203.png?width=973&name=chapt%2010%203.png)
+-------------
 ![Graph_3](https://virtuslab.com/wp-content/uploads/2022/09/Graph_3-min.png)
 ----------
 ![Screen%20Shot%202021-01-26%20at%201.17](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.17.10%20PM.png)
@@ -71,7 +77,35 @@
 ![ContinuousDeliveryToolLandscape](http://www.jamesbowman.me/post/cdlandscape/ContinuousDeliveryToolLandscape-fullsize.jpeg)
 
 -----------
-![C81yfqiV0AAu0]([https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg](https://miro.medium.com/max/1400/1*B6U6Fofat3EypUhUvEij4Q.png))
+![https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg](https://miro.medium.com/max/1400/1*B6U6Fofat3EypUhUvEij4Q.png)
+
+-----------
+![b434ba5a698d](https://static.packt-cdn.com/products/9781787280540/graphics/5f24f096-e219-431d-b931-b434ba5a698d.png)
 ----------------
 -----------------
+![Unified-Data-Infrastructure-2.0](https://a16z.com/wp-content/uploads/2022/11/Unified-Data-Infrastructure-2.0-1.png)
+---------
+![Unified-Data-Infrastructure-2.0-Definitions](https://i1.wp.com/a16z.com/wp-content/uploads/2022/11/Unified-Data-Infrastructure-2.0-Definitions.png?resize=2000%2C955&ssl=1)
 
+-------------
+![Machine-Learning-Infrastructure-2.0](https://i1.wp.com/a16z.com/wp-content/uploads/2022/11/Machine-Learning-Infrastructure-2.0.png?resize=2000%2C1406&ssl=1)
+
+-------------
+![Machine-Learning-Infrastructure-2.0_-Definitions](https://i1.wp.com/a16z.com/wp-content/uploads/2022/11/Machine-Learning-Infrastructure-2.0_-Definitions.png?resize=2000%2C840&ssl=1)
+
+------------
+![Blueprint-1_-Modern-Business-Intelligence-1](https://i2.wp.com/a16z.com/wp-content/uploads/2022/11/Blueprint-1_-Modern-Business-Intelligence-1.png?resize=2000%2C1236&ssl=1)
+
+--------------
+![Blueprint-2_-Multimodal-Data-Processing-1](https://i2.wp.com/a16z.com/wp-content/uploads/2022/11/Blueprint-2_-Multimodal-Data-Processing-1.png?resize=2000%2C1236&ssl=1)
+
+-------------
+![Blueprint-3_-Artificial-Intelligence-and-Machine-Learning](https://i1.wp.com/a16z.com/wp-content/uploads/2022/11/Blueprint-3_-Artificial-Intelligence-and-Machine-Learning.png?resize=2000%2C1406&ssl=1)
+
+-------------------
+![Graphic-Emerging-Data-Platform](https://i0.wp.com/a16z.com/wp-content/uploads/2022/11/Graphic-Emerging-Data-Platform.png?resize=2000%2C1977&ssl=1)
+
+
+
+-------------
+--------------
