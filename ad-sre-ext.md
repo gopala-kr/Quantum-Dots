@@ -1,15 +1,12 @@
 ### [Site Reliability Engineering](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/site-reliability-engineering.md)
 
 -------------------------
--------------------
-![ContinuousDeliveryToolLandscape](http://www.jamesbowman.me/post/cdlandscape/ContinuousDeliveryToolLandscape-fullsize.jpeg)
-
------------
-![C81yfqiV0AAu0](https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg)
-
-
 ---------------
-
+![Screen%20Shot%202021-01-26%20at%201.15.58%20PM](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.15.58%20PM.png)
+---------------
+![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
+---------------
+![Continuous%20Delivery%20Pipeline](https://www.qentelli.com/sites/default/files/upload/Continuous%20Delivery%20Pipeline.jpg)
 
 ------------
 ![2_Pipeline_Infra](https://www.redhat.com/architect/sites/default/files/styles/embed_medium/public/2020-10/2_Pipeline_Infra.jpg?itok=hCEwMYoy)
@@ -65,12 +62,16 @@
 -------------------
 ![Graph_3](https://virtuslab.com/wp-content/uploads/2022/09/Graph_3-min.png)
 ----------
-![Screen%20Shot%202021-01-26%20at%201.15.58%20PM](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.15.58%20PM.png)
----------------
-![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
----------------
-![Continuous%20Delivery%20Pipeline](https://www.qentelli.com/sites/default/files/upload/Continuous%20Delivery%20Pipeline.jpg)
+![Screen%20Shot%202021-01-26%20at%201.17](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.17.10%20PM.png)
+-------------------
+![img1](https://www.capgemini.com/wp-content/uploads/2019/08/img1.jpg.png)
+-------------------
+![development](https://www.javacodegeeks.com/wp-content/uploads/2020/05/cloud-native-development-ld-3-1024x576.png.webp)
+------------
+![ContinuousDeliveryToolLandscape](http://www.jamesbowman.me/post/cdlandscape/ContinuousDeliveryToolLandscape-fullsize.jpeg)
 
+-----------
+![C81yfqiV0AAu0]([https://pbs.twimg.com/media/C81yfqiV0AAu0-z.jpg](https://miro.medium.com/max/1400/1*B6U6Fofat3EypUhUvEij4Q.png))
 ----------------
 -----------------
 
