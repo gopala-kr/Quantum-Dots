@@ -10,9 +10,6 @@
 
 ---------------
 
-![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
----------------
-![Continuous%20Delivery%20Pipeline](https://www.qentelli.com/sites/default/files/upload/Continuous%20Delivery%20Pipeline.jpg)
 
 ------------
 ![2_Pipeline_Infra](https://www.redhat.com/architect/sites/default/files/styles/embed_medium/public/2020-10/2_Pipeline_Infra.jpg?itok=hCEwMYoy)
@@ -61,6 +58,19 @@
 -----------
 ![1544578081448](https://res.infoq.com/presentations/netflix-devops/en/slides/sl5-1544578081448.jpg)
 
+-----------------
+![netflix](https://res.cloudinary.com/elatov/image/upload/v1591415062/blog-pics/dsd-netflix/dsd-netflix-2.png)
 
 ----------------
 -------------------
+![Graph_3](https://virtuslab.com/wp-content/uploads/2022/09/Graph_3-min.png)
+----------
+![Screen%20Shot%202021-01-26%20at%201.15.58%20PM](https://1.cms.s81c.com/sites/default/files/2021-01-26/Screen%20Shot%202021-01-26%20at%201.15.58%20PM.png)
+---------------
+![devops-trends](https://www.polestarllp.com/blg-img/devops-trends.webp)
+---------------
+![Continuous%20Delivery%20Pipeline](https://www.qentelli.com/sites/default/files/upload/Continuous%20Delivery%20Pipeline.jpg)
+
+----------------
+-----------------
+
