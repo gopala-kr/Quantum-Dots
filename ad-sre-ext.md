@@ -131,6 +131,9 @@
 -------------
 ![and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
 
+-------------
+![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning](https://cloud.google.com/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg?hl=fr)
+
 
 -------------
 --------------
