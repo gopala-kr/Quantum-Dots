@@ -134,6 +134,9 @@
 -------------
 ![mlops-continuous-delivery-and-automation-pipelines-in-machine-learning](https://cloud.google.com/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-3-ml-automation-ct.svg?hl=fr)
 
+----------------
+![architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build-6-ci-cd-kubeflow](https://cloud.google.com/static/architecture/images/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build-6-ci-cd-kubeflow.svg)
+
 
 -------------
 --------------
