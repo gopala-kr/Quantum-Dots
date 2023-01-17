@@ -123,6 +123,8 @@
 -------------------
 ![Graphic-Emerging-Data-Platform](https://i0.wp.com/a16z.com/wp-content/uploads/2022/11/Graphic-Emerging-Data-Platform.png?resize=2000%2C1977&ssl=1)
 
+-------------------------
+![82cgd6zaebr61](https://i.redd.it/82cgd6zaebr61.png)
 
 
 -------------
