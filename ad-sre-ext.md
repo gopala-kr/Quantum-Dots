@@ -128,6 +128,9 @@
 -------------------------
 ![82cgd6zaebr61](https://i.redd.it/82cgd6zaebr61.png)
 
+-------------
+![and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd](https://cloud.google.com/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
+
 
 -------------
 --------------
