@@ -18,6 +18,8 @@
 ----------
 ![3_Pipeline_DEV](https://www.redhat.com/architect/sites/default/files/styles/embed_medium/public/2020-10/3_Pipeline_DEV.jpg?itok=YW-iZfa_)
 
+----------
+![DOzmM2zVoAAVGWe](https://pbs.twimg.com/media/DOzmM2zVoAAVGWe.jpg:large)
 
 ----------------
 ![word-image-47](https://www.red-gate.com/simple-talk/wp-content/uploads/2019/07/word-image-47.png)
