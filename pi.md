@@ -10,3 +10,15 @@
 -----------
 ![https://i.pinimg.com/originals/f4/0b/5d/f40b5d9cf0c76312355aa33f0c947b00.jpg](https://e-mri.net/wp-content/uploads/2018/02/lean_6sigma_deployment_map-2000_2012.jpg)
 -----------
+![Strategy-Lean-Six-Sigma-Belgium](https://leansixsigmabelgium.com/wp-content/uploads/2017/08/Strategy-Lean-Six-Sigma-Belgium-.jpg)
+
+---------------
+![DMAIC-process-and-Lean-Six-Sigma-source](https://www.researchgate.net/profile/Piero-Mella/publication/333648011/figure/fig1/AS:766861608230915@1559845463917/DMAIC-process-and-Lean-Six-Sigma-source.png)
+
+--------------
+![sustainability-14-11020-g00](https://www.mdpi.com/sustainability/sustainability-14-11020/article_deploy/html/images/sustainability-14-11020-g001.png)
+
+----------------
+![Lean+Six+Sigma+DMAIC+Roadmap](https://slideplayer.com/slide/17477198/102/images/10/Lean+Six+Sigma+DMAIC+Roadmap.jpg)
+
+------------------
