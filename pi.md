@@ -23,6 +23,8 @@
 ----------------
 ![Lean+Six+Sigma+DMAIC+Roadmap](https://slideplayer.com/slide/17477198/102/images/10/Lean+Six+Sigma+DMAIC+Roadmap.jpg)
 
+------------
+![Figure-1-Framework-of-BPM-capabilities-in-the-digital-ag](https://www.bptrends.com/bpt/wp-content/uploads/Figure-1-Framework-of-BPM-capabilities-in-the-digital-age.png)
 ------------------
 
 ![20161221_ABPMP_BPMCompModel_](https://cdn.ymaws.com/staging-abpmp.site-ym.com/resource/resmgr/20161221_ABPMP_BPMCompModel_.jpg)
