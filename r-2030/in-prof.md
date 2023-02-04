@@ -70,3 +70,15 @@
 - VISA Intrnational
 - Wells Fargo & Company
 - Unicredit Bank Austria 
+
+### Capital Markets
+
+- CHARLES SCHWAB
+- Credit Suisse
+- Deutsche Bank
+- GOLDMAN SACHS
+- Morgan Stanley
+- S&P GLOBAL, INC.
+- Societe Generale
+- THE CAPITAL GROUP COMPANIES, INC.
+- UBS AG
