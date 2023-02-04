@@ -49,6 +49,19 @@
 - F. Hoffmann-La Roche Ltd.
 - BIOGEN, INC.
 
+### Natural Resources
+
+- Anglo American Corp.
+- ARCELOR MITTAL
+- GLENCORE INTERNATIONAL AG
+- Global Resources Company
+- INTERNATIONAL PAPER
+- MITSUBISHI MATERIALS CORPORATION
+- Newmont Corporation
+- NUTRIEN
+- Rio Tinto Ltd
+- THYSSENKRUPP AG
+
 ### Banking
 
 - ABN Amro Holding
