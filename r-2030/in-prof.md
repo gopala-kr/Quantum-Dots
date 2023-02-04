@@ -82,3 +82,19 @@
 - Societe Generale
 - THE CAPITAL GROUP COMPANIES, INC.
 - UBS AG
+
+### Insurance
+
+- AIG
+- Allianz
+- AON CORPORATION
+- AXA
+- BERKSHIRE HATHAWAY INC.
+- LLOYDS OF LONDON
+- MARKEL CORPORATION
+- NY LIFE
+- Prudential Financial
+- ROYAL LONDON MUTUAL INS SOCIETY
+- SOMPO JAPAN INSURANCE INC.
+- State Farm Insurance
+- Zurich Insurance Group, Ltd.
