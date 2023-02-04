@@ -1,3 +1,60 @@
+### Communications & Media
+
+- Adevinta
+- Altice 
+- AMERICA MOVIL
+- AT&T Inc.
+- BOUYGUES SA
+- British Telecommunications plc
+- CHANNEL FOUR TELEVISION CORPORATION
+- CHARTER COMMUNICATIONS
+- CINCINNATI BELL INC.
+- Comcast Corporation
+- Cox Enterprises, Inc.
+- Deutsche Telekom AG
+- DISH NETWORK CORPORATION
+- Educational Testing Service
+- Etisalat
+- FAIRPOINT COMMUNICATIONS, INC.
+- Hutchison – H3G
+- ITV PLC
+- KDDI Corporation
+- KPN
+- Liberty Global
+- Lumen Technologies
+- MásMóvil
+- nbn co, ltd.
+- Nippon Telegraph and Telephone Corporation
+- Oi, S.A.
+- OPEN FIBER
+- ORANGE (Spain)
+- ORG GLOBO
+- PROXIMUS
+- ROGERS COMMUNICATIONS
+- SAUDI TELECOM COMPANY
+- SINGTEL GROUP
+- SKY ITALIA
+- Softbank Group Corp.
+- SONAE GROUP
+- SQUARE ENIX
+- SWISSCOM
+- TDS (U.S. CELLULAR)
+- Telecom Italia Group
+- Telefónica Group
+- TELENOR AS
+- TELIA COMPANY AB
+- Telstra
+- TELUS
+- The Walt Disney Company
+- T-Mobile US, Inc.
+- TOPPAN PRINTING CO. LTD.
+- Verizon Communications, Inc.
+- Virgin Media O2
+- Vodacom
+- Vodafone Group plc
+- Worten
+
+----------------------------------
 ### Natural Resources
 
 - Anglo American Corp.
