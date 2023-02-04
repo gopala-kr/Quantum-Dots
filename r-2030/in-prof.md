@@ -1,3 +1,4 @@
+
 ### Aerospace & Defense
 
 - Airbus
@@ -28,6 +29,25 @@
 - TATA Motars
 - Volkswagen
 - Volvo Car Corp.
+
+### Life Sciences
+
+- Astellas Pharma Inc.
+- Bayer AG
+- BOSTON SCIENTIFIC
+- Bristol Myers Squibb
+- CARDINAL HEALTH
+- GILEAD SCIENCES
+- Johnson & Johnson
+- MEDTRONIC INC.
+- Merck
+- Novartis AG
+- Pfizer, Inc.
+- PHILIPS
+- Takeda Pharmaceutical
+- THE COOPER COMPANIES, INC.
+- F. Hoffmann-La Roche Ltd.
+- BIOGEN, INC.
 
 ### Banking
 
