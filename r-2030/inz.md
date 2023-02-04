@@ -1,3 +1,36 @@
+### High Tech
+
+- ASML
+- CARRIER
+- Cisco System, Inc.
+- DELL TECHNOLOGIES
+- EQUINIX, INC
+- ERICSSON
+- Fujifilm Holdings Corporation
+- GENERAL ELECTRIC
+- Hewlett Packard Enterprise
+- HP INC.
+- HUAWEI TECHNOLOGIES CO.
+- Intel Corporation
+- JABIL INC.
+- JOHNSON CONTROLS INTERNATIONAL PLC
+- KOCH INDUSTRIES, INC
+- Lenovo
+- MURATA MANUFACTURING CO., LTD.
+- NCR CORPORATION
+- NINTENDO CO., LTD
+- Nokia
+- OLYMPUS
+- PALO ALTO NETWORKS, INC.
+- PITNEY BOWES
+- SAMSUNG
+- SEIKO EPSON CORP.
+- Sony Corporation
+- TOKYO ELECTRON
+- Toshiba Corporation
+- UNDERWRITERS LABORATORIES INC
+- WOLFSPEED, INC.
+
 ### Communications & Media
 
 - Adevinta
