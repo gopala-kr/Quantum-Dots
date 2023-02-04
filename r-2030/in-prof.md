@@ -79,6 +79,34 @@
 - ORICA LTD
 - OLIN CORP.
 
+### Energy
+
+- Abu Dhabi National Oil Company (ADN)
+- AKER BP ASA
+- BAKER HUGHES COMPANY
+- BP plc
+- Chevron Corporation
+- COSMO ENERGY HOLDINGS CO., LTD.
+- ENEOS Holdings, Inc
+- ENI SPA
+- EQUINOR ASA
+- ExxonMobil Corporation
+- HALLIBURTON COMPANY
+- HILCORP ENERGY COMPANY
+- Idemitsu Kosan Co Ltd
+- INDIAN OIL CORPORATION LTD.
+- INPEX CORPORATION
+- MARATHON PETROLEUM CORP.
+- Neste
+- Petroliam Nasional Berhad (PETRONAS)
+- Phillips 66
+- Royal Dutch Shell Plc
+- Saudi Aramco
+- SHV HOLDINGS NV
+- Total SA
+- WESTERN MIDSTREAM PARTNERS
+- SCHLUMBERGER
+
 
 ### Banking
 
