@@ -65,4 +65,8 @@
 - National Bank of Canada
 - National Bank of Greece
 - Navy Federal Credit Union
-- 
+- PNC Bank
+- TRUIST
+- VISA Intrnational
+- Wells Fargo & Company
+- Unicredit Bank Austria 
