@@ -87,6 +87,30 @@
 - Vodafone Group plc
 - Worten
 
+### Software & Platforms
+
+- Adobe
+- Airbnb
+- ALIBABA GROUP
+- AMAZON.COM INC.
+- BILL & MELINDA GATES FOUNDATION
+- BYTEDANCE CO. LTD.
+- Facebook, Inc.
+- Google Inc.
+- HIRERIGHT LLC
+- LINKEDIN CORPORATION
+- MERCADO LIBRE
+- Microsoft Corporation
+- PINTEREST
+- Rakuten, Inc
+- SALESFORCE.COM, INC.
+- SAP SE
+- SERVICENOW, INC.
+- SNAP INC
+- SPLUNK INC.
+- UBER TECHNOLOGIES INC.
+- VMWARE, INC.
+
 ----------------------------------
 ### Natural Resources
 
