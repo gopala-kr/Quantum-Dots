@@ -18,7 +18,7 @@
 ------------
 ![agl1](https://github.com/gopala-kr/trending-repos/blob/master/photons/safe/agl9.png)
 ------------
-![agl1](https://github.com/gopala-kr/trending-repos/blob/master/photons/safe/agl0.png)
+![agl1](https://github.com/gopala-kr/trending-repos/blob/master/photons/safe/agl10.png)
 ------------
 ![agl1](https://github.com/gopala-kr/trending-repos/blob/master/photons/safe/agl11.png)
 ------------
@@ -116,8 +116,6 @@
 -----------
 ![Strategy-Lean-Six-Sigma-Belgium](https://leansixsigmabelgium.com/wp-content/uploads/2017/08/Strategy-Lean-Six-Sigma-Belgium-.jpg)
 
----------------
-![DMAIC-process-and-Lean-Six-Sigma-source](https://www.researchgate.net/profile/Piero-Mella/publication/333648011/figure/fig1/AS:766861608230915@1559845463917/DMAIC-process-and-Lean-Six-Sigma-source.png)
 
 --------------
 ![sustainability-14-11020-g00](https://www.mdpi.com/sustainability/sustainability-14-11020/article_deploy/html/images/sustainability-14-11020-g001.png)
@@ -130,12 +128,10 @@
 ------------------
 
 ![20161221_ABPMP_BPMCompModel_](https://cdn.ymaws.com/staging-abpmp.site-ym.com/resource/resmgr/20161221_ABPMP_BPMCompModel_.jpg)
------------
-![FiLMfI9agAAZwxT](pbs.twimg.com/media/FiLMfI9agAAZwxT?format=jpg&name=large)
+
 
 --------------
 ![Process-2-1](https://unitfly.com/wp-content/uploads/2021/06/Process-2-1.png)
 
 --------------
-![Business-Process-Management-infographic-1](https://unitfly.com/wp-content/uploads/2021/06/Business-Process-Management-infographic-1.png)
-------------
+--------------
