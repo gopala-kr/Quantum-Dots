@@ -5,8 +5,16 @@
 
 ![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm2.png)
 
+---------------
 
 
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm4.png)
+
+
+-------------------
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm13.png)
 -------------------
 
 
@@ -15,21 +23,6 @@
 -------------------
 
 ![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm10.png)
-
-
-
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm13.png)
-
----------------
-
-
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm4.png)
-
-
 
 
 -------------------
