@@ -1,4 +1,23 @@
 
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm9.png)
+
+-------------------
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm10.png)
+
+-------------------
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm11.png)
+
+-------------------
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm12.png)
+-------------------
+
+![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm13.png)
+
+---------------
+
 ![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm1.png)
 
 -------------------
@@ -17,36 +36,7 @@
 
 ![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm5.png)
 
--------------------
 
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm6.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm7.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm8.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm9.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm10.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm11.png)
-
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm12.png)
--------------------
-
-![bpm1](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/bpm/bpm13.png)
 
 -------------------
 ------------------
