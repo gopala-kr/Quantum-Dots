@@ -162,5 +162,49 @@
 ---------
 ![https://static.packt-cdn.com/products/9781838645649/graphics/assets/ad2f623b-f13a-4116-9931-abe93f03b01a.png](https://static.packt-cdn.com/products/9781838645649/graphics/assets/ad2f623b-f13a-4116-9931-abe93f03b01a.png)
 
+Enterprise solution architect:
+Organization strategy
+Business architecture
+
+Solution architect:
+Solution design
+Solution integration
+
+Technical architect:
+Software design
+Software development
+
+Cloud architect:
+Cloud strategy
+Cloud migration
+
+Architect evangelist:
+Platform adoption
+Technical content
+
+There may be other titles (such as application architect and software architect); however, this depends on the organization's structure.
+
+Specialist solution architect roles are as follows:
+
+Infrastructure architect:
+IT infrastructure design
+Software standardization and patching
+
+Network architect:
+Network design
+IT network strategy and latency
+
+Data architect:
+Data engineering and analysis
+Data science and data intelligence
+
+Security architect:
+Cyber security
+IT compliance
+
+DevOps architect:
+IT automation
+Continuous integration and continuous deployment (CI/CD)
+
 --------------
 --------------
