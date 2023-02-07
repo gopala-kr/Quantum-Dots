@@ -153,5 +153,8 @@
 ------------
 ![article_20180516](https://cdn.cloudelicious.net/wp-content/uploads/article_20180516-01.png)
 
+-------------
+![ENTERPRISE-ARCHITECT-VS-SOLUTION-ARCHITECT-TABLE](https://networkinterview.com/wp-content/uploads/2020/11/ENTERPRISE-ARCHITECT-VS-SOLUTION-ARCHITECT-TABLE.jpg)
+
 --------------
 --------------
