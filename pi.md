@@ -133,5 +133,8 @@
 --------------
 ![Process-2-1](https://unitfly.com/wp-content/uploads/2021/06/Process-2-1.png)
 
+--------
+![venn-diagram](https://www.iiba.org/contentassets/a1b47a0789ea47d2b405b5f1eec78cee/venn-diagram.jpg)
+
 --------------
 --------------
