@@ -206,5 +206,8 @@ DevOps architect:
 IT automation
 Continuous integration and continuous deployment (CI/CD)
 
+-------------
+![104626996-9942d100-56be-11eb-9e79-acd4b0ab2edd](https://user-images.githubusercontent.com/414141/104626996-9942d100-56be-11eb-9e79-acd4b0ab2edd.png)
+
 --------------
 --------------
