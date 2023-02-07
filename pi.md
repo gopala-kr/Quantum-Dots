@@ -156,5 +156,8 @@
 -------------
 ![ENTERPRISE-ARCHITECT-VS-SOLUTION-ARCHITECT-TABLE](https://networkinterview.com/wp-content/uploads/2020/11/ENTERPRISE-ARCHITECT-VS-SOLUTION-ARCHITECT-TABLE.jpg)
 
+----------
+![architectures01](https://nix-united.com/wp-content/uploads/2020/05/graphs-architectures01.png)
+
 --------------
 --------------
