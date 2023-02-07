@@ -223,5 +223,8 @@ Continuous integration and continuous deployment (CI/CD)
 ----------
 ![Solution-Arch-Eng_F02_WEB](https://www.scaledagileframework.com/wp-content/uploads/2021/06/Solution-Arch-Eng_F02_WEB.png)
 
+--------
+![word-image-1](https://www.altexsoft.com/media/2018/04/word-image-1.png)
+
 --------------
 --------------
