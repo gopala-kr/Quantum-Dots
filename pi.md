@@ -218,5 +218,8 @@ Continuous integration and continuous deployment (CI/CD)
 -----------
 ![2-160](https://merehead.com/blog/wp-content/uploads/2-160.png)
 
+----------
+![Solution-Arch-Eng_F02_WEB](https://www.scaledagileframework.com/wp-content/uploads/2021/06/Solution-Arch-Eng_F02_WEB.png)
+
 --------------
 --------------
