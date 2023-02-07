@@ -160,7 +160,7 @@
 ![architectures01](https://nix-united.com/wp-content/uploads/2020/05/graphs-architectures01.png)
 
 ---------
-![ad2f623b-f13a-4116-9931-abe93f03b01a](https://static.packt-cdn.com/products/9781838645649/graphics/assets/ad2f623b-f13a-4116-9931-abe93f03b01a.png)
+![https://static.packt-cdn.com/products/9781838645649/graphics/assets/ad2f623b-f13a-4116-9931-abe93f03b01a.png](https://static.packt-cdn.com/products/9781838645649/graphics/assets/ad2f623b-f13a-4116-9931-abe93f03b01a.png)
 
 --------------
 --------------
