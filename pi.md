@@ -147,5 +147,8 @@
 ------------
 ![DKFv9I1W0AEpLGj](https://pbs.twimg.com/media/DKFv9I1W0AEpLGj?format=jpg&name=large)
 
+---------
+![Roles_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EN-IT-Arch-Roles_Poster_Landing_Page_Preview.png)
+
 --------------
 --------------
