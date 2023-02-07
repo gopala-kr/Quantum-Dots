@@ -212,5 +212,8 @@ Continuous integration and continuous deployment (CI/CD)
 ---------
 ![article-cover_image-shrink_720_1280](https://media.licdn.com/dms/image/C4D12AQHbXFuH7YP19Q/article-cover_image-shrink_720_1280/0/1639054713436?e=2147483647&v=beta&t=EbniagAqMlYtg2e9xligOL7hnWKFBdMHJV3jUzFRn84)
 
+-----------
+![Roles-of-EAs-Title](https://www.whatsyourbaseline.com/wp-content/uploads/2021/11/Roles-of-EAs-Title.png)
+
 --------------
 --------------
