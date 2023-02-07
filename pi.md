@@ -150,5 +150,8 @@
 ---------
 ![Roles_Poster_Landing_Page_Preview](https://www.leanix.net/hs-fs/hubfs/Downloads/Landing%20Page%20Images/EN-IT-Arch-Roles_Poster_Landing_Page_Preview.png)
 
+------------
+![article_20180516](https://cdn.cloudelicious.net/wp-content/uploads/article_20180516-01.png)
+
 --------------
 --------------
