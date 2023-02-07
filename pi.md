@@ -129,6 +129,8 @@
 
 ![20161221_ABPMP_BPMCompModel_](https://cdn.ymaws.com/staging-abpmp.site-ym.com/resource/resmgr/20161221_ABPMP_BPMCompModel_.jpg)
 
+-----------
+![ba-pm-tandem-article-diagram](https://www.batimes.com/wp-content/uploads/2021/05/ba-pm-tandem-article-diagram.png)
 
 --------------
 ![Process-2-1](https://unitfly.com/wp-content/uploads/2021/06/Process-2-1.png)
