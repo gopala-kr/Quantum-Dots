@@ -138,5 +138,8 @@
 --------
 ![venn-diagram](https://www.iiba.org/contentassets/a1b47a0789ea47d2b405b5f1eec78cee/venn-diagram.jpg)
 
+---------
+![DKFv9I3W0AAYyxa](https://pbs.twimg.com/media/DKFv9I3W0AAYyxa?format=jpg&name=large)
+
 --------------
 --------------
