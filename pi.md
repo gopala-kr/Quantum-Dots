@@ -209,5 +209,8 @@ Continuous integration and continuous deployment (CI/CD)
 -------------
 ![104626996-9942d100-56be-11eb-9e79-acd4b0ab2edd](https://user-images.githubusercontent.com/414141/104626996-9942d100-56be-11eb-9e79-acd4b0ab2edd.png)
 
+---------
+![article-cover_image-shrink_720_1280](https://media.licdn.com/dms/image/C4D12AQHbXFuH7YP19Q/article-cover_image-shrink_720_1280/0/1639054713436?e=2147483647&v=beta&t=EbniagAqMlYtg2e9xligOL7hnWKFBdMHJV3jUzFRn84)
+
 --------------
 --------------
