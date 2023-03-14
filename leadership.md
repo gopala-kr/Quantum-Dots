@@ -143,7 +143,7 @@
 - [Stories_From_Planet_B](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Stories_From_Planet_B.pdf)
 - [ChatGPT_and_GPT_A_B_787035_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/ChatGPT_and_GPT_A_B_787035_ndx.pdf)
 - [Forecast_Analysis_I_779259_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Forecast_Analysis_I_779259_ndx.pdf)
-
+- [Innovation_Insight_f_777224_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Innovation_Insight_f_777224_ndx.pdf)
 
 ------------------
 ----
