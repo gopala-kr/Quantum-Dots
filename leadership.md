@@ -144,6 +144,7 @@
 - [ChatGPT_and_GPT_A_B_787035_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/ChatGPT_and_GPT_A_B_787035_ndx.pdf)
 - [Forecast_Analysis_I_779259_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Forecast_Analysis_I_779259_ndx.pdf)
 - [Innovation_Insight_f_777224_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Innovation_Insight_f_777224_ndx.pdf)
+- [Magic_Quadrant_for_E_765368_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Magic_Quadrant_for_E_765368_ndx.pdf)
 
 ------------------
 ----
