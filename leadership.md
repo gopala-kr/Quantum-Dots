@@ -471,5 +471,8 @@
 ----
 ![e-Future-of-Arch](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The-Future-of-Architected-Humanstarget.png)
 
+----------
+![Top_Strategic_Technology_Trends_Review_From_2020](https://www.gartner.com/resources/780700/780745/Top_Strategic_Technology_Trends_Review_From_2020-2023.png)
+
 ------------------
 -----------------------
