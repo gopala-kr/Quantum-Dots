@@ -132,6 +132,8 @@
 - [Web3_and_the_Metaver_765430_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Web3_and_the_Metaver_765430_ndx.pdf)
 - [Top_Trends_in_Buildi_761112_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Trends_in_Buildi_761112_ndx.pdf)
 - [Top_Strategic_Techno_775990_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_775990_ndx.pdf)
+
+- [Top_Strategic_Techno_773723_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_773723_ndx.pdf)
 ------------------
 ----
 
