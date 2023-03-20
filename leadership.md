@@ -134,6 +134,8 @@
 - [Tool_Gartners_Top_IT_Cost_Optimization_Ideas_765017](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_Gartners_Top_IT_Cost_Optimization_Ideas_765017.xlsx)
 - [Tool_Gartners_Top__765017_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_Gartners_Top__765017_ndx.pdf)
 - [Top_Strategic_Techno_775990_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_775990_ndx.pdf)
+
+- [The_Gartner_Cybersec_775537_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The_Gartner_Cybersec_775537_ndx.pdf)
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
 - [Top_Strategic_Techno_755920_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_755920_ndx.pdf)
 - [Top_Strategic_Techno_759928_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_759928_ndx.pdf)
