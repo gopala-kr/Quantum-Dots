@@ -130,7 +130,7 @@
 - [Preparing_the_Enterp_770755_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Preparing_the_Enterp_770755_ndx.pdf)
 - [maverick_research_being_huma_464191](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/maverick_research_being_huma_464191.pdf)
 - [Web3_and_the_Metaver_765430_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Web3_and_the_Metaver_765430_ndx.pdf)
-
+- [Top_Trends_in_Buildi_761112_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Trends_in_Buildi_761112_ndx.pdf)
 
 ------------------
 ----
