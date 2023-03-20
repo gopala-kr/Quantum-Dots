@@ -131,7 +131,7 @@
 - [maverick_research_being_huma_464191](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/maverick_research_being_huma_464191.pdf)
 - [Web3_and_the_Metaver_765430_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Web3_and_the_Metaver_765430_ndx.pdf)
 - [Top_Trends_in_Buildi_761112_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Trends_in_Buildi_761112_ndx.pdf)
-
+- [Tool_Gartners_Top_IT_Cost_Optimization_Ideas_765017](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_Gartners_Top_IT_Cost_Optimization_Ideas_765017.xlsx)
 - [Tool_Gartners_Top__765017_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_Gartners_Top__765017_ndx.pdf)
 - [Top_Strategic_Techno_775990_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_775990_ndx.pdf)
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
