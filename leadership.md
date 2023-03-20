@@ -139,6 +139,7 @@
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
 - [Top_Strategic_Techno_755920_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_755920_ndx.pdf)
 
+- [Tool_Enterprise_Use_786729_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_786729_ndx.pdf)
 - [Magic_Quadrant_for_E_765368_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Magic_Quadrant_for_E_765368_ndx.pdf)
 - [Innovation_Insight_f_777224_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Innovation_Insight_f_777224_ndx.pdf)
 - [Forecast_Analysis_I_779259_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Forecast_Analysis_I_779259_ndx.pdf)
