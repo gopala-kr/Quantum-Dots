@@ -7,6 +7,8 @@ State of Organizations
 next-generation
 operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/introducing%20the%20next-generation%20operating%20model/introducing-the-next-gen-operating-model.ashx)
 - [What every CEO should know about generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-every-ceo-should-know-about-generative-ai)
+- [Becoming CEO](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/five-fifty-becoming-ceo)
+- [Six CEO priorities for 2023](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/six-ceo-priorities-for-2023)
 
 
 --------------
