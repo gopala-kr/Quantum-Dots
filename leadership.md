@@ -1,4 +1,14 @@
 
+
+- [The
+State of Organizations
+2023](https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf)
+- [Introducing the
+next-generation
+operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/introducing%20the%20next-generation%20operating%20model/introducing-the-next-gen-operating-model.ashx)
+- [What every CEO should know about generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-every-ceo-should-know-about-generative-ai)
+
+
 --------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
 - [The Most Important Leadership Competencies, According to Leaders Around the World](https://hbr.org/2016/03/the-most-important-leadership-competencies-according-to-leaders-around-the-world)
