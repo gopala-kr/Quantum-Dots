@@ -10,8 +10,13 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Becoming CEO](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/five-fifty-becoming-ceo)
 - [Six CEO priorities for 2023](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/six-ceo-priorities-for-2023)
 - [‘Find the smartest technologist in the company and make them CEO’](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/find-the-smartest-technologist-in-the-company-and-make-them-ceo)
+- [New leadership for a new era of thriving organizations](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/new-leadership-for-a-new-era-of-thriving-organizations)
 
---------------
+
+
+
+
+-------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
 - [The Most Important Leadership Competencies, According to Leaders Around the World](https://hbr.org/2016/03/the-most-important-leadership-competencies-according-to-leaders-around-the-world)
 - [What Is Self-Leadership? Models, Theory, and Examples](https://positivepsychology.com/self-leadership/#:~:text=Self%2Dleadership%20is%20the%20practice,management%20literature%20by%20Charles%20C.)
