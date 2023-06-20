@@ -19,6 +19,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The CEO: Architect of the new operations agenda](https://www.mckinsey.com/capabilities/operations/our-insights/the-ceo-architect-of-the-new-operations-agenda)
 - [Where delegation fails: Five things only the enterprise CEO can do to build new businesses](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/where-delegation-fails-five-things-only-the-enterprise-ceo-can-do-to-build-new-businesses)
 - [Author Talks: Tomorrow’s capitalist is socially conscious](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-tomorrows-capitalist-is-socially-conscious)
+- [The 21st-century corporation: A conversation with Brian Chesky of Airbnb](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-21st-century-corporation-a-conversation-with-brian-chesky-of-airbnb)
 
 
 
