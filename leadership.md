@@ -25,7 +25,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [What matters most? Six priorities for CEOs in turbulent times](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-six-priorities-for-ceos-in-turbulent-times)
 - [Leadership at Scale: Better Leadership, Better Results](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/leadership-at-scale)
 - [Future proof: Solving the ‘adaptability paradox’ for the long term](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/future-proof-solving-the-adaptability-paradox-for-the-long-term)
-
+- [How to demonstrate calm and optimism in a crisis](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-demonstrate-calm-and-optimism-in-a-crisis)
 
 
 -------------
