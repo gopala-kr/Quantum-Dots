@@ -26,6 +26,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Leadership at Scale: Better Leadership, Better Results](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/leadership-at-scale)
 - [Future proof: Solving the ‘adaptability paradox’ for the long term](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/future-proof-solving-the-adaptability-paradox-for-the-long-term)
 - [How to demonstrate calm and optimism in a crisis](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-demonstrate-calm-and-optimism-in-a-crisis)
+- [The Great Attrition is making hiring harder. Are you searching the right talent pools?](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-great-attrition-is-making-hiring-harder-are-you-searching-the-right-talent-pools)
 
 
 -------------
