@@ -3,6 +3,7 @@
 - [The
 State of Organizations
 2023](https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf)
+- [What is leadership?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-leadership)
 - [Introducing the
 next-generation
 operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/introducing%20the%20next-generation%20operating%20model/introducing-the-next-gen-operating-model.ashx)
