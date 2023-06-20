@@ -12,8 +12,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [‘Find the smartest technologist in the company and make them CEO’](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/find-the-smartest-technologist-in-the-company-and-make-them-ceo)
 - [New leadership for a new era of thriving organizations](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/new-leadership-for-a-new-era-of-thriving-organizations)
 - [Starting strong: Making your CEO transition a catalyst for renewal](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/starting-strong-making-your-ceo-transition-a-catalyst-for-renewal)
-
-
+- [Navigating inflation: A new playbook for CEOs](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/navigating-inflation-a-new-playbook-for-ceos)
 
 
 
