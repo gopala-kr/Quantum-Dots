@@ -23,7 +23,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The 21st-century corporation: A conversation with Brian Chesky of Airbnb](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-21st-century-corporation-a-conversation-with-brian-chesky-of-airbnb)
 - [John Chambers: ‘Breaking away during the tough times is when the next generation of great companies gets formed’](https://www.mckinsey.com/featured-insights/leadership/john-chambers-breaking-away-during-the-tough-times-is-when-the-next-generation-of-great-companies-gets-formed)
 - [What matters most? Six priorities for CEOs in turbulent times](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-six-priorities-for-ceos-in-turbulent-times)
-
+- [Leadership at Scale: Better Leadership, Better Results](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/leadership-at-scale)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
