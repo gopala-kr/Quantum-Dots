@@ -21,8 +21,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Author Talks: Tomorrow’s capitalist is socially conscious](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-tomorrows-capitalist-is-socially-conscious)
 - [The 21st-century corporation: A conversation with Brian Chesky of Airbnb](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-21st-century-corporation-a-conversation-with-brian-chesky-of-airbnb)
 - [John Chambers: ‘Breaking away during the tough times is when the next generation of great companies gets formed’](https://www.mckinsey.com/featured-insights/leadership/john-chambers-breaking-away-during-the-tough-times-is-when-the-next-generation-of-great-companies-gets-formed)
-
-
+- [What matters most? Six priorities for CEOs in turbulent times](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-six-priorities-for-ceos-in-turbulent-times)
 
 
 -------------
