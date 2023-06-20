@@ -14,7 +14,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Starting strong: Making your CEO transition a catalyst for renewal](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/starting-strong-making-your-ceo-transition-a-catalyst-for-renewal)
 - [Navigating inflation: A new playbook for CEOs](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/navigating-inflation-a-new-playbook-for-ceos)
 - [How business operations can respond to price increases: A CEO guide](https://www.mckinsey.com/capabilities/operations/our-insights/how-business-operations-can-respond-to-price-increases-a-ceo-guide)
-
+- [The labor market is upside down. Here’s what CEOs can do about it](https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/the-labor-market-is-upside-down-heres-what-ceos-can-do-about-it)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
