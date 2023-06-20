@@ -17,6 +17,12 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The labor market is upside down. Here’s what CEOs can do about it](https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/the-labor-market-is-upside-down-heres-what-ceos-can-do-about-it)
 - [The digital-value guardian: CEOs and digital transformations](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-digital-value-guardian-ceos-and-digital-transformations)
 - [The CEO: Architect of the new operations agenda](https://www.mckinsey.com/capabilities/operations/our-insights/the-ceo-architect-of-the-new-operations-agenda)
+- [Where delegation fails: Five things only the enterprise CEO can do to build new businesses](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/where-delegation-fails-five-things-only-the-enterprise-ceo-can-do-to-build-new-businesses)
+
+
+
+
+
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
