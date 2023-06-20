@@ -20,7 +20,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Where delegation fails: Five things only the enterprise CEO can do to build new businesses](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/where-delegation-fails-five-things-only-the-enterprise-ceo-can-do-to-build-new-businesses)
 - [Author Talks: Tomorrow’s capitalist is socially conscious](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-tomorrows-capitalist-is-socially-conscious)
 - [The 21st-century corporation: A conversation with Brian Chesky of Airbnb](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-21st-century-corporation-a-conversation-with-brian-chesky-of-airbnb)
-
+- [John Chambers: ‘Breaking away during the tough times is when the next generation of great companies gets formed’](https://www.mckinsey.com/featured-insights/leadership/john-chambers-breaking-away-during-the-tough-times-is-when-the-next-generation-of-great-companies-gets-formed)
 
 
 
