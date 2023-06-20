@@ -23,7 +23,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The Most Important Leadership Competencies, According to Leaders Around the World](https://hbr.org/2016/03/the-most-important-leadership-competencies-according-to-leaders-around-the-world)
 - [What Is Self-Leadership? Models, Theory, and Examples](https://positivepsychology.com/self-leadership/#:~:text=Self%2Dleadership%20is%20the%20practice,management%20literature%20by%20Charles%20C.)
 - [What Self-Awareness Really Is (and How to Cultivate It)](https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it)
-
+- [Author Talks: What separates the best CEOs from the rest?](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-separates-the-best-ceos-from-the-rest)
 -----------
 
 
