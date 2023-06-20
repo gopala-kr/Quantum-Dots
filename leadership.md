@@ -13,7 +13,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [New leadership for a new era of thriving organizations](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/new-leadership-for-a-new-era-of-thriving-organizations)
 - [Starting strong: Making your CEO transition a catalyst for renewal](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/starting-strong-making-your-ceo-transition-a-catalyst-for-renewal)
 - [Navigating inflation: A new playbook for CEOs](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/navigating-inflation-a-new-playbook-for-ceos)
-
+- [How business operations can respond to price increases: A CEO guide](https://www.mckinsey.com/capabilities/operations/our-insights/how-business-operations-can-respond-to-price-increases-a-ceo-guide)
 
 
 -------------
