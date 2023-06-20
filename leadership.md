@@ -18,7 +18,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The digital-value guardian: CEOs and digital transformations](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-digital-value-guardian-ceos-and-digital-transformations)
 - [The CEO: Architect of the new operations agenda](https://www.mckinsey.com/capabilities/operations/our-insights/the-ceo-architect-of-the-new-operations-agenda)
 - [Where delegation fails: Five things only the enterprise CEO can do to build new businesses](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/where-delegation-fails-five-things-only-the-enterprise-ceo-can-do-to-build-new-businesses)
-
+- [Author Talks: Tomorrow’s capitalist is socially conscious](https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-tomorrows-capitalist-is-socially-conscious)
 
 
 
