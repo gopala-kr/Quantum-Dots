@@ -30,6 +30,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Decision making in uncertain times](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/decision-making-in-uncertain-times)
 - [Scaling AI like a tech native: The CEO’s role](https://www.mckinsey.com/capabilities/quantumblack/our-insights/scaling-ai-like-a-tech-native-the-ceos-role)
 - [The data-driven enterprise of 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025)
+- [An executive’s guide to AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
