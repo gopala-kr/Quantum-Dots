@@ -28,6 +28,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [How to demonstrate calm and optimism in a crisis](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-demonstrate-calm-and-optimism-in-a-crisis)
 - [The Great Attrition is making hiring harder. Are you searching the right talent pools?](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-great-attrition-is-making-hiring-harder-are-you-searching-the-right-talent-pools)
 - [Decision making in uncertain times](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/decision-making-in-uncertain-times)
+- [Scaling AI like a tech native: The CEO’s role](https://www.mckinsey.com/capabilities/quantumblack/our-insights/scaling-ai-like-a-tech-native-the-ceos-role)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
