@@ -29,6 +29,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The Great Attrition is making hiring harder. Are you searching the right talent pools?](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-great-attrition-is-making-hiring-harder-are-you-searching-the-right-talent-pools)
 - [Decision making in uncertain times](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/decision-making-in-uncertain-times)
 - [Scaling AI like a tech native: The CEO’s role](https://www.mckinsey.com/capabilities/quantumblack/our-insights/scaling-ai-like-a-tech-native-the-ceos-role)
+- [The data-driven enterprise of 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
