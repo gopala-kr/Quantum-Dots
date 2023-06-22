@@ -32,6 +32,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The data-driven enterprise of 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025)
 - [An executive’s guide to AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai)
 - [Executive’s guide to developing AI at scale](https://www.mckinsey.com/capabilities/quantumblack/our-insights/executives-guide-to-developing-ai-at-scale#intro)
+- [The future is now: Unlocking the promise of AI in industrials](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-future-is-now-unlocking-the-promise-of-ai-in-industrials)
 
 -------------
 - [Evolution of leadership theory](https://bmjleader.bmj.com/content/leader/5/1/3.full.pdf)
