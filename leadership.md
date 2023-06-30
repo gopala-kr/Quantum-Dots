@@ -177,6 +177,8 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Tool_Enterprise_Use_Cases_for_ChatGP](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_Cases_for_ChatGP%20(1).xlsx)
 - [Tool_Enterprise_Use_786729_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_786729_ndx.pdf)
 
+- [Magic_Quadrant_for_E_765368_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Magic_Quadrant_for_E_765368_ndx.pdf)
+
 
 ------------------
 ----
