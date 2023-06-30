@@ -175,16 +175,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
 - [Top_Strategic_Techno_755920_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_755920_ndx.pdf)
 
-- [Tool_Enterprise_Use_Cases_for_ChatGP](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_Cases_for_ChatGP%20(1).xlsx)
-- [Tool_Enterprise_Use_786729_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_786729_ndx.pdf)
-- [Magic_Quadrant_for_E_765368_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Magic_Quadrant_for_E_765368_ndx.pdf)
-- [Innovation_Insight_f_777224_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Innovation_Insight_f_777224_ndx.pdf)
-- [Forecast_Analysis_I_779259_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Forecast_Analysis_I_779259_ndx.pdf)
-- [ChatGPT_and_GPT_A_B_787035_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/ChatGPT_and_GPT_A_B_787035_ndx.pdf)
-- [Stories_From_Planet_B](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Stories_From_Planet_B.pdf)
-- [Top_Strategic_Techno_759928_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_759928_ndx.pdf)
-- [Top_Strategic_Techno_756059_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Top_Strategic_Techno_756059_ndx.pdf)
-- [Top_Strategic_Techno_773723_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_773723_ndx.pdf)
+
 ------------------
 ----
 
