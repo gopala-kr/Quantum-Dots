@@ -182,6 +182,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [The_Gartner_Cybersec_775537_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The_Gartner_Cybersec_775537_ndx.pdf)
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
 - [Top_Strategic_Techno_755920_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_755920_ndx.pdf)
+- [Tool_Enterprise_Use_Cases_for_ChatGP](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Tool_Enterprise_Use_Cases_for_ChatGP%20(1).xlsx)
 
 
 ------------------
