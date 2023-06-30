@@ -183,6 +183,8 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [ChatGPT_and_GPT_A_B_787035_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/ChatGPT_and_GPT_A_B_787035_ndx.pdf)
 - [Stories_From_Planet_B](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Stories_From_Planet_B.pdf)
 - [Top_Strategic_Techno_759928_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_759928_ndx.pdf)
+- [Top_Strategic_Techno_756059_ndx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/gntr/14-3/Top_Strategic_Techno_756059_ndx.pdf)
+
 
 ------------------
 ----
