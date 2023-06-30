@@ -181,6 +181,7 @@ operating model](https://www.mckinsey.com/~/media/mckinsey/business%20functions/
 - [Top_Strategic_Techno_773723_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_773723_ndx.pdf)
 - [The_Gartner_Cybersec_775537_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/The_Gartner_Cybersec_775537_ndx.pdf)
 - [Tool_IT_MA_Due_Dil_754695_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Tool_IT_MA_Due_Dil_754695_ndx.pdf)
+- [Top_Strategic_Techno_755920_ndx](https://github.com/gopala-kr/Quantum-Dots/blob/master/gntr/Top_Strategic_Techno_755920_ndx.pdf)
 
 
 ------------------
