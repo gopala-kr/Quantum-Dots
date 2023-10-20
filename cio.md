@@ -62,6 +62,9 @@
 
 --------------------------
 -----------------------
+![7b172632110e4093a408bbeb9950d243](https://i.pinimg.com/originals/7b/17/26/7b172632110e4093a408bbeb9950d243.jpg)
+
+-------------
 ![Strategy-Map-Classic-Version](https://static.intrafocus.com/uploads/2021/03/Strategy-Map-Classic-Version.png)
 
 
