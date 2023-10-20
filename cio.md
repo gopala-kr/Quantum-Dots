@@ -87,6 +87,9 @@
 ----------
 ![digitalarch](https://1.bp.blogspot.com/-bNIz8f_dONs/YJ_YVP4jXXI/AAAAAAABiK8/lvsIML_fC60IDOh0qrU1yk-WrtEzpbt-QCLcBGAsYHQ/s16000/digitalarch.png)
 
+---------
+![Digital_decoupling](https://1.bp.blogspot.com/-p_C4hXx7lP8/YKCX8C4rDPI/AAAAAAABiMU/sFidCSY9TyAV2ZuUQzExj7KMIQ5C5YzfQCLcBGAsYHQ/s16000/Digital_decoupling.png)
+
 --------------
 --------------------
 
