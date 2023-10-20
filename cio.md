@@ -26,6 +26,11 @@
 - Creativity: Creativity is essential for devising innovative marketing campaigns that stand out in a competitive market.
 - Data Analytics: CMOs need skills in data analysis to derive insights from consumer behaviour and market trends
 
+------------
+![cmo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/cmo_office.png)
+
+-------------
+
 #### CIO/CTO
 
 - Technology Expertise: CIOs and CTOs require deep knowledge of emerging technologies and IT trends.
@@ -44,6 +49,10 @@
 - Project Management: Strong project management skills help COOs oversee complex initiatives.
 - Problem-Solving: The ability to identify and resolve operational challenges is essential.
 
+-------
+![coo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/coo_office.png)
+
+------------
 #### CSO/CISO
 
 - Cybersecurity Expertise: CSOs and CISOs must possess a deep understanding of cybersecurity frameworks and practices.
