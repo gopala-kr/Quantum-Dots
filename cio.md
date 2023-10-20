@@ -93,6 +93,9 @@
 ----------
 ![Digital_experience](https://1.bp.blogspot.com/-fKEjE3WTeTY/YKCYGVXFhZI/AAAAAAABiMc/FmAINNEwoccydTmmolVgNM30Ao-bcaKDgCLcBGAsYHQ/s16000/Digital_experience.png)
 
+----------
+![digital_analytics](https://1.bp.blogspot.com/-pmwUxdaog9A/YKCYPdlz0II/AAAAAAABiMk/PiaXaHwzYxsuUD-fSN2-3DhQwPQolRxUQCLcBGAsYHQ/s16000/digital_analytics.png)
+
 --------------
 --------------------
 
