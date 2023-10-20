@@ -5,13 +5,20 @@
 - Decision-Making: Strong decision-making skills are crucial for CEOs to guide the company through challenges and opportunities.
 - Communication: Effective communication is essential for conveying the company's vision, goals, and plans to stakeholders.
 
+-----------
+![ceo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/ceo_office.png)
 
+-----------------
 #### CFO
 
 - Financial Acumen: CFOs require a deep understanding of financial analysis, reporting, and management.
 - Analytical Thinking: Strong analytical skills help CFOs evaluate financial data and make informed decisions.
 - Risk Management: The ability to assess and manage financial risks is vital for CFOs to ensure fiscal health.
 
+-----------
+![cfo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/cfo_office.png)
+
+-----------------
 
 #### CMO
 
