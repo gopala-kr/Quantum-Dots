@@ -59,6 +59,15 @@
 
 #### CAIO
 
+------------
+---------------
+![iflow62](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow62.PNG)
+
+---------
+![tom59](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom59.png)
+
+----------
+![btp_roles](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
 
 --------------------------
 -----------------------
@@ -97,8 +106,7 @@
 ![digital_analytics](https://1.bp.blogspot.com/-pmwUxdaog9A/YKCYPdlz0II/AAAAAAABiMk/PiaXaHwzYxsuUD-fSN2-3DhQwPQolRxUQCLcBGAsYHQ/s16000/digital_analytics.png)
 
 -------
-![Technology-strategy-framework-see-online-version-for-colours](https://www.researchgate.net/profile/Zafar-Husain/publication/303501506/figure/fig1/AS:593529382383616@1518519840246/Technology-strategy-framework-see-online-version-for-colours.png)
-
+![Enterprise_Architecture](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
 
 --------------
 --------------------
