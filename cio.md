@@ -84,6 +84,9 @@
 -----------
 ![traidtionalarch](https://1.bp.blogspot.com/-nn8ocOVdOnc/YJ_X2Fe6SqI/AAAAAAABiKs/dyU_uDk2lG4aXFxBHrxoWEVf3pZF6AZmACLcBGAsYHQ/s16000/traidtionalarch.png)
 
+----------
+![digitalarch](https://1.bp.blogspot.com/-bNIz8f_dONs/YJ_YVP4jXXI/AAAAAAABiK8/lvsIML_fC60IDOh0qrU1yk-WrtEzpbt-QCLcBGAsYHQ/s16000/digitalarch.png)
+
 --------------
 --------------------
 
