@@ -71,6 +71,13 @@
 ---------
 ![business_architectur2](https://1.bp.blogspot.com/-mqGoMsCXeAk/YJb5L4BXZHI/AAAAAAABiFo/lN3ou-ulATMRkrNOzT2y6vOCiB4dC_pGQCLcBGAsYHQ/s1178/business_architectur2%2B%25281%2529.png)
 
+----------
+![vcT5ACLcBGAsYHQ](https://1.bp.blogspot.com/-W-_CHNwZZYM/YJb5qC6vXrI/AAAAAAABiGA/960_O-4mwiAyp0qPMf2RfhsjrYs-vcT5ACLcBGAsYHQ/s1596/metamodel_components%2B%25281%2529.png)
+
+----------
+![metamodel_examples](https://1.bp.blogspot.com/-HocEvxNe9Qs/YJb52meRm4I/AAAAAAABiGE/P6lUE4ArGR4-MOmr4CYKgbidbvJ0LWRsACLcBGAsYHQ/s1380/metamodel_examples%2B%25281%2529.png)
+
+
 --------------
 --------------------
 
