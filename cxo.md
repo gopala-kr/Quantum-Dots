@@ -1,5 +1,5 @@
 
-#### CEO
+## CEO
 
 - Strategic Vision: CEOs need the ability to envision the organisation's future and set clear strategic goals.
 - Decision-Making: Strong decision-making skills are crucial for CEOs to guide the company through challenges and opportunities.
@@ -9,7 +9,7 @@
 ![ceo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/ceo_office.png)
 
 -----------------
-#### CFO
+## CFO
 
 - Financial Acumen: CFOs require a deep understanding of financial analysis, reporting, and management.
 - Analytical Thinking: Strong analytical skills help CFOs evaluate financial data and make informed decisions.
@@ -29,7 +29,7 @@
 
 -----------------
 
-#### CMO
+## CMO
 
 - Marketing Strategy: CMOs must possess strategic thinking to develop effective marketing plans.
 - Creativity: Creativity is essential for devising innovative marketing campaigns that stand out in a competitive market.
@@ -40,7 +40,7 @@
 
 -------------
 
-#### CIO/CTO
+## CIO/CTO
 
 - Technology Expertise: CIOs and CTOs require deep knowledge of emerging technologies and IT trends.
 - Strategic Alignment: They need the ability to align technology initiatives with business objectives.
@@ -52,7 +52,7 @@
 - Emotional Intelligence: Strong emotional intelligence helps CHROs navigate complex interpersonal dynamics.
 - Talent Management: Skills in recruitment, talent development, and employee engagement are essential.
 
-#### COO
+## COO
 
 - Operational Efficiency: COOs need skills in process optimization, supply chain management, and logistics.
 - Project Management: Strong project management skills help COOs oversee complex initiatives.
@@ -62,27 +62,27 @@
 ![coo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/coo_office.png)
 
 ------------
-#### CSO/CISO
+## CSO/CISO
 
 - Cybersecurity Expertise: CSOs and CISOs must possess a deep understanding of cybersecurity frameworks and practices.
 - Risk Assessment: They need skills to assess vulnerabilities and potential threats to digital assets.
 - Crisis Management: Strong crisis management skills help them respond effectively to cyber incidents.
 
-#### CCO
+## CCO
 
 - Regulatory Knowledge: CCOs require a deep understanding of relevant regulations and compliance standards.
 - Ethical Judgement: The ability to make ethical decisions and ensure organisational integrity is crucial.
 - Communication: Effective communication is essential for conveying compliance requirements to employees and stakeholders.
 
-#### CDO
+## CDO
 
 - data management, ensuring data quality, and creating data strategy
 
-#### CPO
+## CPO
 
 - overseeing the product vision and strategy
 
-#### CAIO
+## CAIO
 
 ------------
 ---------------
@@ -125,6 +125,7 @@
 ![githubusercontent](https://camo.githubusercontent.com/77ba111f41afac4d3ccf7a2d090b00a03ae7a8317e27a1bed39b4cd4b58221cd/68747470733a2f2f7777772e6263732e6f72672f6d656469612f343533342f70726f636573732d766965772d6f662d656e74657270726973652d6172636869746563747572652d70726163746963652e6a7067)
 
 ---------
+
 ![business_architectur2](https://1.bp.blogspot.com/-mqGoMsCXeAk/YJb5L4BXZHI/AAAAAAABiFo/lN3ou-ulATMRkrNOzT2y6vOCiB4dC_pGQCLcBGAsYHQ/s1178/business_architectur2%2B%25281%2529.png)
 
 ----------
@@ -151,7 +152,6 @@
 
 ----------
 ![digital_analytics](https://1.bp.blogspot.com/-pmwUxdaog9A/YKCYPdlz0II/AAAAAAABiMk/PiaXaHwzYxsuUD-fSN2-3DhQwPQolRxUQCLcBGAsYHQ/s16000/digital_analytics.png)
-
 
 
 --------------
