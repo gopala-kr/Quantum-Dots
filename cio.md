@@ -63,11 +63,18 @@
 ---------------
 ![iflow62](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow62.PNG)
 
+
+----------
+![tech_wave41](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tech_wave41.png)
+
+-----
+![tech_wave42](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tech_wave42.png)
 ---------
 ![tom59](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/tom/tom59.png)
 
 ----------
 ![btp_roles](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
+
 
 --------------------------
 -----------------------
