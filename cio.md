@@ -81,7 +81,8 @@
 
 -----
 ![digital_architectureB](https://1.bp.blogspot.com/-_FneCD83jpo/YKCXwerIcKI/AAAAAAABiMQ/Xf171EdbM2symFmgObyxA-pVOrEXpM6JgCLcBGAsYHQ/s16000/digital_architectureB.png)
-
+-----------
+![traidtionalarch](https://1.bp.blogspot.com/-nn8ocOVdOnc/YJ_X2Fe6SqI/AAAAAAABiKs/dyU_uDk2lG4aXFxBHrxoWEVf3pZF6AZmACLcBGAsYHQ/s16000/traidtionalarch.png)
 
 --------------
 --------------------
