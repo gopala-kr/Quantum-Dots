@@ -21,6 +21,12 @@
 ------
 ![cfo_a](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/zmfa/cfo_a.png)
 
+-------
+![fi1071](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/zd/fi1071.png)
+
+--------
+![finance](https://github.com/gopala-kr/Quantum-Dots/raw/master/23-Future-of-ET/etres/Dgital/finance.PNG)
+
 -----------------
 
 #### CMO
@@ -94,14 +100,29 @@
 ----------
 ![btp_roles](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/btp_roles.PNG)
 
+---------
+![iflow58](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/zd/iflow58.PNG)
 
 --------------------------
 -----------------------
+
+
 ![7b172632110e4093a408bbeb9950d243](https://i.pinimg.com/originals/7b/17/26/7b172632110e4093a408bbeb9950d243.jpg)
 
 -------------
+![Dig_Org](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org.PNG)
+
+---------
+![Dig_Org1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/Dgital/Dig_Org1.PNG)
+
+----------
 ![Strategy-Map-Classic-Version](https://static.intrafocus.com/uploads/2021/03/Strategy-Map-Classic-Version.png)
 
+-------
+![Enterprise_Architecture](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
+
+----
+![githubusercontent](https://camo.githubusercontent.com/77ba111f41afac4d3ccf7a2d090b00a03ae7a8317e27a1bed39b4cd4b58221cd/68747470733a2f2f7777772e6263732e6f72672f6d656469612f343533342f70726f636573732d766965772d6f662d656e74657270726973652d6172636869746563747572652d70726163746963652e6a7067)
 
 ---------
 ![business_architectur2](https://1.bp.blogspot.com/-mqGoMsCXeAk/YJb5L4BXZHI/AAAAAAABiFo/lN3ou-ulATMRkrNOzT2y6vOCiB4dC_pGQCLcBGAsYHQ/s1178/business_architectur2%2B%25281%2529.png)
@@ -131,8 +152,7 @@
 ----------
 ![digital_analytics](https://1.bp.blogspot.com/-pmwUxdaog9A/YKCYPdlz0II/AAAAAAABiMk/PiaXaHwzYxsuUD-fSN2-3DhQwPQolRxUQCLcBGAsYHQ/s16000/digital_analytics.png)
 
--------
-![Enterprise_Architecture](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/23-Future-of-ET/etres/Enterprise_Architecture.PNG)
+
 
 --------------
 --------------------
