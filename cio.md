@@ -69,13 +69,7 @@
 
 
 ---------
-![The-balanced-scorecard-strategy-map-model](https://www.researchgate.net/profile/Lorenzo-Lucianetti/publication/264812593/figure/fig1/AS:510522156961792@1498729375488/The-balanced-scorecard-strategy-map-model.png)
-
----------
-![Integrated-Strategy-Map](https://static.intrafocus.com/uploads/2015/02/Integrated-Strategy-Map.jpg)
-
-----------
-![67668093e979f3d7ad0c286af29080f5](https://i.pinimg.com/originals/67/66/80/67668093e979f3d7ad0c286af29080f5.jpg)
+![business_architectur2](https://1.bp.blogspot.com/-mqGoMsCXeAk/YJb5L4BXZHI/AAAAAAABiFo/lN3ou-ulATMRkrNOzT2y6vOCiB4dC_pGQCLcBGAsYHQ/s1178/business_architectur2%2B%25281%2529.png)
 
 --------------
 --------------------
