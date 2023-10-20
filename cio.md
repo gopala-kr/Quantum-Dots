@@ -18,6 +18,9 @@
 -----------
 ![cfo_office](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/prcs/cfo_office.png)
 
+------
+![cfo_a](https://raw.githubusercontent.com/gopala-kr/Quantum-Dots/master/45-Verticals/verta/zmfa/cfo_a.png)
+
 -----------------
 
 #### CMO
