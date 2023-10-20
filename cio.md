@@ -79,6 +79,10 @@
 ----------
 ![archframeworkwidjaja_det](https://1.bp.blogspot.com/-0a_QLzGtVAk/XtsEdg7CUpI/AAAAAAABZjM/5H7A6Hk05Z0F7NNdyo-0EK7htQdw-3MJACK4BGAsYHg/s16000/archframeworkwidjaja_det.png)
 
+-----
+![digital_architectureB](https://1.bp.blogspot.com/-_FneCD83jpo/YKCXwerIcKI/AAAAAAABiMQ/Xf171EdbM2symFmgObyxA-pVOrEXpM6JgCLcBGAsYHQ/s16000/digital_architectureB.png)
+
+
 --------------
 --------------------
 
