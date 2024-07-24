@@ -6,10 +6,9 @@
 
 
 -----------------
-![1676505600](https://media-exp1.licdn.com/dms/image/C4E12AQFf-frPFsPMpg/article-inline_image-shrink_1000_1488/0/1627306259956?e=1676505600&v=beta&t=28m3GarHBMhEaWJ-Uv3hXQmG13cPKfwTaFBgXX9e-Es)
 -------------
-![2C_and_Accomplishment](https://upload.wikimedia.org/wikipedia/commons/c/c0/TEAF_Work_Products_for_EA_Direction%2C_Description%2C_and_Accomplishment.jpg)
 
+![2C_and_Accomplishment](https://upload.wikimedia.org/wikipedia/commons/c/c0/TEAF_Work_Products_for_EA_Direction%2C_Description%2C_and_Accomplishment.jpg)
 
 ----------------
 
@@ -19,3 +18,7 @@
 ![image](https://www.agilerising.com/wp-content/uploads/2021/06/image.png)
 
 ------------
+------------
+![image](https://github.com/user-attachments/assets/bab522eb-8575-4d7d-a456-d5ecd801a155)
+
+-----------
