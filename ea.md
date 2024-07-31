@@ -10,7 +10,7 @@
 - [Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 - [Kehoe 2018](https://hbr.org/2018/01/4-habits-of-people-who-are-always-learning-new-skills?)
 - [Enterprise Architecture on a Page](http://eaonapage.com/)
-
+- [Business Architecture and Capability Mapping to Build Agile and Scalable Solutions](https://www.youtube.com/watch?v=9Aal6rjEmrI)
 
 -----------------
 -------------
