@@ -1,5 +1,5 @@
 
-#### Strategy in Demand Managment:
+
 
 - [Demand management as a critical success factor in portfolio management](https://www.pmi.org/learning/library/demand-management-success-factor-portfolio-10189)
 - [The Demand Management Opportunity for OEMs](https://www.bcg.com/publications/2018/demand-management-opportunity-original-equipment-manufacturers)
