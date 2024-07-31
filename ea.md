@@ -9,7 +9,7 @@
 - [The Best Way to Master a New Skill? Try This Creative Approach.](https://hbr.org/2021/11/the-best-way-to-master-a-new-skill-try-this-creative-approach)
 - [Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 - [Kehoe 2018](https://hbr.org/2018/01/4-habits-of-people-who-are-always-learning-new-skills?)
-
+- [Enterprise Architecture on a Page](http://eaonapage.com/)
 
 
 -----------------
