@@ -7,6 +7,7 @@
 - [Leanix 2023 Skills, career paths, and roles of an Enterprise Architect](https://www.leanix.net/en/wiki/ea/enterprise-architect)
 - [Lifelong Learning for the Business Architecture Professional](https://www.architectureandgovernance.com/applications-technology/lifelong-learning-for-the-business-architecture-professional/)
 - [The Best Way to Master a New Skill? Try This Creative Approach.](https://hbr.org/2021/11/the-best-way-to-master-a-new-skill-try-this-creative-approach)
+- [https://hbr.org/2021/11/the-best-way-to-master-a-new-skill-try-this-creative-approach](https://www.youtube.com/watch?v=hhlxFtV_tZo)
 -----------------
 -------------
 
