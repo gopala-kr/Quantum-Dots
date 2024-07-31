@@ -4,7 +4,9 @@
 - [Demand management as a critical success factor in portfolio management](https://www.pmi.org/learning/library/demand-management-success-factor-portfolio-10189)
 - [The Demand Management Opportunity for OEMs](https://www.bcg.com/publications/2018/demand-management-opportunity-original-equipment-manufacturers)
 - [How Consultants Project Expertise and Learn at the Same Time](https://hbr.org/2018/07/how-consultants-project-expertise-and-learn-at-the-same-time)
+- [Leanix 2023 Skills, career paths, and roles of an Enterprise Architect](https://www.leanix.net/en/wiki/ea/enterprise-architect)
 
+- 
 -----------------
 -------------
 
