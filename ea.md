@@ -27,6 +27,7 @@
 
 -----------
 - [System Design Masterclass](https://www.udemy.com/course/system-design-masterclass/)
+- [Rocking System Design](https://www.udemy.com/course/rocking-system-design/)
 - [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
 - [Learn Software Architecture In-depth and Start Architecting](https://www.udemy.com/course/learn-software-architecture-in-depth/)
 - [Implementing Software Architecture of a Large-Scale System](https://www.udemy.com/course/implementing-software-architecture/)
