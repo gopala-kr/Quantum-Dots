@@ -23,6 +23,7 @@
 - [Enterprise Architecture Modeling Foundation with ArchiMate 3](https://www.udemy.com/course/archimate-3/)
 - [ArchiMate Cookbook in Action (Using Archi Tool)](https://www.udemy.com/course/archimate-cookbook/)
 - [Architecture design and modelling skills for IT Architects](https://www.udemy.com/course/architecture-design-and-modelling-skills-for-it-architects/)
+- [Enterprise Architecture Survival Guide](https://www.udemy.com/course/enterprise-architecture-survival-guide/)
 -----------------
 -------------
 
