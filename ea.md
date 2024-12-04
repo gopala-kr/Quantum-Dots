@@ -31,11 +31,15 @@
 - [Pragmatic System Design](https://www.udemy.com/course/pragmatic-system-design/)
 - [Master System Design and Design Pattern](https://www.udemy.com/course/system-design-and-design-pattern-course/)
 - [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
+- [Software Architecture Case Studies](https://www.udemy.com/course/software-architecture-case-studies/)
 - [Learn Software Architecture In-depth and Start Architecting](https://www.udemy.com/course/learn-software-architecture-in-depth/)
 - [Software Architecture & Technology of Large-Scale Systems](https://www.udemy.com/course/developer-to-architect/)
 - [Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/)
 - [Implementing Software Architecture of a Large-Scale System](https://www.udemy.com/course/implementing-software-architecture/)
 - [Software Architecture & System Design Practical Case Studies](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
+- [Microservices Architecture - The Complete Guide](https://www.udemy.com/course/microservices-architecture-the-complete-guide/)
+- [Event Driven Architecture - The Complete Guide](https://www.udemy.com/course/event-driven-architecture-the-complete-guide/)
+- [The Complete Cloud Computing Software Architecture Patterns](https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/)
 
 -----------------
 -------------
