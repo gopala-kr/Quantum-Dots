@@ -18,6 +18,7 @@
 - [The Practice of Enterprise Architecture (Part III)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-iii/)
 - [Modeling an Enterprise Architecture](https://www.udemy.com/course/modeling-an-enterprise-architecture-with-sparx)
 - [Enterprise Architecture Modeling Foundation with ArchiMate 3](https://www.udemy.com/course/archimate-3/)
+- [ArchiMate Cookbook in Action (Using Archi Tool)](https://www.udemy.com/course/archimate-cookbook/)
 -----------------
 -------------
 
