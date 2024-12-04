@@ -24,6 +24,9 @@
 - [ArchiMate Cookbook in Action (Using Archi Tool)](https://www.udemy.com/course/archimate-cookbook/)
 - [Architecture design and modelling skills for IT Architects](https://www.udemy.com/course/architecture-design-and-modelling-skills-for-it-architects/)
 - [Enterprise Architecture Survival Guide](https://www.udemy.com/course/enterprise-architecture-survival-guide/)
+
+-----------
+- [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
 -----------------
 -------------
 
