@@ -26,6 +26,7 @@
 - [Enterprise Architecture Survival Guide](https://www.udemy.com/course/enterprise-architecture-survival-guide/)
 
 -----------
+- [System Design Masterclass](https://www.udemy.com/course/system-design-masterclass/)
 - [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
 - [Learn Software Architecture In-depth and Start Architecting](https://www.udemy.com/course/learn-software-architecture-in-depth/)
 -----------------
