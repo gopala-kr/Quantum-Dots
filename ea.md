@@ -16,7 +16,7 @@
 - [The Practice of Enterprise Architecture (Part I)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-i/)
 - [The Practice of Enterprise Architecture (Part II)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-ii/)
 - [The Practice of Enterprise Architecture (Part III)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-iii/)
-
+- [Modeling an Enterprise Architecture](https://www.udemy.com/course/modeling-an-enterprise-architecture-with-sparx)
 -----------------
 -------------
 
