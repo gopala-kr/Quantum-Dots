@@ -12,6 +12,9 @@
 - [Enterprise Architecture on a Page](http://eaonapage.com/)
 - [Business Architecture and Capability Mapping to Build Agile and Scalable Solutions](https://www.youtube.com/watch?v=9Aal6rjEmrI)
 
+---------------------------
+- [The Practice of Enterprise Architecture (Part I)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-i/)
+
 -----------------
 -------------
 
