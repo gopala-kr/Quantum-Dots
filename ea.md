@@ -28,10 +28,12 @@
 -----------
 - [System Design Masterclass](https://www.udemy.com/course/system-design-masterclass/)
 - [Rocking System Design](https://www.udemy.com/course/rocking-system-design/)
+- [Pragmatic System Design](https://www.udemy.com/course/pragmatic-system-design/)
 - [Master System Design and Design Pattern](https://www.udemy.com/course/system-design-and-design-pattern-course/)
 - [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
 - [Learn Software Architecture In-depth and Start Architecting](https://www.udemy.com/course/learn-software-architecture-in-depth/)
 - [Implementing Software Architecture of a Large-Scale System](https://www.udemy.com/course/implementing-software-architecture/)
+- [Software Architecture & System Design Practical Case Studies](https://www.udemy.com/course/software-architecture-system-design-practical-case-studies/)
 
 -----------------
 -------------
