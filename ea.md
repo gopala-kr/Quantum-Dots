@@ -27,6 +27,7 @@
 
 -----------
 - [Mastering Solutions Architecture](https://www.udemy.com/course/mastering-solutions-architecture/)
+- [Learn Software Architecture In-depth and Start Architecting](https://www.udemy.com/course/learn-software-architecture-in-depth/)
 -----------------
 -------------
 
