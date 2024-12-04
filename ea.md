@@ -17,6 +17,7 @@
 - [The Practice of Enterprise Architecture (Part II)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-ii/)
 - [The Practice of Enterprise Architecture (Part III)](https://www.udemy.com/course/the-practice-of-enterprise-architecture-part-iii/)
 - [Training for TOGAF Enterprise Architecture Agile Specialist](https://www.udemy.com/course/togaf-10-enterprise-architecture-agile-specialist-badge/)
+- [Training TOGAF Enterprise Architecture Digital Specialist](https://www.udemy.com/course/training-togaf-enterprise-architecture-digital-specialist/)
 - [Training for TOGAF Enterprise Architecture Leader](https://www.udemy.com/course/togaf-10-enterprise-architecture-leader-badge/)
 - [Modeling an Enterprise Architecture](https://www.udemy.com/course/modeling-an-enterprise-architecture-with-sparx)
 - [Enterprise Architecture Modeling Foundation with ArchiMate 3](https://www.udemy.com/course/archimate-3/)
