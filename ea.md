@@ -51,16 +51,9 @@
 
 ![leffingwell3_fig02](https://ptgmedia.pearsoncmg.com/imprint_downloads/informit/IMAGES/leffingwell3_fig02.jpg)
 
------------
-![image](https://www.agilerising.com/wp-content/uploads/2021/06/image.png)
-
-------------
 ------------
 
 ![image](https://github.com/user-attachments/assets/44cb2b56-cffd-4092-8a7d-f4357afc69c7)
-
----------
-![image](https://github.com/user-attachments/assets/6d222da9-f74a-4812-9b93-2885bdd8d4a9)
 
 ------
 ![image](https://github.com/user-attachments/assets/4959de68-7b08-4502-b04a-ca96a19bd3ab)
@@ -135,6 +128,9 @@
 ----------
 ------------
 
+## Understanding Enterprise Architecture
+
+-------------
 
 ![image](https://github.com/user-attachments/assets/76235127-f609-49a4-8e75-714e0d483454)
 
@@ -262,6 +258,9 @@
 
 -----------------------
 -----------------
+## Conducting Preliminary Phase
+
+-----------
 
 ![image](https://github.com/user-attachments/assets/809463b5-781e-44f9-b0ca-5e11c5bf64eb)
 
@@ -332,6 +331,9 @@
 
 ----------
 --------------------
+
+## Articulating the Architecture Vision
+------------
 
 ![image](https://github.com/user-attachments/assets/83b16a6d-e5d9-4b13-b860-90b4c35b7509)
 
@@ -507,6 +509,9 @@
 
 ---------
 ----------------
+## Business Architecture
+
+-----------
 
 ![image](https://github.com/user-attachments/assets/c2391201-d453-449d-8c13-fdf965c2b7f3)
 
@@ -601,6 +606,11 @@
 
 -----------------
 --------------
+
+## Application and Data Architecture
+
+--------------
+
 ![IEA10_Unit5_L1_001](https://learning.sap.com/service/media/topic/b360376c-26ba-493c-92f7-fdb9d35adf2d/IEA10_11_en-US_media/IEA10_11_en-US_images/IEA10_Unit5_L1_001.png)
 
 -------------
@@ -780,7 +790,7 @@
 
 --------------------
 -------------
-### Technology Architecture
+## Technology Architecture
 
 ------------
 
@@ -894,121 +904,110 @@
 -------------
 -----------------
 
+## Opportunities and Solution
 
-![]()
+---------------
 
--------------
-![]()
-
--------------
-![]()
+![U7_Opport_and_Sols_003](https://learning.sap.com/service/media/topic/b63f6798-2f0b-49f7-a950-260363f0d723/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Opport_and_Sols_003.png)
 
 -------------
-![]()
+![U7_Opport_and_Sols_004](https://learning.sap.com/service/media/topic/b63f6798-2f0b-49f7-a950-260363f0d723/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Opport_and_Sols_004.png)
 
 -------------
-![]()
+![U7_Roadmaps_001](https://learning.sap.com/service/media/topic/b90aeef1-201a-4e70-85dd-fddf433401ca/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmaps_001.png)
 
 -------------
-![]()
+![U7_Roadmaps_002](https://learning.sap.com/service/media/topic/b90aeef1-201a-4e70-85dd-fddf433401ca/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmaps_002.png)
 
 -------------
-![]()
+![U7_Roadmap_Str_Elements_001](https://learning.sap.com/service/media/topic/c09ce270-ba2e-4186-a97a-bcdad10b8323/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmap_Str_Elements_001.png)
 
 -------------
-![]()
+![U7_Roadmap_Str_Elements_002](https://learning.sap.com/service/media/topic/c09ce270-ba2e-4186-a97a-bcdad10b8323/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmap_Str_Elements_002.png)
 
 -------------
-![]()
+![U7_Roadmap_Str_Elements_003](https://learning.sap.com/service/media/topic/c09ce270-ba2e-4186-a97a-bcdad10b8323/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmap_Str_Elements_003.png)
 
 -------------
-![]()
+![U7_Roadmap_Str_Elements_004](https://learning.sap.com/service/media/topic/c09ce270-ba2e-4186-a97a-bcdad10b8323/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmap_Str_Elements_004.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_001](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_001.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_002](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_002.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_003](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_003.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_004](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_004.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_005](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_005.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_006](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_006.png)
 
 -------------
-![]()
+![U7_Init_Cat_and_Prior_Matrix_007](https://learning.sap.com/service/media/topic/dec6f90d-46f8-46f4-b88c-f9fcf3334ac1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Init_Cat_and_Prior_Matrix_007.png)
 
 -------------
-![]()
+![U7_Bus_Arch_Roadmap_001](https://learning.sap.com/service/media/topic/bf1d87f2-2804-4880-96d7-56a97474de5f/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Bus_Arch_Roadmap_001.png)
 
 -------------
-![]()
+![U7_Bus_Arch_Roadmap_002](https://learning.sap.com/service/media/topic/bf1d87f2-2804-4880-96d7-56a97474de5f/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Bus_Arch_Roadmap_002.png)
 
 -------------
-![]()
+![U7_Bus_Arch_Roadmap_003](https://learning.sap.com/service/media/topic/bf1d87f2-2804-4880-96d7-56a97474de5f/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Bus_Arch_Roadmap_003.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_001](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_001.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_002](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_002.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_003](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_003.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_004](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_004.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_005](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_005.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_006](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_006.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_007](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_007.png)
 
 -------------
-![]()
+![App_Arch_Roadmap_008](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/App_Arch_Roadmap_008.png)
 
 -------------
-![]()
+![U7_Roadmapping_001](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmapping_001.png)
 
 -------------
-![]()
+![U7_Roadmapping_002](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmapping_002.png)
 
 -------------
-![]()
+![U7_Roadmapping_004](https://learning.sap.com/service/media/topic/b458fb77-5135-4180-9b2e-80ea2d4619c1/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Roadmapping_004.png)
 
 -------------
-![]()
+![U7_Work_Break_Structrure_001](https://learning.sap.com/service/media/topic/fb8ab5d6-fa29-4d4e-ab71-e2fd7aa2dce3/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Work_Break_Structrure_001.png)
 
 -------------
-![]()
+![U7_Work_Break_Structrure_002](https://learning.sap.com/service/media/topic/fb8ab5d6-fa29-4d4e-ab71-e2fd7aa2dce3/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Work_Break_Structrure_002.png)
 
 -------------
-![]()
+![U7_Work_Break_Structrure_003](https://learning.sap.com/service/media/topic/fb8ab5d6-fa29-4d4e-ab71-e2fd7aa2dce3/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Work_Break_Structrure_003.png)
 
 -------------
-![]()
-
--------------
-![]()
-
--------------
-![]()
-
--------------
-![]()
+![U7_Work_Break_Structrure_004](https://learning.sap.com/service/media/topic/fb8ab5d6-fa29-4d4e-ab71-e2fd7aa2dce3/IEA10_11_en-US_media/IEA10_11_en-US_images/U7_Work_Break_Structrure_004.png)
 
 
+------------------
 -------------
 
 
